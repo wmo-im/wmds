@@ -317,8 +317,39 @@ function initPage(src)
 	}
 	else
 	{
+    var parTree = curPage.substr(0, curPage.lastIndexOf('/')).substr(curPage.indexOf('/') + 1).replace(/EA/g, "").replace(/\//g, ".");
+    if (parTree)
+    {
+      if (parTree.indexOf('0') != 0) parTree = "0." + parTree;
+      parTree = parTree.split('.');
+      var tocTmp;
+
+      for (var j = 0; parTree.length > j; j++) 
+      {
+        if (j >= 1)
+          tocTmp += "." + parTree[j];
+        else 
+          tocTmp = parTree[j];
+
+        if (toc.document.getElementById('toc' + tocTmp) == null) 
+        {
+          setTimeout("initPage('" + src + "')", "1");
+          return;
+        }
+
+        var tmpCurToc = toc.document.getElementById('toc' + tocTmp).parentNode.childNodes;
+        toc.tocMemToc = parTree.length - j;
+
+        if (tmpCurToc.length > 3 && tmpCurToc[tmpCurToc.length - 4].src.substring(tmpCurToc[tmpCurToc.length - 4].src.lastIndexOf('images')).indexOf('plus') != -1) 
+        {
+          toc.tocClick(tmpCurToc[tmpCurToc.length - 4]);
+        }
+      }
+    }
+
 		if (toc.document.getElementById(curPage) == null)
 		{
+      setTimeout("initPage('"+src+"')","1");
 			return;
 		}
 

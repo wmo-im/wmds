@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wmdr:WIGOSMetadataRecord xmlns:wmdr="http://def.wmo.int/wmdr/2017" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:om="http://www.opengis.net/om/2.0" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:sam="http://www.opengis.net/sampling/2.0" xmlns:sams="http://www.opengis.net/samplingSpatial/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" gml:id="id1" xsi:schemaLocation="http://def.wmo.int/wmdr/2017 file:///C:/svn/wmdr/branches/development/xsd/wmdr.xsd">
+	<wmdr:headerInformation owns="false">
+		<wmdr:Header/>
+	</wmdr:headerInformation>
+	<wmdr:facility>
+		<wmdr:ObservingFacility gml:id="_0-20008-0-JFJ">
+			<gml:description>The high alpine research station Jungfraujoch is situated on a mountain saddle between the two mountains Jungfrau (4158m asl) and Mönch (4099m asl). The station is located in the center of Europe at an altitude of 3580m asl and is surrounded by highly industrialized regions at much lower altitudes. This special geographical situation offers the opportunity to monitor background concentrations but also to investigate the transport of anthropogenic pollutants from the boundary layer to the free troposphere.</gml:description>
+			<gml:identifier codeSpace="http://wigos.wmo.int">http://wigos.wmo.int/0/20008/0/JFJ</gml:identifier>
+			<gml:name>Jungfraujoch</gml:name>
+			<wmdr:responsibleParty>
+				<gmd:CI_ResponsibleParty>
+					<gmd:individualName>
+						<gco:CharacterString>Leuenberger, Markus, Prof. Dr.</gco:CharacterString>
+					</gmd:individualName>
+					<gmd:organisationName>
+						<gco:CharacterString>U Bern</gco:CharacterString>
+					</gmd:organisationName>
+					<gmd:contactInfo>
+						<gmd:CI_Contact>
+							<gmd:phone>
+								<gmd:CI_Telephone>
+									<gmd:voice>
+										<gco:CharacterString>+41 31 631 44 70</gco:CharacterString>
+									</gmd:voice>
+								</gmd:CI_Telephone>
+							</gmd:phone>
+							<gmd:address>
+								<gmd:CI_Address>
+									<gmd:deliveryPoint>
+										<gco:CharacterString>Physics Institute 
+Climate and Environmental Physics
+Sidlerstrasse 5</gco:CharacterString>
+									</gmd:deliveryPoint>
+									<gmd:city>
+										<gco:CharacterString>Bern</gco:CharacterString>
+									</gmd:city>
+									<gmd:administrativeArea>
+										<gco:CharacterString></gco:CharacterString>
+									</gmd:administrativeArea>
+									<gmd:postalCode>
+										<gco:CharacterString>3012</gco:CharacterString>
+									</gmd:postalCode>
+									<gmd:country>
+										<gco:CharacterString>CHE</gco:CharacterString>
+									</gmd:country>
+									<gmd:electronicMailAddress>
+										<gco:CharacterString>leuenberger@climate.unibe.ch</gco:CharacterString></gmd:electronicMailAddress>
+								</gmd:CI_Address>
+							</gmd:address>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists#CI_RoleCode" codeListValue="pointOfContact"/>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</wmdr:responsibleParty>
+			<wmdr:geospatialLocation>
+				<!--[[STATION_LOCATIONS]]-->
+				<wmdr:TimestampedLocation>
+					<wmdr:validTimePeriod>
+						<gml:TimePeriod gml:id="tp1">
+							<gml:beginPosition>2011-11-21</gml:beginPosition>
+							<gml:endPosition></gml:endPosition>
+						</gml:TimePeriod>
+					</wmdr:validTimePeriod>
+					<wmdr:location>
+						<gml:Point gml:id="p1">
+							<gml:pos>46.5474891663 7.9850897789 3580</gml:pos>
+						</gml:Point>
+					</wmdr:location>
+				</wmdr:TimestampedLocation>
+			</wmdr:geospatialLocation>
+			<wmdr:geopositioningMethod xlink:href="http://codes.wmo.int/wmdr/GeopositioningMethod/gps"/>
+			<wmdr:descriptionValidPeriod></wmdr:descriptionValidPeriod>
+			<wmdr:onlineResource>
+				<gmd:CI_OnlineResource>
+					<gmd:linkage>
+						<gmd:URL>www.ifjungo.ch</gmd:URL>
+					</gmd:linkage>
+				</gmd:CI_OnlineResource>
+			</wmdr:onlineResource>			
+			<wmdr:dateEstablished>1957-09-28</wmdr:dateEstablished>
+			<wmdr:territoryName xlink:href="http://codes.wmo.int/wmdr/TerritoryName/_CHE"/>
+			<wmdr:territoryNameValidPeriod>
+				<gml:TimePeriod gml:id="id3">
+					<gml:beginPosition>1957-09-28T00:00:00</gml:beginPosition>
+					<gml:endPosition></gml:endPosition>
+				</gml:TimePeriod>
+			</wmdr:territoryNameValidPeriod>			
+			<wmdr:wmoRegion xlink:href="http://codes.wmo.int/wmdr/WMORegion/_europe"/>
+			<wmdr:belongsToSet/>
+			<wmdr:facilityType xlink:href="http://codes.wmo.int/wmdr/FacilityType/landFixed"/>			
+		</wmdr:ObservingFacility>
+	</wmdr:facility>
+</wmdr:WIGOSMetadataRecord>
