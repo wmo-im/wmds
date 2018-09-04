@@ -1,0 +1,14 @@
+tocTab[tocTab.length] = new Array("0.1:1", "", "Manual On Codes Text", "EARoot/EA1/EA48.htm", "188.png", "12566", "0", "", "Custom diagram0","{3D9809DB-190D-4e7c-A4F1-F4C854553E9F}");
+tocTab[tocTab.length] = new Array("0.1:2", "", "«model document» xml-rules", "EARoot/EA1/EA52.htm", "5.png", "E30762", "0", "", "Class0","{1C0648AE-9D19-4eed-BE8B-A57A47823C9B}");
+tocTab[tocTab.length] = new Array("0.1:3", "", "«model document» time-encoding", "EARoot/EA1/EA53.htm", "5.png", "E30765", "0", "", "Class0","{536B8974-0369-4a6b-AD5A-487D2784ED85}");
+tocTab[tocTab.length] = new Array("0.1:4", "", "«model document» metadata-record", "EARoot/EA1/EA54.htm", "5.png", "E30770", "0", "", "Class0","{AFAA1BD2-F5E6-42bb-83DF-421A84282EF6}");
+tocTab[tocTab.length] = new Array("0.1:5", "", "«model document» observing-facility", "EARoot/EA1/EA55.htm", "5.png", "E30769", "0", "", "Class0","{AEBBFCA1-5AE5-4524-858D-02EE375876D6}");
+tocTab[tocTab.length] = new Array("0.1:6", "", "«model document» facility-log", "EARoot/EA1/EA56.htm", "5.png", "E30763", "0", "", "Class0","{1D1CC03E-38BA-4f86-81F7-EF7BAB638837}");
+tocTab[tocTab.length] = new Array("0.1:7", "", "«model document» equipment", "EARoot/EA1/EA57.htm", "5.png", "E30772", "0", "", "Class0","{CD995EB8-2769-485e-ADA2-D3A92A05BC94}");
+tocTab[tocTab.length] = new Array("0.1:8", "", "«model document» equipment-log", "EARoot/EA1/EA58.htm", "5.png", "E30761", "0", "", "Class0","{067E5A43-767E-47bb-B50E-F8F6BACA0112}");
+tocTab[tocTab.length] = new Array("0.1:9", "", "«model document» observation", "EARoot/EA1/EA59.htm", "5.png", "E30767", "0", "", "Class0","{66FC5E76-3CDB-4b8f-B1EB-9FEDBBF63976}");
+tocTab[tocTab.length] = new Array("0.1:10", "", "«model document» deployment", "EARoot/EA1/EA60.htm", "5.png", "E30774", "0", "", "Class0","{FDB7E46B-9BB8-4269-AA9A-6001B9AC9E89}");
+tocTab[tocTab.length] = new Array("0.1:11", "", "«model document» process", "EARoot/EA1/EA61.htm", "5.png", "E30773", "0", "", "Class0","{E2C45DEC-A07F-45e2-887C-8770FD968C61}");
+tocTab[tocTab.length] = new Array("0.1:12", "", "«model document» sampling", "EARoot/EA1/EA62.htm", "5.png", "E30766", "0", "", "Class0","{5B2ABC53-9F51-4800-8BA9-832D75014AB3}");
+tocTab[tocTab.length] = new Array("0.1:13", "", "«model document» processing", "EARoot/EA1/EA63.htm", "5.png", "E30768", "0", "", "Class0","{76EB8E39-BA54-4831-9319-4FE6E8A55704}");
+tocTab[tocTab.length] = new Array("0.1:14", "", "«model document» reporting", "EARoot/EA1/EA64.htm", "5.png", "E30771", "0", "", "Class0","{B93311C3-96E9-46f3-8858-AC72976A1781}");

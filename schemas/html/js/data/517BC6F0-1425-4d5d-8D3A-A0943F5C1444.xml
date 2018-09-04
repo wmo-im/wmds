@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "«Requirement» valid-local-references", "EARoot/EA2/EA1/EA82.htm", "19.png", "E30788", "0", "", "Requirement0","{37D346AC-8B65-4f52-8525-A8EB8F9876E4}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "«Requirement» well-formed", "EARoot/EA2/EA1/EA83.htm", "19.png", "E30789", "0", "", "Requirement0","{9F0ACD50-8E08-46ce-82FF-416BC81C1CDA}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "«Requirement» xsd-valid", "EARoot/EA2/EA1/EA84.htm", "19.png", "E30790", "0", "", "Requirement0","{D339F88A-DD49-40c0-BE07-4132CF203581}");

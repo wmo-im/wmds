@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wmdr:WIGOSMetadataRecord xmlns:wmdr="http://def.wmo.int/wmdr/2017"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd"
+	xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:om="http://www.opengis.net/om/2.0"
+	xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:sam="http://www.opengis.net/sampling/2.0"
+	xmlns:sams="http://www.opengis.net/samplingSpatial/2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://def.wmo.int/wmdr/2017 ../xsd/wmdr.xsd"
+	gml:id="wmr1">
+	<gml:description>This is an example WIGOS record. It contains several object types and covers the elements required for Phase 1</gml:description>
+	<gml:identifier codeSpace="http://wigos.wmo.int">http://wigos.wmo.int/a-b-c-d</gml:identifier>
+	<gml:name>Example metadata record</gml:name>
+	<wmdr:headerInformation>
+		<wmdr:Header>
+			<!-- this is the date this file was last updated -->
+			<wmdr:fileDateTime>2017-01-01T00:00:00Z</wmdr:fileDateTime>
+			<!-- this is the owner/creator of the record -->
+			<wmdr:recordOwner>
+				<gmd:CI_ResponsibleParty>
+					<gmd:organisationName>
+						<gco:CharacterString>Name of organisation goes here</gco:CharacterString>
+					</gmd:organisationName>
+					<gmd:contactInfo>
+						<gmd:CI_Contact>
+							<gmd:phone>
+								<gmd:CI_Telephone>
+									<gmd:voice>
+										<gco:CharacterString>001122334455</gco:CharacterString>
+									</gmd:voice>
+								</gmd:CI_Telephone>
+							</gmd:phone>
+							<gmd:address>
+								<gmd:CI_Address>
+									<gmd:deliveryPoint>
+										<gco:CharacterString>123 a street</gco:CharacterString>
+									</gmd:deliveryPoint>
+									<gmd:city>
+										<gco:CharacterString>A City</gco:CharacterString>
+									</gmd:city>
+									<gmd:administrativeArea>
+										<gco:CharacterString>ABC County</gco:CharacterString>
+									</gmd:administrativeArea>
+									<gmd:postalCode>
+										<gco:CharacterString>ABC 123</gco:CharacterString>
+									</gmd:postalCode>
+									<gmd:country>
+										<gco:CharacterString>countryX</gco:CharacterString>
+									</gmd:country>
+									<gmd:electronicMailAddress>
+										<gco:CharacterString>abc123@abc123etc.com</gco:CharacterString>
+									</gmd:electronicMailAddress>
+								</gmd:CI_Address>
+							</gmd:address>
+							<gmd:onlineResource>
+								<gmd:CI_OnlineResource>
+									<gmd:linkage>
+										<gmd:URL>http://url.to.org</gmd:URL>
+									</gmd:linkage>
+								</gmd:CI_OnlineResource>
+							</gmd:onlineResource>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists#CI_RoleCode"
+							codeListValue="custodian"/>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</wmdr:recordOwner>
+		</wmdr:Header>
+	</wmdr:headerInformation>
+
+	<wmdr:facility>
+		<!-- this is a definition of an Observing Facility (e.g. a weather station) -->
+		<wmdr:ObservingFacility gml:id="observingFacility1">
+			<!-- every facility has an identfier, a name and a description (optional)-->
+			<!-- 3-06 station/platform unique identifier -->
+			<gml:description>Source of Melbourne weather observations</gml:description>
+			<gml:identifier codeSpace="http://wigos.wmo.int">http://wigos.wmo.int/a-b-c-d</gml:identifier>
+			<!-- 3.03 station/platform name -->
+			<gml:name>MELBOURNE (OLYMPIC PARK)</gml:name>
+			<!-- further detail may be provided under Additional Description -->
+			<wmdr:additionalDescription>Melbourne (Olympic Park) opened in November 2013 and has since superseded Melbourne La Trobe Street observation station which closed in January 2015</wmdr:additionalDescription>
+			<wmdr:onlineResource>
+				<gmd:CI_OnlineResource>
+					<gmd:linkage>
+						<gmd:URL>http://www.bom.gov.au/vic/observations/melbournemap.shtml</gmd:URL>
+					</gmd:linkage>
+				</gmd:CI_OnlineResource>
+			</wmdr:onlineResource>
+			<!-- 3-07 geospatial location and positioning method -->
+			<wmdr:geospatialLocation>
+				<wmdr:TimestampedLocation>
+					<wmdr:validTimePeriod>
+						<gml:TimePeriod gml:id="vtp1">
+							<gml:beginPosition>2013-11-01T00:00:00Z</gml:beginPosition>
+							<gml:endPosition/>
+						</gml:TimePeriod>
+					</wmdr:validTimePeriod>
+					<wmdr:location>
+						<gml:Point gml:id="p1">
+							<gml:pos srsName="http://www.opengis.net/def/crs/EPSG/0/4979">-37.8255 144.9816 7.53</gml:pos>
+						</gml:Point>
+					</wmdr:location>
+				</wmdr:TimestampedLocation>
+			</wmdr:geospatialLocation>
+			<wmdr:geopositioningMethod xlink:href="http://codes.wmo.int/common/wmdr/GeopositioningMethod/VOCABULARYTERM"/>
+			<wmdr:responsibleParty>
+				<!-- details of the organisation responsible for the facility -->
+				<gmd:CI_ResponsibleParty>
+					<gmd:organisationName/>
+					<gmd:contactInfo>
+						<gmd:CI_Contact>
+							<gmd:phone/>
+							<gmd:address/>
+							<gmd:onlineResource/>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists#CI_RoleCode"
+							codeListValue="custodian"/>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</wmdr:responsibleParty>
+			<!-- 3-01 region of origin -->
+			<wmdr:wmoRegion xlink:href="http://codes.wmo.int/common/wmdr/WMORegion/VOCABULARYTERM"/>
+			<!-- 3-02 territory of origin -->
+			<wmdr:territoryName xlink:href="http://codes.wmo.int/common/wmdr/TerritoryName/VOCABULARYTERM"/>
+			<wmdr:programAffiliation xlink:href="http://codes.wmo.int/common/wmdr/ProgramAffiliation/VOCABULARYTERM"/>
+			<!-- 3-09 Station Status -->
+			<wmdr:reportingStatus xlink:href="http://codes.wmo.int/common/wmdr/ReportingStatus/VOCABULARYTERM"/>
+			<wmdr:belongsToSet/>
+			<wmdr:facilityType xlink:href="http://codes.wmo.int/common/wmdr/FacilityType/VOCABULARYTERM"/>
+			<wmdr:altitudeOrDepth xlink:href="http://codes.wmo.int/common/wmdr/AltitudeOrDepth/VOCABULARYTERM"/>
+			<wmdr:localTopography xlink:href="http://codes.wmo.int/common/wmdr/LocalTopography/VOCABULARYTERM"/>
+			<wmdr:relativeElevation xlink:href="http://codes.wmo.int/common/wmdr/RelativeElevation/VOCABULARYTERM"/>
+			<!-- note there are several WMO vocabularies for surfaceCover; IGBP, UMD, LAI/fPAR, NPP, PFT, LCCS that can be used
+			this example shows the UMD vocabulary -->
+			<wmdr:surfaceCover xlink:href="http://codes.wmo.int/common/wmdr/SurfaceCoverIGBP/VOCABULARYTERM"/>
+			<wmdr:surfaceCoverClassification xlink:href="http://codes.wmo.int/common/wmdr/SurfaceCoverClassification/VOCABULARYTERM"/>
+			<wmdr:topographicContext xlink:href="http://codes.wmo.int/common/wmdr/TopographicContext/VOCABULARYTERM"/> 
+			<wmdr:facilityLog>
+				<!-- the log for the facility can have any number of entries (Event Reports) to record information about the facility - note, detailed information about equipment at the facilty is recorded against Equipment -->
+				<wmdr:FacilityLog gml:id="f1">
+					<wmdr:logEntry>
+						<wmdr:EventReport>
+							<wmdr:datetime>2015-10-01T00:00:00Z</wmdr:datetime>
+							<wmdr:author>Author name</wmdr:author>
+							<wmdr:description>describe event</wmdr:description>
+							<wmdr:typeOfEvent xlink:href="http://codes.wmo.int/common/wmdr/EventType/VOCABULARYTERM"/>
+						</wmdr:EventReport>
+					</wmdr:logEntry>
+					<wmdr:logEntry>
+						<wmdr:EventReport>
+							<wmdr:datetime>2013-01-10T00:00:00Z</wmdr:datetime>
+							<wmdr:author>Author name</wmdr:author>
+							<wmdr:description>describe event</wmdr:description>
+							<wmdr:typeOfEvent xlink:href="http://codes.wmo.int/common/wmdr/EventType/VOCABULARYTERM"/>
+						</wmdr:EventReport>
+					</wmdr:logEntry>
+					<wmdr:facility xlink:href="#observingfacility1"/>
+				</wmdr:FacilityLog>
+			</wmdr:facilityLog>
+			<wmdr:hostedEquipment/>
+		</wmdr:ObservingFacility>
+	</wmdr:facility>
+	<wmdr:equipment>
+		<!-- this is a definition of an Equipment (e.g. a thermometer) -->
+		<wmdr:Equipment gml:id="eq1">
+			<gml:description>A short description of the instrument</gml:description>
+			<gml:identifier codeSpace="http://wigos.wmo.int">http://wigos.wmo.int/a-b-c-d</gml:identifier>
+			<gml:name>My Equipment e.g. an instrument</gml:name>
+			<wmdr:additionalDescription>More descriptive information about the instrument</wmdr:additionalDescription>
+			<wmdr:onlineResource>
+				<gmd:CI_OnlineResource>
+					<gmd:linkage>
+						<gmd:URL>link to an online reference or document about the instrument or instrument type</gmd:URL>
+					</gmd:linkage>
+				</gmd:CI_OnlineResource>
+			</wmdr:onlineResource>
+			<!-- geospatial location of the equipment, along with a spatial reference system. EPSG 4979 is global latitude (degrees), longitude (degrees), height (metres) -->
+			<wmdr:geospatialLocation>
+				<wmdr:TimestampedLocation>
+					<wmdr:validTimePeriod>
+						<gml:TimePeriod gml:id="vtp2">
+							<gml:beginPosition>2013-11-01T00:00:00Z</gml:beginPosition>
+							<gml:endPosition/>
+						</gml:TimePeriod>
+					</wmdr:validTimePeriod>
+					<wmdr:location>
+						<gml:Point gml:id="p2">
+							<gml:pos srsName="http://www.opengis.net/def/crs/EPSG/0/4979">-37.8255 144.9816 7.53</gml:pos>
+						</gml:Point>
+					</wmdr:location>
+				</wmdr:TimestampedLocation>
+			</wmdr:geospatialLocation>
+			<wmdr:geopositioningMethod xlink:href="http://codes.wmo.int/common/wmdr/GeopositioningMethod/VOCABULARYTERM"/>
+			<!-- from codelist? -->
+			<wmdr:responsibleParty>
+				<gmd:CI_ResponsibleParty>
+					<gmd:organisationName/>
+					<gmd:contactInfo>
+						<gmd:CI_Contact>
+							<gmd:phone/>
+							<gmd:address/>
+							<gmd:onlineResource/>
+						</gmd:CI_Contact>
+					</gmd:contactInfo>
+					<gmd:role>
+						<gmd:CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists#CI_RoleCode"
+							codeListValue="custodian"/>
+					</gmd:role>
+				</gmd:CI_ResponsibleParty>
+			</wmdr:responsibleParty>
+			<!-- 5-02 measurement/observing method -->
+			<wmdr:observingMethod xlink:href="http://codes.wmo.int/common/wmdr/ObservingMethod/VOCABULARYTERM"/>
+			<!-- 5-03 Instrument specifications (instrument capability and specification link)-->
+			<wmdr:equipmentLog>
+				<wmdr:EquipmentLog gml:id="elog1">
+					<!-- the EquipmentLog may contain ControlCheckReports (e.g. calibration check) or Maintenance Reports (e.g. repair). Any number of these log entries may be provided. -->
+					<wmdr:logEntry>
+						<wmdr:MaintenanceReport>
+							<wmdr:datetime>2014-11-03T12:45:00Z</wmdr:datetime>
+							<wmdr:author>Author name</wmdr:author>
+							<wmdr:description>describe event</wmdr:description>
+							<wmdr:maintenanceParty>
+								<gmd:CI_ResponsibleParty>
+									<gmd:role/>
+								</gmd:CI_ResponsibleParty>
+							</wmdr:maintenanceParty>
+						</wmdr:MaintenanceReport>
+					</wmdr:logEntry>
+					<wmdr:logEntry>
+						<wmdr:ControlCheckReport>
+							<wmdr:datetime>2015-11-06T10:10:00Z</wmdr:datetime>
+							<wmdr:author>Author name</wmdr:author>
+							<wmdr:description>describe event</wmdr:description>
+						</wmdr:ControlCheckReport>
+					</wmdr:logEntry>
+					<wmdr:equipment xlink:href="#eq1"/>
+				</wmdr:EquipmentLog>
+			</wmdr:equipmentLog>
+		</wmdr:Equipment>
+	</wmdr:equipment>
+	<wmdr:observation>
+		<!-- this is a definition of an Observation made using deployed Equipment at an ObservingFacility -->
+		<om:OM_Observation gml:id="obs1">
+			<gml:identifier codeSpace="wigos.wmo.int">http://wigos.wmo.int/a-b-c-d</gml:identifier>
+			<!-- 1-03 the temporal extent of a series of observations is described in om:phenomenonTime -->
+			<om:metadata>
+				<!-- link to MD_Metadata record -->
+			</om:metadata>
+			<om:phenomenonTime>
+				<gml:TimePeriod gml:id="t2">
+					<gml:beginPosition/>
+					<gml:endPosition/>
+				</gml:TimePeriod>
+			</om:phenomenonTime>
+			<om:resultTime/>
+			<om:validTime/>
+			<om:procedure>
+				<!-- Process contains the deployment, sampling, processing and reporting -->
+				<wmdr:Process gml:id="proc1">
+					<wmdr:deployment>
+						<wmdr:Deployment gml:id="dep1">
+							<!-- time period this deployment describes -->
+							<wmdr:validPeriod/>
+							<!-- 5-05 Vertical distance of sensor (heightAboveLocalReferenceSurface & referenceSurfaceDescription-->
+							<wmdr:heightAboveLocalReferenceSurface uom="http://codes.wmo.int/common/unit/VOCABULARYTERM">2.0</wmdr:heightAboveLocalReferenceSurface>
+							<wmdr:localReferenceSurface xlink:href="http://codes.wmo.int/common/wmdr/LocalReferenceSurfaceType/VOCABULARYTERM"/>
+							<wmdr:applicationArea xlink:href="http://codes.wmo.int/common/wmdr/ApplicationArea/VOCABULARYTERM"/>
+							<wmdr:sourceOfObservation xlink:href="http://codes.wmo.int/common/wmdr/SourceOfObservation/VOCABULARYTERM"/>
+							<wmdr:communicationMethod xlink:href="http://codes.wmo.int/common/wmdr/DataCommunicationMethod/VOCABULARYTERM"/>
+							<wmdr:exposure xlink:href="http://codes.wmo.int/common/wmdr/Exposure/VOCABULARYTERM"/> 
+							<wmdr:representativeness xlink:href="http://codes.wmo.int/common/wmdr/Representativeness/VOCABULARYTERM"/>
+							<wmdr:configuration/>
+							<wmdr:maintenanceSchedule/>
+							<wmdr:controlSchedule/>
+							<wmdr:instrumentOperatingStatus xlink:href="http://codes.wmo.int/common/wmdr/InstrumentOperatingStatus/VOCABULARYTERM"/>
+							<!-- Equipment (instrument, sensor) used during this deployment -->
+							<wmdr:deployedEquipment xlink:href="#eq1"/>
+							<!-- Facility (station) where this deployment is -->
+							<wmdr:deployedAt xlink:href="#observingFacility1"/>
+							<wmdr:sampling>
+								<wmdr:Sampling>
+									<!-- time period this Sampling section describes -->
+									<wmdr:validPeriod/>
+									<!-- 6-03 sampling strategy -->
+									<wmdr:samplingStrategy xlink:href="http://codes.wmo.int/common/wmdr/SamplingStrategy/VOCABULARYTERM"/>
+									<!-- uses xsd:time format -->
+									<wmdr:diurnalBaseTime>00:00:00Z</wmdr:diurnalBaseTime>
+									<wmdr:scheduleOfObservation>
+										<wmdr:Schedule>
+											<wmdr:startMonth>1</wmdr:startMonth>
+											<wmdr:endMonth>12</wmdr:endMonth>
+											<wmdr:startWeekday>1</wmdr:startWeekday>
+											<wmdr:endWeekday>7</wmdr:endWeekday>
+											<wmdr:startHour>00</wmdr:startHour>
+											<wmdr:endHour>23</wmdr:endHour>
+											<wmdr:startMinute>00</wmdr:startMinute>
+											<wmdr:endMinute>30</wmdr:endMinute>
+										</wmdr:Schedule>
+									</wmdr:scheduleOfObservation>
+									<!-- uses xsd:duration format -->
+									<wmdr:temporalSamplingInterval>PT30M</wmdr:temporalSamplingInterval>
+									<wmdr:spatialSamplingResolution uom="m">0.5</wmdr:spatialSamplingResolution>
+								</wmdr:Sampling>
+							</wmdr:sampling>
+							<wmdr:processing>
+								<wmdr:Processing>
+									<!-- time period this Processing section describes -->
+									<wmdr:validPeriod/>
+								</wmdr:Processing>
+							</wmdr:processing>
+							<wmdr:reporting>
+								<wmdr:Reporting>
+									<!-- time period this Peporting section describes -->
+									<wmdr:validPeriod/>
+									<wmdr:uom xlink:href="http://codes.wmo.int/common/unit/VOCABULARYTERM"/>
+									<!-- 7-04 spatial reporting interval -->
+									<wmdr:spatialReportingInterval uom="http://codes.wmo.int/common/unit/VOCABULARYTERM">20</wmdr:spatialReportingInterval>
+									<!-- 7-03 temporal reporting interval -->
+									<wmdr:temporalReportingInterval>P1D</wmdr:temporalReportingInterval>
+									<wmdr:timeStampMeaning xlink:href="http://codes.wmo.int/common/wmdr/TimeStampMeaning/VOCABULARYTERM"/>
+								</wmdr:Reporting>
+							</wmdr:reporting>
+						</wmdr:Deployment>
+					</wmdr:deployment>
+				</wmdr:Process>
+			</om:procedure>
+			<!-- 1-01. The observed property (variable/measurand) from codelist-->
+			<om:observedProperty xlink:href="http://codes.wmo.int/common/wmdr/ObservedVariable/VOCABULARYTERM"/>
+			<!-- 1-04 the feature of interest is a sampling feature describing the georeferenced volume ( or area, line or point) covered by the observations -->
+			<om:featureOfInterest>
+				<sams:SF_SpatialSamplingFeature gml:id="sf">
+					<sam:sampledFeature nilReason="unknown"/>
+					<sams:shape>
+						<gml:Point gml:id="p3">
+							<gml:pos srsName="http://www.opengis.net/def/crs/EPSG/0/4979">-37.8255 144.9816 7.53</gml:pos>
+						</gml:Point>
+					</sams:shape>
+				</sams:SF_SpatialSamplingFeature>
+			</om:featureOfInterest>
+			<!-- result contains links to access data-->
+			<om:result>
+				<wmdr:ResultSet gml:id='res1'>
+					<wmdr:distributionInfo>
+						<gmd:MD_Distribution>
+							<gmd:distributionFormat>
+								<gmd:MD_Format>
+									<gmd:name>
+										<gco:CharacterString>FORMAT NAME</gco:CharacterString>
+									</gmd:name>
+									<gmd:version>
+										<gco:CharacterString>FORMAT VERSION</gco:CharacterString>
+									</gmd:version>
+								</gmd:MD_Format>
+							</gmd:distributionFormat>
+							<gmd:transferOptions>
+								<gmd:MD_DigitalTransferOptions>
+									<gmd:onLine>
+										<gmd:CI_OnlineResource>
+											<gmd:linkage>
+												<gmd:URL>http://www.example.com/</gmd:URL>
+											</gmd:linkage>
+										</gmd:CI_OnlineResource>
+									</gmd:onLine>
+								</gmd:MD_DigitalTransferOptions>
+							</gmd:transferOptions>
+						</gmd:MD_Distribution>
+					</wmdr:distributionInfo>
+				</wmdr:ResultSet>
+			</om:result>
+		</om:OM_Observation>
+	</wmdr:observation>
+</wmdr:WIGOSMetadataRecord>
