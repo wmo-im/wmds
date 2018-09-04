@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.2.10:1", "", "«Requirement» sampling-valid", "EARoot/EA2/EA10/EA130.htm", "19.png", "E18268", "0", "", "Requirement0","{5F635CDC-CD92-49b5-92E4-659E627EAFEF}");
-tocTab[tocTab.length] = new Array("0.2.10:2", "", "«Requirement» sampling-strategy", "EARoot/EA2/EA10/EA131.htm", "19.png", "E18269", "0", "", "Requirement0","{AF5DF361-94E6-406d-888C-FD048E46EB38}");
+tocTab[tocTab.length] = new Array("0.2.10:1", "", "«Requirement» sampling-valid", "EARoot/EA2/EA10/EA131.htm", "19.png", "E10533", "0", "", "Requirement0","{5F635CDC-CD92-49b5-92E4-659E627EAFEF}");
+tocTab[tocTab.length] = new Array("0.2.10:2", "", "«Requirement» sampling-strategy", "EARoot/EA2/EA10/EA132.htm", "19.png", "E10534", "0", "", "Requirement0","{AF5DF361-94E6-406d-888C-FD048E46EB38}");

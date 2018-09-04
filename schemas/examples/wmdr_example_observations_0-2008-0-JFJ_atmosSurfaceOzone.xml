@@ -4,9 +4,9 @@
 		<wmdr:Header/>
 	</wmdr:headerInformation>
 	<!--[[OBSERVATIONS]]-->
-	<wmdr:observations>
+	<wmdr:observation>
 		<wmdr:ObservingCapability gml:id="id2">
-			<wmdr:facility xlink:href="http://wigos.wmo.int/0/20008/0/JFJ"/>
+			<wmdr:facility xlink:href="http://data.wmo.int/wigos/0-20008-0-JFJ"/>
 			<!--[[PROGRAM_AFFILIATIONS]]-->
 			<wmdr:programAffiliation>
 				<wmdr:ProgramAffiliation>
@@ -33,8 +33,8 @@
 				</wmdr:ProgramAffiliation>
 			</wmdr:programAffiliation>
 			<wmdr:observation>
-				<om:OM_Observation gml:id="id6">
-					<gml:identifier codeSpace="wigos.wmo.int">http://wigos.wmo.int/0/20008/0/JFJ</gml:identifier>
+				<om:OM_Observation gml:id="id6">					
+					<gml:name>\Atmosphere\Gas\Ozone\Surface ozone</gml:name>
 					<om:metadata>
 						<!--link to WIS metadata record goes here if available-->
 					</om:metadata>
@@ -51,7 +51,7 @@
 							<wmdr:deployment>
 								<wmdr:Deployment gml:id="id9">
 									<wmdr:dataGeneration>
-										<wmdr:DataGeneration>
+										<wmdr:DataGeneration gml:id="id10">
 											<wmdr:validPeriod></wmdr:validPeriod>
 											<wmdr:schedule>
 												<wmdr:Schedule>
@@ -75,8 +75,41 @@
 											</wmdr:sampling>
 											<wmdr:reporting>
 												<wmdr:Reporting>
+													<wmdr:internationalExchange>false</wmdr:internationalExchange>
 													<wmdr:uom xlink:href="http://codes.wmo.int/common/unit/ppbv"/>
 													<wmdr:temporalReportingInterval>PT600S</wmdr:temporalReportingInterval>
+												</wmdr:Reporting>
+											</wmdr:reporting>
+										</wmdr:DataGeneration>
+									</wmdr:dataGeneration>
+									<wmdr:dataGeneration>
+										<wmdr:DataGeneration gml:id="id11">
+											<wmdr:validPeriod></wmdr:validPeriod>
+											<wmdr:schedule>
+												<wmdr:Schedule>
+													<wmdr:startMonth>1</wmdr:startMonth>
+													<wmdr:endMonth>12</wmdr:endMonth>
+													<wmdr:startWeekday>1</wmdr:startWeekday>
+													<wmdr:endWeekday>7</wmdr:endWeekday>
+													<wmdr:startHour>0</wmdr:startHour>
+													<wmdr:endHour>23</wmdr:endHour>
+													<wmdr:startMinute>0</wmdr:startMinute>
+													<wmdr:endMinute>59</wmdr:endMinute>
+													<wmdr:diurnalBaseTime>00:00:00Z</wmdr:diurnalBaseTime>
+												</wmdr:Schedule>
+											</wmdr:schedule>
+											<wmdr:sampling>
+												<wmdr:Sampling>
+													<!-- 6-03 sampling strategy -->
+													<wmdr:samplingStrategy xlink:href="http://codes.wmo.int/common/wmdr/SamplingStrategy/continuous"/>
+													<wmdr:temporalSamplingInterval>PT60S</wmdr:temporalSamplingInterval>
+												</wmdr:Sampling>
+											</wmdr:sampling>
+											<wmdr:reporting>
+												<wmdr:Reporting>
+													<wmdr:internationalExchange>true</wmdr:internationalExchange>
+													<wmdr:uom xlink:href="http://codes.wmo.int/common/unit/ppbv"/>
+													<wmdr:temporalReportingInterval>PT3600S</wmdr:temporalReportingInterval>
 												</wmdr:Reporting>
 											</wmdr:reporting>
 										</wmdr:DataGeneration>
@@ -89,7 +122,7 @@
 							</wmdr:deployment>
 						</wmdr:Process>
 					</om:procedure>
-					<om:observedProperty xlink:href="http://codes.wmo.int/wmdr/ObservedVariable/atmosSurfaceOzone"/>
+					<om:observedProperty xlink:href="http://codes.wmo.int/wmdr/ObservedVariable/262"/>
 					<om:featureOfInterest xlink:href="http://codes.wmo.int/wmdr/FeatureOfInterest/atmosphere"/>
 					<om:resultQuality></om:resultQuality>
 					<om:result>
@@ -114,5 +147,5 @@
 				</om:OM_Observation>
 			</wmdr:observation>
 		</wmdr:ObservingCapability>
-	</wmdr:observations>
+	</wmdr:observation>
 </wmdr:WIGOSMetadataRecord>

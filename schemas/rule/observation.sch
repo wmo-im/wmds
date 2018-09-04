@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <schema xmlns="http://purl.oclc.org/dsdl/schematron" queryBinding="xslt1" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <!--
-        This Schematron schema checks that the correct feture types are used for the properties of OM_Observation.
+        This Schematron schema checks that the correct feature types are used for the properties of OM_Observation.
     
         version="1.0.0" 
     -->

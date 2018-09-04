@@ -1,2 +1,2 @@
-tocTab[tocTab.length] = new Array("0.2.6:1", "", "«Requirement» equipment-valid", "EARoot/EA2/EA6/EA112.htm", "19.png", "E18254", "0", "", "Requirement0","{0250602F-925C-4de0-862C-AEFB7C1EC224}");
-tocTab[tocTab.length] = new Array("0.2.6:2", "", "«Requirement» geopositioning-method", "EARoot/EA2/EA6/EA113.htm", "19.png", "E18255", "0", "", "Requirement0","{123DA12F-7239-4325-8B86-9F95390990F9}");
+tocTab[tocTab.length] = new Array("0.2.6:1", "", "«Requirement» equipment-valid", "EARoot/EA2/EA6/EA113.htm", "19.png", "E10519", "0", "", "Requirement0","{0250602F-925C-4de0-862C-AEFB7C1EC224}");
+tocTab[tocTab.length] = new Array("0.2.6:2", "", "«Requirement» geopositioning-method", "EARoot/EA2/EA6/EA114.htm", "19.png", "E10520", "0", "", "Requirement0","{123DA12F-7239-4325-8B86-9F95390990F9}");
