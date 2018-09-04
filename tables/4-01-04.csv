@@ -1,11 +1,11 @@
-﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e,Path_f,Name_f,Definition_f,Path_s,Name_s,Definition_s,Path_r,Name_r,Definition_r,
-4-01-04-01,notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason),,Sans objet,Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason),,No se aplica,No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL),,Неприменимо,Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует),
-4-01-04-02,water,,,Water,NA,,Eau,s.o.,,Agua,NA,,Вода,NA,
-4-01-04-03,evergreenNeedleleafVegetation,,,Evergreen needleleaf vegetation,NA,,Végétation sempervirente de conifères ,s.o.,,Vegetación de hoja aciculada perenne,NA,,Вечнозеленая хвойная растительность,NA,
-4-01-04-04,evergreenBroadleafVegetation,,,Evergreen broadleaf vegetation,NA,,Végétation sempervirente de feuillus ,s.o.,,Vegetación de hoja ancha perenne,NA,,Вечнозеленая широколиственная растительность,NA,
-4-01-04-05,deciduousNeedleleafVegetation,,,Deciduous needleleaf vegetation,NA,,Végétation décidue de conifères ,s.o.,,Vegetación de hoja aciculada caducifolia,NA,,Листопадная хвойная растительность,NA,
-4-01-04-06,deciduousBroadleafVegetation,,,Deciduous broadleaf vegetation,NA,,Végétation décidue de feuillus,s.o.,,Vegetación de hoja ancha caducifolia,NA,,Листопадная широколиственная растительность,NA,
-4-01-04-07,annualBroadleafVegetation,,,Annual broadleaf vegetation,NA,,Végétation annuelle de feuillus ,s.o.,,Vegetación de hoja ancha anual,NA,,Однолетние широколиственные растения,NA,
-4-01-04-07,nonVegetated,,,Non-vegetated land,NA,,Terre dépourvue de végétation,s.o.,,Tierra sin vegetación,NA,,Земля без растительности,NA,
-4-01-04-09,urban,,,Urban,NA,,Cadre urbain,s.o.,,Urbana,NA,,Городские территории,NA,
-4-01-04-10,unclassified,,,Unclassified,NA,,Non classée,s.o.,,Sin clasificar,NA,,Неклассифицированный,NA,
+﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e,Path_f,Name_f,Definition_f,Path_s,Name_s,Definition_s,Path_r,Name_r,Definition_r
+4-01-04-01,notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason),,Sans objet,Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason),,No se aplica,No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL),,Неприменимо,Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)
+4-01-04-02,water,,,Water,NA,,Eau,s.o.,,Agua,NA,,Вода,NA
+4-01-04-03,evergreenNeedleleafVegetation,,,Evergreen needleleaf vegetation,NA,,Végétation sempervirente de conifères ,s.o.,,Vegetación de hoja aciculada perenne,NA,,Вечнозеленая хвойная растительность,NA
+4-01-04-04,evergreenBroadleafVegetation,,,Evergreen broadleaf vegetation,NA,,Végétation sempervirente de feuillus ,s.o.,,Vegetación de hoja ancha perenne,NA,,Вечнозеленая широколиственная растительность,NA
+4-01-04-05,deciduousNeedleleafVegetation,,,Deciduous needleleaf vegetation,NA,,Végétation décidue de conifères ,s.o.,,Vegetación de hoja aciculada caducifolia,NA,,Листопадная хвойная растительность,NA
+4-01-04-06,deciduousBroadleafVegetation,,,Deciduous broadleaf vegetation,NA,,Végétation décidue de feuillus,s.o.,,Vegetación de hoja ancha caducifolia,NA,,Листопадная широколиственная растительность,NA
+4-01-04-07,annualBroadleafVegetation,,,Annual broadleaf vegetation,NA,,Végétation annuelle de feuillus ,s.o.,,Vegetación de hoja ancha anual,NA,,Однолетние широколиственные растения,NA
+4-01-04-07,nonVegetated,,,Non-vegetated land,NA,,Terre dépourvue de végétation,s.o.,,Tierra sin vegetación,NA,,Земля без растительности,NA
+4-01-04-09,urban,,,Urban,NA,,Cadre urbain,s.o.,,Urbana,NA,,Городские территории,NA
+4-01-04-10,unclassified,,,Unclassified,NA,,Non classée,s.o.,,Sin clasificar,NA,,Неклассифицированный,NA

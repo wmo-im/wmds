@@ -1,14 +1,14 @@
-﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e,Path_f,Name_f,Definition_f,Path_s,Name_s,Definition_s,Path_r,Name_r,Definition_r,
-4-01-03-01,notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason),,Sans objet,Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason).,,No se aplica,No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL),,Неприменимо,Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует),
-4-01-03-02,water,,,Water,NA,,Eau,s.o.,,Agua,NA,,Вода,NA,
-4-01-03-03,grassesCerealCrops,,,Grasses/Cereal crops,NA,,Herbages/cultures céréalières,s.o.,,Prados y cultivos de cereales,NA,,Травы/Зерновые культуры,NA,
-4-01-03-04,shrubs,,,Shrubs,NA,,Arbustes ,s.o.,,Tierras de matorral,NA,,Кустарник,NA,
-4-01-03-05,broadleafCrops,,,Broadleaf crops,NA,,Cultures de feuillus ,s.o.,,Cultivos de hoja ancha,NA,,Широколиственные культуры,NA,
-4-01-03-06,savannas,,,Savanna,NA,,Savane ,s.o.,,Sabana,NA,,Саванна,NA,
-4-01-03-07,evergreenBroadleafForest,,,Evergreen broadleaf forest,NA,,Forêt sempervirente de feuillus ,s.o.,,Bosque de hoja ancha perenne,NA,,Вечнозеленый широколиственный лес,NA,
-4-01-03-08,deciduousBroadleafForest,,,Deciduous broadleaf forest,NA,,Forêt décidue de feuillus ,s.o.,,Bosque de hoja ancha caducifolio,NA,,Листопадный широколиственный лес,NA,
-4-01-03-09,evergreenNeedleleafForest,,,Evergreen needleleaf forest,NA,,Forêt sempervirente de conifères,s.o.,,Bosque de hoja aciculada perenne,NA,,Вечнозеленый хвойный лес,NA,
-4-01-03-10,deciduousNeedleleafForest,,,Deciduous needleleaf forest,NA,,Forêt décidue de conifères ,s.o.,,Bosque de hoja aciculada caducifolio,NA,,Листопадный хвойный лес,NA,
-4-01-03-11,nonVegetated,,,Non vegetated,NA,,Sans végétation,s.o.,,Sin vegetación,NA,,Ристительность отсутствует,NA,
-4-01-03-12,urban,,,Urban,NA,,Cadre urbain,s.o.,,Urbana,NA,,Городские территории,NA,
-4-01-03-13,unclassified,,,Unclassified,NA,,Non classée,s.o.,,Sin clasificar,NA,,Неклассифицированный,NA,
+﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e,Path_f,Name_f,Definition_f,Path_s,Name_s,Definition_s,Path_r,Name_r,Definition_r
+4-01-03-01,notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason),,Sans objet,Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason).,,No se aplica,No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL),,Неприменимо,Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)
+4-01-03-02,water,,,Water,NA,,Eau,s.o.,,Agua,NA,,Вода,NA
+4-01-03-03,grassesCerealCrops,,,Grasses/Cereal crops,NA,,Herbages/cultures céréalières,s.o.,,Prados y cultivos de cereales,NA,,Травы/Зерновые культуры,NA
+4-01-03-04,shrubs,,,Shrubs,NA,,Arbustes ,s.o.,,Tierras de matorral,NA,,Кустарник,NA
+4-01-03-05,broadleafCrops,,,Broadleaf crops,NA,,Cultures de feuillus ,s.o.,,Cultivos de hoja ancha,NA,,Широколиственные культуры,NA
+4-01-03-06,savannas,,,Savanna,NA,,Savane ,s.o.,,Sabana,NA,,Саванна,NA
+4-01-03-07,evergreenBroadleafForest,,,Evergreen broadleaf forest,NA,,Forêt sempervirente de feuillus ,s.o.,,Bosque de hoja ancha perenne,NA,,Вечнозеленый широколиственный лес,NA
+4-01-03-08,deciduousBroadleafForest,,,Deciduous broadleaf forest,NA,,Forêt décidue de feuillus ,s.o.,,Bosque de hoja ancha caducifolio,NA,,Листопадный широколиственный лес,NA
+4-01-03-09,evergreenNeedleleafForest,,,Evergreen needleleaf forest,NA,,Forêt sempervirente de conifères,s.o.,,Bosque de hoja aciculada perenne,NA,,Вечнозеленый хвойный лес,NA
+4-01-03-10,deciduousNeedleleafForest,,,Deciduous needleleaf forest,NA,,Forêt décidue de conifères ,s.o.,,Bosque de hoja aciculada caducifolio,NA,,Листопадный хвойный лес,NA
+4-01-03-11,nonVegetated,,,Non vegetated,NA,,Sans végétation,s.o.,,Sin vegetación,NA,,Ристительность отсутствует,NA
+4-01-03-12,urban,,,Urban,NA,,Cadre urbain,s.o.,,Urbana,NA,,Городские территории,NA
+4-01-03-13,unclassified,,,Unclassified,NA,,Non classée,s.o.,,Sin clasificar,NA,,Неклассифицированный,NA
