@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.12:1", "", "«Requirement» reporting-valid", "EARoot/EA2/EA12/EA137.htm", "19.png", "E10542", "0", "", "Requirement0","{BB62FB06-5297-49eb-A417-4220062D1BBE}");
-tocTab[tocTab.length] = new Array("0.2.12:2", "", "«Requirement» data-format", "EARoot/EA2/EA12/EA138.htm", "19.png", "E10539", "0", "", "Requirement0","{626E0337-D1B7-4813-B2F7-E2ACD87A4E60}");
-tocTab[tocTab.length] = new Array("0.2.12:3", "", "«Requirement» data-use-constraints", "EARoot/EA2/EA12/EA139.htm", "19.png", "E10538", "0", "", "Requirement0","{3E215A27-6845-45c2-9CED-EF0AABBDB0AD}");
-tocTab[tocTab.length] = new Array("0.2.12:4", "", "«Requirement» level-of-data", "EARoot/EA2/EA12/EA140.htm", "19.png", "E10541", "0", "", "Requirement0","{9EE71324-089C-428d-861E-42E88A580F47}");
-tocTab[tocTab.length] = new Array("0.2.12:5", "", "«Requirement» reference-time", "EARoot/EA2/EA12/EA141.htm", "19.png", "E10540", "0", "", "Requirement0","{68657DC0-B4C9-4672-B53D-E9B772541E2B}");
-tocTab[tocTab.length] = new Array("0.2.12:6", "", "«Requirement» time-stamp-meaning", "EARoot/EA2/EA12/EA142.htm", "19.png", "E10543", "0", "", "Requirement0","{BC79A5E6-6001-4a47-AA1B-26D8F2545056}");
-tocTab[tocTab.length] = new Array("0.2.12:7", "", "«Requirement» unit-of-measure", "EARoot/EA2/EA12/EA143.htm", "19.png", "E10537", "0", "", "Requirement0","{20D3A79E-385D-4388-B5E1-4F07BD6193B1}");

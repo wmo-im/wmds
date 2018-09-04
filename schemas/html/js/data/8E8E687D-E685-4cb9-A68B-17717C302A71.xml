@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.5:1", "", "«Requirement» facility-log-valid", "EARoot/EA2/EA5/EA109.htm", "19.png", "E10518", "0", "", "Requirement0","{F6246FE3-5BF8-4830-9893-76987926E941}");
-tocTab[tocTab.length] = new Array("0.2.5:2", "", "«Requirement» facility-log-entries", "EARoot/EA2/EA5/EA110.htm", "19.png", "E10517", "0", "", "Requirement0","{75AE6FF0-A54A-46a0-9A11-D10CE4695FC2}");
-tocTab[tocTab.length] = new Array("0.2.5:3", "", "«Requirement» facility-log-entries-event-type", "EARoot/EA2/EA5/EA111.htm", "19.png", "E10516", "0", "", "Requirement0","{4C031DE1-CAB4-4305-8A68-F0018F8411F7}");

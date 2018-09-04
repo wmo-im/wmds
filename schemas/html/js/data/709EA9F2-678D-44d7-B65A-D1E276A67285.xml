@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.7:1", "", "«Requirement» equipment-log-valid", "EARoot/EA2/EA7/EA116.htm", "19.png", "E10525", "0", "", "Requirement0","{D38F68A1-B481-49b2-BDCE-5E2A319B88B7}");
-tocTab[tocTab.length] = new Array("0.2.7:2", "", "«Requirement» equipment-log-entries", "EARoot/EA2/EA7/EA117.htm", "19.png", "E10522", "0", "", "Requirement0","{4857E5CF-82ED-4af4-BE3D-779DC9200430}");
-tocTab[tocTab.length] = new Array("0.2.7:3", "", "«Requirement» equipment-log-entries-control-location", "EARoot/EA2/EA7/EA118.htm", "19.png", "E10523", "0", "", "Requirement0","{AC8326FE-6FEC-4ffc-A124-530646A71BBF}");
-tocTab[tocTab.length] = new Array("0.2.7:4", "", "«Requirement» equipment-log-entries-control-result", "EARoot/EA2/EA7/EA119.htm", "19.png", "E10524", "0", "", "Requirement0","{C71CBF25-2741-42c4-8698-80472959FA71}");
-tocTab[tocTab.length] = new Array("0.2.7:5", "", "«Requirement» equipment-log-entries-control-standard", "EARoot/EA2/EA7/EA120.htm", "19.png", "E10521", "0", "", "Requirement0","{458308E5-1566-4bf5-9088-B9A76BEB832B}");
