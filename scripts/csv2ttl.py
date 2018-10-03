@@ -33,17 +33,24 @@ type = 'skos:Concept'
 
 itemStr = ['<' + codelist + '/%s> a ' + type + ' ;',
            '    skos:notation "%s" ;',
-           '    rdfs:label "%s" ;',
-           '    dct:description  "%s"@en .']
-item = ['WMO306_CD', 'WMO306_CD', 'Name', 'Definition']
+           '    rdfs:label "%s"@en ,',
+           '    "%s"@fr ,',
+           '    "%s"@es ,',
+           '    "%s"@ru ;',
+           '    dct:description  "%s"@en ,',
+           '    "%s"@fr ,',
+           '    "%s"@es ,',
+           '    "%s"@ru .' ]
+item = ['WMO306CD_efrs', 'WMO306CD_efrs', 'Name_e', 'Name_f', 'Name_s', 'Name_r', 'Definition_e', 'Definition_f',
+        'Definition_s', 'Definition_r']
 memberStr = '<' + codelist + '/%s>'
 
-ttlfile = open(outfilename,'w')
-with open(infilename) as csvfile:
+ttlfile = open(outfilename, 'w', encoding='utf-8')
+with open(infilename, encoding='utf-8') as csvfile:
     r = csv.reader(csvfile, delimiter=',', quotechar='"')
     members = []
     first = 1
-    print(header,file=ttlfile)
+    print(header, file=ttlfile)
     count = 0
     for row in r:
         count += 1
@@ -51,29 +58,33 @@ with open(infilename) as csvfile:
             keys = row
             first = 0
         else:
-            row = [rr.replace("\"","\'") for rr in row]
+            row = [rr.replace("\"", "\'") for rr in row]
             d = dict(zip(keys, row))
-            notation = d['WMO306_CD']
+            notation = d['WMO306CD_efrs']
             if not notation or notation == 'NA':
                 print("ERROR notation not defined in line %d" % (count))
-                #sys.exit(1)
+                sys.exit(1)
                 continue
-            member = memberStr % (d['WMO306_CD'])
+            member = memberStr % notation
             if member in members:
                 print("Two registers with the same notation: "+notation)
                 sys.exit(1)
-            if not all(c in string.printable  for c in d['Definition']):
-                print("ERROR unprintable character in Definition in line %d" % (count))
-                print(d['Definition'])
+            if not all(c in string.printable for c in d['Definition_e']):
+                for c in d['Definition_e']:
+                    print(c)
+                    if c not in string.printable:
+                        break
+                print("ERROR unprintable character in Definition_e in line %d" % (count))
+                print(d['Definition_e'])
                 continue
-            if not all(c in string.printable for c in d['Name']):
+            if not all(c in string.printable for c in d['Name_e']):
                 print("ERROR unprintable character in label in line %d" % (count))
                 continue
-            if not all(c not in suspectCharacters for c in d['Definition']):
-                print("ERROR suspect character in Definition in line %d" % (count))
-                #print(d['Definition'])
+            if not all(c not in suspectCharacters for c in d['Definition_e']):
+                print("ERROR suspect character in Definition_e in line %d" % (count))
+                #print(d['Definition_e'])
                 continue
-            if not all(c not in suspectCharactersNotation for c in d['WMO306_CD']):
+            if not all(c not in suspectCharactersNotation for c in d['WMO306CD_efrs']):
                 print("ERROR suspect character in Notation in line %d" % (count))
                 continue
 
@@ -83,7 +94,7 @@ with open(infilename) as csvfile:
             print("", file=ttlfile)
 
     print(codelistStr, file=ttlfile)
-    print(",\n".join(members) + '.',file=ttlfile)
+    print(",\n".join(members) + '.', file=ttlfile)
 csvfile.close()
 ttlfile.close()
 
