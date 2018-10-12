@@ -1,0 +1,238 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<01/globalNumericalWeatherPrediction> a skos:Concept ;
+    skos:notation "globalNumericalWeatherPrediction" ;
+    rdfs:label "Global numerical weather prediction (GNWP)"@en ,
+    "Prévision numérique du temps à l’échelle du globe"@fr ,
+    "Predicción meteorológica numérica mundial"@es ,
+    "Глобальный численный прогноз погоды (ГЧПП)"@ru ;
+    dct:description  "Global numerical weather prediction (GNWP) covers numerical weather prediction on a global scale, required for weather forecasting for more than a few days ahead. NWP uses mathematical models of the atmosphere and oceans to predict the weather based on current conditions of the atmosphere and oceans. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Global-NWP.pdf"@en ,
+    "La prévision numérique du temps à l’échelle du globe englobe les prévisions dont on a besoin pour prévoir le temps à une échéance supérieure à quelques jours. La prévision numérique du temps se fonde sur des modèles mathématiques de l’atmosphère et de l’océan pour prévoir les conditions météorologiques en fonction des conditions atmosphériques et océaniques présentes. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Global-NWP.pdf"@fr ,
+    "La predicción meteorológica numérica mundial cubre la predicción meteorológica numérica a escala mundial, necesaria para realizar pronósticos meteorológicos con más de unos pocos días de antelación. La predicción meteorológica numérica utiliza modelos matemáticos de la atmósfera y los océanos para predecir el tiempo en función de las condiciones actuales de la atmósfera y los océanos. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Global-NWP.pdf"@es ,
+    "Глобальное численное прогнозирование погоды (ГЧПП) охватывает численное прогнозирование погоды в глобальном масштабе, которое необходимо для прогнозирования погоды на более чем несколько дней вперед. ЧПП использует математические модели атмосферы и океанов для предсказания погоды, исходя из существующих условий атмосферы и океанов. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Global-NWP.pdf"@ru .
+
+<01/highResolutionNumericalWeatherPrediction> a skos:Concept ;
+    skos:notation "highResolutionNumericalWeatherPrediction" ;
+    rdfs:label "High-resolution numerical weather prediction (HRNWP)"@en ,
+    "Prévision numérique du temps à haute résolution"@fr ,
+    "Predicción meteorológica numérica de alta resolución"@es ,
+    "Численный прогноз погоды с высоким разрешением (ЧППВР)"@ru ;
+    dct:description  "High-resolution numerical weather prediction (HRNWP) covers forecasting of meteorological events over a limited area with a 1-5 km horizontal resolution, for 1 or 2 days ahead. Its high spatial resolutions allows: (i) to get more realistic descriptions of the surface and of atmospheric phenomena such as clouds and precipitation or boundary layer processes; and (ii) to use denser and more frequent observations than global NWP over the area of interest. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-HighRes-NWP.pdf"@en ,
+    "La prévision numérique du temps à haute résolution englobe les prévisions des phénomènes météorologiques dont l’étendue se limite à une résolution horizontale de l’ordre de 1 à 5 km, à une échéance de 1 ou 2 jours. Une résolution spatiale élevée permet i) de fournir une description relativement réaliste des phénomènes à la surface et dans l’atmosphère, tels les nuages et les précipitations ou les processus de la couche limite, et ii) d’utiliser des observations dont la densité spatiale et temporelle est plus élevée que dans le cas de la prévision numérique du temps à l’échelle du globe, pour la région sur laquelle se porte l’intérêt. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-HighRes-NWP.pdf"@fr ,
+    "La predicción meteorológica numérica de alta resolución cubre el pronóstico de fenómenos meteorológicos en una zona limitada con una resolución horizontal de entre 1 km y 5 km, con 1 o 2 días de antelación. Su alta resolución espacial permite i) obtener descripciones más realistas de la superficie y de los fenómenos atmosféricos como las nubes y la precipitación o los procesos de la capa límite, i ii) utilizar observaciones más densas y frecuentes que las predicciones meteorológicas mundiales en la zona de interés. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-HighRes-NWP.pdf"@es ,
+    "Численный прогноз погоды с высоким разрешением (ЧППВР) охватывает прогнозирование метеорологических явлений над ограниченным районом с горизонтальным разрешением 1−5 км на один или два дня вперед. Его высокие пространственные разрешения позволяют i) получать более реалистичные описания поверхности и атмосферных явлений, таких как облака и осадки или процессы в пограничном слое, и ii) использовать более плотные и более частные наблюдения по сравнению с ЧПП над представляющим интерес районом. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-HighRes-NWP.pdf"@ru .
+
+<01/nowcasting> a skos:Concept ;
+    skos:notation "nowcasting" ;
+    rdfs:label "Nowcasting and very short-range forecasting (NVSRF)"@en ,
+    "Prévision immédiate et à très courte échéance"@fr ,
+    "Predicción inmediata y predicción  a muy corto plazo"@es ,
+    "Прогнозирование текущей погоды и сверхкраткосрочное прогнозирование (ПТПСП)"@ru ;
+    dct:description  "Nowcasting and very short-range forecasting (NVSRF) covers the 0-12 hours forecasting range with high time and space resolution, focusing on rapid evolving phenomena like convection and using dedicated algorithms with combined relevant observed and model data, to produce forecasts usually near the surface, in a seamless way for the forecast range. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Nowcasting-VSRF.pdf"@en ,
+    "La prévision immédiate et à très courte échéance englobe les prévisions à échéance allant de 0 à 12 heures que caractérise une résolution temporelle et spatiale élevée et qui portent en particulier sur les phénomènes à évolution rapide tels les phénomènes de convection, et utilisent des algorithmes spéciaux qu’on alimente de données provenant tant de l’observation que de modèles, pour décrire les conditions prévues en général près de la surface, sans discontinuité sur l’échéance précisée. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Nowcasting-VSRF.pdf"@fr ,
+    "La predicción inmediata y la predicción a muy corto plazo cubren un rango de predicción de entre 0 y 12 horas con elevada resolución temporal y espacial; se centran en fenómenos de rápida evolución como la convección y utilizan algoritmos específicos que combinan datos importantes observados y obtenidos a partir de modelos para producir pronósticos normalmente cerca de la superficie, de manera ininterrumpida para el rango de predicción. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Nowcasting-VSRF.pdf"@es ,
+    "Прогнозирование текущей погоды и сверхкраткосрочное прогнозирование (ПТПСП) охватывает диапазон прогнозирования 0−12 часов с высоким временным и пространственным разрешением, при этом главное внимание уделяется быстроменяющимся явлениям, таким как конвекция, использованию целевых алгоритмов с комбинированными соответствующими данными наблюдений и моделей, са тем чтобы выпускать прогнозы, обычно вблизи поверхности, беспрепятственно для диапазона прогнозирования. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Nowcasting-VSRF.pdf"@ru .
+
+<01/seasonalForecasting> a skos:Concept ;
+    skos:notation "seasonalForecasting" ;
+    rdfs:label "Sub-seasonal to longer predictions"@en ,
+    "Prévision infrasaisonnière et à plus longue échéance "@fr ,
+    "Predicciones de escala subestacional a escalas más largas"@es ,
+    "Субсезонные − более продолжительные − прогнозы"@ru ;
+    dct:description  "Sub-seasonal to longer predictions covers predictions in sub-seasonal to decadal time-ranges (roughly two weeks to 10 years), using numerical prediction models based on current and past observations and analyses. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SSLP.pdf"@en ,
+    "La prévision infrasaisonnière et à plus longue échéance englobe les prévisions dont l’échéance se situe entre une durée infrasaisonnière et la décennie (à peu près entre 2 semaines et 10 ans), qui sont obtenues grâce aux modèles de prévision numérique en se fondant sur les observations et les analyses présentes et passées. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SSLP.pdf"@fr ,
+    "Las predicciones de escala subestacional a escalas más largas cubren los pronósticos de subestacionales a decenales (aproximadamente entre 2 semanas y 10 años) mediante modelos de predicción numérica basados en observaciones y análisis actuales y pasados. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SSLP.pdf"@es ,
+    "Субсезонные − более продолжительные − прогнозы охватывают прогнозы в субсезонном 10-летнем масштабах (приблизительно от двух недель до 10 лет), используя модели численного прогнозирования, основанные на данных и анализах текущих и прошлых наблюдений. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SSLP.pdf"@ru .
+
+<01/aeronauticalMeteorology> a skos:Concept ;
+    skos:notation "aeronauticalMeteorology" ;
+    rdfs:label "Aeronautical meteorology"@en ,
+    "Météorologie aéronautique "@fr ,
+    "Meteorología aeronáutica"@es ,
+    "Авиационная метеорология"@ru ;
+    dct:description  "Aeronautical meteorology covers worldwide, reliable provision of high quality, timely and cost-effective meteorological services to aviation users."@en ,
+    "La météorologie aéronautique englobe l’assistance météorologique à l’aviation, à savoir un service d’échelle mondiale, fiable, de grande qualité, fourni en temps voulu et d’un bon rapport coût-efficacité."@fr ,
+    "La meteorología aeronáutica cubre la prestación fidedigna de servicios meteorológicos de alta calidad, oportunos y rentables a los usuarios de la aviación en todo el mundo."@es ,
+    "Авиационная метеорология включает предоставление во всем мире надежного, высококачественного, своевременного и рентабельного метеорологического обслуживания авиационным пользователям."@ru .
+
+<01/oceanApplications> a skos:Concept ;
+    skos:notation "oceanApplications" ;
+    rdfs:label "Ocean applications"@en ,
+    "Applications océaniques"@fr ,
+    "Aplicaciones oceánicas"@es ,
+    "Океанические применения"@ru ;
+    dct:description  "http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Ocean.pdf"@en ,
+    "http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Ocean.pdf"@fr ,
+    "http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Ocean.pdf"@es ,
+    "http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Ocean.pdf"@ru .
+
+<01/agriculturalMeteorology> a skos:Concept ;
+    skos:notation "agriculturalMeteorology" ;
+    rdfs:label "Agricultural meteorology"@en ,
+    "Météorologie agricole"@fr ,
+    "Meteorología agrícola"@es ,
+    "Сельскохозяйственная метеорология"@ru ;
+    dct:description  "Agricultural Meteorology relates to specific weather and climate services addressed to the agricultural community to help develop sustainable agricultural production systems. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Agriculture.pdf"@en ,
+    "La météorologie agricole englobe les services agrométéorologiques et agroclimatologiques destinés au monde de l’agriculture visant à contribuer au développement durable des systèmes de production agricole. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Agriculture.pdf"@fr ,
+    "La meteorología agrícola tiene que ver con el tiempo específico y los servicios climáticos dirigidos a la comunidad agrícola con el fin de contribuir al desarrollo de sistemas de producción agrícola sostenibles. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Agriculture.pdf"@es ,
+    "Сельскохозяйственная метеорология связана с конкретным метеорологическим и климатическим обслуживанием, предоставляемым сельскохозяйственному сообществу с целью оказания содействия в создании устойчивых систем сельскохозяйственного производства. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Agriculture.pdf"@ru .
+
+<01/hydrology> a skos:Concept ;
+    skos:notation "hydrology" ;
+    rdfs:label "Hydrology"@en ,
+    "Hydrologie"@fr ,
+    "Hidrología"@es ,
+    "Гидрология"@ru ;
+    dct:description  "Hydrology covers the assessment of the quantity and quality of water resources, both surface and groundwater (in support of the National Authorities responsible for water management in a wide range of activities), in order to meet the needs of society, to permit mitigation of water-related hazards, and to maintain or enhance the condition of the global environment. http://www.wmo.int/pages/prog/www/OSY/SOG/SOG-Hydrology.pdf"@en ,
+    "L’hydrologie englobe l'évaluation la quantité et la qualité des ressources en eau, qu’elles soient sous terre ou en surface (à l’appui des autorités nationales chargées de la gestion de l’eau, dans toute une série d’activités), en vue de répondre aux besoins des populations, d’atténuer les risques liés à l’eau et de préserver ou d’améliorer l’environnement mondial. http://www.wmo.int/pages/prog/www/OSY/SOG/SOG-Hydrology.pdf"@fr ,
+    "La hidrología se ocupa de la evaluación de la cantidad y la calidad de los recursos hídricos, tanto superficiales como subterráneos (en apoyo a las autoridades nacionales responsables de la gestión del agua en una amplia gama de actividades), con objeto de responder a las necesidades de la sociedad, contribuir a la atenuación de los riesgos relacionados con el agua y mantener o mejorar el estado del medio ambiente mundial. http://www.wmo.int/pages/prog/www/OSY/SOG/SOG-Hydrology.pdf"@es ,
+    "Гидрология включает оценку качества и количества водных ресурсов как поверхностных, так и грунтовых вод (в поддержку национальных органов, отвечающих за менеджмент водных ресурсов в рамках широкого круга деятельности) с целью удовлетворения потребностей общества, обеспечения уменьшения опасностей, связанных с водными объектами, и сохранения или улучшения глобальной окружающей среды. http://www.wmo.int/pages/prog/www/OSY/SOG/SOG-Hydrology.pdf"@ru .
+
+<01/climateMonitoring> a skos:Concept ;
+    skos:notation "climateMonitoring" ;
+    rdfs:label "Climate monitoring (as supported through the Global Climate Observing System, GCOS)"@en ,
+    "Surveillance du climat (par le Système mondial d’observation du climat, SMOC)"@fr ,
+    "Vigilancia del clima (financiada con cargo al Sistema Mundial de Observación del Clima, SMOC)"@es ,
+    "Глобальный мониторинг (поддерживаемый через Глобальную систему наблюдений за климатом, ГСНК)"@ru ;
+    dct:description  "GCOS, an internationally coordinated network of global observing systems for climate, is designed to meet the requirements for climate observations, which are essential to climate monitoring. Climate observations are fundamental to detect, model and assess climate change, support adaptation to climate change, monitor the effectiveness of policies for mitigating climate change, develop climate information services, promote sustainable national economic development and meet other requirements of the UNFCCC and other convention and agreements."@en ,
+    "Le SMOC, un réseau de systèmes d'observation du climat, coordonné à l'échelon international, est conçu pour répondre aux besoins en observations climatologiques, indispensables à la surveillance du climat. Les observations du climat sont fondamentales, car elles permettent de détecter, modéliser et évaluer l’évolution du climat, d’appuyer les mesures d’adaptation au changement climatique, de contrôler l’efficacité des politiques d’atténuation des effets du changement climatique, de mettre en place des services d’information sur le climat, de promouvoir un développement économique durable au niveau national et de satisfaire à d’autres prescriptions de la CCNUCC et d’autres conventions et accords."@fr ,
+    "El SMOC, una red de sistemas de observación mundial del clima coordinada internacionalmente, está concebido para responder a las requisitos de las observaciones climáticas, que son esenciales para la vigilancia del clima. Las observaciones climáticas son fundamentales para detectar, crear modelos y evaluar el cambio climático, respaldar las medidas de adaptación a dicho cambio climático, supervisar la eficacia de las políticas para mitigarlo, crear servicios de información climática, promover un desarrollo económico nacional sostenible y satisfacer otras necesidades de la CMNUCC y otros convenios y acuerdos."@es ,
+    "ГНСК − международно координируемая сеть глобальных систем наблюдений за климатом − предназначена для удовлетворения потребностей в климатических наблюдениях, которые имеют существенное значение для мониторинга климата. Климатические наблюдения являются фундаментальными для обнаружения, моделирования и оценки изменения климата, поддержки адаптации к изменению климата, мониторинга эффективности программ по смягчению воздействий изменения климата, развития климатических информационных служб, содействия устойчивому национальному экономическому развитию и соблюдению других требований РКИКООН и других конвенций и соглашений."@ru .
+
+<01/climateApplications> a skos:Concept ;
+    skos:notation "climateApplications" ;
+    rdfs:label "Climate applications"@en ,
+    "Applications climatologiques"@fr ,
+    "Aplicaciones climáticas"@es ,
+    "Климатические применения"@ru ;
+    dct:description  "Fosters the effective application of climate knowledge and information for the benefit of society and the provision of climate services, including the prediction of significant climate variations both natural and as a result of human activity. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Climate- CCl.pdf"@en ,
+    "Il s’agit de favoriser l’exploitation efficace du savoir et de l’information climatologiques au profit de la société et la fourniture de services climatologiques,  y compris des prévisions au sujet des variations marquantes du climat, tant naturelles qu’imputables aux activités humaines. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Climate- CCl.pdf"@fr ,
+    "Fomenta la aplicación eficaz de los conocimientos y la información climáticos en beneficio de la sociedad y la prestación de servicios climáticos, en particular la predicción de variaciones climáticas significativas, tanto naturales como resultantes de la actividad humana. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Climate- CCl.pdf"@es ,
+    "Способствуют эффективному использованию климатических знаний и информации на благо общества и предоставлению климатического обслуживания, включая предсказание значительных изменений климата − как естественных, так и в результате деятельности человека. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Climate- CCl.pdf"@ru .
+
+<01/spaceWeather> a skos:Concept ;
+    skos:notation "spaceWeather" ;
+    rdfs:label "Space weather"@en ,
+    "Météorologie de l’espace"@fr ,
+    "Meteorología del espacio"@es ,
+    "Космическая погода"@ru ;
+    dct:description  "Space weather is a discipline which aims at observing, understanding and predicting the state of the Sun, of the interplanetary and planetary environments, their disturbances, and the potential impacts of these disturbances on biological and technological systems. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SW.pdf"@en ,
+    "La météorologie de l’espace est la discipline qui vise à observer, comprendre, et prévoir l'état du soleil, des environnements interplanétaires et planétaires, leurs perturbations, et l'impact potentiel de ces perturbations sur les systèmes biologiques et technologiques. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SW.pdf"@fr ,
+    "La meteorología espacial es una disciplina que pretende observar, entender y predecir el estado del Sol, de los entornos interplanetarios y planetarios, sus perturbaciones, y los posibles efectos de estas perturbaciones en los sistemas biológicos y tecnológicos. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SW.pdf"@es ,
+    "Космическая погода − это дисциплина, направленная на осуществление наблюдений за Солнцем, межпланетной и планетарной средами, их возмущениями и потенциальными воздействиями этих возмущений на биологические и технологические системы. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SW.pdf"@ru .
+
+<01/cryosphere> a skos:Concept ;
+    skos:notation "cryosphere" ;
+    rdfs:label "Cryosphere"@en ,
+    "Cryosphère"@fr ,
+    "Criosfera"@es ,
+    "Криосфера"@ru ;
+    dct:description  "EGOS-IP"@en ,
+    "Plan d'action pour l'évolution des systèmes mondiaux d'observation."@fr ,
+    "Plan de ejecución para la evolución de los sistemas mundiales de observación"@es ,
+    "ПО-ЭГСН"@ru .
+
+<01/energy> a skos:Concept ;
+    skos:notation "energy" ;
+    rdfs:label "Energy sector"@en ,
+    "Secteur de l’énergie"@fr ,
+    "Sector de la energía"@es ,
+    "Энергетический сектор"@ru ;
+    dct:description  "Economic activities that produce or distribute energy, such as renewable energies, e.g. solar, thermal, wind"@en ,
+    "Activités économiques visant à produire ou distribuer l’énergie, telles les énergies renouvelables (ex.: énergies solaire, thermique, éolienne)."@fr ,
+    "Actividades económicas que producen o distribuyen energía, como las energías  renovables, por ejemplo, la energía solar, la energía térmica o la energía eólica."@es ,
+    "Экономическая деятельность, бл агодаря которой вырабатывается или распределяется энергия, такая как энергия возобновляемых источников, например солнечная, термальная, ветровая энергия."@ru .
+
+<01/transport> a skos:Concept ;
+    skos:notation "transport" ;
+    rdfs:label "Transportation sector"@en ,
+    "Secteur des transports "@fr ,
+    "Sector del transporte"@es ,
+    "Сектор транспортных перевозок"@ru ;
+    dct:description  "Economic activities related to transportation of people and goods, on land, air and water"@en ,
+    "Activités économiques visant à assurer le transport de personnes et de marchandises, terrestre, aérien et maritime."@fr ,
+    "Actividades económicas relacionadas con el transporte de personas y mercancías, por tierra, mar y aire."@es ,
+    "Экономическая деятельность, связанная с транспортными перевозками людей и товаров по суше, воздуху и воде."@ru .
+
+<01/health> a skos:Concept ;
+    skos:notation "health" ;
+    rdfs:label "Health sector"@en ,
+    "Secteur de la santé"@fr ,
+    "Sector de la salud"@es ,
+    "Сектор здравоохранения"@ru ;
+    dct:description  "Health-related services, often provided to the public, particularly those related to prevention, e.g. pollen allergies, UV radiation, heat wave alerts"@en ,
+    "Services liés à la santé, souvent fournis au public, en particulier des services de prévention (ex.: alertes associées aux allergies au pollen, au rayonnement UV ou aux vagues de chaleur)."@fr ,
+    "Servicios relacionados con la salud, a menudo proporcionados al público, en especial los relacionados con la prevención, por ejemplo, las alertas sobre alergias al polen, radiación UV u olas de calor."@es ,
+    "Связанное со здоровьем обслуживание, часто предоставляемое населению, особенно обслуживание, связанное с профилактикой, например, пыльцевая аллергия, УФ-радиация, предупреждения о волнах тепла."@ru .
+
+<01/terrestrialEcology> a skos:Concept ;
+    skos:notation "terrestrialEcology" ;
+    rdfs:label "Terrestrial ecology"@en ,
+    "Écologie terrestre"@fr ,
+    "Ecología terrestre"@es ,
+    "Экология суши"@ru ;
+    dct:description  "Activities and services related to the terrestrial environment, e.g., relating to bio-diversity"@en ,
+    "Activités et services liés à l’environnement terrestre (ex.: la biodiversité)."@fr ,
+    "Actividades y servicios relacionados con el entorno terrestre, por ejemplo vinculados a la biodiversidad."@es ,
+    "Деятельность и обслуживание, связанные с наземной окружающей средой, например связанные с биоразнообразием."@ru .
+
+<01/atmosphericCompositionForecasting> a skos:Concept ;
+    skos:notation "atmosphericCompositionForecasting" ;
+    rdfs:label "Atmospheric composition forecasting"@en ,
+    "Prévision de la composition de l’atmosphère"@fr ,
+    "Predicción de la composición atmosférica"@es ,
+    "Прогнозирование состава атмосферы"@ru ;
+    dct:description  "Applications from global to regional scales (with horizontal resolutions similar to global NWP (~10 km and coarser) with stringent timeliness requirements (NRT) to support operations such as sand and dust storm and chemical weather forecasts [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@en ,
+    "Applications d’échelle mondiale à régionale dont la résolution horizontale équivaut à celle de la prévision numérique du temps à l’échelle du globe (~10 km et plus grossière) avec des exigences rigoureuses en matière de délais de diffusion (temps quasi réel) et contribuent à établir par exemple des prévisions de tempêtes de poussières ou des prévisions relatives à la composition chimique de l’atmosphère. [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FIs.o.L_GAW_221.pdf]"@fr ,
+    "Aplicaciones a distintas escalas, de mundial a regional con resoluciones horizontales similares a las PNT (~10 km y más groseras) con requisitos temporales más estrictos (tiempo casi real) para dar apoyo a operaciones como los pronósticos en materia de tormentas de arena y polvo o de meteorología química. [Fuente: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_VAG_221.pdf]"@es ,
+    "Применения в масштабах от глобального до регионального (с горизонтальными разрешениями, аналогичными глобальному ЧПП (приблизительно10 км или более грубо)) со строгими требованиями в отношении своевременности (почти реальное время) для поддержки таких операций, как прогнозы песчаной и пыльной бури и химического состава воздуха [источник: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@ru .
+
+<01/atmosphericCompositionMonitoring> a skos:Concept ;
+    skos:notation "atmosphericCompositionMonitoring" ;
+    rdfs:label "Atmospheric composition monitoring and analysis"@en ,
+    "Surveillance et analyse de la composition de l’atmosphère"@fr ,
+    "Vigilancia y análisis de la composición atmosférica"@es ,
+    "Мониторинг и анализ состава атмосферы"@ru ;
+    dct:description  "Applications related to evaluating and analysing changes (temporally and spatially) in atmospheric composition regionally and globally to support treaty monitoring, climatologies and re-analyses, assessing trends in composition and emissions/ fluxes, and to better understand processes, using data of controlled quality (and with less stringent time requirements (not needed in NRT)), and used in products such as Ozone and Greenhouse Gas Bulletins, and State/Health of the Atmosphere reports [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@en ,
+    "Applications liées à l’évaluation et à l’analyse de l’évolution (temporelle et spatiale) de la composition de l’atmosphère à l’échelle régionale et mondiale, qui contribuent au suivi des traités, à l’établissement de climatologies et de réanalyses, pour évaluer les tendances de la composition et des émissions et flux, et à une amélioration des connaissances au sujet des processus, grâce à l’utilisation de données dont la qualité est contrôlée (mais répondant à des exigences moins rigoureuses en matière de délais de diffusion (la diffusion en temps quasi réel n’étant pas requise)), applications qui s’appliquent à des produits tels que les bulletins sur l’ozone et les gaz à effet de serre ou les rapports sur l’état de santé de l’atmosphère. [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FIs.o.L_GAW_221.pdf]"@fr ,
+    "Aplicaciones relacionadas con la evaluación y el análisis de los cambios (temporales y espaciales) de la composición atmosférica a escala regional y mundial en apoyo de la vigilancia de la aplicación de los tratados, las climatologías y los reanálisis, con la evaluación de la tendencia de la composición de los flujos y las emisiones, y para entender mejor los procesos mediante el empleo de datos de calidad controlada (y con requisitos temporales menos estrictos, innecesarios en tiempo casi real) y que se han utilizado en productos como los boletines sobre la situación del ozono y los boletines sobre los gases de efecto invernadero, y los informes sobre el estado de la atmósfera. [Fuente: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_VAG_221.pdf]"@es ,
+    "Применения, связанные с оценкой и анализом изменений (временных и пространственных) регионального и глобального состава атмосферы для поддержки мониторинга исполнения договора, климатологии и реанализов, оценки трендов в составе и выбросах/потоках, также для лучшего понимания процессов, используя данные контролируемого качества (и с менее строгими временными требованиями (не необходимы в почти в реальном масштабе времени)), и используемые в таких продуктах, как бюллетени по озону и парниковым газам, а также в докладах о состоянии/здоровье атмосферы [источник: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@ru .
+
+<01/integratedUrbanServices> a skos:Concept ;
+    skos:notation "integratedUrbanServices" ;
+    rdfs:label "Integrated urban services"@en ,
+    "Services urbains intégrés"@fr ,
+    "Servicios urbanos integrados"@es ,
+    "Интегрированное городское обслуживание"@ru ;
+    dct:description  "Applications that target limited areas (with horizontal resolution of a few km or smaller and stringent timeliness requirements to support services related to weather/climate/pollution, such as air quality forecasting  [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@en ,
+    "Applications qui s’appliquent à des régions bien délimitées (d’une résolution horizontale de l’ordre de quelques kilomètres voire moins et répondant à des exigences rigoureuses en matière de délais de diffusion) à l’appui de services liés au temps, au climat et à la pollution, tels que les prévisions de la qualité de l’air. [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FIs.o.L_GAW_221.pdf]"@fr ,
+    "Aplicaciones orientadas a zonas limitadas (con una resolución horizontal de pocos kilómetros o menor y requisitos temporales estrictos) para prestar apoyo a servicios relacionados con el tiempo, el clima o la contaminación, como los pronósticos de la calidad del aire. [Fuente: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_VAG_221.pdf]"@es ,
+    "Применения, предназначенные для ограниченных районов (с горизонтальным разрешением в несколько км или меньше и со строгими требованиями в отношении своевременности) для поддержки обслуживания, связанного с погодой/климатом/загрязнением, таким как прогнозирование качества воздуха [источник: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@ru .
+
+<01> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<01/globalNumericalWeatherPrediction>,
+<01/highResolutionNumericalWeatherPrediction>,
+<01/nowcasting>,
+<01/seasonalForecasting>,
+<01/aeronauticalMeteorology>,
+<01/oceanApplications>,
+<01/agriculturalMeteorology>,
+<01/hydrology>,
+<01/climateMonitoring>,
+<01/climateApplications>,
+<01/spaceWeather>,
+<01/cryosphere>,
+<01/energy>,
+<01/transport>,
+<01/health>,
+<01/terrestrialEcology>,
+<01/atmosphericCompositionForecasting>,
+<01/atmosphericCompositionMonitoring>,
+<01/integratedUrbanServices>.
