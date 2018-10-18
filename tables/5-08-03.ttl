@@ -1,0 +1,58 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<03/inCalibration> a skos:Concept ;
+    skos:notation "inCalibration" ;
+    rdfs:label "no changes - in calibration"@en ,
+    "pas de changement - étalonnage conforme"@fr ,
+    "Sin cambios - calibrado"@es ,
+    "Без изменений − калиброван"@ru ;
+    dct:description  "Instrument verified and found to be in calibration"@en ,
+    "L’instrument a été vérifié et son étalonnage s’est révélé conforme"@fr ,
+    "Se verificó el instrumento y se observó que estaba calibrado"@es ,
+    "Прибор проверен и признан откалиброванным"@ru .
+
+<03/outOfCalibration> a skos:Concept ;
+    skos:notation "outOfCalibration" ;
+    rdfs:label "no changes - out of calibration "@en ,
+    "pas de changement - étalonnage non conforme "@fr ,
+    "Sin cambios - sin calibrar"@es ,
+    "Без изменений − не откалиброван"@ru ;
+    dct:description  "Instrument checked and found to be out of calibration; no changes to calibration function"@en ,
+    "L’instrument a été vérifié et son étalonnage s’est révélé non conforme; pas de changement à la fonction d’étalonnage"@fr ,
+    "Se verificó el instrumento y se observó que no estaba calibrado; no se aplicaron cambios en la función de calibración"@es ,
+    "Прибор проверен и признан неоткалиброванным; никаких изменений в функции калибровки"@ru .
+
+<03/unknown> a skos:Concept ;
+    skos:notation "unknown" ;
+    rdfs:label "no changes - calibration unknown"@en ,
+    "Pas de changement - étalonnage inconnu"@fr ,
+    "Sin cambios - calibración desconocida"@es ,
+    "Без изменений − калибровка неизвестна"@ru ;
+    dct:description  "Instrument visited but calibration could not be carried out"@en ,
+    "L’instrument a été examiné, mais il n’a pas été possible de procéder à l’étalonnage"@fr ,
+    "Se verificó el instrumento, pero no se pudo comprobar su calibración"@es ,
+    "Инструмент осмотрен, но провести калибровка было невозможно"@ru .
+
+<03/recalibrated> a skos:Concept ;
+    skos:notation "recalibrated" ;
+    rdfs:label "recalibrated - in calibration"@en ,
+    "Réétalonné - étalonnage conforme"@fr ,
+    "Recalibrado - calibrado"@es ,
+    "Повторно откалиброван − калиброван"@ru ;
+    dct:description  "Instrument checked and found to be out of calibration; instrument recalibrated (calibration function changed)"@en ,
+    "L’instrument a été vérifié et son étalonnage s’est révélé non conforme; il a été réétalonné (changement à la fonction d’étalonnage)"@fr ,
+    "Se verificó el instrumento y se observó que no estaba calibrado; se recalibró el instrumento (se aplicaron cambios en la función de calibración)"@es ,
+    "Прибор проверен и признан неоткалиброванным; прибор вновь откалиброван (функция калибровки изменена)"@ru .
+
+<03> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<03/inCalibration>,
+<03/outOfCalibration>,
+<03/unknown>,
+<03/recalibrated>.

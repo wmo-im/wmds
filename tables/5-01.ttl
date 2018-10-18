@@ -1,0 +1,58 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<01/automaticReading> a skos:Concept ;
+    skos:notation "automaticReading" ;
+    rdfs:label "Instrumental automatic reading"@en ,
+    "Lecture automatique de l’instrument"@fr ,
+    "Lectura automática del instrumento"@es ,
+    "Автоматическое считывание показаний прибора"@ru ;
+    dct:description  "Automatically produced measurement result"@en ,
+    "Résultat de mesure produit automatiquement"@fr ,
+    "Resultado de medición generado automáticamente"@es ,
+    "Результат автоматически произведенного измерения"@ru .
+
+<01/manualReading> a skos:Concept ;
+    skos:notation "manualReading" ;
+    rdfs:label "Instrumental manual reading"@en ,
+    "Lecture manuelle de l’instrument"@fr ,
+    "Lectura manual del instrumento "@es ,
+    "Ручное считывание показаний прибора"@ru ;
+    dct:description  "Manual reading of instrument, both analog and digital outputs"@en ,
+    "Lecture manuelle de l’instrument, résultats analogiques et numériques"@fr ,
+    "Lectura manual del instrumento, resultados tanto analógicos como digitales"@es ,
+    "Ручное считывание показаний прибора, аналоговые и цифровые данные"@ru .
+
+<01/humanObservation> a skos:Concept ;
+    skos:notation "humanObservation" ;
+    rdfs:label "Human observation"@en ,
+    "Observation humaine"@fr ,
+    "Observación humana"@es ,
+    "Визуальное наблюдение"@ru ;
+    dct:description  "Human, non-instrumented observation"@en ,
+    "Observation humaine, sans instrument"@fr ,
+    "Observación humana, sin instrumentos"@es ,
+    "Визуальное, неинструментальное наблюдение"@ru .
+
+<01/unspecified> a skos:Concept ;
+    skos:notation "unspecified" ;
+    rdfs:label "(unspecified)"@en ,
+    "(non précisé)"@fr ,
+    "(no se especifica)"@es ,
+    "(не определено)"@ru ;
+    dct:description  "Procedure used to obtain result unspecified"@en ,
+    "Procédure utilisée pour obtenir un résultat non précisé"@fr ,
+    "No se especifica el procedimiento empleado para obtener los resultados"@es ,
+    "Процедура, используемая для получения неопределенного результата"@ru .
+
+<01> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<01/automaticReading>,
+<01/manualReading>,
+<01/humanObservation>,
+<01/unspecified>.

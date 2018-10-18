@@ -1,0 +1,58 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<02/WMOEssential> a skos:Concept ;
+    skos:notation "WMOEssential" ;
+    rdfs:label "WMOEssential"@en ,
+    "Données essentielles de l’OMM"@fr ,
+    "WMOEssential"@es ,
+    "WMOEssential"@ru ;
+    dct:description  "WMO Essential Data: free and unrestricted international exchange of basic data and products."@en ,
+    "Données essentielles de l’OMM: échange international gratuit et sans restriction de données et de produits météorologiques de base "@fr ,
+    "Datos esenciales de la OMM: intercambio internacional, gratuito y sin restricciones de datos meteorológicos y productos meteorológicos básicos."@es ,
+    "Основные данные ВМО: бесплатный и неограниченный международный обмен базовыми данными и продукцией."@ru .
+
+<02/WMOAdditional> a skos:Concept ;
+    skos:notation "WMOAdditional" ;
+    rdfs:label "WMOAdditional"@en ,
+    ""@fr ,
+    ""@es ,
+    ""@ru ;
+    dct:description  "WMO Additional Data: free and unrestricted access to data and products exchanged under the auspices of WMO to the research and education communities for non-commercial activities. A more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider"@en ,
+    "Données supplémentaires de l’OMM"@fr ,
+    "WMOAdditional"@es ,
+    "WMOAdditional"@ru .
+
+<02/WMOOther> a skos:Concept ;
+    skos:notation "WMOOther" ;
+    rdfs:label "WMOOther"@en ,
+    ""@fr ,
+    ""@es ,
+    ""@ru ;
+    dct:description  "Data identified for global distribution via WMO infrastructure (GTS / WIS) that is not covered by WMO Resolution 25 neither WMO Resolution 40; e.g. aviation OPMET data. Data marked with ''WMOOther'' data policy shall be treated like ''WMOAdditional'' where a more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider"@en ,
+    "Autres données de l’OMM"@fr ,
+    "WMOOther"@es ,
+    "WMOOther"@ru .
+
+<02/noLimitation> a skos:Concept ;
+    skos:notation "noLimitation" ;
+    rdfs:label "(unspecified)"@en ,
+    "(non précisé)"@fr ,
+    "(sin especificar)"@es ,
+    "(не определено)"@ru ;
+    dct:description  "No limitation on distribution or use"@en ,
+    "Aucune limitation relative à la diffusion ou à l’utilisation des données"@fr ,
+    "Distribución o uso ilimitados."@es ,
+    "Никакого ограничения на растространение или использование."@ru .
+
+<02> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<02/WMOEssential>,
+<02/WMOAdditional>,
+<02/WMOOther>,
+<02/noLimitation>.

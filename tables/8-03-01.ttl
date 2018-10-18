@@ -1,0 +1,106 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<01/good> a skos:Concept ;
+    skos:notation "good" ;
+    rdfs:label "Good"@en ,
+    "Bonne"@fr ,
+    "Bueno"@es ,
+    "Хорошие"@ru ;
+    dct:description  "The data has been examined and represents a reliable measurement."@en ,
+    "Les données ont été examinées et représentent une mesure fiable."@fr ,
+    "Se han examinado los datos y estos representan una medición fidedigna."@es ,
+    "Данные были проверены и представляют надежное измерение."@ru .
+
+<01/inconsistent> a skos:Concept ;
+    skos:notation "inconsistent" ;
+    rdfs:label "Inconsistent"@en ,
+    "Inconhérente"@fr ,
+    "Incompatible"@es ,
+    "Несогласующиеся"@ru ;
+    dct:description  "The data has been examined and one or more parameters are inconsistent; the relationship between different elements does not meet defined criteria."@en ,
+    "Les données ont été examinées et au moins un paramètre est incohérent; la relation entre les différents éléments ne remplit pas les critères définis."@fr ,
+    "Se han examinado los datos y uno o más parámetros son incompatibles; la relación entre diferentes elementos no satisface los criterios definidos."@es ,
+    "Данные были проверены и один или несколько параметров являются несогласующимися; соотношение между разными элементами не соответствует определенным критериям."@ru .
+
+<01/suspect> a skos:Concept ;
+    skos:notation "suspect" ;
+    rdfs:label "Doubtful"@en ,
+    "Douteuse"@fr ,
+    "Dudoso"@es ,
+    "Сомнительные"@ru ;
+    dct:description  "The data should be treated as suspect."@en ,
+    "Les données doivent être considérées comme douteuses."@fr ,
+    "Los datos deben considerarse con reservas."@es ,
+    "Данные следует обрабатывать в качестве подозрительных."@ru .
+
+<01/erroneous> a skos:Concept ;
+    skos:notation "erroneous" ;
+    rdfs:label "Wrong"@en ,
+    "Incorrecte"@fr ,
+    "Erróneo"@es ,
+    "Неправильные"@ru ;
+    dct:description  "The data has been examined and determined to contain errors"@en ,
+    "Les données ont été examinées et contiennent des erreurs."@fr ,
+    "Se han examinado los datos y se ha determinado que contienen errores."@es ,
+    "Данные были проверены, и в них было определено наличие ошибок."@ru .
+
+<01/unchecked> a skos:Concept ;
+    skos:notation "unchecked" ;
+    rdfs:label "Not checked"@en ,
+    "Non contrôlée"@fr ,
+    "Sin verificar"@es ,
+    "Непроверенные"@ru ;
+    dct:description  "The data has not been checked by any qualitative or quantitative method."@en ,
+    "Les données n’ont pas été vérifiées par une méthode qualitative ou quantitative."@fr ,
+    "Los datos no se han verificado por ningún método cualitativo ni cuantitativo."@es ,
+    "Данные не были проверены посредством какого-либо метода определения качества или количества."@ru .
+
+<01/changed> a skos:Concept ;
+    skos:notation "changed" ;
+    rdfs:label "Has been changed"@en ,
+    "Modifiée"@fr ,
+    "Ha cambiado"@es ,
+    "Изменено"@ru ;
+    dct:description  "The original value has been replaced with another value."@en ,
+    "La valeur d’origine a été remplacée par une autre valeur."@fr ,
+    "El valor original se ha sustituido por otro."@es ,
+    "Первоначальное значение было заменено другим значением."@ru .
+
+<01/estimate> a skos:Concept ;
+    skos:notation "estimate" ;
+    rdfs:label "Estimated"@en ,
+    "Estimée"@fr ,
+    "Estimado"@es ,
+    "Оценены"@ru ;
+    dct:description  "The value has been estimated rather than measured."@en ,
+    "La valeur a été estimée, et non mesurée."@fr ,
+    "El valor no se ha medido, se ha estimado."@es ,
+    "Значение было скорее оценено, а не измерено."@ru .
+
+<01/missing> a skos:Concept ;
+    skos:notation "missing" ;
+    rdfs:label "Missing value"@en ,
+    "Valeur manquante"@fr ,
+    "Valor faltante"@es ,
+    "Отсутствующее значение"@ru ;
+    dct:description  "The data is missing."@en ,
+    "Les données sont absentes."@fr ,
+    "No hay datos."@es ,
+    "Данные отсутствуют."@ru .
+
+<01> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<01/good>,
+<01/inconsistent>,
+<01/suspect>,
+<01/erroneous>,
+<01/unchecked>,
+<01/changed>,
+<01/estimate>,
+<01/missing>.

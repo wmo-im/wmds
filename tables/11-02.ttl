@@ -1,0 +1,22 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<02/wgs84> a skos:Concept ;
+    skos:notation "wgs84" ;
+    rdfs:label "WGS84"@en ,
+    "WGS84"@fr ,
+    "WGS84"@es ,
+    "WGS84"@ru ;
+    dct:description  "An Earth-centered, Earth-fixed terrestrial reference system and geodetic datum. Currently, WGS84 uses the EGM96 (Earth Gravitational Model 1996) geoid, revised in 2004."@en ,
+    "Système géodésique de référence fixe centré sur la Terre. Actuellement, le WGS84 utilise le géoïde EGM96 (modèle gravitationnel terrestre de 1996), révisé en 2004."@fr ,
+    "Sistema de referencia y datum geodésico centrado en la Tierra y fijo en la Tierra. en la actualidad, el WGS84 utiliza el geoide EGM96 (Earth Gravitational Model 1996, Modelo gravitatorio terrestre 1996), revisado en 2004."@es ,
+    "Геоцентрическая, связанная с Землей наземная координатная система отсчета и геодезическая система. В настоящее время WGS84 использует геоид EGM96 (Гравитационная модель Земли 1996 г.), пересмотренную в 2004 г."@ru .
+
+<02> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<02/wgs84>.

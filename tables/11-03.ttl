@@ -1,0 +1,58 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<03/unknown> a skos:Concept ;
+    skos:notation "unknown" ;
+    rdfs:label "(unknown)"@en ,
+    "(inconnue)"@fr ,
+    "(desconocido)"@es ,
+    "(неизвестно)"@ru ;
+    dct:description  "The beginning and end of the period described by the timestamp are unknown."@en ,
+    "L’heure de début et de fin de la période décrite est inconnue."@fr ,
+    "El inicio y el final de l período descrito por la marca de tiempo son desconocidos."@es ,
+    "Начало и конец периода, указанные меткой времени, неизвестны."@ru .
+
+<03/beginning> a skos:Concept ;
+    skos:notation "beginning" ;
+    rdfs:label "Beginning"@en ,
+    "Début "@fr ,
+    "Inicio"@es ,
+    "Начало"@ru ;
+    dct:description  "Time stamps indicate the end of a period covering the range up to but excluding the preceding time stamp"@en ,
+    "L’heure correspond au début d’une période qui couvre la plage temporelle s’étendant jusqu’à, mais excluant, l’heure indiquée suivante."@fr ,
+    "Marca de tiempo que señala el comienzo de un período que abarca toda la escala hasta la siguiente marca de tiempo, a excepción de esta."@es ,
+    "Метки времени указывают на конец периода, охватывающего диапазон до предыдущей отметки времени, но исключая предыдущую метку времени."@ru .
+
+<03/end> a skos:Concept ;
+    skos:notation "end" ;
+    rdfs:label "End"@en ,
+    "Fin "@fr ,
+    "Final"@es ,
+    "Конец"@ru ;
+    dct:description  "Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp."@en ,
+    "L’heure correspond à la fin d’une période qui couvre la plage temporelle s’étendant jusqu’à, mais excluant, l’heure indiquée précédente."@fr ,
+    "Marca de tiempo que señala el final de un período que abarca toda la escala hasta la anterior marca de tiempo, a excepción de esta."@es ,
+    "Метки времени указывают на середину периода, начинающегося в середине диапазона, определенного этой или предыдущей меткой времени, и заканчивающегося сразу перед серединой диапазона, определенного этой и последующей меткой времени."@ru .
+
+<03/middle> a skos:Concept ;
+    skos:notation "middle" ;
+    rdfs:label "Middle"@en ,
+    "Milieu"@fr ,
+    "Mitad"@es ,
+    "Середина"@ru ;
+    dct:description  "Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp."@en ,
+    "L’heure correspond au milieu d’une période qui commence au milieu de la plage temporelle définie par l’heure indiquée ici et par l’heure indiquée précédente et qui se termine juste avant le milieu de la plage temporelle définie par l’heure indiquée ici et par l’heure indiquée suivante."@fr ,
+    "Marca de tiempo que señala la mitad de un período que comienza en el punto intermedio de la escala establecida entre esta marca y la anterior marca de tiempo y que finaliza justo antes del punto intermedio de la escala establecida entre esta marca y la siguiente marca de tiempo"@es ,
+    "Метки времени указывают на середину периода, начинающегося в середине диапазона, определенного этой или предыдущей меткой времени, и заканчивающегося сразу перед серединой диапазона, определенного этой и последующей меткой времени."@ru .
+
+<03> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<03/unknown>,
+<03/beginning>,
+<03/end>,
+<03/middle>.

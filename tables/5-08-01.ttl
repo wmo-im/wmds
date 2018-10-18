@@ -1,0 +1,106 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<01/internationalStandard> a skos:Concept ;
+    skos:notation "internationalStandard" ;
+    rdfs:label "International"@en ,
+    "International"@fr ,
+    "Internacional"@es ,
+    "Международный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01/primaryStandard> a skos:Concept ;
+    skos:notation "primaryStandard" ;
+    rdfs:label "Primary"@en ,
+    "Primaire"@fr ,
+    "Primario"@es ,
+    "Первичный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01/secondaryStandard> a skos:Concept ;
+    skos:notation "secondaryStandard" ;
+    rdfs:label "Secondary"@en ,
+    "Secondaire"@fr ,
+    "Secundario"@es ,
+    "Вторичный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01/referenceStandard> a skos:Concept ;
+    skos:notation "referenceStandard" ;
+    rdfs:label "Reference"@en ,
+    "De référence"@fr ,
+    "De referencia"@es ,
+    "Эталонный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01/workingStandard> a skos:Concept ;
+    skos:notation "workingStandard" ;
+    rdfs:label "Working"@en ,
+    "De travail"@fr ,
+    "De trabajo"@es ,
+    "Рабочий"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01/transferStandard> a skos:Concept ;
+    skos:notation "transferStandard" ;
+    rdfs:label "Transfer"@en ,
+    "De transfert"@fr ,
+    "De transferencia"@es ,
+    "Передаточный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01/travellingStandard> a skos:Concept ;
+    skos:notation "travellingStandard" ;
+    rdfs:label "Travelling"@en ,
+    "Voyageur"@fr ,
+    "Itinerante"@es ,
+    "Передвижной"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01/collectiveStandard> a skos:Concept ;
+    skos:notation "collectiveStandard" ;
+    rdfs:label "Collective"@en ,
+    "Collectif"@fr ,
+    "Colectivo"@es ,
+    "Коллективный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<01> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<01/internationalStandard>,
+<01/primaryStandard>,
+<01/secondaryStandard>,
+<01/referenceStandard>,
+<01/workingStandard>,
+<01/transferStandard>,
+<01/travellingStandard>,
+<01/collectiveStandard>.

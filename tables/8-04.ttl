@@ -1,0 +1,58 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<04/unknown> a skos:Concept ;
+    skos:notation "unknown" ;
+    rdfs:label "(unknown)"@en ,
+    "(inconnu)"@fr ,
+    "(desconocido)"@es ,
+    "(неизвестно)"@ru ;
+    dct:description  "Quality flagging system not known"@en ,
+    "Système d’indication de qualité inconnu"@fr ,
+    "Se desconoce el sistema de marcado de la calidad"@es ,
+    "Система маркировки качества неизвестна"@ru .
+
+<04/bufr033020> a skos:Concept ;
+    skos:notation "bufr033020" ;
+    rdfs:label "WMO BUFR table 0 33 020"@en ,
+    "Table de code BUFR 0 33 020 de l’OMM"@fr ,
+    "Tabla BUFR 0 33 020 de la OMM"@es ,
+    "Таблица BUFR 0 33 020 (ВМО)"@ru ;
+    dct:description  "Quality flags are specified according to BUFR table 0 33 020 (http://codes.wmo.int/bufr4/codeflag/0-33-020)"@en ,
+    "Indicateurs de qualité provenant de la table BUFR 0 33 020 (http://codes.wmo.int/bufr4/codeflag/0-33-020)"@fr ,
+    "Los banderines de calidad se especifican conforme a la tabla BUFR 0 33 020 (http://codes.wmo.int/bufr4/codeflag/0-33-020)"@es ,
+    "Флаги качества определяются по таблице BUFR 0 33 020 (http://codes.wmo.int/bufr4/codeflag/0-33-020)"@ru .
+
+<04/other> a skos:Concept ;
+    skos:notation "other" ;
+    rdfs:label "Other quality flagging system"@en ,
+    "Autre système d’indication de qualité"@fr ,
+    "Otro sistema de marcado de la calidad"@es ,
+    "Другая система маркировки качества"@ru ;
+    dct:description  "Quality flags are specified according to another system"@en ,
+    "Indicateurs de qualité provenant d’un autre système"@fr ,
+    "Los banderines de calidad se especifican conforme a otro sistema"@es ,
+    "Флаги качества определяются по другой системе"@ru .
+
+<04/waterML2.0> a skos:Concept ;
+    skos:notation "waterML2.0" ;
+    rdfs:label "WaterML2"@en ,
+    "WaterML2"@fr ,
+    "WaterML2"@es ,
+    "WaterML2"@ru ;
+    dct:description  "Quality flags are specified according to WaterML2, http://www.opengis.net/def/waterml/2.0/quality/"@en ,
+    "Indicateurs de qualité d’après la norme Water ML 2.0 (http://www.opengis.net/def/waterml/2.0/quality/)"@fr ,
+    "Los banderines de calidad se especifican conforme a WaterML2, http://www.opengis.net/def/waterml/2.0/quality/"@es ,
+    "Флаги качества определяются по WaterML2, http://www.opengis.net/def/waterml/2.0/quality/"@ru .
+
+<04> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<04/unknown>,
+<04/bufr033020>,
+<04/other>,
+<04/waterML2.0>.

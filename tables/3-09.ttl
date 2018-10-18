@@ -1,0 +1,94 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<09/operational> a skos:Concept ;
+    skos:notation "operational" ;
+    rdfs:label "Operational"@en ,
+    "Opérationnelle"@fr ,
+    "Operativa"@es ,
+    "Оперативное"@ru ;
+    dct:description  "The station fully complies with the reporting obligations of the observation programme/network concerned"@en ,
+    "La station remplit toutes les obligations de transmission fixées par le programme ou le réseau d’observation concerné."@fr ,
+    "La estación cumple plenamente con las obligaciones de comunicación de datos del programa o de la red de observación correspondiente"@es ,
+    "Станция полностью выполняет обязательства по сообщению данных в рамках соответствующей программы/сети наблюдений"@ru .
+
+<09/partlyOperational> a skos:Concept ;
+    skos:notation "partlyOperational" ;
+    rdfs:label "Partly operational"@en ,
+    "Opérationnelle en partie"@fr ,
+    "Operativa en parte"@es ,
+    "Частично оперативное"@ru ;
+    dct:description  "The station partially complies with the reporting obligations of the observation programme/network concerned"@en ,
+    "La station remplit en partie les obligations de transmission fixées par le programme ou le réseau d’observation concerné."@fr ,
+    "La estación cumple en parte con las obligaciones de comunicación de datos del programa o la red de observación correspondiente"@es ,
+    "Станция частично выполняет обязательства по сообщению данных в рамках соответствующей программы/сети наблюдений"@ru .
+
+<09/nonReporting> a skos:Concept ;
+    skos:notation "nonReporting" ;
+    rdfs:label "Non-reporting"@en ,
+    "N’émettant pas"@fr ,
+    "No transmite datos"@es ,
+    "Несообщение данных"@ru ;
+    dct:description  "The station is considered non-operational/non-reporting temporarily, but is expected to resume its operations/reporting after the temporary suspension"@en ,
+    "La station est considérée comme non opérationnelle/non émettrice pendant un certain temps. Elle devrait être à nouveau opérationnelle/émettrice après l’intervalle de suspension temporaire."@fr ,
+    "Se considera que la estación no puede transmitir datos o no no está operativa temporalmente, pero se confía en que reanude las operaciones o la comunicación tras la suspensión temporal"@es ,
+    "Станция считается неоперативной/временно не предоставляющей данные, однако ожидается, что она возобновить свое функционирование/сообщение данных по истичении периода временного приостановления работы"@ru .
+
+<09/closed> a skos:Concept ;
+    skos:notation "closed" ;
+    rdfs:label "Closed"@en ,
+    "Fermée"@fr ,
+    "Cerrada"@es ,
+    "Закрыта"@ru ;
+    dct:description  "The station has been declared as closed by the responsible supervising organization"@en ,
+    "L’organisation de supervision compétente a déclaré la station fermée"@fr ,
+    "La organización supervisora encargada ha declarado el cierre de la estación"@es ,
+    "Станция была объявлена закрытой ответственной контролирующей организацией"@ru .
+
+<09/planned> a skos:Concept ;
+    skos:notation "planned" ;
+    rdfs:label "Planned"@en ,
+    "Projetée"@fr ,
+    "Prevista"@es ,
+    "Запланировано"@ru ;
+    dct:description  "The station is planned to be deployed sometime in the future, and all information"@en ,
+    "La station devrait entrer en service ultérieurement et toute l’information transmise l’est à titre indicatif seulement. Aucune observation n’y est effectuée."@fr ,
+    "Está previsto instalar la estación en el futuro, y toda la información proporcionada se facilita únicamente a título informativo. No se efectúan observaciones."@es ,
+    "Планируется развертывание станции в какое-то время в будущем, и вся предусмотренная информация носит исключительно ориентировочный характер"@ru .
+
+<09/preOperational> a skos:Concept ;
+    skos:notation "preOperational" ;
+    rdfs:label "Pre-operational"@en ,
+    "Préopérationnelle"@fr ,
+    "Preoperativa"@es ,
+    "Предоперативное"@ru ;
+    dct:description  "The station is deployed and producing data but still not fully ready to start reporting operationally"@en ,
+    "La station est en service et recueille des données, mais n’est pas tout à fait prête à transmettre des observations de manière opérationnelle."@fr ,
+    "La estación se ha instalado y produce datos, pero todavía no está totalmente lista para comenzar a facilitar datos de forma operativa"@es ,
+    "Станция развернута и выдает данные, однако еще не полностью готова для начала сообщения информации в оперкативном режиме"@ru .
+
+<09/standBy> a skos:Concept ;
+    skos:notation "standBy" ;
+    rdfs:label "Stand-by"@en ,
+    "En attente"@fr ,
+    "En espera"@es ,
+    "Ожидание"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<09> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<09/operational>,
+<09/partlyOperational>,
+<09/nonReporting>,
+<09/closed>,
+<09/planned>,
+<09/preOperational>,
+<09/standBy>.

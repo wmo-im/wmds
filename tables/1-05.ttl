@@ -1,0 +1,94 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<05/unspecified> a skos:Concept ;
+    skos:notation "unspecified" ;
+    rdfs:label "(unspecified)"@en ,
+    "(non précisé)"@fr ,
+    "(sin especificar)"@es ,
+    "(не определено)"@ru ;
+    dct:description  "Not applicable in the context of the observed quantity; or: unknown; or: not available."@en ,
+    "Sans objet dans le contexte de la grandeur observée, information inconnue ou information non disponible."@fr ,
+    "No se aplica en el contexto de la cantidad observada; o: desconocido; o: no disponible."@es ,
+    "Неприменимо в контексте наблюдаемой количественной величины; или: неизвестно; или: отсутствует."@ru .
+
+<05/microscale> a skos:Concept ;
+    skos:notation "microscale" ;
+    rdfs:label "microscale"@en ,
+    "microéchelle"@fr ,
+    "microescala"@es ,
+    "микромасштаб"@ru ;
+    dct:description  "An area or volume less than 100 m horizontal extent (for example, evaporation)."@en ,
+    "Surface ou volume dont l’étendue horizontale est inférieure à 100 m (ex.: évaporation)."@fr ,
+    "Superficie o volumen con una extensión horizontal inferior a 100 m (por ejemplo, evaporación)."@es ,
+    "Площадь или объем менее 100 м по горизонтали (например, испарение)."@ru .
+
+<05/toposcale> a skos:Concept ;
+    skos:notation "toposcale" ;
+    rdfs:label "toposcale, local scale"@en ,
+    "échelle locale"@fr ,
+    "topoescala, escala local"@es ,
+    "местный, локальный масштаб"@ru ;
+    dct:description  "An area or volume of 100 m to 3 km horizontal extent (for example, air pollution, tornadoes)."@en ,
+    "Surface ou volume dont l’étendue horizontale se situe entre 100 m et 3 km (ex.: pollution de l’air, tornades)."@fr ,
+    "Superficie o volumen con una extensión horizontal de entre 100 m y 3 km horizontal (por ejemplo, contaminación del aire o tornados)."@es ,
+    "Площадь или объем от 100 м до 3 км по горизонтали (например, загрязнение воздуха, торнадо)."@ru .
+
+<05/mesoscale> a skos:Concept ;
+    skos:notation "mesoscale" ;
+    rdfs:label "mesoscale"@en ,
+    "mésoéchelle "@fr ,
+    "mesoescala"@es ,
+    "мезомасштаб"@ru ;
+    dct:description  "An area or volume of 3 km to 100 km horizontal extent (for example, thunderstorms, sea and mountain breezes)."@en ,
+    "Surface ou volume dont l’étendue horizontale se situe entre 3 km et 100 km (ex.: orages, brises de mer et de montagne)."@fr ,
+    "Superficie o volumen con una extensión horizontal de entre 3 km y 100 km (por ejemplo, tormentas y brisa de mar y montaña)."@es ,
+    "Площадь или объем от 3 км до 100 км по горизонтали (например, грозы, морские и горные бризы)."@ru .
+
+<05/largeScale> a skos:Concept ;
+    skos:notation "largeScale" ;
+    rdfs:label "large scale"@en ,
+    "grande échelle"@fr ,
+    "gran escala"@es ,
+    "крупный масштаб"@ru ;
+    dct:description  "An area or volume of 100 km to 3000 km horizontal extent (for example, fronts, various cyclones, cloud clusters)."@en ,
+    "Surface ou volume dont l’étendue horizontale se situe entre 100 km et 3 000 km (ex.: fronts, cyclones, amas nuageux)."@fr ,
+    "Superficie o volumen con una extensión horizontal de entre 100 km y 3000 km (por ejemplo, frentes, varios ciclones o aglomeraciones de nubes)."@es ,
+    "Площадь или объем от 100 км до 3000 км по горизонтали (например, фронты, различные циклоны, облачные скопления)."@ru .
+
+<05/planetaryScale> a skos:Concept ;
+    skos:notation "planetaryScale" ;
+    rdfs:label "planetary scale"@en ,
+    "échelle planétaire"@fr ,
+    "escala planetaria"@es ,
+    "планетарный масштаб"@ru ;
+    dct:description  "An area or volume of more than 3000 km horizontal extent (for example, long upper tropospheric waves)."@en ,
+    "Surface ou volume dont l’étendue horizontale est supérieure à 3 000 km (ex.: grandes ondes de la haute troposphère)."@fr ,
+    "Superficie o volumen con una extensión horizontal superior a 3 000 km (por ejemplo, ondas largas en la troposfera superior)."@es ,
+    "Площадь или объем более 3000 км по горизонтали (например, длинные волны в верхних слоях тропосферы)."@ru .
+
+<05/drainageArea> a skos:Concept ;
+    skos:notation "drainageArea" ;
+    rdfs:label "drainage area"@en ,
+    "bassin hydrographique"@fr ,
+    "zona de drenaje"@es ,
+    "площадь дренирования"@ru ;
+    dct:description  "An area (also known as 'catchment') having a common outlet for its surface runoff."@en ,
+    "Surface (également appelée «bassin versant») comportant un exutoire commun pour l’écoulement de surface."@fr ,
+    "Zona (también denominada ‘cuenca’) con una salida común para la escorrentía de su superficie."@es ,
+    "Площадь (также известная как «водосбор»), имеющая общий вывод для ее поверхностного стока."@ru .
+
+<05> a skos:Collection ;
+        rdfs:label "Representativeness" ;
+        dct:description  "Spatial extent of the region around the observation of which it is representative"@en ;
+        skos:member 
+
+<05/unspecified>,
+<05/microscale>,
+<05/toposcale>,
+<05/mesoscale>,
+<05/largeScale>,
+<05/planetaryScale>,
+<05/drainageArea>.

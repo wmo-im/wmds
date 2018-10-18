@@ -1,0 +1,106 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<01/gps> a skos:Concept ;
+    skos:notation "gps" ;
+    rdfs:label "GPS"@en ,
+    "GPS"@fr ,
+    "GPS"@es ,
+    "GPS"@ru ;
+    dct:description  "Location determined using the Global Positioning System. http://www.gps.gov/"@en ,
+    "Position déterminée à l’aide du système de positionnement mondial, http://www.gps.gov/"@fr ,
+    "Posición determinada utilizando el Sistema de posicionamiento mundial. http://www.gps.gov/"@es ,
+    "Местоположение определено с использованием Глобальной системы определения местоположения. http://www.gps.gov/"@ru .
+
+<01/argosDoppler> a skos:Concept ;
+    skos:notation "argosDoppler" ;
+    rdfs:label "ARGOS DOPPLER"@en ,
+    "ARGOS DOPPLER"@fr ,
+    "ARGOS DOPPLER"@es ,
+    "ARGOS DOPPLER"@ru ;
+    dct:description  "Location determined using the frequency shift of transmissions to the ARGOS communications satellite service. http://www.argos-system.org/web/en/333-why-choose-argos.php"@en ,
+    "Position déterminée à l’aide du déplacement de fréquence des transmissions à destination du satellite de télécommunications ARGOS, http://www.argos-system.org/fr/argos/pourquoi-choisir-argos/"@fr ,
+    "Posición determinada utilizando el desplazamiento de frecuencia de las transmisiones al servicio del satélite de comunicaciones ARGOS. http://www.argos-system.org/web/en/333-why-choose-argos.php"@es ,
+    "Местоположение определено с использованием сдвига частоты передач в спутниковую службу связи ARGOS. http://www.argos-system.org/web/en/333-why-choose-argos.php"@ru .
+
+<01/iridiumDoppler> a skos:Concept ;
+    skos:notation "iridiumDoppler" ;
+    rdfs:label "IRIDIUM DOPPLER"@en ,
+    "IRIDIUM DOPPLER"@fr ,
+    "IRIDIUM DOPPLER"@es ,
+    "IRIDIUM DOPPLER"@ru ;
+    dct:description  "Location determined using the frequency shift of transmissions to the Iridium communications satellite constellation. https://www.iridium.com/"@en ,
+    "Position déterminée à l’aide du déplacement de fréquence des transmissions à destination de la constellation de satellites de télécommunications Iridium, https://www.iridium.com/"@fr ,
+    "Posición determinada utilizando el desplazamiento de frecuencia de las transmisiones a la constelación de satélites Iridium. https://www.iridium.com/"@es ,
+    "Местоположение определено с использованием сдвига частоты передач в спутниковую группу связи Iridium. https://www.iridium.com/"@ru .
+
+<01/argosKalman> a skos:Concept ;
+    skos:notation "argosKalman" ;
+    rdfs:label "ARGOS Kalman"@en ,
+    "ARGOS Kalman"@fr ,
+    "ARGOS Kalman"@es ,
+    "ARGOS Kalman"@ru ;
+    dct:description  "Location determined using the Kalman filtering technique and the ARGOS communications satellite service. http://www.argos-system.org/web/en/393-faq-kalman.php."@en ,
+    "Position déterminée à l’aide du filtre de Kalman et du satellite de télécommunications ARGOS, http://www.argos-system.org/fr/support-et-aide/faq-kalman/"@fr ,
+    "Posición determinada utilizando la técnica de filtrado Kalman y el servicio del satélite de comunicaciones ARGOS. http://www.argos-system.org/web/en/393-faq-kalman.php."@es ,
+    "Местоположение определено с использованием метода фильтрации Калмана и спутниковой службы связи ARGOS. http://www.argos-system.org/web/en/393-faq-kalman.php."@ru .
+
+<01/galileo> a skos:Concept ;
+    skos:notation "galileo" ;
+    rdfs:label "GALILEO"@en ,
+    "GALILEO"@fr ,
+    "GALILEO"@es ,
+    "GALILEO"@ru ;
+    dct:description  "Location determined using the European GALILEO global navigation satellite system. http://galileognss.eu/"@en ,
+    "Position déterminée à l’aide du système européen de navigation par satellite GALILEO, http://galileognss.eu/"@fr ,
+    "Posición determinada utilizando el Sistema europeo GALILEO de satélites para la navegación mundial. http://galileognss.eu/"@es ,
+    "Местоположение определено с использованием европейской глобальной навигационной спутниковой системы GALILEO. http://galileognss.eu/"@ru .
+
+<01/loran> a skos:Concept ;
+    skos:notation "loran" ;
+    rdfs:label "LORAN"@en ,
+    "LORAN"@fr ,
+    "LORAN"@es ,
+    "LORAN"@ru ;
+    dct:description  "Location determined using the LORAN (LOng RAnge Navigation) hyperbolic radio system."@en ,
+    "Position déterminée à l’aide du système de radionavigation hyperbolique à longue portée LORAN"@fr ,
+    "Posición determinada utilizando el LORAN (LOng RAnge Navigation, navegación de largo alcance), un sistema hiperbólico de navegación por radio."@es ,
+    "Местоположение определено с использованием гиперболической радиосистемы LORAN (LOng RAnge Navigation) (дальняя навигация)."@ru .
+
+<01/survey> a skos:Concept ;
+    skos:notation "survey" ;
+    rdfs:label "Survey"@en ,
+    "Levés"@fr ,
+    "Levantamiento geográfico"@es ,
+    "Топографическая съемка"@ru ;
+    dct:description  "Location determined using a geographic survey."@en ,
+    "Position déterminée à l’aide d’un relevé géographique."@fr ,
+    "Posición determinada utilizando un levantamiento geográfico."@es ,
+    "Местоположение определено с использованием мелкомасштабной топографической съемки."@ru .
+
+<01/map> a skos:Concept ;
+    skos:notation "map" ;
+    rdfs:label "From map"@en ,
+    "Carte"@fr ,
+    "Mapa"@es ,
+    "По карте"@ru ;
+    dct:description  "Location extracted by locating the object on a map."@en ,
+    "Position déterminée à l’aide d’une carte."@fr ,
+    "Posición obtenida localizando el objeto en un mapa."@es ,
+    "Местоположение выводится посредством определения местоположения объекта на карте."@ru .
+
+<01> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<01/gps>,
+<01/argosDoppler>,
+<01/iridiumDoppler>,
+<01/argosKalman>,
+<01/galileo>,
+<01/loran>,
+<01/survey>,
+<01/map>.

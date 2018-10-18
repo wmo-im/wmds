@@ -1,0 +1,166 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<04/landFixed> a skos:Concept ;
+    skos:notation "landFixed" ;
+    rdfs:label "Land (fixed) "@en ,
+    "Terrestre (fixe)"@fr ,
+    "Tierra (fija) "@es ,
+    "Наземная (фиксированная) "@ru ;
+    dct:description  "Station/platform on solid terrain, at fixed position"@en ,
+    "Station/plate-forme sur terrain solide (position fixe)"@fr ,
+    "Plataforma/estación en tierra firme, en una posición fija"@es ,
+    "Станция/платформа на твердом участке местности в фиксированной позиции"@ru .
+
+<04/landMobile> a skos:Concept ;
+    skos:notation "landMobile" ;
+    rdfs:label "Land (mobile)"@en ,
+    "Terrestre (mobile) "@fr ,
+    "Tierra (móvil)"@es ,
+    "Наземная (мобильная)"@ru ;
+    dct:description  "Station/platform on solid terrain, moving around"@en ,
+    "Station/plate-forme itinérante sur terrain solide"@fr ,
+    "Plataforma/estación en tierra firme, en movimiento"@es ,
+    "Станция/платформа на твердом участке местности перемещающаяся"@ru .
+
+<04/seaFixed> a skos:Concept ;
+    skos:notation "seaFixed" ;
+    rdfs:label "Sea (fixed)"@en ,
+    "En mer (fixe)"@fr ,
+    "Mar (fija)"@es ,
+    "Морская (фиксированная)"@ru ;
+    dct:description  "Station/platform at sea surface, at fixed position"@en ,
+    "Station/plate-forme à la surface de la mer (position fixe)"@fr ,
+    "Plataforma/estación sobre la superficie del mar, en una posición fija"@es ,
+    "Станция/платформа на морской поверхности в фиксированной позиции"@ru .
+
+<04/seaMobile> a skos:Concept ;
+    skos:notation "seaMobile" ;
+    rdfs:label "Sea (mobile)"@en ,
+    "En mer (mobile)"@fr ,
+    "Mar (móvil)"@es ,
+    "Морская (мобильная)"@ru ;
+    dct:description  "Station/platform at sea surface, moving around"@en ,
+    "Station/plate-forme itinérante à la surface de la mer"@fr ,
+    "Plataforma/estación sobre la superficie del mar, en movimiento"@es ,
+    "Станция/платформа на морской поверхности перемещающаяся"@ru .
+
+<04/airFixed> a skos:Concept ;
+    skos:notation "airFixed" ;
+    rdfs:label "Air (fixed)"@en ,
+    "Dans les airs (fixe) "@fr ,
+    "Aire (fija)"@es ,
+    "Воздушная (фиксированная)"@ru ;
+    dct:description  "Airborne station/platform, at fixed position"@en ,
+    "Station/plate-forme aéroportée (position fixe)"@fr ,
+    "Plataforma/estación aérea, en una posición fija"@es ,
+    "Станция/платформа, находящася в воздухе в фиксированной позиции"@ru .
+
+<04/airMobile> a skos:Concept ;
+    skos:notation "airMobile" ;
+    rdfs:label "Air (mobile)"@en ,
+    "Dans les airs (mobile)"@fr ,
+    "Aire (móvil)"@es ,
+    "Воздушная (мобильная)"@ru ;
+    dct:description  "Airborne station/platform, moving around"@en ,
+    "Station/plate-forme itinérante et aéroportée"@fr ,
+    "Plataforma/estación aérea, en movimiento"@es ,
+    "Станция/платформа, находящаяся в воздухе, перемещающаяся"@ru .
+
+<04/underwaterFixed> a skos:Concept ;
+    skos:notation "underwaterFixed" ;
+    rdfs:label "Underwater (fixed)"@en ,
+    "Sous-marine (fixe)"@fr ,
+    "Submarina (fija)"@es ,
+    "Подводная (фиксированная)"@ru ;
+    dct:description  "Station/platform under water, at fixed horizontal position"@en ,
+    "Station/plate-forme sous-marine (position horizontale fixe)"@fr ,
+    "Plataforma/estación submarina, en una posición fija horizontal"@es ,
+    "Станция/платформа под водой в фиксированной горизонтальной позиции"@ru .
+
+<04/underwaterMobile> a skos:Concept ;
+    skos:notation "underwaterMobile" ;
+    rdfs:label "Underwater (mobile)"@en ,
+    "Sous-marine (mobile)"@fr ,
+    "Submarina (móvil)"@es ,
+    "Подводная (мобильная)"@ru ;
+    dct:description  "Station/platform under water, moving around"@en ,
+    "Station/plate-forme itinérante et sous-marine"@fr ,
+    "Plataforma/estación submarina, en movimiento"@es ,
+    "Станция/платформа под водой перемещающаяся"@ru .
+
+<04/landOnIce> a skos:Concept ;
+    skos:notation "landOnIce" ;
+    rdfs:label "Land (on ice) "@en ,
+    "Terrestre (sur glace)"@fr ,
+    "Tierra (sobre el hielo) "@es ,
+    "Наземная (на льду) "@ru ;
+    dct:description  "Station/platform on ice-covered ground, moving with the ice"@en ,
+    "Station/plate-forme sur inlandsis, se déplaçant avec la glace"@fr ,
+    "Plataforma/estación en tierra cubierta de hielo, que se mueve con el hielo"@es ,
+    "Станция/платформа на покрытой льдом земле, перемещающаяся вместе со льдом"@ru .
+
+<04/seaOnIce> a skos:Concept ;
+    skos:notation "seaOnIce" ;
+    rdfs:label "Sea (on ice)"@en ,
+    "En mer (sur glace)"@fr ,
+    "Mar (sobre el hielo)"@es ,
+    "Морская (на льду)"@ru ;
+    dct:description  "Station/platform on floating ice, moving with the ice"@en ,
+    "Station/plate-forme sur glace flottante, se déplaçant avec la glace"@fr ,
+    "Plataforma/estación sobre hielo flotante, que se mueve con el hielo"@es ,
+    "Станция/платформа на плавающем льду, перемещающаяся вместе со льдом"@ru .
+
+<04/lakeRiverFixed> a skos:Concept ;
+    skos:notation "lakeRiverFixed" ;
+    rdfs:label "Lake/River (fixed)"@en ,
+    "Sur lac/rivière (fixe)"@fr ,
+    "Lago/río (fija)"@es ,
+    "Озерная/речная (фиксированная)"@ru ;
+    dct:description  "Station/platform at lake/river surface, at fixed position"@en ,
+    "Station/plate-forme à la surface d’un lac ou d’une rivière (position fixe)"@fr ,
+    "Plataforma/estación en la superficie de un lago o un río, en una posición fija"@es ,
+    "Станция/платформа на поверхности озера/реки в фиксированной горизонтальной позиции"@ru .
+
+<04/lakeRiverMobile> a skos:Concept ;
+    skos:notation "lakeRiverMobile" ;
+    rdfs:label "Lake/River (mobile)"@en ,
+    "Sur lac/rivière (mobile)"@fr ,
+    "Lago/río (móvil)"@es ,
+    "Озерная/речная (мобильная)"@ru ;
+    dct:description  "station/platform at lake/river surface, moving around"@en ,
+    "Station/plate-forme itinérante à la surface d’un lac ou d’une rivière"@fr ,
+    "Plataforma/estación en la superficie de un lago o un río, en movimiento"@es ,
+    "Станция/платформа на поверхности озера/реки перемещающаяся "@ru .
+
+<04/spaceBased> a skos:Concept ;
+    skos:notation "spaceBased" ;
+    rdfs:label "Space-based"@en ,
+    "Dans l’espace"@fr ,
+    "Espacial"@es ,
+    "Космическая"@ru ;
+    dct:description  "Satellite platform in orbit"@en ,
+    "Plate-forme satellitaire en orbite"@fr ,
+    "Plataforma a bordo de un satélite en órbita"@es ,
+    "Спутниковая платформа на орбите"@ru .
+
+<04> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<04/landFixed>,
+<04/landMobile>,
+<04/seaFixed>,
+<04/seaMobile>,
+<04/airFixed>,
+<04/airMobile>,
+<04/underwaterFixed>,
+<04/underwaterMobile>,
+<04/landOnIce>,
+<04/seaOnIce>,
+<04/lakeRiverFixed>,
+<04/lakeRiverMobile>,
+<04/spaceBased>.

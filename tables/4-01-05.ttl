@@ -1,0 +1,178 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<05/water> a skos:Concept ;
+    skos:notation "water" ;
+    rdfs:label "Water"@en ,
+    "Eau"@fr ,
+    "Agua"@es ,
+    "Вода"@ru ;
+    dct:description  "None of the codes in the table are applicable in the context of this particular observation (nilReason)"@en ,
+    "Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason)"@fr ,
+    "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
+    "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
+
+<05/evergreenNeedleTrees> a skos:Concept ;
+    skos:notation "evergreenNeedleTrees" ;
+    rdfs:label "Evergreen Needleleaf trees"@en ,
+    "Conifères à feuillage persistant"@fr ,
+    "Árboles de hoja aciculada perennes"@es ,
+    "Вечнозеленые хвойные деревья"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/evergreenBroadleafTrees> a skos:Concept ;
+    skos:notation "evergreenBroadleafTrees" ;
+    rdfs:label "Evergreen Broadleaf trees"@en ,
+    "Feuillus à feuillage persistant "@fr ,
+    "Árboles de hoja ancha perennes"@es ,
+    "Вечнозеленые широколиственные деревья"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/deciduousNeedleafTrees> a skos:Concept ;
+    skos:notation "deciduousNeedleafTrees" ;
+    rdfs:label "Deciduous Needleleaf trees"@en ,
+    "Conifères à feuillage caduc"@fr ,
+    "Árboles de hoja aciculada caducifolios"@es ,
+    "Листопадные хвойные деревья"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/deciduousBroadleafTrees> a skos:Concept ;
+    skos:notation "deciduousBroadleafTrees" ;
+    rdfs:label "Deciduous Broadleaf trees"@en ,
+    "Feuillus à feuillage caduc"@fr ,
+    "Árboles de hoja ancha caducifolios"@es ,
+    "Листопадные широколиственные деревья"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/shrub> a skos:Concept ;
+    skos:notation "shrub" ;
+    rdfs:label "Shrub"@en ,
+    "Arbustes"@fr ,
+    "Tierras de matorral"@es ,
+    "Кустарник"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/grass> a skos:Concept ;
+    skos:notation "grass" ;
+    rdfs:label "Grass"@en ,
+    "Herbe"@fr ,
+    "Prados"@es ,
+    "Трава"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/cerealCrops> a skos:Concept ;
+    skos:notation "cerealCrops" ;
+    rdfs:label "Cereal crops"@en ,
+    "Cultures céréalières"@fr ,
+    "Cultivos de cereales"@es ,
+    "Зерновые культуры"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/broadLeafCrops> a skos:Concept ;
+    skos:notation "broadLeafCrops" ;
+    rdfs:label "Broad-leaf crops"@en ,
+    "Cultures de feuillus "@fr ,
+    "Cultivos de hoja ancha"@es ,
+    "Широколиственные культуры"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/urbanBuiltUp> a skos:Concept ;
+    skos:notation "urbanBuiltUp" ;
+    rdfs:label "Urban and built-up"@en ,
+    "Cadre urbain et bâti "@fr ,
+    "Urbana y construida"@es ,
+    "Городские и застроенные территории"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/snowIce> a skos:Concept ;
+    skos:notation "snowIce" ;
+    rdfs:label "Snow and ice"@en ,
+    "Neige et glace "@fr ,
+    "Nieve y hielo"@es ,
+    "Снег и лед"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/barren> a skos:Concept ;
+    skos:notation "barren" ;
+    rdfs:label "Barren or sparse vegetation"@en ,
+    "Terre dénudée ou végétation clairsemée"@fr ,
+    "Tierra estéril o con escasa vegetación"@es ,
+    "Бесплодный участок земли или с минимумом растительности"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/unclassified> a skos:Concept ;
+    skos:notation "unclassified" ;
+    rdfs:label "Unclassified"@en ,
+    "Non classée "@fr ,
+    "Sin clasificar"@es ,
+    "Неклассифицированный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05/FillValue> a skos:Concept ;
+    skos:notation "FillValue" ;
+    rdfs:label "Fill Value"@en ,
+    "Inscrire une valeur"@fr ,
+    "Cumplimentar valor"@es ,
+    "Укажите значимость информации"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<05> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<05/water>,
+<05/evergreenNeedleTrees>,
+<05/evergreenBroadleafTrees>,
+<05/deciduousNeedleafTrees>,
+<05/deciduousBroadleafTrees>,
+<05/shrub>,
+<05/grass>,
+<05/cerealCrops>,
+<05/broadLeafCrops>,
+<05/urbanBuiltUp>,
+<05/snowIce>,
+<05/barren>,
+<05/unclassified>,
+<05/FillValue>.

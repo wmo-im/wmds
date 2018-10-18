@@ -1,0 +1,46 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<04/operational> a skos:Concept ;
+    skos:notation "operational" ;
+    rdfs:label "Operational"@en ,
+    "En service"@fr ,
+    "Operativo"@es ,
+    "Рабочий"@ru ;
+    dct:description  "The instrument is declared operational and subject to routine maintenance"@en ,
+    "L’instrument est déclaré en service et soumis à un entretien courant"@fr ,
+    "El instrumento se declara operativo y está sujeto a mantenimiento rutinario"@es ,
+    "Прибор заявлен готовым к работе и подлежит регламентному обслуживанию"@ru .
+
+<04/testing> a skos:Concept ;
+    skos:notation "testing" ;
+    rdfs:label "Testing / commissioning"@en ,
+    "À l’essai/mise en service"@fr ,
+    "En pruebas / puesta en funcionamiento"@es ,
+    "Тестирование/заказ"@ru ;
+    dct:description  "The instrument is deployed for testing purposes and the information provided may not be reliable"@en ,
+    "L’instrument est en place afin de procéder à des essais et l’information transmise pourrait manquer de fiabilité"@fr ,
+    "El instrumento está instalado con fines de prueba; puede que la información facilitada no sea fidedigna"@es ,
+    "Прибор установлен для целей тестирования, и предоставленная информация не может быть надежной"@ru .
+
+<04/inactive> a skos:Concept ;
+    skos:notation "inactive" ;
+    rdfs:label "Not in service / inactive"@en ,
+    "Hors service/inactif"@fr ,
+    "Fuera de servicio / inactivo"@es ,
+    "Не эксплуатируется/не работает"@ru ;
+    dct:description  "The instrument is deployed but presently not in service"@en ,
+    "L’instrument est en place, mais il n’est pas en service pour le moment"@fr ,
+    "El instrumento está instalado, pero actualmente no se encuentra en funcionamiento"@es ,
+    "Прибор установлен, но в настоящее время не эксплуатируется"@ru .
+
+<04> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<04/operational>,
+<04/testing>,
+<04/inactive>.

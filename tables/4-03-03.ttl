@@ -1,0 +1,94 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<03/nilReason> a skos:Concept ;
+    skos:notation "nilReason" ;
+    rdfs:label "Not applicable"@en ,
+    "Sans objet"@fr ,
+    "No se aplica"@es ,
+    "Неприменимо"@ru ;
+    dct:description  "None of the codes in the table are applicable in the context of this particular observation (nilReason)"@en ,
+    "Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason)"@fr ,
+    "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
+    "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
+
+<03/plains> a skos:Concept ;
+    skos:notation "plains" ;
+    rdfs:label "Plains"@en ,
+    "Plaines"@fr ,
+    "Planicies"@es ,
+    "Равнины"@ru ;
+    dct:description  "Very low relief"@en ,
+    "Très faible relief "@fr ,
+    "Relieve muy bajo"@es ,
+    "Очень низкий рельеф"@ru .
+
+<03/hollows> a skos:Concept ;
+    skos:notation "hollows" ;
+    rdfs:label "Hollows"@en ,
+    "Creux"@fr ,
+    "Hondonadas"@es ,
+    "Низины"@ru ;
+    dct:description  "Low relief, tending to convergent form"@en ,
+    "Faible relief, tendant vers une forme convergente "@fr ,
+    "Relieve bajo, con tendencia a adoptar una forma convergente"@es ,
+    "Низкий рельеф, с тенденцией к переходу в сходящуюся форму"@ru .
+
+<03/rises> a skos:Concept ;
+    skos:notation "rises" ;
+    rdfs:label "Rises"@en ,
+    "Montées"@fr ,
+    "Emersiones"@es ,
+    "Возвышенности"@ru ;
+    dct:description  "Low relief, tending to divergent form"@en ,
+    "Faible relief, tendant vers une forme divergente "@fr ,
+    "Relieve bajo, con tendencia a adoptar una forma divergente"@es ,
+    "Низкий рельеф, с тенденцией к переходу в расходящуюся форму"@ru .
+
+<03/valleys> a skos:Concept ;
+    skos:notation "valleys" ;
+    rdfs:label "Valleys"@en ,
+    "Vallées"@fr ,
+    "Valles"@es ,
+    "Долины"@ru ;
+    dct:description  "Medium relief, tending to convergent form"@en ,
+    "Relief intermédiaire, tendant vers une forme convergente"@fr ,
+    "Relieve medio, con tendencia a adoptar una forma convergente"@es ,
+    "Средний рельеф, с тенденцией к переходу в сходящуюся форму"@ru .
+
+<03/hills> a skos:Concept ;
+    skos:notation "hills" ;
+    rdfs:label "Hills"@en ,
+    "Collines"@fr ,
+    "Colinas"@es ,
+    "Холмы"@ru ;
+    dct:description  "Medium relief, tending to divergent form"@en ,
+    "Relief intermédiaire, tendant vers une forme divergente "@fr ,
+    "Relieve medio, con tendencia a adoptar una forma divergente"@es ,
+    "Средний рельеф, с тенденцией к переходу в расходящуюся форму"@ru .
+
+<03/mountains> a skos:Concept ;
+    skos:notation "mountains" ;
+    rdfs:label "Mountains"@en ,
+    "Montagnes"@fr ,
+    "Montañas"@es ,
+    "Горы"@ru ;
+    dct:description  "High relief"@en ,
+    "Relief accentué"@fr ,
+    "Relieve alto"@es ,
+    "Высокий рельеф"@ru .
+
+<03> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<03/nilReason>,
+<03/plains>,
+<03/hollows>,
+<03/rises>,
+<03/valleys>,
+<03/hills>,
+<03/mountains>.

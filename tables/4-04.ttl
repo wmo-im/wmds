@@ -1,0 +1,706 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<04/notApplicable> a skos:Concept ;
+    skos:notation "notApplicable" ;
+    rdfs:label "(not applicable)"@en ,
+    "(Sans objet)"@fr ,
+    "(no se aplica)"@es ,
+    "(неприменимо)"@ru ;
+    dct:description  "None of the codes in the table is applicable in the context of the observing facility; or: Unknown; or: Information not available"@en ,
+    "Aucun des codes de la table ne s’applique dans le cadre de cette installation d’observation; ou: Inconnu; ou: Information non disponible "@fr ,
+    "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de la instalación de observación; o: Desconocido; o: No se dispone de información"@es ,
+    "Ни один из кодов в таблице неприменим в контексте средства наблюдения; или: Неизвестно; или: Информация отсутствует"@ru .
+
+<04/incident> a skos:Concept ;
+    skos:notation "incident" ;
+    rdfs:label "Incident"@en ,
+    "Incident"@fr ,
+    "Incidente"@es ,
+    "Инцидент"@ru ;
+    dct:description  "An unexpected event that has (or may have) impacted the observations"@en ,
+    "Événement imprévu qui a eu (ou a pu avoir) une incidence sur les observations"@fr ,
+    "Fenómeno inesperado que ha influido (o puede haber influido) en las observaciones"@es ,
+    "Неожиданное событие, которое повлияло (или могло повлиять) на проведение наблюдений"@ru .
+
+<04/intervention> a skos:Concept ;
+    skos:notation "intervention" ;
+    rdfs:label "Intervention"@en ,
+    "Intervention"@fr ,
+    "Intervención"@es ,
+    "Вмешательство"@ru ;
+    dct:description  "Human activity that has (or may have) impacted the observations"@en ,
+    "Action d’origine humaine qui a eu (ou a pu avoir) une incidence sur les observations"@fr ,
+    "Actividad humana que ha influido (o puede influido) en las observaciones"@es ,
+    "Деятельность человека, которая повлияла (или могла повлиять) на проведение наблюдений"@ru .
+
+<04/environmental> a skos:Concept ;
+    skos:notation "environmental" ;
+    rdfs:label "Environmental"@en ,
+    "Environnemental"@fr ,
+    "Ambiental"@es ,
+    "Экологический"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/fire> a skos:Concept ;
+    skos:notation "fire" ;
+    rdfs:label "Fire"@en ,
+    "Incendie"@fr ,
+    "Fuego"@es ,
+    "Пожар"@ru ;
+    dct:description  "Fire inside building"@en ,
+    "Incendie dans le bâtiment"@fr ,
+    "Fuego en el interior del edificio"@es ,
+    "Пораж внутри здания"@ru .
+
+<04/severeWeather> a skos:Concept ;
+    skos:notation "severeWeather" ;
+    rdfs:label "Severe weather"@en ,
+    "Phénomène météorologique violent"@fr ,
+    "Fenómenos meteorológicos extremos"@es ,
+    "Суровая погода"@ru ;
+    dct:description  "A natural severe weather event that has (or may have) impacted the observations"@en ,
+    "Phénomène météorologique violent d’origine naturelle qui a eu (ou a pu avoir) une incidence sur les observations"@fr ,
+    "Fenómeno meteorológico extremo que ha influido (o puede haber influido) en las observaciones"@es ,
+    "Естественное явление суровой погоды, которое повлияло (или могло повлиять) на проведение наблюдений"@ru .
+
+<04/spaceWeather> a skos:Concept ;
+    skos:notation "spaceWeather" ;
+    rdfs:label "Space weather"@en ,
+    "Phénomène météorologique spatial"@fr ,
+    "Meteorología del espacio"@es ,
+    "Космическая погода"@ru ;
+    dct:description  "An event in outer space that has (or may have) impacted the observations"@en ,
+    "Phénomène survenu dans l’espace extra‑atmosphérique qui a eu (ou a pu avoir) une incidence sur les observations"@fr ,
+    "Fenómeno del espacio exterior que ha influido (o puede haber influido) en las observaciones"@es ,
+    "Явление в космической погоде, которое повлияло (или могло повлять) на проведение наблюдений"@ru .
+
+<04/technical> a skos:Concept ;
+    skos:notation "technical" ;
+    rdfs:label "Technical"@en ,
+    "Technique"@fr ,
+    "Técnico"@es ,
+    "Технический"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/agriculturalActivity> a skos:Concept ;
+    skos:notation "agriculturalActivity" ;
+    rdfs:label "Agricultural activity"@en ,
+    "Activité agricole"@fr ,
+    "Actividad agrícola"@es ,
+    "Сельскохозяйственная деятельность"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/biomassBurningPlanned> a skos:Concept ;
+    skos:notation "biomassBurningPlanned" ;
+    rdfs:label "Biomass burning (planned)"@en ,
+    "Combustion de la biomasse (prévue)"@fr ,
+    "Quema de biomasa (planificada)"@es ,
+    "Сжигание биомассы (запланированное)"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/construction> a skos:Concept ;
+    skos:notation "construction" ;
+    rdfs:label "Construction"@en ,
+    "Construction"@fr ,
+    "Construcción"@es ,
+    "Строительство"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/equipmentCleaning> a skos:Concept ;
+    skos:notation "equipmentCleaning" ;
+    rdfs:label "Equipment cleaning/ painting"@en ,
+    "Nettoyage/peinture de l’équipement "@fr ,
+    "Limpieza/pintura de los equipos"@es ,
+    "Чистка/окраска оборудования"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/repairReplacement> a skos:Concept ;
+    skos:notation "repairReplacement" ;
+    rdfs:label "Equipment repair/ replacement"@en ,
+    "Réparation/remplacement de l’équipement "@fr ,
+    "Reparación/sustitución de los equipos"@es ,
+    "Ремонт/замена оборудования"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/equipmentVerificationCalibration> a skos:Concept ;
+    skos:notation "equipmentVerificationCalibration" ;
+    rdfs:label "Equipment verification/ calibration"@en ,
+    "Vérification/étalonnage de l’équipement "@fr ,
+    "Verificación/calibrado de los equipos"@es ,
+    "Проверка/калибровка оборудования"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/personnelAbsence> a skos:Concept ;
+    skos:notation "personnelAbsence" ;
+    rdfs:label "Personnel absent"@en ,
+    "Absence du personnel"@fr ,
+    "Ausencia de personal"@es ,
+    "Отсутствующий персонал"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/infrastructureWorks> a skos:Concept ;
+    skos:notation "infrastructureWorks" ;
+    rdfs:label "Infrastructure works"@en ,
+    "Travaux d’infrastructure"@fr ,
+    "Obras de infraestructura"@es ,
+    "Инфраструктурные работы"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/inspectionAuditing> a skos:Concept ;
+    skos:notation "inspectionAuditing" ;
+    rdfs:label "Inspection/ auditing"@en ,
+    "Inspection/contrôle"@fr ,
+    "Inspección/auditoría"@es ,
+    "Инспекция/аудит"@ru ;
+    dct:description  "Corrosion of components, seizing"@en ,
+    "Corrosion des composants, grippage"@fr ,
+    "Corrosión de componentes, gripado"@es ,
+    "Коррозия компонентов, заедание"@ru .
+
+<04/landUseChange> a skos:Concept ;
+    skos:notation "landUseChange" ;
+    rdfs:label "Land use change"@en ,
+    "Changement d’affectation des terres"@fr ,
+    "Cambio en el uso de la tierra"@es ,
+    "Изменение в землепользовании"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/plannedServiceOutage> a skos:Concept ;
+    skos:notation "plannedServiceOutage" ;
+    rdfs:label "Planned service outage"@en ,
+    "Interruption prévue du service"@fr ,
+    "Interrupción del servicio planificada"@es ,
+    "Плановая остановка обслуживания"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/preventiveMaintenance> a skos:Concept ;
+    skos:notation "preventiveMaintenance" ;
+    rdfs:label "Preventative maintenance"@en ,
+    "Maintenance préventive"@fr ,
+    "Mantenimiento preventivo"@es ,
+    "Профилактическое обслуживание"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/roadWork> a skos:Concept ;
+    skos:notation "roadWork" ;
+    rdfs:label "Road work"@en ,
+    "Travaux de voirie"@fr ,
+    "Obras en carreteras"@es ,
+    "Дорожные работы"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/theft> a skos:Concept ;
+    skos:notation "theft" ;
+    rdfs:label "Theft of equipment"@en ,
+    "Vol d’équipement"@fr ,
+    "Robo del equipo"@es ,
+    "Кража оборудования"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/unrestStrike> a skos:Concept ;
+    skos:notation "unrestStrike" ;
+    rdfs:label "Unrest/strike"@en ,
+    "Troubles/grève"@fr ,
+    "Disturbios/huelga"@es ,
+    "Беспорядки/забастовка"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/urbanDevelopment> a skos:Concept ;
+    skos:notation "urbanDevelopment" ;
+    rdfs:label "Urban development"@en ,
+    "Développement urbain"@fr ,
+    "Desarrollo urbano"@es ,
+    "Городское развитие"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/vandalism> a skos:Concept ;
+    skos:notation "vandalism" ;
+    rdfs:label "Vandalism"@en ,
+    "Vandalisme"@fr ,
+    "Vandalismo"@es ,
+    "Вандализм"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/vegetationTrimming> a skos:Concept ;
+    skos:notation "vegetationTrimming" ;
+    rdfs:label "Vegetation trimming/ cutting"@en ,
+    "Tonte/taille/élagage"@fr ,
+    "Corte/poda de la vegetación"@es ,
+    "Стрижка/обрезание растительности"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/cycloneTornado> a skos:Concept ;
+    skos:notation "cycloneTornado" ;
+    rdfs:label "Cyclone/tornado"@en ,
+    "Cyclone/tornade"@fr ,
+    "Ciclón/tornado"@es ,
+    "Циклон/торнадо"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/dustSandStorm> a skos:Concept ;
+    skos:notation "dustSandStorm" ;
+    rdfs:label "Dust/sand storm"@en ,
+    "Tempête de poussière/de sable"@fr ,
+    "Tormenta de polvo/arena"@es ,
+    "Пыль/песчаная буря"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/extremeCold> a skos:Concept ;
+    skos:notation "extremeCold" ;
+    rdfs:label "Extreme cold"@en ,
+    "Épisode de froid extrême"@fr ,
+    "Frío extremo"@es ,
+    "Экстремальный холод"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/extremeHeat> a skos:Concept ;
+    skos:notation "extremeHeat" ;
+    rdfs:label "Extreme heat"@en ,
+    "Canicule"@fr ,
+    "Calor extremo"@es ,
+    "Экстремальная жара"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/hail> a skos:Concept ;
+    skos:notation "hail" ;
+    rdfs:label "Hail"@en ,
+    "Grêle"@fr ,
+    "Granizo"@es ,
+    "Град"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/flooding> a skos:Concept ;
+    skos:notation "flooding" ;
+    rdfs:label "Heavy precipitation/flooding"@en ,
+    "Fortes précipitations/inondation"@fr ,
+    "Precipitaciones fuertes/inundaciones"@es ,
+    "Сильные осадки/наводнение"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/windDebris> a skos:Concept ;
+    skos:notation "windDebris" ;
+    rdfs:label "High wind/ blowing debris"@en ,
+    "Grand vent/débris soufflés"@fr ,
+    "Viento fuerte / objetos volando"@es ,
+    "Высокая скорость ветра/падающие обломки"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/snowBlizzardIcing> a skos:Concept ;
+    skos:notation "snowBlizzardIcing" ;
+    rdfs:label "Snow/blizzard/icing"@en ,
+    "Neige/blizzard/givrage"@fr ,
+    "Nevadas/venticas/engelamiento"@es ,
+    "Снег/Близзард/ Обледенение"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/thunderstormLightning> a skos:Concept ;
+    skos:notation "thunderstormLightning" ;
+    rdfs:label "Thunderstorm/ lightning strike"@en ,
+    "Orage/foudre"@fr ,
+    "Tormenta / descarga eléctrica"@es ,
+    "Гроза/удар молнии"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/magneticStorm> a skos:Concept ;
+    skos:notation "magneticStorm" ;
+    rdfs:label "Magnetic storm"@en ,
+    "Tempête magnétique"@fr ,
+    "Tormenta magnética"@es ,
+    "Магнитная буря"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/solarFlares> a skos:Concept ;
+    skos:notation "solarFlares" ;
+    rdfs:label "Solar flares"@en ,
+    "Éruption solaire"@fr ,
+    "Erupciones solares"@es ,
+    "Вспышки на солнце"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/avalanche> a skos:Concept ;
+    skos:notation "avalanche" ;
+    rdfs:label "Avalanche"@en ,
+    "Avalanche"@fr ,
+    "Avalancha"@es ,
+    "Снежная лавина"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/biologicalFouling> a skos:Concept ;
+    skos:notation "biologicalFouling" ;
+    rdfs:label "Biological fouling"@en ,
+    "Encrassement biologique"@fr ,
+    "Obstrucción biológica"@es ,
+    "Биологическое загрязнение"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/biomassBurningUnplanned> a skos:Concept ;
+    skos:notation "biomassBurningUnplanned" ;
+    rdfs:label "Biomass burning (unplanned)"@en ,
+    "Combustion de la biomasse (imprévue)"@fr ,
+    "Quema de biomasa (fortuita)"@es ,
+    "Сжигание биомассы (незапланированное)"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/corrosion> a skos:Concept ;
+    skos:notation "corrosion" ;
+    rdfs:label "Corrosion"@en ,
+    "Corrosion"@fr ,
+    "Corrosión"@es ,
+    "Коррозия"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/earthQuake> a skos:Concept ;
+    skos:notation "earthQuake" ;
+    rdfs:label "Earthquake"@en ,
+    "Séisme"@fr ,
+    "Terremoto"@es ,
+    "Землетрясение"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/erosion> a skos:Concept ;
+    skos:notation "erosion" ;
+    rdfs:label "Erosion"@en ,
+    "Érosion"@fr ,
+    "Erosión"@es ,
+    "Эрозия"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/guanoFouling> a skos:Concept ;
+    skos:notation "guanoFouling" ;
+    rdfs:label "Guano fouling"@en ,
+    "Encrassement par guano "@fr ,
+    "Obstrucción por guano"@es ,
+    "Загрязнение гуано"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/infestation> a skos:Concept ;
+    skos:notation "infestation" ;
+    rdfs:label "Insect/animal infestation"@en ,
+    "Infestation d’insectes/d’animaux"@fr ,
+    "Infestación por insectos/animales"@es ,
+    "Заражение насекомыми/животными"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/landslide> a skos:Concept ;
+    skos:notation "landslide" ;
+    rdfs:label "Land slide/mudslide"@en ,
+    "Glissement de terrain/coulée de boue"@fr ,
+    "Deslizamiento de tierras / deslizamiento de lodos"@es ,
+    "Оползень/грязевой оползень"@ru ;
+    dct:description  "Hazard event"@en ,
+    "Phénomène dangereux"@fr ,
+    "Fenómeno peligroso"@es ,
+    "Опасное явление"@ru .
+
+<04/pollution> a skos:Concept ;
+    skos:notation "pollution" ;
+    rdfs:label "Pollution"@en ,
+    "Pollution"@fr ,
+    "Contaminación"@es ,
+    "Загрязнение"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/stormSurge> a skos:Concept ;
+    skos:notation "stormSurge" ;
+    rdfs:label "Storm surge"@en ,
+    "Onde de tempête"@fr ,
+    "Marea meteorológica"@es ,
+    "Штормовой нагон"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/tsunami> a skos:Concept ;
+    skos:notation "tsunami" ;
+    rdfs:label "Tsunami"@en ,
+    "Tsunami"@fr ,
+    "Tsunami"@es ,
+    "Цунами"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/volcanicEruption> a skos:Concept ;
+    skos:notation "volcanicEruption" ;
+    rdfs:label "Volcanic eruption/ Ash"@en ,
+    "Éruption volcanique/cendres"@fr ,
+    "Erupción/ceniza volcánica"@es ,
+    "Вулканическое извержение/пепел"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/cyberAttack> a skos:Concept ;
+    skos:notation "cyberAttack" ;
+    rdfs:label "Cyber security penetration/ virus/ worm"@en ,
+    "Faille de sécurité informatique/virus/ver"@fr ,
+    "Penetración/virus/gusanos en la seguridad cibernética"@es ,
+    "Нарушение киберзащиты/вирус/ червь"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/dataCommOutage> a skos:Concept ;
+    skos:notation "dataCommOutage" ;
+    rdfs:label "Data communications outage"@en ,
+    "Interruption de la transmission des données"@fr ,
+    "Corte en las comunicaciones por datos"@es ,
+    "Остановка передачи данных"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/malfunction> a skos:Concept ;
+    skos:notation "malfunction" ;
+    rdfs:label "Equipment malfunction"@en ,
+    "Dysfonctionnement de l’équipe"@fr ,
+    "Fallo del equipo"@es ,
+    "Неисправность оборудования"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/groundClutter> a skos:Concept ;
+    skos:notation "groundClutter" ;
+    rdfs:label "Ground clutter/ signal blockage/ degradation"@en ,
+    "Écho du terrain/blocage du signal/dégradation"@fr ,
+    "Ecos en el suelo / bloqueo de la señal / degradación"@es ,
+    "Отражение от земли/блокировка/ ухудшение сигнала"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/hardwareFailure> a skos:Concept ;
+    skos:notation "hardwareFailure" ;
+    rdfs:label "Hardware failure"@en ,
+    "Panne de matériel"@fr ,
+    "Fallo del equipo informático"@es ,
+    "Поломка аппаратного оборудования"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/powerOutage> a skos:Concept ;
+    skos:notation "powerOutage" ;
+    rdfs:label "Power outage"@en ,
+    "Coupure de courant"@fr ,
+    "Corte de energía"@es ,
+    "Остановка энергоснабжения"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/radioFrequencyInterference> a skos:Concept ;
+    skos:notation "radioFrequencyInterference" ;
+    rdfs:label "Radio frequency interference"@en ,
+    "Interférence des radiofréquences"@fr ,
+    "Interferencias en las radiofrecuencias"@es ,
+    "Радиочастотные помехи"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/softwareFailure> a skos:Concept ;
+    skos:notation "softwareFailure" ;
+    rdfs:label "Software failure"@en ,
+    "Panne de logiciel"@fr ,
+    "Fallo del programa informático"@es ,
+    "Сбой программного обеспечения"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<04/notApplicable>,
+<04/incident>,
+<04/intervention>,
+<04/environmental>,
+<04/fire>,
+<04/severeWeather>,
+<04/spaceWeather>,
+<04/technical>,
+<04/agriculturalActivity>,
+<04/biomassBurningPlanned>,
+<04/construction>,
+<04/equipmentCleaning>,
+<04/repairReplacement>,
+<04/equipmentVerificationCalibration>,
+<04/personnelAbsence>,
+<04/infrastructureWorks>,
+<04/inspectionAuditing>,
+<04/landUseChange>,
+<04/plannedServiceOutage>,
+<04/preventiveMaintenance>,
+<04/roadWork>,
+<04/theft>,
+<04/unrestStrike>,
+<04/urbanDevelopment>,
+<04/vandalism>,
+<04/vegetationTrimming>,
+<04/cycloneTornado>,
+<04/dustSandStorm>,
+<04/extremeCold>,
+<04/extremeHeat>,
+<04/hail>,
+<04/flooding>,
+<04/windDebris>,
+<04/snowBlizzardIcing>,
+<04/thunderstormLightning>,
+<04/magneticStorm>,
+<04/solarFlares>,
+<04/avalanche>,
+<04/biologicalFouling>,
+<04/biomassBurningUnplanned>,
+<04/corrosion>,
+<04/earthQuake>,
+<04/erosion>,
+<04/guanoFouling>,
+<04/infestation>,
+<04/landslide>,
+<04/pollution>,
+<04/stormSurge>,
+<04/tsunami>,
+<04/volcanicEruption>,
+<04/cyberAttack>,
+<04/dataCommOutage>,
+<04/malfunction>,
+<04/groundClutter>,
+<04/hardwareFailure>,
+<04/powerOutage>,
+<04/radioFrequencyInterference>,
+<04/softwareFailure>.

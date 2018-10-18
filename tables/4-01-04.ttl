@@ -1,0 +1,130 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<04/notApplicable> a skos:Concept ;
+    skos:notation "notApplicable" ;
+    rdfs:label "Not applicable"@en ,
+    "Sans objet"@fr ,
+    "No se aplica"@es ,
+    "Неприменимо"@ru ;
+    dct:description  "None of the codes in the table are applicable in the context of this particular observation (nilReason)"@en ,
+    "Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason)"@fr ,
+    "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
+    "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
+
+<04/water> a skos:Concept ;
+    skos:notation "water" ;
+    rdfs:label "Water"@en ,
+    "Eau"@fr ,
+    "Agua"@es ,
+    "Вода"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/evergreenNeedleleafVegetation> a skos:Concept ;
+    skos:notation "evergreenNeedleleafVegetation" ;
+    rdfs:label "Evergreen needleleaf vegetation"@en ,
+    "Végétation sempervirente de conifères "@fr ,
+    "Vegetación de hoja aciculada perenne"@es ,
+    "Вечнозеленая хвойная растительность"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/evergreenBroadleafVegetation> a skos:Concept ;
+    skos:notation "evergreenBroadleafVegetation" ;
+    rdfs:label "Evergreen broadleaf vegetation"@en ,
+    "Végétation sempervirente de feuillus "@fr ,
+    "Vegetación de hoja ancha perenne"@es ,
+    "Вечнозеленая широколиственная растительность"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/deciduousNeedleleafVegetation> a skos:Concept ;
+    skos:notation "deciduousNeedleleafVegetation" ;
+    rdfs:label "Deciduous needleleaf vegetation"@en ,
+    "Végétation décidue de conifères "@fr ,
+    "Vegetación de hoja aciculada caducifolia"@es ,
+    "Листопадная хвойная растительность"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/deciduousBroadleafVegetation> a skos:Concept ;
+    skos:notation "deciduousBroadleafVegetation" ;
+    rdfs:label "Deciduous broadleaf vegetation"@en ,
+    "Végétation décidue de feuillus"@fr ,
+    "Vegetación de hoja ancha caducifolia"@es ,
+    "Листопадная широколиственная растительность"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/annualBroadleafVegetation> a skos:Concept ;
+    skos:notation "annualBroadleafVegetation" ;
+    rdfs:label "Annual broadleaf vegetation"@en ,
+    "Végétation annuelle de feuillus "@fr ,
+    "Vegetación de hoja ancha anual"@es ,
+    "Однолетние широколиственные растения"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/nonVegetated> a skos:Concept ;
+    skos:notation "nonVegetated" ;
+    rdfs:label "Non-vegetated land"@en ,
+    "Terre dépourvue de végétation"@fr ,
+    "Tierra sin vegetación"@es ,
+    "Земля без растительности"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/urban> a skos:Concept ;
+    skos:notation "urban" ;
+    rdfs:label "Urban"@en ,
+    "Cadre urbain"@fr ,
+    "Urbana"@es ,
+    "Городские территории"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04/unclassified> a skos:Concept ;
+    skos:notation "unclassified" ;
+    rdfs:label "Unclassified"@en ,
+    "Non classée"@fr ,
+    "Sin clasificar"@es ,
+    "Неклассифицированный"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<04> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<04/notApplicable>,
+<04/water>,
+<04/evergreenNeedleleafVegetation>,
+<04/evergreenBroadleafVegetation>,
+<04/deciduousNeedleleafVegetation>,
+<04/deciduousBroadleafVegetation>,
+<04/annualBroadleafVegetation>,
+<04/nonVegetated>,
+<04/urban>,
+<04/unclassified>.

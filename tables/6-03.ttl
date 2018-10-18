@@ -1,0 +1,46 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<03/continuous> a skos:Concept ;
+    skos:notation "continuous" ;
+    rdfs:label "Continuous"@en ,
+    "Continu"@fr ,
+    "Continua"@es ,
+    "Непрерывный"@ru ;
+    dct:description  "Sampling is done continuously, but not necessarily at regular time intervals. Sampling is integrating, i.e., none of the medium escapes observations."@en ,
+    "L’échantillonnage est effectué en continu, mais pas nécessairement à intervalles réguliers. L’échantillonnage est intégrant, c’est-à-dire que tout le milieu est observé."@fr ,
+    "El muestreo se efectúa de forma ininterrumpida, pero no necesariamente en intervalos periódicos. El muestreo es de carácter integrador, es decir, no hay ningún elemento en el medio que no se someta a observación."@es ,
+    "Отбор производится непрерывно, но не обязательно в регулярные интервалы времени. Отбор проб интегрирован, т.е. наблюдениями охвачены все параметры среды"@ru .
+
+<03/discrete> a skos:Concept ;
+    skos:notation "discrete" ;
+    rdfs:label "Discrete"@en ,
+    "Intermittent"@fr ,
+    "Discreta"@es ,
+    "Дискретный"@ru ;
+    dct:description  "Sampling is done at regular time intervals for certain sampling periods that are smaller than the time interval. Sampling is not integrating, i.e., parts of the medium escape observation. "@en ,
+    "L’échantillonnage est effectué à intervalles réguliers pendant des périodes plus courtes que l’intervalle en question. L’échantillonnage n’est pas intégrant, c’est-à-dire qu’une partie du milieu n’est pas observée."@fr ,
+    "El muestreo se efectúa en intervalos periódicos para determinados períodos de muestreo que son más breves que el intervalo de tiempo. El muestreo no es de carácter integrador, es decir, hay elementos en el medio que no se someten a observación. "@es ,
+    "Отбор проб производится в регулярные интервалы времени для определенных периодов отбора проб, которые меньше данного временного интервала. Отбор проб неинтегрированный, т.е. некоторые параметры среды не наблюдаются"@ru .
+
+<03/event> a skos:Concept ;
+    skos:notation "event" ;
+    rdfs:label "Event"@en ,
+    "Instantané"@fr ,
+    "En momentos concretos"@es ,
+    "Ситуационный"@ru ;
+    dct:description  "Sampling is done at irregular time intervals. "@en ,
+    "L’échantillonnage est effectué à intervalles irréguliers."@fr ,
+    "El muestreo se efectúa en intervalos irregulares de tiempo. "@es ,
+    "Отбор проб производится в нерегулярные временные интервалы"@ru .
+
+<03> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<03/continuous>,
+<03/discrete>,
+<03/event>.

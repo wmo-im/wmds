@@ -1,0 +1,766 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<07/ascii> a skos:Concept ;
+    skos:notation "ascii" ;
+    rdfs:label "ASCII"@en ,
+    "ASCII"@fr ,
+    "ASCII"@es ,
+    "ASCII"@ru ;
+    dct:description  "ASCII (American Standard Code for Information Interchange) is a character-encoding scheme used for text files. Plain text files are often called 'ASCII' files."@en ,
+    "Le code américain normalisé pour l’échange d’informations (ASCII) est un dispositif d’encodage des caractères utilisé pour les fichiers texte. Les fichiers texte simples sont souvent appelés «fichiers ASCII»."@fr ,
+    "ASCII (Código normalizado estadounidense para el intercambio de información) es un sistema de codificación de caracteres que se utiliza con los archivos de texto. Los archivos de texto simple suelen llamarse archivos 'ASCII'."@es ,
+    "ASCII (Американский стандартный код для обмена информацией) − это схема кодирования символов, используемая в текстовых файлах. Незакодированные файлы обычно называются файлами «ASCII»."@ru .
+
+<07/nasaAmes> a skos:Concept ;
+    skos:notation "nasaAmes" ;
+    rdfs:label "NASA AMES"@en ,
+    "NASA AMES"@fr ,
+    "NASA AMES"@es ,
+    "NASA AMES"@ru ;
+    dct:description  "The NASA AMES format is a set of nine ASCII-based file formats that comply with an overall common structure but make provision of different features adapted to various cases. It consists of a header and a data part."@en ,
+    "Le format NASA AMES est en fait un ensemble de neuf formats de fichier reposant sur l’ASCII, qui obéissent à une structure commune globale mais présentent différentes caractéristiques adaptées à diverses situations. Il comprend une partie titre et une partie données."@fr ,
+    "El formato NASA AMES es un conjunto de nueve formatos de archivo basados en ASCII que se ajustan a una estructura global común, pero disponen de diferentes prestaciones adaptadas a distintos casos. Consta de un encabezamiento y una parte de datos."@es ,
+    "Формат NASA AMES − это набор девяти файловых форматов на основе ASCII, которые соответствуют всей общей структуре, но предусматривают разные характеристики, адаптированные к различным случаям. Он состоит из хедера и части, посвященной данным."@ru .
+
+<07/hdf4> a skos:Concept ;
+    skos:notation "hdf4" ;
+    rdfs:label "HDF4"@en ,
+    "HDF4"@fr ,
+    "HDF4"@es ,
+    "HDF4"@ru ;
+    dct:description  "Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data."@en ,
+    "Le format de données hiérarchique (HDF) est un ensemble de formats de fichier (HDF4, HDF5) conçu pour stocker et organiser de grands volumes de données."@fr ,
+    "El formato jerárquico de datos (HDF) es un conjunto de formatos de archivo (HDF4, HDF5) diseñados para almacenar y organizar grandes cantidades de datos."@es ,
+    "Иерархический формат данных (HDF) − это набор форматов (HDF4, HDF5), предназначенный для хранения и организации больших количеств данных."@ru .
+
+<07/hdf5> a skos:Concept ;
+    skos:notation "hdf5" ;
+    rdfs:label "HDF5"@en ,
+    "HDF5"@fr ,
+    "HDF5"@es ,
+    "HDF5"@ru ;
+    dct:description  "Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data."@en ,
+    "Le format de données hiérarchique (HDF) est un ensemble de formats de fichier (HDF4, HDF5) conçu pour stocker et organiser de grands volumes de données."@fr ,
+    "El formato jerárquico de datos es un conjunto de formatos de archivo (HDF4, HDF5) diseñados para almacenar y organizar grandes cantidades de datos."@es ,
+    "Иерархический формат данных (HDF) − это набор форматов (HDF4, HDF5), предназначенный для хранения и организации больших количеств данных."@ru .
+
+<07/xml> a skos:Concept ;
+    skos:notation "xml" ;
+    rdfs:label "XML"@en ,
+    "XML"@fr ,
+    "XML"@es ,
+    "XML"@ru ;
+    dct:description  "Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format which is both human-readable and machine-readable."@en ,
+    "Le langage de balisage extensible (XML) définit un ensemble de règles pour l’encodage des documents dans un format lisible par l’homme et par la machine."@fr ,
+    "El lenguaje extensible de marcado (XML) es un lenguaje de marcado que establece una serie de reglas para la codificación de documentos en un determinado formato que puede ser leído tanto por el hombre como por la máquina."@es ,
+    "Расширяемый язык маркировки (XML) − это язык маркировки, определяющий набор правил для кодирования документов в формате, который является как удобным для чтения человеком, так и пригодным для машинного считывания."@ru .
+
+<07/csv> a skos:Concept ;
+    skos:notation "csv" ;
+    rdfs:label "CSV"@en ,
+    "CSV"@fr ,
+    "CSV"@es ,
+    "CSV"@ru ;
+    dct:description  "A comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas, hence the name for this file format."@en ,
+    "Un fichier CSV (comma-separated values) stocke des données tabulaires (chiffres et texte) sous forme de texte simple. Chaque ligne du fichier constitue un ensemble de données, qui comprend un ou plusieurs domaines séparés par des virgules, d’où le nom de ce format."@fr ,
+    "Un archivo de texto separado por comas (CSV) almacena datos tabulares (números y texto) en texto simple. Cada línea del archivo es un registro de datos. Cada registro consta de uno o más campos, separados por comas, de aquí el nombre de este formato de archivos."@es ,
+    "Файл с разделяемыми запятой величинами (CSV) хранит табличные данные (числа и текст) в виде незакодированного текста. Каждая строка файла − это запись данных. Каждая запись состоит из одного или нескольких полей, отделенных запятыми, отсюда название этого формата файла."@ru .
+
+<07/netcdf> a skos:Concept ;
+    skos:notation "netcdf" ;
+    rdfs:label "NetCDF"@en ,
+    "NetCDF"@fr ,
+    "NetCDF"@es ,
+    "NetCDF"@ru ;
+    dct:description  "A set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. http://www.unidata.ucar.edu/software/netcdf/"@en ,
+    "Ensemble de bibliothèques logicielles et de formats de données autodescriptives transférables, permettant de créer des données scientifiques ordonnées, d’y accéder et de les partager. http://www.unidata.ucar.edu/software/netcdf/"@fr ,
+    "Un conjunto de bibliotecas de programas y formatos de datos autodescriptivos e independientes del soporte que permiten la creación, el acceso y el intercambio de datos científicos en términos matriciales. http://www.unidata.ucar.edu/software/netcdf/"@es ,
+    "Набор библиотек программного обеспечения и самостоятельно описываемых, машинонезависимых форматов данных, которые поддерживают создание оси в научных данных, доступ к нему и обмену им. http://www.unidata.ucar.edu/software/netcdf/"@ru .
+
+<07/ship> a skos:Concept ;
+    skos:notation "ship" ;
+    rdfs:label "FM 13 - SHIP"@en ,
+    "FM 13 - SHIP"@fr ,
+    "FM 13 - SHIP"@es ,
+    "FM 13 - SHIP"@ru ;
+    dct:description  "Report of surface observation from a fixed sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation en surface provenant d’une station fixe en mer. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación de superficie proveniente de una estación marítima fija. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка приземных наблюдений с фиксированной морской станцией. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/synopMobil> a skos:Concept ;
+    skos:notation "synopMobil" ;
+    rdfs:label "FM14 - SYNOP MOBIL"@en ,
+    "FM14 - SYNOP MOBIL"@fr ,
+    "FM14 - SYNOP MOBIL"@es ,
+    "FM14 - SYNOP MOBIL"@ru ;
+    dct:description  "Report of a surface observation from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation en surface provenant d’une station terrestre mobile. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación de superficie proveniente de una estación terrestre fija. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка приземных наблюдений с подвижной наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/metar> a skos:Concept ;
+    skos:notation "metar" ;
+    rdfs:label "FM 15 - METAR"@en ,
+    "FM 15 - METAR"@fr ,
+    "FM 15 - METAR"@es ,
+    "FM 15 - METAR"@ru ;
+    dct:description  "Aerodrome routine meteorological report (with or without trend forecast). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation météorologique régulière d’aérodrome (avec ou sans prévision de tendance). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación meteorológica de rutina para aeródromos (con pronóstico de tendencia o sin él). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Регулярная метеорологическая сводка по аэродрому (содержащая или не содержащая прогноз тренда). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/speci> a skos:Concept ;
+    skos:notation "speci" ;
+    rdfs:label "FM 16 - SPECI"@en ,
+    "FM 16 - SPECI"@fr ,
+    "FM 16 - SPECI"@es ,
+    "FM 16 - SPECI"@ru ;
+    dct:description  "Aerodrome special meteorological report (with or without trend forecast). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation météorologique spéciale d’aérodrome (avec ou sans prévision de tendance). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación meteorológica especial para aeródromos (con pronóstico de tendencia o sin él). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Специальная метеорологическая сводка по аэродрому (содержащая или не содержащая прогноз тренда). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/buoy> a skos:Concept ;
+    skos:notation "buoy" ;
+    rdfs:label "FM 18 - BUOY"@en ,
+    "FM 18 - BUOY"@fr ,
+    "FM 18 - BUOY"@es ,
+    "FM 18 - BUOY"@ru ;
+    dct:description  "Report of a buoy observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation provenant d’une bouée. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación proveniente de una boya. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка наблюдений с буя. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/radob> a skos:Concept ;
+    skos:notation "radob" ;
+    rdfs:label "FM 20 - RADOB"@en ,
+    "FM 20 - RADOB"@fr ,
+    "FM 20 - RADOB"@es ,
+    "FM 20 - RADOB"@ru ;
+    dct:description  "Report of ground radar weather observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation météorologique effectuée par radar au sol. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación meteorológica efectuada por radar terrestre. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных наземного метеорологического радиолокационного наблюдения. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/radrep> a skos:Concept ;
+    skos:notation "radrep" ;
+    rdfs:label "FM 22 - RADREP"@en ,
+    "FM 22 - RADREP"@fr ,
+    "FM 22 - RADREP"@es ,
+    "FM 22 - RADREP"@ru ;
+    dct:description  "Radiological data report (monitored on a routine basis and/or in case of accident). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message de données radiologiques (relevées de manière régulière et/ou en cas d’accident). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de datos radiológicos (controlados con regularidad y/o en caso de accidente). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка радиологических данных (данные регулярного мониторинга и/или в случае аварии). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/pilot> a skos:Concept ;
+    skos:notation "pilot" ;
+    rdfs:label "FM 32 - PILOT"@en ,
+    "FM 32 - PILOT"@fr ,
+    "FM 32 - PILOT"@es ,
+    "FM 32 - PILOT"@ru ;
+    dct:description  "Upper-wind report from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation de vent en altitude provenant d’une station terrestre fixe. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación de viento en altitud proveniente de una estación terrestre fija. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о ветре на высотах с фиксированной наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/pilotShip> a skos:Concept ;
+    skos:notation "pilotShip" ;
+    rdfs:label "FM33 - PILOT SHIP"@en ,
+    "FM33 - PILOT SHIP"@fr ,
+    "FM33 - PILOT SHIP"@es ,
+    "FM33 - PILOT SHIP"@ru ;
+    dct:description  "Upper-wind report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation de vent en altitude provenant d’une station en mer. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación de viento en altitud proveniente de una estación marítima. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о ветре на высотах с морской станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/pilotMobil> a skos:Concept ;
+    skos:notation "pilotMobil" ;
+    rdfs:label "FM 34 - PILOT MOBIL"@en ,
+    "FM 34 - PILOT MOBIL"@fr ,
+    "FM 34 - PILOT MOBIL"@es ,
+    "FM 34 - PILOT MOBIL"@ru ;
+    dct:description  "Upper wind report from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation de vent en altitude provenant d’une station terrestre mobile. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación de viento en altitud proveniente de una estación terrestre móvil. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о петре на высотах с подвижной наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/temp> a skos:Concept ;
+    skos:notation "temp" ;
+    rdfs:label "FM 35 - TEMP"@en ,
+    "FM 35 - TEMP"@fr ,
+    "FM 35 - TEMP"@es ,
+    "FM 35 - TEMP"@ru ;
+    dct:description  "Upper-level pressure, temperature, humidity and wind report from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d'observation en altitude de pression, température, humidité et vent provenant d'une station terrestre fixe. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación en altitud de la presión, la temperatura, la humedad y el viento, proveniente de una estación terrestre fija. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о давлении, температуре, влажности и ветре на высотах с фиксированной наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/tempShip> a skos:Concept ;
+    skos:notation "tempShip" ;
+    rdfs:label "FM 36 - TEMP SHIP"@en ,
+    "FM 36 - TEMP SHIP"@fr ,
+    "FM 36 - TEMP SHIP"@es ,
+    "FM 36 - TEMP SHIP"@ru ;
+    dct:description  "Upper-level pressure, temperature, humidity and wind report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d'observation en altitude de pression, température, humidité et vent provenant d'une station en mer. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación en altitud de la presión, la temperatura, la humedad y el viento, proveniente de una estación marítima. Manual de claves Volumen I.1.http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о давлении, температуре, влажности и ветре на высотах с морской станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/tempDrop> a skos:Concept ;
+    skos:notation "tempDrop" ;
+    rdfs:label "FM 37 - TEMP DROP"@en ,
+    "FM 37 - TEMP DROP"@fr ,
+    "FM 37 - TEMP DROP"@es ,
+    "FM 37 - TEMP DROP"@ru ;
+    dct:description  "Upper-level pressure, temperature, humidity and wind report from a sonde released by carrier balloons or aircraft. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d'observation en altitude de pression, température, humidité et vent provenant d'une sonde larguée d'un ballon porteur ou d'un aéronef. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación en altitud de la presión, la temperatura, la humedad y el viento, proveniente de una sonda lanzada desde un globo portador o desde una aeronave. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о давлении, температуре, влажности и ветре на высотах с зонда, сбрасываемого с аэростата-носителя или с самолета. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/tempMobil> a skos:Concept ;
+    skos:notation "tempMobil" ;
+    rdfs:label "FM 38 - TEMP MOBIL"@en ,
+    "FM 38 - TEMP MOBIL"@fr ,
+    "FM 38 - TEMP MOBIL"@es ,
+    "FM 38 - TEMP MOBIL"@ru ;
+    dct:description  "Upper-level pressure, temperature, humidity and wind report from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d'observation en altitude de pression, température, humidité et vent provenant d'une station terrestre mobile. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación en altitud de la presión, la temperatura, la humedad y el viento, proveniente de una estación terrestre móvil. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о давлении, температуре, влажности и ветре на высотах с подвижной наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/rocob> a skos:Concept ;
+    skos:notation "rocob" ;
+    rdfs:label "FM 39 - ROCOB"@en ,
+    "FM 39 - ROCOB"@fr ,
+    "FM 39 - ROCOB"@es ,
+    "FM 39 - ROCOB"@ru ;
+    dct:description  "Upper-level temperature, wind and air density report from a land rocketsonde station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d'observation en altitude de température, vent et densité de l'air provenant d'une station terrestre de sondage par fusée. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación en altitud de temperatura, viento y densidad del aire, proveniente de una estación terrestre de cohete sonda. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о температуре, ветре и плотности воздуха на высотах с наземной станции ракетного зондирования. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/rocobShip> a skos:Concept ;
+    skos:notation "rocobShip" ;
+    rdfs:label "FM 40 - ROCOB SHIP"@en ,
+    "FM 40 - ROCOB SHIP"@fr ,
+    "FM 40 - ROCOB SHIP"@es ,
+    "FM 40 - ROCOB SHIP"@ru ;
+    dct:description  "Upper-level temperature, wind and air density report from a rocketsonde station on a ship. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d'observation en altitude de température, vent et densité de l'air provenant d'une station de sondage par fusée à bord d'un navire. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación en altitud de temperatura, viento y densidad del aire, proveniente de una estación de cohete sonda instalada en un buque. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о температуре, ветре и плотности воздуха на высотах с судовой станции ракетного зондирования. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/codar> a skos:Concept ;
+    skos:notation "codar" ;
+    rdfs:label "FM 41 - CODAR"@en ,
+    "FM 41 - CODAR"@fr ,
+    "FM 41 - CODAR"@es ,
+    "FM 41 - CODAR"@ru ;
+    dct:description  "Upper-air report from an aircraft (other than weather reconnaissance aircraft). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d'observation en altitude provenant d'un aéronef (autre qu'un aéronef de reconnaissance météorologique). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación en altitud  proveniente de una aeronave (que no sea de reconocimiento meteorológico). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка аэрологических данных с самолета (исключая самолеты разведки погоды). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/amdar> a skos:Concept ;
+    skos:notation "amdar" ;
+    rdfs:label "FM 42 - AMDAR"@en ,
+    "FM 42 - AMDAR"@fr ,
+    "FM 42 - AMDAR"@es ,
+    "FM 42 - AMDAR"@ru ;
+    dct:description  "Aircraft report (aircraft meteorological data relay). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Compte-rendu d’aéronef (système de retransmission des données météorologiques d’aéronefs). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de aeronave (retransmisión de datos meteorológicos provenientes de una aeronave). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Метеорологическая сводка с самолета (ретрансляция самолетных метеорологических данных). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/icean> a skos:Concept ;
+    skos:notation "icean" ;
+    rdfs:label "FM 44 - ICEAN"@en ,
+    "FM 44 - ICEAN"@fr ,
+    "FM 44 - ICEAN"@es ,
+    "FM 44 - ICEAN"@ru ;
+    dct:description  "Ice analysis. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Analyse des glaces. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Análisis de hielos. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Анализ ледовых условий. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/IAC> a skos:Concept ;
+    skos:notation "IAC" ;
+    rdfs:label "FM 45 - IAC"@en ,
+    "FM 45 - IAC"@fr ,
+    "FM 45 - IAC"@es ,
+    "FM 45 - IAC"@ru ;
+    dct:description  "Analysis in full form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Analyse en forme complète. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Análisis en forma completa. Manual de claves Volumen I.1.http://wis.wmo.int/ManCodes1"@es ,
+    "Анализ, полная форма. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/iacFleet> a skos:Concept ;
+    skos:notation "iacFleet" ;
+    rdfs:label "FM 46 - IAC FLEET"@en ,
+    "FM 46 - IAC FLEET"@fr ,
+    "FM 46 - IAC FLEET"@es ,
+    "FM 46 - IAC FLEET"@ru ;
+    dct:description  "Analysis in abbreviated form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Analyse en forme abrégée. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Análisis en forma abreviada. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Анаолиз, сокращенная форма. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/grid> a skos:Concept ;
+    skos:notation "grid" ;
+    rdfs:label "FM 47 - GRID"@en ,
+    "FM 47 - GRID"@fr ,
+    "FM 47 - GRID"@es ,
+    "FM 47 - GRID"@ru ;
+    dct:description  "Processed data in the form of grid-point values. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Données traitées sous forme de valeurs aux points de grille. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Datos procesados como valores reticulares. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Обработанные данные в виде значений в точках сетки. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/graf> a skos:Concept ;
+    skos:notation "graf" ;
+    rdfs:label "FM 49 - GRAF"@en ,
+    "FM 49 - GRAF"@fr ,
+    "FM 49 - GRAF"@es ,
+    "FM 49 - GRAF"@ru ;
+    dct:description  "Processed data in the form of grid-point vlues (abbreviated code form). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Données traitées sous forme de valeurs aux points de grille (forme symbolique abrégée). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Datos procesados como valores reticulares (clave abreviada). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Обработанные данные в виде значений в точках сетки (сокращенная кодовая форма). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/wintem> a skos:Concept ;
+    skos:notation "wintem" ;
+    rdfs:label "FM 50 - WINTEM"@en ,
+    "FM 50 - WINTEM"@fr ,
+    "FM 50 - WINTEM"@es ,
+    "FM 50 - WINTEM"@ru ;
+    dct:description  "Forecast upper wind and temperature for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Prévision du vent et de la température en altitude pour l'aviation. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Pronóstico del viento y de la temperatura en altitud para la aviación. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Прогноз ветра и температуры на высотах для авиации. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/taf> a skos:Concept ;
+    skos:notation "taf" ;
+    rdfs:label "FM 51 - TAF"@en ,
+    "FM 51 - TAF"@fr ,
+    "FM 51 - TAF"@es ,
+    "FM 51 - TAF"@ru ;
+    dct:description  "Aerodrome forecast. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Prévision d’aérodrome. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Pronóstico de aeródromo. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Прогноз погоды по аэродрому. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/arfor> a skos:Concept ;
+    skos:notation "arfor" ;
+    rdfs:label "FM 53 - ARFOR"@en ,
+    "FM 53 - ARFOR"@fr ,
+    "FM 53 - ARFOR"@es ,
+    "FM 53 - ARFOR"@ru ;
+    dct:description  "Area forecast for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Prévision de zone pour l’aviation. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Pronóstico de área para la aviación. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Зональный прогноз погоды по аэродрому. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/rofor> a skos:Concept ;
+    skos:notation "rofor" ;
+    rdfs:label "FM 54 - ROFOR"@en ,
+    "FM 54 - ROFOR"@fr ,
+    "FM 54 - ROFOR"@es ,
+    "FM 54 - ROFOR"@ru ;
+    dct:description  "Route forecast for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Prévision de route pour l’aviation. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Pronóstico de ruta para la aviación. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Прогноз погоды по маршруту для авиации. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/radof> a skos:Concept ;
+    skos:notation "radof" ;
+    rdfs:label "FM 57 - RADOF"@en ,
+    "FM 57 - RADOF"@fr ,
+    "FM 57 - RADOF"@es ,
+    "FM 57 - RADOF"@ru ;
+    dct:description  "Radiological trajectory dose forecast (defined time of arrival and location). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Prévision radiologique de trajectoire et de dose (position définie et heure d’arrivée prévue). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Predicción de la trayectoria de dosis radiológicas (hora de llegada y ubicación definidas). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Прогноз траектории радиологических доз (определенное местоположение и время наступления). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/mafor> a skos:Concept ;
+    skos:notation "mafor" ;
+    rdfs:label "FM 61 - MAFOR"@en ,
+    "FM 61 - MAFOR"@fr ,
+    "FM 61 - MAFOR"@es ,
+    "FM 61 - MAFOR"@ru ;
+    dct:description  "Forecast for shipping. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Prévision pour la navigation maritime. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Pronóstico para la navegación marítima. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Прогноз для судоходства. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/trackob> a skos:Concept ;
+    skos:notation "trackob" ;
+    rdfs:label "FM 62 - TRACKOB"@en ,
+    "FM 62 - TRACKOB"@fr ,
+    "FM 62 - TRACKOB"@es ,
+    "FM 62 - TRACKOB"@ru ;
+    dct:description  "Report of marine surface observation along a ship's track. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation de la mer en surface le long de la route d’un navire. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe sobre observaciones marinas de superficie a lo largo de una ruta marítima. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка наблюдений за поверхностью моря по маршруту следования судна. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/bathy> a skos:Concept ;
+    skos:notation "bathy" ;
+    rdfs:label "FM 63 - BATHY"@en ,
+    "FM 63 - BATHY"@fr ,
+    "FM 63 - BATHY"@es ,
+    "FM 63 - BATHY"@ru ;
+    dct:description  "Report of bathythermal observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation bathythermique. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación batitérmica. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных батитермического наблюдения. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/tesac> a skos:Concept ;
+    skos:notation "tesac" ;
+    rdfs:label "FM 64 - TESAC"@en ,
+    "FM 64 - TESAC"@fr ,
+    "FM 64 - TESAC"@es ,
+    "FM 64 - TESAC"@ru ;
+    dct:description  "Temperature, salinity and current report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation de température, salinité et courant provenant d’une station en mer. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación de temperatura, salinidad y corriente proveniente de una estación marítima. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных с морской станции о температуре, солености и течении. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/waveob> a skos:Concept ;
+    skos:notation "waveob" ;
+    rdfs:label "FM 65 - WAVEOB"@en ,
+    "FM 65 - WAVEOB"@fr ,
+    "FM 65 - WAVEOB"@es ,
+    "FM 65 - WAVEOB"@ru ;
+    dct:description  "Report of spectral wave information from a sea station or from a remote platform (aircraft or satellite). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation du spectre des vagues en provenance d’une station en mer ou d’une plate-forme éloignée (aéronef ou satellite). Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe del espectro de las olas proveniente de una estación marítima o de una plataforma alejada (aeronave o satélite). Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о спектре волн с морской станции или с удаленной платформы (самолет или спутник). Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/hydra> a skos:Concept ;
+    skos:notation "hydra" ;
+    rdfs:label "FM  67 - HYDRA"@en ,
+    "FM  67 - HYDRA"@fr ,
+    "FM  67 - HYDRA"@es ,
+    "FM 67 - HYDRA"@ru ;
+    dct:description  "Report of hydrological observation from a hydrological station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation hydrologique provenant d’une station d’observation hydrologique. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación hidrológica proveniente de una estación de observación hidrológica. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о гидрологическом наблюдений с гидрологической станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/hyfor> a skos:Concept ;
+    skos:notation "hyfor" ;
+    rdfs:label "FM 68 - HYFOR"@en ,
+    "FM 68 - HYFOR"@fr ,
+    "FM 68 - HYFOR"@es ,
+    "FM 68 - HYFOR"@ru ;
+    dct:description  "Hydrological forecast. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Prévision hydrologique. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Pronóstico hidrológico. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Гидрологический прогноз. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/climat> a skos:Concept ;
+    skos:notation "climat" ;
+    rdfs:label "FM 71 - CLIMAT"@en ,
+    "FM 71 - CLIMAT"@fr ,
+    "FM 71 - CLIMAT"@es ,
+    "FM 71 - CLIMAT"@ru ;
+    dct:description  "Report of monthly values from a land station.  Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message de valeurs mensuelles provenant d’une station terrestre.  Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de valores mensuales proveniente de una estación terrestre.  Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка месячных значений с наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/climatShip> a skos:Concept ;
+    skos:notation "climatShip" ;
+    rdfs:label "FM 72 - CLIMAT SHIP"@en ,
+    "FM 72 - CLIMAT SHIP"@fr ,
+    "FM 72 - CLIMAT SHIP"@es ,
+    "FM 72 - CLIMAT SHIP"@ru ;
+    dct:description  "Report of monthly means and totals from an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message de moyennes et de totaux mensuels provenant d’une station météorologique océanique. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de medias y totales mensuales proveniente de una estación meteorológica oceánica. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка среднемесячных и суммарных данных с океанической метеорологической станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/nacli> a skos:Concept ;
+    skos:notation "nacli" ;
+    rdfs:label "FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI"@en ,
+    "FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI"@fr ,
+    "FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI"@es ,
+    "FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI"@ru ;
+    dct:description  "Report of monthly means for an oceanic area. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message de moyennes mensuelles pour une région océanique. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de medias mensuales para un área oceánica. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка среднемесячных данных для океанического района. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/climatTemp> a skos:Concept ;
+    skos:notation "climatTemp" ;
+    rdfs:label "FM 75 - CLIMAT TEMP"@en ,
+    "FM 75 - CLIMAT TEMP"@fr ,
+    "FM 75 - CLIMAT TEMP"@es ,
+    "FM 75 - CLIMAT TEMP"@ru ;
+    dct:description  "Report of monthly aerological means form  a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message de moyennes aérologiques mensuelles provenant d’une station terrestre. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de medias aerológicas mensuales proveniente de una estación terrestre. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка среднемесячных аэрологических данных с наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/climatTempShip> a skos:Concept ;
+    skos:notation "climatTempShip" ;
+    rdfs:label "FM 76 - CLIMAT TEMP SHIP"@en ,
+    "FM 76 - CLIMAT TEMP SHIP"@fr ,
+    "FM 76 - CLIMAT TEMP SHIP"@es ,
+    "FM 76 - CLIMAT TEMP SHIP"@ru ;
+    dct:description  "Report of monthly aerological means form an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message de moyennes aérologiques mensuelles provenant d’une station météorologique océanique. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de medias aerológicas mensuales proveniente de una estación meteorológica oceánica. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка среднемесячных аэрологических данных с океанической метеорологической станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/sfazi> a skos:Concept ;
+    skos:notation "sfazi" ;
+    rdfs:label "FM 81 - SFAZI"@en ,
+    "FM 81 - SFAZI"@fr ,
+    "FM 81 - SFAZI"@es ,
+    "FM 81 - SFAZI"@ru ;
+    dct:description  "Synoptic report of bearings of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message synoptique de relèvement des foyers d’atmosphériques. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe sinóptico de la orientación de los focos de parásitos atmosféricos. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Синоптическая сводка данных о пеленгах источников атмосфериков. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/sfloc> a skos:Concept ;
+    skos:notation "sfloc" ;
+    rdfs:label "FM 82 - SFLOC"@en ,
+    "FM 82 - SFLOC"@fr ,
+    "FM 82 - SFLOC"@es ,
+    "FM 82 - SFLOC"@ru ;
+    dct:description  "Synoptic report of the geographical location of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message synoptique de position géographique de foyers d’atmosphériques. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe sinóptico de la posición geográfica de los focos de parásitos atmosféricos. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Синоптическая сводка данных о географическом положении источников атмосфериков. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/sfazu> a skos:Concept ;
+    skos:notation "sfazu" ;
+    rdfs:label "FM 83 - SFAZU"@en ,
+    "FM 83 - SFAZU"@fr ,
+    "FM 83 - SFAZU"@es ,
+    "FM 83 - SFAZU"@ru ;
+    dct:description  "Detailed report of the distribution of sources of atmospherics by bearings for any period up to and including 24 hours. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message détaillé de localisation des foyers d’atmosphériques par relèvement, durant toute période inférieure ou égale à 24 heures. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "nforme detallado de la localización de los focos de parásitos atmosféricos mediante la orientación de los mismos, para un período de hasta 24 horas inclusive. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Подробная сводка данных о распределении источников атмосфериков согласно пеленгам за любой период до и включая 24 часа. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/sarep> a skos:Concept ;
+    skos:notation "sarep" ;
+    rdfs:label "FM 85 - SAREP"@en ,
+    "FM 85 - SAREP"@fr ,
+    "FM 85 - SAREP"@es ,
+    "FM 85 - SAREP"@ru ;
+    dct:description  "Report of synoptic interpretation of cloud data obtained by a meteorological satellite. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message de l’interprétation synoptique des données de nuages recueillies par un satellite météorologique. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de interpretación sinóptica de datos de nubes, obtenidos por medio de un satélite meteorológico. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка синоптической интерпретации данных об облачности, полученных посредством метеорологического спутника. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/satem> a skos:Concept ;
+    skos:notation "satem" ;
+    rdfs:label "FM 86 - SATEM"@en ,
+    "FM 86 - SATEM"@fr ,
+    "FM 86 - SATEM"@es ,
+    "FM 86 - SATEM"@ru ;
+    dct:description  "Report of satellite remote upper-air soundings of pressure, temperature and humidity. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation en altitude de pression, température et humidité par télésondage à partir d’un satellite. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de los sondeos en altitud de la presión, la temperatura y la humedad realizados por satélite. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка данных о давлении, температуре и влажности на высотах, полученных путем дистанционного зондирования спутника. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/sarad> a skos:Concept ;
+    skos:notation "sarad" ;
+    rdfs:label "FM 87 - SARAD"@en ,
+    "FM 87 - SARAD"@fr ,
+    "FM 87 - SARAD"@es ,
+    "FM 87 - SARAD"@ru ;
+    dct:description  "Report of satellite clear radiance observations. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation de la luminance énergétique en air clair par satellite. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de las observaciones de radiancia energética con cielo despejado realizadas por satélite. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка наблюдений со спутника за излучением безоблачной атмосферы. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/satob> a skos:Concept ;
+    skos:notation "satob" ;
+    rdfs:label "FM 88 - SATOB"@en ,
+    "FM 88 - SATOB"@fr ,
+    "FM 88 - SATOB"@es ,
+    "FM 88 - SATOB"@ru ;
+    dct:description  "Report of satellite observations of wind, surface temperature, cloud, humidity and radiation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation du vent, de la température en surface, des nuages, de l’humidité et du rayonnement par satellite. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de las observaciones del viento, temperatura de superficie, nubosidad, humedad y radiación realizadas por satélite. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка спутниковых наблюдений за ветром, приземной температурой, облачностью, влажностью и радиацией. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/grib> a skos:Concept ;
+    skos:notation "grib" ;
+    rdfs:label "FM 92 - GRIB"@en ,
+    "FM 92 - GRIB"@fr ,
+    "FM 92 - GRIB"@es ,
+    "FM 92 - GRIB"@ru ;
+    dct:description  "Processed data in the form of grid-point values expressed in binary form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes2"@en ,
+    "Données traitées sous forme de valeurs aux points de grille exprimées en binaire. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes2"@fr ,
+    "Datos procesados como valores reticulares expresados en forma binaria. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes2"@es ,
+    "Обработанные данные в виде значений в узлах регулярной сетки, выраженных в двоичной форме. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes2"@ru .
+
+<07/bufr> a skos:Concept ;
+    skos:notation "bufr" ;
+    rdfs:label "FM 94 - BUFR"@en ,
+    "FM 94 - BUFR"@fr ,
+    "FM 94 - BUFR"@es ,
+    "FM 94 - BUFR"@ru ;
+    dct:description  "Binary Universal Form for the Representation of meteorological data. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes2"@en ,
+    "Forme universelle de représentation binaire des données météorologiques. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes2"@fr ,
+    "Forma binaria universal de representación de datos meteorológicos. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes2"@es ,
+    "Двоичная универсальная форма для представления метеорологических данных. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes2"@ru .
+
+<07/crex> a skos:Concept ;
+    skos:notation "crex" ;
+    rdfs:label "FM 95 - CREX"@en ,
+    "FM 95 - CREX"@fr ,
+    "FM 95 - CREX"@es ,
+    "FM 95 - CREX"@ru ;
+    dct:description  "Character form for the representation and exchange of data. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Code de caractères pour la représentation et l’échange de données. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Clave de caracteres para la representación y el intercambio de datos. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Буквенная форма для представления данных и обмена ими. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07/collect> a skos:Concept ;
+    skos:notation "collect" ;
+    rdfs:label "FM 201 - COLLECT"@en ,
+    "FM 201 - COLLECT"@fr ,
+    "FM 201 - COLLECT"@es ,
+    "FM 201 - COLLECT"@ru ;
+    dct:description  "Collection of reports that use the same XML application schemas. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3"@en ,
+    "Ensemble de messages d’observation utilisant les mêmes méthodes d’application XML. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes3"@fr ,
+    "Colección de informes que utilizan los mismos esquemas de aplicación XML. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes3"@es ,
+    "Набор сводок, в которых используются одинаковые прикладные XML-схемы. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes3"@ru .
+
+<07/metce> a skos:Concept ;
+    skos:notation "metce" ;
+    rdfs:label "FM 202 - METCE"@en ,
+    "FM 202 - METCE"@fr ,
+    "FM 202 - METCE"@es ,
+    "FM 202 - METCE"@ru ;
+    dct:description  "Meteorological information. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3"@en ,
+    "Renseignements météorologiques. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes3"@fr ,
+    "Información meteorológica0. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes3"@es ,
+    "Метеорологическая информация. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes3"@ru .
+
+<07/opmXML> a skos:Concept ;
+    skos:notation "opmXML" ;
+    rdfs:label "FM 203 - OPM-XML"@en ,
+    "FM 203 - OPM-XML"@fr ,
+    "FM 203 - OPM-XML"@es ,
+    "FM 203 - OPM-XML"@ru ;
+    dct:description  "Observable property model. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3"@en ,
+    "Modèle de propriétés observables. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes3"@fr ,
+    "Modelo de propiedades observables. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes3"@es ,
+    "Модель наблюдаемых свойств. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes3"@ru .
+
+<07/safXML> a skos:Concept ;
+    skos:notation "safXML" ;
+    rdfs:label "FM 204 - SAF-XML"@en ,
+    "FM 204 - SAF-XML"@fr ,
+    "FM 204 - SAF-XML"@es ,
+    "FM 204 - SAF-XML"@ru ;
+    dct:description  "Simple aeronautical features. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3"@en ,
+    "Éléments aéronautiques simples. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes3"@fr ,
+    "Objetos aeronáuticos simples. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes3"@es ,
+    "Простые авиационные элементы. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes3"@ru .
+
+<07/iwxxmXML> a skos:Concept ;
+    skos:notation "iwxxmXML" ;
+    rdfs:label "FM 205 - IWXXM-XML"@en ,
+    "FM 205 - IWXXM-XML"@fr ,
+    "FM 205 - IWXXM-XML"@es ,
+    "FM 205 - IWXXM-XML"@ru ;
+    dct:description  "International Civil Aviation Organization meteorological information exchange model. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3"@en ,
+    "Modèle d’échange de renseignements météorologiques de l’Organisation de l’aviation civile internationale. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes3"@fr ,
+    "Modelo de intercambio de información de la Organización de Aviación Civil Internacional. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes3"@es ,
+    "Модель обмена метеорологической информацией Международной организации гражданской авиации. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes3"@ru .
+
+<07/synop> a skos:Concept ;
+    skos:notation "synop" ;
+    rdfs:label "FM 12 - SYNOP"@en ,
+    "FM 12 - SYNOP"@fr ,
+    "FM 12 - SYNOP"@es ,
+    "FM 12 - SYNOP"@ru ;
+    dct:description  "Report of surface observation from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en ,
+    "Message d’observation en surface provenant d’une station terrestre fixe. Manuel des codes, volume I.1. http://wis.wmo.int/ManCodes1"@fr ,
+    "Informe de observación de superficie proveniente de una estación terrestre fija. Manual de claves Volumen I.1. http://wis.wmo.int/ManCodes1"@es ,
+    "Сводка приземных наблюдений с фиксированной наземной станции. Наставление по кодам, том I.1. http://wis.wmo.int/ManCodes1"@ru .
+
+<07> a skos:Collection ;
+        rdfs:label "Measurement or observing method" ;
+        dct:description  "The method of measurement or observation used"@en ;
+        skos:member 
+
+<07/ascii>,
+<07/nasaAmes>,
+<07/hdf4>,
+<07/hdf5>,
+<07/xml>,
+<07/csv>,
+<07/netcdf>,
+<07/ship>,
+<07/synopMobil>,
+<07/metar>,
+<07/speci>,
+<07/buoy>,
+<07/radob>,
+<07/radrep>,
+<07/pilot>,
+<07/pilotShip>,
+<07/pilotMobil>,
+<07/temp>,
+<07/tempShip>,
+<07/tempDrop>,
+<07/tempMobil>,
+<07/rocob>,
+<07/rocobShip>,
+<07/codar>,
+<07/amdar>,
+<07/icean>,
+<07/IAC>,
+<07/iacFleet>,
+<07/grid>,
+<07/graf>,
+<07/wintem>,
+<07/taf>,
+<07/arfor>,
+<07/rofor>,
+<07/radof>,
+<07/mafor>,
+<07/trackob>,
+<07/bathy>,
+<07/tesac>,
+<07/waveob>,
+<07/hydra>,
+<07/hyfor>,
+<07/climat>,
+<07/climatShip>,
+<07/nacli>,
+<07/climatTemp>,
+<07/climatTempShip>,
+<07/sfazi>,
+<07/sfloc>,
+<07/sfazu>,
+<07/sarep>,
+<07/satem>,
+<07/sarad>,
+<07/satob>,
+<07/grib>,
+<07/bufr>,
+<07/crex>,
+<07/collect>,
+<07/metce>,
+<07/opmXML>,
+<07/safXML>,
+<07/iwxxmXML>,
+<07/synop>.
