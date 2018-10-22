@@ -37,8 +37,8 @@
     "Отбор проб производится в нерегулярные временные интервалы"@ru .
 
 <03> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Sampling strategy" ;
+        dct:description  "The strategy used to generate the observed variable"@en ;
         skos:member 
 
 <03/continuous>,

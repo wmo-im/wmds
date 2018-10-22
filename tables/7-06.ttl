@@ -81,8 +81,8 @@
     "CEOS: Тематическая информация. Выходная продукция моделей или результаты анализа данных более низкого уровня (например, переменных, не изменяемых приборами напрямую, но получаемых из этих измерений). "@ru .
 
 <06> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Level of data" ;
+        dct:description  "Level of data"@en ;
         skos:member 
 
 <06/unknown>,

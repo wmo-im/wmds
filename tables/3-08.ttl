@@ -158,8 +158,8 @@
     "Физическая передача информации почтовой службой, службой доставки, курьерской службой или аналогичной службой"@ru .
 
 <08> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Data communication method" ;
+        dct:description  "Data communication method between the station/platform and some central facility"@en ;
         skos:member 
 
 <08/voiceLandline>,

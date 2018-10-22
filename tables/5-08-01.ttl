@@ -92,7 +92,7 @@
     "NA"@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
+        rdfs:label "Control standard type" ;
         dct:description  "The method of measurement or observation used"@en ;
         skos:member 
 

@@ -70,8 +70,8 @@
     "В верхних 5 % диапазона высот"@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Relative elevation" ;
+        dct:description  "Relative elevation"@en ;
         skos:member 
 
 <02/nilReason>,

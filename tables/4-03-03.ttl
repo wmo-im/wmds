@@ -81,8 +81,8 @@
     "Высокий рельеф"@ru .
 
 <03> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Topographic context" ;
+        dct:description  "Topographic context"@en ;
         skos:member 
 
 <03/nilReason>,

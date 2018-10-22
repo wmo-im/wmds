@@ -37,8 +37,8 @@
     "Произведенные наблюдения характеризуются прослеживаемостью к некоторому другому стандарту."@ru .
 
 <05> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Traceability" ;
+        dct:description  "Statement defining traceability to a standard, including sequence of measurement standards and calibrations that is used to relate a measurement result to a reference (JCGM, 2012; reference no. 2.42)"@en ;
         skos:member 
 
 <05/unknown>,

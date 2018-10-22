@@ -642,8 +642,8 @@
     "NA"@ru .
 
 <04> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Events at observing facility" ;
+        dct:description  "Description of human action or natural event at the facility or in the vicinity that may influence the observation"@en ;
         skos:member 
 
 <04/notApplicable>,

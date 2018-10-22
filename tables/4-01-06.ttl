@@ -114,8 +114,8 @@
     ""@ru .
 
 <06> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Surface cover types (LCCS)" ;
+        dct:description  "Surface cover types: An alternative approach is the Land Cover Classification System (LCCS)  (Di Gregorio, 2005) adopted by the Food and Agriculture Organization of the United Nations."@en ;
         skos:member 
 
 <06/notApplicable>,

@@ -48,8 +48,8 @@
     "Никакого ограничения на растространение или использование."@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Data policy/use constraints" ;
+        dct:description  "Details relating to the use and limitations surrounding data imposed by the supervising organization"@en ;
         skos:member 
 
 <02/WMOEssential>,

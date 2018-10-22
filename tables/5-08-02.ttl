@@ -37,8 +37,8 @@
     "Контроль работы прибора осуществляется дистанционно"@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Control location" ;
+        dct:description  "Control location"@en ;
         skos:member 
 
 <02/onSite>,

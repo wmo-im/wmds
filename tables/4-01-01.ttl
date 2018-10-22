@@ -213,8 +213,8 @@
     "NA"@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label ""Surface cover types (IGBP)" ;
+        dct:description  "Surface cover types: International Geosphere–Biosphere Programme  (IGBP)"@en ;
         skos:member 
 
 <01/notApplicable>,

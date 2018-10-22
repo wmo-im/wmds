@@ -213,8 +213,8 @@
     "Применения, предназначенные для ограниченных районов (с горизонтальным разрешением в несколько км или меньше и со строгими требованиями в отношении своевременности) для поддержки обслуживания, связанного с погодой/климатом/загрязнением, таким как прогнозирование качества воздуха [источник: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Application area(s)" ;
+        dct:description  "Context within, or intended application(s) for which the observation is primarily made or which has/have the most stringent requirements"@en ;
         skos:member 
 
 <01/globalNumericalWeatherPrediction>,

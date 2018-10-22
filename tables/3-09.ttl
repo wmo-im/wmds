@@ -81,8 +81,8 @@
     "NA"@ru .
 
 <09> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Station operating status" ;
+        dct:description  "Declared reporting status of the station"@en ;
         skos:member 
 
 <09/operational>,

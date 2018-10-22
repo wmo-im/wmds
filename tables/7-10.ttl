@@ -59,8 +59,8 @@
     "Компьютерный сервер, который считывает фактическое время с эталонных/атомных часов и распределяет эту информацию своим клиентам, используя компьютерную сеть. Сервером времени может быть сервер времени местной сети или сервер времени на основе Интернета."@ru .
 
 <10> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Reference time" ;
+        dct:description  "Time base to which date and time stamps refer"@en ;
         skos:member 
 
 <10/unknown>,

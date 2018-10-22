@@ -180,8 +180,8 @@
     "NA"@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Surface cover types (UMD)" ;
+        dct:description  "Surface cover types: University of Maryland  (UMD)"@en ;
         skos:member 
 
 <02/notApplicable>,

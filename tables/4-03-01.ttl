@@ -81,8 +81,8 @@
     "Ниже, чем окружающая местность или грунт, без выхода поверхностных вод"@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Local topography" ;
+        dct:description  "Local topography"@en ;
         skos:member 
 
 <01/nilReason>,

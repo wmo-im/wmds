@@ -147,8 +147,8 @@
     "NA"@ru .
 
 <03> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Surface cover types (LAI/fPAR)" ;
+        dct:description  "Surface cover types: leaf area index/fraction of absorbed photosynthetically active radiation  (LAI/fPAR)"@en ;
         skos:member 
 
 <03/notApplicable>,

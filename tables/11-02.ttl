@@ -15,8 +15,8 @@
     "Геоцентрическая, связанная с Землей наземная координатная система отсчета и геодезическая система. В настоящее время WGS84 использует геоид EGM96 (Гравитационная модель Земли 1996 г.), пересмотренную в 2004 г."@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Coordinates reference System" ;
+        dct:description  "Coordinates reference System"@en ;
         skos:member 
 
 <02/wgs84>.

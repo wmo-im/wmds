@@ -48,8 +48,8 @@
     "Процедура, используемая для получения неопределенного результата"@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Source of observation" ;
+        dct:description  "The source of the dataset described by the metadata"@en ;
         skos:member 
 
 <01/automaticReading>,

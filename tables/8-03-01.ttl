@@ -92,8 +92,8 @@
     "Данные отсутствуют."@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Quality Flag (BUFR derived from CIMO guide)" ;
+        dct:description  "Quality Flag (BUFR derived from CIMO guide)"@en ;
         skos:member 
 
 <01/good>,

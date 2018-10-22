@@ -92,8 +92,8 @@
     "(неизвестно)"@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label ""Region of origin of data - WMO Region" ;
+        dct:description  "Region of origin of data - WMO Region"@en ;
         skos:member 
 
 <01/africa>,

@@ -26,8 +26,8 @@
     "Дополнительное или вспомогательное наблюдение за наблюдаемой переменной"@ru .
 
 <14> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Status of observation" ;
+        dct:description  "Official status of observation"@en ;
         skos:member 
 
 <14/primary>,

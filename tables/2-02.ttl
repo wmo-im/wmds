@@ -4140,8 +4140,8 @@
     "NA"@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Programme/network affiliation" ;
+        dct:description  "The global, regional or national programme(s)/network(s) that the station/platform is associated with"@en ;
         skos:member 
 
 <02/coSponsored>,

@@ -70,8 +70,8 @@
     "Данные отсутствуют."@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Quality Flag (From WaterML2)" ;
+        dct:description  "Quality Flag (From WaterML2)"@en ;
         skos:member 
 
 <02/good>,

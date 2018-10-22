@@ -356,8 +356,8 @@
     "Полярный - Мороз"@ru .
 
 <07> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Climate zone" ;
+        dct:description  "The Köppen-Geiger climate classification scheme divides climates into five main groups (A, B, C, D, E), each having several types and subtypes "@en ;
         skos:member 
 
 <07/unspecified>,

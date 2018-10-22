@@ -103,8 +103,8 @@
     "Центры крупных городов с сочетанием низких и высотных зданий. Также необычные крупные леса со множеством пробелов (zo ≥ 2)"@ru .
 
 <06> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Surface roughness" ;
+        dct:description  "Terrain Classification in terms of effective surface roughness length"@en ;
         skos:member 
 
 <06/unspecified>,

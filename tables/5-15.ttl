@@ -70,8 +70,8 @@
     "Размещение прибора приводит к ошибочным результатам измерений"@ru .
 
 <15> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Exposure of instruments" ;
+        dct:description  "The degree to which an instrument is affected by external influences and reflects the value of the observed variable"@en ;
         skos:member 
 
 <15/unspecified>,

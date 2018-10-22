@@ -48,8 +48,8 @@
     "Флаги качества определяются по WaterML2, http://www.opengis.net/def/waterml/2.0/quality/"@ru .
 
 <04> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Quality flagging system" ;
+        dct:description  "Reference to the system used to flag the quality of the observation"@en ;
         skos:member 
 
 <04/unknown>,

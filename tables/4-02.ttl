@@ -70,8 +70,8 @@
     "Схема классификации земного покрова (СКЗП)"@ru .
 
 <02> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Surface cover classification scheme" ;
+        dct:description  "Name and reference or link to document describing the classification scheme"@en ;
         skos:member 
 
 <02/igbp>,

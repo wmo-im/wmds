@@ -70,8 +70,8 @@
     "Грубже чем -3000 м или выше 3000 м"@ru .
 
 <04> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Altitude/depth" ;
+        dct:description  "Altitude/depth"@en ;
         skos:member 
 
 <04/nilReason>,

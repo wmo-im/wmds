@@ -158,8 +158,8 @@
     "NA"@ru .
 
 <05> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Surface cover types (PFT)" ;
+        dct:description  "Surface cover types: Plant Functional Type  (PFT)"@en ;
         skos:member 
 
 <05/water>,

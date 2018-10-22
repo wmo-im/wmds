@@ -92,8 +92,8 @@
     "Местоположение выводится посредством определения местоположения объекта на карте."@ru .
 
 <01> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Coordinates Source/Service - Geopositioning Method" ;
+        dct:description  "Coordinates Source/Service: GeopositioningMethod"@en ;
         skos:member 
 
 <01/gps>,

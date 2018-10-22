@@ -147,8 +147,8 @@
     "Спутниковая платформа на орбите"@ru .
 
 <04> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Station/platform type" ;
+        dct:description  "A categorization of the type of observing facility at which an observation is made"@en ;
         skos:member 
 
 <04/landFixed>,

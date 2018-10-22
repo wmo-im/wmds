@@ -48,8 +48,8 @@
     "Метки времени указывают на середину периода, начинающегося в середине диапазона, определенного этой или предыдущей меткой времени, и заканчивающегося сразу перед серединой диапазона, определенного этой и последующей меткой времени."@ru .
 
 <03> a skos:Collection ;
-        rdfs:label "Measurement or observing method" ;
-        dct:description  "The method of measurement or observation used"@en ;
+        rdfs:label "Meaning of time stamp" ;
+        dct:description  "Meaning of time stamp"@en ;
         skos:member 
 
 <03/unknown>,
