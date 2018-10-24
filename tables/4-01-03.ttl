@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<03/notApplicable> a skos:Concept ;
+<SurfaceCoverLAI/notApplicable> a skos:Concept ;
     skos:notation "notApplicable" ;
     rdfs:label "Not applicable"@en ,
     "Sans objet"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<03/water> a skos:Concept ;
+<SurfaceCoverLAI/water> a skos:Concept ;
     skos:notation "water" ;
     rdfs:label "Water"@en ,
     "Eau"@fr ,
@@ -25,7 +25,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/grassesCerealCrops> a skos:Concept ;
+<SurfaceCoverLAI/grassesCerealCrops> a skos:Concept ;
     skos:notation "grassesCerealCrops" ;
     rdfs:label "Grasses/Cereal crops"@en ,
     "Herbages/cultures céréalières"@fr ,
@@ -36,7 +36,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/shrubs> a skos:Concept ;
+<SurfaceCoverLAI/shrubs> a skos:Concept ;
     skos:notation "shrubs" ;
     rdfs:label "Shrubs"@en ,
     "Arbustes "@fr ,
@@ -47,7 +47,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/broadleafCrops> a skos:Concept ;
+<SurfaceCoverLAI/broadleafCrops> a skos:Concept ;
     skos:notation "broadleafCrops" ;
     rdfs:label "Broadleaf crops"@en ,
     "Cultures de feuillus "@fr ,
@@ -58,7 +58,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/savannas> a skos:Concept ;
+<SurfaceCoverLAI/savannas> a skos:Concept ;
     skos:notation "savannas" ;
     rdfs:label "Savanna"@en ,
     "Savane "@fr ,
@@ -69,7 +69,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/evergreenBroadleafForest> a skos:Concept ;
+<SurfaceCoverLAI/evergreenBroadleafForest> a skos:Concept ;
     skos:notation "evergreenBroadleafForest" ;
     rdfs:label "Evergreen broadleaf forest"@en ,
     "Forêt sempervirente de feuillus "@fr ,
@@ -80,7 +80,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/deciduousBroadleafForest> a skos:Concept ;
+<SurfaceCoverLAI/deciduousBroadleafForest> a skos:Concept ;
     skos:notation "deciduousBroadleafForest" ;
     rdfs:label "Deciduous broadleaf forest"@en ,
     "Forêt décidue de feuillus "@fr ,
@@ -91,7 +91,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/evergreenNeedleleafForest> a skos:Concept ;
+<SurfaceCoverLAI/evergreenNeedleleafForest> a skos:Concept ;
     skos:notation "evergreenNeedleleafForest" ;
     rdfs:label "Evergreen needleleaf forest"@en ,
     "Forêt sempervirente de conifères"@fr ,
@@ -102,7 +102,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/deciduousNeedleleafForest> a skos:Concept ;
+<SurfaceCoverLAI/deciduousNeedleleafForest> a skos:Concept ;
     skos:notation "deciduousNeedleleafForest" ;
     rdfs:label "Deciduous needleleaf forest"@en ,
     "Forêt décidue de conifères "@fr ,
@@ -113,7 +113,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/nonVegetated> a skos:Concept ;
+<SurfaceCoverLAI/nonVegetated> a skos:Concept ;
     skos:notation "nonVegetated" ;
     rdfs:label "Non vegetated"@en ,
     "Sans végétation"@fr ,
@@ -124,7 +124,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/urban> a skos:Concept ;
+<SurfaceCoverLAI/urban> a skos:Concept ;
     skos:notation "urban" ;
     rdfs:label "Urban"@en ,
     "Cadre urbain"@fr ,
@@ -135,7 +135,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<03/unclassified> a skos:Concept ;
+<SurfaceCoverLAI/unclassified> a skos:Concept ;
     skos:notation "unclassified" ;
     rdfs:label "Unclassified"@en ,
     "Non classée"@fr ,
@@ -146,21 +146,21 @@
     "NA"@es ,
     "NA"@ru .
 
-<03> a skos:Collection ;
+<SurfaceCoverLAI> a skos:Collection ;
         rdfs:label "Surface cover types (LAI/fPAR)" ;
         dct:description  "Surface cover types: leaf area index/fraction of absorbed photosynthetically active radiation  (LAI/fPAR)"@en ;
         skos:member 
 
-<03/notApplicable>,
-<03/water>,
-<03/grassesCerealCrops>,
-<03/shrubs>,
-<03/broadleafCrops>,
-<03/savannas>,
-<03/evergreenBroadleafForest>,
-<03/deciduousBroadleafForest>,
-<03/evergreenNeedleleafForest>,
-<03/deciduousNeedleleafForest>,
-<03/nonVegetated>,
-<03/urban>,
-<03/unclassified>.
+<SurfaceCoverLAI/notApplicable>,
+<SurfaceCoverLAI/water>,
+<SurfaceCoverLAI/grassesCerealCrops>,
+<SurfaceCoverLAI/shrubs>,
+<SurfaceCoverLAI/broadleafCrops>,
+<SurfaceCoverLAI/savannas>,
+<SurfaceCoverLAI/evergreenBroadleafForest>,
+<SurfaceCoverLAI/deciduousBroadleafForest>,
+<SurfaceCoverLAI/evergreenNeedleleafForest>,
+<SurfaceCoverLAI/deciduousNeedleleafForest>,
+<SurfaceCoverLAI/nonVegetated>,
+<SurfaceCoverLAI/urban>,
+<SurfaceCoverLAI/unclassified>.

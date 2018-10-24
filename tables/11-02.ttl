@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/wgs84> a skos:Concept ;
+<CoordinateReferenceSystem/wgs84> a skos:Concept ;
     skos:notation "wgs84" ;
     rdfs:label "WGS84"@en ,
     "WGS84"@fr ,
@@ -14,9 +14,9 @@
     "Sistema de referencia y datum geodésico centrado en la Tierra y fijo en la Tierra. en la actualidad, el WGS84 utiliza el geoide EGM96 (Earth Gravitational Model 1996, Modelo gravitatorio terrestre 1996), revisado en 2004."@es ,
     "Геоцентрическая, связанная с Землей наземная координатная система отсчета и геодезическая система. В настоящее время WGS84 использует геоид EGM96 (Гравитационная модель Земли 1996 г.), пересмотренную в 2004 г."@ru .
 
-<02> a skos:Collection ;
+<CoordinateReferenceSystem> a skos:Collection ;
         rdfs:label "Coordinates reference System" ;
         dct:description  "Coordinates reference System"@en ;
         skos:member 
 
-<02/wgs84>.
+<CoordinateReferenceSystem/wgs84>.

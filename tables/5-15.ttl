@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<15/unspecified> a skos:Concept ;
+<Exposure/unspecified> a skos:Concept ;
     skos:notation "unspecified" ;
     rdfs:label "(unspecified)"@en ,
     "(non précisé)"@fr ,
@@ -14,7 +14,7 @@
     "No se especifica la clasificación"@es ,
     "Классификация не определена"@ru .
 
-<15/class1> a skos:Concept ;
+<Exposure/class1> a skos:Concept ;
     skos:notation "class1" ;
     rdfs:label "Class 1"@en ,
     "Classe 1"@fr ,
@@ -25,7 +25,7 @@
     "La exposición del instrumento permite medir los niveles de referencia"@es ,
     "Размещение прибора позволяет производить измерения эталонного уровня"@ru .
 
-<15/class2> a skos:Concept ;
+<Exposure/class2> a skos:Concept ;
     skos:notation "class2" ;
     rdfs:label "Class 2"@en ,
     "Classe 2"@fr ,
@@ -36,7 +36,7 @@
     "La influencia de la exposición del instrumento en la medición es escasa o infrecuente"@es ,
     "Размещение прибора имеет незначительное или нерегулярное влияние на результаты измерения"@ru .
 
-<15/class3> a skos:Concept ;
+<Exposure/class3> a skos:Concept ;
     skos:notation "class3" ;
     rdfs:label "Class 3"@en ,
     "Classe 3"@fr ,
@@ -47,7 +47,7 @@
     "La exposición del instrumento induce el aumento de la incertidumbre o provoca ocasionalmente que las mediciones no sean válidas"@es ,
     "Размещение прибора приводит к повышенной неопределенности или эпизодическим ошибкам в результатах измерений"@ru .
 
-<15/class4> a skos:Concept ;
+<Exposure/class4> a skos:Concept ;
     skos:notation "class4" ;
     rdfs:label "Class 4"@en ,
     "Classe 4"@fr ,
@@ -58,7 +58,7 @@
     "La exposición del instrumento induce un nivel alto de incertidumbre o provoca habitualmente que las mediciones no sean válidas"@es ,
     "Размещение прибора приводит к значительной неопределенности или регулярным ошибкам в результатах измерений"@ru .
 
-<15/class5> a skos:Concept ;
+<Exposure/class5> a skos:Concept ;
     skos:notation "class5" ;
     rdfs:label "Class 5"@en ,
     "Classe 5"@fr ,
@@ -69,14 +69,14 @@
     "La exposición del instrumento provoca que las mediciones no sean válidas"@es ,
     "Размещение прибора приводит к ошибочным результатам измерений"@ru .
 
-<15> a skos:Collection ;
+<Exposure> a skos:Collection ;
         rdfs:label "Exposure of instruments" ;
         dct:description  "The degree to which an instrument is affected by external influences and reflects the value of the observed variable"@en ;
         skos:member 
 
-<15/unspecified>,
-<15/class1>,
-<15/class2>,
-<15/class3>,
-<15/class4>,
-<15/class5>.
+<Exposure/unspecified>,
+<Exposure/class1>,
+<Exposure/class2>,
+<Exposure/class3>,
+<Exposure/class4>,
+<Exposure/class5>.

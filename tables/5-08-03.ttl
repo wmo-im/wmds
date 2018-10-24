@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<03/inCalibration> a skos:Concept ;
+<InstrumentControlResult/inCalibration> a skos:Concept ;
     skos:notation "inCalibration" ;
     rdfs:label "no changes - in calibration"@en ,
     "pas de changement - étalonnage conforme"@fr ,
@@ -14,7 +14,7 @@
     "Se verificó el instrumento y se observó que estaba calibrado"@es ,
     "Прибор проверен и признан откалиброванным"@ru .
 
-<03/outOfCalibration> a skos:Concept ;
+<InstrumentControlResult/outOfCalibration> a skos:Concept ;
     skos:notation "outOfCalibration" ;
     rdfs:label "no changes - out of calibration "@en ,
     "pas de changement - étalonnage non conforme "@fr ,
@@ -25,7 +25,7 @@
     "Se verificó el instrumento y se observó que no estaba calibrado; no se aplicaron cambios en la función de calibración"@es ,
     "Прибор проверен и признан неоткалиброванным; никаких изменений в функции калибровки"@ru .
 
-<03/unknown> a skos:Concept ;
+<InstrumentControlResult/unknown> a skos:Concept ;
     skos:notation "unknown" ;
     rdfs:label "no changes - calibration unknown"@en ,
     "Pas de changement - étalonnage inconnu"@fr ,
@@ -36,7 +36,7 @@
     "Se verificó el instrumento, pero no se pudo comprobar su calibración"@es ,
     "Инструмент осмотрен, но провести калибровка было невозможно"@ru .
 
-<03/recalibrated> a skos:Concept ;
+<InstrumentControlResult/recalibrated> a skos:Concept ;
     skos:notation "recalibrated" ;
     rdfs:label "recalibrated - in calibration"@en ,
     "Réétalonné - étalonnage conforme"@fr ,
@@ -47,12 +47,12 @@
     "Se verificó el instrumento y se observó que no estaba calibrado; se recalibró el instrumento (se aplicaron cambios en la función de calibración)"@es ,
     "Прибор проверен и признан неоткалиброванным; прибор вновь откалиброван (функция калибровки изменена)"@ru .
 
-<03> a skos:Collection ;
+<InstrumentControlResult> a skos:Collection ;
         rdfs:label "Instrument control result" ;
         dct:description  "Instrument control result"@en ;
         skos:member 
 
-<03/inCalibration>,
-<03/outOfCalibration>,
-<03/unknown>,
-<03/recalibrated>.
+<InstrumentControlResult/inCalibration>,
+<InstrumentControlResult/outOfCalibration>,
+<InstrumentControlResult/unknown>,
+<InstrumentControlResult/recalibrated>.

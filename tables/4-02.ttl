@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/igbp> a skos:Concept ;
+<SurfaceCoverClassification/igbp> a skos:Concept ;
     skos:notation "igbp" ;
     rdfs:label "Surface cover types (IGBP)"@en ,
     "Type de couverture du sol (PIGB)"@fr ,
@@ -14,7 +14,7 @@
     "Programa Internacional Geosfera-Biosfera (PIGB) https://lpdaac.usgs.gov/products/modis_products_table/mcd12q1"@es ,
     "Международная программа геосфера/биосфера https://lpdaac.usgs.gov/products/modis_products_table/mcd12q1"@ru .
 
-<02/umd> a skos:Concept ;
+<SurfaceCoverClassification/umd> a skos:Concept ;
     skos:notation "umd" ;
     rdfs:label "Surface cover types (UMD)"@en ,
     "Type de couverture du sol (UMD)"@fr ,
@@ -25,7 +25,7 @@
     "El Departamento de Geografía de la Universidad de Maryland generó una recopilación de las clasificaciones de la cobertura terrestre mundial desde 1998. http://glcf.umd.edu/data/landcover/ "@es ,
     "Географический факультатет Мирилендского университета создал глобальную классификацию земного покрова с 1998 г. http://glcf.umd.edu/data/landcover/ "@ru .
 
-<02/laifpar> a skos:Concept ;
+<SurfaceCoverClassification/laifpar> a skos:Concept ;
     skos:notation "laifpar" ;
     rdfs:label "Surface cover types (LAI/fPAR)"@en ,
     "Type de couverture du sol (LAI/fPAR)"@fr ,
@@ -36,7 +36,7 @@
     "Índice de área foliar (LAI) y radiación activa de fotosíntesis fraccionaria (FPAR). FPAR/LAI es la fracción de radiación activa de fotosíntesis que una cobertura vegetal absorbe para la fotosíntesis y el crecimiento en el dominio espectral de 0,4 - 0,7 nm."@es ,
     "Индекс листовой поверхности (ИЛП) и Доля фотосинтетически активной радиации (ДФАР). ДФАР/ИЛП − это доля фотосинтетически поглощенной активной радиации, которая поглощается растительным покровом в процессе фотосинтеза и роста в спектральном диапазоне 0,4−0,7 нм."@ru .
 
-<02/npp> a skos:Concept ;
+<SurfaceCoverClassification/npp> a skos:Concept ;
     skos:notation "npp" ;
     rdfs:label "Surface cover types (NPP)"@en ,
     "Type de couverture du sol (NPP)"@fr ,
@@ -47,7 +47,7 @@
     "Sistema de cobertura terrestre según la producción primaria neta (PPN)"@es ,
     "Схема классификации земного покрова на основе чистой первичной продуктивности (ЧПП)"@ru .
 
-<02/pft> a skos:Concept ;
+<SurfaceCoverClassification/pft> a skos:Concept ;
     skos:notation "pft" ;
     rdfs:label "Surface cover types (PFT)"@en ,
     "Type de couverture du sol (PFT)"@fr ,
@@ -58,7 +58,7 @@
     "Sistema de cobertura terrestre según el tipo de vegetación funcional (TFV)"@es ,
     "Схема классификации поверхностного покрова на основе функциональных типов растений (ФТП)"@ru .
 
-<02/lccs> a skos:Concept ;
+<SurfaceCoverClassification/lccs> a skos:Concept ;
     skos:notation "lccs" ;
     rdfs:label "Surface cover types (LCCS)"@en ,
     "Type de couverture du sol (LCCS)"@fr ,
@@ -69,14 +69,14 @@
     "Sistema de clasificación de cubiertas de la tierra (LCCS)"@es ,
     "Схема классификации земного покрова (СКЗП)"@ru .
 
-<02> a skos:Collection ;
+<SurfaceCoverClassification> a skos:Collection ;
         rdfs:label "Surface cover classification scheme" ;
         dct:description  "Name and reference or link to document describing the classification scheme"@en ;
         skos:member 
 
-<02/igbp>,
-<02/umd>,
-<02/laifpar>,
-<02/npp>,
-<02/pft>,
-<02/lccs>.
+<SurfaceCoverClassification/igbp>,
+<SurfaceCoverClassification/umd>,
+<SurfaceCoverClassification/laifpar>,
+<SurfaceCoverClassification/npp>,
+<SurfaceCoverClassification/pft>,
+<SurfaceCoverClassification/lccs>.

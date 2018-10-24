@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/WMOEssential> a skos:Concept ;
+<DataPolicy/WMOEssential> a skos:Concept ;
     skos:notation "WMOEssential" ;
     rdfs:label "WMOEssential"@en ,
     "Données essentielles de l’OMM"@fr ,
@@ -14,7 +14,7 @@
     "Datos esenciales de la OMM: intercambio internacional, gratuito y sin restricciones de datos meteorológicos y productos meteorológicos básicos."@es ,
     "Основные данные ВМО: бесплатный и неограниченный международный обмен базовыми данными и продукцией."@ru .
 
-<02/WMOAdditional> a skos:Concept ;
+<DataPolicy/WMOAdditional> a skos:Concept ;
     skos:notation "WMOAdditional" ;
     rdfs:label "WMOAdditional"@en ,
     ""@fr ,
@@ -25,7 +25,7 @@
     "WMOAdditional"@es ,
     "WMOAdditional"@ru .
 
-<02/WMOOther> a skos:Concept ;
+<DataPolicy/WMOOther> a skos:Concept ;
     skos:notation "WMOOther" ;
     rdfs:label "WMOOther"@en ,
     ""@fr ,
@@ -36,7 +36,7 @@
     "WMOOther"@es ,
     "WMOOther"@ru .
 
-<02/noLimitation> a skos:Concept ;
+<DataPolicy/noLimitation> a skos:Concept ;
     skos:notation "noLimitation" ;
     rdfs:label "(unspecified)"@en ,
     "(non précisé)"@fr ,
@@ -47,12 +47,12 @@
     "Distribución o uso ilimitados."@es ,
     "Никакого ограничения на растространение или использование."@ru .
 
-<02> a skos:Collection ;
+<DataPolicy> a skos:Collection ;
         rdfs:label "Data policy/use constraints" ;
         dct:description  "Details relating to the use and limitations surrounding data imposed by the supervising organization"@en ;
         skos:member 
 
-<02/WMOEssential>,
-<02/WMOAdditional>,
-<02/WMOOther>,
-<02/noLimitation>.
+<DataPolicy/WMOEssential>,
+<DataPolicy/WMOAdditional>,
+<DataPolicy/WMOOther>,
+<DataPolicy/noLimitation>.

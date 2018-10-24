@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<09/operational> a skos:Concept ;
+<ReportingStatus/operational> a skos:Concept ;
     skos:notation "operational" ;
     rdfs:label "Operational"@en ,
     "Opérationnelle"@fr ,
@@ -14,7 +14,7 @@
     "La estación cumple plenamente con las obligaciones de comunicación de datos del programa o de la red de observación correspondiente"@es ,
     "Станция полностью выполняет обязательства по сообщению данных в рамках соответствующей программы/сети наблюдений"@ru .
 
-<09/partlyOperational> a skos:Concept ;
+<ReportingStatus/partlyOperational> a skos:Concept ;
     skos:notation "partlyOperational" ;
     rdfs:label "Partly operational"@en ,
     "Opérationnelle en partie"@fr ,
@@ -25,7 +25,7 @@
     "La estación cumple en parte con las obligaciones de comunicación de datos del programa o la red de observación correspondiente"@es ,
     "Станция частично выполняет обязательства по сообщению данных в рамках соответствующей программы/сети наблюдений"@ru .
 
-<09/nonReporting> a skos:Concept ;
+<ReportingStatus/nonReporting> a skos:Concept ;
     skos:notation "nonReporting" ;
     rdfs:label "Non-reporting"@en ,
     "N’émettant pas"@fr ,
@@ -36,7 +36,7 @@
     "Se considera que la estación no puede transmitir datos o no no está operativa temporalmente, pero se confía en que reanude las operaciones o la comunicación tras la suspensión temporal"@es ,
     "Станция считается неоперативной/временно не предоставляющей данные, однако ожидается, что она возобновить свое функционирование/сообщение данных по истичении периода временного приостановления работы"@ru .
 
-<09/closed> a skos:Concept ;
+<ReportingStatus/closed> a skos:Concept ;
     skos:notation "closed" ;
     rdfs:label "Closed"@en ,
     "Fermée"@fr ,
@@ -47,7 +47,7 @@
     "La organización supervisora encargada ha declarado el cierre de la estación"@es ,
     "Станция была объявлена закрытой ответственной контролирующей организацией"@ru .
 
-<09/planned> a skos:Concept ;
+<ReportingStatus/planned> a skos:Concept ;
     skos:notation "planned" ;
     rdfs:label "Planned"@en ,
     "Projetée"@fr ,
@@ -58,7 +58,7 @@
     "Está previsto instalar la estación en el futuro, y toda la información proporcionada se facilita únicamente a título informativo. No se efectúan observaciones."@es ,
     "Планируется развертывание станции в какое-то время в будущем, и вся предусмотренная информация носит исключительно ориентировочный характер"@ru .
 
-<09/preOperational> a skos:Concept ;
+<ReportingStatus/preOperational> a skos:Concept ;
     skos:notation "preOperational" ;
     rdfs:label "Pre-operational"@en ,
     "Préopérationnelle"@fr ,
@@ -69,7 +69,7 @@
     "La estación se ha instalado y produce datos, pero todavía no está totalmente lista para comenzar a facilitar datos de forma operativa"@es ,
     "Станция развернута и выдает данные, однако еще не полностью готова для начала сообщения информации в оперкативном режиме"@ru .
 
-<09/standBy> a skos:Concept ;
+<ReportingStatus/standBy> a skos:Concept ;
     skos:notation "standBy" ;
     rdfs:label "Stand-by"@en ,
     "En attente"@fr ,
@@ -80,15 +80,15 @@
     "NA"@es ,
     "NA"@ru .
 
-<09> a skos:Collection ;
-        rdfs:label "Station operating status" ;
+<ReportingStatus> a skos:Collection ;
+        rdfs:label "Station/Platform operating status" ;
         dct:description  "Declared reporting status of the station"@en ;
         skos:member 
 
-<09/operational>,
-<09/partlyOperational>,
-<09/nonReporting>,
-<09/closed>,
-<09/planned>,
-<09/preOperational>,
-<09/standBy>.
+<ReportingStatus/operational>,
+<ReportingStatus/partlyOperational>,
+<ReportingStatus/nonReporting>,
+<ReportingStatus/closed>,
+<ReportingStatus/planned>,
+<ReportingStatus/preOperational>,
+<ReportingStatus/standBy>.

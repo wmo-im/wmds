@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<03/continuous> a skos:Concept ;
+<SamplingStrategy/continuous> a skos:Concept ;
     skos:notation "continuous" ;
     rdfs:label "Continuous"@en ,
     "Continu"@fr ,
@@ -14,7 +14,7 @@
     "El muestreo se efectúa de forma ininterrumpida, pero no necesariamente en intervalos periódicos. El muestreo es de carácter integrador, es decir, no hay ningún elemento en el medio que no se someta a observación."@es ,
     "Отбор производится непрерывно, но не обязательно в регулярные интервалы времени. Отбор проб интегрирован, т.е. наблюдениями охвачены все параметры среды"@ru .
 
-<03/discrete> a skos:Concept ;
+<SamplingStrategy/discrete> a skos:Concept ;
     skos:notation "discrete" ;
     rdfs:label "Discrete"@en ,
     "Intermittent"@fr ,
@@ -25,7 +25,7 @@
     "El muestreo se efectúa en intervalos periódicos para determinados períodos de muestreo que son más breves que el intervalo de tiempo. El muestreo no es de carácter integrador, es decir, hay elementos en el medio que no se someten a observación. "@es ,
     "Отбор проб производится в регулярные интервалы времени для определенных периодов отбора проб, которые меньше данного временного интервала. Отбор проб неинтегрированный, т.е. некоторые параметры среды не наблюдаются"@ru .
 
-<03/event> a skos:Concept ;
+<SamplingStrategy/event> a skos:Concept ;
     skos:notation "event" ;
     rdfs:label "Event"@en ,
     "Instantané"@fr ,
@@ -36,11 +36,11 @@
     "El muestreo se efectúa en intervalos irregulares de tiempo. "@es ,
     "Отбор проб производится в нерегулярные временные интервалы"@ru .
 
-<03> a skos:Collection ;
+<SamplingStrategy> a skos:Collection ;
         rdfs:label "Sampling strategy" ;
         dct:description  "The strategy used to generate the observed variable"@en ;
         skos:member 
 
-<03/continuous>,
-<03/discrete>,
-<03/event>.
+<SamplingStrategy/continuous>,
+<SamplingStrategy/discrete>,
+<SamplingStrategy/event>.

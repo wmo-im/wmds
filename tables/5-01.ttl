@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<01/automaticReading> a skos:Concept ;
+<SourceOfObservation/automaticReading> a skos:Concept ;
     skos:notation "automaticReading" ;
     rdfs:label "Instrumental automatic reading"@en ,
     "Lecture automatique de l’instrument"@fr ,
@@ -14,7 +14,7 @@
     "Resultado de medición generado automáticamente"@es ,
     "Результат автоматически произведенного измерения"@ru .
 
-<01/manualReading> a skos:Concept ;
+<SourceOfObservation/manualReading> a skos:Concept ;
     skos:notation "manualReading" ;
     rdfs:label "Instrumental manual reading"@en ,
     "Lecture manuelle de l’instrument"@fr ,
@@ -25,7 +25,7 @@
     "Lectura manual del instrumento, resultados tanto analógicos como digitales"@es ,
     "Ручное считывание показаний прибора, аналоговые и цифровые данные"@ru .
 
-<01/humanObservation> a skos:Concept ;
+<SourceOfObservation/humanObservation> a skos:Concept ;
     skos:notation "humanObservation" ;
     rdfs:label "Human observation"@en ,
     "Observation humaine"@fr ,
@@ -36,7 +36,7 @@
     "Observación humana, sin instrumentos"@es ,
     "Визуальное, неинструментальное наблюдение"@ru .
 
-<01/unspecified> a skos:Concept ;
+<SourceOfObservation/unspecified> a skos:Concept ;
     skos:notation "unspecified" ;
     rdfs:label "(unspecified)"@en ,
     "(non précisé)"@fr ,
@@ -47,12 +47,12 @@
     "No se especifica el procedimiento empleado para obtener los resultados"@es ,
     "Процедура, используемая для получения неопределенного результата"@ru .
 
-<01> a skos:Collection ;
+<SourceOfObservation> a skos:Collection ;
         rdfs:label "Source of observation" ;
         dct:description  "The source of the dataset described by the metadata"@en ;
         skos:member 
 
-<01/automaticReading>,
-<01/manualReading>,
-<01/humanObservation>,
-<01/unspecified>.
+<SourceOfObservation/automaticReading>,
+<SourceOfObservation/manualReading>,
+<SourceOfObservation/humanObservation>,
+<SourceOfObservation/unspecified>.

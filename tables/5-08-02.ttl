@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/onSite> a skos:Concept ;
+<ControlLocation/onSite> a skos:Concept ;
     skos:notation "onSite" ;
     rdfs:label "Field calibration"@en ,
     "Étalonnage sur le terrain"@fr ,
@@ -14,7 +14,7 @@
     "Actividad de control del instrumento realizada in situ"@es ,
     "Контроль работы прибора осуществляется на месте"@ru .
 
-<02/laboratory> a skos:Concept ;
+<ControlLocation/laboratory> a skos:Concept ;
     skos:notation "laboratory" ;
     rdfs:label "Laboratory calibration"@en ,
     "Étalonnage en laboratoire"@fr ,
@@ -25,7 +25,7 @@
     "Actividad de control del instrumento realizada en el laboratorio"@es ,
     "Контроль работы прибора осуществляется в лаборатории"@ru .
 
-<02/remote> a skos:Concept ;
+<ControlLocation/remote> a skos:Concept ;
     skos:notation "remote" ;
     rdfs:label "Remote (non in-situ)"@en ,
     "Étalonnage à distance (non in situ)"@fr ,
@@ -36,11 +36,11 @@
     "Actividad de control del instrumento realizada de manera remota"@es ,
     "Контроль работы прибора осуществляется дистанционно"@ru .
 
-<02> a skos:Collection ;
+<ControlLocation> a skos:Collection ;
         rdfs:label "Control location" ;
         dct:description  "Control location"@en ;
         skos:member 
 
-<02/onSite>,
-<02/laboratory>,
-<02/remote>.
+<ControlLocation/onSite>,
+<ControlLocation/laboratory>,
+<ControlLocation/remote>.

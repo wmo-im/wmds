@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<01/gps> a skos:Concept ;
+<GeopositioningMethod/gps> a skos:Concept ;
     skos:notation "gps" ;
     rdfs:label "GPS"@en ,
     "GPS"@fr ,
@@ -14,7 +14,7 @@
     "Posición determinada utilizando el Sistema de posicionamiento mundial. http://www.gps.gov/"@es ,
     "Местоположение определено с использованием Глобальной системы определения местоположения. http://www.gps.gov/"@ru .
 
-<01/argosDoppler> a skos:Concept ;
+<GeopositioningMethod/argosDoppler> a skos:Concept ;
     skos:notation "argosDoppler" ;
     rdfs:label "ARGOS DOPPLER"@en ,
     "ARGOS DOPPLER"@fr ,
@@ -25,7 +25,7 @@
     "Posición determinada utilizando el desplazamiento de frecuencia de las transmisiones al servicio del satélite de comunicaciones ARGOS. http://www.argos-system.org/web/en/333-why-choose-argos.php"@es ,
     "Местоположение определено с использованием сдвига частоты передач в спутниковую службу связи ARGOS. http://www.argos-system.org/web/en/333-why-choose-argos.php"@ru .
 
-<01/iridiumDoppler> a skos:Concept ;
+<GeopositioningMethod/iridiumDoppler> a skos:Concept ;
     skos:notation "iridiumDoppler" ;
     rdfs:label "IRIDIUM DOPPLER"@en ,
     "IRIDIUM DOPPLER"@fr ,
@@ -36,7 +36,7 @@
     "Posición determinada utilizando el desplazamiento de frecuencia de las transmisiones a la constelación de satélites Iridium. https://www.iridium.com/"@es ,
     "Местоположение определено с использованием сдвига частоты передач в спутниковую группу связи Iridium. https://www.iridium.com/"@ru .
 
-<01/argosKalman> a skos:Concept ;
+<GeopositioningMethod/argosKalman> a skos:Concept ;
     skos:notation "argosKalman" ;
     rdfs:label "ARGOS Kalman"@en ,
     "ARGOS Kalman"@fr ,
@@ -47,7 +47,7 @@
     "Posición determinada utilizando la técnica de filtrado Kalman y el servicio del satélite de comunicaciones ARGOS. http://www.argos-system.org/web/en/393-faq-kalman.php."@es ,
     "Местоположение определено с использованием метода фильтрации Калмана и спутниковой службы связи ARGOS. http://www.argos-system.org/web/en/393-faq-kalman.php."@ru .
 
-<01/galileo> a skos:Concept ;
+<GeopositioningMethod/galileo> a skos:Concept ;
     skos:notation "galileo" ;
     rdfs:label "GALILEO"@en ,
     "GALILEO"@fr ,
@@ -58,7 +58,7 @@
     "Posición determinada utilizando el Sistema europeo GALILEO de satélites para la navegación mundial. http://galileognss.eu/"@es ,
     "Местоположение определено с использованием европейской глобальной навигационной спутниковой системы GALILEO. http://galileognss.eu/"@ru .
 
-<01/loran> a skos:Concept ;
+<GeopositioningMethod/loran> a skos:Concept ;
     skos:notation "loran" ;
     rdfs:label "LORAN"@en ,
     "LORAN"@fr ,
@@ -69,7 +69,7 @@
     "Posición determinada utilizando el LORAN (LOng RAnge Navigation, navegación de largo alcance), un sistema hiperbólico de navegación por radio."@es ,
     "Местоположение определено с использованием гиперболической радиосистемы LORAN (LOng RAnge Navigation) (дальняя навигация)."@ru .
 
-<01/survey> a skos:Concept ;
+<GeopositioningMethod/survey> a skos:Concept ;
     skos:notation "survey" ;
     rdfs:label "Survey"@en ,
     "Levés"@fr ,
@@ -80,7 +80,7 @@
     "Posición determinada utilizando un levantamiento geográfico."@es ,
     "Местоположение определено с использованием мелкомасштабной топографической съемки."@ru .
 
-<01/map> a skos:Concept ;
+<GeopositioningMethod/map> a skos:Concept ;
     skos:notation "map" ;
     rdfs:label "From map"@en ,
     "Carte"@fr ,
@@ -91,16 +91,16 @@
     "Posición obtenida localizando el objeto en un mapa."@es ,
     "Местоположение выводится посредством определения местоположения объекта на карте."@ru .
 
-<01> a skos:Collection ;
+<GeopositioningMethod> a skos:Collection ;
         rdfs:label "Coordinates Source/Service - Geopositioning Method" ;
         dct:description  "Coordinates Source/Service: GeopositioningMethod"@en ;
         skos:member 
 
-<01/gps>,
-<01/argosDoppler>,
-<01/iridiumDoppler>,
-<01/argosKalman>,
-<01/galileo>,
-<01/loran>,
-<01/survey>,
-<01/map>.
+<GeopositioningMethod/gps>,
+<GeopositioningMethod/argosDoppler>,
+<GeopositioningMethod/iridiumDoppler>,
+<GeopositioningMethod/argosKalman>,
+<GeopositioningMethod/galileo>,
+<GeopositioningMethod/loran>,
+<GeopositioningMethod/survey>,
+<GeopositioningMethod/map>.

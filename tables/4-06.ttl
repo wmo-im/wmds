@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<06/unspecified> a skos:Concept ;
+<SurfaceRoughnessDavenport/unspecified> a skos:Concept ;
     skos:notation "unspecified" ;
     rdfs:label "(unspecified)"@en ,
     "(non précisé)"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<06/sea> a skos:Concept ;
+<SurfaceRoughnessDavenport/sea> a skos:Concept ;
     skos:notation "sea" ;
     rdfs:label "Sea"@en ,
     "Mer"@fr ,
@@ -25,7 +25,7 @@
     "Mar abierto o lago (independientemente del tamaño de las olas), marisma, planicie cubierta de nieve, desierto uniforme, cemento y asfalto, con un alcance del viento de varios kilómetros. (zo 0,0002)"@es ,
     "Открытое море или озеро (независимо от размера волны), приливные отмели, покрытая снегом плоская равнина, безликая пустыня, асфальт и бетон, со свободной областью образования ветровых волн в несколько км (zo 0,0002)"@ru .
 
-<06/smooth> a skos:Concept ;
+<SurfaceRoughnessDavenport/smooth> a skos:Concept ;
     skos:notation "smooth" ;
     rdfs:label "Smooth"@en ,
     "Lisse"@fr ,
@@ -36,7 +36,7 @@
     "Superficie de tierra uniforme sin obstáculos importantes y prácticamente sin vegetación; p. ej. playas, hielo a la deriva sin grandes crestas, ciénagas, y campo abierto en barbecho o cubierto de nieve. (zo 0,005)"@es ,
     "Однообразная земная поверхность без каких-либо заметных препятствий и с ничтожной растительностью; например, пляжи, паковый лед, без крупных бугров, болота и покрытая снегом или земля под паром (zo 0,005)"@ru .
 
-<06/open> a skos:Concept ;
+<SurfaceRoughnessDavenport/open> a skos:Concept ;
     skos:notation "open" ;
     rdfs:label "Open"@en ,
     "Dégagé"@fr ,
@@ -47,7 +47,7 @@
     "Campo nivelado con poca vegetación (p. ej. prado) y obstáculos aislados con separaciones de al menos 50 veces su altura; p. ej. pastizal sin rompevientos, brezal, páramo y tundra, pistas de despegue de los aeropuertos. (zo 0,03)"@es ,
     "Равнина с низкой растительностью (например, трава) и отдельные препятствия, разделенные на расстояние в по меньшей мере 50 высот препятствия; например, пастбищные угодья без ветрозащитных насаждений, болота, торфянник и тундра, взлетно-посадочная полоса аэропортов (zo 0,03)"@ru .
 
-<06/roughlyOpen> a skos:Concept ;
+<SurfaceRoughnessDavenport/roughlyOpen> a skos:Concept ;
     skos:notation "roughlyOpen" ;
     rdfs:label "Roughly open"@en ,
     "Légèrement rugueux"@fr ,
@@ -58,7 +58,7 @@
     "Zona de cultivo con cubierta regular de cultivos bajos, o campo moderadamente abierto con obstáculos ocasionales (p. ej. setos bajos, hileras individuales de árboles, granjas aisladas) con distancias horizontales relativas de al menos 20 veces la altura del obstáculo. (zo 0,10)"@es ,
     "Обрабатываемая площадь с низкими регулярно высеваевыми культурами или умеренно открытая местность со случайными препятствиями (например, низкие ограды, отдельные ряды деревьев, изолированные фермы) на относительно горизонтальных удалениях, по крайней мере на 20 высот препятствия (zo 0,10)"@ru .
 
-<06/rough> a skos:Concept ;
+<SurfaceRoughnessDavenport/rough> a skos:Concept ;
     skos:notation "rough" ;
     rdfs:label "Rough"@en ,
     "Rugueux"@fr ,
@@ -69,7 +69,7 @@
     "Paisaje “joven” desarrollado recientemente con cultivos altos o de distintas alturas, y obstáculos dispersos (p. ej. cortinas forestales densas, viñedos) a distancias relativas de unas 15 veces la altura del obstáculo. (zo 0,25)"@es ,
     "Недавно разработанный «молодой» ландшафт с высокими сельскохозяйственными культурами или культурами разной высоты, а также рассеянными препятствиями (например, плотные защитные полосы, виноградники) на относительных удалениях порядка 15 высот препятствия (zo 0,25)"@ru .
 
-<06/veryRough> a skos:Concept ;
+<SurfaceRoughnessDavenport/veryRough> a skos:Concept ;
     skos:notation "veryRough" ;
     rdfs:label "Very rough"@en ,
     "Très rugueux"@fr ,
@@ -80,7 +80,7 @@
     "Paisaje cultivado “viejo” con muchos obstáculos bastante grandes (grandes granjas, masas forestales) separados por espacios abiertos de unas 10 veces la altura del obstáculo. También grandes áreas de vegetación baja con pequeños espacios de separación, como matorrales, huertos, bosques jóvenes de gran densidad. (zo 0,5)"@es ,
     "«Старый» культивированный ландшафт с множеством довольно крупных групп препятствий (большие фермы, групп леса), разделенные открытыми пространствами протяженностью около 10 высот препятствия. Также низкая большая растительность с небольшими промежутками, такая как бушленды, сады, молодой плотно посаженный лес (zo 0,5)"@ru .
 
-<06/closed> a skos:Concept ;
+<SurfaceRoughnessDavenport/closed> a skos:Concept ;
     skos:notation "closed" ;
     rdfs:label "Closed"@en ,
     "Rugueux régulier"@fr ,
@@ -91,7 +91,7 @@
     "Paisaje cubierto completamente y de forma bastante regular con grandes obstáculos de tamaño similar, con espacios abiertos comparables a la altura de los obstáculos; p. ej. bosques maduros regulares, ciudades o pueblos homogéneos. (zo 1,0)"@es ,
     "Ландшафт, полностью или весьма регулярно покрытый крупными препятствиями аналогичного размера с открытыми пространствами, сопоставимыми с высотами препятствия; например, обычные спелые леса, однородные города или деревни (zo 1,0)"@ru .
 
-<06/chaotic> a skos:Concept ;
+<SurfaceRoughnessDavenport/chaotic> a skos:Concept ;
     skos:notation "chaotic" ;
     rdfs:label "Chaotic"@en ,
     "Chaotique"@fr ,
@@ -102,17 +102,17 @@
     "Centros de grandes ciudades con mezla de edificios altos y bajos. También bosques grandes irregulares con muchos claros. (zo ≥ 2)"@es ,
     "Центры крупных городов с сочетанием низких и высотных зданий. Также необычные крупные леса со множеством пробелов (zo ≥ 2)"@ru .
 
-<06> a skos:Collection ;
-        rdfs:label "Surface roughness" ;
+<SurfaceRoughnessDavenport> a skos:Collection ;
+        rdfs:label "Surface roughness (Davenport roughness classification)" ;
         dct:description  "Terrain Classification in terms of effective surface roughness length"@en ;
         skos:member 
 
-<06/unspecified>,
-<06/sea>,
-<06/smooth>,
-<06/open>,
-<06/roughlyOpen>,
-<06/rough>,
-<06/veryRough>,
-<06/closed>,
-<06/chaotic>.
+<SurfaceRoughnessDavenport/unspecified>,
+<SurfaceRoughnessDavenport/sea>,
+<SurfaceRoughnessDavenport/smooth>,
+<SurfaceRoughnessDavenport/open>,
+<SurfaceRoughnessDavenport/roughlyOpen>,
+<SurfaceRoughnessDavenport/rough>,
+<SurfaceRoughnessDavenport/veryRough>,
+<SurfaceRoughnessDavenport/closed>,
+<SurfaceRoughnessDavenport/chaotic>.

@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/notApplicable> a skos:Concept ;
+<SurfaceCoverUMD/notApplicable> a skos:Concept ;
     skos:notation "notApplicable" ;
     rdfs:label "Not applicable"@en ,
     "Sans objet"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<02/water> a skos:Concept ;
+<SurfaceCoverUMD/water> a skos:Concept ;
     skos:notation "water" ;
     rdfs:label "Water"@en ,
     "Eau"@fr ,
@@ -25,7 +25,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/evergreenNeedleleafForest> a skos:Concept ;
+<SurfaceCoverUMD/evergreenNeedleleafForest> a skos:Concept ;
     skos:notation "evergreenNeedleleafForest" ;
     rdfs:label "Evergreen Needleleaf forest"@en ,
     "Forêt sempervirente de conifères "@fr ,
@@ -36,7 +36,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/evergreenBroadleafForest> a skos:Concept ;
+<SurfaceCoverUMD/evergreenBroadleafForest> a skos:Concept ;
     skos:notation "evergreenBroadleafForest" ;
     rdfs:label "Evergreen Broadleaf forest"@en ,
     "Forêt sempervirente de feuillus "@fr ,
@@ -47,7 +47,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/deciduousNeedleleafForest> a skos:Concept ;
+<SurfaceCoverUMD/deciduousNeedleleafForest> a skos:Concept ;
     skos:notation "deciduousNeedleleafForest" ;
     rdfs:label "Deciduous Needleleaf forest"@en ,
     "Forêt décidue de conifères"@fr ,
@@ -58,7 +58,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/deciduousBroadleafForest> a skos:Concept ;
+<SurfaceCoverUMD/deciduousBroadleafForest> a skos:Concept ;
     skos:notation "deciduousBroadleafForest" ;
     rdfs:label "Deciduous Broadleaf forest"@en ,
     "Forêt décidue de feuillus "@fr ,
@@ -69,7 +69,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/mixedForest> a skos:Concept ;
+<SurfaceCoverUMD/mixedForest> a skos:Concept ;
     skos:notation "mixedForest" ;
     rdfs:label "Mixed forest"@en ,
     "Forêt mixte"@fr ,
@@ -80,7 +80,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/closedShrublands> a skos:Concept ;
+<SurfaceCoverUMD/closedShrublands> a skos:Concept ;
     skos:notation "closedShrublands" ;
     rdfs:label "Closed shrublands"@en ,
     "Zone arbustive dense"@fr ,
@@ -91,7 +91,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/openShrublands> a skos:Concept ;
+<SurfaceCoverUMD/openShrublands> a skos:Concept ;
     skos:notation "openShrublands" ;
     rdfs:label "Open shrublands"@en ,
     "Zone arbustive claire"@fr ,
@@ -102,7 +102,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/woodySavannas> a skos:Concept ;
+<SurfaceCoverUMD/woodySavannas> a skos:Concept ;
     skos:notation "woodySavannas" ;
     rdfs:label "Woody savannas"@en ,
     "Savane arborée"@fr ,
@@ -113,7 +113,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/savannas> a skos:Concept ;
+<SurfaceCoverUMD/savannas> a skos:Concept ;
     skos:notation "savannas" ;
     rdfs:label "Savannas"@en ,
     "Savane"@fr ,
@@ -124,7 +124,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/grasslands> a skos:Concept ;
+<SurfaceCoverUMD/grasslands> a skos:Concept ;
     skos:notation "grasslands" ;
     rdfs:label "Grasslands"@en ,
     "Prairie"@fr ,
@@ -135,7 +135,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/croplands> a skos:Concept ;
+<SurfaceCoverUMD/croplands> a skos:Concept ;
     skos:notation "croplands" ;
     rdfs:label "Croplands"@en ,
     "Terre cultivée"@fr ,
@@ -146,7 +146,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/urbanBuiltup> a skos:Concept ;
+<SurfaceCoverUMD/urbanBuiltup> a skos:Concept ;
     skos:notation "urbanBuiltup" ;
     rdfs:label "Urban and built-up"@en ,
     "Cadre urbain et bâti"@fr ,
@@ -157,7 +157,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/barren> a skos:Concept ;
+<SurfaceCoverUMD/barren> a skos:Concept ;
     skos:notation "barren" ;
     rdfs:label "Barren or sparsely vegetated"@en ,
     "Terre nue ou végétation clairsemée"@fr ,
@@ -168,7 +168,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<02/unclassified> a skos:Concept ;
+<SurfaceCoverUMD/unclassified> a skos:Concept ;
     skos:notation "unclassified" ;
     rdfs:label "Unclassified"@en ,
     "Non classée "@fr ,
@@ -179,24 +179,24 @@
     "NA"@es ,
     "NA"@ru .
 
-<02> a skos:Collection ;
+<SurfaceCoverUMD> a skos:Collection ;
         rdfs:label "Surface cover types (UMD)" ;
         dct:description  "Surface cover types: University of Maryland  (UMD)"@en ;
         skos:member 
 
-<02/notApplicable>,
-<02/water>,
-<02/evergreenNeedleleafForest>,
-<02/evergreenBroadleafForest>,
-<02/deciduousNeedleleafForest>,
-<02/deciduousBroadleafForest>,
-<02/mixedForest>,
-<02/closedShrublands>,
-<02/openShrublands>,
-<02/woodySavannas>,
-<02/savannas>,
-<02/grasslands>,
-<02/croplands>,
-<02/urbanBuiltup>,
-<02/barren>,
-<02/unclassified>.
+<SurfaceCoverUMD/notApplicable>,
+<SurfaceCoverUMD/water>,
+<SurfaceCoverUMD/evergreenNeedleleafForest>,
+<SurfaceCoverUMD/evergreenBroadleafForest>,
+<SurfaceCoverUMD/deciduousNeedleleafForest>,
+<SurfaceCoverUMD/deciduousBroadleafForest>,
+<SurfaceCoverUMD/mixedForest>,
+<SurfaceCoverUMD/closedShrublands>,
+<SurfaceCoverUMD/openShrublands>,
+<SurfaceCoverUMD/woodySavannas>,
+<SurfaceCoverUMD/savannas>,
+<SurfaceCoverUMD/grasslands>,
+<SurfaceCoverUMD/croplands>,
+<SurfaceCoverUMD/urbanBuiltup>,
+<SurfaceCoverUMD/barren>,
+<SurfaceCoverUMD/unclassified>.

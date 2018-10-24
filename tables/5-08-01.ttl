@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<01/internationalStandard> a skos:Concept ;
+<ControlStandardType/internationalStandard> a skos:Concept ;
     skos:notation "internationalStandard" ;
     rdfs:label "International"@en ,
     "International"@fr ,
@@ -14,7 +14,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<01/primaryStandard> a skos:Concept ;
+<ControlStandardType/primaryStandard> a skos:Concept ;
     skos:notation "primaryStandard" ;
     rdfs:label "Primary"@en ,
     "Primaire"@fr ,
@@ -25,7 +25,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<01/secondaryStandard> a skos:Concept ;
+<ControlStandardType/secondaryStandard> a skos:Concept ;
     skos:notation "secondaryStandard" ;
     rdfs:label "Secondary"@en ,
     "Secondaire"@fr ,
@@ -36,7 +36,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<01/referenceStandard> a skos:Concept ;
+<ControlStandardType/referenceStandard> a skos:Concept ;
     skos:notation "referenceStandard" ;
     rdfs:label "Reference"@en ,
     "De référence"@fr ,
@@ -47,7 +47,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<01/workingStandard> a skos:Concept ;
+<ControlStandardType/workingStandard> a skos:Concept ;
     skos:notation "workingStandard" ;
     rdfs:label "Working"@en ,
     "De travail"@fr ,
@@ -58,7 +58,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<01/transferStandard> a skos:Concept ;
+<ControlStandardType/transferStandard> a skos:Concept ;
     skos:notation "transferStandard" ;
     rdfs:label "Transfer"@en ,
     "De transfert"@fr ,
@@ -69,7 +69,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<01/travellingStandard> a skos:Concept ;
+<ControlStandardType/travellingStandard> a skos:Concept ;
     skos:notation "travellingStandard" ;
     rdfs:label "Travelling"@en ,
     "Voyageur"@fr ,
@@ -80,7 +80,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<01/collectiveStandard> a skos:Concept ;
+<ControlStandardType/collectiveStandard> a skos:Concept ;
     skos:notation "collectiveStandard" ;
     rdfs:label "Collective"@en ,
     "Collectif"@fr ,
@@ -91,16 +91,16 @@
     "NA"@es ,
     "NA"@ru .
 
-<01> a skos:Collection ;
+<ControlStandardType> a skos:Collection ;
         rdfs:label "Control standard type" ;
         dct:description  "The method of measurement or observation used"@en ;
         skos:member 
 
-<01/internationalStandard>,
-<01/primaryStandard>,
-<01/secondaryStandard>,
-<01/referenceStandard>,
-<01/workingStandard>,
-<01/transferStandard>,
-<01/travellingStandard>,
-<01/collectiveStandard>.
+<ControlStandardType/internationalStandard>,
+<ControlStandardType/primaryStandard>,
+<ControlStandardType/secondaryStandard>,
+<ControlStandardType/referenceStandard>,
+<ControlStandardType/workingStandard>,
+<ControlStandardType/transferStandard>,
+<ControlStandardType/travellingStandard>,
+<ControlStandardType/collectiveStandard>.

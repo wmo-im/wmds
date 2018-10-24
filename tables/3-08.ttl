@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<08/voiceLandline> a skos:Concept ;
+<DataCommunicationMethod/voiceLandline> a skos:Concept ;
     skos:notation "voiceLandline" ;
     rdfs:label "Voice/landline"@en ,
     "Voix/ligne fixe"@fr ,
@@ -14,7 +14,7 @@
     "Comunicaciones por voz mediante una red de telecomunicaciones terrestre fija"@es ,
     "Голосовая связь с использованием фиксированной наземной сети связи"@ru .
 
-<08/voiceCellular> a skos:Concept ;
+<DataCommunicationMethod/voiceCellular> a skos:Concept ;
     skos:notation "voiceCellular" ;
     rdfs:label "Voice/cellular"@en ,
     "Voix/mobile"@fr ,
@@ -25,7 +25,7 @@
     "Comunicaciones por voz mediante una red de telecomunicaciones terrestre celular o similar"@es ,
     "Голосовая связь с использованием сотовой или аналогичной наземной сети связи"@ru .
 
-<08/voiceRadio> a skos:Concept ;
+<DataCommunicationMethod/voiceRadio> a skos:Concept ;
     skos:notation "voiceRadio" ;
     rdfs:label "Voice/radio"@en ,
     "Voix/radio"@fr ,
@@ -36,7 +36,7 @@
     "Comunicaciones por voz mediante un sistema de radio directo (como VHF, HF BLU)"@es ,
     "Голосовая связь с использованием прямой радиосистемы (такой, как VHF, HF SSB)"@ru .
 
-<08/voiceSatellite> a skos:Concept ;
+<DataCommunicationMethod/voiceSatellite> a skos:Concept ;
     skos:notation "voiceSatellite" ;
     rdfs:label "Voice/satellite"@en ,
     "Voix/satellite"@fr ,
@@ -47,7 +47,7 @@
     "Comunicaciones por voz mediante una red de telecomunicaciones por satélite"@es ,
     "Голосовая связь с использованием спутниковой сети телесвязи"@ru .
 
-<08/dataLandline> a skos:Concept ;
+<DataCommunicationMethod/dataLandline> a skos:Concept ;
     skos:notation "dataLandline" ;
     rdfs:label "Data/landline"@en ,
     "Données/ligne fixe"@fr ,
@@ -58,7 +58,7 @@
     "Comunicaciones por datos (digitales o por módem) usando una red de telecomunicaciones terrestre fija (cobre o fibra)"@es ,
     "Передача данных (цифровая или модемная) с использованием фиксированной наземной сети телесвязи (медной или фибровой оптоволоконной)"@ru .
 
-<08/dataCellular> a skos:Concept ;
+<DataCommunicationMethod/dataCellular> a skos:Concept ;
     skos:notation "dataCellular" ;
     rdfs:label "Data/cellular"@en ,
     "Données/mobile"@fr ,
@@ -69,7 +69,7 @@
     "Comunicaciones por datos (digitales o por módem) usando una red de telecomunicaciones terrestre celular o similar"@es ,
     "Передача данных (цифровая или модемная) с использованием сотовой или аналогичной наземной телекоммуникационной сети"@ru .
 
-<08/dataRadio> a skos:Concept ;
+<DataCommunicationMethod/dataRadio> a skos:Concept ;
     skos:notation "dataRadio" ;
     rdfs:label "Data/radio"@en ,
     "Données/radio"@fr ,
@@ -80,7 +80,7 @@
     "Comunicaciones por datos (digitales o por módem) mediante un sistema de radio directo (como VHF, HF BLU, microondas)"@es ,
     "Передача данных (цифровая или модемная) с использованием прямой радиосистемы (такой, как VHF, HF SSB, мироволновая)"@ru .
 
-<08/dataSatGeostationary> a skos:Concept ;
+<DataCommunicationMethod/dataSatGeostationary> a skos:Concept ;
     skos:notation "dataSatGeostationary" ;
     rdfs:label "Data/satellite/geostationary"@en ,
     "Données/satellite/géostationnaire"@fr ,
@@ -91,7 +91,7 @@
     "Comunicaciones por datos (digitales o por módem) mediante un servicio de satélite geoestacionario (como METEOSAT)"@es ,
     "Передача данных (цифровая или модемная) с использованием службы геостационарных спутников (такой, как METEOSAT)"@ru .
 
-<08/dataSatConstellation> a skos:Concept ;
+<DataCommunicationMethod/dataSatConstellation> a skos:Concept ;
     skos:notation "dataSatConstellation" ;
     rdfs:label "Data/satellite/constellation"@en ,
     "Données/satellite/constellation"@fr ,
@@ -102,7 +102,7 @@
     "Comunicaciones por datos (digitales o por módem) mediante un servicio de constelación de satélites (como IRIDIUM)"@es ,
     "Передача данных (цифровая или модемная) с использованием службы спутниковой группы (такой, как IRIDIUM)"@ru .
 
-<08/dataSatIntermittent> a skos:Concept ;
+<DataCommunicationMethod/dataSatIntermittent> a skos:Concept ;
     skos:notation "dataSatIntermittent" ;
     rdfs:label "Data/satellite/intermittent"@en ,
     "Données/satellite/intermittent"@fr ,
@@ -113,7 +113,7 @@
     "Comunicaciones por datos (digitales o por módem) mediante un servicio de satélite con cobertura intermitente (como ARGOS)"@es ,
     "Передача данных (цифровая или модемная) с использованием спутниковой службы с промежуточным охватом (такой, как ARGOS)"@ru .
 
-<08/faxLandline> a skos:Concept ;
+<DataCommunicationMethod/faxLandline> a skos:Concept ;
     skos:notation "faxLandline" ;
     rdfs:label "Fax/landline"@en ,
     "Fax/ligne fixe"@fr ,
@@ -124,7 +124,7 @@
     "Facsímil usando una red de telecomunicaciones terrestre fija"@es ,
     "Факсимиле с использованием сотовой или аналогичной наземной телекоммуникационной сети"@ru .
 
-<08/faxCellular> a skos:Concept ;
+<DataCommunicationMethod/faxCellular> a skos:Concept ;
     skos:notation "faxCellular" ;
     rdfs:label "Fax/cellular"@en ,
     "Fax/mobile"@fr ,
@@ -135,7 +135,7 @@
     "Facsímil usando una red de telecomunicaciones terrestre celular o similar"@es ,
     "Факсимиле с использованием радио или наналогичной наземной телекоммуникационной сети"@ru .
 
-<08/faxRadio> a skos:Concept ;
+<DataCommunicationMethod/faxRadio> a skos:Concept ;
     skos:notation "faxRadio" ;
     rdfs:label "Fax/radio"@en ,
     "Fax/radio"@fr ,
@@ -146,7 +146,7 @@
     "Facsímil usando un sistema de radio directo (como VHF, HF BLU)"@es ,
     "Факсимиле с использованием прямой радиосистемы (такой, как VHF, HF SSB)"@ru .
 
-<08/post> a skos:Concept ;
+<DataCommunicationMethod/post> a skos:Concept ;
     skos:notation "post" ;
     rdfs:label "Post"@en ,
     "Service postal"@fr ,
@@ -157,22 +157,22 @@
     "Transferencia física de información mediante servicio postal, servicio de entregas, mensajería o similares"@es ,
     "Физическая передача информации почтовой службой, службой доставки, курьерской службой или аналогичной службой"@ru .
 
-<08> a skos:Collection ;
+<DataCommunicationMethod> a skos:Collection ;
         rdfs:label "Data communication method" ;
-        dct:description  "Data communication method between the station/platform and some central facility"@en ;
+        dct:description  "Data communication method between the station/platform and some central facility. EXAMPLES:  Inmarsat-C, ARGOS, Cellular, Globalstar, GMS(DCP), Iridium, Orbcomm, VSat, landline telephone, mail "@en ;
         skos:member 
 
-<08/voiceLandline>,
-<08/voiceCellular>,
-<08/voiceRadio>,
-<08/voiceSatellite>,
-<08/dataLandline>,
-<08/dataCellular>,
-<08/dataRadio>,
-<08/dataSatGeostationary>,
-<08/dataSatConstellation>,
-<08/dataSatIntermittent>,
-<08/faxLandline>,
-<08/faxCellular>,
-<08/faxRadio>,
-<08/post>.
+<DataCommunicationMethod/voiceLandline>,
+<DataCommunicationMethod/voiceCellular>,
+<DataCommunicationMethod/voiceRadio>,
+<DataCommunicationMethod/voiceSatellite>,
+<DataCommunicationMethod/dataLandline>,
+<DataCommunicationMethod/dataCellular>,
+<DataCommunicationMethod/dataRadio>,
+<DataCommunicationMethod/dataSatGeostationary>,
+<DataCommunicationMethod/dataSatConstellation>,
+<DataCommunicationMethod/dataSatIntermittent>,
+<DataCommunicationMethod/faxLandline>,
+<DataCommunicationMethod/faxCellular>,
+<DataCommunicationMethod/faxRadio>,
+<DataCommunicationMethod/post>.

@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<01/africa> a skos:Concept ;
+<WMORegion/africa> a skos:Concept ;
     skos:notation "africa" ;
     rdfs:label "Africa"@en ,
     "Afrique"@fr ,
@@ -14,7 +14,7 @@
     "África"@es ,
     "Африка"@ru .
 
-<01/asia> a skos:Concept ;
+<WMORegion/asia> a skos:Concept ;
     skos:notation "asia" ;
     rdfs:label "Asia"@en ,
     "Asie"@fr ,
@@ -25,7 +25,7 @@
     "Asia"@es ,
     "Азия"@ru .
 
-<01/southAmerica> a skos:Concept ;
+<WMORegion/southAmerica> a skos:Concept ;
     skos:notation "southAmerica" ;
     rdfs:label "South America"@en ,
     "Amérique du Sud"@fr ,
@@ -36,7 +36,7 @@
     "América del Sur"@es ,
     "Южная Америка"@ru .
 
-<01/northCentralAmericaCaribbean> a skos:Concept ;
+<WMORegion/northCentralAmericaCaribbean> a skos:Concept ;
     skos:notation "northCentralAmericaCaribbean" ;
     rdfs:label "North America, Central America and the Caribbean"@en ,
     "Amérique du Nord, Amérique Centrale et Caraïbes"@fr ,
@@ -47,7 +47,7 @@
     "América del Norte, América Central y el Caribe"@es ,
     "Северная Америка, Центральная Америка и Карибский бассейн"@ru .
 
-<01/southWestPacific> a skos:Concept ;
+<WMORegion/southWestPacific> a skos:Concept ;
     skos:notation "southWestPacific" ;
     rdfs:label "South-West Pacific"@en ,
     "Pacifique Sud-Ouest"@fr ,
@@ -58,7 +58,7 @@
     "Suroeste de Pacífico"@es ,
     "Страны юго-западной части Тихого океана"@ru .
 
-<01/europe> a skos:Concept ;
+<WMORegion/europe> a skos:Concept ;
     skos:notation "europe" ;
     rdfs:label "Europe"@en ,
     "Europe"@fr ,
@@ -69,7 +69,7 @@
     "Europa"@es ,
     "Европа"@ru .
 
-<01/antarctica> a skos:Concept ;
+<WMORegion/antarctica> a skos:Concept ;
     skos:notation "antarctica" ;
     rdfs:label "Antarctica"@en ,
     "Antarctique"@fr ,
@@ -80,7 +80,7 @@
     "Antártida"@es ,
     "Антарктика"@ru .
 
-<01/unknown> a skos:Concept ;
+<WMORegion/unknown> a skos:Concept ;
     skos:notation "unknown" ;
     rdfs:label "(unknown)"@en ,
     "(unknown)"@fr ,
@@ -91,16 +91,16 @@
     "(desconocido)"@es ,
     "(неизвестно)"@ru .
 
-<01> a skos:Collection ;
-        rdfs:label ""Region of origin of data - WMO Region" ;
-        dct:description  "Region of origin of data - WMO Region"@en ;
+<WMORegion> a skos:Collection ;
+        rdfs:label "Region of origin of data" ;
+        dct:description  "WMO Region: WMO divides Member countries into six Regional Associations responsible for coordination of meteorological, hydrological and related activities within their respective Regions. "@en ;
         skos:member 
 
-<01/africa>,
-<01/asia>,
-<01/southAmerica>,
-<01/northCentralAmericaCaribbean>,
-<01/southWestPacific>,
-<01/europe>,
-<01/antarctica>,
-<01/unknown>.
+<WMORegion/africa>,
+<WMORegion/asia>,
+<WMORegion/southAmerica>,
+<WMORegion/northCentralAmericaCaribbean>,
+<WMORegion/southWestPacific>,
+<WMORegion/europe>,
+<WMORegion/antarctica>,
+<WMORegion/unknown>.

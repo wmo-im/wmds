@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<04/nilReason> a skos:Concept ;
+<AltitudeOrDepth/nilReason> a skos:Concept ;
     skos:notation "nilReason" ;
     rdfs:label "Not applicable"@en ,
     "Sans objet"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<04/verySmall> a skos:Concept ;
+<AltitudeOrDepth/verySmall> a skos:Concept ;
     skos:notation "verySmall" ;
     rdfs:label "Very small"@en ,
     "Très faible "@fr ,
@@ -25,7 +25,7 @@
     "Entre -100 y 100 m"@es ,
     "Меджду -100 м и 100 м"@ru .
 
-<04/small> a skos:Concept ;
+<AltitudeOrDepth/small> a skos:Concept ;
     skos:notation "small" ;
     rdfs:label "Small"@en ,
     "Faible"@fr ,
@@ -36,7 +36,7 @@
     "Entre -300 y -100 m o entre 100 y 300 m"@es ,
     "Между -300 м и -100 м или между 100 и 300 м"@ru .
 
-<04/middle> a skos:Concept ;
+<AltitudeOrDepth/middle> a skos:Concept ;
     skos:notation "middle" ;
     rdfs:label "Middle"@en ,
     "Moyenne"@fr ,
@@ -47,7 +47,7 @@
     "Entre -1000 and -300 m o entre 300 y 1000 m"@es ,
     "Между -1000 и -300 м или между 300 и 1000 м"@ru .
 
-<04/large> a skos:Concept ;
+<AltitudeOrDepth/large> a skos:Concept ;
     skos:notation "large" ;
     rdfs:label "Large"@en ,
     "Élevée"@fr ,
@@ -58,7 +58,7 @@
     "Entre -3000 y -1000 m o entre 1000 y 3000 m"@es ,
     "Между -3000 и -1000 м или между 1000 и 3000 м"@ru .
 
-<04/veryLarge> a skos:Concept ;
+<AltitudeOrDepth/veryLarge> a skos:Concept ;
     skos:notation "veryLarge" ;
     rdfs:label "Very large"@en ,
     "Très élevée"@fr ,
@@ -69,14 +69,14 @@
     "Por encima de -3000 m o por debajo de 3000 m"@es ,
     "Грубже чем -3000 м или выше 3000 м"@ru .
 
-<04> a skos:Collection ;
+<AltitudeOrDepth> a skos:Collection ;
         rdfs:label "Altitude/depth" ;
         dct:description  "Altitude/depth"@en ;
         skos:member 
 
-<04/nilReason>,
-<04/verySmall>,
-<04/small>,
-<04/middle>,
-<04/large>,
-<04/veryLarge>.
+<AltitudeOrDepth/nilReason>,
+<AltitudeOrDepth/verySmall>,
+<AltitudeOrDepth/small>,
+<AltitudeOrDepth/middle>,
+<AltitudeOrDepth/large>,
+<AltitudeOrDepth/veryLarge>.

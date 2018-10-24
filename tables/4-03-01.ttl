@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<01/nilReason> a skos:Concept ;
+<LocalTopography/nilReason> a skos:Concept ;
     skos:notation "nilReason" ;
     rdfs:label "Not applicable"@en ,
     "Sans objet"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<01/hilltop> a skos:Concept ;
+<LocalTopography/hilltop> a skos:Concept ;
     skos:notation "hilltop" ;
     rdfs:label "Hilltop"@en ,
     "Sommet"@fr ,
@@ -25,7 +25,7 @@
     "Superficie más alta que todas o prácticamente todas las tierras o subsuperficies circundantes."@es ,
     "Выше, чем вся или почти вся окружающая местность или грунт"@ru .
 
-<01/ridge> a skos:Concept ;
+<LocalTopography/ridge> a skos:Concept ;
     skos:notation "ridge" ;
     rdfs:label "Ridge"@en ,
     "Crête "@fr ,
@@ -36,7 +36,7 @@
     "Superficie más alta que todas o prácticamente todas las tierras o subsuperficies circundantes, pero alargada y con un radio cuya longitud es superior a 50 m."@es ,
     "Выше, чем вся или почти вся окружающая местность или грунт, но вытянутые и протяженные по радиусу более чем на 50 м"@ru .
 
-<01/slope> a skos:Concept ;
+<LocalTopography/slope> a skos:Concept ;
     skos:notation "slope" ;
     rdfs:label "Slope"@en ,
     "Pente "@fr ,
@@ -47,7 +47,7 @@
     "Superficie con una pendiente superior al 3% que no es una cresta, una depresión ni el fondo de un valle."@es ,
     "Не гребень, не впадина или низина долины, и с наклоном более 3 %"@ru .
 
-<01/flat> a skos:Concept ;
+<LocalTopography/flat> a skos:Concept ;
     skos:notation "flat" ;
     rdfs:label "Flat"@en ,
     "Terrain plat "@fr ,
@@ -58,7 +58,7 @@
     "Superficie con una pendiente inferior al 3% que no es una cima, una cresta, el fondo de un valle ni una depresión. Úsese para planicies."@es ,
     "Склон с наклоном менее 3 % и не вершина, гребень, низина долины или впадина. Используется для обозначения равнин"@ru .
 
-<01/valleyBottom> a skos:Concept ;
+<LocalTopography/valleyBottom> a skos:Concept ;
     skos:notation "valleyBottom" ;
     rdfs:label "Valley bottom"@en ,
     "Fond de vallée"@fr ,
@@ -69,7 +69,7 @@
     "Superficie más baja que prácticamente todas las tierras o subsuperficies circundantes, pero donde el agua puede correr."@es ,
     "Ниже, чем почти вся окружающая местность или грунт, но без выхода воды"@ru .
 
-<01/depression> a skos:Concept ;
+<LocalTopography/depression> a skos:Concept ;
     skos:notation "depression" ;
     rdfs:label "Depression"@en ,
     "Dépression "@fr ,
@@ -80,15 +80,15 @@
     "Superficie más baja que las tierras o subsuperficies circundantes, sin salida por encima del nivel del suelo para el agua."@es ,
     "Ниже, чем окружающая местность или грунт, без выхода поверхностных вод"@ru .
 
-<01> a skos:Collection ;
+<LocalTopography> a skos:Collection ;
         rdfs:label "Local topography" ;
         dct:description  "Local topography"@en ;
         skos:member 
 
-<01/nilReason>,
-<01/hilltop>,
-<01/ridge>,
-<01/slope>,
-<01/flat>,
-<01/valleyBottom>,
-<01/depression>.
+<LocalTopography/nilReason>,
+<LocalTopography/hilltop>,
+<LocalTopography/ridge>,
+<LocalTopography/slope>,
+<LocalTopography/flat>,
+<LocalTopography/valleyBottom>,
+<LocalTopography/depression>.

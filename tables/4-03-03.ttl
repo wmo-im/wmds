@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<03/nilReason> a skos:Concept ;
+<TopographicContext/nilReason> a skos:Concept ;
     skos:notation "nilReason" ;
     rdfs:label "Not applicable"@en ,
     "Sans objet"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<03/plains> a skos:Concept ;
+<TopographicContext/plains> a skos:Concept ;
     skos:notation "plains" ;
     rdfs:label "Plains"@en ,
     "Plaines"@fr ,
@@ -25,7 +25,7 @@
     "Relieve muy bajo"@es ,
     "Очень низкий рельеф"@ru .
 
-<03/hollows> a skos:Concept ;
+<TopographicContext/hollows> a skos:Concept ;
     skos:notation "hollows" ;
     rdfs:label "Hollows"@en ,
     "Creux"@fr ,
@@ -36,7 +36,7 @@
     "Relieve bajo, con tendencia a adoptar una forma convergente"@es ,
     "Низкий рельеф, с тенденцией к переходу в сходящуюся форму"@ru .
 
-<03/rises> a skos:Concept ;
+<TopographicContext/rises> a skos:Concept ;
     skos:notation "rises" ;
     rdfs:label "Rises"@en ,
     "Montées"@fr ,
@@ -47,7 +47,7 @@
     "Relieve bajo, con tendencia a adoptar una forma divergente"@es ,
     "Низкий рельеф, с тенденцией к переходу в расходящуюся форму"@ru .
 
-<03/valleys> a skos:Concept ;
+<TopographicContext/valleys> a skos:Concept ;
     skos:notation "valleys" ;
     rdfs:label "Valleys"@en ,
     "Vallées"@fr ,
@@ -58,7 +58,7 @@
     "Relieve medio, con tendencia a adoptar una forma convergente"@es ,
     "Средний рельеф, с тенденцией к переходу в сходящуюся форму"@ru .
 
-<03/hills> a skos:Concept ;
+<TopographicContext/hills> a skos:Concept ;
     skos:notation "hills" ;
     rdfs:label "Hills"@en ,
     "Collines"@fr ,
@@ -69,7 +69,7 @@
     "Relieve medio, con tendencia a adoptar una forma divergente"@es ,
     "Средний рельеф, с тенденцией к переходу в расходящуюся форму"@ru .
 
-<03/mountains> a skos:Concept ;
+<TopographicContext/mountains> a skos:Concept ;
     skos:notation "mountains" ;
     rdfs:label "Mountains"@en ,
     "Montagnes"@fr ,
@@ -80,15 +80,15 @@
     "Relieve alto"@es ,
     "Высокий рельеф"@ru .
 
-<03> a skos:Collection ;
+<TopographicContext> a skos:Collection ;
         rdfs:label "Topographic context" ;
         dct:description  "Topographic context"@en ;
         skos:member 
 
-<03/nilReason>,
-<03/plains>,
-<03/hollows>,
-<03/rises>,
-<03/valleys>,
-<03/hills>,
-<03/mountains>.
+<TopographicContext/nilReason>,
+<TopographicContext/plains>,
+<TopographicContext/hollows>,
+<TopographicContext/rises>,
+<TopographicContext/valleys>,
+<TopographicContext/hills>,
+<TopographicContext/mountains>.

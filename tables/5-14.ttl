@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<14/primary> a skos:Concept ;
+<ObservationOperatingStatus/primary> a skos:Concept ;
     skos:notation "primary" ;
     rdfs:label "Primary"@en ,
     "Primaire"@fr ,
@@ -14,7 +14,7 @@
     "Observación principal u oficial de la variable observada"@es ,
     "Первичное или официальное наблюдение за наблюдаемой переменной"@ru .
 
-<14/additional> a skos:Concept ;
+<ObservationOperatingStatus/additional> a skos:Concept ;
     skos:notation "additional" ;
     rdfs:label "Additional"@en ,
     "Additionnelle"@fr ,
@@ -25,10 +25,10 @@
     "Observación adicional o complementaria de la variable observada"@es ,
     "Дополнительное или вспомогательное наблюдение за наблюдаемой переменной"@ru .
 
-<14> a skos:Collection ;
+<ObservationOperatingStatus> a skos:Collection ;
         rdfs:label "Status of observation" ;
         dct:description  "Official status of observation"@en ;
         skos:member 
 
-<14/primary>,
-<14/additional>.
+<ObservationOperatingStatus/primary>,
+<ObservationOperatingStatus/additional>.

@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/AFG> a skos:Concept ;
+<TerritoryName/AFG> a skos:Concept ;
     skos:notation "AFG" ;
     rdfs:label "Afghanistan"@en ,
     "Afghanistan"@fr ,
@@ -14,7 +14,7 @@
     "Afganistán"@es ,
     "Афганистан"@ru .
 
-<02/ALB> a skos:Concept ;
+<TerritoryName/ALB> a skos:Concept ;
     skos:notation "ALB" ;
     rdfs:label "Albania"@en ,
     "Albanie"@fr ,
@@ -25,7 +25,7 @@
     "Albania"@es ,
     "Албания"@ru .
 
-<02/DZA> a skos:Concept ;
+<TerritoryName/DZA> a skos:Concept ;
     skos:notation "DZA" ;
     rdfs:label "Algeria"@en ,
     "Algérie"@fr ,
@@ -36,7 +36,7 @@
     "Argelia"@es ,
     "Алжир"@ru .
 
-<02/AGO> a skos:Concept ;
+<TerritoryName/AGO> a skos:Concept ;
     skos:notation "AGO" ;
     rdfs:label "Angola"@en ,
     "Angola"@fr ,
@@ -47,7 +47,7 @@
     "Angola"@es ,
     "Ангола"@ru .
 
-<02/AIA> a skos:Concept ;
+<TerritoryName/AIA> a skos:Concept ;
     skos:notation "AIA" ;
     rdfs:label "Anguilla"@en ,
     "Anguilla"@fr ,
@@ -58,7 +58,7 @@
     "Anguila"@es ,
     "Ангилья"@ru .
 
-<02/ATA> a skos:Concept ;
+<TerritoryName/ATA> a skos:Concept ;
     skos:notation "ATA" ;
     rdfs:label "Antarctica"@en ,
     "Antarctique"@fr ,
@@ -69,7 +69,7 @@
     "Antártida"@es ,
     "Антарктика"@ru .
 
-<02/ATG> a skos:Concept ;
+<TerritoryName/ATG> a skos:Concept ;
     skos:notation "ATG" ;
     rdfs:label "Antigua and Barbuda"@en ,
     "Antigua-et-Barbuda"@fr ,
@@ -80,7 +80,7 @@
     "Antigua y Barbuda"@es ,
     "Антигуа и Барбуда"@ru .
 
-<02/ARG> a skos:Concept ;
+<TerritoryName/ARG> a skos:Concept ;
     skos:notation "ARG" ;
     rdfs:label "Argentina"@en ,
     "Argentine"@fr ,
@@ -91,7 +91,7 @@
     "Argentina"@es ,
     "Аргентина"@ru .
 
-<02/ARM> a skos:Concept ;
+<TerritoryName/ARM> a skos:Concept ;
     skos:notation "ARM" ;
     rdfs:label "Armenia"@en ,
     "Arménie"@fr ,
@@ -102,7 +102,7 @@
     "Armenia"@es ,
     "Армения"@ru .
 
-<02/AUS> a skos:Concept ;
+<TerritoryName/AUS> a skos:Concept ;
     skos:notation "AUS" ;
     rdfs:label "Australia"@en ,
     "Australie"@fr ,
@@ -113,7 +113,7 @@
     "Australia"@es ,
     "Австралия"@ru .
 
-<02/AUT> a skos:Concept ;
+<TerritoryName/AUT> a skos:Concept ;
     skos:notation "AUT" ;
     rdfs:label "Austria"@en ,
     "Autriche"@fr ,
@@ -124,7 +124,7 @@
     "Austria"@es ,
     "Австрия"@ru .
 
-<02/AZE> a skos:Concept ;
+<TerritoryName/AZE> a skos:Concept ;
     skos:notation "AZE" ;
     rdfs:label "Azerbaijan"@en ,
     "Azerbaïdjan"@fr ,
@@ -135,7 +135,7 @@
     "Azerbaiyán"@es ,
     "Азербайджан"@ru .
 
-<02/BHS> a skos:Concept ;
+<TerritoryName/BHS> a skos:Concept ;
     skos:notation "BHS" ;
     rdfs:label "Bahamas"@en ,
     "Bahamas"@fr ,
@@ -146,7 +146,7 @@
     "Bahamas"@es ,
     "Багамские Острова"@ru .
 
-<02/BHR> a skos:Concept ;
+<TerritoryName/BHR> a skos:Concept ;
     skos:notation "BHR" ;
     rdfs:label "Bahrain"@en ,
     "Bahreïn"@fr ,
@@ -157,7 +157,7 @@
     "Bahrein"@es ,
     "Бахрейн"@ru .
 
-<02/BGD> a skos:Concept ;
+<TerritoryName/BGD> a skos:Concept ;
     skos:notation "BGD" ;
     rdfs:label "Bangladesh"@en ,
     "Bangladesh"@fr ,
@@ -168,7 +168,7 @@
     "Bangladesh"@es ,
     "Бангладеш"@ru .
 
-<02/BRB> a skos:Concept ;
+<TerritoryName/BRB> a skos:Concept ;
     skos:notation "BRB" ;
     rdfs:label "Barbados"@en ,
     "Barbade"@fr ,
@@ -179,7 +179,7 @@
     "Barbados"@es ,
     "Барбадос"@ru .
 
-<02/BLR> a skos:Concept ;
+<TerritoryName/BLR> a skos:Concept ;
     skos:notation "BLR" ;
     rdfs:label "Belarus"@en ,
     "Bélarus"@fr ,
@@ -190,7 +190,7 @@
     "Belarús"@es ,
     "Беларусь"@ru .
 
-<02/BEL> a skos:Concept ;
+<TerritoryName/BEL> a skos:Concept ;
     skos:notation "BEL" ;
     rdfs:label "Belgium"@en ,
     "Belgique"@fr ,
@@ -201,7 +201,7 @@
     "Bélgica"@es ,
     "Бельгия"@ru .
 
-<02/BLZ> a skos:Concept ;
+<TerritoryName/BLZ> a skos:Concept ;
     skos:notation "BLZ" ;
     rdfs:label "Belize"@en ,
     "Belize"@fr ,
@@ -212,7 +212,7 @@
     "Belice"@es ,
     "Белиз"@ru .
 
-<02/BEN> a skos:Concept ;
+<TerritoryName/BEN> a skos:Concept ;
     skos:notation "BEN" ;
     rdfs:label "Benin"@en ,
     "Bénin"@fr ,
@@ -223,7 +223,7 @@
     "Benin"@es ,
     "Бенин"@ru .
 
-<02/BMU> a skos:Concept ;
+<TerritoryName/BMU> a skos:Concept ;
     skos:notation "BMU" ;
     rdfs:label "Bermuda"@en ,
     "Bermudes"@fr ,
@@ -234,7 +234,7 @@
     "Bermuda"@es ,
     "Бермуды"@ru .
 
-<02/BTN> a skos:Concept ;
+<TerritoryName/BTN> a skos:Concept ;
     skos:notation "BTN" ;
     rdfs:label "Bhutan"@en ,
     "Bhoutan"@fr ,
@@ -245,7 +245,7 @@
     "Bhután"@es ,
     "Бутан"@ru .
 
-<02/BOL> a skos:Concept ;
+<TerritoryName/BOL> a skos:Concept ;
     skos:notation "BOL" ;
     rdfs:label "Bolivia, Plurinational State of"@en ,
     "Bolivie, État plurinational de"@fr ,
@@ -256,7 +256,7 @@
     "Bolivia, Estado Plurinacional de"@es ,
     "Боливия, Многонациональное Государство"@ru .
 
-<02/BIH> a skos:Concept ;
+<TerritoryName/BIH> a skos:Concept ;
     skos:notation "BIH" ;
     rdfs:label "Bosnia and Herzegovina"@en ,
     "Bosnie-Herzégovine"@fr ,
@@ -267,7 +267,7 @@
     "Bosnia y Herzegovina"@es ,
     "Босния и Герцеговина"@ru .
 
-<02/BWA> a skos:Concept ;
+<TerritoryName/BWA> a skos:Concept ;
     skos:notation "BWA" ;
     rdfs:label "Botswana"@en ,
     "Botswana"@fr ,
@@ -278,7 +278,7 @@
     "Botswana"@es ,
     "Ботсвана"@ru .
 
-<02/BRA> a skos:Concept ;
+<TerritoryName/BRA> a skos:Concept ;
     skos:notation "BRA" ;
     rdfs:label "Brazil"@en ,
     "Brésil"@fr ,
@@ -289,7 +289,7 @@
     "Brasil"@es ,
     "Бразилия"@ru .
 
-<02/BCT> a skos:Concept ;
+<TerritoryName/BCT> a skos:Concept ;
     skos:notation "BCT" ;
     rdfs:label "British Caribbean Territories"@en ,
     "Territoires britanniques des Caraïbes"@fr ,
@@ -300,7 +300,7 @@
     "Territorios Británicos del Caribe"@es ,
     "Британские карибские территории"@ru .
 
-<02/VGB> a skos:Concept ;
+<TerritoryName/VGB> a skos:Concept ;
     skos:notation "VGB" ;
     rdfs:label "British Virgin Islands"@en ,
     "Îles Vierges britanniques"@fr ,
@@ -311,7 +311,7 @@
     "Islas Vírgenes Británicas"@es ,
     "Британские Виргинские Острова"@ru .
 
-<02/BRN> a skos:Concept ;
+<TerritoryName/BRN> a skos:Concept ;
     skos:notation "BRN" ;
     rdfs:label "Brunei Darussalam"@en ,
     "Brunéi Darussalam"@fr ,
@@ -322,7 +322,7 @@
     "Brunei Darussalam"@es ,
     "Бруней-Даруссалам"@ru .
 
-<02/BGR> a skos:Concept ;
+<TerritoryName/BGR> a skos:Concept ;
     skos:notation "BGR" ;
     rdfs:label "Bulgaria"@en ,
     "Bulgarie"@fr ,
@@ -333,7 +333,7 @@
     "Bulgaria"@es ,
     "Болгария"@ru .
 
-<02/BFA> a skos:Concept ;
+<TerritoryName/BFA> a skos:Concept ;
     skos:notation "BFA" ;
     rdfs:label "Burkina Faso"@en ,
     "Burkina Faso"@fr ,
@@ -344,7 +344,7 @@
     "Burkina Faso"@es ,
     "Буркина-Фасо"@ru .
 
-<02/BDI> a skos:Concept ;
+<TerritoryName/BDI> a skos:Concept ;
     skos:notation "BDI" ;
     rdfs:label "Burundi"@en ,
     "Burundi"@fr ,
@@ -355,7 +355,7 @@
     "Burundi"@es ,
     "Бурунди"@ru .
 
-<02/CPV> a skos:Concept ;
+<TerritoryName/CPV> a skos:Concept ;
     skos:notation "CPV" ;
     rdfs:label "Cabo Verde"@en ,
     "Cabo Verde"@fr ,
@@ -366,7 +366,7 @@
     "Cabo Verde"@es ,
     "Кабо-Верди"@ru .
 
-<02/KHM> a skos:Concept ;
+<TerritoryName/KHM> a skos:Concept ;
     skos:notation "KHM" ;
     rdfs:label "Cambodia"@en ,
     "Cambodge"@fr ,
@@ -377,7 +377,7 @@
     "Camboya"@es ,
     "Камбоджа"@ru .
 
-<02/CMR> a skos:Concept ;
+<TerritoryName/CMR> a skos:Concept ;
     skos:notation "CMR" ;
     rdfs:label "Cameroon"@en ,
     "Cameroun"@fr ,
@@ -388,7 +388,7 @@
     "Camerún"@es ,
     "Камерун"@ru .
 
-<02/CAN> a skos:Concept ;
+<TerritoryName/CAN> a skos:Concept ;
     skos:notation "CAN" ;
     rdfs:label "Canada"@en ,
     "Canada"@fr ,
@@ -399,7 +399,7 @@
     "Canadá"@es ,
     "Канада"@ru .
 
-<02/CYM> a skos:Concept ;
+<TerritoryName/CYM> a skos:Concept ;
     skos:notation "CYM" ;
     rdfs:label "Cayman Islands"@en ,
     "Îles Caïmanes"@fr ,
@@ -410,7 +410,7 @@
     "Islas Caimán"@es ,
     "Каймановы Острова "@ru .
 
-<02/CAF> a skos:Concept ;
+<TerritoryName/CAF> a skos:Concept ;
     skos:notation "CAF" ;
     rdfs:label "Central African Republic"@en ,
     "République centrafricaine"@fr ,
@@ -421,7 +421,7 @@
     "República Centroafricana"@es ,
     "Центральноафриканская Республика"@ru .
 
-<02/TCD> a skos:Concept ;
+<TerritoryName/TCD> a skos:Concept ;
     skos:notation "TCD" ;
     rdfs:label "Chad"@en ,
     "Tchad"@fr ,
@@ -432,7 +432,7 @@
     "Chad"@es ,
     "Чад"@ru .
 
-<02/CHL> a skos:Concept ;
+<TerritoryName/CHL> a skos:Concept ;
     skos:notation "CHL" ;
     rdfs:label "Chile"@en ,
     "Chili"@fr ,
@@ -443,7 +443,7 @@
     "Chile"@es ,
     "Чили"@ru .
 
-<02/CHN> a skos:Concept ;
+<TerritoryName/CHN> a skos:Concept ;
     skos:notation "CHN" ;
     rdfs:label "China"@en ,
     "Chine"@fr ,
@@ -454,7 +454,7 @@
     "China"@es ,
     "Китай"@ru .
 
-<02/CXR> a skos:Concept ;
+<TerritoryName/CXR> a skos:Concept ;
     skos:notation "CXR" ;
     rdfs:label "Christmas Island"@en ,
     "Île Christmas"@fr ,
@@ -465,7 +465,7 @@
     "Isla de Navidad"@es ,
     "Остров Рождества"@ru .
 
-<02/CCK> a skos:Concept ;
+<TerritoryName/CCK> a skos:Concept ;
     skos:notation "CCK" ;
     rdfs:label "Cocos (Keeling) Islands"@en ,
     "Îles des Cocos (Keeling)"@fr ,
@@ -476,7 +476,7 @@
     "Islas Cocos (Keeling)"@es ,
     "Кокосовые острова(о-ва Килинг)"@ru .
 
-<02/COL> a skos:Concept ;
+<TerritoryName/COL> a skos:Concept ;
     skos:notation "COL" ;
     rdfs:label "Colombia"@en ,
     "Colombie"@fr ,
@@ -487,7 +487,7 @@
     "Colombia"@es ,
     "Колумбия"@ru .
 
-<02/COM> a skos:Concept ;
+<TerritoryName/COM> a skos:Concept ;
     skos:notation "COM" ;
     rdfs:label "Comoros"@en ,
     "Comores"@fr ,
@@ -498,7 +498,7 @@
     "Comoras"@es ,
     "Коморские Острова"@ru .
 
-<02/COG> a skos:Concept ;
+<TerritoryName/COG> a skos:Concept ;
     skos:notation "COG" ;
     rdfs:label "Congo"@en ,
     "Congo"@fr ,
@@ -509,7 +509,7 @@
     "Congo"@es ,
     "Конго"@ru .
 
-<02/COD> a skos:Concept ;
+<TerritoryName/COD> a skos:Concept ;
     skos:notation "COD" ;
     rdfs:label "Congo, Democratic Republic of the"@en ,
     "République démocratique du Congo"@fr ,
@@ -520,7 +520,7 @@
     "Congo, República Democrática del"@es ,
     "Конго (Демократическая Республика)"@ru .
 
-<02/COK> a skos:Concept ;
+<TerritoryName/COK> a skos:Concept ;
     skos:notation "COK" ;
     rdfs:label "Cook Islands"@en ,
     "Îles Cook"@fr ,
@@ -531,7 +531,7 @@
     "Islas Cook"@es ,
     "Острова Кука"@ru .
 
-<02/CRI> a skos:Concept ;
+<TerritoryName/CRI> a skos:Concept ;
     skos:notation "CRI" ;
     rdfs:label "Costa Rica"@en ,
     "Costa Rica"@fr ,
@@ -542,7 +542,7 @@
     "Costa Rica"@es ,
     "Коста-Рика"@ru .
 
-<02/CIV> a skos:Concept ;
+<TerritoryName/CIV> a skos:Concept ;
     skos:notation "CIV" ;
     rdfs:label "Cote d'Ivoire"@en ,
     "Cote d’Ivoire"@fr ,
@@ -553,7 +553,7 @@
     "Cote d'Ivoire"@es ,
     "Кот-д'Ивуар"@ru .
 
-<02/HRV> a skos:Concept ;
+<TerritoryName/HRV> a skos:Concept ;
     skos:notation "HRV" ;
     rdfs:label "Croatia"@en ,
     "Croatie"@fr ,
@@ -564,7 +564,7 @@
     "Croacia"@es ,
     "Хорватия"@ru .
 
-<02/CUB> a skos:Concept ;
+<TerritoryName/CUB> a skos:Concept ;
     skos:notation "CUB" ;
     rdfs:label "Cuba"@en ,
     "Cuba"@fr ,
@@ -575,7 +575,7 @@
     "Cuba"@es ,
     "Куба"@ru .
 
-<02/CUW> a skos:Concept ;
+<TerritoryName/CUW> a skos:Concept ;
     skos:notation "CUW" ;
     rdfs:label "Curacao and Sint Maarten"@en ,
     "Curacao et Saint-Martin"@fr ,
@@ -586,7 +586,7 @@
     "Curacao y San Martín"@es ,
     "Курасао и Сан-Мартин"@ru .
 
-<02/CYP> a skos:Concept ;
+<TerritoryName/CYP> a skos:Concept ;
     skos:notation "CYP" ;
     rdfs:label "Cyprus"@en ,
     "Chypre"@fr ,
@@ -597,7 +597,7 @@
     "Chipre"@es ,
     "Кипр"@ru .
 
-<02/CZE> a skos:Concept ;
+<TerritoryName/CZE> a skos:Concept ;
     skos:notation "CZE" ;
     rdfs:label "Czechia"@en ,
     "République tchèque"@fr ,
@@ -608,7 +608,7 @@
     "República Checa"@es ,
     "Чешская Республика"@ru .
 
-<02/DNK> a skos:Concept ;
+<TerritoryName/DNK> a skos:Concept ;
     skos:notation "DNK" ;
     rdfs:label "Denmark"@en ,
     "Danemark"@fr ,
@@ -619,7 +619,7 @@
     "Dinamarca"@es ,
     "Дания"@ru .
 
-<02/DJI> a skos:Concept ;
+<TerritoryName/DJI> a skos:Concept ;
     skos:notation "DJI" ;
     rdfs:label "Djibouti"@en ,
     "Djibouti"@fr ,
@@ -630,7 +630,7 @@
     "Djibouti"@es ,
     "Джибути"@ru .
 
-<02/DMA> a skos:Concept ;
+<TerritoryName/DMA> a skos:Concept ;
     skos:notation "DMA" ;
     rdfs:label "Dominica"@en ,
     "Dominique"@fr ,
@@ -641,7 +641,7 @@
     "Dominica"@es ,
     "Доминика"@ru .
 
-<02/DOM> a skos:Concept ;
+<TerritoryName/DOM> a skos:Concept ;
     skos:notation "DOM" ;
     rdfs:label "Dominican Republic"@en ,
     "République dominicaine"@fr ,
@@ -652,7 +652,7 @@
     "República Dominicana"@es ,
     "Доминиканская Республика"@ru .
 
-<02/ECU> a skos:Concept ;
+<TerritoryName/ECU> a skos:Concept ;
     skos:notation "ECU" ;
     rdfs:label "Ecuador"@en ,
     "Équateur"@fr ,
@@ -663,7 +663,7 @@
     "Ecuador"@es ,
     "Эквадор"@ru .
 
-<02/EGY> a skos:Concept ;
+<TerritoryName/EGY> a skos:Concept ;
     skos:notation "EGY" ;
     rdfs:label "Egypt"@en ,
     "Égypte"@fr ,
@@ -674,7 +674,7 @@
     "Egipto"@es ,
     "Египет"@ru .
 
-<02/SLV> a skos:Concept ;
+<TerritoryName/SLV> a skos:Concept ;
     skos:notation "SLV" ;
     rdfs:label "El Salvador"@en ,
     "El Salvador"@fr ,
@@ -685,7 +685,7 @@
     "El Salvador"@es ,
     "Сальвадор"@ru .
 
-<02/GNQ> a skos:Concept ;
+<TerritoryName/GNQ> a skos:Concept ;
     skos:notation "GNQ" ;
     rdfs:label "Equatorial Guinea"@en ,
     "Guinée équatoriale"@fr ,
@@ -696,7 +696,7 @@
     "Guinea Ecuatorial"@es ,
     "Экваториальная Гвинея"@ru .
 
-<02/ERI> a skos:Concept ;
+<TerritoryName/ERI> a skos:Concept ;
     skos:notation "ERI" ;
     rdfs:label "Eritrea"@en ,
     "Érythrée"@fr ,
@@ -707,7 +707,7 @@
     "Eritrea"@es ,
     "Эритрея"@ru .
 
-<02/EST> a skos:Concept ;
+<TerritoryName/EST> a skos:Concept ;
     skos:notation "EST" ;
     rdfs:label "Estonia"@en ,
     "Estonie"@fr ,
@@ -718,7 +718,7 @@
     "Estonia"@es ,
     "Эстония"@ru .
 
-<02/ETH> a skos:Concept ;
+<TerritoryName/ETH> a skos:Concept ;
     skos:notation "ETH" ;
     rdfs:label "Ethiopia"@en ,
     "Éthiopie"@fr ,
@@ -729,7 +729,7 @@
     "Etiopía"@es ,
     "Эфиопия"@ru .
 
-<02/FLK> a skos:Concept ;
+<TerritoryName/FLK> a skos:Concept ;
     skos:notation "FLK" ;
     rdfs:label "Falkland Islands (Malvinas)"@en ,
     "Îles Falkland (Malvinas)"@fr ,
@@ -740,7 +740,7 @@
     "Islas Malvinas (Falkland)"@es ,
     "Фолклендские (Мальвинские Острова) "@ru .
 
-<02/FJI> a skos:Concept ;
+<TerritoryName/FJI> a skos:Concept ;
     skos:notation "FJI" ;
     rdfs:label "Fiji"@en ,
     "Fidji"@fr ,
@@ -751,7 +751,7 @@
     "Fiji"@es ,
     "Фиджи"@ru .
 
-<02/FIN> a skos:Concept ;
+<TerritoryName/FIN> a skos:Concept ;
     skos:notation "FIN" ;
     rdfs:label "Finland"@en ,
     "Finlande"@fr ,
@@ -762,7 +762,7 @@
     "Finlandia"@es ,
     "Финляндия"@ru .
 
-<02/FRA> a skos:Concept ;
+<TerritoryName/FRA> a skos:Concept ;
     skos:notation "FRA" ;
     rdfs:label "France"@en ,
     "France"@fr ,
@@ -773,7 +773,7 @@
     "Francia"@es ,
     "Франция"@ru .
 
-<02/PYF> a skos:Concept ;
+<TerritoryName/PYF> a skos:Concept ;
     skos:notation "PYF" ;
     rdfs:label "French Polynesia"@en ,
     "Polynésie française"@fr ,
@@ -784,7 +784,7 @@
     "Polinesia Francesa"@es ,
     "Французская Полинезия"@ru .
 
-<02/GAB> a skos:Concept ;
+<TerritoryName/GAB> a skos:Concept ;
     skos:notation "GAB" ;
     rdfs:label "Gabon"@en ,
     "Gabon"@fr ,
@@ -795,7 +795,7 @@
     "Gabón"@es ,
     "Габон"@ru .
 
-<02/GMB> a skos:Concept ;
+<TerritoryName/GMB> a skos:Concept ;
     skos:notation "GMB" ;
     rdfs:label "Gambia"@en ,
     "Gambie"@fr ,
@@ -806,7 +806,7 @@
     "Gambia"@es ,
     "Гамбия"@ru .
 
-<02/GEO> a skos:Concept ;
+<TerritoryName/GEO> a skos:Concept ;
     skos:notation "GEO" ;
     rdfs:label "Georgia"@en ,
     "Géorgie"@fr ,
@@ -817,7 +817,7 @@
     "Georgia"@es ,
     "Грузия"@ru .
 
-<02/DEU> a skos:Concept ;
+<TerritoryName/DEU> a skos:Concept ;
     skos:notation "DEU" ;
     rdfs:label "Germany"@en ,
     "Allemagne"@fr ,
@@ -828,7 +828,7 @@
     "Alemania"@es ,
     "Германия"@ru .
 
-<02/GHA> a skos:Concept ;
+<TerritoryName/GHA> a skos:Concept ;
     skos:notation "GHA" ;
     rdfs:label "Ghana"@en ,
     "Ghana"@fr ,
@@ -839,7 +839,7 @@
     "Ghana"@es ,
     "Гана"@ru .
 
-<02/GIB> a skos:Concept ;
+<TerritoryName/GIB> a skos:Concept ;
     skos:notation "GIB" ;
     rdfs:label "Gibraltar"@en ,
     "Gibraltar"@fr ,
@@ -850,7 +850,7 @@
     "Gibraltar"@es ,
     "Гибралтар "@ru .
 
-<02/GRC> a skos:Concept ;
+<TerritoryName/GRC> a skos:Concept ;
     skos:notation "GRC" ;
     rdfs:label "Greece"@en ,
     "Grèce"@fr ,
@@ -861,7 +861,7 @@
     "Grecia"@es ,
     "Греция"@ru .
 
-<02/GRL> a skos:Concept ;
+<TerritoryName/GRL> a skos:Concept ;
     skos:notation "GRL" ;
     rdfs:label "Greenland"@en ,
     "Groenland"@fr ,
@@ -872,7 +872,7 @@
     "Groenlandia"@es ,
     "Гренландия"@ru .
 
-<02/GRD> a skos:Concept ;
+<TerritoryName/GRD> a skos:Concept ;
     skos:notation "GRD" ;
     rdfs:label "Grenada"@en ,
     "Grenade"@fr ,
@@ -883,7 +883,7 @@
     "Granada"@es ,
     "Гренада"@ru .
 
-<02/GTM> a skos:Concept ;
+<TerritoryName/GTM> a skos:Concept ;
     skos:notation "GTM" ;
     rdfs:label "Guatemala"@en ,
     "Guatemala"@fr ,
@@ -894,7 +894,7 @@
     "Guatemala"@es ,
     "Гватемала"@ru .
 
-<02/GIN> a skos:Concept ;
+<TerritoryName/GIN> a skos:Concept ;
     skos:notation "GIN" ;
     rdfs:label "Guinea"@en ,
     "Guinée"@fr ,
@@ -905,7 +905,7 @@
     "Guinea"@es ,
     "Гвинея"@ru .
 
-<02/GNB> a skos:Concept ;
+<TerritoryName/GNB> a skos:Concept ;
     skos:notation "GNB" ;
     rdfs:label "Guinea-Bissau"@en ,
     "Guinée-Bissau"@fr ,
@@ -916,7 +916,7 @@
     "Guinea-Bissau"@es ,
     "Гвинея-Бисау"@ru .
 
-<02/GUY> a skos:Concept ;
+<TerritoryName/GUY> a skos:Concept ;
     skos:notation "GUY" ;
     rdfs:label "Guyana"@en ,
     "Guyana"@fr ,
@@ -927,7 +927,7 @@
     "Guyana"@es ,
     "Гайана"@ru .
 
-<02/HTI> a skos:Concept ;
+<TerritoryName/HTI> a skos:Concept ;
     skos:notation "HTI" ;
     rdfs:label "Haiti"@en ,
     "Haïti"@fr ,
@@ -938,7 +938,7 @@
     "Haití"@es ,
     "Гаити"@ru .
 
-<02/HND> a skos:Concept ;
+<TerritoryName/HND> a skos:Concept ;
     skos:notation "HND" ;
     rdfs:label "Honduras"@en ,
     "Honduras"@fr ,
@@ -949,7 +949,7 @@
     "Honduras"@es ,
     "Гондурас"@ru .
 
-<02/HKG> a skos:Concept ;
+<TerritoryName/HKG> a skos:Concept ;
     skos:notation "HKG" ;
     rdfs:label "Hong Kong, China"@en ,
     "Hong Kong, Chine"@fr ,
@@ -960,7 +960,7 @@
     "Hong Kong, China"@es ,
     "Гонконг, Китай"@ru .
 
-<02/HUN> a skos:Concept ;
+<TerritoryName/HUN> a skos:Concept ;
     skos:notation "HUN" ;
     rdfs:label "Hungary"@en ,
     "Hongrie"@fr ,
@@ -971,7 +971,7 @@
     "Hungría"@es ,
     "Венгрия"@ru .
 
-<02/ISL> a skos:Concept ;
+<TerritoryName/ISL> a skos:Concept ;
     skos:notation "ISL" ;
     rdfs:label "Iceland"@en ,
     "Islande"@fr ,
@@ -982,7 +982,7 @@
     "Islandia"@es ,
     "Исландия"@ru .
 
-<02/IND> a skos:Concept ;
+<TerritoryName/IND> a skos:Concept ;
     skos:notation "IND" ;
     rdfs:label "India"@en ,
     "Inde"@fr ,
@@ -993,7 +993,7 @@
     "India"@es ,
     "Индия"@ru .
 
-<02/IDN> a skos:Concept ;
+<TerritoryName/IDN> a skos:Concept ;
     skos:notation "IDN" ;
     rdfs:label "Indonesia"@en ,
     "Indonésie"@fr ,
@@ -1004,7 +1004,7 @@
     "Indonesia"@es ,
     "Индонезия"@ru .
 
-<02/IRN> a skos:Concept ;
+<TerritoryName/IRN> a skos:Concept ;
     skos:notation "IRN" ;
     rdfs:label "Iran, Islamic Republic of"@en ,
     "Iran, République islamique d’"@fr ,
@@ -1015,7 +1015,7 @@
     "Iran, República Islámica del"@es ,
     "Иран (Исламская Республика)"@ru .
 
-<02/IRQ> a skos:Concept ;
+<TerritoryName/IRQ> a skos:Concept ;
     skos:notation "IRQ" ;
     rdfs:label "Iraq"@en ,
     "Iraq"@fr ,
@@ -1026,7 +1026,7 @@
     "Iraq"@es ,
     "Ирак"@ru .
 
-<02/IRL> a skos:Concept ;
+<TerritoryName/IRL> a skos:Concept ;
     skos:notation "IRL" ;
     rdfs:label "Ireland"@en ,
     "Irlande"@fr ,
@@ -1037,7 +1037,7 @@
     "Irlanda"@es ,
     "Ирландия"@ru .
 
-<02/ISR> a skos:Concept ;
+<TerritoryName/ISR> a skos:Concept ;
     skos:notation "ISR" ;
     rdfs:label "Israel"@en ,
     "Israël"@fr ,
@@ -1048,7 +1048,7 @@
     "Israel"@es ,
     "Израиль"@ru .
 
-<02/ITA> a skos:Concept ;
+<TerritoryName/ITA> a skos:Concept ;
     skos:notation "ITA" ;
     rdfs:label "Italy"@en ,
     "Italie"@fr ,
@@ -1059,7 +1059,7 @@
     "Italia"@es ,
     "Италия"@ru .
 
-<02/JAM> a skos:Concept ;
+<TerritoryName/JAM> a skos:Concept ;
     skos:notation "JAM" ;
     rdfs:label "Jamaica"@en ,
     "Jamaïque"@fr ,
@@ -1070,7 +1070,7 @@
     "Jamaica"@es ,
     "Ямайка"@ru .
 
-<02/JPN> a skos:Concept ;
+<TerritoryName/JPN> a skos:Concept ;
     skos:notation "JPN" ;
     rdfs:label "Japan"@en ,
     "Japon"@fr ,
@@ -1081,7 +1081,7 @@
     "Japón"@es ,
     "Япония"@ru .
 
-<02/JOR> a skos:Concept ;
+<TerritoryName/JOR> a skos:Concept ;
     skos:notation "JOR" ;
     rdfs:label "Jordan"@en ,
     "Jordanie"@fr ,
@@ -1092,7 +1092,7 @@
     "Jordania"@es ,
     "Иордания"@ru .
 
-<02/KAZ> a skos:Concept ;
+<TerritoryName/KAZ> a skos:Concept ;
     skos:notation "KAZ" ;
     rdfs:label "Kazakhstan"@en ,
     "Kazakhstan"@fr ,
@@ -1103,7 +1103,7 @@
     "Kazakhstan"@es ,
     "Казахстан"@ru .
 
-<02/KEN> a skos:Concept ;
+<TerritoryName/KEN> a skos:Concept ;
     skos:notation "KEN" ;
     rdfs:label "Kenya"@en ,
     "Kenya"@fr ,
@@ -1114,7 +1114,7 @@
     "Kenya"@es ,
     "Кения"@ru .
 
-<02/KIR> a skos:Concept ;
+<TerritoryName/KIR> a skos:Concept ;
     skos:notation "KIR" ;
     rdfs:label "Kiribati"@en ,
     "Kiribati"@fr ,
@@ -1125,7 +1125,7 @@
     "Kiribati"@es ,
     "Кирибати"@ru .
 
-<02/PRK> a skos:Concept ;
+<TerritoryName/PRK> a skos:Concept ;
     skos:notation "PRK" ;
     rdfs:label "Korea, Democratic People's Republic of"@en ,
     "Corée, République démocratique populaire de"@fr ,
@@ -1136,7 +1136,7 @@
     "Corea, República Popular Democrática de"@es ,
     "Корея (Народно-Демократическая Республика)"@ru .
 
-<02/KOR> a skos:Concept ;
+<TerritoryName/KOR> a skos:Concept ;
     skos:notation "KOR" ;
     rdfs:label "Korea, Republic of"@en ,
     "Corée, République de"@fr ,
@@ -1147,7 +1147,7 @@
     "Corea, República de"@es ,
     "Республика Корея"@ru .
 
-<02/KWT> a skos:Concept ;
+<TerritoryName/KWT> a skos:Concept ;
     skos:notation "KWT" ;
     rdfs:label "Kuwait"@en ,
     "Koweït"@fr ,
@@ -1158,7 +1158,7 @@
     "Kuwait"@es ,
     "Кувейт"@ru .
 
-<02/KGZ> a skos:Concept ;
+<TerritoryName/KGZ> a skos:Concept ;
     skos:notation "KGZ" ;
     rdfs:label "Kyrgyzstan"@en ,
     "Kirghizistan"@fr ,
@@ -1169,7 +1169,7 @@
     "Kirguistán"@es ,
     "Кыргызстан"@ru .
 
-<02/LAO> a skos:Concept ;
+<TerritoryName/LAO> a skos:Concept ;
     skos:notation "LAO" ;
     rdfs:label "Lao People's Democratic Republic"@en ,
     "République démocratique populaire lao"@fr ,
@@ -1180,7 +1180,7 @@
     "República Democrática Popular Lao (la)"@es ,
     "Лаосская Народно-Демократическая Республика"@ru .
 
-<02/LVA> a skos:Concept ;
+<TerritoryName/LVA> a skos:Concept ;
     skos:notation "LVA" ;
     rdfs:label "Latvia"@en ,
     "Lettonie"@fr ,
@@ -1191,7 +1191,7 @@
     "Letonia"@es ,
     "Латвия"@ru .
 
-<02/LBN> a skos:Concept ;
+<TerritoryName/LBN> a skos:Concept ;
     skos:notation "LBN" ;
     rdfs:label "Lebanon"@en ,
     "Liban"@fr ,
@@ -1202,7 +1202,7 @@
     "Líbano"@es ,
     "Ливан"@ru .
 
-<02/LSO> a skos:Concept ;
+<TerritoryName/LSO> a skos:Concept ;
     skos:notation "LSO" ;
     rdfs:label "Lesotho"@en ,
     "Lesotho"@fr ,
@@ -1213,7 +1213,7 @@
     "Lesotho"@es ,
     "Лесото"@ru .
 
-<02/LBR> a skos:Concept ;
+<TerritoryName/LBR> a skos:Concept ;
     skos:notation "LBR" ;
     rdfs:label "Liberia"@en ,
     "Libéria"@fr ,
@@ -1224,7 +1224,7 @@
     "Liberia"@es ,
     "Либерия"@ru .
 
-<02/LBY> a skos:Concept ;
+<TerritoryName/LBY> a skos:Concept ;
     skos:notation "LBY" ;
     rdfs:label "Libya"@en ,
     "Libye"@fr ,
@@ -1235,7 +1235,7 @@
     "Libia"@es ,
     "Ливия"@ru .
 
-<02/LIE> a skos:Concept ;
+<TerritoryName/LIE> a skos:Concept ;
     skos:notation "LIE" ;
     rdfs:label "Liechtenstein"@en ,
     "Liechtenstein"@fr ,
@@ -1246,7 +1246,7 @@
     "Liechtenstein"@es ,
     "Лихтенштейн"@ru .
 
-<02/LTU> a skos:Concept ;
+<TerritoryName/LTU> a skos:Concept ;
     skos:notation "LTU" ;
     rdfs:label "Lithuania"@en ,
     "Lituanie"@fr ,
@@ -1257,7 +1257,7 @@
     "Lituania"@es ,
     "Литва"@ru .
 
-<02/LUX> a skos:Concept ;
+<TerritoryName/LUX> a skos:Concept ;
     skos:notation "LUX" ;
     rdfs:label "Luxembourg"@en ,
     "Luxembourg"@fr ,
@@ -1268,7 +1268,7 @@
     "Luxemburgo"@es ,
     "Люксембург"@ru .
 
-<02/MAC> a skos:Concept ;
+<TerritoryName/MAC> a skos:Concept ;
     skos:notation "MAC" ;
     rdfs:label "Macao, China"@en ,
     "Macao, Chine"@fr ,
@@ -1279,7 +1279,7 @@
     "Macao, China"@es ,
     "Macao, Китай"@ru .
 
-<02/MKD> a skos:Concept ;
+<TerritoryName/MKD> a skos:Concept ;
     skos:notation "MKD" ;
     rdfs:label "Macedonia, the former Yugoslav Republic of"@en ,
     "Macédoine, ex-République yougoslave de"@fr ,
@@ -1290,7 +1290,7 @@
     "Macedonia, ex República Yugoslava de"@es ,
     "Македония (бывшая югославская Республика)"@ru .
 
-<02/MDG> a skos:Concept ;
+<TerritoryName/MDG> a skos:Concept ;
     skos:notation "MDG" ;
     rdfs:label "Madagascar"@en ,
     "Madagascar"@fr ,
@@ -1301,7 +1301,7 @@
     "Madagascar"@es ,
     "Мадагаскар"@ru .
 
-<02/MWI> a skos:Concept ;
+<TerritoryName/MWI> a skos:Concept ;
     skos:notation "MWI" ;
     rdfs:label "Malawi"@en ,
     "Malawi"@fr ,
@@ -1312,7 +1312,7 @@
     "Malawi"@es ,
     "Малави"@ru .
 
-<02/MYS> a skos:Concept ;
+<TerritoryName/MYS> a skos:Concept ;
     skos:notation "MYS" ;
     rdfs:label "Malaysia"@en ,
     "Malaisie"@fr ,
@@ -1323,7 +1323,7 @@
     "Malasia"@es ,
     "Малайзия"@ru .
 
-<02/MDV> a skos:Concept ;
+<TerritoryName/MDV> a skos:Concept ;
     skos:notation "MDV" ;
     rdfs:label "Maldives"@en ,
     "Maldives"@fr ,
@@ -1334,7 +1334,7 @@
     "Maldivas"@es ,
     "Мальдивские Острова (Мальдивы)"@ru .
 
-<02/MLI> a skos:Concept ;
+<TerritoryName/MLI> a skos:Concept ;
     skos:notation "MLI" ;
     rdfs:label "Mali"@en ,
     "Mali"@fr ,
@@ -1345,7 +1345,7 @@
     "Malí"@es ,
     "Мали"@ru .
 
-<02/MLT> a skos:Concept ;
+<TerritoryName/MLT> a skos:Concept ;
     skos:notation "MLT" ;
     rdfs:label "Malta"@en ,
     "Malte"@fr ,
@@ -1356,7 +1356,7 @@
     "Malta"@es ,
     "Мальта"@ru .
 
-<02/MHL> a skos:Concept ;
+<TerritoryName/MHL> a skos:Concept ;
     skos:notation "MHL" ;
     rdfs:label "Marshall Islands"@en ,
     "Îles Marshall"@fr ,
@@ -1367,7 +1367,7 @@
     "Islas Marshall"@es ,
     "Маршалловы Острова"@ru .
 
-<02/MRT> a skos:Concept ;
+<TerritoryName/MRT> a skos:Concept ;
     skos:notation "MRT" ;
     rdfs:label "Mauritania"@en ,
     "Mauritanie"@fr ,
@@ -1378,7 +1378,7 @@
     "Mauritania"@es ,
     "Мавритания"@ru .
 
-<02/MUS> a skos:Concept ;
+<TerritoryName/MUS> a skos:Concept ;
     skos:notation "MUS" ;
     rdfs:label "Mauritius"@en ,
     "Maurice"@fr ,
@@ -1389,7 +1389,7 @@
     "Mauricio"@es ,
     "Маврикий"@ru .
 
-<02/MEX> a skos:Concept ;
+<TerritoryName/MEX> a skos:Concept ;
     skos:notation "MEX" ;
     rdfs:label "Mexico"@en ,
     "Mexique"@fr ,
@@ -1400,7 +1400,7 @@
     "México"@es ,
     "Мексика"@ru .
 
-<02/FSM> a skos:Concept ;
+<TerritoryName/FSM> a skos:Concept ;
     skos:notation "FSM" ;
     rdfs:label "Micronesia, Federated States of"@en ,
     "Micronésie, États fédérés de"@fr ,
@@ -1411,7 +1411,7 @@
     "Micronesia, Estados Federados de"@es ,
     "Федеративные Штаты Микронезии"@ru .
 
-<02/MDA> a skos:Concept ;
+<TerritoryName/MDA> a skos:Concept ;
     skos:notation "MDA" ;
     rdfs:label "Moldova, Republic of"@en ,
     "Moldova, République de"@fr ,
@@ -1422,7 +1422,7 @@
     "Moldova, República de"@es ,
     "Республика Молдова"@ru .
 
-<02/MCO> a skos:Concept ;
+<TerritoryName/MCO> a skos:Concept ;
     skos:notation "MCO" ;
     rdfs:label "Monaco"@en ,
     "Monaco"@fr ,
@@ -1433,7 +1433,7 @@
     "Mónaco"@es ,
     "Монако"@ru .
 
-<02/MNG> a skos:Concept ;
+<TerritoryName/MNG> a skos:Concept ;
     skos:notation "MNG" ;
     rdfs:label "Mongolia"@en ,
     "Mongolie"@fr ,
@@ -1444,7 +1444,7 @@
     "Mongolia"@es ,
     "Монголия"@ru .
 
-<02/MNE> a skos:Concept ;
+<TerritoryName/MNE> a skos:Concept ;
     skos:notation "MNE" ;
     rdfs:label "Montenegro"@en ,
     "Monténégro"@fr ,
@@ -1455,7 +1455,7 @@
     "Montenegro"@es ,
     "Черногория"@ru .
 
-<02/MSR> a skos:Concept ;
+<TerritoryName/MSR> a skos:Concept ;
     skos:notation "MSR" ;
     rdfs:label "Montserrat"@en ,
     "Montserrat"@fr ,
@@ -1466,7 +1466,7 @@
     "Montserrat"@es ,
     "Монтсеррат"@ru .
 
-<02/MAR> a skos:Concept ;
+<TerritoryName/MAR> a skos:Concept ;
     skos:notation "MAR" ;
     rdfs:label "Morocco"@en ,
     "Maroc"@fr ,
@@ -1477,7 +1477,7 @@
     "Marruecos"@es ,
     "Марокко"@ru .
 
-<02/MOZ> a skos:Concept ;
+<TerritoryName/MOZ> a skos:Concept ;
     skos:notation "MOZ" ;
     rdfs:label "Mozambique"@en ,
     "Mozambique"@fr ,
@@ -1488,7 +1488,7 @@
     "Mozambique"@es ,
     "Мозамбик"@ru .
 
-<02/MMR> a skos:Concept ;
+<TerritoryName/MMR> a skos:Concept ;
     skos:notation "MMR" ;
     rdfs:label "Myanmar"@en ,
     "Myanmar"@fr ,
@@ -1499,7 +1499,7 @@
     "Myanmar"@es ,
     "Мьянма"@ru .
 
-<02/NAM> a skos:Concept ;
+<TerritoryName/NAM> a skos:Concept ;
     skos:notation "NAM" ;
     rdfs:label "Namibia"@en ,
     "Namibie"@fr ,
@@ -1510,7 +1510,7 @@
     "Namibia"@es ,
     "Намибия"@ru .
 
-<02/NRU> a skos:Concept ;
+<TerritoryName/NRU> a skos:Concept ;
     skos:notation "NRU" ;
     rdfs:label "Nauru"@en ,
     "Nauru"@fr ,
@@ -1521,7 +1521,7 @@
     "Nauru"@es ,
     "Науру"@ru .
 
-<02/NPL> a skos:Concept ;
+<TerritoryName/NPL> a skos:Concept ;
     skos:notation "NPL" ;
     rdfs:label "Nepal"@en ,
     "Népal"@fr ,
@@ -1532,7 +1532,7 @@
     "Nepal"@es ,
     "Непал"@ru .
 
-<02/NLD> a skos:Concept ;
+<TerritoryName/NLD> a skos:Concept ;
     skos:notation "NLD" ;
     rdfs:label "Netherlands"@en ,
     "Pays-Bas"@fr ,
@@ -1543,7 +1543,7 @@
     "Países Bajos"@es ,
     "Нидерланды"@ru .
 
-<02/NCL> a skos:Concept ;
+<TerritoryName/NCL> a skos:Concept ;
     skos:notation "NCL" ;
     rdfs:label "New Caledonia"@en ,
     "Nouvelle-Calédonie"@fr ,
@@ -1554,7 +1554,7 @@
     "Nueva Caledonia"@es ,
     "Новая Каледония"@ru .
 
-<02/NZL> a skos:Concept ;
+<TerritoryName/NZL> a skos:Concept ;
     skos:notation "NZL" ;
     rdfs:label "New Zealand"@en ,
     "Nouvelle-Zélande"@fr ,
@@ -1565,7 +1565,7 @@
     "Nueva Zelandia"@es ,
     "Новая Зеландия"@ru .
 
-<02/NIC> a skos:Concept ;
+<TerritoryName/NIC> a skos:Concept ;
     skos:notation "NIC" ;
     rdfs:label "Nicaragua"@en ,
     "Nicaragua"@fr ,
@@ -1576,7 +1576,7 @@
     "Nicaragua"@es ,
     "Никарагуа"@ru .
 
-<02/NER> a skos:Concept ;
+<TerritoryName/NER> a skos:Concept ;
     skos:notation "NER" ;
     rdfs:label "Niger"@en ,
     "Niger"@fr ,
@@ -1587,7 +1587,7 @@
     "Níger"@es ,
     "Нигер"@ru .
 
-<02/NGA> a skos:Concept ;
+<TerritoryName/NGA> a skos:Concept ;
     skos:notation "NGA" ;
     rdfs:label "Nigeria"@en ,
     "Nigéria"@fr ,
@@ -1598,7 +1598,7 @@
     "Nigeria"@es ,
     "Нигерия"@ru .
 
-<02/NIU> a skos:Concept ;
+<TerritoryName/NIU> a skos:Concept ;
     skos:notation "NIU" ;
     rdfs:label "Niue"@en ,
     "Nioué"@fr ,
@@ -1609,7 +1609,7 @@
     "Niue"@es ,
     "Ниуэ"@ru .
 
-<02/NOR> a skos:Concept ;
+<TerritoryName/NOR> a skos:Concept ;
     skos:notation "NOR" ;
     rdfs:label "Norway"@en ,
     "Norvège"@fr ,
@@ -1620,7 +1620,7 @@
     "Noruega"@es ,
     "Норвегия"@ru .
 
-<02/OMN> a skos:Concept ;
+<TerritoryName/OMN> a skos:Concept ;
     skos:notation "OMN" ;
     rdfs:label "Oman"@en ,
     "Oman"@fr ,
@@ -1631,7 +1631,7 @@
     "Omán"@es ,
     "Оман"@ru .
 
-<02/PAK> a skos:Concept ;
+<TerritoryName/PAK> a skos:Concept ;
     skos:notation "PAK" ;
     rdfs:label "Pakistan"@en ,
     "Pakistan"@fr ,
@@ -1642,7 +1642,7 @@
     "Pakistán"@es ,
     "Пакистан"@ru .
 
-<02/PLW> a skos:Concept ;
+<TerritoryName/PLW> a skos:Concept ;
     skos:notation "PLW" ;
     rdfs:label "Palau"@en ,
     "Palaos"@fr ,
@@ -1653,7 +1653,7 @@
     "Palau"@es ,
     "Палау"@ru .
 
-<02/PSE> a skos:Concept ;
+<TerritoryName/PSE> a skos:Concept ;
     skos:notation "PSE" ;
     rdfs:label "Palestine, State of"@en ,
     "Palestine, État de "@fr ,
@@ -1664,7 +1664,7 @@
     "Palestina, Estado de"@es ,
     "Государство Палестина"@ru .
 
-<02/PAN> a skos:Concept ;
+<TerritoryName/PAN> a skos:Concept ;
     skos:notation "PAN" ;
     rdfs:label "Panama"@en ,
     "Panama"@fr ,
@@ -1675,7 +1675,7 @@
     "Panamá"@es ,
     "Панама"@ru .
 
-<02/PNG> a skos:Concept ;
+<TerritoryName/PNG> a skos:Concept ;
     skos:notation "PNG" ;
     rdfs:label "Papua New Guinea"@en ,
     "Papouasie-Nouvelle-Guinée"@fr ,
@@ -1686,7 +1686,7 @@
     "Papua Nueva Guinea"@es ,
     "Папуа-Новая Гвинея"@ru .
 
-<02/PRY> a skos:Concept ;
+<TerritoryName/PRY> a skos:Concept ;
     skos:notation "PRY" ;
     rdfs:label "Paraguay"@en ,
     "Paraguay"@fr ,
@@ -1697,7 +1697,7 @@
     "Paraguay"@es ,
     "Парагвай"@ru .
 
-<02/PER> a skos:Concept ;
+<TerritoryName/PER> a skos:Concept ;
     skos:notation "PER" ;
     rdfs:label "Peru"@en ,
     "Pérou"@fr ,
@@ -1708,7 +1708,7 @@
     "Perú"@es ,
     "Перу"@ru .
 
-<02/PHL> a skos:Concept ;
+<TerritoryName/PHL> a skos:Concept ;
     skos:notation "PHL" ;
     rdfs:label "Philippines"@en ,
     "Philippines"@fr ,
@@ -1719,7 +1719,7 @@
     "Filipinas"@es ,
     "Филиппины"@ru .
 
-<02/PCN> a skos:Concept ;
+<TerritoryName/PCN> a skos:Concept ;
     skos:notation "PCN" ;
     rdfs:label "Pitcairn"@en ,
     "Pitcairn"@fr ,
@@ -1730,7 +1730,7 @@
     "Pitcairn"@es ,
     "Питкэрн"@ru .
 
-<02/POL> a skos:Concept ;
+<TerritoryName/POL> a skos:Concept ;
     skos:notation "POL" ;
     rdfs:label "Poland"@en ,
     "Pologne"@fr ,
@@ -1741,7 +1741,7 @@
     "Polonia"@es ,
     "Польша"@ru .
 
-<02/PRT> a skos:Concept ;
+<TerritoryName/PRT> a skos:Concept ;
     skos:notation "PRT" ;
     rdfs:label "Portugal"@en ,
     "Portugal"@fr ,
@@ -1752,7 +1752,7 @@
     "Portugal"@es ,
     "Португалия"@ru .
 
-<02/PRI> a skos:Concept ;
+<TerritoryName/PRI> a skos:Concept ;
     skos:notation "PRI" ;
     rdfs:label "Puerto Rico"@en ,
     "Porto Rico"@fr ,
@@ -1763,7 +1763,7 @@
     "Puerto Rico"@es ,
     "Пуэрто-Рико"@ru .
 
-<02/QAT> a skos:Concept ;
+<TerritoryName/QAT> a skos:Concept ;
     skos:notation "QAT" ;
     rdfs:label "Qatar"@en ,
     "Qatar"@fr ,
@@ -1774,7 +1774,7 @@
     "Qatar"@es ,
     "Катар"@ru .
 
-<02/ROM> a skos:Concept ;
+<TerritoryName/ROM> a skos:Concept ;
     skos:notation "ROM" ;
     rdfs:label "Romania"@en ,
     "Roumanie"@fr ,
@@ -1785,7 +1785,7 @@
     "Rumania"@es ,
     "Румыния"@ru .
 
-<02/RUS> a skos:Concept ;
+<TerritoryName/RUS> a skos:Concept ;
     skos:notation "RUS" ;
     rdfs:label "Russian Federation"@en ,
     "Fédération de Russie"@fr ,
@@ -1796,7 +1796,7 @@
     "Federación de Rusia"@es ,
     "Российская Федерация"@ru .
 
-<02/RWA> a skos:Concept ;
+<TerritoryName/RWA> a skos:Concept ;
     skos:notation "RWA" ;
     rdfs:label "Rwanda"@en ,
     "Rwanda"@fr ,
@@ -1807,7 +1807,7 @@
     "Rwanda"@es ,
     "Руанда"@ru .
 
-<02/SHN> a skos:Concept ;
+<TerritoryName/SHN> a skos:Concept ;
     skos:notation "SHN" ;
     rdfs:label "Saint Helena"@en ,
     "Sainte-Hélène"@fr ,
@@ -1818,7 +1818,7 @@
     "Santa Elena"@es ,
     "Остров Святой Елены"@ru .
 
-<02/KNA> a skos:Concept ;
+<TerritoryName/KNA> a skos:Concept ;
     skos:notation "KNA" ;
     rdfs:label "Saint Kitts and Nevis"@en ,
     "Saint-Kitts-et-Nevis"@fr ,
@@ -1829,7 +1829,7 @@
     "Saint Kitts y Nevis"@es ,
     "Сент-Китс и Невис"@ru .
 
-<02/LCA> a skos:Concept ;
+<TerritoryName/LCA> a skos:Concept ;
     skos:notation "LCA" ;
     rdfs:label "Saint Lucia"@en ,
     "Sainte-Lucie"@fr ,
@@ -1840,7 +1840,7 @@
     "Santa Lucía"@es ,
     "Сент-Люсия"@ru .
 
-<02/SPM> a skos:Concept ;
+<TerritoryName/SPM> a skos:Concept ;
     skos:notation "SPM" ;
     rdfs:label "Saint Pierre and Miquelon"@en ,
     "Saint-Pierre-et-Miquelon"@fr ,
@@ -1851,7 +1851,7 @@
     "San Pedro y Miquelón"@es ,
     "Сант-Пьер и Микелон"@ru .
 
-<02/VCT> a skos:Concept ;
+<TerritoryName/VCT> a skos:Concept ;
     skos:notation "VCT" ;
     rdfs:label "Saint Vincent and Grenadines"@en ,
     "Saint-Vincent-et-les-Grenadines"@fr ,
@@ -1862,7 +1862,7 @@
     "San Vicente y las Granadinas"@es ,
     "Сент-Винсент и Гренадины"@ru .
 
-<02/WSM> a skos:Concept ;
+<TerritoryName/WSM> a skos:Concept ;
     skos:notation "WSM" ;
     rdfs:label "Samoa"@en ,
     "Samoa"@fr ,
@@ -1873,7 +1873,7 @@
     "Samoa"@es ,
     "Самоа"@ru .
 
-<02/STP> a skos:Concept ;
+<TerritoryName/STP> a skos:Concept ;
     skos:notation "STP" ;
     rdfs:label "Sao Tome and Principe"@en ,
     "Sao Tomé-et-Principe"@fr ,
@@ -1884,7 +1884,7 @@
     "Santo Tomé y Príncipe"@es ,
     "Cан-Томе и Принсипи"@ru .
 
-<02/SAU> a skos:Concept ;
+<TerritoryName/SAU> a skos:Concept ;
     skos:notation "SAU" ;
     rdfs:label "Saudi Arabia"@en ,
     "Arabie saoudite"@fr ,
@@ -1895,7 +1895,7 @@
     "Arabia Saudita"@es ,
     "Саудовская Аравия"@ru .
 
-<02/SEN> a skos:Concept ;
+<TerritoryName/SEN> a skos:Concept ;
     skos:notation "SEN" ;
     rdfs:label "Senegal"@en ,
     "Sénégal"@fr ,
@@ -1906,7 +1906,7 @@
     "Senegal"@es ,
     "Сенегал"@ru .
 
-<02/SRB> a skos:Concept ;
+<TerritoryName/SRB> a skos:Concept ;
     skos:notation "SRB" ;
     rdfs:label "Serbia"@en ,
     "Serbie"@fr ,
@@ -1917,7 +1917,7 @@
     "Serbia"@es ,
     "Сербия"@ru .
 
-<02/SYC> a skos:Concept ;
+<TerritoryName/SYC> a skos:Concept ;
     skos:notation "SYC" ;
     rdfs:label "Seychelles"@en ,
     "Seychelles"@fr ,
@@ -1928,7 +1928,7 @@
     "Seychelles"@es ,
     "Сейшельские Острова"@ru .
 
-<02/SLE> a skos:Concept ;
+<TerritoryName/SLE> a skos:Concept ;
     skos:notation "SLE" ;
     rdfs:label "Sierra Leone"@en ,
     "Sierra Leone"@fr ,
@@ -1939,7 +1939,7 @@
     "Sierra Leona"@es ,
     "Сьерра-Леоне"@ru .
 
-<02/SGP> a skos:Concept ;
+<TerritoryName/SGP> a skos:Concept ;
     skos:notation "SGP" ;
     rdfs:label "Singapore"@en ,
     "Singapour"@fr ,
@@ -1950,7 +1950,7 @@
     "Singapur"@es ,
     "Сингапур"@ru .
 
-<02/SVK> a skos:Concept ;
+<TerritoryName/SVK> a skos:Concept ;
     skos:notation "SVK" ;
     rdfs:label "Slovakia"@en ,
     "Slovaquie"@fr ,
@@ -1961,7 +1961,7 @@
     "Eslovaquia"@es ,
     "Словакия"@ru .
 
-<02/SVN> a skos:Concept ;
+<TerritoryName/SVN> a skos:Concept ;
     skos:notation "SVN" ;
     rdfs:label "Slovenia"@en ,
     "Slovénie"@fr ,
@@ -1972,7 +1972,7 @@
     "Eslovenia"@es ,
     "Словения"@ru .
 
-<02/SLB> a skos:Concept ;
+<TerritoryName/SLB> a skos:Concept ;
     skos:notation "SLB" ;
     rdfs:label "Solomon Islands"@en ,
     "Îles Salomon"@fr ,
@@ -1983,7 +1983,7 @@
     "Islas Salomón"@es ,
     "Соломоновы Острова"@ru .
 
-<02/SOM> a skos:Concept ;
+<TerritoryName/SOM> a skos:Concept ;
     skos:notation "SOM" ;
     rdfs:label "Somalia"@en ,
     "Somalie"@fr ,
@@ -1994,7 +1994,7 @@
     "Somalia"@es ,
     "Сомали"@ru .
 
-<02/ZAF> a skos:Concept ;
+<TerritoryName/ZAF> a skos:Concept ;
     skos:notation "ZAF" ;
     rdfs:label "South Africa"@en ,
     "Afrique du Sud"@fr ,
@@ -2005,7 +2005,7 @@
     "Sudáfrica"@es ,
     "Южная Африка"@ru .
 
-<02/SGS> a skos:Concept ;
+<TerritoryName/SGS> a skos:Concept ;
     skos:notation "SGS" ;
     rdfs:label "South Georgia and the South Sandwich Islands"@en ,
     "Géorgie du Sud et îles Sandwich du Sud"@fr ,
@@ -2016,7 +2016,7 @@
     "Islas Georgias del Sur y Sandwich del Sur"@es ,
     "Южная Георгия и Южные Сандвичевы острова"@ru .
 
-<02/SSD> a skos:Concept ;
+<TerritoryName/SSD> a skos:Concept ;
     skos:notation "SSD" ;
     rdfs:label "South Sudan"@en ,
     "Soudan du Sud"@fr ,
@@ -2027,7 +2027,7 @@
     "Sudán del Sur"@es ,
     "Южный Судан"@ru .
 
-<02/ESP> a skos:Concept ;
+<TerritoryName/ESP> a skos:Concept ;
     skos:notation "ESP" ;
     rdfs:label "Spain"@en ,
     "Espagne"@fr ,
@@ -2038,7 +2038,7 @@
     "España"@es ,
     "Испания"@ru .
 
-<02/LKA> a skos:Concept ;
+<TerritoryName/LKA> a skos:Concept ;
     skos:notation "LKA" ;
     rdfs:label "Sri Lanka"@en ,
     "Sri Lanka"@fr ,
@@ -2049,7 +2049,7 @@
     "Sri Lanka"@es ,
     "Шри-Ланка"@ru .
 
-<02/SDN> a skos:Concept ;
+<TerritoryName/SDN> a skos:Concept ;
     skos:notation "SDN" ;
     rdfs:label "Sudan"@en ,
     "Soudan"@fr ,
@@ -2060,7 +2060,7 @@
     "Sudán"@es ,
     "Судан"@ru .
 
-<02/SUR> a skos:Concept ;
+<TerritoryName/SUR> a skos:Concept ;
     skos:notation "SUR" ;
     rdfs:label "Suriname"@en ,
     "Suriname"@fr ,
@@ -2071,7 +2071,7 @@
     "Suriname"@es ,
     "Суринам"@ru .
 
-<02/SWZ> a skos:Concept ;
+<TerritoryName/SWZ> a skos:Concept ;
     skos:notation "SWZ" ;
     rdfs:label "Swaziland"@en ,
     "Swaziland"@fr ,
@@ -2082,7 +2082,7 @@
     "Swazilandia"@es ,
     "Свазиленд"@ru .
 
-<02/SWE> a skos:Concept ;
+<TerritoryName/SWE> a skos:Concept ;
     skos:notation "SWE" ;
     rdfs:label "Sweden"@en ,
     "Suède"@fr ,
@@ -2093,7 +2093,7 @@
     "Suecia"@es ,
     "Швеция"@ru .
 
-<02/CHE> a skos:Concept ;
+<TerritoryName/CHE> a skos:Concept ;
     skos:notation "CHE" ;
     rdfs:label "Switzerland"@en ,
     "Suisse"@fr ,
@@ -2104,7 +2104,7 @@
     "Suiza"@es ,
     "Швейцария"@ru .
 
-<02/SYR> a skos:Concept ;
+<TerritoryName/SYR> a skos:Concept ;
     skos:notation "SYR" ;
     rdfs:label "Syrian Arab Republic"@en ,
     "République arabe syrienne"@fr ,
@@ -2115,7 +2115,7 @@
     "República Árabe Siria"@es ,
     "Сирийская Арабская Республика"@ru .
 
-<02/TWN> a skos:Concept ;
+<TerritoryName/TWN> a skos:Concept ;
     skos:notation "TWN" ;
     rdfs:label "Taiwan, Province of China"@en ,
     "Province chinoise de Taiwan"@fr ,
@@ -2126,7 +2126,7 @@
     "Taiwán, Provincia China de"@es ,
     "Тайвань, провинция Китая"@ru .
 
-<02/TJK> a skos:Concept ;
+<TerritoryName/TJK> a skos:Concept ;
     skos:notation "TJK" ;
     rdfs:label "Tajikistan"@en ,
     "Tadjikistan"@fr ,
@@ -2137,7 +2137,7 @@
     "Tayikistán"@es ,
     "Таджикистан"@ru .
 
-<02/TZA> a skos:Concept ;
+<TerritoryName/TZA> a skos:Concept ;
     skos:notation "TZA" ;
     rdfs:label "Tanzania, United Republic of"@en ,
     "Tanzanie, République-Unie de"@fr ,
@@ -2148,7 +2148,7 @@
     "Tanzania, República Unida de"@es ,
     "Объединенная Республика Танзания"@ru .
 
-<02/THA> a skos:Concept ;
+<TerritoryName/THA> a skos:Concept ;
     skos:notation "THA" ;
     rdfs:label "Thailand"@en ,
     "Thaïlande"@fr ,
@@ -2159,7 +2159,7 @@
     "Tailandia"@es ,
     "Таиланд"@ru .
 
-<02/TLS> a skos:Concept ;
+<TerritoryName/TLS> a skos:Concept ;
     skos:notation "TLS" ;
     rdfs:label "Timor-Leste"@en ,
     "Timor-Leste"@fr ,
@@ -2170,7 +2170,7 @@
     "Timor-Leste"@es ,
     "Тимор-Лешти"@ru .
 
-<02/TGO> a skos:Concept ;
+<TerritoryName/TGO> a skos:Concept ;
     skos:notation "TGO" ;
     rdfs:label "Togo"@en ,
     "Togo"@fr ,
@@ -2181,7 +2181,7 @@
     "Togo"@es ,
     "Того"@ru .
 
-<02/TKL> a skos:Concept ;
+<TerritoryName/TKL> a skos:Concept ;
     skos:notation "TKL" ;
     rdfs:label "Tokelau"@en ,
     "Tokélau"@fr ,
@@ -2192,7 +2192,7 @@
     "Tokelau"@es ,
     "Токелау"@ru .
 
-<02/TON> a skos:Concept ;
+<TerritoryName/TON> a skos:Concept ;
     skos:notation "TON" ;
     rdfs:label "Tonga"@en ,
     "Tonga"@fr ,
@@ -2203,7 +2203,7 @@
     "Tonga"@es ,
     "Тонга"@ru .
 
-<02/TTO> a skos:Concept ;
+<TerritoryName/TTO> a skos:Concept ;
     skos:notation "TTO" ;
     rdfs:label "Trinidad and Tobago"@en ,
     "Trinité-et-Tobago"@fr ,
@@ -2214,7 +2214,7 @@
     "Trinidad y Tabago"@es ,
     "Тринидад и Тобаго"@ru .
 
-<02/TUN> a skos:Concept ;
+<TerritoryName/TUN> a skos:Concept ;
     skos:notation "TUN" ;
     rdfs:label "Tunisia"@en ,
     "Tunisie"@fr ,
@@ -2225,7 +2225,7 @@
     "Túnez"@es ,
     "Тунис"@ru .
 
-<02/TUR> a skos:Concept ;
+<TerritoryName/TUR> a skos:Concept ;
     skos:notation "TUR" ;
     rdfs:label "Turkey"@en ,
     "Turquie"@fr ,
@@ -2236,7 +2236,7 @@
     "Turquía"@es ,
     "Турция"@ru .
 
-<02/TKM> a skos:Concept ;
+<TerritoryName/TKM> a skos:Concept ;
     skos:notation "TKM" ;
     rdfs:label "Turkmenistan"@en ,
     "Turkménistan"@fr ,
@@ -2247,7 +2247,7 @@
     "Turkmenistán"@es ,
     "Туркменистан"@ru .
 
-<02/TCA> a skos:Concept ;
+<TerritoryName/TCA> a skos:Concept ;
     skos:notation "TCA" ;
     rdfs:label "Turks and Caicos Islands"@en ,
     "Îles Turques et Caïques"@fr ,
@@ -2258,7 +2258,7 @@
     "Islas Turcas y Caicos"@es ,
     "Острова Теркс и Кайкос "@ru .
 
-<02/TUV> a skos:Concept ;
+<TerritoryName/TUV> a skos:Concept ;
     skos:notation "TUV" ;
     rdfs:label "Tuvalu"@en ,
     "Tuvalu"@fr ,
@@ -2269,7 +2269,7 @@
     "Tuvalu"@es ,
     "Тувалу"@ru .
 
-<02/UGA> a skos:Concept ;
+<TerritoryName/UGA> a skos:Concept ;
     skos:notation "UGA" ;
     rdfs:label "Uganda"@en ,
     "Ouganda"@fr ,
@@ -2280,7 +2280,7 @@
     "Uganda"@es ,
     "Уганда"@ru .
 
-<02/UKR> a skos:Concept ;
+<TerritoryName/UKR> a skos:Concept ;
     skos:notation "UKR" ;
     rdfs:label "Ukraine"@en ,
     "Ukraine"@fr ,
@@ -2291,7 +2291,7 @@
     "Ucrania"@es ,
     "Украина"@ru .
 
-<02/ARE> a skos:Concept ;
+<TerritoryName/ARE> a skos:Concept ;
     skos:notation "ARE" ;
     rdfs:label "United Arab Emirates (the)"@en ,
     "Émirats arabes unis"@fr ,
@@ -2302,7 +2302,7 @@
     "Emiratos Árabes Unidos (los)"@es ,
     "Объединенные Арабские Эмираты"@ru .
 
-<02/GBR> a skos:Concept ;
+<TerritoryName/GBR> a skos:Concept ;
     skos:notation "GBR" ;
     rdfs:label "United Kingdom (the)"@en ,
     "Royaume-Uni de Grande-Bretagne et d’Irlande du Nord"@fr ,
@@ -2313,7 +2313,7 @@
     "Reino Unido de Gran Bretaña e Irlanda del Norte (el)"@es ,
     "Соединенное Королевство"@ru .
 
-<02/USA> a skos:Concept ;
+<TerritoryName/USA> a skos:Concept ;
     skos:notation "USA" ;
     rdfs:label "United States (the)"@en ,
     "États-Unis d’Amérique"@fr ,
@@ -2324,7 +2324,7 @@
     "Estados Unidos de América (los)"@es ,
     "Соединенные Штаты"@ru .
 
-<02/URY> a skos:Concept ;
+<TerritoryName/URY> a skos:Concept ;
     skos:notation "URY" ;
     rdfs:label "Uruguay"@en ,
     "Uruguay"@fr ,
@@ -2335,7 +2335,7 @@
     "Uruguay"@es ,
     "Уругвай"@ru .
 
-<02/UZB> a skos:Concept ;
+<TerritoryName/UZB> a skos:Concept ;
     skos:notation "UZB" ;
     rdfs:label "Uzbekistan"@en ,
     "Ouzbékistan"@fr ,
@@ -2346,7 +2346,7 @@
     "Uzbekistán"@es ,
     "Узбекистан"@ru .
 
-<02/VUT> a skos:Concept ;
+<TerritoryName/VUT> a skos:Concept ;
     skos:notation "VUT" ;
     rdfs:label "Vanuatu"@en ,
     "Vanuatu"@fr ,
@@ -2357,7 +2357,7 @@
     "Vanuatu"@es ,
     "Вануату"@ru .
 
-<02/VEN> a skos:Concept ;
+<TerritoryName/VEN> a skos:Concept ;
     skos:notation "VEN" ;
     rdfs:label "Venezuela, Bolivarian Republic of"@en ,
     "Venezuela, République bolivarienne du"@fr ,
@@ -2368,7 +2368,7 @@
     "Venezuela, República Bolivariana de"@es ,
     "Венесуэла, Боливарианская Республика"@ru .
 
-<02/VNM> a skos:Concept ;
+<TerritoryName/VNM> a skos:Concept ;
     skos:notation "VNM" ;
     rdfs:label "Viet Nam"@en ,
     "Viet Nam"@fr ,
@@ -2379,7 +2379,7 @@
     "Viet Nam"@es ,
     "Вьетнам"@ru .
 
-<02/ESH> a skos:Concept ;
+<TerritoryName/ESH> a skos:Concept ;
     skos:notation "ESH" ;
     rdfs:label "Western Sahara"@en ,
     "Sahara occidental"@fr ,
@@ -2390,7 +2390,7 @@
     "Sáhara Occidental (el)"@es ,
     "Западная Сахара"@ru .
 
-<02/YEM> a skos:Concept ;
+<TerritoryName/YEM> a skos:Concept ;
     skos:notation "YEM" ;
     rdfs:label "Yemen"@en ,
     "Yémen"@fr ,
@@ -2401,7 +2401,7 @@
     "Yemen"@es ,
     "Йемен"@ru .
 
-<02/ZMB> a skos:Concept ;
+<TerritoryName/ZMB> a skos:Concept ;
     skos:notation "ZMB" ;
     rdfs:label "Zambia"@en ,
     "Zambie"@fr ,
@@ -2412,7 +2412,7 @@
     "Zambia"@es ,
     "Замбия"@ru .
 
-<02/ZWE> a skos:Concept ;
+<TerritoryName/ZWE> a skos:Concept ;
     skos:notation "ZWE" ;
     rdfs:label "Zimbabwe"@en ,
     "Zimbabwe"@fr ,
@@ -2423,228 +2423,228 @@
     "Zimbabwe"@es ,
     "Зимбабве"@ru .
 
-<02> a skos:Collection ;
+<TerritoryName> a skos:Collection ;
         rdfs:label "Territory of origin of data" ;
-        dct:description  "Territory of origin of data - territory name"@en ;
+        dct:description  "Country or territory name of the location of the observation.  Mandatory for fixed stations, optional for mobile stations."@en ;
         skos:member 
 
-<02/AFG>,
-<02/ALB>,
-<02/DZA>,
-<02/AGO>,
-<02/AIA>,
-<02/ATA>,
-<02/ATG>,
-<02/ARG>,
-<02/ARM>,
-<02/AUS>,
-<02/AUT>,
-<02/AZE>,
-<02/BHS>,
-<02/BHR>,
-<02/BGD>,
-<02/BRB>,
-<02/BLR>,
-<02/BEL>,
-<02/BLZ>,
-<02/BEN>,
-<02/BMU>,
-<02/BTN>,
-<02/BOL>,
-<02/BIH>,
-<02/BWA>,
-<02/BRA>,
-<02/BCT>,
-<02/VGB>,
-<02/BRN>,
-<02/BGR>,
-<02/BFA>,
-<02/BDI>,
-<02/CPV>,
-<02/KHM>,
-<02/CMR>,
-<02/CAN>,
-<02/CYM>,
-<02/CAF>,
-<02/TCD>,
-<02/CHL>,
-<02/CHN>,
-<02/CXR>,
-<02/CCK>,
-<02/COL>,
-<02/COM>,
-<02/COG>,
-<02/COD>,
-<02/COK>,
-<02/CRI>,
-<02/CIV>,
-<02/HRV>,
-<02/CUB>,
-<02/CUW>,
-<02/CYP>,
-<02/CZE>,
-<02/DNK>,
-<02/DJI>,
-<02/DMA>,
-<02/DOM>,
-<02/ECU>,
-<02/EGY>,
-<02/SLV>,
-<02/GNQ>,
-<02/ERI>,
-<02/EST>,
-<02/ETH>,
-<02/FLK>,
-<02/FJI>,
-<02/FIN>,
-<02/FRA>,
-<02/PYF>,
-<02/GAB>,
-<02/GMB>,
-<02/GEO>,
-<02/DEU>,
-<02/GHA>,
-<02/GIB>,
-<02/GRC>,
-<02/GRL>,
-<02/GRD>,
-<02/GTM>,
-<02/GIN>,
-<02/GNB>,
-<02/GUY>,
-<02/HTI>,
-<02/HND>,
-<02/HKG>,
-<02/HUN>,
-<02/ISL>,
-<02/IND>,
-<02/IDN>,
-<02/IRN>,
-<02/IRQ>,
-<02/IRL>,
-<02/ISR>,
-<02/ITA>,
-<02/JAM>,
-<02/JPN>,
-<02/JOR>,
-<02/KAZ>,
-<02/KEN>,
-<02/KIR>,
-<02/PRK>,
-<02/KOR>,
-<02/KWT>,
-<02/KGZ>,
-<02/LAO>,
-<02/LVA>,
-<02/LBN>,
-<02/LSO>,
-<02/LBR>,
-<02/LBY>,
-<02/LIE>,
-<02/LTU>,
-<02/LUX>,
-<02/MAC>,
-<02/MKD>,
-<02/MDG>,
-<02/MWI>,
-<02/MYS>,
-<02/MDV>,
-<02/MLI>,
-<02/MLT>,
-<02/MHL>,
-<02/MRT>,
-<02/MUS>,
-<02/MEX>,
-<02/FSM>,
-<02/MDA>,
-<02/MCO>,
-<02/MNG>,
-<02/MNE>,
-<02/MSR>,
-<02/MAR>,
-<02/MOZ>,
-<02/MMR>,
-<02/NAM>,
-<02/NRU>,
-<02/NPL>,
-<02/NLD>,
-<02/NCL>,
-<02/NZL>,
-<02/NIC>,
-<02/NER>,
-<02/NGA>,
-<02/NIU>,
-<02/NOR>,
-<02/OMN>,
-<02/PAK>,
-<02/PLW>,
-<02/PSE>,
-<02/PAN>,
-<02/PNG>,
-<02/PRY>,
-<02/PER>,
-<02/PHL>,
-<02/PCN>,
-<02/POL>,
-<02/PRT>,
-<02/PRI>,
-<02/QAT>,
-<02/ROM>,
-<02/RUS>,
-<02/RWA>,
-<02/SHN>,
-<02/KNA>,
-<02/LCA>,
-<02/SPM>,
-<02/VCT>,
-<02/WSM>,
-<02/STP>,
-<02/SAU>,
-<02/SEN>,
-<02/SRB>,
-<02/SYC>,
-<02/SLE>,
-<02/SGP>,
-<02/SVK>,
-<02/SVN>,
-<02/SLB>,
-<02/SOM>,
-<02/ZAF>,
-<02/SGS>,
-<02/SSD>,
-<02/ESP>,
-<02/LKA>,
-<02/SDN>,
-<02/SUR>,
-<02/SWZ>,
-<02/SWE>,
-<02/CHE>,
-<02/SYR>,
-<02/TWN>,
-<02/TJK>,
-<02/TZA>,
-<02/THA>,
-<02/TLS>,
-<02/TGO>,
-<02/TKL>,
-<02/TON>,
-<02/TTO>,
-<02/TUN>,
-<02/TUR>,
-<02/TKM>,
-<02/TCA>,
-<02/TUV>,
-<02/UGA>,
-<02/UKR>,
-<02/ARE>,
-<02/GBR>,
-<02/USA>,
-<02/URY>,
-<02/UZB>,
-<02/VUT>,
-<02/VEN>,
-<02/VNM>,
-<02/ESH>,
-<02/YEM>,
-<02/ZMB>,
-<02/ZWE>.
+<TerritoryName/AFG>,
+<TerritoryName/ALB>,
+<TerritoryName/DZA>,
+<TerritoryName/AGO>,
+<TerritoryName/AIA>,
+<TerritoryName/ATA>,
+<TerritoryName/ATG>,
+<TerritoryName/ARG>,
+<TerritoryName/ARM>,
+<TerritoryName/AUS>,
+<TerritoryName/AUT>,
+<TerritoryName/AZE>,
+<TerritoryName/BHS>,
+<TerritoryName/BHR>,
+<TerritoryName/BGD>,
+<TerritoryName/BRB>,
+<TerritoryName/BLR>,
+<TerritoryName/BEL>,
+<TerritoryName/BLZ>,
+<TerritoryName/BEN>,
+<TerritoryName/BMU>,
+<TerritoryName/BTN>,
+<TerritoryName/BOL>,
+<TerritoryName/BIH>,
+<TerritoryName/BWA>,
+<TerritoryName/BRA>,
+<TerritoryName/BCT>,
+<TerritoryName/VGB>,
+<TerritoryName/BRN>,
+<TerritoryName/BGR>,
+<TerritoryName/BFA>,
+<TerritoryName/BDI>,
+<TerritoryName/CPV>,
+<TerritoryName/KHM>,
+<TerritoryName/CMR>,
+<TerritoryName/CAN>,
+<TerritoryName/CYM>,
+<TerritoryName/CAF>,
+<TerritoryName/TCD>,
+<TerritoryName/CHL>,
+<TerritoryName/CHN>,
+<TerritoryName/CXR>,
+<TerritoryName/CCK>,
+<TerritoryName/COL>,
+<TerritoryName/COM>,
+<TerritoryName/COG>,
+<TerritoryName/COD>,
+<TerritoryName/COK>,
+<TerritoryName/CRI>,
+<TerritoryName/CIV>,
+<TerritoryName/HRV>,
+<TerritoryName/CUB>,
+<TerritoryName/CUW>,
+<TerritoryName/CYP>,
+<TerritoryName/CZE>,
+<TerritoryName/DNK>,
+<TerritoryName/DJI>,
+<TerritoryName/DMA>,
+<TerritoryName/DOM>,
+<TerritoryName/ECU>,
+<TerritoryName/EGY>,
+<TerritoryName/SLV>,
+<TerritoryName/GNQ>,
+<TerritoryName/ERI>,
+<TerritoryName/EST>,
+<TerritoryName/ETH>,
+<TerritoryName/FLK>,
+<TerritoryName/FJI>,
+<TerritoryName/FIN>,
+<TerritoryName/FRA>,
+<TerritoryName/PYF>,
+<TerritoryName/GAB>,
+<TerritoryName/GMB>,
+<TerritoryName/GEO>,
+<TerritoryName/DEU>,
+<TerritoryName/GHA>,
+<TerritoryName/GIB>,
+<TerritoryName/GRC>,
+<TerritoryName/GRL>,
+<TerritoryName/GRD>,
+<TerritoryName/GTM>,
+<TerritoryName/GIN>,
+<TerritoryName/GNB>,
+<TerritoryName/GUY>,
+<TerritoryName/HTI>,
+<TerritoryName/HND>,
+<TerritoryName/HKG>,
+<TerritoryName/HUN>,
+<TerritoryName/ISL>,
+<TerritoryName/IND>,
+<TerritoryName/IDN>,
+<TerritoryName/IRN>,
+<TerritoryName/IRQ>,
+<TerritoryName/IRL>,
+<TerritoryName/ISR>,
+<TerritoryName/ITA>,
+<TerritoryName/JAM>,
+<TerritoryName/JPN>,
+<TerritoryName/JOR>,
+<TerritoryName/KAZ>,
+<TerritoryName/KEN>,
+<TerritoryName/KIR>,
+<TerritoryName/PRK>,
+<TerritoryName/KOR>,
+<TerritoryName/KWT>,
+<TerritoryName/KGZ>,
+<TerritoryName/LAO>,
+<TerritoryName/LVA>,
+<TerritoryName/LBN>,
+<TerritoryName/LSO>,
+<TerritoryName/LBR>,
+<TerritoryName/LBY>,
+<TerritoryName/LIE>,
+<TerritoryName/LTU>,
+<TerritoryName/LUX>,
+<TerritoryName/MAC>,
+<TerritoryName/MKD>,
+<TerritoryName/MDG>,
+<TerritoryName/MWI>,
+<TerritoryName/MYS>,
+<TerritoryName/MDV>,
+<TerritoryName/MLI>,
+<TerritoryName/MLT>,
+<TerritoryName/MHL>,
+<TerritoryName/MRT>,
+<TerritoryName/MUS>,
+<TerritoryName/MEX>,
+<TerritoryName/FSM>,
+<TerritoryName/MDA>,
+<TerritoryName/MCO>,
+<TerritoryName/MNG>,
+<TerritoryName/MNE>,
+<TerritoryName/MSR>,
+<TerritoryName/MAR>,
+<TerritoryName/MOZ>,
+<TerritoryName/MMR>,
+<TerritoryName/NAM>,
+<TerritoryName/NRU>,
+<TerritoryName/NPL>,
+<TerritoryName/NLD>,
+<TerritoryName/NCL>,
+<TerritoryName/NZL>,
+<TerritoryName/NIC>,
+<TerritoryName/NER>,
+<TerritoryName/NGA>,
+<TerritoryName/NIU>,
+<TerritoryName/NOR>,
+<TerritoryName/OMN>,
+<TerritoryName/PAK>,
+<TerritoryName/PLW>,
+<TerritoryName/PSE>,
+<TerritoryName/PAN>,
+<TerritoryName/PNG>,
+<TerritoryName/PRY>,
+<TerritoryName/PER>,
+<TerritoryName/PHL>,
+<TerritoryName/PCN>,
+<TerritoryName/POL>,
+<TerritoryName/PRT>,
+<TerritoryName/PRI>,
+<TerritoryName/QAT>,
+<TerritoryName/ROM>,
+<TerritoryName/RUS>,
+<TerritoryName/RWA>,
+<TerritoryName/SHN>,
+<TerritoryName/KNA>,
+<TerritoryName/LCA>,
+<TerritoryName/SPM>,
+<TerritoryName/VCT>,
+<TerritoryName/WSM>,
+<TerritoryName/STP>,
+<TerritoryName/SAU>,
+<TerritoryName/SEN>,
+<TerritoryName/SRB>,
+<TerritoryName/SYC>,
+<TerritoryName/SLE>,
+<TerritoryName/SGP>,
+<TerritoryName/SVK>,
+<TerritoryName/SVN>,
+<TerritoryName/SLB>,
+<TerritoryName/SOM>,
+<TerritoryName/ZAF>,
+<TerritoryName/SGS>,
+<TerritoryName/SSD>,
+<TerritoryName/ESP>,
+<TerritoryName/LKA>,
+<TerritoryName/SDN>,
+<TerritoryName/SUR>,
+<TerritoryName/SWZ>,
+<TerritoryName/SWE>,
+<TerritoryName/CHE>,
+<TerritoryName/SYR>,
+<TerritoryName/TWN>,
+<TerritoryName/TJK>,
+<TerritoryName/TZA>,
+<TerritoryName/THA>,
+<TerritoryName/TLS>,
+<TerritoryName/TGO>,
+<TerritoryName/TKL>,
+<TerritoryName/TON>,
+<TerritoryName/TTO>,
+<TerritoryName/TUN>,
+<TerritoryName/TUR>,
+<TerritoryName/TKM>,
+<TerritoryName/TCA>,
+<TerritoryName/TUV>,
+<TerritoryName/UGA>,
+<TerritoryName/UKR>,
+<TerritoryName/ARE>,
+<TerritoryName/GBR>,
+<TerritoryName/USA>,
+<TerritoryName/URY>,
+<TerritoryName/UZB>,
+<TerritoryName/VUT>,
+<TerritoryName/VEN>,
+<TerritoryName/VNM>,
+<TerritoryName/ESH>,
+<TerritoryName/YEM>,
+<TerritoryName/ZMB>,
+<TerritoryName/ZWE>.

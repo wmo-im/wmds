@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/nilReason> a skos:Concept ;
+<RelativeElevation/nilReason> a skos:Concept ;
     skos:notation "nilReason" ;
     rdfs:label "Not applicable"@en ,
     "Sans objet"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<02/lowest> a skos:Concept ;
+<RelativeElevation/lowest> a skos:Concept ;
     skos:notation "lowest" ;
     rdfs:label "Lowest"@en ,
     "La plus basse "@fr ,
@@ -25,7 +25,7 @@
     "Dentro del 5% más bajo de la gama de valores de elevación"@es ,
     "В нижних 5 % диапазона высот"@ru .
 
-<02/low> a skos:Concept ;
+<RelativeElevation/low> a skos:Concept ;
     skos:notation "low" ;
     rdfs:label "Low"@en ,
     "Basse"@fr ,
@@ -36,7 +36,7 @@
     "Entre el 5% y el 25% de la gama de valores de elevación"@es ,
     "Между 5 % и 25 % диапазона высот"@ru .
 
-<02/middle> a skos:Concept ;
+<RelativeElevation/middle> a skos:Concept ;
     skos:notation "middle" ;
     rdfs:label "Middle"@en ,
     "Moyenne"@fr ,
@@ -47,7 +47,7 @@
     "Entre el 25% y el 75% de la gama de valores de elevación"@es ,
     "Между 25 % и 75 % диапазона высот"@ru .
 
-<02/high> a skos:Concept ;
+<RelativeElevation/high> a skos:Concept ;
     skos:notation "high" ;
     rdfs:label "High"@en ,
     "Élevée"@fr ,
@@ -58,7 +58,7 @@
     "Entre el 75% y el 95% de la gama de valores de elevación"@es ,
     "Между 75 % и 95 % диапазона высот"@ru .
 
-<02/highest> a skos:Concept ;
+<RelativeElevation/highest> a skos:Concept ;
     skos:notation "highest" ;
     rdfs:label "Highest"@en ,
     "La plus élevée"@fr ,
@@ -69,14 +69,14 @@
     "Dentro del 5% más alto de la gama de valores de elevación"@es ,
     "В верхних 5 % диапазона высот"@ru .
 
-<02> a skos:Collection ;
+<RelativeElevation> a skos:Collection ;
         rdfs:label "Relative elevation" ;
         dct:description  "Relative elevation"@en ;
         skos:member 
 
-<02/nilReason>,
-<02/lowest>,
-<02/low>,
-<02/middle>,
-<02/high>,
-<02/highest>.
+<RelativeElevation/nilReason>,
+<RelativeElevation/lowest>,
+<RelativeElevation/low>,
+<RelativeElevation/middle>,
+<RelativeElevation/high>,
+<RelativeElevation/highest>.

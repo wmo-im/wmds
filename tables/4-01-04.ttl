@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<04/notApplicable> a skos:Concept ;
+<SurfaceCoverNPP/notApplicable> a skos:Concept ;
     skos:notation "notApplicable" ;
     rdfs:label "Not applicable"@en ,
     "Sans objet"@fr ,
@@ -14,7 +14,7 @@
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
     "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
 
-<04/water> a skos:Concept ;
+<SurfaceCoverNPP/water> a skos:Concept ;
     skos:notation "water" ;
     rdfs:label "Water"@en ,
     "Eau"@fr ,
@@ -25,7 +25,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/evergreenNeedleleafVegetation> a skos:Concept ;
+<SurfaceCoverNPP/evergreenNeedleleafVegetation> a skos:Concept ;
     skos:notation "evergreenNeedleleafVegetation" ;
     rdfs:label "Evergreen needleleaf vegetation"@en ,
     "Végétation sempervirente de conifères "@fr ,
@@ -36,7 +36,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/evergreenBroadleafVegetation> a skos:Concept ;
+<SurfaceCoverNPP/evergreenBroadleafVegetation> a skos:Concept ;
     skos:notation "evergreenBroadleafVegetation" ;
     rdfs:label "Evergreen broadleaf vegetation"@en ,
     "Végétation sempervirente de feuillus "@fr ,
@@ -47,7 +47,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/deciduousNeedleleafVegetation> a skos:Concept ;
+<SurfaceCoverNPP/deciduousNeedleleafVegetation> a skos:Concept ;
     skos:notation "deciduousNeedleleafVegetation" ;
     rdfs:label "Deciduous needleleaf vegetation"@en ,
     "Végétation décidue de conifères "@fr ,
@@ -58,7 +58,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/deciduousBroadleafVegetation> a skos:Concept ;
+<SurfaceCoverNPP/deciduousBroadleafVegetation> a skos:Concept ;
     skos:notation "deciduousBroadleafVegetation" ;
     rdfs:label "Deciduous broadleaf vegetation"@en ,
     "Végétation décidue de feuillus"@fr ,
@@ -69,7 +69,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/annualBroadleafVegetation> a skos:Concept ;
+<SurfaceCoverNPP/annualBroadleafVegetation> a skos:Concept ;
     skos:notation "annualBroadleafVegetation" ;
     rdfs:label "Annual broadleaf vegetation"@en ,
     "Végétation annuelle de feuillus "@fr ,
@@ -80,7 +80,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/nonVegetated> a skos:Concept ;
+<SurfaceCoverNPP/nonVegetated> a skos:Concept ;
     skos:notation "nonVegetated" ;
     rdfs:label "Non-vegetated land"@en ,
     "Terre dépourvue de végétation"@fr ,
@@ -91,7 +91,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/urban> a skos:Concept ;
+<SurfaceCoverNPP/urban> a skos:Concept ;
     skos:notation "urban" ;
     rdfs:label "Urban"@en ,
     "Cadre urbain"@fr ,
@@ -102,7 +102,7 @@
     "NA"@es ,
     "NA"@ru .
 
-<04/unclassified> a skos:Concept ;
+<SurfaceCoverNPP/unclassified> a skos:Concept ;
     skos:notation "unclassified" ;
     rdfs:label "Unclassified"@en ,
     "Non classée"@fr ,
@@ -113,18 +113,18 @@
     "NA"@es ,
     "NA"@ru .
 
-<04> a skos:Collection ;
-        rdfs:label "Surface cover types (PFT)" ;
-        dct:description  "Surface cover types: Plant Functional Type  (PFT)"@en ;
+<SurfaceCoverNPP> a skos:Collection ;
+        rdfs:label "Surface cover types (NPP)" ;
+        dct:description  "Surface cover types (NPP)"@en ;
         skos:member 
 
-<04/notApplicable>,
-<04/water>,
-<04/evergreenNeedleleafVegetation>,
-<04/evergreenBroadleafVegetation>,
-<04/deciduousNeedleleafVegetation>,
-<04/deciduousBroadleafVegetation>,
-<04/annualBroadleafVegetation>,
-<04/nonVegetated>,
-<04/urban>,
-<04/unclassified>.
+<SurfaceCoverNPP/notApplicable>,
+<SurfaceCoverNPP/water>,
+<SurfaceCoverNPP/evergreenNeedleleafVegetation>,
+<SurfaceCoverNPP/evergreenBroadleafVegetation>,
+<SurfaceCoverNPP/deciduousNeedleleafVegetation>,
+<SurfaceCoverNPP/deciduousBroadleafVegetation>,
+<SurfaceCoverNPP/annualBroadleafVegetation>,
+<SurfaceCoverNPP/nonVegetated>,
+<SurfaceCoverNPP/urban>,
+<SurfaceCoverNPP/unclassified>.

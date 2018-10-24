@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<05/unknown> a skos:Concept ;
+<Traceability/unknown> a skos:Concept ;
     skos:notation "unknown" ;
     rdfs:label "(unknown)"@en ,
     "(inconnue)"@fr ,
@@ -14,7 +14,7 @@
     "Se desconoce la trazabilidad de las observaciones."@es ,
     "Информация о прослеживаемости наблюдений отсутствует."@ru .
 
-<05/traceableToInternationalStandard> a skos:Concept ;
+<Traceability/traceableToInternationalStandard> a skos:Concept ;
     skos:notation "traceableToInternationalStandard" ;
     rdfs:label "Traceable to international standard"@en ,
     "Traçable par rapport à un étalon international"@fr ,
@@ -25,7 +25,7 @@
     "Las observaciones se pueden atribuir a una norma acordada internacionalmente."@es ,
     "Произведенные наблюдения характеризуются прослеживаемостью к международно согласованному стандарту."@ru .
 
-<05/traceableToOtherStandard> a skos:Concept ;
+<Traceability/traceableToOtherStandard> a skos:Concept ;
     skos:notation "traceableToOtherStandard" ;
     rdfs:label "Traceable to non-international standard"@en ,
     "Traçable par rapport à un autre étalon"@fr ,
@@ -36,11 +36,11 @@
     "Las observaciones se pueden atribuir a otra norma."@es ,
     "Произведенные наблюдения характеризуются прослеживаемостью к некоторому другому стандарту."@ru .
 
-<05> a skos:Collection ;
+<Traceability> a skos:Collection ;
         rdfs:label "Traceability" ;
         dct:description  "Statement defining traceability to a standard, including sequence of measurement standards and calibrations that is used to relate a measurement result to a reference (JCGM, 2012; reference no. 2.42)"@en ;
         skos:member 
 
-<05/unknown>,
-<05/traceableToInternationalStandard>,
-<05/traceableToOtherStandard>.
+<Traceability/unknown>,
+<Traceability/traceableToInternationalStandard>,
+<Traceability/traceableToOtherStandard>.

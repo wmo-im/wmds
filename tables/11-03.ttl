@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<03/unknown> a skos:Concept ;
+<TimeStampMeaning/unknown> a skos:Concept ;
     skos:notation "unknown" ;
     rdfs:label "(unknown)"@en ,
     "(inconnue)"@fr ,
@@ -14,7 +14,7 @@
     "El inicio y el final de l período descrito por la marca de tiempo son desconocidos."@es ,
     "Начало и конец периода, указанные меткой времени, неизвестны."@ru .
 
-<03/beginning> a skos:Concept ;
+<TimeStampMeaning/beginning> a skos:Concept ;
     skos:notation "beginning" ;
     rdfs:label "Beginning"@en ,
     "Début "@fr ,
@@ -25,7 +25,7 @@
     "Marca de tiempo que señala el comienzo de un período que abarca toda la escala hasta la siguiente marca de tiempo, a excepción de esta."@es ,
     "Метки времени указывают на конец периода, охватывающего диапазон до предыдущей отметки времени, но исключая предыдущую метку времени."@ru .
 
-<03/end> a skos:Concept ;
+<TimeStampMeaning/end> a skos:Concept ;
     skos:notation "end" ;
     rdfs:label "End"@en ,
     "Fin "@fr ,
@@ -36,7 +36,7 @@
     "Marca de tiempo que señala el final de un período que abarca toda la escala hasta la anterior marca de tiempo, a excepción de esta."@es ,
     "Метки времени указывают на середину периода, начинающегося в середине диапазона, определенного этой или предыдущей меткой времени, и заканчивающегося сразу перед серединой диапазона, определенного этой и последующей меткой времени."@ru .
 
-<03/middle> a skos:Concept ;
+<TimeStampMeaning/middle> a skos:Concept ;
     skos:notation "middle" ;
     rdfs:label "Middle"@en ,
     "Milieu"@fr ,
@@ -47,12 +47,12 @@
     "Marca de tiempo que señala la mitad de un período que comienza en el punto intermedio de la escala establecida entre esta marca y la anterior marca de tiempo y que finaliza justo antes del punto intermedio de la escala establecida entre esta marca y la siguiente marca de tiempo"@es ,
     "Метки времени указывают на середину периода, начинающегося в середине диапазона, определенного этой или предыдущей меткой времени, и заканчивающегося сразу перед серединой диапазона, определенного этой и последующей меткой времени."@ru .
 
-<03> a skos:Collection ;
+<TimeStampMeaning> a skos:Collection ;
         rdfs:label "Meaning of time stamp" ;
         dct:description  "Meaning of time stamp"@en ;
         skos:member 
 
-<03/unknown>,
-<03/beginning>,
-<03/end>,
-<03/middle>.
+<TimeStampMeaning/unknown>,
+<TimeStampMeaning/beginning>,
+<TimeStampMeaning/end>,
+<TimeStampMeaning/middle>.

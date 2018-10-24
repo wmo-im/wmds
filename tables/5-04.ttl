@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<04/operational> a skos:Concept ;
+<InstrumentOperatingStatus/operational> a skos:Concept ;
     skos:notation "operational" ;
     rdfs:label "Operational"@en ,
     "En service"@fr ,
@@ -14,7 +14,7 @@
     "El instrumento se declara operativo y está sujeto a mantenimiento rutinario"@es ,
     "Прибор заявлен готовым к работе и подлежит регламентному обслуживанию"@ru .
 
-<04/testing> a skos:Concept ;
+<InstrumentOperatingStatus/testing> a skos:Concept ;
     skos:notation "testing" ;
     rdfs:label "Testing / commissioning"@en ,
     "À l’essai/mise en service"@fr ,
@@ -25,7 +25,7 @@
     "El instrumento está instalado con fines de prueba; puede que la información facilitada no sea fidedigna"@es ,
     "Прибор установлен для целей тестирования, и предоставленная информация не может быть надежной"@ru .
 
-<04/inactive> a skos:Concept ;
+<InstrumentOperatingStatus/inactive> a skos:Concept ;
     skos:notation "inactive" ;
     rdfs:label "Not in service / inactive"@en ,
     "Hors service/inactif"@fr ,
@@ -36,11 +36,11 @@
     "El instrumento está instalado, pero actualmente no se encuentra en funcionamiento"@es ,
     "Прибор установлен, но в настоящее время не эксплуатируется"@ru .
 
-<04> a skos:Collection ;
+<InstrumentOperatingStatus> a skos:Collection ;
         rdfs:label "Instrument operating status" ;
         dct:description  "The status of an instrument with respect to its operation"@en ;
         skos:member 
 
-<04/operational>,
-<04/testing>,
-<04/inactive>.
+<InstrumentOperatingStatus/operational>,
+<InstrumentOperatingStatus/testing>,
+<InstrumentOperatingStatus/inactive>.

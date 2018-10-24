@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<02/good> a skos:Concept ;
+<QualityFlagOGC/good> a skos:Concept ;
     skos:notation "good" ;
     rdfs:label "Good"@en ,
     "Bonne"@fr ,
@@ -14,7 +14,7 @@
     "Se han examinado los datos y estos representan una medición fidedigna."@es ,
     "Данные были проверены и представляют надежное измерение."@ru .
 
-<02/poor> a skos:Concept ;
+<QualityFlagOGC/poor> a skos:Concept ;
     skos:notation "poor" ;
     rdfs:label "Suspect"@en ,
     "Douteuse"@fr ,
@@ -25,7 +25,7 @@
     "Los datos deben considerarse de baja calidad y pueden descartarse."@es ,
     "Данные следует рассматривать как данные низкого качества и могут быть забракованы."@ru .
 
-<02/suspect> a skos:Concept ;
+<QualityFlagOGC/suspect> a skos:Concept ;
     skos:notation "suspect" ;
     rdfs:label "Estimate"@en ,
     "Estimée"@fr ,
@@ -36,7 +36,7 @@
     "Los datos deben considerarse con reservas."@es ,
     "Данные следует обрабатывать в качестве подозрительных."@ru .
 
-<02/unchecked> a skos:Concept ;
+<QualityFlagOGC/unchecked> a skos:Concept ;
     skos:notation "unchecked" ;
     rdfs:label "Poor"@en ,
     "Mauvaise"@fr ,
@@ -47,7 +47,7 @@
     "Los datos no se han verificado por ningún método cualitativo ni cuantitativo."@es ,
     "Данные не были проверены посредством какого-либо метода определения качества или количества."@ru .
 
-<02/estimate> a skos:Concept ;
+<QualityFlagOGC/estimate> a skos:Concept ;
     skos:notation "estimate" ;
     rdfs:label "Unchecked"@en ,
     "Non vérifiée"@fr ,
@@ -58,7 +58,7 @@
     "El valor no se ha medido, se ha estimado."@es ,
     "Значение было скорее оценено, а не измерено."@ru .
 
-<02/missing> a skos:Concept ;
+<QualityFlagOGC/missing> a skos:Concept ;
     skos:notation "missing" ;
     rdfs:label "Missing"@en ,
     "Manquante"@fr ,
@@ -69,14 +69,14 @@
     "No hay datos."@es ,
     "Данные отсутствуют."@ru .
 
-<02> a skos:Collection ;
+<QualityFlagOGC> a skos:Collection ;
         rdfs:label "Quality Flag (From WaterML2)" ;
         dct:description  "Quality Flag (From WaterML2)"@en ;
         skos:member 
 
-<02/good>,
-<02/poor>,
-<02/suspect>,
-<02/unchecked>,
-<02/estimate>,
-<02/missing>.
+<QualityFlagOGC/good>,
+<QualityFlagOGC/poor>,
+<QualityFlagOGC/suspect>,
+<QualityFlagOGC/unchecked>,
+<QualityFlagOGC/estimate>,
+<QualityFlagOGC/missing>.

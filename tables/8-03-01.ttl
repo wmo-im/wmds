@@ -3,7 +3,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
 
-<01/good> a skos:Concept ;
+<QualityFlagCIMO/good> a skos:Concept ;
     skos:notation "good" ;
     rdfs:label "Good"@en ,
     "Bonne"@fr ,
@@ -14,7 +14,7 @@
     "Se han examinado los datos y estos representan una medición fidedigna."@es ,
     "Данные были проверены и представляют надежное измерение."@ru .
 
-<01/inconsistent> a skos:Concept ;
+<QualityFlagCIMO/inconsistent> a skos:Concept ;
     skos:notation "inconsistent" ;
     rdfs:label "Inconsistent"@en ,
     "Inconhérente"@fr ,
@@ -25,7 +25,7 @@
     "Se han examinado los datos y uno o más parámetros son incompatibles; la relación entre diferentes elementos no satisface los criterios definidos."@es ,
     "Данные были проверены и один или несколько параметров являются несогласующимися; соотношение между разными элементами не соответствует определенным критериям."@ru .
 
-<01/suspect> a skos:Concept ;
+<QualityFlagCIMO/suspect> a skos:Concept ;
     skos:notation "suspect" ;
     rdfs:label "Doubtful"@en ,
     "Douteuse"@fr ,
@@ -36,7 +36,7 @@
     "Los datos deben considerarse con reservas."@es ,
     "Данные следует обрабатывать в качестве подозрительных."@ru .
 
-<01/erroneous> a skos:Concept ;
+<QualityFlagCIMO/erroneous> a skos:Concept ;
     skos:notation "erroneous" ;
     rdfs:label "Wrong"@en ,
     "Incorrecte"@fr ,
@@ -47,7 +47,7 @@
     "Se han examinado los datos y se ha determinado que contienen errores."@es ,
     "Данные были проверены, и в них было определено наличие ошибок."@ru .
 
-<01/unchecked> a skos:Concept ;
+<QualityFlagCIMO/unchecked> a skos:Concept ;
     skos:notation "unchecked" ;
     rdfs:label "Not checked"@en ,
     "Non contrôlée"@fr ,
@@ -58,7 +58,7 @@
     "Los datos no se han verificado por ningún método cualitativo ni cuantitativo."@es ,
     "Данные не были проверены посредством какого-либо метода определения качества или количества."@ru .
 
-<01/changed> a skos:Concept ;
+<QualityFlagCIMO/changed> a skos:Concept ;
     skos:notation "changed" ;
     rdfs:label "Has been changed"@en ,
     "Modifiée"@fr ,
@@ -69,7 +69,7 @@
     "El valor original se ha sustituido por otro."@es ,
     "Первоначальное значение было заменено другим значением."@ru .
 
-<01/estimate> a skos:Concept ;
+<QualityFlagCIMO/estimate> a skos:Concept ;
     skos:notation "estimate" ;
     rdfs:label "Estimated"@en ,
     "Estimée"@fr ,
@@ -80,7 +80,7 @@
     "El valor no se ha medido, se ha estimado."@es ,
     "Значение было скорее оценено, а не измерено."@ru .
 
-<01/missing> a skos:Concept ;
+<QualityFlagCIMO/missing> a skos:Concept ;
     skos:notation "missing" ;
     rdfs:label "Missing value"@en ,
     "Valeur manquante"@fr ,
@@ -91,16 +91,16 @@
     "No hay datos."@es ,
     "Данные отсутствуют."@ru .
 
-<01> a skos:Collection ;
+<QualityFlagCIMO> a skos:Collection ;
         rdfs:label "Quality Flag (BUFR derived from CIMO guide)" ;
         dct:description  "Quality Flag (BUFR derived from CIMO guide)"@en ;
         skos:member 
 
-<01/good>,
-<01/inconsistent>,
-<01/suspect>,
-<01/erroneous>,
-<01/unchecked>,
-<01/changed>,
-<01/estimate>,
-<01/missing>.
+<QualityFlagCIMO/good>,
+<QualityFlagCIMO/inconsistent>,
+<QualityFlagCIMO/suspect>,
+<QualityFlagCIMO/erroneous>,
+<QualityFlagCIMO/unchecked>,
+<QualityFlagCIMO/changed>,
+<QualityFlagCIMO/estimate>,
+<QualityFlagCIMO/missing>.
