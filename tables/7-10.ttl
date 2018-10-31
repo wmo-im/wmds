@@ -1,0 +1,70 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<ReferenceTime/unknown> a skos:Concept ;
+    skos:notation "unknown" ;
+    rdfs:label "(unknown)"@en ,
+    "Inconnu"@fr ,
+    "(desconocida)"@es ,
+    "(неизвестно)"@ru ;
+    dct:description  "Source of reference time unknown"@en ,
+    "Source du temps de référence inconnue"@fr ,
+    "Fuente de la hora de referencia desconocida"@es ,
+    "Источник времени начала отсчета неизвестен."@ru .
+
+<ReferenceTime/gnss> a skos:Concept ;
+    skos:notation "gnss" ;
+    rdfs:label "Global navigation satellite system (GNSS)"@en ,
+    "Système mondial de navigation par satellite (GNSS)"@fr ,
+    "Sistema mundial de navegación por satélite (GNSS)"@es ,
+    "Глобальная навигационная ступниковая система (ГНСС)"@ru ;
+    dct:description  "A Global Navigation Satellite System (GNSS) signal controlled clock, which receives a signal that comes from the atomic clock of a GNSS constellation of satellites."@en ,
+    "Horloge pilotée par un système mondial de navigation par satellite (GNSS), qui reçoit un signal provenant de l’horloge atomique d’une constellation GNSS de satellites"@fr ,
+    "Reloj controlado por las señales del Sistema mundial de navegación por satélite, que recibe una señal procedente del reloj atómico de una constelación de satélites GNSS."@es ,
+    "Контролируемые радиосигналом часы Глобальной навигационной ступниковой системы (ГНСС), которые получают сигнал, исходящий из атомных часов группы спутников ГНСС."@ru .
+
+<ReferenceTime/manualComparison> a skos:Concept ;
+    skos:notation "manualComparison" ;
+    rdfs:label "Manual comparison"@en ,
+    "Comparaison manuelle"@fr ,
+    "Comparación manual"@es ,
+    "Неавтоматизированное сравнение"@ru ;
+    dct:description  "A regular procedure of manual comparison with a reference clock"@en ,
+    "Procédure régulière de comparaison manuelle avec une horloge de référence"@fr ,
+    "Procedimiento regular de comparación manual con un reloj de referencia."@es ,
+    "Регулярная процедура неавтоматизированного сравнения с эталонными часами."@ru .
+
+<ReferenceTime/radioClock> a skos:Concept ;
+    skos:notation "radioClock" ;
+    rdfs:label "Radio clock"@en ,
+    "Horloge radio-pilotée"@fr ,
+    "Reloj radiocontrolado"@es ,
+    "Радиочасы"@ru ;
+    dct:description  "A radio controlled clock, which receives a radio signal that comes from a reference/atomic clock."@en ,
+    "Horloge pilotée par radio, qui reçoit un signal radio provenant d’une horloge de référence ou d’une horloge atomique"@fr ,
+    "Reloj controlado por radio que recibe una señal de radio procedente de un reloj de referencia/atómico."@es ,
+    "Радиоконтролируемые часы, которые получают радиосигнал, исходящий от эталонных/атомных часов."@ru .
+
+<ReferenceTime/timeServer> a skos:Concept ;
+    skos:notation "timeServer" ;
+    rdfs:label "Time server (internet based)"@en ,
+    "Serveur de temps (sur Internet)"@fr ,
+    "Servidor temporal (basado en la Internet)"@es ,
+    "Сервер времени (на основе Интернета)"@ru ;
+    dct:description  "A server computer that reads the actual time from a reference/atomic clock and distributes this information to its clients using a computer network. The time server may be a local network time server or an internet time server."@en ,
+    "Serveur informatique qui recueille l’heure réelle auprès d’une horloge de référence ou d’une horloge atomique et diffuse cette information à ses clients à l’aide d’un réseau informatique. Le serveur de temps peut être un serveur local ou un serveur sur Internet."@fr ,
+    "Un servidor que lee el tiempo real de un reloj de referencia/atómico y distribuye la información a sus clientes mediante una red de ordenadores. El servidor temporal puede ser una red local o un servidor temporal de Internet."@es ,
+    "Компьютерный сервер, который считывает фактическое время с эталонных/атомных часов и распределяет эту информацию своим клиентам, используя компьютерную сеть. Сервером времени может быть сервер времени местной сети или сервер времени на основе Интернета."@ru .
+
+<ReferenceTime> a skos:Collection ;
+        rdfs:label "Reference time" ;
+        dct:description  "Time base to which date and time stamps refer"@en ;
+        skos:member 
+
+<ReferenceTime/unknown>,
+<ReferenceTime/gnss>,
+<ReferenceTime/manualComparison>,
+<ReferenceTime/radioClock>,
+<ReferenceTime/timeServer>.
