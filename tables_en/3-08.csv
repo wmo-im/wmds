@@ -1,0 +1,15 @@
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+1	voiceLandline			Voice/landline	Voice communications using a fixed terrestrial telecommunications network
+2	voiceCellular			Voice/cellular	Voice communications using a cellular or similar terrestrial telecommunications network
+3	voiceRadio			Voice/radio	"Voice communications using a direct radio system (such as VHF, HF SSB)"
+4	voiceSatellite			Voice/satellite	Voice communications using a satellite telecommunications network
+5	dataLandline			Data/landline	Data communications (digital or modem) using a fixed terrestrial telecommunications network (copper or fibre)
+6	dataCellular			Data/cellular	Data communications (digital or modem) using a cellular or similar terrestrial telecommunications network
+7	dataRadio			Data/radio	"Data communications (digital or modem) using a direct radio system (such as VHF, HF SSB, microwave)"
+8	dataSatGeostationary			Data/satellite/geostationary	Data communications (digital or modem) using a geostationary satellite service (such as METEOSAT)
+9	dataSatConstellation			Data/satellite/constellation	Data communications (digital or modem) using a satellite constellation service (such as IRIDIUM)
+10	dataSatIntermittent			Data/satellite/intermittent	Data communications (digital or modem) using a satellite service with intermittent cover (such as ARGOS)
+11	faxLandline			Fax/landline	Facsimile using fixed terrestrial telecommunications network
+12	faxCellular			Fax/cellular	Facsimile using a cellular or similar terrestrial telecommunications  network
+13	faxRadio			Fax/radio	"Facsimile using a direct radio system (such as VHF, HF SSB)"
+14	post			Post	"Physical transfer of information by postal, delivery service, courier service or similar"

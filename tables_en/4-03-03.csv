@@ -1,0 +1,8 @@
+﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+4-03-03-1,nilReason,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
+4-03-03-2,plains,,,Plains,Very low relief
+4-03-03-3,hollows,,,Hollows,"Low relief, tending to convergent form"
+4-03-03-4,rises,,,Rises,"Low relief, tending to divergent form"
+4-03-03-5,valleys,,,Valleys,"Medium relief, tending to convergent form"
+4-03-03-6,hills,,,Hills,"Medium relief, tending to divergent form"
+4-03-03-7,mountains,,,Mountains,High relief

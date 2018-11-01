@@ -1,0 +1,14 @@
+﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+1,landFixed,,,Land (fixed) ,"Station/platform on solid terrain, at fixed position"
+2,landMobile,,,Land (mobile),"Station/platform on solid terrain, moving around"
+3,seaFixed,,,Sea (fixed),"Station/platform at sea surface, at fixed position"
+4,seaMobile,,,Sea (mobile),"Station/platform at sea surface, moving around"
+5,airFixed,,,Air (fixed),"Airborne station/platform, at fixed position"
+6,airMobile,,,Air (mobile),"Airborne station/platform, moving around"
+7,underwaterFixed,,,Underwater (fixed),"Station/platform under water, at fixed horizontal position"
+8,underwaterMobile,,,Underwater (mobile),"Station/platform under water, moving around"
+9,landOnIce,,,Land (on ice) ,"Station/platform on ice-covered ground, moving with the ice"
+10,seaOnIce,,,Sea (on ice),"Station/platform on floating ice, moving with the ice"
+11,lakeRiverFixed,,,Lake/River (fixed),"Station/platform at lake/river surface, at fixed position"
+12,lakeRiverMobile,,,Lake/River (mobile),"station/platform at lake/river surface, moving around"
+13,spaceBased,,,Space-based,Satellite platform in orbit
