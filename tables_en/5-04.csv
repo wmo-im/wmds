@@ -1,0 +1,4 @@
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+1	operational			Operational	The instrument is declared operational and subject to routine maintenance
+2	testing			Testing / commissioning	The instrument is deployed for testing purposes and the information provided may not be reliable
+3	inactive			Not in service / inactive	The instrument is deployed but presently not in service

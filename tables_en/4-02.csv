@@ -1,0 +1,7 @@
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+02/04/2001	igbp			Surface cover types (IGBP)	International Geosphere-Biosphere Programme https://lpdaac.usgs.gov/products/modis_products_table/mcd12q1
+02/04/2002	umd			Surface cover types (UMD)	The University of Maryland Department of Geography generated global land cover classification collection from 1998. http://glcf.umd.edu/data/landcover/ 
+02/04/2003	laifpar			Surface cover types (LAI/fPAR)	Leaf Area Index (LAI) and Fractional Photosynthetically Active Radiation (FPAR). FPAR/LAI is the Fraction of Absorbed Photosynthetically Active radiation that a plant canopy absorbs for photosynthesis and growth in the 0.4 - 0.7nm spectral range.
+02/04/2004	npp			Surface cover types (NPP)	Net Primary Production (NPP) lansurfaced cover scheme
+02/04/2005	pft			Surface cover types (PFT)	Plant Functional Types (PFT) surface cover scheme
+02/04/2006	lccs			Surface cover types (LCCS)	Land cover classification scheme (LCCS)

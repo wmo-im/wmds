@@ -1,0 +1,15 @@
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+4-01-05-01	water			Water	None of the codes in the table are applicable in the context of this particular observation (nilReason)
+4-01-05-02	evergreenNeedleTrees			Evergreen Needleleaf trees	NA
+4-01-05-03	evergreenBroadleafTrees			Evergreen Broadleaf trees	NA
+4-01-05-04	deciduousNeedleafTrees			Deciduous Needleleaf trees	NA
+4-01-05-05	deciduousBroadleafTrees			Deciduous Broadleaf trees	NA
+4-01-05-06	shrub			Shrub	NA
+4-01-05-07	grass			Grass	NA
+4-01-05-08	cerealCrops			Cereal crops	NA
+4-01-05-09	broadLeafCrops			Broad-leaf crops	NA
+4-01-05-10	urbanBuiltUp			Urban and built-up	NA
+4-01-05-11	snowIce			Snow and ice	NA
+4-01-05-12	barren			Barren or sparse vegetation	NA
+4-01-05-13	unclassified			Unclassified	NA
+4-01-05-14	FillValue			Fill Value	NA
