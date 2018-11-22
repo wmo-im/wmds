@@ -264,7 +264,7 @@
 5,gawContributing,,>WIGOS>GAW>GAW Contributing networks,GAW Contributing networks,Networks contributing to GAW that have signed an agreement with GAW
 38,aline,,>WIGOS>GAW>GAW Contributing networks>ALINE,ALINE,ALINE Latin America Lidar Network
 34,castnet,,>WIGOS>GAW>GAW Contributing networks>CASTNET,CASTNET,Clean Air Status and Trends Network
-36,galionGAW,,>WIGOS>GAW>GAW Contributing networks>GALION,GALION,GAW Aerosol Lidar Observation Network
+36,galion,,>WIGOS>GAW>GAW Contributing networks>GALION,GALION,GAW Aerosol Lidar Observation Network
 37,galionAdnet,,>WIGOS>GAW>GAW Contributing networks>GALION>ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 35,galionEarlinet,,>WIGOS>GAW>GAW Contributing networks>GALION>EARLINET,EARLINET,EARLINET European Lidar
 41,galionMplnet,,>WIGOS>GAW>GAW Contributing networks>GALION>MPLNET,MPLNET,Micro-Pulse Lidar Network
