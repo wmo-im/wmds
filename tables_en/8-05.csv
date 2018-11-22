@@ -1,4 +1,4 @@
-#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
-05/08/2001	unknown			(unknown)	The traceability of the observations is unknown.
-05/08/2002	traceableToInternationalStandard			Traceable to international standard	The observations made are traceable to an internationally agreed standard.
-05/08/2003	traceableToOtherStandard			Traceable to non-international standard	The observations made are traceable to some other standard.
+#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+05.08.2001,unknown,,,(unknown),The traceability of the observations is unknown.
+05.08.2002,traceableToInternationalStandard,,,Traceable to international standard,The observations made are traceable to an internationally agreed standard.
+05.08.2003,traceableToOtherStandard,,,Traceable to non-international standard,The observations made are traceable to some other standard.

@@ -1,4 +1,4 @@
-#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
-03/06/2001	continuous			Continuous	"Sampling is done continuously, but not necessarily at regular time intervals. Sampling is integrating, i.e., none of the medium escapes observations."
-03/06/2002	discrete			Discrete	"Sampling is done at regular time intervals for certain sampling periods that are smaller than the time interval. Sampling is not integrating, i.e., parts of the medium escape observation. "
-03/06/2003	event			Event	Sampling is done at irregular time intervals. 
+#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+03.06.2001,continuous,,,Continuous,"Sampling is done continuously, but not necessarily at regular time intervals. Sampling is integrating, i.e., none of the medium escapes observations."
+03.06.2002,discrete,,,Discrete,"Sampling is done at regular time intervals for certain sampling periods that are smaller than the time interval. Sampling is not integrating, i.e., parts of the medium escape observation. "
+03.06.2003,event,,,Event,Sampling is done at irregular time intervals. 
