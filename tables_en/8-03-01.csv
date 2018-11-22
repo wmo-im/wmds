@@ -1,9 +1,9 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-8-03-01-1,good,,,Good,The data has been examined and represents a reliable measurement.
-8-03-01-2,inconsistent,,,Inconsistent,The data has been examined and one or more parameters are inconsistent; the relationship between different elements does not meet defined criteria.
-8-03-01-3,suspect,,,Doubtful,The data should be treated as suspect.
-8-03-01-4,erroneous,,,Wrong,The data has been examined and determined to contain errors
-8-03-01-5,unchecked,,,Not checked,The data has not been checked by any qualitative or quantitative method.
-8-03-01-6,changed,,,Has been changed,The original value has been replaced with another value.
-8-03-01-7,estimate,,,Estimated,The value has been estimated rather than measured.
-8-03-01-8,missing,,,Missing value,The data is missing.
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+8-03-01-1	good			Good	The data has been examined and represents a reliable measurement.
+8-03-01-2	inconsistent			Inconsistent	The data has been examined and one or more parameters are inconsistent; the relationship between different elements does not meet defined criteria.
+8-03-01-3	suspect			Doubtful	The data should be treated as suspect.
+8-03-01-4	erroneous			Wrong	The data has been examined and determined to contain errors
+8-03-01-5	unchecked			Not checked	The data has not been checked by any qualitative or quantitative method.
+8-03-01-6	changed			Has been changed	The original value has been replaced with another value.
+8-03-01-7	estimate			Estimated	The value has been estimated rather than measured.
+8-03-01-8	missing			Missing value	The data is missing.

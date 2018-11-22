@@ -1,9 +1,9 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-5-08-01-01,internationalStandard,,,International,NA
-5-08-01-02,primaryStandard,,,Primary,NA
-5-08-01-03,secondaryStandard,,,Secondary,NA
-5-08-01-04,referenceStandard,,,Reference,NA
-5-08-01-05,workingStandard,,,Working,NA
-5-08-01-06,transferStandard,,,Transfer,NA
-5-08-01-07,travellingStandard,,,Travelling,NA
-5-08-01-08,collectiveStandard,,,Collective,NA
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+5-08-01-01	internationalStandard			International	NA
+5-08-01-02	primaryStandard			Primary	NA
+5-08-01-03	secondaryStandard			Secondary	NA
+5-08-01-04	referenceStandard			Reference	NA
+5-08-01-05	workingStandard			Working	NA
+5-08-01-06	transferStandard			Transfer	NA
+5-08-01-07	travellingStandard			Travelling	NA
+5-08-01-08	collectiveStandard			Collective	NA

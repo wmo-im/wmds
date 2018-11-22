@@ -1,8 +1,8 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-4-03-01-1,nilReason,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
-4-03-01-2,hilltop,,,Hilltop,Higher than all or nearly all of the surrounding land or subsurface.
-4-03-01-3,ridge,,,Ridge,"Higher than all or nearly all of the surrounding land or subsurface, but elongated and extending beyond a 50 m radius."
-4-03-01-4,slope,,,Slope,"Neither crest nor depression or valley bottom, and with a slope more than 3%."
-4-03-01-5,flat,,,Flat,"Slope less than 3% and not a top, ridge, valley bottom or depression. Use for plains."
-4-03-01-6,valleyBottom,,,Valley bottom,"Lower than nearly all of surrounding land or subsurface, but water can flow out."
-4-03-01-7,depression,,,Depression,"Lower than surrounding land or subsurface, with no above-ground outlet for water."
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+4-03-01-1	nilReason			Not applicable	None of the codes in the table are applicable in the context of this particular observation (nilReason)
+4-03-01-2	hilltop			Hilltop	Higher than all or nearly all of the surrounding land or subsurface.
+4-03-01-3	ridge			Ridge	"Higher than all or nearly all of the surrounding land or subsurface, but elongated and extending beyond a 50 m radius."
+4-03-01-4	slope			Slope	"Neither crest nor depression or valley bottom, and with a slope more than 3%."
+4-03-01-5	flat			Flat	"Slope less than 3% and not a top, ridge, valley bottom or depression. Use for plains."
+4-03-01-6	valleyBottom			Valley bottom	"Lower than nearly all of surrounding land or subsurface, but water can flow out."
+4-03-01-7	depression			Depression	"Lower than surrounding land or subsurface, with no above-ground outlet for water."

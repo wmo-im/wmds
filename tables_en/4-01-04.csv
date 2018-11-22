@@ -1,11 +1,11 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-4-01-04-01,notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
-4-01-04-02,water,,,Water,NA
-4-01-04-03,evergreenNeedleleafVegetation,,,Evergreen needleleaf vegetation,NA
-4-01-04-04,evergreenBroadleafVegetation,,,Evergreen broadleaf vegetation,NA
-4-01-04-05,deciduousNeedleleafVegetation,,,Deciduous needleleaf vegetation,NA
-4-01-04-06,deciduousBroadleafVegetation,,,Deciduous broadleaf vegetation,NA
-4-01-04-07,annualBroadleafVegetation,,,Annual broadleaf vegetation,NA
-4-01-04-07,nonVegetated,,,Non-vegetated land,NA
-4-01-04-09,urban,,,Urban,NA
-4-01-04-10,unclassified,,,Unclassified,NA
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+4-01-04-01	notApplicable			Not applicable	None of the codes in the table are applicable in the context of this particular observation (nilReason)
+4-01-04-02	water			Water	NA
+4-01-04-03	evergreenNeedleleafVegetation			Evergreen needleleaf vegetation	NA
+4-01-04-04	evergreenBroadleafVegetation			Evergreen broadleaf vegetation	NA
+4-01-04-05	deciduousNeedleleafVegetation			Deciduous needleleaf vegetation	NA
+4-01-04-06	deciduousBroadleafVegetation			Deciduous broadleaf vegetation	NA
+4-01-04-07	annualBroadleafVegetation			Annual broadleaf vegetation	NA
+4-01-04-07	nonVegetated			Non-vegetated land	NA
+4-01-04-09	urban			Urban	NA
+4-01-04-10	unclassified			Unclassified	NA

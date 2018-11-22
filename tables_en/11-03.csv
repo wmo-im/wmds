@@ -1,5 +1,5 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-1,unknown,,,(unknown),The beginning and end of the period described by the timestamp are unknown.
-2,beginning,,,Beginning,Time stamps indicate the end of a period covering the range up to but excluding the preceding time stamp
-3,end,,,End,Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp.
-4,middle,,,Middle,Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp.
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+1	unknown			(unknown)	The beginning and end of the period described by the timestamp are unknown.
+2	beginning			Beginning	Time stamps indicate the end of a period covering the range up to but excluding the preceding time stamp
+3	end			End	Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp.
+4	middle			Middle	Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp.

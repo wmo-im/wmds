@@ -1,3 +1,3 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-5-14-01,primary,,,Primary,The primary or official observation of the observed variable 
-5-14-02,additional,,,Additional,Additional or supplemented observation of the observed variable
+#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+5-14-01	primary			Primary	The primary or official observation of the observed variable 
+5-14-02	additional			Additional	Additional or supplemented observation of the observed variable
