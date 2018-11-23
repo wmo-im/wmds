@@ -1,0 +1,4522 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<ProgramAffiliation/coSponsored> a skos:Concept ;
+    skos:notation "coSponsored" ;
+    rdfs:label "Co-sponsored"@en ,
+    "Coparrainage"@fr ,
+    "Copatrocinado"@es ,
+    "Совместно спонсируемая"@ru ;
+    dct:description  "WMO contributions to co-sponsored observing systems"@en ,
+    "Contributions de l’OMM aux systèmes d’observation coparrainés"@fr ,
+    "Contribuciones de la OMM a los sistemas de observación que copatrocina"@es ,
+    "Вклады ВМО в совместно спонсируемые системы наблюдений"@ru .
+
+<ProgramAffiliation/gcos> a skos:Concept ;
+    skos:notation "gcos" ;
+    rdfs:label "GCOS"@en ,
+    "SMOC"@fr ,
+    "SMOC"@es ,
+    "ГСНК"@ru ;
+    dct:description  "Global Climate Observing System"@en ,
+    "Système mondial d'observation du climat"@fr ,
+    "Sistema Mundial de Observación del Clima"@es ,
+    "Глобальная система наблюдений за климатом"@ru .
+
+<ProgramAffiliation/gruan> a skos:Concept ;
+    skos:notation "gruan" ;
+    rdfs:label "GRUAN"@en ,
+    "GRUAN"@fr ,
+    "GRUAN"@es ,
+    "ГРУАН"@ru ;
+    dct:description  "GCOS Reference Upper-Air Network"@en ,
+    "Réseau aérologique de référence du SMOC"@fr ,
+    "Red de referencia de observación en altitud del SMOC"@es ,
+    "Опорная аэрологическая сеть ГСНК"@ru .
+
+<ProgramAffiliation/gsn> a skos:Concept ;
+    skos:notation "gsn" ;
+    rdfs:label "GSN"@en ,
+    "GSN"@fr ,
+    "ROSS"@es ,
+    "ПСН"@ru ;
+    dct:description  "GCOS Surface Network"@en ,
+    "Réseau de stations d'observation en surface pour le SMOC"@fr ,
+    "Red de observación en superficie del SMOC"@es ,
+    "Наземная сеть ГСНК"@ru .
+
+<ProgramAffiliation/guan> a skos:Concept ;
+    skos:notation "guan" ;
+    rdfs:label "GUAN"@en ,
+    "GUAN"@fr ,
+    "ROAS"@es ,
+    "ГУАН"@ru ;
+    dct:description  "GCOS Upper-Air Network"@en ,
+    "Réseau de stations d'observation en altitude pour le SMOC"@fr ,
+    "Red de observación en altitud del SMOC"@es ,
+    "Аэрологическая сеть ГСНК"@ru .
+
+<ProgramAffiliation/goos> a skos:Concept ;
+    skos:notation "goos" ;
+    rdfs:label "GOOS"@en ,
+    "GOOS"@fr ,
+    "SMOO"@es ,
+    "ГСНО"@ru ;
+    dct:description  "Global Ocean Observing System"@en ,
+    "Système mondial d'observation de l'océan"@fr ,
+    "Sistema Mundial de Observación de los Océanos"@es ,
+    "Глобальная система наблюдений за океаном"@ru .
+
+<ProgramAffiliation/argo> a skos:Concept ;
+    skos:notation "argo" ;
+    rdfs:label "Argo"@en ,
+    "Argo"@fr ,
+    "Argo"@es ,
+    "Арго"@ru ;
+    dct:description  "IOC/WMO Argo program of drifting sub-surface floats"@en ,
+    "Programme Argo (COI/OMM) de flotteurs profonds dérivants"@fr ,
+    "Programa Argo de boyas subsuperficiales a la deriva impulsado por la COI y la OMM"@es ,
+    "Программа Арго МОК/ВМО подповерхностных дрейфующих буев"@ru .
+
+<ProgramAffiliation/argoArgentina> a skos:Concept ;
+    skos:notation "argoArgentina" ;
+    rdfs:label "ARGO ARGENTINA"@en ,
+    "ARGO ARGENTINA"@fr ,
+    "ARGO ARGENTINA"@es ,
+    "ARGO ARGENTINA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoAustralia> a skos:Concept ;
+    skos:notation "argoAustralia" ;
+    rdfs:label "ARGO AUSTRALIA"@en ,
+    "ARGO AUSTRALIA"@fr ,
+    "ARGO AUSTRALIA"@es ,
+    "ARGO AUSTRALIA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/aroEqAustralia> a skos:Concept ;
+    skos:notation "aroEqAustralia" ;
+    rdfs:label "ARGO AUSTRALIA EQ."@en ,
+    "ARGO AUSTRALIA EQ."@fr ,
+    "ARGO AUSTRALIA EQ."@es ,
+    "ARGO AUSTRALIA EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoAWI> a skos:Concept ;
+    skos:notation "argoAWI" ;
+    rdfs:label "ARGO AWI"@en ,
+    "ARGO AWI"@fr ,
+    "ARGO AWI"@es ,
+    "ARGO AWI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoBrazil> a skos:Concept ;
+    skos:notation "argoBrazil" ;
+    rdfs:label "ARGO BRAZIL"@en ,
+    "ARGO BRAZIL"@fr ,
+    "ARGO BRAZIL"@es ,
+    "ARGO BRAZIL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoBrazilNavy> a skos:Concept ;
+    skos:notation "argoBrazilNavy" ;
+    rdfs:label "ARGO BRAZIL NAVY"@en ,
+    "ARGO BRAZIL NAVY"@fr ,
+    "ARGO BRAZIL NAVY"@es ,
+    "ARGO BRAZIL NAVY"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoBSH> a skos:Concept ;
+    skos:notation "argoBSH" ;
+    rdfs:label "ARGO BSH"@en ,
+    "ARGO BSH"@fr ,
+    "ARGO BSH"@es ,
+    "ARGO BSH"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCanada> a skos:Concept ;
+    skos:notation "argoCanada" ;
+    rdfs:label "ARGO CANADA"@en ,
+    "ARGO CANADA"@fr ,
+    "ARGO CANADA"@es ,
+    "ARGO CANADA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoChile> a skos:Concept ;
+    skos:notation "argoChile" ;
+    rdfs:label "ARGO CHILE"@en ,
+    "ARGO CHILE"@fr ,
+    "ARGO CHILE"@es ,
+    "ARGO CHILE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoChina> a skos:Concept ;
+    skos:notation "argoChina" ;
+    rdfs:label "ARGO CHINA"@en ,
+    "ARGO CHINA"@fr ,
+    "ARGO CHINA"@es ,
+    "ARGO CHINA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoChinaSOA> a skos:Concept ;
+    skos:notation "argoChinaSOA" ;
+    rdfs:label "ARGO CHINA SOA"@en ,
+    "ARGO CHINA SOA"@fr ,
+    "ARGO CHINA SOA"@es ,
+    "ARGO CHINA SOA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCostaRica> a skos:Concept ;
+    skos:notation "argoCostaRica" ;
+    rdfs:label "ARGO COSTA RICA"@en ,
+    "ARGO COSTA RICA"@fr ,
+    "ARGO COSTA RICA"@es ,
+    "ARGO COSTA RICA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoDenmark> a skos:Concept ;
+    skos:notation "argoDenmark" ;
+    rdfs:label "ARGO DENMARK"@en ,
+    "ARGO DENMARK"@fr ,
+    "ARGO DENMARK"@es ,
+    "ARGO DENMARK"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEcuador> a skos:Concept ;
+    skos:notation "argoEcuador" ;
+    rdfs:label "ARGO ECUADOR"@en ,
+    "ARGO ECUADOR"@fr ,
+    "ARGO ECUADOR"@es ,
+    "ARGO ECUADOR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqAOML> a skos:Concept ;
+    skos:notation "argoEqAOML" ;
+    rdfs:label "ARGO EQ. AOML"@en ,
+    "ARGO EQ. AOML"@fr ,
+    "ARGO EQ. AOML"@es ,
+    "ARGO EQ. AOML"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqAWI> a skos:Concept ;
+    skos:notation "argoEqAWI" ;
+    rdfs:label "ARGO EQ. AWI"@en ,
+    "ARGO EQ. AWI"@fr ,
+    "ARGO EQ. AWI"@es ,
+    "ARGO EQ. AWI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqBSH> a skos:Concept ;
+    skos:notation "argoEqBSH" ;
+    rdfs:label "ARGO EQ. BSH"@en ,
+    "ARGO EQ. BSH"@fr ,
+    "ARGO EQ. BSH"@es ,
+    "ARGO EQ. BSH"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqChina> a skos:Concept ;
+    skos:notation "argoEqChina" ;
+    rdfs:label "ARGO EQ. CHINA"@en ,
+    "ARGO EQ. CHINA"@fr ,
+    "ARGO EQ. CHINA"@es ,
+    "ARGO EQ. CHINA "@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqESPOMZ> a skos:Concept ;
+    skos:notation "argoEqESPOMZ" ;
+    rdfs:label "ARGO EQ. ESP-OMZ"@en ,
+    "ARGO EQ. ESP-OMZ"@fr ,
+    "ARGO EQ. ESP-OMZ"@es ,
+    "ARGO EQ. ESP-OMZ"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqFERHRI> a skos:Concept ;
+    skos:notation "argoEqFERHRI" ;
+    rdfs:label "ARGO EQ. FERHRI"@en ,
+    "ARGO EQ. FERHRI"@fr ,
+    "ARGO EQ. FERHRI"@es ,
+    "ARGO EQ. FERHRI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqFSU> a skos:Concept ;
+    skos:notation "argoEqFSU" ;
+    rdfs:label "ARGO EQ. FSU"@en ,
+    "ARGO EQ. FSU"@fr ,
+    "ARGO EQ. FSU"@es ,
+    "ARGO EQ. FSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqHNFRI> a skos:Concept ;
+    skos:notation "argoEqHNFRI" ;
+    rdfs:label "ARGO EQ. HNFRI"@en ,
+    "ARGO EQ. HNFRI"@fr ,
+    "ARGO EQ. HNFRI"@es ,
+    "ARGO EQ. HNFRI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqIFM> a skos:Concept ;
+    skos:notation "argoEqIFM" ;
+    rdfs:label "ARGO EQ. IFM"@en ,
+    "ARGO EQ. IFM"@fr ,
+    "ARGO EQ. IFM"@es ,
+    "ARGO EQ. IFM"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqIFM2> a skos:Concept ;
+    skos:notation "argoEqIFM2" ;
+    rdfs:label "ARGO EQ. IFM2"@en ,
+    "ARGO EQ. IFM2"@fr ,
+    "ARGO EQ. IFM2"@es ,
+    "ARGO EQ. IFM2"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqIreland> a skos:Concept ;
+    skos:notation "argoEqIreland" ;
+    rdfs:label "ARGO EQ. IRELAND"@en ,
+    "ARGO EQ. IRELAND"@fr ,
+    "ARGO EQ. IRELAND"@es ,
+    "ARGO EQ. IRELAND"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqJamstec> a skos:Concept ;
+    skos:notation "argoEqJamstec" ;
+    rdfs:label "ARGO EQ. JAMSTEC"@en ,
+    "ARGO EQ. JAMSTEC"@fr ,
+    "ARGO EQ. JAMSTEC"@es ,
+    "ARGO EQ. JAMSTEC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqJMA> a skos:Concept ;
+    skos:notation "argoEqJMA" ;
+    rdfs:label "ARGO EQ. JMA"@en ,
+    "ARGO EQ. JMA"@fr ,
+    "ARGO EQ. JMA"@es ,
+    "ARGO EQ. JMA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqNavoceano> a skos:Concept ;
+    skos:notation "argoEqNavoceano" ;
+    rdfs:label "ARGO EQ. NAVOCEANO"@en ,
+    "ARGO EQ. NAVOCEANO"@fr ,
+    "ARGO EQ. NAVOCEANO"@es ,
+    "ARGO EQ. NAVOCEANO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqNDBC> a skos:Concept ;
+    skos:notation "argoEqNDBC" ;
+    rdfs:label "ARGO EQ. NDBC"@en ,
+    "ARGO EQ. NDBC"@fr ,
+    "ARGO EQ. NDBC"@es ,
+    "ARGO EQ. NDBC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqNIPR> a skos:Concept ;
+    skos:notation "argoEqNIPR" ;
+    rdfs:label "ARGO EQ. NIPR"@en ,
+    "ARGO EQ. NIPR"@fr ,
+    "ARGO EQ. NIPR"@es ,
+    "ARGO EQ. NIPR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqNRIFS> a skos:Concept ;
+    skos:notation "argoEqNRIFS" ;
+    rdfs:label "ARGO EQ. NRIFS"@en ,
+    "ARGO EQ. NRIFS"@fr ,
+    "ARGO EQ. NRIFS"@es ,
+    "ARGO EQ. NRIFS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqOIST> a skos:Concept ;
+    skos:notation "argoEqOIST" ;
+    rdfs:label "ARGO EQ. OIST"@en ,
+    "ARGO EQ. OIST"@fr ,
+    "ARGO EQ. OIST"@es ,
+    "ARGO EQ. OIST"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqORI> a skos:Concept ;
+    skos:notation "argoEqORI" ;
+    rdfs:label "ARGO EQ. ORI"@en ,
+    "ARGO EQ. ORI"@fr ,
+    "ARGO EQ. ORI"@es ,
+    "ARGO EQ. ORI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqPMEL> a skos:Concept ;
+    skos:notation "argoEqPMEL" ;
+    rdfs:label "ARGO EQ. PMEL"@en ,
+    "ARGO EQ. PMEL"@fr ,
+    "ARGO EQ. PMEL"@es ,
+    "ARGO EQ. PMEL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqPomme> a skos:Concept ;
+    skos:notation "argoEqPomme" ;
+    rdfs:label "ARGO EQ. POMME"@en ,
+    "ARGO EQ. POMME"@fr ,
+    "ARGO EQ. POMME"@es ,
+    "ARGO EQ. POMME"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqSage> a skos:Concept ;
+    skos:notation "argoEqSage" ;
+    rdfs:label "ARGO EQ. SAGE"@en ,
+    "ARGO EQ. SAGE"@fr ,
+    "ARGO EQ. SAGE"@es ,
+    "ARGO EQ. SAGE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqTNFRI> a skos:Concept ;
+    skos:notation "argoEqTNFRI" ;
+    rdfs:label "ARGO EQ. TNFRI"@en ,
+    "ARGO EQ. TNFRI"@fr ,
+    "ARGO EQ. TNFRI"@es ,
+    "ARGO EQ. TNFRI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqTSK> a skos:Concept ;
+    skos:notation "argoEqTSK" ;
+    rdfs:label "ARGO EQ. TSK"@en ,
+    "ARGO EQ. TSK"@fr ,
+    "ARGO EQ. TSK"@es ,
+    "ARGO EQ. TSK"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqTU> a skos:Concept ;
+    skos:notation "argoEqTU" ;
+    rdfs:label "ARGO EQ. TU"@en ,
+    "ARGO EQ. TU"@fr ,
+    "ARGO EQ. TU"@es ,
+    "ARGO EQ. TU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqUH> a skos:Concept ;
+    skos:notation "argoEqUH" ;
+    rdfs:label "ARGO EQ. UH"@en ,
+    "ARGO EQ. UH"@fr ,
+    "ARGO EQ. UH"@es ,
+    "ARGO EQ. UH"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqUHH> a skos:Concept ;
+    skos:notation "argoEqUHH" ;
+    rdfs:label "ARGO EQ. UHH"@en ,
+    "ARGO EQ. UHH"@fr ,
+    "ARGO EQ. UHH"@es ,
+    "ARGO EQ. UHH"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqUMOSU> a skos:Concept ;
+    skos:notation "argoEqUMOSU" ;
+    rdfs:label "ARGO EQ. UM-OSU"@en ,
+    "ARGO EQ. UM-OSU"@fr ,
+    "ARGO EQ. UM-OSU"@es ,
+    "ARGO EQ. UM-OSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqVocals> a skos:Concept ;
+    skos:notation "argoEqVocals" ;
+    rdfs:label "ARGO EQ. VOCALS"@en ,
+    "ARGO EQ. VOCALS"@fr ,
+    "ARGO EQ. VOCALS"@es ,
+    "ARGO EQ. VOCALS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEqWHOI> a skos:Concept ;
+    skos:notation "argoEqWHOI" ;
+    rdfs:label "ARGO EQ. WHOI"@en ,
+    "ARGO EQ. WHOI"@fr ,
+    "ARGO EQ. WHOI"@es ,
+    "ARGO EQ. WHOI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoFinland> a skos:Concept ;
+    skos:notation "argoFinland" ;
+    rdfs:label "ARGO FINLAND"@en ,
+    "ARGO FINLAND"@fr ,
+    "ARGO FINLAND"@es ,
+    "ARGO FINLAND"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoGabon> a skos:Concept ;
+    skos:notation "argoGabon" ;
+    rdfs:label "ARGO GABON"@en ,
+    "ARGO GABON"@fr ,
+    "ARGO GABON"@es ,
+    "ARGO GABON"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoGermany> a skos:Concept ;
+    skos:notation "argoGermany" ;
+    rdfs:label "ARGO GERMANY"@en ,
+    "ARGO GERMANY"@fr ,
+    "ARGO GERMANY"@es ,
+    "ARGO GERMANY"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoGreece> a skos:Concept ;
+    skos:notation "argoGreece" ;
+    rdfs:label "ARGO GREECE"@en ,
+    "ARGO GREECE"@fr ,
+    "ARGO GREECE"@es ,
+    "ARGO GREECE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoIFMGeomar> a skos:Concept ;
+    skos:notation "argoIFMGeomar" ;
+    rdfs:label "ARGO IFM-GEOMAR"@en ,
+    "ARGO IFM-GEOMAR"@fr ,
+    "ARGO IFM-GEOMAR"@es ,
+    "ARGO IFM-GEOMAR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoIndia> a skos:Concept ;
+    skos:notation "argoIndia" ;
+    rdfs:label "ARGO INDIA"@en ,
+    "ARGO INDIA"@fr ,
+    "ARGO INDIA"@es ,
+    "ARGO INDIA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoIreland> a skos:Concept ;
+    skos:notation "argoIreland" ;
+    rdfs:label "ARGO IRELAND"@en ,
+    "ARGO IRELAND"@fr ,
+    "ARGO IRELAND"@es ,
+    "ARGO IRELAND"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoItaly> a skos:Concept ;
+    skos:notation "argoItaly" ;
+    rdfs:label "ARGO ITALY"@en ,
+    "ARGO ITALY"@fr ,
+    "ARGO ITALY"@es ,
+    "ARGO ITALY"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoJamstec> a skos:Concept ;
+    skos:notation "argoJamstec" ;
+    rdfs:label "ARGO JAMSTEC"@en ,
+    "ARGO JAMSTEC"@fr ,
+    "ARGO JAMSTEC"@es ,
+    "ARGO JAMSTEC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoJMA> a skos:Concept ;
+    skos:notation "argoJMA" ;
+    rdfs:label "ARGO JMA"@en ,
+    "ARGO JMA"@fr ,
+    "ARGO JMA"@es ,
+    "ARGO JMA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoKenya> a skos:Concept ;
+    skos:notation "argoKenya" ;
+    rdfs:label "ARGO KENYA"@en ,
+    "ARGO KENYA"@fr ,
+    "ARGO KENYA"@es ,
+    "ARGO KENYA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoKiost> a skos:Concept ;
+    skos:notation "argoKiost" ;
+    rdfs:label "ARGO KIOST"@en ,
+    "ARGO KIOST"@fr ,
+    "ARGO KIOST"@es ,
+    "ARGO KIOST"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoLebanon> a skos:Concept ;
+    skos:notation "argoLebanon" ;
+    rdfs:label "ARGO LEBANON"@en ,
+    "ARGO LEBANON"@fr ,
+    "ARGO LEBANON"@es ,
+    "ARGO LEBANON"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoMauritius> a skos:Concept ;
+    skos:notation "argoMauritius" ;
+    rdfs:label "ARGO MAURITIUS"@en ,
+    "ARGO MAURITIUS"@fr ,
+    "ARGO MAURITIUS"@es ,
+    "ARGO MAURITIUS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoMexCoUS> a skos:Concept ;
+    skos:notation "argoMexCoUS" ;
+    rdfs:label "ARGO MEX-CO-US"@en ,
+    "ARGO MEX-CO-US"@fr ,
+    "ARGO MEX-CO-US"@es ,
+    "ARGO MEX-CO-US"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoMexico> a skos:Concept ;
+    skos:notation "argoMexico" ;
+    rdfs:label "ARGO MEXICO"@en ,
+    "ARGO MEXICO"@fr ,
+    "ARGO MEXICO"@es ,
+    "ARGO MEXICO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoNetherlands> a skos:Concept ;
+    skos:notation "argoNetherlands" ;
+    rdfs:label "ARGO NETHERLANDS"@en ,
+    "ARGO NETHERLANDS"@fr ,
+    "ARGO NETHERLANDS"@es ,
+    "ARGO NETHERLANDS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoNewZealand> a skos:Concept ;
+    skos:notation "argoNewZealand" ;
+    rdfs:label "ARGO NEW ZEALAND"@en ,
+    "ARGO NEW ZEALAND"@fr ,
+    "ARGO NEW ZEALAND"@es ,
+    "ARGO NEW ZEALAND"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoMIMRKMA> a skos:Concept ;
+    skos:notation "argoMIMRKMA" ;
+    rdfs:label "ARGO NIMR/KMA"@en ,
+    "ARGO NIMR/KMA"@fr ,
+    "ARGO NIMR/KMA"@es ,
+    "ARGO NIMR/KMA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoNorway> a skos:Concept ;
+    skos:notation "argoNorway" ;
+    rdfs:label "ARGO NORWAY"@en ,
+    "ARGO NORWAY"@fr ,
+    "ARGO NORWAY"@es ,
+    "ARGO NORWAY"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoPMEL> a skos:Concept ;
+    skos:notation "argoPMEL" ;
+    rdfs:label "ARGO PMEL"@en ,
+    "ARGO PMEL"@fr ,
+    "ARGO PMEL"@es ,
+    "ARGO PMEL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoPoland> a skos:Concept ;
+    skos:notation "argoPoland" ;
+    rdfs:label "ARGO POLAND"@en ,
+    "ARGO POLAND"@fr ,
+    "ARGO POLAND"@es ,
+    "ARGO POLAND"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoRussia> a skos:Concept ;
+    skos:notation "argoRussia" ;
+    rdfs:label "ARGO RUSSIA"@en ,
+    "ARGO RUSSIA"@fr ,
+    "ARGO RUSSIA"@es ,
+    "ARGO RUSSIA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoSaudiArabia> a skos:Concept ;
+    skos:notation "argoSaudiArabia" ;
+    rdfs:label "ARGO SAUDI ARABIA"@en ,
+    "ARGO SAUDI ARABIA"@fr ,
+    "ARGO SAUDI ARABIA"@es ,
+    "ARGO SAUDI ARABIA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoSIO> a skos:Concept ;
+    skos:notation "argoSIO" ;
+    rdfs:label "ARGO SIO"@en ,
+    "ARGO SIO"@fr ,
+    "ARGO SIO"@es ,
+    "ARGO SIO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoSIOEqASIRI> a skos:Concept ;
+    skos:notation "argoSIOEqASIRI" ;
+    rdfs:label "ARGO SIO EQ (ASIRI)"@en ,
+    "ARGO SIO EQ (ASIRI)"@fr ,
+    "ARGO SIO EQ (ASIRI)"@es ,
+    "ARGO SIO EQ (ASIRI)"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoSIOEqOKMC> a skos:Concept ;
+    skos:notation "argoSIOEqOKMC" ;
+    rdfs:label "ARGO SIO EQ. (OKMC)"@en ,
+    "ARGO SIO EQ. (OKMC)"@fr ,
+    "ARGO SIO EQ. (OKMC)"@es ,
+    "ARGO SIO EQ. (OKMC)"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoSouthAfrica> a skos:Concept ;
+    skos:notation "argoSouthAfrica" ;
+    rdfs:label "ARGO SOUTH AFRICA"@en ,
+    "ARGO SOUTH AFRICA"@fr ,
+    "ARGO SOUTH AFRICA"@es ,
+    "ARGO SOUTH AFRICA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoSpain> a skos:Concept ;
+    skos:notation "argoSpain" ;
+    rdfs:label "ARGO SPAIN"@en ,
+    "ARGO SPAIN"@fr ,
+    "ARGO SPAIN"@es ,
+    "ARGO SPAIN"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoSriLanka> a skos:Concept ;
+    skos:notation "argoSriLanka" ;
+    rdfs:label "ARGO SRI LANKA"@en ,
+    "ARGO SRI LANKA"@fr ,
+    "ARGO SRI LANKA"@es ,
+    "ARGO SRI LANKA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoTWREng> a skos:Concept ;
+    skos:notation "argoTWREng" ;
+    rdfs:label "ARGO TWR ENGINEERING"@en ,
+    "ARGO TWR ENGINEERING"@fr ,
+    "ARGO TWR ENGINEERING"@es ,
+    "ARGO TWR ENGINEERING"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUK> a skos:Concept ;
+    skos:notation "argoUK" ;
+    rdfs:label "ARGO UK"@en ,
+    "ARGO UK"@fr ,
+    "ARGO UK"@es ,
+    "ARGO UK"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUKBIO> a skos:Concept ;
+    skos:notation "argoUKBIO" ;
+    rdfs:label "ARGO UK BIO"@en ,
+    "ARGO UK BIO"@fr ,
+    "ARGO UK BIO"@es ,
+    "ARGO UK BIO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUKEq> a skos:Concept ;
+    skos:notation "argoUKEq" ;
+    rdfs:label "ARGO UK EQ."@en ,
+    "ARGO UK EQ."@fr ,
+    "ARGO UK EQ."@es ,
+    "ARGO UK EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUW> a skos:Concept ;
+    skos:notation "argoUW" ;
+    rdfs:label "ARGO UW"@en ,
+    "ARGO UW"@fr ,
+    "ARGO UW"@es ,
+    "ARGO UW"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUWEq> a skos:Concept ;
+    skos:notation "argoUWEq" ;
+    rdfs:label "ARGO UW EQ."@en ,
+    "ARGO UW EQ."@fr ,
+    "ARGO UW EQ."@es ,
+    "ARGO UW EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUWAplEq> a skos:Concept ;
+    skos:notation "argoUWAplEq" ;
+    rdfs:label "ARGO UW-APL EQ."@en ,
+    "ARGO UW-APL EQ."@fr ,
+    "ARGO UW-APL EQ."@es ,
+    "ARGO UW-APL EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUWMbariEq> a skos:Concept ;
+    skos:notation "argoUWMbariEq" ;
+    rdfs:label "ARGO UW-MBARI EQ."@en ,
+    "ARGO UW-MBARI EQ."@fr ,
+    "ARGO UW-MBARI EQ."@es ,
+    "ARGO UW-MBARI EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUWSoccomEq> a skos:Concept ;
+    skos:notation "argoUWSoccomEq" ;
+    rdfs:label "ARGO UW-SOCCOM EQ."@en ,
+    "ARGO UW-SOCCOM EQ."@fr ,
+    "ARGO UW-SOCCOM EQ."@es ,
+    "ARGO UW-SOCCOM EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUWSpursEq> a skos:Concept ;
+    skos:notation "argoUWSpursEq" ;
+    rdfs:label "ARGO UW-SPURS  EQ."@en ,
+    "ARGO UW-SPURS  EQ."@fr ,
+    "ARGO UW-SPURS  EQ."@es ,
+    "ARGO UW-SPURS EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoUWUAEq> a skos:Concept ;
+    skos:notation "argoUWUAEq" ;
+    rdfs:label "ARGO UW-UA EQ."@en ,
+    "ARGO UW-UA EQ."@fr ,
+    "ARGO UW-UA EQ."@es ,
+    "ARGO UW-UA EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoWHOI> a skos:Concept ;
+    skos:notation "argoWHOI" ;
+    rdfs:label "ARGO WHOI"@en ,
+    "ARGO WHOI"@fr ,
+    "ARGO WHOI"@es ,
+    "ARGO WHOI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoWHOIEqIR> a skos:Concept ;
+    skos:notation "argoWHOIEqIR" ;
+    rdfs:label "ARGO WHOI EQ. IR"@en ,
+    "ARGO WHOI EQ. IR"@fr ,
+    "ARGO WHOI EQ. IR"@es ,
+    "ARGO WHOI EQ. IR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoWHOIMRVEq> a skos:Concept ;
+    skos:notation "argoWHOIMRVEq" ;
+    rdfs:label "ARGO WHOI-MRV EQ."@en ,
+    "ARGO WHOI-MRV EQ."@fr ,
+    "ARGO WHOI-MRV EQ."@es ,
+    "ARGO WHOI-MRV EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoBulargo> a skos:Concept ;
+    skos:notation "argoBulargo" ;
+    rdfs:label "BULARGO"@en ,
+    "BULARGO"@fr ,
+    "BULARGO"@es ,
+    "BULARGO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolis> a skos:Concept ;
+    skos:notation "argoCoriolis" ;
+    rdfs:label "CORIOLIS"@en ,
+    "CORIOLIS"@fr ,
+    "CORIOLIS"@es ,
+    "CORIOLIS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisBioargo> a skos:Concept ;
+    skos:notation "argoCoriolisBioargo" ;
+    rdfs:label "CORIOLIS-BIOARGO"@en ,
+    "CORIOLIS-BIOARGO"@fr ,
+    "CORIOLIS-BIOARGO"@es ,
+    "CORIOLIS-BIOARGO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisCanoa> a skos:Concept ;
+    skos:notation "argoCoriolisCanoa" ;
+    rdfs:label "CORIOLIS-CANOA"@en ,
+    "CORIOLIS-CANOA"@fr ,
+    "CORIOLIS-CANOA"@es ,
+    "CORIOLIS-CANOA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisCongas> a skos:Concept ;
+    skos:notation "argoCoriolisCongas" ;
+    rdfs:label "CORIOLIS-CONGAS"@en ,
+    "CORIOLIS-CONGAS"@fr ,
+    "CORIOLIS-CONGAS"@es ,
+    "CORIOLIS-CONGAS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisDrake> a skos:Concept ;
+    skos:notation "argoCoriolisDrake" ;
+    rdfs:label "CORIOLIS-DRAKE"@en ,
+    "CORIOLIS-DRAKE"@fr ,
+    "CORIOLIS-DRAKE"@es ,
+    "CORIOLIS-DRAKE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisEGEE> a skos:Concept ;
+    skos:notation "argoCoriolisEGEE" ;
+    rdfs:label "CORIOLIS-EGEE"@en ,
+    "CORIOLIS-EGEE"@fr ,
+    "CORIOLIS-EGEE"@es ,
+    "CORIOLIS-EGEE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisEqypt> a skos:Concept ;
+    skos:notation "argoCoriolisEqypt" ;
+    rdfs:label "CORIOLIS-EGYPT"@en ,
+    "CORIOLIS-EGYPT"@fr ,
+    "CORIOLIS-EGYPT"@es ,
+    "CORIOLIS-EGYPT"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisFlops> a skos:Concept ;
+    skos:notation "argoCoriolisFlops" ;
+    rdfs:label "CORIOLIS-FLOPS"@en ,
+    "CORIOLIS-FLOPS"@fr ,
+    "CORIOLIS-FLOPS"@es ,
+    "CORIOLIS-FLOPS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisFlostral> a skos:Concept ;
+    skos:notation "argoCoriolisFlostral" ;
+    rdfs:label "CORIOLIS-FLOSTRAL"@en ,
+    "CORIOLIS-FLOSTRAL"@fr ,
+    "CORIOLIS-FLOSTRAL"@es ,
+    "CORIOLIS-FLOSTRAL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisFNOBJCOMMOPS> a skos:Concept ;
+    skos:notation "argoCoriolisFNOBJCOMMOPS" ;
+    rdfs:label "CORIOLIS-FNOB-JCOMMOPS"@en ,
+    "CORIOLIS-FNOB-JCOMMOPS"@fr ,
+    "CORIOLIS-FNOB-JCOMMOPS"@es ,
+    "CORIOLIS-FNOB-JCOMMOPS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisFrontalis> a skos:Concept ;
+    skos:notation "argoCoriolisFrontalis" ;
+    rdfs:label "CORIOLIS-FRONTALIS"@en ,
+    "CORIOLIS-FRONTALIS"@fr ,
+    "CORIOLIS-FRONTALIS"@es ,
+    "CORIOLIS-FRONTALIS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisGoodHope> a skos:Concept ;
+    skos:notation "argoCoriolisGoodHope" ;
+    rdfs:label "CORIOLIS-GOOD HOPE"@en ,
+    "CORIOLIS-GOOD HOPE"@fr ,
+    "CORIOLIS-GOOD HOPE"@es ,
+    "CORIOLIS-GOOD HOPE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisOvide> a skos:Concept ;
+    skos:notation "argoCoriolisOvide" ;
+    rdfs:label "CORIOLIS-OVIDE"@en ,
+    "CORIOLIS-OVIDE"@fr ,
+    "CORIOLIS-OVIDE"@es ,
+    "CORIOLIS-OVIDE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisPirata> a skos:Concept ;
+    skos:notation "argoCoriolisPirata" ;
+    rdfs:label "CORIOLIS-PIRATA"@en ,
+    "CORIOLIS-PIRATA"@fr ,
+    "CORIOLIS-PIRATA"@es ,
+    "CORIOLIS-PIRATA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisPrevimer> a skos:Concept ;
+    skos:notation "argoCoriolisPrevimer" ;
+    rdfs:label "CORIOLIS-PREVIMER"@en ,
+    "CORIOLIS-PREVIMER"@fr ,
+    "CORIOLIS-PREVIMER"@es ,
+    "CORIOLIS-PREVIMER"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisProsat> a skos:Concept ;
+    skos:notation "argoCoriolisProsat" ;
+    rdfs:label "CORIOLIS-PROSAT"@en ,
+    "CORIOLIS-PROSAT"@fr ,
+    "CORIOLIS-PROSAT"@es ,
+    "CORIOLIS-PROSAT"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisRemocean> a skos:Concept ;
+    skos:notation "argoCoriolisRemocean" ;
+    rdfs:label "CORIOLIS-REMOCEAN"@en ,
+    "CORIOLIS-REMOCEAN"@fr ,
+    "CORIOLIS-REMOCEAN"@es ,
+    "CORIOLIS-REMOCEAN"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisRemoceanEq> a skos:Concept ;
+    skos:notation "argoCoriolisRemoceanEq" ;
+    rdfs:label "CORIOLIS-REMOCEAN EQ."@en ,
+    "CORIOLIS-REMOCEAN EQ."@fr ,
+    "CORIOLIS-REMOCEAN EQ."@es ,
+    "CORIOLIS-REMOCEAN EQ."@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisSpice> a skos:Concept ;
+    skos:notation "argoCoriolisSpice" ;
+    rdfs:label "CORIOLIS-SPICE"@en ,
+    "CORIOLIS-SPICE"@fr ,
+    "CORIOLIS-SPICE"@es ,
+    "CORIOLIS-SPICE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoCoriolisTrack> a skos:Concept ;
+    skos:notation "argoCoriolisTrack" ;
+    rdfs:label "CORIOLIS-TRACK"@en ,
+    "CORIOLIS-TRACK"@fr ,
+    "CORIOLIS-TRACK"@es ,
+    "CORIOLIS-TRACK"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoDekosim> a skos:Concept ;
+    skos:notation "argoDekosim" ;
+    rdfs:label "DEKOSIM"@en ,
+    "DEKOSIM"@fr ,
+    "DEKOSIM"@es ,
+    "DEKOSIM"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEAims> a skos:Concept ;
+    skos:notation "argoEAims" ;
+    rdfs:label "E-AIMS"@en ,
+    "E-AIMS"@fr ,
+    "E-AIMS"@es ,
+    "E-AIMS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoEurargo> a skos:Concept ;
+    skos:notation "argoEurargo" ;
+    rdfs:label "EUROARGO"@en ,
+    "EUROARGO"@fr ,
+    "EUROARGO"@es ,
+    "EUROARGO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoGyroscope> a skos:Concept ;
+    skos:notation "argoGyroscope" ;
+    rdfs:label "GYROSCOPE"@en ,
+    "GYROSCOPE"@fr ,
+    "GYROSCOPE"@es ,
+    "GYROSCOPE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoDamocles> a skos:Concept ;
+    skos:notation "argoDamocles" ;
+    rdfs:label "ITP-DAMOCLES"@en ,
+    "ITP-DAMOCLES"@fr ,
+    "ITP-DAMOCLES"@es ,
+    "ITP-DAMOCLES"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoItpWHOI> a skos:Concept ;
+    skos:notation "argoItpWHOI" ;
+    rdfs:label "ITP-WHOI"@en ,
+    "ITP-WHOI"@fr ,
+    "ITP-WHOI"@es ,
+    "ITP-WHOI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoMedargo> a skos:Concept ;
+    skos:notation "argoMedargo" ;
+    rdfs:label "MEDARGO"@en ,
+    "MEDARGO"@fr ,
+    "MEDARGO"@es ,
+    "MEDARGO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoMeridianGoodHope> a skos:Concept ;
+    skos:notation "argoMeridianGoodHope" ;
+    rdfs:label "MERIDIAN GOODHOPE"@en ,
+    "MERIDIAN GOODHOPE"@fr ,
+    "MERIDIAN GOODHOPE"@es ,
+    "MERIDIAN GOODHOPE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoMersea> a skos:Concept ;
+    skos:notation "argoMersea" ;
+    rdfs:label "MERSEA"@en ,
+    "MERSEA"@fr ,
+    "MERSEA"@es ,
+    "MERSEA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/argoNaosFrance> a skos:Concept ;
+    skos:notation "argoNaosFrance" ;
+    rdfs:label "NAOS-FRANCE"@en ,
+    "NAOS-FRANCE"@fr ,
+    "NAOS-FRANCE"@es ,
+    "NAOS-FRANCE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpDbcp> a skos:Concept ;
+    skos:notation "dbcpDbcp" ;
+    rdfs:label "DBCP"@en ,
+    "DBCP"@fr ,
+    "GCBD"@es ,
+    "DBCP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpAOML> a skos:Concept ;
+    skos:notation "dbcpAOML" ;
+    rdfs:label "AOML"@en ,
+    "AOML"@fr ,
+    "AOML"@es ,
+    "AOML"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpAOMLeSurfmar> a skos:Concept ;
+    skos:notation "dbcpAOMLeSurfmar" ;
+    rdfs:label "AOML-E-SURFMAR"@en ,
+    "AOML-E-SURFMAR"@fr ,
+    "AOML-E-SURFMAR"@es ,
+    "AOML-E-SURFMAR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpAOMLmf> a skos:Concept ;
+    skos:notation "dbcpAOMLmf" ;
+    rdfs:label "AOML-MF DB"@en ,
+    "AOML-MF DB"@fr ,
+    "AOML-MF DB"@es ,
+    "AOML-MF DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpAPLUW> a skos:Concept ;
+    skos:notation "dbcpAPLUW" ;
+    rdfs:label "APL-UW"@en ,
+    "APL-UW"@fr ,
+    "APL-UW"@es ,
+    "APL-UW"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpAWIDB> a skos:Concept ;
+    skos:notation "dbcpAWIDB" ;
+    rdfs:label "AWI-DB"@en ,
+    "AWI-DB"@fr ,
+    "AWI-DB"@es ,
+    "AWI-DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpBomDB> a skos:Concept ;
+    skos:notation "dbcpBomDB" ;
+    rdfs:label "BOM DB"@en ,
+    "BOM DB"@fr ,
+    "BOM DB"@es ,
+    "BOM DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpBomTSU> a skos:Concept ;
+    skos:notation "dbcpBomTSU" ;
+    rdfs:label "BOM-TSU"@en ,
+    "BOM-TSU"@fr ,
+    "BOM-TSU"@es ,
+    "BOM-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpBPInc> a skos:Concept ;
+    skos:notation "dbcpBPInc" ;
+    rdfs:label "BP INC"@en ,
+    "BP INC"@fr ,
+    "BP INC"@es ,
+    "BP INC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpBrazilPNBOIAINPE> a skos:Concept ;
+    skos:notation "dbcpBrazilPNBOIAINPE" ;
+    rdfs:label "BRAZIL PNBOIA-INPE"@en ,
+    "BRAZIL PNBOIA-INPE"@fr ,
+    "BRAZIL PNBOIA-INPE"@es ,
+    "BRAZIL PNBOIA-INPE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpBshDWDFixed> a skos:Concept ;
+    skos:notation "dbcpBshDWDFixed" ;
+    rdfs:label "BSH-DWD-FIXED"@en ,
+    "BSH-DWD-FIXED"@fr ,
+    "BSH-DWD-FIXED"@es ,
+    "BSH-DWD-FIXED"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpBshDWDMD> a skos:Concept ;
+    skos:notation "dbcpBshDWDMD" ;
+    rdfs:label "BSH-DWD-MB"@en ,
+    "BSH-DWD-MB"@fr ,
+    "BSH-DWD-MB"@es ,
+    "BSH-DWD-MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpBshMB> a skos:Concept ;
+    skos:notation "dbcpBshMB" ;
+    rdfs:label "BSH-MB"@en ,
+    "BSH-MB"@fr ,
+    "BSH-MB"@es ,
+    "BSH-MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpCandhis> a skos:Concept ;
+    skos:notation "dbcpCandhis" ;
+    rdfs:label "CANDHIS"@en ,
+    "CANDHIS"@fr ,
+    "CANDHIS"@es ,
+    "CANDHIS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpCaricoos> a skos:Concept ;
+    skos:notation "dbcpCaricoos" ;
+    rdfs:label "CARICOOS"@en ,
+    "CARICOOS"@fr ,
+    "CARICOOS"@es ,
+    "CARICOOS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpCarioca> a skos:Concept ;
+    skos:notation "dbcpCarioca" ;
+    rdfs:label "CARIOCA"@en ,
+    "CARIOCA"@fr ,
+    "CARIOCA"@es ,
+    "CARIOCA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpCDIP> a skos:Concept ;
+    skos:notation "dbcpCDIP" ;
+    rdfs:label "CDIP"@en ,
+    "CDIP"@fr ,
+    "CDIP"@es ,
+    "CDIP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpColombiaTSU> a skos:Concept ;
+    skos:notation "dbcpColombiaTSU" ;
+    rdfs:label "COLOMBIA-TSU"@en ,
+    "COLOMBIA-TSU"@fr ,
+    "COLOMBIA-TSU"@es ,
+    "COLOMBIA-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpCormpNC> a skos:Concept ;
+    skos:notation "dbcpCormpNC" ;
+    rdfs:label "CORMP-NC"@en ,
+    "CORMP-NC"@fr ,
+    "CORMP-NC"@es ,
+    "CORMP-NC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcp> a skos:Concept ;
+    skos:notation "dbcp" ;
+    rdfs:label "DBCP"@en ,
+    "DBCP"@fr ,
+    "GCBD"@es ,
+    "DBCP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/cbcpDFODB> a skos:Concept ;
+    skos:notation "cbcpDFODB" ;
+    rdfs:label "DFO DB"@en ,
+    "DFO DB"@fr ,
+    "DFO DB"@es ,
+    "DFO DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpECDB> a skos:Concept ;
+    skos:notation "dbcpECDB" ;
+    rdfs:label "EC DB"@en ,
+    "EC DB"@fr ,
+    "EC DB"@es ,
+    "EC DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpECMB> a skos:Concept ;
+    skos:notation "dbcpECMB" ;
+    rdfs:label "EC MB"@en ,
+    "EC MB"@fr ,
+    "EC MB"@es ,
+    "EC MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpEcIABP> a skos:Concept ;
+    skos:notation "dbcpEcIABP" ;
+    rdfs:label "EC-IABP"@en ,
+    "EC-IABP"@fr ,
+    "EC-IABP"@es ,
+    "EC-IABP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/eSurfmar> a skos:Concept ;
+    skos:notation "eSurfmar" ;
+    rdfs:label "E-SURFMAR"@en ,
+    "E-SURFMAR"@fr ,
+    "E-SURFMAR"@es ,
+    "E-SURFMAR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/eSurfmarIrishIMI> a skos:Concept ;
+    skos:notation "eSurfmarIrishIMI" ;
+    rdfs:label "E-SURFMAR-IRISH IMI"@en ,
+    "E-SURFMAR-IRISH IMI"@fr ,
+    "E-SURFMAR-IRISH IMI"@es ,
+    "E-SURFMAR-IRISH IMI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/eSurfmarNOAA> a skos:Concept ;
+    skos:notation "eSurfmarNOAA" ;
+    rdfs:label "E-SURFMAR-NOAA"@en ,
+    "E-SURFMAR-NOAA"@fr ,
+    "E-SURFMAR-NOAA"@es ,
+    "E-SURFMAR-NOAA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/eSurfmarUKMB> a skos:Concept ;
+    skos:notation "eSurfmarUKMB" ;
+    rdfs:label "E-SURFMAR-UK MB"@en ,
+    "E-SURFMAR-UK MB"@fr ,
+    "E-SURFMAR-UK MB"@es ,
+    "E-SURFMAR-UK MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/eSurfmarUKFRMB> a skos:Concept ;
+    skos:notation "eSurfmarUKFRMB" ;
+    rdfs:label "E-SURFMAR-UK/FR MB"@en ,
+    "E-SURFMAR-UK/FR MB"@fr ,
+    "E-SURFMAR-UK/FR MB"@es ,
+    "E-SURFMAR-UK/FR MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpEurositesPlanier> a skos:Concept ;
+    skos:notation "dbcpEurositesPlanier" ;
+    rdfs:label "EUROSITES PLANIER"@en ,
+    "EUROSITES PLANIER"@fr ,
+    "EUROSITES PLANIER"@es ,
+    "EUROSITES PLANIER"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpFerhriTSU> a skos:Concept ;
+    skos:notation "dbcpFerhriTSU" ;
+    rdfs:label "FERHRI-TSU"@en ,
+    "FERHRI-TSU"@fr ,
+    "FERHRI-TSU"@es ,
+    "FERHRI-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpGermanyMB> a skos:Concept ;
+    skos:notation "dbcpGermanyMB" ;
+    rdfs:label "GERMANY MB"@en ,
+    "GERMANY MB"@fr ,
+    "GERMANY MB"@es ,
+    "GERMANY MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpGloscal> a skos:Concept ;
+    skos:notation "dbcpGloscal" ;
+    rdfs:label "GLOSCAL"@en ,
+    "GLOSCAL"@fr ,
+    "GLOSCAL"@es ,
+    "GLOSCAL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpGreeceMB> a skos:Concept ;
+    skos:notation "dbcpGreeceMB" ;
+    rdfs:label "GREECE MB"@en ,
+    "GREECE MB"@fr ,
+    "GREECE MB"@es ,
+    "GREECE MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpHK> a skos:Concept ;
+    skos:notation "dbcpHK" ;
+    rdfs:label "HK-OBS-DB"@en ,
+    "HK-OBS-DB"@fr ,
+    "HK-OBS-DB"@es ,
+    "HK-OBS-DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIABP> a skos:Concept ;
+    skos:notation "dbcpIABP" ;
+    rdfs:label "IABP"@en ,
+    "IABP"@fr ,
+    "PIBA"@es ,
+    "IABP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIABPCanada> a skos:Concept ;
+    skos:notation "dbcpIABPCanada" ;
+    rdfs:label "IABP CANADA"@en ,
+    "IABP CANADA"@fr ,
+    "IABP CANADA"@es ,
+    "IABP CANADA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIABPNIC> a skos:Concept ;
+    skos:notation "dbcpIABPNIC" ;
+    rdfs:label "IABP NIC"@en ,
+    "IABP NIC"@fr ,
+    "IABP NIC"@es ,
+    "IABP NIC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIABPUS> a skos:Concept ;
+    skos:notation "dbcpIABPUS" ;
+    rdfs:label "IABP US"@en ,
+    "IABP US"@fr ,
+    "IABP US"@es ,
+    "IABP US"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIABPEC> a skos:Concept ;
+    skos:notation "dbcpIABPEC" ;
+    rdfs:label "IABP-EC"@en ,
+    "IABP-EC"@fr ,
+    "IABP-EC"@es ,
+    "IABP-EC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIABPUW> a skos:Concept ;
+    skos:notation "dbcpIABPUW" ;
+    rdfs:label "IABP-UW"@en ,
+    "IABP-UW"@fr ,
+    "IABP-UW"@es ,
+    "IABP-UW"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIBPIO> a skos:Concept ;
+    skos:notation "dbcpIBPIO" ;
+    rdfs:label "IBPIO"@en ,
+    "IBPIO"@fr ,
+    "IBPIO"@es ,
+    "IBPIO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpINCOISTSU> a skos:Concept ;
+    skos:notation "dbcpINCOISTSU" ;
+    rdfs:label "INCOIS-TSU"@en ,
+    "INCOIS-TSU"@fr ,
+    "INCOIS-TSU"@es ,
+    "INCOIS-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIndiaNIO> a skos:Concept ;
+    skos:notation "dbcpIndiaNIO" ;
+    rdfs:label "INDIA NIO"@en ,
+    "INDIA NIO"@fr ,
+    "INDIA NIO"@es ,
+    "INDIA NIO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIndiaNIOTSU> a skos:Concept ;
+    skos:notation "dbcpIndiaNIOTSU" ;
+    rdfs:label "INDIA NIO-TSU"@en ,
+    "INDIA NIO-TSU"@fr ,
+    "INDIA NIO-TSU"@es ,
+    "INDIA NIO-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpIndiaNIOT> a skos:Concept ;
+    skos:notation "dbcpIndiaNIOT" ;
+    rdfs:label "INDIA-NIOT"@en ,
+    "INDIA-NIOT"@fr ,
+    "INDIA-NIOT"@es ,
+    "ИНДИЯ-NIOT"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpINOCARTSU> a skos:Concept ;
+    skos:notation "dbcpINOCARTSU" ;
+    rdfs:label "INOCAR-TSU"@en ,
+    "INOCAR-TSU"@fr ,
+    "INOCAR-TSU"@es ,
+    "INOCAR-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpItalyDB> a skos:Concept ;
+    skos:notation "dbcpItalyDB" ;
+    rdfs:label "ITALY DB"@en ,
+    "ITALY DB"@fr ,
+    "ITALY DB"@es ,
+    "ITALY DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpItalyOGS> a skos:Concept ;
+    skos:notation "dbcpItalyOGS" ;
+    rdfs:label "ITALY-OGS"@en ,
+    "ITALY-OGS"@fr ,
+    "ITALY-OGS"@es ,
+    "ITALY-OGS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpJMADB> a skos:Concept ;
+    skos:notation "dbcpJMADB" ;
+    rdfs:label "JMA DB"@en ,
+    "JMA DB"@fr ,
+    "JMA DB"@es ,
+    "JMA DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpJMATSU> a skos:Concept ;
+    skos:notation "dbcpJMATSU" ;
+    rdfs:label "JMA-TSU"@en ,
+    "JMA-TSU"@fr ,
+    "JMA-TSU"@es ,
+    "JMA-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpKMAMB> a skos:Concept ;
+    skos:notation "dbcpKMAMB" ;
+    rdfs:label "KMA MB"@en ,
+    "KMA MB"@fr ,
+    "KMA MB"@es ,
+    "KMA MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpLocean> a skos:Concept ;
+    skos:notation "dbcpLocean" ;
+    rdfs:label "LOCEAN"@en ,
+    "LOCEAN"@fr ,
+    "LOCEAN"@es ,
+    "LOCEAN"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpMarlin> a skos:Concept ;
+    skos:notation "dbcpMarlin" ;
+    rdfs:label "MARLIN-DB"@en ,
+    "MARLIN-DB"@fr ,
+    "MARLIN-DB"@es ,
+    "MARLIN-DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpMeteoFranceDB> a skos:Concept ;
+    skos:notation "dbcpMeteoFranceDB" ;
+    rdfs:label "METEO FRANCE DB"@en ,
+    "METEO FRANCE DB"@fr ,
+    "METEO FRANCE DB"@es ,
+    "METEO FRANCE DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpMeteoFranceMB> a skos:Concept ;
+    skos:notation "dbcpMeteoFranceMB" ;
+    rdfs:label "METEO FRANCE MB"@en ,
+    "METEO FRANCE MB"@fr ,
+    "METEO FRANCE MB"@es ,
+    "METEO FRANCE MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpMeteoFranceWB> a skos:Concept ;
+    skos:notation "dbcpMeteoFranceWB" ;
+    rdfs:label "METEO FRANCE WB"@en ,
+    "METEO FRANCE WB"@fr ,
+    "METEO FRANCE WB"@es ,
+    "METEO FRANCE WB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNCCOOS> a skos:Concept ;
+    skos:notation "dbcpNCCOOS" ;
+    rdfs:label "NCCOOS"@en ,
+    "NCCOOS"@fr ,
+    "NCCOOS"@es ,
+    "NCCOOS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCBP> a skos:Concept ;
+    skos:notation "dbcpNDBCBP" ;
+    rdfs:label "NDBC-BP"@en ,
+    "NDBC-BP"@fr ,
+    "NDBC-BP"@es ,
+    "NDBC-BP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCCOE> a skos:Concept ;
+    skos:notation "dbcpNDBCCOE" ;
+    rdfs:label "NDBC-COE"@en ,
+    "NDBC-COE"@fr ,
+    "NDBC-COE"@es ,
+    "NDBC-COE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCCSI> a skos:Concept ;
+    skos:notation "dbcpNDBCCSI" ;
+    rdfs:label "NDBC-CSI"@en ,
+    "NDBC-CSI"@fr ,
+    "NDBC-CSI"@es ,
+    "NDBC-CSI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCMB> a skos:Concept ;
+    skos:notation "dbcpNDBCMB" ;
+    rdfs:label "NDBC-MB"@en ,
+    "NDBC-MB"@fr ,
+    "NDBC-MB"@es ,
+    "NDBC-MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCMBARI> a skos:Concept ;
+    skos:notation "dbcpNDBCMBARI" ;
+    rdfs:label "NDBC-MBARI"@en ,
+    "NDBC-MBARI"@fr ,
+    "NDBC-MBARI"@es ,
+    "NDBC-MBARI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCNASA> a skos:Concept ;
+    skos:notation "dbcpNDBCNASA" ;
+    rdfs:label "NDBC-NASA"@en ,
+    "NDBC-s.o.SA"@fr ,
+    "NDBC-NASA"@es ,
+    "NDBC-NASA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpcNOAANWS> a skos:Concept ;
+    skos:notation "dbcpcNOAANWS" ;
+    rdfs:label "NDBC-NOAA-NWS"@en ,
+    "NDBC-NOAA-NWS"@fr ,
+    "NDBC-NOAA-NWS"@es ,
+    "NDBC-NOAA-NWS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCTABS> a skos:Concept ;
+    skos:notation "dbcpNDBCTABS" ;
+    rdfs:label "NDBC-TABS"@en ,
+    "NDBC-TABS"@fr ,
+    "NDBC-TABS"@es ,
+    "NDBC-TABS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCTSU> a skos:Concept ;
+    skos:notation "dbcpNDBCTSU" ;
+    rdfs:label "NDBC-TSU"@en ,
+    "NDBC-TSU"@fr ,
+    "NDBC-TSU"@es ,
+    "NDBC-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCUSCG> a skos:Concept ;
+    skos:notation "dbcpNDBCUSCG" ;
+    rdfs:label "NDBC-USCG"@en ,
+    "NDBC-USCG"@fr ,
+    "NDBC-USCG"@es ,
+    "NDBC-USCG"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDWCTSU> a skos:Concept ;
+    skos:notation "dbcpNDWCTSU" ;
+    rdfs:label "NDWC-TSU"@en ,
+    "NDWC-TSU"@fr ,
+    "NDWC-TSU"@es ,
+    "NDWC-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNewZealandDB> a skos:Concept ;
+    skos:notation "dbcpNewZealandDB" ;
+    rdfs:label "NEW ZEALAND DB"@en ,
+    "NEW ZEALAND DB"@fr ,
+    "NEW ZEALAND DB"@es ,
+    "NEW ZEALAND DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNicIABP> a skos:Concept ;
+    skos:notation "dbcpNicIABP" ;
+    rdfs:label "NIC-IABP"@en ,
+    "NIC-IABP"@fr ,
+    "NIC-IABP"@es ,
+    "NIC-IABP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNOAACBIBS> a skos:Concept ;
+    skos:notation "dbcpNOAACBIBS" ;
+    rdfs:label "NOAA-CBIBS"@en ,
+    "NOAA-CBIBS"@fr ,
+    "NOAA-CBIBS"@es ,
+    "NOAA-CBIBS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNorwayIMR> a skos:Concept ;
+    skos:notation "dbcpNorwayIMR" ;
+    rdfs:label "NORWAY-IMR"@en ,
+    "NORWAY-IMR"@fr ,
+    "NORWAY-IMR"@es ,
+    "NORWAY-IMR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNWSNDBCMB> a skos:Concept ;
+    skos:notation "dbcpNWSNDBCMB" ;
+    rdfs:label "NWS-NDBC-MB"@en ,
+    "NWS-NDBC-MB"@fr ,
+    "NWS-NDBC-MB"@es ,
+    "NWS-NDBC-MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpNDBCWB> a skos:Concept ;
+    skos:notation "dbcpNDBCWB" ;
+    rdfs:label "NWS-NDBC-WB"@en ,
+    "NWS-NDBC-WB"@fr ,
+    "NWS-NDBC-WB"@es ,
+    "NWS-NDBC-WB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpPacioos> a skos:Concept ;
+    skos:notation "dbcpPacioos" ;
+    rdfs:label "PACIOOS"@en ,
+    "PACIOOS"@fr ,
+    "PACIOOS"@es ,
+    "PACIOOS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpPetrobras> a skos:Concept ;
+    skos:notation "dbcpPetrobras" ;
+    rdfs:label "PETROBRAS"@en ,
+    "PETROBRAS"@fr ,
+    "PETROBRAS"@es ,
+    "PETROBRAS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpPmel> a skos:Concept ;
+    skos:notation "dbcpPmel" ;
+    rdfs:label "PMEL MB"@en ,
+    "PMEL MB"@fr ,
+    "PMEL MB"@es ,
+    "PMEL MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpScrips> a skos:Concept ;
+    skos:notation "dbcpScrips" ;
+    rdfs:label "SCRIPS"@en ,
+    "SCRIPS"@fr ,
+    "SCRIPS"@es ,
+    "SCRIPS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpShell> a skos:Concept ;
+    skos:notation "dbcpShell" ;
+    rdfs:label "SHELL"@en ,
+    "SHELL"@fr ,
+    "SHELL"@es ,
+    "SHELL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpShoaTSU> a skos:Concept ;
+    skos:notation "dbcpShoaTSU" ;
+    rdfs:label "SHOA-TSU"@en ,
+    "SHOA-TSU"@fr ,
+    "SHOA-TSU"@es ,
+    "SHOA-TSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpSIODB> a skos:Concept ;
+    skos:notation "dbcpSIODB" ;
+    rdfs:label "SIO-DB"@en ,
+    "SIO-DB"@fr ,
+    "SIO-DB"@es ,
+    "SIO-DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpSpainPDEMB> a skos:Concept ;
+    skos:notation "dbcpSpainPDEMB" ;
+    rdfs:label "SPAIN-PDE MB"@en ,
+    "SPAIN-PDE MB"@fr ,
+    "SPAIN-PDE MB"@es ,
+    "SPAIN-PDE MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpStratus> a skos:Concept ;
+    skos:notation "dbcpStratus" ;
+    rdfs:label "STRATUS"@en ,
+    "STRATUS"@fr ,
+    "STRATUS"@es ,
+    "STRATUS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpTaoAtlas> a skos:Concept ;
+    skos:notation "dbcpTaoAtlas" ;
+    rdfs:label "TAO ATLAS"@en ,
+    "TAO ATLAS"@fr ,
+    "TAO ATLAS"@es ,
+    "TAO ATLAS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpTaoPirata> a skos:Concept ;
+    skos:notation "dbcpTaoPirata" ;
+    rdfs:label "TAO PIRATA"@en ,
+    "TAO PIRATA"@fr ,
+    "TAO PIRATA"@es ,
+    "TAO PIRATA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpTaoPirataUS> a skos:Concept ;
+    skos:notation "dbcpTaoPirataUS" ;
+    rdfs:label "TAO PIRATA US"@en ,
+    "TAO PIRATA US"@fr ,
+    "TAO PIRATA US"@es ,
+    "TAO PIRATA US"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpTaoRamaUSIndia> a skos:Concept ;
+    skos:notation "dbcpTaoRamaUSIndia" ;
+    rdfs:label "TAO RAMA US-INDIA"@en ,
+    "TAO RAMA US-INDIA"@fr ,
+    "TAO RAMA US-INDIA"@es ,
+    "TAO RAMA US-INDIA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpTaoTriton> a skos:Concept ;
+    skos:notation "dbcpTaoTriton" ;
+    rdfs:label "TAO TRITON"@en ,
+    "TAO TRITON"@fr ,
+    "TAO TRITON"@es ,
+    "TAO TRITON"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpUCSDScripps> a skos:Concept ;
+    skos:notation "dbcpUCSDScripps" ;
+    rdfs:label "UCSD-SCRIPPS"@en ,
+    "UCSD-SCRIPPS"@fr ,
+    "UCSD-SCRIPPS"@es ,
+    "UCSD-SCRIPPS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpUKJerseyMB> a skos:Concept ;
+    skos:notation "dbcpUKJerseyMB" ;
+    rdfs:label "UK-JERSEY MB"@en ,
+    "UK-JERSEY MB"@fr ,
+    "UK-JERSEY MB"@es ,
+    "UK-JERSEY MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpUKMODB> a skos:Concept ;
+    skos:notation "dbcpUKMODB" ;
+    rdfs:label "UK-MO DB"@en ,
+    "UK-MO DB"@fr ,
+    "UK-MO DB"@es ,
+    "UK-MO DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpUKMOFixed> a skos:Concept ;
+    skos:notation "dbcpUKMOFixed" ;
+    rdfs:label "UK-MO FIXED"@en ,
+    "UK-MO FIXED"@fr ,
+    "UK-MO FIXED"@es ,
+    "UK-MO FIXED"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpUKMOlv> a skos:Concept ;
+    skos:notation "dbcpUKMOlv" ;
+    rdfs:label "UK-MO LV"@en ,
+    "UK-MO LV"@fr ,
+    "UK-MO LV"@es ,
+    "UK-MO LV"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpUKMOMB> a skos:Concept ;
+    skos:notation "dbcpUKMOMB" ;
+    rdfs:label "UK-MO MB"@en ,
+    "UK-MO MB"@fr ,
+    "UK-MO MB"@es ,
+    "UK-MO MB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/dbcpUSCGDB> a skos:Concept ;
+    skos:notation "dbcpUSCGDB" ;
+    rdfs:label "US-CG DB"@en ,
+    "US-CG DB"@fr ,
+    "US-CG DB"@es ,
+    "US-CG DB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/sot> a skos:Concept ;
+    skos:notation "sot" ;
+    rdfs:label "SOT"@en ,
+    "SOT"@fr ,
+    "SOT"@es ,
+    "SOT"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/asap> a skos:Concept ;
+    skos:notation "asap" ;
+    rdfs:label "ASAP"@en ,
+    "ASAP"@fr ,
+    "ASAP"@es ,
+    "ASAP"@ru ;
+    dct:description  "GOS Automated Shipboard Upper-Air Sounding Program"@en ,
+    "Programme de mesures automatiques en altitude à bord des navires relevant du SMO"@fr ,
+    "Programa de sondeo automático de la atmósfera superior del SMO a bordo de buques"@es ,
+    "Программа аэрологического зондирования бортовые средствами (ГСН)"@ru .
+
+<ProgramAffiliation/asapAWI> a skos:Concept ;
+    skos:notation "asapAWI" ;
+    rdfs:label "ASAP-AWI"@en ,
+    "ASAP-AWI"@fr ,
+    "ASAP-AWI"@es ,
+    "ASAP-AWI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/eAsap> a skos:Concept ;
+    skos:notation "eAsap" ;
+    rdfs:label "E-ASAP"@en ,
+    "E-ASAP"@fr ,
+    "E-ASAP"@es ,
+    "E-ASAP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/asapZA> a skos:Concept ;
+    skos:notation "asapZA" ;
+    rdfs:label "ASAP-ZA"@en ,
+    "ASAP-ZA"@fr ,
+    "ASAP-ZA"@es ,
+    "ASAP-ZA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/goShip> a skos:Concept ;
+    skos:notation "goShip" ;
+    rdfs:label "GO-SHIP"@en ,
+    "GO-SHIP"@fr ,
+    "GO-SHIP"@es ,
+    "GO-SHIP"@ru ;
+    dct:description  "Global Ocean Ship-Based Hydrographic Investigations Programme"@en ,
+    "Programme du Groupe d’experts pour les études hydrographiques des océans de la planète conduites à partir de navires "@fr ,
+    "Programa de investigaciones hidrográficas de los océanos mundiales realizadas desde buques"@es ,
+    "Программа по судовым гидрографическим исследованиям Мирового океана"@ru .
+
+<ProgramAffiliation/soopBOM> a skos:Concept ;
+    skos:notation "soopBOM" ;
+    rdfs:label "SOOP-BOM"@en ,
+    "SOOP-BOM"@fr ,
+    "SOOP-BOM"@es ,
+    "SOOP-BOM"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/soot> a skos:Concept ;
+    skos:notation "soot" ;
+    rdfs:label "SOOT"@en ,
+    "SOOP"@fr ,
+    "SOOT"@es ,
+    "SOOT"@ru ;
+    dct:description  "Ship Of Opportunity Programme"@en ,
+    "Programme de navires occasionnels"@fr ,
+    "Programa de buques ocasionales"@es ,
+    "Программа попутных судов"@ru .
+
+<ProgramAffiliation/vos> a skos:Concept ;
+    skos:notation "vos" ;
+    rdfs:label "VOS"@en ,
+    "VOS"@fr ,
+    "VOS"@es ,
+    "VOS"@ru ;
+    dct:description  "GOS Voluntary Observing Ship Program"@en ,
+    "Programme de navires d’observation bénévoles relevant du SMO"@fr ,
+    "Programa de buques de observación voluntaria del SMO"@es ,
+    "Программа судов добровольного наблюдения ГСН"@ru .
+
+<ProgramAffiliation/vos3P> a skos:Concept ;
+    skos:notation "vos3P" ;
+    rdfs:label "VOS-3P"@en ,
+    "VOS-3P"@fr ,
+    "VOS-3P"@es ,
+    "VOS-3P"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosAU> a skos:Concept ;
+    skos:notation "vosAU" ;
+    rdfs:label "VOS-AU"@en ,
+    "VOS-AU"@fr ,
+    "VOS-AU"@es ,
+    "VOS-AU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosCA> a skos:Concept ;
+    skos:notation "vosCA" ;
+    rdfs:label "VOS-CA"@en ,
+    "VOS-CA"@fr ,
+    "VOS-CA"@es ,
+    "VOS-CA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosCL> a skos:Concept ;
+    skos:notation "vosCL" ;
+    rdfs:label "VOS-CL"@en ,
+    "VOS-CL"@fr ,
+    "VOS-CL"@es ,
+    "VOS-CL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosDE> a skos:Concept ;
+    skos:notation "vosDE" ;
+    rdfs:label "VOS-DE"@en ,
+    "VOS-DE"@fr ,
+    "VOS-DE"@es ,
+    "VOS-DE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosES> a skos:Concept ;
+    skos:notation "vosES" ;
+    rdfs:label "VOS-ES"@en ,
+    "VOS-ES"@fr ,
+    "VOS-ES"@es ,
+    "VOS-ES"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosEU> a skos:Concept ;
+    skos:notation "vosEU" ;
+    rdfs:label "VOS-EU"@en ,
+    "VOS-EU"@fr ,
+    "VOS-EU"@es ,
+    "VOS-EU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosFR> a skos:Concept ;
+    skos:notation "vosFR" ;
+    rdfs:label "VOS-FR"@en ,
+    "VOS-FR"@fr ,
+    "VOS-FR"@es ,
+    "VOS-FR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosGB> a skos:Concept ;
+    skos:notation "vosGB" ;
+    rdfs:label "VOS-GB"@en ,
+    "VOS-GB"@fr ,
+    "VOS-GB"@es ,
+    "VOS-GB"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosGR> a skos:Concept ;
+    skos:notation "vosGR" ;
+    rdfs:label "VOS-GR"@en ,
+    "VOS-GR"@fr ,
+    "VOS-GR"@es ,
+    "VOS-GR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosHK> a skos:Concept ;
+    skos:notation "vosHK" ;
+    rdfs:label "VOS-HK"@en ,
+    "VOS-HK"@fr ,
+    "VOS-HK"@es ,
+    "VOS-HK"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosIE> a skos:Concept ;
+    skos:notation "vosIE" ;
+    rdfs:label "VOS-IE"@en ,
+    "VOS-IE"@fr ,
+    "VOS-IE"@es ,
+    "VOS-IE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosIL> a skos:Concept ;
+    skos:notation "vosIL" ;
+    rdfs:label "VOS-IL"@en ,
+    "VOS-IL"@fr ,
+    "VOS-IL"@es ,
+    "VOS-IL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosIN> a skos:Concept ;
+    skos:notation "vosIN" ;
+    rdfs:label "VOS-IN"@en ,
+    "VOS-IN"@fr ,
+    "VOS-IN"@es ,
+    "VOS-IN"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosIS> a skos:Concept ;
+    skos:notation "vosIS" ;
+    rdfs:label "VOS-IS"@en ,
+    "VOS-IS"@fr ,
+    "VOS-IS"@es ,
+    "VOS-IS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosJP> a skos:Concept ;
+    skos:notation "vosJP" ;
+    rdfs:label "VOS-JP"@en ,
+    "VOS-JP"@fr ,
+    "VOS-JP"@es ,
+    "VOS-JP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosKR> a skos:Concept ;
+    skos:notation "vosKR" ;
+    rdfs:label "VOS-KR"@en ,
+    "VOS-KR"@fr ,
+    "VOS-KR"@es ,
+    "VOS-KR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosMY> a skos:Concept ;
+    skos:notation "vosMY" ;
+    rdfs:label "VOS-MY"@en ,
+    "VOS-MY"@fr ,
+    "VOS-MY"@es ,
+    "VOS-MY"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosNL> a skos:Concept ;
+    skos:notation "vosNL" ;
+    rdfs:label "VOS-NL"@en ,
+    "VOS-NL"@fr ,
+    "VOS-NL"@es ,
+    "VOS-NL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosNO> a skos:Concept ;
+    skos:notation "vosNO" ;
+    rdfs:label "VOS-NO"@en ,
+    "VOS-NO"@fr ,
+    "VOS-NO"@es ,
+    "VOS-NO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosNZ> a skos:Concept ;
+    skos:notation "vosNZ" ;
+    rdfs:label "VOS-NZ"@en ,
+    "VOS-NZ"@fr ,
+    "VOS-NZ"@es ,
+    "VOS-NZ"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosRU> a skos:Concept ;
+    skos:notation "vosRU" ;
+    rdfs:label "VOS-RU"@en ,
+    "VOS-RU"@fr ,
+    "VOS-RU"@es ,
+    "VOS-RU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosSE> a skos:Concept ;
+    skos:notation "vosSE" ;
+    rdfs:label "VOS-SE"@en ,
+    "VOS-SE"@fr ,
+    "VOS-SE"@es ,
+    "VOS-SE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosShipMask> a skos:Concept ;
+    skos:notation "vosShipMask" ;
+    rdfs:label "VOS-SHIP-MASK"@en ,
+    "VOS-SHIP-MASK"@fr ,
+    "VOS-SHIP-MASK"@es ,
+    "VOS-SHIP-MASK"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosUS> a skos:Concept ;
+    skos:notation "vosUS" ;
+    rdfs:label "VOS-US"@en ,
+    "VOS-US"@fr ,
+    "VOS-US"@es ,
+    "VOS-US"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosZA> a skos:Concept ;
+    skos:notation "vosZA" ;
+    rdfs:label "VOS-ZA"@en ,
+    "VOS-ZA"@fr ,
+    "VOS-ZA"@es ,
+    "VOS-ZA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/vosPL> a skos:Concept ;
+    skos:notation "vosPL" ;
+    rdfs:label "VOS-PL"@en ,
+    "VOS-PL"@fr ,
+    "VOS-PL"@es ,
+    "VOS-PL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/gtos> a skos:Concept ;
+    skos:notation "gtos" ;
+    rdfs:label "GTOS"@en ,
+    "SMOT"@fr ,
+    "SMOT"@es ,
+    "ГСНПС"@ru ;
+    dct:description  "Global Terrestrial Observing System"@en ,
+    "Système mondial d’observation terrestre"@fr ,
+    "Sistema Mundial de Observación Terrestre"@es ,
+    "Глобальная система наблюдений за поверхностью суши"@ru .
+
+<ProgramAffiliation/nonAffiliated> a skos:Concept ;
+    skos:notation "nonAffiliated" ;
+    rdfs:label "Non-affiliated"@en ,
+    "Non affilié"@fr ,
+    "No asociados"@es ,
+    "Несвязанные"@ru ;
+    dct:description  "Observing elements that are not affiliated with WIGOS or any of the co-sponsored programmes"@en ,
+    "Éléments d’observation n’étant affiliés ni au WIGOS ni à l’un des programmes coparrainés"@fr ,
+    "Elementos de observación que no forman parte de WIGOS ni de ninguno de los programas copatrocinados"@es ,
+    "Элементы наблюдений, которые не связаны с ИГСНВ или любой из совместно спонсируемых программ"@ru .
+
+<ProgramAffiliation/wigos> a skos:Concept ;
+    skos:notation "wigos" ;
+    rdfs:label "WIGOS"@en ,
+    "WIGOS"@fr ,
+    "WIGOS"@es ,
+    "ИГСНВ"@ru ;
+    dct:description  "WMO Integrated Observing System components"@en ,
+    "Composantes du Système mondial intégré des systèmes d'observation de l'OMM "@fr ,
+    "Componentes del Sistema Mundial Integrado de Sistemas de Observación de la OMM"@es ,
+    "Компоненты Интегрированной системы наблюдений ВМО"@ru .
+
+<ProgramAffiliation/gaw> a skos:Concept ;
+    skos:notation "gaw" ;
+    rdfs:label "GAW"@en ,
+    "VAG"@fr ,
+    "VAG"@es ,
+    "ГСА"@ru ;
+    dct:description  "Global Atmosphere Watch"@en ,
+    "Veille de l'atmosphère globale"@fr ,
+    "Vigilancia de la Atmósfera Global"@es ,
+    "Глобальная служба атмосферы"@ru .
+
+<ProgramAffiliation/gawContributing> a skos:Concept ;
+    skos:notation "gawContributing" ;
+    rdfs:label "GAW Contributing networks"@en ,
+    "Réseaux contribuant à la VAG"@fr ,
+    "Redes colaboradoras de la VAG"@es ,
+    "Содействующие сети ГСА"@ru ;
+    dct:description  "Networks contributing to GAW that have signed an agreement with GAW"@en ,
+    "Réseaux contribuant à la VAG qui ont signé un accord avec la VAG"@fr ,
+    "Redes que contribuyen a la VAG que han firmado un acuerdo con ella"@es ,
+    "Сети, содействующие ГСА, которые подписали соглашение с ГСА"@ru .
+
+<ProgramAffiliation/aline> a skos:Concept ;
+    skos:notation "aline" ;
+    rdfs:label "ALINE"@en ,
+    "LALINET"@fr ,
+    "ALINE"@es ,
+    "ALINE"@ru ;
+    dct:description  "ALINE Latin America Lidar Network"@en ,
+    "Réseau de lidars d’Amérique latine"@fr ,
+    "Red ALINE de sistemas lidar de América Latina"@es ,
+    "Латиноамериканская лидарная сеть ALINE"@ru .
+
+<ProgramAffiliation/castnet> a skos:Concept ;
+    skos:notation "castnet" ;
+    rdfs:label "CASTNET"@en ,
+    "CASTNET"@fr ,
+    "CASTNET"@es ,
+    "CASTNET"@ru ;
+    dct:description  "Clean Air Status and Trends Network"@en ,
+    "Réseau de mesure de la qualité de l’air et de son évolution"@fr ,
+    "Red de Condiciones y Tendencias de Aire Limpio"@es ,
+    "Сеть мониторинга состояния и тенденций качества чистого воздуха"@ru .
+
+<ProgramAffiliation/galionGAW> a skos:Concept ;
+    skos:notation "galionGAW" ;
+    rdfs:label "GALION"@en ,
+    "GALION"@fr ,
+    "GALION"@es ,
+    "GALION"@ru ;
+    dct:description  "GAW Aerosol Lidar Observation Network"@en ,
+    "Réseau d’observation lidar des aérosols relevant de la VAG "@fr ,
+    "Red de observación de aerosoles con lidar de la Vigilancia de la Atmósfera Global"@es ,
+    "Сеть лидарных наблюдений за аэрозолями ГСА"@ru .
+
+<ProgramAffiliation/galionAdnet> a skos:Concept ;
+    skos:notation "galionAdnet" ;
+    rdfs:label "ADNet"@en ,
+    "ADNet"@fr ,
+    "ADNet"@es ,
+    "ADNet"@ru ;
+    dct:description  "AD-Net Asian Dust and Lidar Observation Network"@en ,
+    "Réseau asiatique de lidars d’observation des poussières et des aérosols"@fr ,
+    "Red asiática de sistemas lidar de observación del polvo y aerosoles"@es ,
+    "Сеть лидарных наблюдений за аэрозолями и выбросами пыли в Азии"@ru .
+
+<ProgramAffiliation/galionEarlinet> a skos:Concept ;
+    skos:notation "galionEarlinet" ;
+    rdfs:label "EARLINET"@en ,
+    "EARLINET"@fr ,
+    "EARLINET"@es ,
+    "EARLINET"@ru ;
+    dct:description  "EARLINET European Lidar"@en ,
+    "Réseau européen de lidars de recherche sur les aérosols"@fr ,
+    "Red europea de lidar EARLINET "@es ,
+    "Европейская лидарная сеть EARLINET "@ru .
+
+<ProgramAffiliation/galionMplnet> a skos:Concept ;
+    skos:notation "galionMplnet" ;
+    rdfs:label "MPLNET"@en ,
+    "MPLNET"@fr ,
+    "MPLNET"@es ,
+    "MPLNET"@ru ;
+    dct:description  "Micro-Pulse Lidar Network"@en ,
+    "Réseau de lidars à micro-impulsions"@fr ,
+    "Red de microimpulsos lidar"@es ,
+    "Микроимпульсная лидарная сеть"@ru .
+
+<ProgramAffiliation/galionNdacc> a skos:Concept ;
+    skos:notation "galionNdacc" ;
+    rdfs:label "NDACC"@en ,
+    "NDACC"@fr ,
+    "NDACC"@es ,
+    "NDACC"@ru ;
+    dct:description  "Network for the Detection of Atmospheric Composition Change"@en ,
+    "Réseau de détection des modifications dans la composition de l’atmosphère"@fr ,
+    "Red para la detección de cambios en la composición de la atmósfera"@es ,
+    "Сеть для обнаружения изменения состава атмосферы"@ru .
+
+<ProgramAffiliation/gawPFR> a skos:Concept ;
+    skos:notation "gawPFR" ;
+    rdfs:label "GAW-PFR"@en ,
+    "VAG-PFR"@fr ,
+    "VAG-PFR"@es ,
+    "GAW-PFR"@ru ;
+    dct:description  "GAW Precision Filter Radiometer Network"@en ,
+    "Réseau VAG de radiomètres à filtre de précision"@fr ,
+    "Red de radiómetros de filtro de precisión para VAG"@es ,
+    "Сеть прецензионных радиометров с фильтром ГСА"@ru .
+
+<ProgramAffiliation/idaf> a skos:Concept ;
+    skos:notation "idaf" ;
+    rdfs:label "IDAF"@en ,
+    "IDAF"@fr ,
+    "IDAF"@es ,
+    "IDAF"@ru ;
+    dct:description  "IGAC/DEBITS Africa"@en ,
+    "IGAC/DEBITS Africa"@fr ,
+    "IGAC/DEBITS Africa"@es ,
+    "IGAC/DEBITS Africa"@ru .
+
+<ProgramAffiliation/improve> a skos:Concept ;
+    skos:notation "improve" ;
+    rdfs:label "IMPROVE"@en ,
+    "IMPROVE"@fr ,
+    "IMPROVE"@es ,
+    "IMPROVE"@ru ;
+    dct:description  "IMPROVE Optical Aerosol"@en ,
+    "Programme portant sur les propriétés optiques des aérosols"@fr ,
+    "Red IMPROVE de medidas ópticas de los aerosoles"@es ,
+    "Сеть оптического мониторинга аэрозолей IMPROVE"@ru .
+
+<ProgramAffiliation/nadp> a skos:Concept ;
+    skos:notation "nadp" ;
+    rdfs:label "NADP"@en ,
+    "NADP"@fr ,
+    "NADP"@es ,
+    "NADP"@ru ;
+    dct:description  "National Atmospheric Deposition Program"@en ,
+    "Programme national de mesure du dépôt atmosphérique"@fr ,
+    "Programa Nacional de Deposición Atmosférica"@es ,
+    "Национальная программа по атмосферным выпадениям"@ru .
+
+<ProgramAffiliation/tccon> a skos:Concept ;
+    skos:notation "tccon" ;
+    rdfs:label "TCCON"@en ,
+    "TCCON"@fr ,
+    "TCCON"@es ,
+    "TCCON"@ru ;
+    dct:description  "Total Carbon Column Observing Network"@en ,
+    "Réseau d’observation de la colonne totale de carbone"@fr ,
+    "Red de observación de la columna total de carbono"@es ,
+    "Сеть наблюдений за суммарным содержанием углерода в вертикальном столбе атмосферы"@ru .
+
+<ProgramAffiliation/gawGlobal> a skos:Concept ;
+    skos:notation "gawGlobal" ;
+    rdfs:label "GAW Global"@en ,
+    "VAG mondiale"@fr ,
+    "VAG Global"@es ,
+    "GAВт Global"@ru ;
+    dct:description  "Global GAW station"@en ,
+    "Station mondiale de la VAG"@fr ,
+    "Estación mundial de la VAG "@es ,
+    "Глобальная станция ГСА"@ru .
+
+<ProgramAffiliation/gawLocal> a skos:Concept ;
+    skos:notation "gawLocal" ;
+    rdfs:label "GAW Local"@en ,
+    "VAG locale"@fr ,
+    "VAG Local"@es ,
+    "GAВт Local"@ru ;
+    dct:description  "Local GAW station"@en ,
+    "Station locale de la VAG"@fr ,
+    "Estación de VAG local"@es ,
+    "Локальная станция ГСА"@ru .
+
+<ProgramAffiliation/gawOther> a skos:Concept ;
+    skos:notation "gawOther" ;
+    rdfs:label "GAW Other elements"@en ,
+    "Autres composantes de la VAG"@fr ,
+    "Otros elementos de la VAG"@es ,
+    "Другие элементы ГСА"@ru ;
+    dct:description  "Other international/national networks that provide atmospheric composition observations but are not (yet) affiliated with GAW"@en ,
+    "Autres réseaux internationaux et nationaux qui fournissent des observations sur la composition de l’atmosphère, mais ne sont pas ou pas encore affiliés à la VAG"@fr ,
+    "Otras redes internacionales y nacionales que aportan observaciones sobre la composición atmosférica pero (aún) no forman parte de la VAG"@es ,
+    "Другие международные/национальные сети, которые обеспечивают наблюдение за составом атмосферы, но (еще) не связаны с ГСА"@ru .
+
+<ProgramAffiliation/agage> a skos:Concept ;
+    skos:notation "agage" ;
+    rdfs:label "AGAGE"@en ,
+    "AGAGE"@fr ,
+    "AGAGE"@es ,
+    "AGAGE"@ru ;
+    dct:description  "AGAGE/SOGE/NIES"@en ,
+    "AGAGE/SOGE/NIES"@fr ,
+    "AGAGE/SOGE/NIES"@es ,
+    "AGAGE/SOGE/NIES"@ru .
+
+<ProgramAffiliation/globalAOD> a skos:Concept ;
+    skos:notation "globalAOD" ;
+    rdfs:label "AOD"@en ,
+    "AOD"@fr ,
+    "AOD"@es ,
+    "ОПА"@ru ;
+    dct:description  "Aerosol Optical Depth"@en ,
+    "Profondeur optique des aérosols"@fr ,
+    "Espesor óptico de los aerosoles"@es ,
+    "Оптическая плотность аэрозолей"@ru .
+
+<ProgramAffiliation/aerocan> a skos:Concept ;
+    skos:notation "aerocan" ;
+    rdfs:label "AEROCAN"@en ,
+    "AEROCAN"@fr ,
+    "AEROCAN"@es ,
+    "AEROCAN"@ru ;
+    dct:description  "AEROCAN, federated to AERONET"@en ,
+    "AEROCAN, relevant de AERONET"@fr ,
+    "AEROCAN, federada en AERONET"@es ,
+    "AEROCAN, объединенная с AERONET"@ru .
+
+<ProgramAffiliation/aeronet> a skos:Concept ;
+    skos:notation "aeronet" ;
+    rdfs:label "AERONET"@en ,
+    "AERONET"@fr ,
+    "AERONET"@es ,
+    "AERONET"@ru ;
+    dct:description  "AERONET"@en ,
+    "AERONET"@fr ,
+    "AERONET"@es ,
+    "AERONET"@ru .
+
+<ProgramAffiliation/germanAOD> a skos:Concept ;
+    skos:notation "germanAOD" ;
+    rdfs:label "German AOD network"@en ,
+    "Réseau AOD allemand"@fr ,
+    "Red alemana de AOD "@es ,
+    "Немецкая сеть AOD "@ru ;
+    dct:description  "German AOD network"@en ,
+    "Réseau allemand de mesure de la profondeur optique des aérosols"@fr ,
+    "Red alemana de AOD"@es ,
+    "Немецкая сеть AOD"@ru .
+
+<ProgramAffiliation/photons> a skos:Concept ;
+    skos:notation "photons" ;
+    rdfs:label "PHOTONS"@en ,
+    "PHOTONS"@fr ,
+    "PHOTONS"@es ,
+    "PHOTONS"@ru ;
+    dct:description  "PHOTONS, federated to AERONET"@en ,
+    "PHOTONS, relevant de AERONET"@fr ,
+    "PHOTONS, federada en AERONET"@es ,
+    "PHOTONS, объединена с AERONET"@ru .
+
+<ProgramAffiliation/polarAOD> a skos:Concept ;
+    skos:notation "polarAOD" ;
+    rdfs:label "PolarAOD"@en ,
+    "PolarAOD"@fr ,
+    "PolarAOD"@es ,
+    "PolarAOD"@ru ;
+    dct:description  "PolarAOD"@en ,
+    "PolarAOD"@fr ,
+    "PolarAOD"@es ,
+    "PolarAOD"@ru .
+
+<ProgramAffiliation/sibrad> a skos:Concept ;
+    skos:notation "sibrad" ;
+    rdfs:label "SibRad"@en ,
+    "SibRad"@fr ,
+    "SibRad"@es ,
+    "SibRad"@ru ;
+    dct:description  "SibRad"@en ,
+    "SibRad"@fr ,
+    "SibRad"@es ,
+    "SibRad"@ru .
+
+<ProgramAffiliation/skynet> a skos:Concept ;
+    skos:notation "skynet" ;
+    rdfs:label "SKYNET"@en ,
+    "SKYNET"@fr ,
+    "SKYNET"@es ,
+    "SKYNET"@ru ;
+    dct:description  "SKYNET"@en ,
+    "SKYNET"@fr ,
+    "SKYNET"@es ,
+    "SKYNET"@ru .
+
+<ProgramAffiliation/capmon> a skos:Concept ;
+    skos:notation "capmon" ;
+    rdfs:label "CAPMoN"@en ,
+    "RCSAP"@fr ,
+    "CAPMoN"@es ,
+    "CAPMoN"@ru ;
+    dct:description  "Canadian Air and Precipitation Monitoring Network"@en ,
+    "Réseau canadien de surveillance de l'air et des précipitations "@fr ,
+    "Red canadiense de vigilancia de la atmósfera y de la precipitación"@es ,
+    "Канадская сеть мониторинга воздуха и осадков"@ru .
+
+<ProgramAffiliation/cislinet> a skos:Concept ;
+    skos:notation "cislinet" ;
+    rdfs:label "CIS-LiNet"@en ,
+    "CIS-LiNet"@fr ,
+    "CIS-LiNet"@es ,
+    "CIS-LiNet"@ru ;
+    dct:description  "Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network"@en ,
+    "Réseau de stations lidar de surveillance des aérosols et de l’ozone dans l’atmosphère au-dessus des régions de la Communauté d’États indépendants "@fr ,
+    "Vigilancia del aerosol y el ozono de la atmósfera en las regiones de la Comunidad de Estados Independientes mediante una red de estaciones lidar"@es ,
+    "Мониторинг атмосферного аэрозоля и озона в регионах СНГ при помощи сети лидарных станций"@ru .
+
+<ProgramAffiliation/cln> a skos:Concept ;
+    skos:notation "cln" ;
+    rdfs:label "CLN"@en ,
+    "CLN"@fr ,
+    "CLN"@es ,
+    "CLN"@ru ;
+    dct:description  "The NOAA Cooperative Remote Sensing Science and Technology (CREST) Lidar network"@en ,
+    "Réseau lidar du Centre coopératif scientifique et technique de télédétection (CREST) relevant de la NOAA "@fr ,
+    "Red de sistemas lidar del Centro Científico y Tecnológico de Teledetección Cooperativa (CREST) de la NOAA"@es ,
+    "Совместная научно-техническая лидарная сеть (CREST) НУОА"@ru .
+
+<ProgramAffiliation/eanet> a skos:Concept ;
+    skos:notation "eanet" ;
+    rdfs:label "EANET"@en ,
+    "EANET"@fr ,
+    "EANET"@es ,
+    "EANET"@ru ;
+    dct:description  "EANET"@en ,
+    "Réseau de surveillance des dépôts acides en Asie de l'Est"@fr ,
+    "EANET"@es ,
+    "EANET"@ru .
+
+<ProgramAffiliation/emep> a skos:Concept ;
+    skos:notation "emep" ;
+    rdfs:label "EMEP"@en ,
+    "EMEP"@fr ,
+    "EMEP"@es ,
+    "EMEP"@ru ;
+    dct:description  "European Monitoring and Evaluation Programme"@en ,
+    "Programme européen de surveillance et d’évaluation"@fr ,
+    "Programa europeo de vigilancia y evaluación"@es ,
+    "Европейская программа по мониторингу и оценке"@ru .
+
+<ProgramAffiliation/esrlccg> a skos:Concept ;
+    skos:notation "esrlccg" ;
+    rdfs:label "ESRLCCG"@en ,
+    "ESRLCCG"@fr ,
+    "ESRLCCG"@es ,
+    "ESRLCCG"@ru ;
+    dct:description  "NOAA-ESRL (CCG)"@en ,
+    "NOAA-ESRL (CCG)"@fr ,
+    "NOAA-ESRL (CCG)"@es ,
+    "NOAA-ESRL (CCG)"@ru .
+
+<ProgramAffiliation/iagos> a skos:Concept ;
+    skos:notation "iagos" ;
+    rdfs:label "IAGOS"@en ,
+    "IAGOS"@fr ,
+    "IAGOS"@es ,
+    "IAGOS"@ru ;
+    dct:description  "MOZAIC-IAGOS"@en ,
+    "MOZAIC-IAGOS"@fr ,
+    "MOZAIC-IAGOS"@es ,
+    "MOZAIC-IAGOS"@ru .
+
+<ProgramAffiliation/ndacc> a skos:Concept ;
+    skos:notation "ndacc" ;
+    rdfs:label "NDACC"@en ,
+    "NDACC"@fr ,
+    "NDACC"@es ,
+    "NDACC"@ru ;
+    dct:description  "Network for the Detection of Atmospheric Composition Change"@en ,
+    "Réseau de détection des modifications dans la composition de l’atmosphère"@fr ,
+    "Red para la detección de cambios en la composición de la atmósfera"@es ,
+    "Сеть для обнаружения изменения состава атмосферы"@ru .
+
+<ProgramAffiliation/gawNonAffiliated> a skos:Concept ;
+    skos:notation "gawNonAffiliated" ;
+    rdfs:label "Non-affiliated"@en ,
+    "Non affilié"@fr ,
+    "No asociados"@es ,
+    "Несвязанные"@ru ;
+    dct:description  "Observing elements that are not affiliated with GAW or any of the co-sponsored programs"@en ,
+    "Éléments d’observation n’étant affiliés ni à la VAG ni à l’un des programmes coparrainés "@fr ,
+    "Elementos de observación que no forman parte de la VAG ni de ninguno de los programas copatrocinados"@es ,
+    "Элементы наблюдений, которые не связаны с ГСА или любой из совместно спонсируемых программ"@ru .
+
+<ProgramAffiliation/shadoz> a skos:Concept ;
+    skos:notation "shadoz" ;
+    rdfs:label "SHADOZ"@en ,
+    "SHADOZ"@fr ,
+    "SHADOZ"@es ,
+    "SHADOZ"@ru ;
+    dct:description  "Southern Hemisphere ADditional Ozonesondes"@en ,
+    "Sondes d’ozone supplémentaires de l’hémisphère Sud "@fr ,
+    "Ozonosondas adicionales del hemisferio sur"@es ,
+    "Дополнительные озонозонды Южного полушария"@ru .
+
+<ProgramAffiliation/gawRegional> a skos:Concept ;
+    skos:notation "gawRegional" ;
+    rdfs:label "GAW Regional"@en ,
+    "VAG régionale"@fr ,
+    "VAG Regional"@es ,
+    "Региональная ГСА"@ru ;
+    dct:description  "Regional GAW station"@en ,
+    "Station régionale de la VAG"@fr ,
+    "Estación regional de la VAG"@es ,
+    "Станция региональной ГСА"@ru .
+
+<ProgramAffiliation/gcw> a skos:Concept ;
+    skos:notation "gcw" ;
+    rdfs:label "GCW"@en ,
+    "GCW"@fr ,
+    "VCG"@es ,
+    "ГСК"@ru ;
+    dct:description  "Global Cryosphere Watch"@en ,
+    "Veille mondiale de la cryosphère"@fr ,
+    "Vigilancia de la Criosfera Global"@es ,
+    "Глобальная служба криосферы"@ru .
+
+<ProgramAffiliation/cryonet> a skos:Concept ;
+    skos:notation "cryonet" ;
+    rdfs:label "CryoNet"@en ,
+    "CryoNet"@fr ,
+    "CryoNet"@es ,
+    "CryoNet"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/gos> a skos:Concept ;
+    skos:notation "gos" ;
+    rdfs:label "GOS"@en ,
+    "SMO"@fr ,
+    "SMO"@es ,
+    "ГСН"@ru ;
+    dct:description  "Global Observing System"@en ,
+    "Système mondial d’observation"@fr ,
+    "Sistema Mundial de Observación"@es ,
+    "Глобальная система наблюдений"@ru .
+
+<ProgramAffiliation/gosContributing> a skos:Concept ;
+    skos:notation "gosContributing" ;
+    rdfs:label "GOS Contributing networks"@en ,
+    "Réseaux contribuant au SMO"@fr ,
+    "Redes colaboradoras del SMO"@es ,
+    "Содействующие сети ГСН"@ru ;
+    dct:description  "Networks contributing to the Global Observing System (GOS)"@en ,
+    "Réseaux contribuant au Système mondial d’observation (SMO)"@fr ,
+    "Redes colaboradoras del Sistema Mundial de Observación (SMO)"@es ,
+    "Сети, содействующие Глобальной системе наблюдений (ГСН)"@ru .
+
+<ProgramAffiliation/ctbto> a skos:Concept ;
+    skos:notation "ctbto" ;
+    rdfs:label "CTBTO"@en ,
+    "OTICE"@fr ,
+    "CTBTO"@es ,
+    "ОДВЗЯИ"@ru ;
+    dct:description  "Comprehensive Nuclear-Test Ban Treaty Organization International Monitoring System Network monitoring station"@en ,
+    "Station du Système de surveillance international (SSI) de la Commission préparatoire de l’Organisation du Traité d’interdiction complète des essais nucléaires (OTICE)"@fr ,
+    "Estación del Sistema de vigilancia internacional de la Organización del Tratado de Prohibición Completa de los Ensayos Nucleares"@es ,
+    "Станция мониторинга Организации по Договору о всеобъемлющем запрещении ядерных испытаний"@ru .
+
+<ProgramAffiliation/gosOther> a skos:Concept ;
+    skos:notation "gosOther" ;
+    rdfs:label "GOS Other elements"@en ,
+    "Autres composantes du SMO"@fr ,
+    "Otros elementos del SMO"@es ,
+    "Другие элементы ГСН"@ru ;
+    dct:description  "Other elements of the Global Observing System (GOS)"@en ,
+    "Autres composantes du Système mondial d’observation (SMO)"@fr ,
+    "Otros elementos del Sistema Mundial de Observación (SMO)"@es ,
+    "Другие элементы Глобальной системы наблюдений (ГСН)"@ru .
+
+<ProgramAffiliation/add> a skos:Concept ;
+    skos:notation "add" ;
+    rdfs:label "ADD"@en ,
+    "ADD"@fr ,
+    "ADD"@es ,
+    "ADD"@ru ;
+    dct:description  "Aircraft Derived Data (Mode-S/ADS-B)"@en ,
+    "Données d’aéronefs (Mode-S/ADS-B)"@fr ,
+    "Datos procedentes de una aeronave (Modo S/ADS-B)"@es ,
+    "Данные, передаваемые с борта самолета (режим-S/ADS-B)"@ru .
+
+<ProgramAffiliation/adsc> a skos:Concept ;
+    skos:notation "adsc" ;
+    rdfs:label "ADS-C"@en ,
+    "ADS-C"@fr ,
+    "ADS-C"@es ,
+    "ADS-C"@ru ;
+    dct:description  "Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath."@en ,
+    "Surveillance dépendante automatique (OACI). Données transmises à certains points de la trajectoire de vol."@fr ,
+    "Vigilancia automática de datos (OACI). Estos se transmiten en puntos seleccionados de la trayectoria de vuelo"@es ,
+    "Автоматический контроль данных (ИКАО). Данные передаются в выборочные точки по маршруту полета."@ru .
+
+<ProgramAffiliation/afirs> a skos:Concept ;
+    skos:notation "afirs" ;
+    rdfs:label "AFIRS"@en ,
+    "AFIRS"@fr ,
+    "AFIRS"@es ,
+    "AFIRS"@ru ;
+    dct:description  "Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"@en ,
+    "Système de transmission automatique de données de vol (commercial/FLYHT). Actuellement fermé au SMT, contrat avec Panasonic et ligne aérienne et/ou SMHN."@fr ,
+    "Sistema automático de retransmisión de la información de vuelo (comercial/FLYHT). En la actualidad no está abierto al SMT, se debe contratar con Panasonic y la compañía aérea y/o el SMHN. "@es ,
+    "Автоматизированная система передачи полетной информации (коммерческая/FLYHT). В настоящее время закрыта для ГСТ, связана с «Панасоник» и авиалинией и/или НМГС"@ru .
+
+<ProgramAffiliation/airep> a skos:Concept ;
+    skos:notation "airep" ;
+    rdfs:label "AIREP"@en ,
+    "AIREP"@fr ,
+    "AIREP"@es ,
+    "AIREP"@ru ;
+    dct:description  "Aircraft Report (Manual). These are transmitted by the aircraft when a weather event encountered e.g. severe turbulence or icing."@en ,
+    "Message météorologique d’aéronef (transmission manuelle). Messages transmis quand l’aéronef rencontre un phénomène météorologique particulier, ex.: forte turbulence ou conditions de givrage."@fr ,
+    "Informe de aeronave (manual). Son transmitidos por la aeronave cuando se encuentra con un fenómeno meteorológico, como turbulencia fuerte o engelamiento."@es ,
+    "Самолетная сводка (ручная). Сводки передаются самолетом при столкновении с метеорологическим явлением, например сильная турбулентность или обледенение"@ru .
+
+<ProgramAffiliation/amdar> a skos:Concept ;
+    skos:notation "amdar" ;
+    rdfs:label "AMDAR"@en ,
+    "AMDAR"@fr ,
+    "AMDAR"@es ,
+    "AMDAR"@ru ;
+    dct:description  "Aircraft Meteorological Data Relay"@en ,
+    "Retransmission des données météorologiques d'aéronefs"@fr ,
+    "Retransmisión de datos meteorológicos de aeronaves"@es ,
+    "Передача метеорологических данных с самолета."@ru .
+
+<ProgramAffiliation/ceilometer> a skos:Concept ;
+    skos:notation "ceilometer" ;
+    rdfs:label "Ceilometers"@en ,
+    "Célomètres"@fr ,
+    "Nefobasímetros"@es ,
+    "Измерители высоты"@ru ;
+    dct:description  "Elastic lidar (ceilometer) networks"@en ,
+    "Réseaux de lidars rétrodiffusion élastique (célomètres) "@fr ,
+    "Redes de lidar elásticos (nefobasímetros)"@es ,
+    "Сети эластичных лидаров (измерители высоты) "@ru .
+
+<ProgramAffiliation/gnssRadioOccultation> a skos:Concept ;
+    skos:notation "gnssRadioOccultation" ;
+    rdfs:label "GNSS radio-occultation system"@en ,
+    "Système de radio-occultation du GNSS "@fr ,
+    "Sistemas de radioocultación GNSS"@es ,
+    "Система радиозатемнения ГНСС"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/lightningDetection> a skos:Concept ;
+    skos:notation "lightningDetection" ;
+    rdfs:label "Lightning detection system"@en ,
+    "Système de détection des éclairs "@fr ,
+    "Sistema de detección de rayos"@es ,
+    "Система обнаружения молний"@ru ;
+    dct:description  "Surface-based lightning detection system"@en ,
+    "Système de détection des éclairs depuis le sol "@fr ,
+    "Sistema de detección de rayos en superficie"@es ,
+    "Наземная система обнаружения молний"@ru .
+
+<ProgramAffiliation/tamdar> a skos:Concept ;
+    skos:notation "tamdar" ;
+    rdfs:label "TAMDAR"@en ,
+    "TAMDAR"@fr ,
+    "TAMDAR"@es ,
+    "TAMDAR"@ru ;
+    dct:description  "Tropospheric Aircraft Meteorological Data Relay (Commercial/Panasonic). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"@en ,
+    "Système aéroporté de transmission de données météorologiques troposphériques (commercial/Panasonic). Actuellement fermé au SMT, contrat avec Panasonic et ligne aérienne et/ou SMHN."@fr ,
+    "Notificación de datos meteorológicos troposféricos de a bordo (comercial/Panasonic). En la actualidad no está abierto al SMT, se debe contratar con Panasonic y la compañía aérea y/o el SMHN."@es ,
+    "Передача тропосферных метеорологических данных с самолетов (коммерческая/«Панасоник»). В настоящее время закрыта для ГСТ, связана с «Панасоник» и авиалинией и/или НМГС"@ru .
+
+<ProgramAffiliation/windProfiler> a skos:Concept ;
+    skos:notation "windProfiler" ;
+    rdfs:label "Wind Profilers"@en ,
+    "Profileurs de vent"@fr ,
+    "Perfiladores de viento"@es ,
+    "Профилометры ветра"@ru ;
+    dct:description  "Wind profilers for upper-air wind observations"@en ,
+    "Profileurs de vent en altitude"@fr ,
+    "Perfiladores de viento para observaciones del viento en altitud"@es ,
+    "Профилометры ветра для наблюдения за ветром на высотах"@ru .
+
+<ProgramAffiliation/wro> a skos:Concept ;
+    skos:notation "wro" ;
+    rdfs:label "WRO"@en ,
+    "WRO"@fr ,
+    "WRO"@es ,
+    "WRO"@ru ;
+    dct:description  "GOS Weather Radar"@en ,
+    "Radar météorologique du SMO"@fr ,
+    "Radar meteorológico del SMO"@es ,
+    "Метеорологический радиолокатор ГСН"@ru .
+
+<ProgramAffiliation/gosSurface> a skos:Concept ;
+    skos:notation "gosSurface" ;
+    rdfs:label "GOS Surface networks"@en ,
+    "Réseaux en surface du SMO"@fr ,
+    "Redes de observación en superficie del SMO"@es ,
+    "Сети приземных наблюдений ГСН"@ru ;
+    dct:description  "Surface-based observing networks of the Global Observing System (GOS)"@en ,
+    "Réseaux d’observation en surface relevant du Système mondial d’observation (SMO)"@fr ,
+    "Redes de observación en superficie del Sistema Mundial de Observación (SMO)"@es ,
+    "Сети приземных наблюдений Глобальной системы наблюдений (ГСН)"@ru .
+
+<ProgramAffiliation/anton> a skos:Concept ;
+    skos:notation "anton" ;
+    rdfs:label "ANTON"@en ,
+    "ANTON"@fr ,
+    "AntON"@es ,
+    "ANTON"@ru ;
+    dct:description  "Antarctic Observing Network surface synoptic station (SYNOP/CLIMAT)"@en ,
+    "Station synoptique de surface (SYNOP/CLIMAT) du Réseau d'observation de l'Antarctique "@fr ,
+    "Estación sinóptica de superficie de la Red de observación antártica (SYNOP/CLIMAT)"@es ,
+    "Станция приземных синоптических наблюдений Сети наблюдений в Антарктике (SYNOP/CLIMAT)"@ru .
+
+<ProgramAffiliation/antonT> a skos:Concept ;
+    skos:notation "antonT" ;
+    rdfs:label "ANTON(T)"@en ,
+    "ANTON(T)"@fr ,
+    "AntON (T)"@es ,
+    "ANTON(T)"@ru ;
+    dct:description  "Antarctic Observing Network upper-air station (TEMP)"@en ,
+    "Station aérologique (TEMP) du Réseau d'observation de l'Antarctique"@fr ,
+    "Estación de observación en altitud de la Red de observación antártica (TEMP)"@es ,
+    "Станция аэрологических наблюдений Сети наблюдений в Антарктике (TEMP)"@ru .
+
+<ProgramAffiliation/bsrn> a skos:Concept ;
+    skos:notation "bsrn" ;
+    rdfs:label "BSRN"@en ,
+    "BSRN"@fr ,
+    "BSRN"@es ,
+    "BSRN"@ru ;
+    dct:description  "Baseline Surface Radiation Network"@en ,
+    "Réseau de référence pour la mesure du rayonnement en surface"@fr ,
+    "Red para a medición de radiaciones en superficie"@es ,
+    "Опорная сеть для измерений приземной радиации"@ru .
+
+<ProgramAffiliation/rbcn> a skos:Concept ;
+    skos:notation "rbcn" ;
+    rdfs:label "RBCN"@en ,
+    "RCBR"@fr ,
+    "RCBR"@es ,
+    "RBCN"@ru ;
+    dct:description  "Regional Basic Climatological Networks"@en ,
+    "Réseaux climatologiques de base régionaux"@fr ,
+    "Redes climatológicas básicas regionales"@es ,
+    "Региональные опорные климатологические сети"@ru .
+
+<ProgramAffiliation/rbcnClimatC> a skos:Concept ;
+    skos:notation "rbcnClimatC" ;
+    rdfs:label "CLIMAT(C)"@en ,
+    "CLIMAT(C)"@fr ,
+    "CLIMAT(C)"@es ,
+    "CLIMAT(C)"@ru ;
+    dct:description  "Station for which monthly climatological means of surface elements are transmitted"@en ,
+    "Station qui transmet les moyennes climatologiques mensuelles des éléments de surface"@fr ,
+    "Estación para la cual se transmiten mensualmente medias climatológicas de elementos de superficie"@es ,
+    "Станция, для которой передаются ежемесячные средние климатологические показатели приземных элементов"@ru .
+
+<ProgramAffiliation/rbcnClimatCT> a skos:Concept ;
+    skos:notation "rbcnClimatCT" ;
+    rdfs:label "CLIMAT(CT)"@en ,
+    "CLIMAT(CT)"@fr ,
+    "CLIMAT(CT)"@es ,
+    "CLIMAT(CT)"@ru ;
+    dct:description  "Station for which monthly climatological means of both surface and upper- air elements are transmitted"@en ,
+    "Station qui transmet les moyennes climatologiques mensuelles des éléments de surface et aérologiques "@fr ,
+    "Estación para la cual se transmiten mensualmente medias climatológicas de elementos de superficie y de altitud"@es ,
+    "Станция, на которую передаются ежемесячные климатологические средние значения как приземных, так и аэрологических элементов"@ru .
+
+<ProgramAffiliation/rbcnClimatT> a skos:Concept ;
+    skos:notation "rbcnClimatT" ;
+    rdfs:label "CLIMAT(T)"@en ,
+    "CLIMAT(T)"@fr ,
+    "CLIMAT(T)"@es ,
+    "CLIMAT(T)"@ru ;
+    dct:description  "Station for which monthly climatological means of upper-air elements are transmitted"@en ,
+    "Station qui transmet les moyennes climatologiques mensuelles des éléments aérologiques "@fr ,
+    "Estación para la cual se transmiten mensualmente medias climatológicas de elementos de altitud"@es ,
+    "Станция, на которую передаются ежемесячные климатологические средние значения аэрологических элементов"@ru .
+
+<ProgramAffiliation/rbsn> a skos:Concept ;
+    skos:notation "rbsn" ;
+    rdfs:label "RBSN"@en ,
+    "RSBR"@fr ,
+    "RBSR"@es ,
+    "RBSN"@ru ;
+    dct:description  "GOS Regional Basic Synoptic Networks"@en ,
+    "Réseaux synoptiques de base régionaux relevant du SMO"@fr ,
+    "Redes sinópticas básicas regionales del SMO"@es ,
+    "Региональные опорные климатологические сети ГСН"@ru .
+
+<ProgramAffiliation/rbsnP> a skos:Concept ;
+    skos:notation "rbsnP" ;
+    rdfs:label "RBSN(P)"@en ,
+    "RSBR(P)"@fr ,
+    "RBSR(P)"@es ,
+    "RBSN(P)"@ru ;
+    dct:description  "Regional Basic Synoptic Network upper-air station (PILOT)"@en ,
+    "Station aérologique (PILOT) d’un Réseau synoptique de base régional"@fr ,
+    "Estación en altitud de la Red sinóptica básica regional (PILOT)"@es ,
+    "Аэрологическая станция (PILOT) региональной опорной синоптической сети"@ru .
+
+<ProgramAffiliation/rbsnS> a skos:Concept ;
+    skos:notation "rbsnS" ;
+    rdfs:label "RBSN(S)"@en ,
+    "RSBR(S)"@fr ,
+    "RBSR(S)"@es ,
+    "RBSN(S)"@ru ;
+    dct:description  "Regional Basic Synoptic Network surface station (SYNOP)"@en ,
+    "Station de surface (SYNOP) d’un Réseau synoptique de base régional"@fr ,
+    "Estación en superficie de la Red sinóptica básica regional (SYNOP)"@es ,
+    "Аэрологическая станция (SYNOP) региональной опорной синоптической сети "@ru .
+
+<ProgramAffiliation/rbsnSP> a skos:Concept ;
+    skos:notation "rbsnSP" ;
+    rdfs:label "RBSN(SP)"@en ,
+    "RSBR(SP)"@fr ,
+    "RBSR(SP)"@es ,
+    "RBSN(SP)"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/rbsnST> a skos:Concept ;
+    skos:notation "rbsnST" ;
+    rdfs:label "RBSN(ST)"@en ,
+    "RSBR(ST)"@fr ,
+    "RBSR(ST)"@es ,
+    "RBSN(ST)"@ru ;
+    dct:description  "Regional Basic Synoptic Network surface and upper-air station (SYNOP/TEMP)"@en ,
+    "Station de surface et aérologique (SYNOP/TEMP) d’un Réseau synoptique de base régional "@fr ,
+    "Estación en superficie y en altitud de la Red sinóptica básica regional (SYNOP/TEMP)"@es ,
+    "Станция приземных и аэрологических наблюдений (SYNOP/TEMP) региональной опорной синоптической сети "@ru .
+
+<ProgramAffiliation/rbsnT> a skos:Concept ;
+    skos:notation "rbsnT" ;
+    rdfs:label "RBSN(T)"@en ,
+    "RSBR(T)"@fr ,
+    "RBSR(T)"@es ,
+    "RBSN(T)"@ru ;
+    dct:description  "Regional Basic Synoptic Network upper-air station (TEMP)"@en ,
+    "Station aérologique (TEMP) d’un Réseau synoptique de base régional"@fr ,
+    "Estación en altitud de la Red sinóptica básica regional (TEMP)"@es ,
+    "Аэрологическая станция (TEMP) региональной опорной синоптической сети "@ru .
+
+<ProgramAffiliation/smoOS> a skos:Concept ;
+    skos:notation "smoOS" ;
+    rdfs:label "OceanSITES"@en ,
+    "OceanSITES"@fr ,
+    "OceanSITES"@es ,
+    "OceanSITES"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSawi> a skos:Concept ;
+    skos:notation "smoOSawi" ;
+    rdfs:label "OS-AWI"@en ,
+    "OS-AWI"@fr ,
+    "OS-AWI"@es ,
+    "OS-AWI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSbas> a skos:Concept ;
+    skos:notation "smoOSbas" ;
+    rdfs:label "OS-BAS"@en ,
+    "OS-BAS"@fr ,
+    "OS-BAS"@es ,
+    "OS-BAS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSbccr> a skos:Concept ;
+    skos:notation "smoOSbccr" ;
+    rdfs:label "OS-BCCR"@en ,
+    "OS-BCCR"@fr ,
+    "OS-BCCR"@es ,
+    "OS-BCCR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSbios> a skos:Concept ;
+    skos:notation "smoOSbios" ;
+    rdfs:label "OS-BIOS"@en ,
+    "OS-BIOS"@fr ,
+    "OS-BIOS"@es ,
+    "OS-BIOS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOScentre> a skos:Concept ;
+    skos:notation "smoOScentre" ;
+    rdfs:label "OS-CENTRE D'OCEANOLOGIE DE MARSEILLE"@en ,
+    "OS-CENTRE D'OCEANOLOGIE DE MARSEILLE"@fr ,
+    "OS-CENTRO DE OCEANOLOGÍA DE MARSELLA"@es ,
+    "OS-МАРСЕЛЬСКИЙ ОКЕАНОГРАФИЧЕСКИЙ ЦЕНТР"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOScnr> a skos:Concept ;
+    skos:notation "smoOScnr" ;
+    rdfs:label "OS-CNR"@en ,
+    "OS-CNR"@fr ,
+    "OS-CNR"@es ,
+    "OS-CNR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOScnrs> a skos:Concept ;
+    skos:notation "smoOScnrs" ;
+    rdfs:label "OS-CNRS"@en ,
+    "OS-CNRS"@fr ,
+    "OS-CNRS"@es ,
+    "OS-CNRS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOScsiro> a skos:Concept ;
+    skos:notation "smoOScsiro" ;
+    rdfs:label "OS-CSIRO"@en ,
+    "OS-CSIRO"@fr ,
+    "OS-CSIRO"@es ,
+    "OS-CSIRO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSdfo> a skos:Concept ;
+    skos:notation "smoOSdfo" ;
+    rdfs:label "OS-DFO"@en ,
+    "OS-DFO"@fr ,
+    "OS-DFO"@es ,
+    "OS-DFO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSdml> a skos:Concept ;
+    skos:notation "smoOSdml" ;
+    rdfs:label "OS-DML"@en ,
+    "OS-DML"@fr ,
+    "OS-DML"@es ,
+    "OS-DML"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSeu> a skos:Concept ;
+    skos:notation "smoOSeu" ;
+    rdfs:label "OS-EU-THOR"@en ,
+    "OS-EU-THOR"@fr ,
+    "OS-EU-THOR"@es ,
+    "OS-EU-THOR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOSgeomar> a skos:Concept ;
+    skos:notation "smoOSgeomar" ;
+    rdfs:label "OS-GEOMAR"@en ,
+    "OS-GEOMAR"@fr ,
+    "OS-GEOMAR"@es ,
+    "OS-GEOMAR"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOShamburgUni> a skos:Concept ;
+    skos:notation "smoOShamburgUni" ;
+    rdfs:label "OS-HAMBURG UNIVERSITY"@en ,
+    "OS-HAMBURG UNIVERSITY"@fr ,
+    "OS-UNIVERSIDAD DE HAMBURGO"@es ,
+    "OS-ГАМБУРГСКИЙ УНИВЕРСИТЕТ"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOShav> a skos:Concept ;
+    skos:notation "smoOShav" ;
+    rdfs:label "OS-HAV"@en ,
+    "OS-HAV"@fr ,
+    "OS-HAV"@es ,
+    "OS-HAV"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/smoOShellenic> a skos:Concept ;
+    skos:notation "smoOShellenic" ;
+    rdfs:label "OS-HELLENIC CENTRE FOR MARINE RESEARCH"@en ,
+    "OS-HELLENIC CENTRE FOR MARINE RESEARCH"@fr ,
+    "OS- CENTRO HELENO DE INVESTIGACIÓN MARINA"@es ,
+    "OS-ГРЕЧЕСКИЙ ЦЕНТР МОРСКИХ ИССЛЕДОВАНИЙ"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osICCM> a skos:Concept ;
+    skos:notation "osICCM" ;
+    rdfs:label "OS-ICCM - ACIISI - GOBIERNO DE CANARIAS"@en ,
+    "OS-ICCM - ACIISI - GOBIERNO DE CANARIAS"@fr ,
+    "OS-ICCM - ACIISI - GOBIERNO DE CANARIAS"@es ,
+    "OS-ICCM - ACIISI - GOBIERNO DE CANARIAS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osIFREMER> a skos:Concept ;
+    skos:notation "osIFREMER" ;
+    rdfs:label "OS-IFREMER"@en ,
+    "OS-IFREMER"@fr ,
+    "OS-IFREMER"@es ,
+    "OS-IFREMER"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osIMARPE> a skos:Concept ;
+    skos:notation "osIMARPE" ;
+    rdfs:label "OS-IMARPE"@en ,
+    "OS-IMARPE"@fr ,
+    "OS-IMARPE"@es ,
+    "OS-IMARPE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osIMR> a skos:Concept ;
+    skos:notation "osIMR" ;
+    rdfs:label "OS-INSTITUTE OF MARINE RESEARCH"@en ,
+    "OS-INSTITUTE OF MARINE RESEARCH"@fr ,
+    "OS-INSTITUTO DE INVESTIGACIÓN MARINA"@es ,
+    "OS-ИНСТИТУТ МОРСКИХ ИССЛЕДОВАНИЙ"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osIOntu> a skos:Concept ;
+    skos:notation "osIOntu" ;
+    rdfs:label "OS-IO-NTU"@en ,
+    "OS-IO-NTU"@fr ,
+    "OS-IO-NTU"@es ,
+    "OS-IO-NTU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osIOwarnemuende> a skos:Concept ;
+    skos:notation "osIOwarnemuende" ;
+    rdfs:label "OS-IO-WARNEMUENDE"@en ,
+    "OS-IO-WARNEMUENDE"@fr ,
+    "OS-IO-WARNEMUENDE"@es ,
+    "OS-IO-WARNEMUENDE"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osIRD> a skos:Concept ;
+    skos:notation "osIRD" ;
+    rdfs:label "OS-IRD"@en ,
+    "OS-IRD"@fr ,
+    "OS-IRD"@es ,
+    "OS-IRD"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osJamstec> a skos:Concept ;
+    skos:notation "osJamstec" ;
+    rdfs:label "OS-JAMSTEC"@en ,
+    "OS-JAMSTEC"@fr ,
+    "OS-JAMSTEC"@es ,
+    "OS-JAMSTEC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osKiost> a skos:Concept ;
+    skos:notation "osKiost" ;
+    rdfs:label "OS-KIOST"@en ,
+    "OS-KIOST"@fr ,
+    "OS-KIOST"@es ,
+    "OS-KIOST"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osLDEO> a skos:Concept ;
+    skos:notation "osLDEO" ;
+    rdfs:label "OS-LDEO"@en ,
+    "OS-LDEO"@fr ,
+    "OS-LDEO"@es ,
+    "OS-LDEO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osMarum> a skos:Concept ;
+    skos:notation "osMarum" ;
+    rdfs:label "OS-MARUM"@en ,
+    "OS-MARUM"@fr ,
+    "OS-MARUM"@es ,
+    "OS-MARUM"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osMbari> a skos:Concept ;
+    skos:notation "osMbari" ;
+    rdfs:label "OS-MBARI"@en ,
+    "OS-MBARI"@fr ,
+    "OS-MBARI"@es ,
+    "OS-MBARI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osNIO> a skos:Concept ;
+    skos:notation "osNIO" ;
+    rdfs:label "OS-NIO"@en ,
+    "OS-NIO"@fr ,
+    "OS-NIO"@es ,
+    "OS-NIO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osNIOT> a skos:Concept ;
+    skos:notation "osNIOT" ;
+    rdfs:label "OS-NIOT"@en ,
+    "OS-NIOT"@fr ,
+    "OS-NIOT"@es ,
+    "OS-NIOT"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osNIWA> a skos:Concept ;
+    skos:notation "osNIWA" ;
+    rdfs:label "OS-NIWA"@en ,
+    "OS-NIWA"@fr ,
+    "OS-NIWA"@es ,
+    "OS-NIWA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osNOAA> a skos:Concept ;
+    skos:notation "osNOAA" ;
+    rdfs:label "OS-NOAA/AOML"@en ,
+    "OS-NOAA/AOML"@fr ,
+    "OS-NOAA/AOML"@es ,
+    "OS-NOAA/AOML"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osNOAApmel> a skos:Concept ;
+    skos:notation "osNOAApmel" ;
+    rdfs:label "OS-NOAA/PMEL"@en ,
+    "OS-NOAA/PMEL"@fr ,
+    "OS-NOAA/PMEL"@es ,
+    "OS-NOAA/PMEL"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osNOC> a skos:Concept ;
+    skos:notation "osNOC" ;
+    rdfs:label "OS-NOC"@en ,
+    "OS-NOC"@fr ,
+    "OS-CON"@es ,
+    "OS-NOC"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osOGS> a skos:Concept ;
+    skos:notation "osOGS" ;
+    rdfs:label "OS-OGS"@en ,
+    "OS-OGS"@fr ,
+    "OS-OGS"@es ,
+    "OS-OGS"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osNIOZ> a skos:Concept ;
+    skos:notation "osNIOZ" ;
+    rdfs:label "OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ)"@en ,
+    "OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ)"@fr ,
+    "OS-REAL INSTITUTO HOLANDÉS PARA LA INVESTIGACIÓN MARINA (NIOZ)"@es ,
+    "OS-КОРОЛЕВСКИЙ ГОЛЛАНДСКИЙ ИНСТИТУТ МОРСКИХ ИССЛЕДОВАНИЙ (ГИМИ)"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osSIO> a skos:Concept ;
+    skos:notation "osSIO" ;
+    rdfs:label "OS-SIO"@en ,
+    "OS-SIO"@fr ,
+    "OS-SIO"@es ,
+    "OS-SIO"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osSNU> a skos:Concept ;
+    skos:notation "osSNU" ;
+    rdfs:label "OS-SNU"@en ,
+    "OS-SNU"@fr ,
+    "OS-SNU"@es ,
+    "OS-SNU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osSOA> a skos:Concept ;
+    skos:notation "osSOA" ;
+    rdfs:label "OS-SOA"@en ,
+    "OS-SOA"@fr ,
+    "OS-SOA"@es ,
+    "OS-SOA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osUNhawaii> a skos:Concept ;
+    skos:notation "osUNhawaii" ;
+    rdfs:label "OS-UN_HAWAII_MANOA"@en ,
+    "OS-UN_HAWAII_MANOA"@fr ,
+    "OS-UN_HAWAII_MANOA"@es ,
+    "OS-UN_HAWAII_MANOA"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osUNmiami> a skos:Concept ;
+    skos:notation "osUNmiami" ;
+    rdfs:label "OS-UN_MIAMI"@en ,
+    "OS-UN_MIAMI"@fr ,
+    "OS-UN_MIAMI"@es ,
+    "OS-UN_MIAMI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osUSP> a skos:Concept ;
+    skos:notation "osUSP" ;
+    rdfs:label "OS-USP"@en ,
+    "OS-USP"@fr ,
+    "OS-USP"@es ,
+    "OS-USP"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osUW> a skos:Concept ;
+    skos:notation "osUW" ;
+    rdfs:label "OS-UW"@en ,
+    "OS-UW"@fr ,
+    "OS-UW"@es ,
+    "OS-UW"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osWHOI> a skos:Concept ;
+    skos:notation "osWHOI" ;
+    rdfs:label "OS-WHOI"@en ,
+    "OS-WHOI"@fr ,
+    "OS-WHOI"@es ,
+    "OS-WHOI"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/osWHOIsio> a skos:Concept ;
+    skos:notation "osWHOIsio" ;
+    rdfs:label "OS-WHOI/SIO/OSU"@en ,
+    "OS-WHOI/SIO/OSU"@fr ,
+    "OS-WHOI/SIO/OSU"@es ,
+    "OS-WHOI/SIO/OSU"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/whos> a skos:Concept ;
+    skos:notation "whos" ;
+    rdfs:label "WHOS"@en ,
+    "WHOS"@fr ,
+    "Sistema de observación hidrológica de la OMM"@es ,
+    "СГНВ"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation/whycos> a skos:Concept ;
+    skos:notation "whycos" ;
+    rdfs:label "WHYCOS"@en ,
+    "WHYCOS"@fr ,
+    "WHYCOS"@es ,
+    "ВСНГЦ"@ru ;
+    dct:description  "NA"@en ,
+    "s.o."@fr ,
+    "NA"@es ,
+    "NA"@ru .
+
+<ProgramAffiliation> a skos:Collection ;
+        rdfs:label "Programme/network affiliation" ;
+        dct:description  "The global, regional or national programme(s)/network(s) that the station/platform is associated with"@en ;
+        skos:member 
+
+<ProgramAffiliation/coSponsored>,
+<ProgramAffiliation/gcos>,
+<ProgramAffiliation/gruan>,
+<ProgramAffiliation/gsn>,
+<ProgramAffiliation/guan>,
+<ProgramAffiliation/goos>,
+<ProgramAffiliation/argo>,
+<ProgramAffiliation/argoArgentina>,
+<ProgramAffiliation/argoAustralia>,
+<ProgramAffiliation/aroEqAustralia>,
+<ProgramAffiliation/argoAWI>,
+<ProgramAffiliation/argoBrazil>,
+<ProgramAffiliation/argoBrazilNavy>,
+<ProgramAffiliation/argoBSH>,
+<ProgramAffiliation/argoCanada>,
+<ProgramAffiliation/argoChile>,
+<ProgramAffiliation/argoChina>,
+<ProgramAffiliation/argoChinaSOA>,
+<ProgramAffiliation/argoCostaRica>,
+<ProgramAffiliation/argoDenmark>,
+<ProgramAffiliation/argoEcuador>,
+<ProgramAffiliation/argoEqAOML>,
+<ProgramAffiliation/argoEqAWI>,
+<ProgramAffiliation/argoEqBSH>,
+<ProgramAffiliation/argoEqChina>,
+<ProgramAffiliation/argoEqESPOMZ>,
+<ProgramAffiliation/argoEqFERHRI>,
+<ProgramAffiliation/argoEqFSU>,
+<ProgramAffiliation/argoEqHNFRI>,
+<ProgramAffiliation/argoEqIFM>,
+<ProgramAffiliation/argoEqIFM2>,
+<ProgramAffiliation/argoEqIreland>,
+<ProgramAffiliation/argoEqJamstec>,
+<ProgramAffiliation/argoEqJMA>,
+<ProgramAffiliation/argoEqNavoceano>,
+<ProgramAffiliation/argoEqNDBC>,
+<ProgramAffiliation/argoEqNIPR>,
+<ProgramAffiliation/argoEqNRIFS>,
+<ProgramAffiliation/argoEqOIST>,
+<ProgramAffiliation/argoEqORI>,
+<ProgramAffiliation/argoEqPMEL>,
+<ProgramAffiliation/argoEqPomme>,
+<ProgramAffiliation/argoEqSage>,
+<ProgramAffiliation/argoEqTNFRI>,
+<ProgramAffiliation/argoEqTSK>,
+<ProgramAffiliation/argoEqTU>,
+<ProgramAffiliation/argoEqUH>,
+<ProgramAffiliation/argoEqUHH>,
+<ProgramAffiliation/argoEqUMOSU>,
+<ProgramAffiliation/argoEqVocals>,
+<ProgramAffiliation/argoEqWHOI>,
+<ProgramAffiliation/argoFinland>,
+<ProgramAffiliation/argoGabon>,
+<ProgramAffiliation/argoGermany>,
+<ProgramAffiliation/argoGreece>,
+<ProgramAffiliation/argoIFMGeomar>,
+<ProgramAffiliation/argoIndia>,
+<ProgramAffiliation/argoIreland>,
+<ProgramAffiliation/argoItaly>,
+<ProgramAffiliation/argoJamstec>,
+<ProgramAffiliation/argoJMA>,
+<ProgramAffiliation/argoKenya>,
+<ProgramAffiliation/argoKiost>,
+<ProgramAffiliation/argoLebanon>,
+<ProgramAffiliation/argoMauritius>,
+<ProgramAffiliation/argoMexCoUS>,
+<ProgramAffiliation/argoMexico>,
+<ProgramAffiliation/argoNetherlands>,
+<ProgramAffiliation/argoNewZealand>,
+<ProgramAffiliation/argoMIMRKMA>,
+<ProgramAffiliation/argoNorway>,
+<ProgramAffiliation/argoPMEL>,
+<ProgramAffiliation/argoPoland>,
+<ProgramAffiliation/argoRussia>,
+<ProgramAffiliation/argoSaudiArabia>,
+<ProgramAffiliation/argoSIO>,
+<ProgramAffiliation/argoSIOEqASIRI>,
+<ProgramAffiliation/argoSIOEqOKMC>,
+<ProgramAffiliation/argoSouthAfrica>,
+<ProgramAffiliation/argoSpain>,
+<ProgramAffiliation/argoSriLanka>,
+<ProgramAffiliation/argoTWREng>,
+<ProgramAffiliation/argoUK>,
+<ProgramAffiliation/argoUKBIO>,
+<ProgramAffiliation/argoUKEq>,
+<ProgramAffiliation/argoUW>,
+<ProgramAffiliation/argoUWEq>,
+<ProgramAffiliation/argoUWAplEq>,
+<ProgramAffiliation/argoUWMbariEq>,
+<ProgramAffiliation/argoUWSoccomEq>,
+<ProgramAffiliation/argoUWSpursEq>,
+<ProgramAffiliation/argoUWUAEq>,
+<ProgramAffiliation/argoWHOI>,
+<ProgramAffiliation/argoWHOIEqIR>,
+<ProgramAffiliation/argoWHOIMRVEq>,
+<ProgramAffiliation/argoBulargo>,
+<ProgramAffiliation/argoCoriolis>,
+<ProgramAffiliation/argoCoriolisBioargo>,
+<ProgramAffiliation/argoCoriolisCanoa>,
+<ProgramAffiliation/argoCoriolisCongas>,
+<ProgramAffiliation/argoCoriolisDrake>,
+<ProgramAffiliation/argoCoriolisEGEE>,
+<ProgramAffiliation/argoCoriolisEqypt>,
+<ProgramAffiliation/argoCoriolisFlops>,
+<ProgramAffiliation/argoCoriolisFlostral>,
+<ProgramAffiliation/argoCoriolisFNOBJCOMMOPS>,
+<ProgramAffiliation/argoCoriolisFrontalis>,
+<ProgramAffiliation/argoCoriolisGoodHope>,
+<ProgramAffiliation/argoCoriolisOvide>,
+<ProgramAffiliation/argoCoriolisPirata>,
+<ProgramAffiliation/argoCoriolisPrevimer>,
+<ProgramAffiliation/argoCoriolisProsat>,
+<ProgramAffiliation/argoCoriolisRemocean>,
+<ProgramAffiliation/argoCoriolisRemoceanEq>,
+<ProgramAffiliation/argoCoriolisSpice>,
+<ProgramAffiliation/argoCoriolisTrack>,
+<ProgramAffiliation/argoDekosim>,
+<ProgramAffiliation/argoEAims>,
+<ProgramAffiliation/argoEurargo>,
+<ProgramAffiliation/argoGyroscope>,
+<ProgramAffiliation/argoDamocles>,
+<ProgramAffiliation/argoItpWHOI>,
+<ProgramAffiliation/argoMedargo>,
+<ProgramAffiliation/argoMeridianGoodHope>,
+<ProgramAffiliation/argoMersea>,
+<ProgramAffiliation/argoNaosFrance>,
+<ProgramAffiliation/dbcpDbcp>,
+<ProgramAffiliation/dbcpAOML>,
+<ProgramAffiliation/dbcpAOMLeSurfmar>,
+<ProgramAffiliation/dbcpAOMLmf>,
+<ProgramAffiliation/dbcpAPLUW>,
+<ProgramAffiliation/dbcpAWIDB>,
+<ProgramAffiliation/dbcpBomDB>,
+<ProgramAffiliation/dbcpBomTSU>,
+<ProgramAffiliation/dbcpBPInc>,
+<ProgramAffiliation/dbcpBrazilPNBOIAINPE>,
+<ProgramAffiliation/dbcpBshDWDFixed>,
+<ProgramAffiliation/dbcpBshDWDMD>,
+<ProgramAffiliation/dbcpBshMB>,
+<ProgramAffiliation/dbcpCandhis>,
+<ProgramAffiliation/dbcpCaricoos>,
+<ProgramAffiliation/dbcpCarioca>,
+<ProgramAffiliation/dbcpCDIP>,
+<ProgramAffiliation/dbcpColombiaTSU>,
+<ProgramAffiliation/dbcpCormpNC>,
+<ProgramAffiliation/dbcp>,
+<ProgramAffiliation/cbcpDFODB>,
+<ProgramAffiliation/dbcpECDB>,
+<ProgramAffiliation/dbcpECMB>,
+<ProgramAffiliation/dbcpEcIABP>,
+<ProgramAffiliation/eSurfmar>,
+<ProgramAffiliation/eSurfmarIrishIMI>,
+<ProgramAffiliation/eSurfmarNOAA>,
+<ProgramAffiliation/eSurfmarUKMB>,
+<ProgramAffiliation/eSurfmarUKFRMB>,
+<ProgramAffiliation/dbcpEurositesPlanier>,
+<ProgramAffiliation/dbcpFerhriTSU>,
+<ProgramAffiliation/dbcpGermanyMB>,
+<ProgramAffiliation/dbcpGloscal>,
+<ProgramAffiliation/dbcpGreeceMB>,
+<ProgramAffiliation/dbcpHK>,
+<ProgramAffiliation/dbcpIABP>,
+<ProgramAffiliation/dbcpIABPCanada>,
+<ProgramAffiliation/dbcpIABPNIC>,
+<ProgramAffiliation/dbcpIABPUS>,
+<ProgramAffiliation/dbcpIABPEC>,
+<ProgramAffiliation/dbcpIABPUW>,
+<ProgramAffiliation/dbcpIBPIO>,
+<ProgramAffiliation/dbcpINCOISTSU>,
+<ProgramAffiliation/dbcpIndiaNIO>,
+<ProgramAffiliation/dbcpIndiaNIOTSU>,
+<ProgramAffiliation/dbcpIndiaNIOT>,
+<ProgramAffiliation/dbcpINOCARTSU>,
+<ProgramAffiliation/dbcpItalyDB>,
+<ProgramAffiliation/dbcpItalyOGS>,
+<ProgramAffiliation/dbcpJMADB>,
+<ProgramAffiliation/dbcpJMATSU>,
+<ProgramAffiliation/dbcpKMAMB>,
+<ProgramAffiliation/dbcpLocean>,
+<ProgramAffiliation/dbcpMarlin>,
+<ProgramAffiliation/dbcpMeteoFranceDB>,
+<ProgramAffiliation/dbcpMeteoFranceMB>,
+<ProgramAffiliation/dbcpMeteoFranceWB>,
+<ProgramAffiliation/dbcpNCCOOS>,
+<ProgramAffiliation/dbcpNDBCBP>,
+<ProgramAffiliation/dbcpNDBCCOE>,
+<ProgramAffiliation/dbcpNDBCCSI>,
+<ProgramAffiliation/dbcpNDBCMB>,
+<ProgramAffiliation/dbcpNDBCMBARI>,
+<ProgramAffiliation/dbcpNDBCNASA>,
+<ProgramAffiliation/dbcpcNOAANWS>,
+<ProgramAffiliation/dbcpNDBCTABS>,
+<ProgramAffiliation/dbcpNDBCTSU>,
+<ProgramAffiliation/dbcpNDBCUSCG>,
+<ProgramAffiliation/dbcpNDWCTSU>,
+<ProgramAffiliation/dbcpNewZealandDB>,
+<ProgramAffiliation/dbcpNicIABP>,
+<ProgramAffiliation/dbcpNOAACBIBS>,
+<ProgramAffiliation/dbcpNorwayIMR>,
+<ProgramAffiliation/dbcpNWSNDBCMB>,
+<ProgramAffiliation/dbcpNDBCWB>,
+<ProgramAffiliation/dbcpPacioos>,
+<ProgramAffiliation/dbcpPetrobras>,
+<ProgramAffiliation/dbcpPmel>,
+<ProgramAffiliation/dbcpScrips>,
+<ProgramAffiliation/dbcpShell>,
+<ProgramAffiliation/dbcpShoaTSU>,
+<ProgramAffiliation/dbcpSIODB>,
+<ProgramAffiliation/dbcpSpainPDEMB>,
+<ProgramAffiliation/dbcpStratus>,
+<ProgramAffiliation/dbcpTaoAtlas>,
+<ProgramAffiliation/dbcpTaoPirata>,
+<ProgramAffiliation/dbcpTaoPirataUS>,
+<ProgramAffiliation/dbcpTaoRamaUSIndia>,
+<ProgramAffiliation/dbcpTaoTriton>,
+<ProgramAffiliation/dbcpUCSDScripps>,
+<ProgramAffiliation/dbcpUKJerseyMB>,
+<ProgramAffiliation/dbcpUKMODB>,
+<ProgramAffiliation/dbcpUKMOFixed>,
+<ProgramAffiliation/dbcpUKMOlv>,
+<ProgramAffiliation/dbcpUKMOMB>,
+<ProgramAffiliation/dbcpUSCGDB>,
+<ProgramAffiliation/sot>,
+<ProgramAffiliation/asap>,
+<ProgramAffiliation/asapAWI>,
+<ProgramAffiliation/eAsap>,
+<ProgramAffiliation/asapZA>,
+<ProgramAffiliation/goShip>,
+<ProgramAffiliation/soopBOM>,
+<ProgramAffiliation/soot>,
+<ProgramAffiliation/vos>,
+<ProgramAffiliation/vos3P>,
+<ProgramAffiliation/vosAU>,
+<ProgramAffiliation/vosCA>,
+<ProgramAffiliation/vosCL>,
+<ProgramAffiliation/vosDE>,
+<ProgramAffiliation/vosES>,
+<ProgramAffiliation/vosEU>,
+<ProgramAffiliation/vosFR>,
+<ProgramAffiliation/vosGB>,
+<ProgramAffiliation/vosGR>,
+<ProgramAffiliation/vosHK>,
+<ProgramAffiliation/vosIE>,
+<ProgramAffiliation/vosIL>,
+<ProgramAffiliation/vosIN>,
+<ProgramAffiliation/vosIS>,
+<ProgramAffiliation/vosJP>,
+<ProgramAffiliation/vosKR>,
+<ProgramAffiliation/vosMY>,
+<ProgramAffiliation/vosNL>,
+<ProgramAffiliation/vosNO>,
+<ProgramAffiliation/vosNZ>,
+<ProgramAffiliation/vosRU>,
+<ProgramAffiliation/vosSE>,
+<ProgramAffiliation/vosShipMask>,
+<ProgramAffiliation/vosUS>,
+<ProgramAffiliation/vosZA>,
+<ProgramAffiliation/vosPL>,
+<ProgramAffiliation/gtos>,
+<ProgramAffiliation/nonAffiliated>,
+<ProgramAffiliation/wigos>,
+<ProgramAffiliation/gaw>,
+<ProgramAffiliation/gawContributing>,
+<ProgramAffiliation/aline>,
+<ProgramAffiliation/castnet>,
+<ProgramAffiliation/galionGAW>,
+<ProgramAffiliation/galionAdnet>,
+<ProgramAffiliation/galionEarlinet>,
+<ProgramAffiliation/galionMplnet>,
+<ProgramAffiliation/galionNdacc>,
+<ProgramAffiliation/gawPFR>,
+<ProgramAffiliation/idaf>,
+<ProgramAffiliation/improve>,
+<ProgramAffiliation/nadp>,
+<ProgramAffiliation/tccon>,
+<ProgramAffiliation/gawGlobal>,
+<ProgramAffiliation/gawLocal>,
+<ProgramAffiliation/gawOther>,
+<ProgramAffiliation/agage>,
+<ProgramAffiliation/globalAOD>,
+<ProgramAffiliation/aerocan>,
+<ProgramAffiliation/aeronet>,
+<ProgramAffiliation/germanAOD>,
+<ProgramAffiliation/photons>,
+<ProgramAffiliation/polarAOD>,
+<ProgramAffiliation/sibrad>,
+<ProgramAffiliation/skynet>,
+<ProgramAffiliation/capmon>,
+<ProgramAffiliation/cislinet>,
+<ProgramAffiliation/cln>,
+<ProgramAffiliation/eanet>,
+<ProgramAffiliation/emep>,
+<ProgramAffiliation/esrlccg>,
+<ProgramAffiliation/iagos>,
+<ProgramAffiliation/ndacc>,
+<ProgramAffiliation/gawNonAffiliated>,
+<ProgramAffiliation/shadoz>,
+<ProgramAffiliation/gawRegional>,
+<ProgramAffiliation/gcw>,
+<ProgramAffiliation/cryonet>,
+<ProgramAffiliation/gos>,
+<ProgramAffiliation/gosContributing>,
+<ProgramAffiliation/ctbto>,
+<ProgramAffiliation/gosOther>,
+<ProgramAffiliation/add>,
+<ProgramAffiliation/adsc>,
+<ProgramAffiliation/afirs>,
+<ProgramAffiliation/airep>,
+<ProgramAffiliation/amdar>,
+<ProgramAffiliation/ceilometer>,
+<ProgramAffiliation/gnssRadioOccultation>,
+<ProgramAffiliation/lightningDetection>,
+<ProgramAffiliation/tamdar>,
+<ProgramAffiliation/windProfiler>,
+<ProgramAffiliation/wro>,
+<ProgramAffiliation/gosSurface>,
+<ProgramAffiliation/anton>,
+<ProgramAffiliation/antonT>,
+<ProgramAffiliation/bsrn>,
+<ProgramAffiliation/rbcn>,
+<ProgramAffiliation/rbcnClimatC>,
+<ProgramAffiliation/rbcnClimatCT>,
+<ProgramAffiliation/rbcnClimatT>,
+<ProgramAffiliation/rbsn>,
+<ProgramAffiliation/rbsnP>,
+<ProgramAffiliation/rbsnS>,
+<ProgramAffiliation/rbsnSP>,
+<ProgramAffiliation/rbsnST>,
+<ProgramAffiliation/rbsnT>,
+<ProgramAffiliation/smoOS>,
+<ProgramAffiliation/smoOSawi>,
+<ProgramAffiliation/smoOSbas>,
+<ProgramAffiliation/smoOSbccr>,
+<ProgramAffiliation/smoOSbios>,
+<ProgramAffiliation/smoOScentre>,
+<ProgramAffiliation/smoOScnr>,
+<ProgramAffiliation/smoOScnrs>,
+<ProgramAffiliation/smoOScsiro>,
+<ProgramAffiliation/smoOSdfo>,
+<ProgramAffiliation/smoOSdml>,
+<ProgramAffiliation/smoOSeu>,
+<ProgramAffiliation/smoOSgeomar>,
+<ProgramAffiliation/smoOShamburgUni>,
+<ProgramAffiliation/smoOShav>,
+<ProgramAffiliation/smoOShellenic>,
+<ProgramAffiliation/osICCM>,
+<ProgramAffiliation/osIFREMER>,
+<ProgramAffiliation/osIMARPE>,
+<ProgramAffiliation/osIMR>,
+<ProgramAffiliation/osIOntu>,
+<ProgramAffiliation/osIOwarnemuende>,
+<ProgramAffiliation/osIRD>,
+<ProgramAffiliation/osJamstec>,
+<ProgramAffiliation/osKiost>,
+<ProgramAffiliation/osLDEO>,
+<ProgramAffiliation/osMarum>,
+<ProgramAffiliation/osMbari>,
+<ProgramAffiliation/osNIO>,
+<ProgramAffiliation/osNIOT>,
+<ProgramAffiliation/osNIWA>,
+<ProgramAffiliation/osNOAA>,
+<ProgramAffiliation/osNOAApmel>,
+<ProgramAffiliation/osNOC>,
+<ProgramAffiliation/osOGS>,
+<ProgramAffiliation/osNIOZ>,
+<ProgramAffiliation/osSIO>,
+<ProgramAffiliation/osSNU>,
+<ProgramAffiliation/osSOA>,
+<ProgramAffiliation/osUNhawaii>,
+<ProgramAffiliation/osUNmiami>,
+<ProgramAffiliation/osUSP>,
+<ProgramAffiliation/osUW>,
+<ProgramAffiliation/osWHOI>,
+<ProgramAffiliation/osWHOIsio>,
+<ProgramAffiliation/whos>,
+<ProgramAffiliation/whycos>.

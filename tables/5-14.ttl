@@ -1,0 +1,34 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<ObservationOperatingStatus/primary> a skos:Concept ;
+    skos:notation "primary" ;
+    rdfs:label "Primary"@en ,
+    "Primaire"@fr ,
+    "Principal"@es ,
+    "Первичное"@ru ;
+    dct:description  "The primary or official observation of the observed variable "@en ,
+    "Observation primaire ou officielle de la variable observée "@fr ,
+    "Observación principal u oficial de la variable observada"@es ,
+    "Первичное или официальное наблюдение за наблюдаемой переменной"@ru .
+
+<ObservationOperatingStatus/additional> a skos:Concept ;
+    skos:notation "additional" ;
+    rdfs:label "Additional"@en ,
+    "Additionnelle"@fr ,
+    "Adicional"@es ,
+    "Дополнительное"@ru ;
+    dct:description  "Additional or supplemented observation of the observed variable"@en ,
+    "Observation additionnelle ou supplémentaire de la variable observée"@fr ,
+    "Observación adicional o complementaria de la variable observada"@es ,
+    "Дополнительное или вспомогательное наблюдение за наблюдаемой переменной"@ru .
+
+<ObservationOperatingStatus> a skos:Collection ;
+        rdfs:label "Status of observation" ;
+        dct:description  "Official status of observation"@en ;
+        skos:member 
+
+<ObservationOperatingStatus/primary>,
+<ObservationOperatingStatus/additional>.

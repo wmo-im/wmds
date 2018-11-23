@@ -1,0 +1,94 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<LevelOfData/unknown> a skos:Concept ;
+    skos:notation "unknown" ;
+    rdfs:label "Unknown"@en ,
+    "Inconnu"@fr ,
+    "Desconocido"@es ,
+    "Неизвестно"@ru ;
+    dct:description  ""@en ,
+    ""@fr ,
+    ""@es ,
+    ""@ru .
+
+<LevelOfData/raw> a skos:Concept ;
+    skos:notation "raw" ;
+    rdfs:label "Raw"@en ,
+    "Brut"@fr ,
+    "Brutos"@es ,
+    "Необработанные"@ru ;
+    dct:description  "CEOS: Physical information: Data in their original packets, as received from a satellite"@en ,
+    "CEOS: Information physique: Données reçues d’un satellite sous la forme initiale de paquets"@fr ,
+    "CEOS: Información física: los datos se encuentran en sus paquetes originales, tal como se reciben de un satélite"@es ,
+    "CEOS: Физическая информация:Данные находятся в их первоначальных пакетах, как они получены со спутника"@ru .
+
+<LevelOfData/level0> a skos:Concept ;
+    skos:notation "level0" ;
+    rdfs:label "Level 0"@en ,
+    "Niveau 0"@fr ,
+    "Nivel 0"@es ,
+    "Уровень 0"@ru ;
+    dct:description  "CIMO: Analogue/digital electric signals. CEOS: Physical information: Reconstructed unprocessed instrument data at full space time resolution with all available supplemental information to be used in subsequent processing (e.g. ephemeris, health and safety) appended."@en ,
+    "CIMO: Signaux électriques analogiques/numériques. CEOS: Information physique: Données d’instruments reconstruites et non traitées, à leur pleine résolution spatio-temporelle, accompagnées de toutes les informations supplémentaires disponibles pour un traitement ultérieur (ex.: éphémérides, santé et sécurité)."@fr ,
+    "CIMO: Señales eléctricas analógicas o digitales. CEOS: Información física: datos de los instrumentos sin procesar reconstruidos a una resolución temporal y espacial completa, con toda la información suplementaria disponible para su utilización en los procesos ulteriores conexos (p. ej., efemérides, salud y seguridad)."@es ,
+    "CIMO: Аналоговые/цифровые электрические сигналы. CEOS: Физическая информация: восстановленные необработанные данные с измерительных приборов с полным пространственно-временным разрешением со всей имеющейся дополнительной информацией, которая должна быть использована в последующей обработке (например, таблицы положения небесных тел, здравоохранение и безопасность)"@ru .
+
+<LevelOfData/level1> a skos:Concept ;
+    skos:notation "level1" ;
+    rdfs:label "Level I"@en ,
+    ""@fr ,
+    "Nivel I"@es ,
+    "Уровень I"@ru ;
+    dct:description  "CIMO: Level I data (Primary Data): in general, are instrument readings expressed in appropriate physical units, and referred to Earth geographical coordinates. They require conversion to the normal meteorological variables (identified in Part I, Chapter 1). Level I data themselves are in many cases obtained from the processing of electrical signals such as voltages, referred to as raw data. Examples of these data are satellite radiances and water-vapour pressure, positions of constant-level balloons, etc. but not raw telemetry signals. Level I data still require conversion to the meteorological parameters specified in the data requirements. CEOS: Physical information: Unpacked, reformatted level 0 data, with all supplemental information to be used in subsequent processing appended. Optional radiometric and geometric correction applied to produce parameters in physical units. Data generally presented as full time/space resolution. A wide variety of sub level products are possible."@en ,
+    "CIMO: Données du niveau I (données primaires): Ce sont en général des relevés d’instruments exprimés en unités physiques, associées à des coordonnées géographiques. Il faut les convertir pour obtenir les valeurs des variables météorologiques usuelles (définies dans le chapitre 1 de la Partie I). Souvent les données du niveau I sont elles-mêmes obtenues par traitement de signaux électriques, tels que des tensions, que l’on qualifie de données brutes. Il peut s’agir par exemple des valeurs de la luminance énergétique obtenues par satellite, de la tension de vapeur d’eau ou des positions de ballons à niveau constant, mais non des signaux bruts de télémesure. Les données du niveau I doivent ensuite être converties pour obtenir les valeurs des paramètres météorologiques mentionnés dans la liste des besoins en matière de données. CEOS: Information physique: Données du niveau 0 décompressées et reformatées, accompagnées de toutes les informations supplémentaires disponibles pour un traitement ultérieur. Une correction radiométrique et géométrique est parfois appliquée pour produire les paramètres en unités physiques. Les données sont généralement présentées à leur pleine résolution spatio-temporelle. Un large éventail de produits de sous-niveau est possible. "@fr ,
+    "CIMO: Datos de nivel I (datos primarios): por lo general, son lecturas de instrumentos expresadas en unidades físicas apropiadas, y acompañadas de sus coordenadas geográficas. Es necesario convertirlos en variables meteorológicas normales (indicadas en el capítulo 1 de la parte I). Estos datos se obtienen, en muchos casos, del procesamiento de señales eléctricas, por ejemplo, en forma de voltaje, y se denominan 'datos en bruto'. Pertenecen a este grupo las radiancias de los satélites y la presión de valor del agua, las posiciones de los globos de nivel constante, etc., pero no las señales de telemetría sin procesar. Los datos de nivel I han de ser convertidos para obtener los parámetros meteorológicos especificados en los requisitos en materia de datos. CEOS: Información física: datos de nivel 0 reformateados y sin extraer de sus paquetes, con toda la información suplementaria disponible para su utilización en los procesos ulteriores conexos. Se puede aplicar una corrección radiométrica y geométrica para obtener parámetros en unidades físicas. Los datos se suelen presentar a una resolución temporal y espacial completa. Se puede obtener una amplia variedad de productos de subnivel."@es ,
+    "CIMO: Данные уровня I (начальные данные): это, как правило, показания приборов, выраженные в соответствующих физических единицах и привязанные к географическим координатам Земли. Их необходимо перевести в обычные метеорологические переменные (определенные в части I, глава 1). Во многих случаях сами данные уровня I получены путем обработки электрических сигналов, таких как значения напряжения, рассматриваемых как необработанные данные. Примером этих данных служат спутниковые данные об интенсивности излучения и давления водяного пара, положений уравновешенных шаров-зондов и т.д., но не обработанные сигналы телеметрии. Данные уровня I все еще требуют перевода в метеорологические параметры, определенные в требованиях к данным. CEOS: Физическая информация: неупакованные, переформатированные данные уровня 0, со всей приложенной дополнительной информацией, которая должна быть использована в последующей обработке. Для представления параметров в физических величинах применяется дополнительная радиометрическая и геометрическая коррекция. Как правило, данные представлены в полном пространственном/ временном разрешении. Возможно широкое разнообразие продуктов более низкого уровня."@ru .
+
+<LevelOfData/level2> a skos:Concept ;
+    skos:notation "level2" ;
+    rdfs:label "Level II"@en ,
+    "Niveau II"@fr ,
+    "Nivel II"@es ,
+    "Уровень II"@ru ;
+    dct:description  "CIMO: Level II data (Meteorological parameters). They may be obtained directly from many kinds of simple instruments, or derived from Level I data. For example, a sensor cannot measure visibility, which is a Level II quantity; instead, sensors measure the extinction coefficient, which is a Level I quantity. NOTE: Data exchanged internationally are Level II or Level III data. CEOS: Geophysical information. Retrieved environmental variables (e.g., ocean wave height, soil moisture, ice concentration) at the same resolution and location as the level 1 source data."@en ,
+    "CIMO: Données du niveau II (paramètres météorologiques): Elles peuvent être issues directement de divers instruments simples ou être déduites des données du niveau I. À titre d’exemple, un capteur ne mesure pas la visibilité, qui est de niveau II, mais le coefficient d’extinction, qui est de niveau I. CEOS: Information géophysique: Variables environnementales récupérées (p. ex. hauteur des vagues océaniques, humidité du sol, concentration de glace) à la même résolution et au même emplacement que les données sources du niveau I."@fr ,
+    "CIMO: Datos de nivel II (parámetros meteorológicos). Pueden obtenerse directamente de muchos tipos de instrumentos simples o de los datos de nivel I. Por ejemplo, un sensor no puede medir la visibilidad, que es una magnitud de nivel II; en lugar de ello, los sensores miden el coeficiente de extinción, que es una magnitud de nivel I. CEOS: Información geofísica. Variables ambientales recuperadas (p. ej., la altura de las olas oceánicas, la humedad del suelo o la concentración de hielo) a la misma resolución y en la misma localización que los datos originales de nivel 1."@es ,
+    "CIMO: Данные уровня II (Метеорологические параметры). Они могут быть получены непосредственно с помощью простых приборов многих видов, или их вычисляют по данным уровня I. Например, датчик не может измерить видимость, которая является количественной величиной уровня II; вместо этого датчики измеряют коэффициент ослабления, который является величиной, относящейся к уровню I. CEOS: Геофизическая информация. Полученные переменные окружающей среды (например, высота океанской волны, влажность почвы, концентрация льда) обладают тем же самым разрешением и получены в том же месте, что и исходные данные уровня 1."@ru .
+
+<LevelOfData/level3> a skos:Concept ;
+    skos:notation "level3" ;
+    rdfs:label "Level III"@en ,
+    "Niveau III"@fr ,
+    "Nivel III"@es ,
+    "Уровень III"@ru ;
+    dct:description  "CIMO: Level III (Initial state parameters) are internally consistent datasets, generally in grid-point form obtained from Level II data by applying established initialization procedures. NOTE: Data exchanged internationally are Level II or Level III data. CEOS: Geophysical information. Data or retrieved environmental variables which have been spatially and/or temporally re-sampled (i.e., derived from level 1 or 2 products). Such re-sampling may include averaging and compositing."@en ,
+    "CIMO: Données du niveau III (paramètres d’état initial): Ce sont des séries de données cohérentes exprimées sous forme de valeurs aux points de grille et déterminées à partir des données du niveau II en appliquant des procédures d’initialisation bien établies. NOTE: Les données échangées à l’échelon international appartiennent aux niveaux II ou III. CEOS: Information géophysique: Données ou variables environnementales récupérées qui ont été rééchantillonnées sur le plan spatial et/ou temporel (c’est-à-dire dérivées des produits du niveau I ou II). Le rééchantillonnage peut comporter l’établissement de moyennes et l’intégration."@fr ,
+    "CIMO: Los datos de nivel III (parámetros de estado inicial) son datos agrupados en series con algún tipo de coherencia interna, generalmente en forma de retícula de puntos, y obtenidos a partir de los datos de nivel II mediante la aplicación de parámetros normativizados de inicialización. NOTA: Los datos que se intercambian a nivel internacional son datos de nivel II o de nivel III. CEOS: Información geofísica. Datos o variables ambientales recuperadas que se han sometido a un proceso de remuestreo espacial o temporal (es decir, derivados de los productos de nivel 1 o 2). El remuestreo puede incluir procesos de promediación y combinación."@es ,
+    "CIMO: Уровень III (Параметры исходного состояния) − это внутренне согласованные наборы данных, обычно в виде данных в точках сетки, полученные по данным уровня II путем применения установленных процедур инициализации. ПРИМЕЧАНИЕ: Данные, обмен которыми происходит на международном уровне, являются данными уровня II или уровня III. CEOS: Физическая информация. Данные или полученные переменные окружающей среды, по которым пространственная и/или временная выборка была произведена повторно (т.е. данные, выведенные из продукции уровня 1 или 2). Подобная повторная выборка может включать в себя усреднение и объединение данных."@ru .
+
+<LevelOfData/level4> a skos:Concept ;
+    skos:notation "level4" ;
+    rdfs:label "Level IV"@en ,
+    "Niveau IV"@fr ,
+    "Nivel IV"@es ,
+    "Уровень IV"@ru ;
+    dct:description  "CEOS: Thematic information. Model output or results from analyses of lower level data (i.e., variables that are not directly measured by the instruments, but are derived from these measurements)."@en ,
+    "CEOS: Information thématique: Produit de modèle ou résultats d’analyses portant sur des données de niveau inférieur (c’est-à-dire variables qui ne sont pas mesurées directement par les instruments, mais qui sont dérivées de ces mesures)."@fr ,
+    "CEOS: Información temática. Productos o resultados del modelo obtenidos de los análisis de los datos de nivel inferior (las variables que no se han medido directamente con los instrumentos, sino que se obtuvieron a partir de esas mediciones)."@es ,
+    "CEOS: Тематическая информация. Выходная продукция моделей или результаты анализа данных более низкого уровня (например, переменных, не изменяемых приборами напрямую, но получаемых из этих измерений). "@ru .
+
+<LevelOfData> a skos:Collection ;
+        rdfs:label "Level of data" ;
+        dct:description  "Level of data"@en ;
+        skos:member 
+
+<LevelOfData/unknown>,
+<LevelOfData/raw>,
+<LevelOfData/level0>,
+<LevelOfData/level1>,
+<LevelOfData/level2>,
+<LevelOfData/level3>,
+<LevelOfData/level4>.

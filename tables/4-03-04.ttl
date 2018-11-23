@@ -1,0 +1,82 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<AltitudeOrDepth/nilReason> a skos:Concept ;
+    skos:notation "nilReason" ;
+    rdfs:label "Not applicable"@en ,
+    "Sans objet"@fr ,
+    "No se aplica"@es ,
+    "Неприменимо"@ru ;
+    dct:description  "None of the codes in the table are applicable in the context of this particular observation (nilReason)"@en ,
+    "Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason)"@fr ,
+    "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
+    "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
+
+<AltitudeOrDepth/verySmall> a skos:Concept ;
+    skos:notation "verySmall" ;
+    rdfs:label "Very small"@en ,
+    "Très faible "@fr ,
+    "Muy baja"@es ,
+    "Очень малая"@ru ;
+    dct:description  "between -100 m and 100 m"@en ,
+    "Entre -100 m et 100 m"@fr ,
+    "Entre -100 y 100 m"@es ,
+    "Меджду -100 м и 100 м"@ru .
+
+<AltitudeOrDepth/small> a skos:Concept ;
+    skos:notation "small" ;
+    rdfs:label "Small"@en ,
+    "Faible"@fr ,
+    "Baja"@es ,
+    "Малая"@ru ;
+    dct:description  "Between -300 and -100 m or between 100 and 300 m"@en ,
+    "Entre -300 et -100 m ou entre 100 et 300 m"@fr ,
+    "Entre -300 y -100 m o entre 100 y 300 m"@es ,
+    "Между -300 м и -100 м или между 100 и 300 м"@ru .
+
+<AltitudeOrDepth/middle> a skos:Concept ;
+    skos:notation "middle" ;
+    rdfs:label "Middle"@en ,
+    "Moyenne"@fr ,
+    "Media"@es ,
+    "Средняя"@ru ;
+    dct:description  "Between -1000 and -300 m or between 300 and 1000 m"@en ,
+    "Entre -1 000 et -300 m ou entre 300 et 1 000 m"@fr ,
+    "Entre -1000 and -300 m o entre 300 y 1000 m"@es ,
+    "Между -1000 и -300 м или между 300 и 1000 м"@ru .
+
+<AltitudeOrDepth/large> a skos:Concept ;
+    skos:notation "large" ;
+    rdfs:label "Large"@en ,
+    "Élevée"@fr ,
+    "Elevada"@es ,
+    "Большая"@ru ;
+    dct:description  "Between -3000 and -1000 m Between 1000 and 3000 m"@en ,
+    "Entre -3 000 et -1 000 m ou entre 1 000 et 3 000 m"@fr ,
+    "Entre -3000 y -1000 m o entre 1000 y 3000 m"@es ,
+    "Между -3000 и -1000 м или между 1000 и 3000 м"@ru .
+
+<AltitudeOrDepth/veryLarge> a skos:Concept ;
+    skos:notation "veryLarge" ;
+    rdfs:label "Very large"@en ,
+    "Très élevée"@fr ,
+    "Muy elevada"@es ,
+    "Очень большая"@ru ;
+    dct:description  "Deeper than -3000 m or above 3000 m"@en ,
+    "Au-delà de -3 000 m ou de 3 000 m"@fr ,
+    "Por encima de -3000 m o por debajo de 3000 m"@es ,
+    "Грубже чем -3000 м или выше 3000 м"@ru .
+
+<AltitudeOrDepth> a skos:Collection ;
+        rdfs:label "Altitude/depth" ;
+        dct:description  "Altitude/depth"@en ;
+        skos:member 
+
+<AltitudeOrDepth/nilReason>,
+<AltitudeOrDepth/verySmall>,
+<AltitudeOrDepth/small>,
+<AltitudeOrDepth/middle>,
+<AltitudeOrDepth/large>,
+<AltitudeOrDepth/veryLarge>.

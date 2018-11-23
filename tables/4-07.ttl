@@ -1,0 +1,394 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<ClimateZone/unspecified> a skos:Concept ;
+    skos:notation "unspecified" ;
+    rdfs:label "(unspecified)"@en ,
+    "(non précisé)"@fr ,
+    "(no se especifica)"@es ,
+    "(не определено)"@ru ;
+    dct:description  "unspecified"@en ,
+    "non précisé"@fr ,
+    "no se especifica"@es ,
+    "не определено"@ru .
+
+<ClimateZone/equatorialRainforestFullyHumid> a skos:Concept ;
+    skos:notation "equatorialRainforestFullyHumid" ;
+    rdfs:label "Af"@en ,
+    "Af"@fr ,
+    "Af"@es ,
+    "Af"@ru ;
+    dct:description  "Equatorial rainforest - fully humid"@en ,
+    "Climat équatorial de forêt pluviale - humide toute l’année"@fr ,
+    "Bosque pluvial ecuatorial - Siempre húmedo"@es ,
+    "Экваториальный тропический лес − полностью влажный"@ru .
+
+<ClimateZone/equatorialMonsoon> a skos:Concept ;
+    skos:notation "equatorialMonsoon" ;
+    rdfs:label "Am"@en ,
+    "Am"@fr ,
+    "Am"@es ,
+    "Am"@ru ;
+    dct:description  "Equatorial - Monsoon"@en ,
+    "Climat équatorial - mousson"@fr ,
+    "Ecuatorial - Monzón"@es ,
+    "Экваториальный − муссонный"@ru .
+
+<ClimateZone/equatorialSavannahDrySummer> a skos:Concept ;
+    skos:notation "equatorialSavannahDrySummer" ;
+    rdfs:label "Aw"@en ,
+    "Aw"@fr ,
+    "Aw"@es ,
+    "Aw"@ru ;
+    dct:description  "Equatorial - Savannah - dry summer"@en ,
+    "Climat équatorial - savane - été sec "@fr ,
+    "Ecuatorial - Sabana - Veranos secos"@es ,
+    "Экваториальный − саванна − сухое лето"@ru .
+
+<ClimateZone/equatorialSavannahDryWinter> a skos:Concept ;
+    skos:notation "equatorialSavannahDryWinter" ;
+    rdfs:label "As"@en ,
+    "As"@fr ,
+    "As"@es ,
+    "As"@ru ;
+    dct:description  "Equatorial - Savannah - dry winter"@en ,
+    "Climat équatorial - savane - hiver sec"@fr ,
+    "Ecuatorial - Sabana - Inviernos secos"@es ,
+    "Экваториальный − саванна − сухая зима"@ru .
+
+<ClimateZone/desertHotArid> a skos:Concept ;
+    skos:notation "desertHotArid" ;
+    rdfs:label "BWh"@en ,
+    "BWh"@fr ,
+    "BWh"@es ,
+    "BWh"@ru ;
+    dct:description  "Desert - Hot arid"@en ,
+    "Climat désertique - chaud et aride"@fr ,
+    "Desierto - Caluroso y árido"@es ,
+    "Пустыня - жаркая засушливая"@ru .
+
+<ClimateZone/desertColdArid> a skos:Concept ;
+    skos:notation "desertColdArid" ;
+    rdfs:label "BWk"@en ,
+    "BWk"@fr ,
+    "BWk"@es ,
+    "BWk"@ru ;
+    dct:description  "Desert - Cold arid"@en ,
+    "Climat désertique - froid et aride"@fr ,
+    "Desierto - Frío y árido"@es ,
+    "Пустыня - холодная засушливая"@ru .
+
+<ClimateZone/steppeHotArid> a skos:Concept ;
+    skos:notation "steppeHotArid" ;
+    rdfs:label "BSh"@en ,
+    "BSh"@fr ,
+    "BSh"@es ,
+    "BSh"@ru ;
+    dct:description  "Steppe - Hot arid"@en ,
+    "Climat steppique - chaud et aride"@fr ,
+    "Estepa - Calurosa y árida"@es ,
+    "Стерь - жаркая засушливая"@ru .
+
+<ClimateZone/steppeColdArid> a skos:Concept ;
+    skos:notation "steppeColdArid" ;
+    rdfs:label "BSk"@en ,
+    "BSk"@fr ,
+    "BSk"@es ,
+    "BSk"@ru ;
+    dct:description  "Steppe - Cold arid"@en ,
+    "Steppe - Cold arid"@fr ,
+    "Estepa - Fría y árida"@es ,
+    "Стерь - холодная засушливая"@ru .
+
+<ClimateZone/warmTemperateDryHotSummer> a skos:Concept ;
+    skos:notation "warmTemperateDryHotSummer" ;
+    rdfs:label "Csa"@en ,
+    ""@fr ,
+    ""@es ,
+    ""@ru ;
+    dct:description  "Warm temperate - Dry"@en ,
+    "Csa"@fr ,
+    "Csa"@es ,
+    "Csa"@ru .
+
+<ClimateZone/warmTemperateDryWarmSummer> a skos:Concept ;
+    skos:notation "warmTemperateDryWarmSummer" ;
+    rdfs:label "Csb"@en ,
+    "Csb"@fr ,
+    "Csb"@es ,
+    "Csb"@ru ;
+    dct:description  "Warm temperate - Dry, warm summer"@en ,
+    "Climat tempéré chaud - été sec et torride"@fr ,
+    "Templado cálido - Veranos secos y cálidos"@es ,
+    "Теплая температура - сухое теплое лето"@ru .
+
+<ClimateZone/warmTemperateDryCoolSummer> a skos:Concept ;
+    skos:notation "warmTemperateDryCoolSummer" ;
+    rdfs:label "Csc"@en ,
+    "Csc"@fr ,
+    "Csc"@es ,
+    "Csc"@ru ;
+    dct:description  "Warm temperate - Dry, cool summer"@en ,
+    "Climat tempéré chaud - été sec et chaud"@fr ,
+    "Templado cálido - Veranos secos y frescos"@es ,
+    "Теплая температура - сухое холодное лето"@ru .
+
+<ClimateZone/warmTemperateDryWinterHotSummer> a skos:Concept ;
+    skos:notation "warmTemperateDryWinterHotSummer" ;
+    rdfs:label "Cwa"@en ,
+    "Cwa"@fr ,
+    "Cwa"@es ,
+    "Cwa"@ru ;
+    dct:description  "Warm Temperate - Dry winter - Hot summer"@en ,
+    "Climat tempéré chaud - été sec et frais"@fr ,
+    "Templado cálido - Inviernos secos - Veranos calurosos"@es ,
+    "Теплая температура - сухая зима - жаркое лето"@ru .
+
+<ClimateZone/warmTemperateDryWinterWarmSummer> a skos:Concept ;
+    skos:notation "warmTemperateDryWinterWarmSummer" ;
+    rdfs:label "Cwb"@en ,
+    "Cwb"@fr ,
+    "Cwb"@es ,
+    "Cwb"@ru ;
+    dct:description  "Warm Temperate - Dry winter - Warm summer"@en ,
+    "Climat tempéré chaud - hiver sec - été torride"@fr ,
+    "Templado cálido - Inviernos secos - Veranos cálidos"@es ,
+    "Теплая температура - сухая зима - теплое лето"@ru .
+
+<ClimateZone/warmTemperateDryWinterCoolSummer> a skos:Concept ;
+    skos:notation "warmTemperateDryWinterCoolSummer" ;
+    rdfs:label "Cwc"@en ,
+    "Cwc"@fr ,
+    "Cwc"@es ,
+    "Cwc"@ru ;
+    dct:description  "Warm Temperate - Dry winter - Cool summer"@en ,
+    "Climat tempéré chaud - hiver sec - été chaud"@fr ,
+    "Templado cálido - Inviernos secos - Veranos frescos"@es ,
+    "Теплая температура - сухая зима - прохладное лето"@ru .
+
+<ClimateZone/warmTemperateFullyHumidHotSummer> a skos:Concept ;
+    skos:notation "warmTemperateFullyHumidHotSummer" ;
+    rdfs:label "Cfa"@en ,
+    "Cfa"@fr ,
+    "Cfa"@es ,
+    "Cfa"@ru ;
+    dct:description  "Warm Temperate - Fully humid - Hot summer"@en ,
+    "Climat tempéré chaud - hiver sec - été frais"@fr ,
+    "Templado cálido - Siempre húmedo - Veranos calurosos"@es ,
+    "Теплая температура - полностью влажное - жаркое лето"@ru .
+
+<ClimateZone/warmTemperateFullyHumidWarmSummer> a skos:Concept ;
+    skos:notation "warmTemperateFullyHumidWarmSummer" ;
+    rdfs:label "Cfb"@en ,
+    "Cfb"@fr ,
+    "Cfb"@es ,
+    "Cfb"@ru ;
+    dct:description  "Warm Temperate - Fully humid - Warm summer"@en ,
+    "Climat tempéré chaud - humide toute l’année - été torride"@fr ,
+    "Templado cálido - Siempre húmedo - Veranos cálidos"@es ,
+    "Теплая температура - полностью влажное - теплое лето"@ru .
+
+<ClimateZone/warmTemperateFullyHumidCoolSummer> a skos:Concept ;
+    skos:notation "warmTemperateFullyHumidCoolSummer" ;
+    rdfs:label "Cfc"@en ,
+    "Cfc"@fr ,
+    "Cfc"@es ,
+    "Cfc"@ru ;
+    dct:description  "Warm Temperate - Fully humid - Cool summer"@en ,
+    "Climat tempéré chaud - humide toute l’année - été chaud"@fr ,
+    "Templado cálido - Siempre húmedo - Veranos frescos"@es ,
+    "Теплая температура - полностью влажное - прохладное лето"@ru .
+
+<ClimateZone/snowDryHotSummer> a skos:Concept ;
+    skos:notation "snowDryHotSummer" ;
+    rdfs:label "Dsa"@en ,
+    "Dsa"@fr ,
+    "Dsa"@es ,
+    "Dsa"@ru ;
+    dct:description  "Snow - Dry and hot summer"@en ,
+    "Climat continental - été sec et torride"@fr ,
+    "Nieve - Veranos secos y calurosos"@es ,
+    "Снег - сухое жаркое лето"@ru .
+
+<ClimateZone/snowDryWarmSummer> a skos:Concept ;
+    skos:notation "snowDryWarmSummer" ;
+    rdfs:label "Dsb"@en ,
+    "Dsb"@fr ,
+    "Dsb"@es ,
+    "Dsb"@ru ;
+    dct:description  "Snow - Dry and warm summer"@en ,
+    "Climat continental - été sec et chaud"@fr ,
+    "Nieve - Veranos secos y cálidos"@es ,
+    "Снег - сухое теплое лето"@ru .
+
+<ClimateZone/snowDryCoolSummer> a skos:Concept ;
+    skos:notation "snowDryCoolSummer" ;
+    rdfs:label "Dsc"@en ,
+    "Dsc"@fr ,
+    "Dsc"@es ,
+    "Dsc"@ru ;
+    dct:description  "Snow - Dry and cool summer"@en ,
+    "Climat continental - été sec et frais"@fr ,
+    "Nieve - Veranos secos y frescos"@es ,
+    "Снег - сухое прохладное лето"@ru .
+
+<ClimateZone/snowDrySummerVeryColdWinter> a skos:Concept ;
+    skos:notation "snowDrySummerVeryColdWinter" ;
+    rdfs:label "Dsd"@en ,
+    "Dsd"@fr ,
+    "Dsd"@es ,
+    "Dsd"@ru ;
+    dct:description  "Snow - Dry summer - Very cold winter"@en ,
+    "Climat continental - été sec - hiver très froid"@fr ,
+    "Nieve - Veranos secos - Inviernos muy fríos"@es ,
+    "Снег - сухое лето - очень холодная зима"@ru .
+
+<ClimateZone/snowDryWinterHotSummer> a skos:Concept ;
+    skos:notation "snowDryWinterHotSummer" ;
+    rdfs:label "Dwa"@en ,
+    "Dwa"@fr ,
+    "Dwa"@es ,
+    "Dwa"@ru ;
+    dct:description  "Snow - Dry winter - Hot summer"@en ,
+    "Climat continental - hiver sec - été torride"@fr ,
+    "Nieve - Inviernos secos - Veranos calurosos"@es ,
+    "Снег - сухая зима - жаркое лето"@ru .
+
+<ClimateZone/snowDryWinterWarmSummer> a skos:Concept ;
+    skos:notation "snowDryWinterWarmSummer" ;
+    rdfs:label "Dwb"@en ,
+    "Dwb"@fr ,
+    "Dwb"@es ,
+    "Dwb"@ru ;
+    dct:description  "Snow - Dry winter - Warm summer"@en ,
+    "Climat continental - hiver sec - été chaud"@fr ,
+    "Nieve - Inviernos secos - Veranos cálidos"@es ,
+    "Снег - сухая зима - теплое лето"@ru .
+
+<ClimateZone/snowDryWinterColdSummer> a skos:Concept ;
+    skos:notation "snowDryWinterColdSummer" ;
+    rdfs:label "Dwc"@en ,
+    "Dwc"@fr ,
+    "Dwc"@es ,
+    "Dwc"@ru ;
+    dct:description  "Snow - Dry winter - Cold summer"@en ,
+    "Climat continental - hiver sec - été froid"@fr ,
+    "Nieve - Inviernos secos - Veranos fríos"@es ,
+    "Снег - сухая зима - холодное лето"@ru .
+
+<ClimateZone/snowDryWinterVeryColdWinter> a skos:Concept ;
+    skos:notation "snowDryWinterVeryColdWinter" ;
+    rdfs:label "Dwd"@en ,
+    "Dwd"@fr ,
+    "Dwd"@es ,
+    "Dwd"@ru ;
+    dct:description  "Snow - Dry winter - Very cold winter"@en ,
+    "Climat continental - hiver sec et très froid"@fr ,
+    "Nieve - Inviernos secos - Inviernos muy fríos"@es ,
+    "Снег - сухая зима - очень холодная зима"@ru .
+
+<ClimateZone/snowFullyHumidHotSummer> a skos:Concept ;
+    skos:notation "snowFullyHumidHotSummer" ;
+    rdfs:label "Dfa"@en ,
+    "Dfa"@fr ,
+    "Dfa"@es ,
+    "Dfa"@ru ;
+    dct:description  "Snow - Fully humid - Hot summer"@en ,
+    "Climat continental - humide toute l’année - été torride"@fr ,
+    "Nieve - Siempre húmedo - Veranos calurosos"@es ,
+    "Снег - полностью влажное - жаркое лето"@ru .
+
+<ClimateZone/snowFullyHumidWarmSummer> a skos:Concept ;
+    skos:notation "snowFullyHumidWarmSummer" ;
+    rdfs:label "Dfb"@en ,
+    "Dfb"@fr ,
+    "Dfb"@es ,
+    "Dfb"@ru ;
+    dct:description  "Snow - Fully humid - Warm summer"@en ,
+    "Climat continental - humide toute l’année - été chaud"@fr ,
+    "Nieve - Siempre húmedo - Veranos cálidos"@es ,
+    "Снег - полностью влажное - теплое лето"@ru .
+
+<ClimateZone/snowFullyHumidCoolSummer> a skos:Concept ;
+    skos:notation "snowFullyHumidCoolSummer" ;
+    rdfs:label "Dfc"@en ,
+    "Dfc"@fr ,
+    "Dfc"@es ,
+    "Dfc"@ru ;
+    dct:description  "Snow - Fully humid - Cool summer"@en ,
+    "Climat continental - humide toute l’année - été frais"@fr ,
+    "Nieve - Siempre húmedo - Veranos frescos"@es ,
+    "Снег - полностью влажное - холодное лето"@ru .
+
+<ClimateZone/snowFullyHumidVeryColdWinter> a skos:Concept ;
+    skos:notation "snowFullyHumidVeryColdWinter" ;
+    rdfs:label "Dfd"@en ,
+    "Dfd"@fr ,
+    "Dfd"@es ,
+    "Dfd"@ru ;
+    dct:description  "Snow - Fully humid - Very cold winter"@en ,
+    "Climat continental - humide toute l’année - hiver très froid"@fr ,
+    "Nieve - Siempre húmedo - Inviernos muy fríos"@es ,
+    "Снег - полностью влажное - очень холодная зима"@ru .
+
+<ClimateZone/polarTundra> a skos:Concept ;
+    skos:notation "polarTundra" ;
+    rdfs:label "ET"@en ,
+    "ET"@fr ,
+    "ET"@es ,
+    "ET"@ru ;
+    dct:description  "Polar - Tundra"@en ,
+    "Climat polaire - toundra"@fr ,
+    "Polar - Tundra"@es ,
+    "Полярный - Тундра"@ru .
+
+<ClimateZone/polarFrost> a skos:Concept ;
+    skos:notation "polarFrost" ;
+    rdfs:label "EF"@en ,
+    "EF"@fr ,
+    "EF"@es ,
+    "EF"@ru ;
+    dct:description  "Polar - Frost"@en ,
+    "Climat polaire - inlandsis"@fr ,
+    "Polar - Escarcha"@es ,
+    "Полярный - Мороз"@ru .
+
+<ClimateZone> a skos:Collection ;
+        rdfs:label "Climate zone" ;
+        dct:description  "The Köppen-Geiger climate classification scheme divides climates into five main groups (A, B, C, D, E), each having several types and subtypes "@en ;
+        skos:member 
+
+<ClimateZone/unspecified>,
+<ClimateZone/equatorialRainforestFullyHumid>,
+<ClimateZone/equatorialMonsoon>,
+<ClimateZone/equatorialSavannahDrySummer>,
+<ClimateZone/equatorialSavannahDryWinter>,
+<ClimateZone/desertHotArid>,
+<ClimateZone/desertColdArid>,
+<ClimateZone/steppeHotArid>,
+<ClimateZone/steppeColdArid>,
+<ClimateZone/warmTemperateDryHotSummer>,
+<ClimateZone/warmTemperateDryWarmSummer>,
+<ClimateZone/warmTemperateDryCoolSummer>,
+<ClimateZone/warmTemperateDryWinterHotSummer>,
+<ClimateZone/warmTemperateDryWinterWarmSummer>,
+<ClimateZone/warmTemperateDryWinterCoolSummer>,
+<ClimateZone/warmTemperateFullyHumidHotSummer>,
+<ClimateZone/warmTemperateFullyHumidWarmSummer>,
+<ClimateZone/warmTemperateFullyHumidCoolSummer>,
+<ClimateZone/snowDryHotSummer>,
+<ClimateZone/snowDryWarmSummer>,
+<ClimateZone/snowDryCoolSummer>,
+<ClimateZone/snowDrySummerVeryColdWinter>,
+<ClimateZone/snowDryWinterHotSummer>,
+<ClimateZone/snowDryWinterWarmSummer>,
+<ClimateZone/snowDryWinterColdSummer>,
+<ClimateZone/snowDryWinterVeryColdWinter>,
+<ClimateZone/snowFullyHumidHotSummer>,
+<ClimateZone/snowFullyHumidWarmSummer>,
+<ClimateZone/snowFullyHumidCoolSummer>,
+<ClimateZone/snowFullyHumidVeryColdWinter>,
+<ClimateZone/polarTundra>,
+<ClimateZone/polarFrost>.

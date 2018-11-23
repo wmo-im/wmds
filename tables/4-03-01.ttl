@@ -1,0 +1,94 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<LocalTopography/nilReason> a skos:Concept ;
+    skos:notation "nilReason" ;
+    rdfs:label "Not applicable"@en ,
+    "Sans objet"@fr ,
+    "No se aplica"@es ,
+    "Неприменимо"@ru ;
+    dct:description  "None of the codes in the table are applicable in the context of this particular observation (nilReason)"@en ,
+    "Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason)"@fr ,
+    "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
+    "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
+
+<LocalTopography/hilltop> a skos:Concept ;
+    skos:notation "hilltop" ;
+    rdfs:label "Hilltop"@en ,
+    "Sommet"@fr ,
+    "Colina"@es ,
+    "Вершина холма"@ru ;
+    dct:description  "Higher than all or nearly all of the surrounding land or subsurface."@en ,
+    "Hauteur supérieure à la quasi-totalité ou à la totalité du sol ou du fond souterrain environnant "@fr ,
+    "Superficie más alta que todas o prácticamente todas las tierras o subsuperficies circundantes."@es ,
+    "Выше, чем вся или почти вся окружающая местность или грунт"@ru .
+
+<LocalTopography/ridge> a skos:Concept ;
+    skos:notation "ridge" ;
+    rdfs:label "Ridge"@en ,
+    "Crête "@fr ,
+    "Cresta"@es ,
+    "Гребень"@ru ;
+    dct:description  "Higher than all or nearly all of the surrounding land or subsurface, but elongated and extending beyond a 50 m radius."@en ,
+    "Hauteur supérieure à la quasi-totalité ou à la totalité du sol ou du fond souterrain environnant, de forme allongée et s’étendant au-delà d’un rayon de 50 m "@fr ,
+    "Superficie más alta que todas o prácticamente todas las tierras o subsuperficies circundantes, pero alargada y con un radio cuya longitud es superior a 50 m."@es ,
+    "Выше, чем вся или почти вся окружающая местность или грунт, но вытянутые и протяженные по радиусу более чем на 50 м"@ru .
+
+<LocalTopography/slope> a skos:Concept ;
+    skos:notation "slope" ;
+    rdfs:label "Slope"@en ,
+    "Pente "@fr ,
+    "Pendiente"@es ,
+    "Склон"@ru ;
+    dct:description  "Neither crest nor depression or valley bottom, and with a slope more than 3%."@en ,
+    "Ni crête, ni dépression ou fond de vallée, avec une pente supérieure à 3 %"@fr ,
+    "Superficie con una pendiente superior al 3% que no es una cresta, una depresión ni el fondo de un valle."@es ,
+    "Не гребень, не впадина или низина долины, и с наклоном более 3 %"@ru .
+
+<LocalTopography/flat> a skos:Concept ;
+    skos:notation "flat" ;
+    rdfs:label "Flat"@en ,
+    "Terrain plat "@fr ,
+    "Llanura"@es ,
+    "Плоская поверхность"@ru ;
+    dct:description  "Slope less than 3% and not a top, ridge, valley bottom or depression. Use for plains."@en ,
+    "Pente inférieure à 3 %, ni sommet, ni crête, ni fond de vallée ou dépression, même sens que plaine"@fr ,
+    "Superficie con una pendiente inferior al 3% que no es una cima, una cresta, el fondo de un valle ni una depresión. Úsese para planicies."@es ,
+    "Склон с наклоном менее 3 % и не вершина, гребень, низина долины или впадина. Используется для обозначения равнин"@ru .
+
+<LocalTopography/valleyBottom> a skos:Concept ;
+    skos:notation "valleyBottom" ;
+    rdfs:label "Valley bottom"@en ,
+    "Fond de vallée"@fr ,
+    "Fondo de valle"@es ,
+    "Низина долины"@ru ;
+    dct:description  "Lower than nearly all of surrounding land or subsurface, but water can flow out."@en ,
+    "Hauteur inférieure à la quasi-totalité du sol ou du fond souterrain environnant, mais dont l’eau peut s’échapper"@fr ,
+    "Superficie más baja que prácticamente todas las tierras o subsuperficies circundantes, pero donde el agua puede correr."@es ,
+    "Ниже, чем почти вся окружающая местность или грунт, но без выхода воды"@ru .
+
+<LocalTopography/depression> a skos:Concept ;
+    skos:notation "depression" ;
+    rdfs:label "Depression"@en ,
+    "Dépression "@fr ,
+    "Depresión"@es ,
+    "Впадина"@ru ;
+    dct:description  "Lower than surrounding land or subsurface, with no above-ground outlet for water."@en ,
+    "Hauteur inférieure au sol ou au fond souterrain environnant, sans exutoire au-dessus du sol"@fr ,
+    "Superficie más baja que las tierras o subsuperficies circundantes, sin salida por encima del nivel del suelo para el agua."@es ,
+    "Ниже, чем окружающая местность или грунт, без выхода поверхностных вод"@ru .
+
+<LocalTopography> a skos:Collection ;
+        rdfs:label "Local topography" ;
+        dct:description  "Local topography"@en ;
+        skos:member 
+
+<LocalTopography/nilReason>,
+<LocalTopography/hilltop>,
+<LocalTopography/ridge>,
+<LocalTopography/slope>,
+<LocalTopography/flat>,
+<LocalTopography/valleyBottom>,
+<LocalTopography/depression>.

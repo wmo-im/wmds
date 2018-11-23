@@ -1,0 +1,82 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<QualityFlagOGC/good> a skos:Concept ;
+    skos:notation "good" ;
+    rdfs:label "Good"@en ,
+    "Bonne"@fr ,
+    "Buena"@es ,
+    "Хорошие"@ru ;
+    dct:description  "The data has been examined and represents a reliable measurement."@en ,
+    "Les données ont été examinées et représentent une mesure fiable."@fr ,
+    "Se han examinado los datos y estos representan una medición fidedigna."@es ,
+    "Данные были проверены и представляют надежное измерение."@ru .
+
+<QualityFlagOGC/poor> a skos:Concept ;
+    skos:notation "poor" ;
+    rdfs:label "Suspect"@en ,
+    "Douteuse"@fr ,
+    "Dudoso"@es ,
+    "Подозрительные"@ru ;
+    dct:description  "The data should be considered as low quality and may have been rejected."@en ,
+    "Les données doivent être considérées comme douteuses."@fr ,
+    "Los datos deben considerarse de baja calidad y pueden descartarse."@es ,
+    "Данные следует рассматривать как данные низкого качества и могут быть забракованы."@ru .
+
+<QualityFlagOGC/suspect> a skos:Concept ;
+    skos:notation "suspect" ;
+    rdfs:label "Estimate"@en ,
+    "Estimée"@fr ,
+    "Estimado"@es ,
+    "Оценка"@ru ;
+    dct:description  "The data should be treated as suspect."@en ,
+    "Les données sont une simple estimation, pas une mesure directe."@fr ,
+    "Los datos deben considerarse con reservas."@es ,
+    "Данные следует обрабатывать в качестве подозрительных."@ru .
+
+<QualityFlagOGC/unchecked> a skos:Concept ;
+    skos:notation "unchecked" ;
+    rdfs:label "Poor"@en ,
+    "Mauvaise"@fr ,
+    "Pobre"@es ,
+    "Плохие"@ru ;
+    dct:description  "The data has not been checked by any qualitative or quantitative method."@en ,
+    "Les données sont de piètre qualité et pourraient avoir été rejetées."@fr ,
+    "Los datos no se han verificado por ningún método cualitativo ni cuantitativo."@es ,
+    "Данные не были проверены посредством какого-либо метода определения качества или количества."@ru .
+
+<QualityFlagOGC/estimate> a skos:Concept ;
+    skos:notation "estimate" ;
+    rdfs:label "Unchecked"@en ,
+    "Non vérifiée"@fr ,
+    "Sin verificar"@es ,
+    "Непроверенные"@ru ;
+    dct:description  "The value has been estimated rather than measured."@en ,
+    "Les données n’ont pas été vérifiées par une méthode qualitative ou quantitative."@fr ,
+    "El valor no se ha medido, se ha estimado."@es ,
+    "Значение было скорее оценено, а не измерено."@ru .
+
+<QualityFlagOGC/missing> a skos:Concept ;
+    skos:notation "missing" ;
+    rdfs:label "Missing"@en ,
+    "Manquante"@fr ,
+    "Valor faltante"@es ,
+    "Отсутствующие"@ru ;
+    dct:description  "The data is missing."@en ,
+    "Les données sont absentes."@fr ,
+    "No hay datos."@es ,
+    "Данные отсутствуют."@ru .
+
+<QualityFlagOGC> a skos:Collection ;
+        rdfs:label "Quality Flag (From WaterML2)" ;
+        dct:description  "Quality Flag (From WaterML2)"@en ;
+        skos:member 
+
+<QualityFlagOGC/good>,
+<QualityFlagOGC/poor>,
+<QualityFlagOGC/suspect>,
+<QualityFlagOGC/unchecked>,
+<QualityFlagOGC/estimate>,
+<QualityFlagOGC/missing>.

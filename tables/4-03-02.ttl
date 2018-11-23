@@ -1,0 +1,82 @@
+@prefix dct:   <http://purl.org/dc/terms/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+
+<RelativeElevation/nilReason> a skos:Concept ;
+    skos:notation "nilReason" ;
+    rdfs:label "Not applicable"@en ,
+    "Sans objet"@fr ,
+    "No se aplica"@es ,
+    "Неприменимо"@ru ;
+    dct:description  "None of the codes in the table are applicable in the context of this particular observation (nilReason)"@en ,
+    "Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason)"@fr ,
+    "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
+    "Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)"@ru .
+
+<RelativeElevation/lowest> a skos:Concept ;
+    skos:notation "lowest" ;
+    rdfs:label "Lowest"@en ,
+    "La plus basse "@fr ,
+    "Más baja"@es ,
+    "Самая низка"@ru ;
+    dct:description  "In the bottom 5% of the elevation range"@en ,
+    "Dans les 5 % inférieurs de la plage d’altitude "@fr ,
+    "Dentro del 5% más bajo de la gama de valores de elevación"@es ,
+    "В нижних 5 % диапазона высот"@ru .
+
+<RelativeElevation/low> a skos:Concept ;
+    skos:notation "low" ;
+    rdfs:label "Low"@en ,
+    "Basse"@fr ,
+    "Baja"@es ,
+    "Низкая"@ru ;
+    dct:description  "Between 5% and 25% of the elevation range"@en ,
+    "Entre 5 % et 25 % de la plage d’altitude"@fr ,
+    "Entre el 5% y el 25% de la gama de valores de elevación"@es ,
+    "Между 5 % и 25 % диапазона высот"@ru .
+
+<RelativeElevation/middle> a skos:Concept ;
+    skos:notation "middle" ;
+    rdfs:label "Middle"@en ,
+    "Moyenne"@fr ,
+    "Media"@es ,
+    "Средняя"@ru ;
+    dct:description  "Between 25% and 75% of the elevation range"@en ,
+    "Entre 25 % et 75 % de la plage d’altitude"@fr ,
+    "Entre el 25% y el 75% de la gama de valores de elevación"@es ,
+    "Между 25 % и 75 % диапазона высот"@ru .
+
+<RelativeElevation/high> a skos:Concept ;
+    skos:notation "high" ;
+    rdfs:label "High"@en ,
+    "Élevée"@fr ,
+    "Alta"@es ,
+    "Высокая"@ru ;
+    dct:description  "Between 75% and 95% of the elevation range"@en ,
+    "Entre 75 % et 95 % de la plage d’altitude"@fr ,
+    "Entre el 75% y el 95% de la gama de valores de elevación"@es ,
+    "Между 75 % и 95 % диапазона высот"@ru .
+
+<RelativeElevation/highest> a skos:Concept ;
+    skos:notation "highest" ;
+    rdfs:label "Highest"@en ,
+    "La plus élevée"@fr ,
+    "Más alta"@es ,
+    "Самая высокая"@ru ;
+    dct:description  "In the highest 5% of the elevation range"@en ,
+    "Dans les 5 % supérieurs de la plage d’altitude"@fr ,
+    "Dentro del 5% más alto de la gama de valores de elevación"@es ,
+    "В верхних 5 % диапазона высот"@ru .
+
+<RelativeElevation> a skos:Collection ;
+        rdfs:label "Relative elevation" ;
+        dct:description  "Relative elevation"@en ;
+        skos:member 
+
+<RelativeElevation/nilReason>,
+<RelativeElevation/lowest>,
+<RelativeElevation/low>,
+<RelativeElevation/middle>,
+<RelativeElevation/high>,
+<RelativeElevation/highest>.
