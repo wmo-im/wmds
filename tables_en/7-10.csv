@@ -1,6 +1,6 @@
-#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
-1	unknown			(unknown)	Source of reference time unknown
-2	gnss			Global navigation satellite system (GNSS)	"A Global Navigation Satellite System (GNSS) signal controlled clock, which receives a signal that comes from the atomic clock of a GNSS constellation of satellites."
-3	manualComparison			Manual comparison	A regular procedure of manual comparison with a reference clock
-4	radioClock			Radio clock	"A radio controlled clock, which receives a radio signal that comes from a reference/atomic clock."
-5	timeServer			Time server (internet based)	A server computer that reads the actual time from a reference/atomic clock and distributes this information to its clients using a computer network. The time server may be a local network time server or an internet time server.
+#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+1,unknown,,,(unknown),Source of reference time unknown
+2,gnss,,,Global navigation satellite system (GNSS),"A Global Navigation Satellite System (GNSS) signal controlled clock, which receives a signal that comes from the atomic clock of a GNSS constellation of satellites."
+3,manualComparison,,,Manual comparison,A regular procedure of manual comparison with a reference clock
+4,radioClock,,,Radio clock,"A radio controlled clock, which receives a radio signal that comes from a reference/atomic clock."
+5,timeServer,,,Time server (internet based),A server computer that reads the actual time from a reference/atomic clock and distributes this information to its clients using a computer network. The time server may be a local network time server or an internet time server.

@@ -1,33 +1,33 @@
-#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
-07/04/2001	unspecified			(unspecified)	unspecified
-07/04/2002	equatorialRainforestFullyHumid			Af	Equatorial rainforest - fully humid
-07/04/2003	equatorialMonsoon			Am	Equatorial - Monsoon
-07/04/2004	equatorialSavannahDrySummer			Aw	Equatorial - Savannah - dry summer
-07/04/2005	equatorialSavannahDryWinter			As	Equatorial - Savannah - dry winter
-07/04/2006	desertHotArid			BWh	Desert - Hot arid
-07/04/2007	desertColdArid			BWk	Desert - Cold arid
-07/04/2008	steppeHotArid			BSh	Steppe - Hot arid
-07/04/2009	steppeColdArid			BSk	Steppe - Cold arid
-07/04/2010	warmTemperateDryHotSummer			Csa	Warm temperate - Dry
-07/04/2011	warmTemperateDryWarmSummer			Csb	"Warm temperate - Dry, warm summer"
-07/04/2012	warmTemperateDryCoolSummer			Csc	"Warm temperate - Dry, cool summer"
-07/04/2013	warmTemperateDryWinterHotSummer			Cwa	Warm Temperate - Dry winter - Hot summer
-07/04/2014	warmTemperateDryWinterWarmSummer			Cwb	Warm Temperate - Dry winter - Warm summer
-07/04/2015	warmTemperateDryWinterCoolSummer			Cwc	Warm Temperate - Dry winter - Cool summer
-07/04/2016	warmTemperateFullyHumidHotSummer			Cfa	Warm Temperate - Fully humid - Hot summer
-07/04/2017	warmTemperateFullyHumidWarmSummer			Cfb	Warm Temperate - Fully humid - Warm summer
-07/04/2018	warmTemperateFullyHumidCoolSummer			Cfc	Warm Temperate - Fully humid - Cool summer
-07/04/2019	snowDryHotSummer			Dsa	Snow - Dry and hot summer
-07/04/2020	snowDryWarmSummer			Dsb	Snow - Dry and warm summer
-07/04/2021	snowDryCoolSummer			Dsc	Snow - Dry and cool summer
-07/04/2022	snowDrySummerVeryColdWinter			Dsd	Snow - Dry summer - Very cold winter
-07/04/2023	snowDryWinterHotSummer			Dwa	Snow - Dry winter - Hot summer
-07/04/2024	snowDryWinterWarmSummer			Dwb	Snow - Dry winter - Warm summer
-07/04/2025	snowDryWinterColdSummer			Dwc	Snow - Dry winter - Cold summer
-07/04/2026	snowDryWinterVeryColdWinter			Dwd	Snow - Dry winter - Very cold winter
-07/04/2027	snowFullyHumidHotSummer			Dfa	Snow - Fully humid - Hot summer
-07/04/2028	snowFullyHumidWarmSummer			Dfb	Snow - Fully humid - Warm summer
-07/04/2029	snowFullyHumidCoolSummer			Dfc	Snow - Fully humid - Cool summer
-07/04/1930	snowFullyHumidVeryColdWinter			Dfd	Snow - Fully humid - Very cold winter
-07/04/1931	polarTundra			ET	Polar - Tundra
-07/04/1932	polarFrost			EF	Polar - Frost
+#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+07/04/2001,unspecified,,,(unspecified),unspecified
+07/04/2002,equatorialRainforestFullyHumid,,,Af,Equatorial rainforest - fully humid
+07/04/2003,equatorialMonsoon,,,Am,Equatorial - Monsoon
+07/04/2004,equatorialSavannahDrySummer,,,Aw,Equatorial - Savannah - dry summer
+07/04/2005,equatorialSavannahDryWinter,,,As,Equatorial - Savannah - dry winter
+07/04/2006,desertHotArid,,,BWh,Desert - Hot arid
+07/04/2007,desertColdArid,,,BWk,Desert - Cold arid
+07/04/2008,steppeHotArid,,,BSh,Steppe - Hot arid
+07/04/2009,steppeColdArid,,,BSk,Steppe - Cold arid
+07/04/2010,warmTemperateDryHotSummer,,,Csa,Warm temperate - Dry
+07/04/2011,warmTemperateDryWarmSummer,,,Csb,"Warm temperate - Dry, warm summer"
+07/04/2012,warmTemperateDryCoolSummer,,,Csc,"Warm temperate - Dry, cool summer"
+07/04/2013,warmTemperateDryWinterHotSummer,,,Cwa,Warm Temperate - Dry winter - Hot summer
+07/04/2014,warmTemperateDryWinterWarmSummer,,,Cwb,Warm Temperate - Dry winter - Warm summer
+07/04/2015,warmTemperateDryWinterCoolSummer,,,Cwc,Warm Temperate - Dry winter - Cool summer
+07/04/2016,warmTemperateFullyHumidHotSummer,,,Cfa,Warm Temperate - Fully humid - Hot summer
+07/04/2017,warmTemperateFullyHumidWarmSummer,,,Cfb,Warm Temperate - Fully humid - Warm summer
+07/04/2018,warmTemperateFullyHumidCoolSummer,,,Cfc,Warm Temperate - Fully humid - Cool summer
+07/04/2019,snowDryHotSummer,,,Dsa,Snow - Dry and hot summer
+07/04/2020,snowDryWarmSummer,,,Dsb,Snow - Dry and warm summer
+07/04/2021,snowDryCoolSummer,,,Dsc,Snow - Dry and cool summer
+07/04/2022,snowDrySummerVeryColdWinter,,,Dsd,Snow - Dry summer - Very cold winter
+07/04/2023,snowDryWinterHotSummer,,,Dwa,Snow - Dry winter - Hot summer
+07/04/2024,snowDryWinterWarmSummer,,,Dwb,Snow - Dry winter - Warm summer
+07/04/2025,snowDryWinterColdSummer,,,Dwc,Snow - Dry winter - Cold summer
+07/04/2026,snowDryWinterVeryColdWinter,,,Dwd,Snow - Dry winter - Very cold winter
+07/04/2027,snowFullyHumidHotSummer,,,Dfa,Snow - Fully humid - Hot summer
+07/04/2028,snowFullyHumidWarmSummer,,,Dfb,Snow - Fully humid - Warm summer
+07/04/2029,snowFullyHumidCoolSummer,,,Dfc,Snow - Fully humid - Cool summer
+07/04/1930,snowFullyHumidVeryColdWinter,,,Dfd,Snow - Fully humid - Very cold winter
+07/04/1931,polarTundra,,,ET,Polar - Tundra
+07/04/1932,polarFrost,,,EF,Polar - Frost
