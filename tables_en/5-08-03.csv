@@ -1,5 +1,5 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-5-08-03-01,inCalibration,,,no changes - in calibration,Instrument verified and found to be in calibration
-5-08-03-02,outOfCalibration,,,no changes - out of calibration ,Instrument checked and found to be out of calibration; no changes to calibration function
-5-08-03-03,unknown,,,no changes - calibration unknown,Instrument visited but calibration could not be carried out
-5-08-03-04,recalibrated,,,recalibrated - in calibration,Instrument checked and found to be out of calibration; instrument recalibrated (calibration function changed)
+WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+unknown,,,no changes - calibration unknown,Instrument visited but calibration could not be carried out
+inCalibration,,,no changes - in calibration,Instrument verified and found to be in calibration
+outOfCalibration,,,no changes - out of calibration ,Instrument checked and found to be out of calibration; no changes to calibration function
+recalibrated,,,recalibrated - in calibration,Instrument checked and found to be out of calibration; instrument recalibrated (calibration function changed)

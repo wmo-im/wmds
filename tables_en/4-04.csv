@@ -1,60 +1,60 @@
-#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-1,notApplicable,,>(not applicable),(not applicable),None of the codes in the table is applicable in the context of the observing facility; or: Unknown; or: Information not available
-2,incident,,>Incident,Incident,An unexpected event that has (or may have) impacted the observations
-3,intervention,,>Intervention,Intervention,Human activity that has (or may have) impacted the observations
-4,environmental,,>Incident>Environmental,Environmental,NA
-5,fire,,>Incident>Fire,Fire,Fire inside building
-6,severeWeather,,>Incident>Severe weather,Severe weather,A natural severe weather event that has (or may have) impacted the observations
-7,spaceWeather,,>Incident>Space weather,Space weather,An event in outer space that has (or may have) impacted the observations
-8,technical,,>Incident>Technical,Technical,NA
-9,agriculturalActivity,,>Intervention>Agricultural activity,Agricultural activity,NA
-10,biomassBurningPlanned,,>Intervention>Biomass burning (planned),Biomass burning (planned),NA
-11,construction,,>Intervention>Construction,Construction,NA
-12,equipmentCleaning,,>Intervention>Equipment cleaning/ painting,Equipment cleaning/ painting,NA
-13,equipmentMaintenance,,>Intervention>Equipment maintenance,Equipment maintenance,NA
-14,repairReplacement,,>Intervention>Equipment repair/ replacement,Equipment repair/ replacement,NA
-15,equipmentVerificationCalibration,,>Intervention>Equipment verification/ calibration,Equipment verification/ calibration,NA
-16,personnelAbsence,,>Intervention>Personnel absent,Personnel absent,NA
-17,infrastructureWorks,,>Intervention>Infrastructure works,Infrastructure works,NA
-18,inspectionAuditing,,>Intervention>Inspection/ auditing,Inspection/ auditing,"Corrosion of components, seizing"
-19,landUseChange,,>Intervention>Land use change,Land use change,NA
-20,plannedServiceOutage,,>Intervention>Planned service outage,Planned service outage,NA
-21,preventiveMaintenance,,>Intervention>Preventative maintenance,Preventative maintenance,NA
-22,roadWork,,>Intervention>Road work,Road work,NA
-23,theft,,>Intervention>Theft of equipment,Theft of equipment,NA
-24,unrestStrike,,>Intervention>Unrest/strike,Unrest/strike,NA
-25,urbanDevelopment,,>Intervention>Urban development,Urban development,NA
-26,vandalism,,>Intervention>Vandalism,Vandalism,NA
-27,vegetationTrimming,,>Intervention>Vegetation trimming/ cutting,Vegetation trimming/ cutting,NA
-28,cycloneTornado,,>Incident>Environmental>Cyclone/tornado,Cyclone/tornado,NA
-29,dustSandStorm,,>Incident>Environmental>Dust/sand storm,Dust/sand storm,NA
-30,extremeCold,,>Incident>Environmental>Extreme cold,Extreme cold,NA
-31,extremeHeat,,>Incident>Environmental>Extreme heat,Extreme heat,NA
-32,hail,,>Incident>Environmental>Hail,Hail,NA
-33,flooding,,>Incident>Environmental>Heavy precipitation/flooding,Heavy precipitation/flooding,NA
-34,windDebris,,>Incident>Environmental>High wind/ blowing debris,High wind/ blowing debris,NA
-35,snowBlizzardIcing,,>Incident>Environmental>Snow/blizzard/icing,Snow/blizzard/icing,NA
-36,thunderstormLightning,,>Incident>Environmental>Thunderstorm/ lightning strike,Thunderstorm/ lightning strike,NA
-37,magneticStorm,,>Incident>Fire>Magnetic storm,Magnetic storm,NA
-38,solarFlares,,>Incident>Fire>Solar flares,Solar flares,NA
-39,avalanche,,>Incident>Severe weather>Avalanche,Avalanche,NA
-40,biologicalFouling,,>Incident>Severe weather>Biological fouling,Biological fouling,NA
-41,biomassBurningUnplanned,,>Incident>Severe weather>Biomass burning (unplanned),Biomass burning (unplanned),NA
-42,corrosion,,>Incident>Severe weather>Corrosion,Corrosion,NA
-43,earthQuake,,>Incident>Severe weather>Earthquake,Earthquake,NA
-44,erosion,,>Incident>Severe weather>Erosion,Erosion,NA
-45,guanoFouling,,>Incident>Severe weather>Guano fouling,Guano fouling,NA
-46,infestation,,>Incident>Severe weather>Insect/animal infestation,Insect/animal infestation,NA
-47,landslide,,>Incident>Severe weather>Land slide/mudslide,Land slide/mudslide,Hazard event
-48,pollution,,>Incident>Severe weather>Pollution,Pollution,NA
-49,stormSurge,,>Incident>Severe weather>Storm surge,Storm surge,NA
-50,tsunami,,>Incident>Severe weather>Tsunami,Tsunami,NA
-51,volcanicEruption,,>Incident>Severe weather>Volcanic eruption/ Ash,Volcanic eruption/ Ash,NA
-52,cyberAttack,,>Incident>Space weather>Cyber security penetration/ virus/ worm,Cyber security penetration/ virus/ worm,NA
-53,dataCommOutage,,>Incident>Space weather>Data communications outage,Data communications outage,NA
-54,malfunction,,>Incident>Space weather>Equipment malfunction,Equipment malfunction,NA
-55,groundClutter,,>Incident>Space weather>Ground clutter/ signal blockage/ degradation,Ground clutter/ signal blockage/ degradation,NA
-56,hardwareFailure,,>Incident>Space weather>Hardware failure,Hardware failure,NA
-57,powerOutage,,>Incident>Space weather>Power outage,Power outage,NA
-58,radioFrequencyInterference,,>Incident>Space weather>Radio frequency interference,Radio frequency interference,NA
-59,softwareFailure,,>Incident>Space weather>Software failure,Software failure,NA
+WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+agriculturalActivity,,>Intervention>Agricultural activity,Agricultural activity,NA
+avalanche,,>Incident>Severe weather>Avalanche,Avalanche,NA
+biologicalFouling,,>Incident>Severe weather>Biological fouling,Biological fouling,NA
+biomassBurningPlanned,,>Intervention>Biomass burning (planned),Biomass burning (planned),NA
+biomassBurningUnplanned,,>Incident>Severe weather>Biomass burning (unplanned),Biomass burning (unplanned),NA
+construction,,>Intervention>Construction,Construction,NA
+corrosion,,>Incident>Severe weather>Corrosion,Corrosion,NA
+cyberAttack,,>Incident>Space weather>Cyber security penetration/ virus/ worm,Cyber security penetration/ virus/ worm,NA
+cycloneTornado,,>Incident>Environmental>Cyclone/tornado,Cyclone/tornado,NA
+dataCommOutage,,>Incident>Space weather>Data communications outage,Data communications outage,NA
+dustSandStorm,,>Incident>Environmental>Dust/sand storm,Dust/sand storm,NA
+earthQuake,,>Incident>Severe weather>Earthquake,Earthquake,NA
+environmental,,>Incident>Environmental,Environmental,NA
+equipmentCleaning,,>Intervention>Equipment cleaning/ painting,Equipment cleaning/ painting,NA
+equipmentMaintenance,,>Intervention>Equipment maintenance,Equipment maintenance,NA
+malfunction,,>Incident>Space weather>Equipment malfunction,Equipment malfunction,NA
+repairReplacement,,>Intervention>Equipment repair/ replacement,Equipment repair/ replacement,NA
+equipmentVerificationCalibration,,>Intervention>Equipment verification/ calibration,Equipment verification/ calibration,NA
+erosion,,>Incident>Severe weather>Erosion,Erosion,NA
+extremeCold,,>Incident>Environmental>Extreme cold,Extreme cold,NA
+extremeHeat,,>Incident>Environmental>Extreme heat,Extreme heat,NA
+fire,,>Incident>Fire,Fire,Fire inside building
+groundClutter,,>Incident>Space weather>Ground clutter/ signal blockage/ degradation,Ground clutter/ signal blockage/ degradation,NA
+guanoFouling,,>Incident>Severe weather>Guano fouling,Guano fouling,NA
+hail,,>Incident>Environmental>Hail,Hail,NA
+hardwareFailure,,>Incident>Space weather>Hardware failure,Hardware failure,NA
+flooding,,>Incident>Environmental>Heavy precipitation/flooding,Heavy precipitation/flooding,NA
+windDebris,,>Incident>Environmental>High wind/ blowing debris,High wind/ blowing debris,NA
+incident,,>Incident,Incident,An unexpected event that has (or may have) impacted the observations
+infrastructureWorks,,>Intervention>Infrastructure works,Infrastructure works,NA
+infestation,,>Incident>Severe weather>Insect/animal infestation,Insect/animal infestation,NA
+inspectionAuditing,,>Intervention>Inspection/ auditing,Inspection/ auditing,"Corrosion of components, seizing"
+intervention,,>Intervention,Intervention,Human activity that has (or may have) impacted the observations
+landslide,,>Incident>Severe weather>Land slide/mudslide,Land slide/mudslide,Hazard event
+landUseChange,,>Intervention>Land use change,Land use change,NA
+magneticStorm,,>Incident>Fire>Magnetic storm,Magnetic storm,NA
+notApplicable,,>(not applicable),(not applicable),None of the codes in the table is applicable in the context of the observing facility; or: Unknown; or: Information not available
+personnelAbsence,,>Intervention>Personnel absent,Personnel absent,NA
+plannedServiceOutage,,>Intervention>Planned service outage,Planned service outage,NA
+pollution,,>Incident>Severe weather>Pollution,Pollution,NA
+powerOutage,,>Incident>Space weather>Power outage,Power outage,NA
+preventiveMaintenance,,>Intervention>Preventative maintenance,Preventative maintenance,NA
+radioFrequencyInterference,,>Incident>Space weather>Radio frequency interference,Radio frequency interference,NA
+roadWork,,>Intervention>Road work,Road work,NA
+severeWeather,,>Incident>Severe weather,Severe weather,A natural severe weather event that has (or may have) impacted the observations
+snowBlizzardIcing,,>Incident>Environmental>Snow/blizzard/icing,Snow/blizzard/icing,NA
+softwareFailure,,>Incident>Space weather>Software failure,Software failure,NA
+solarFlares,,>Incident>Fire>Solar flares,Solar flares,NA
+spaceWeather,,>Incident>Space weather,Space weather,An event in outer space that has (or may have) impacted the observations
+stormSurge,,>Incident>Severe weather>Storm surge,Storm surge,NA
+technical,,>Incident>Technical,Technical,NA
+theft,,>Intervention>Theft of equipment,Theft of equipment,NA
+thunderstormLightning,,>Incident>Environmental>Thunderstorm/ lightning strike,Thunderstorm/ lightning strike,NA
+tsunami,,>Incident>Severe weather>Tsunami,Tsunami,NA
+unrestStrike,,>Intervention>Unrest/strike,Unrest/strike,NA
+urbanDevelopment,,>Intervention>Urban development,Urban development,NA
+vandalism,,>Intervention>Vandalism,Vandalism,NA
+vegetationTrimming,,>Intervention>Vegetation trimming/ cutting,Vegetation trimming/ cutting,NA
+volcanicEruption,,>Incident>Severe weather>Volcanic eruption/ Ash,Volcanic eruption/ Ash,NA
