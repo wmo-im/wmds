@@ -11,7 +11,7 @@
 10	biomassBurningPlanned		>Intervention>Biomass burning (planned)	Biomass burning (planned)	NA
 11	construction		>Intervention>Construction	Construction	NA
 12	equipmentCleaning		>Intervention>Equipment cleaning/ painting	Equipment cleaning/ painting	NA
-13	equipmentMaintenance		>Intervention>Equipment maintenance	Equipment maintenance	"how is this different from ""preventive maintenance""?"
+13	equipmentMaintenance		>Intervention>Equipment maintenance	Equipment maintenance	NA
 14	repairReplacement		>Intervention>Equipment repair/ replacement	Equipment repair/ replacement	NA
 15	equipmentVerificationCalibration		>Intervention>Equipment verification/ calibration	Equipment verification/ calibration	NA
 16	personnelAbsence		>Intervention>Personnel absent	Personnel absent	NA
