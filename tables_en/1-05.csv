@@ -1,8 +1,8 @@
-﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-1,unspecified,,,(unspecified),Not applicable in the context of the observed quantity; or: unknown; or: not available.
-2,microscale,,,microscale,"An area or volume less than 100 m horizontal extent (for example, evaporation)."
-3,toposcale,,,"toposcale, local scale","An area or volume of 100 m to 3 km horizontal extent (for example, air pollution, tornadoes)."
-4,mesoscale,,,mesoscale,"An area or volume of 3 km to 100 km horizontal extent (for example, thunderstorms, sea and mountain breezes)."
-5,largeScale,,,large scale,"An area or volume of 100 km to 3000 km horizontal extent (for example, fronts, various cyclones, cloud clusters)."
-6,planetaryScale,,,planetary scale,"An area or volume of more than 3000 km horizontal extent (for example, long upper tropospheric waves)."
-7,drainageArea,,,drainage area,An area (also known as 'catchment') having a common outlet for its surface runoff.
+﻿WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+drainageArea,,,drainage area,An area (also known as 'catchment') having a common outlet for its surface runoff.
+largeScale,,,large scale,"An area or volume of 100 km to 3000 km horizontal extent (for example, fronts, various cyclones, cloud clusters)."
+mesoscale,,,mesoscale,"An area or volume of 3 km to 100 km horizontal extent (for example, thunderstorms, sea and mountain breezes)."
+microscale,,,microscale,"An area or volume less than 100 m horizontal extent (for example, evaporation)."
+planetaryScale,,,planetary scale,"An area or volume of more than 3000 km horizontal extent (for example, long upper tropospheric waves)."
+toposcale,,,"toposcale, local scale","An area or volume of 100 m to 3 km horizontal extent (for example, air pollution, tornadoes)."
+unspecified,,,(unspecified),Not applicable in the context of the observed quantity; or: unknown; or: not available.
