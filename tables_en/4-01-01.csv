@@ -1,20 +1,20 @@
-#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
-4-01-01-01	notApplicable			Not applicable	None of the codes in the table are applicable in the context of this particular observation (nilReason)
-4-01-01-02	water			Water	NA
-4-01-01-03	evergreenNeedleleafForest			Evergreen Needleleaf forest	NA
-4-01-01-04	evergreenBroadleafForest			Evergreen Broadleaf forest	NA
-4-01-01-05	deciduousNeedleleafForest			Deciduous Needleleaf forest	NA
-4-01-01-06	deciduousBroadleafForest			Deciduous Broadleaf forest	NA
-4-01-01-07	mixedForest			Mixed forest	NA
-4-01-01-08	closedShrublands			Closed shrublands	NA
-4-01-01-09	openShrublands			Open shrublands	NA
-4-01-01-10	woodySavannas			Woody savannas	NA
-4-01-01-11	svannas			Savannas	NA
-4-01-01-12	grasslands			Grasslands	NA
-4-01-01-13	permanentWetlands			Permanent wetlands	NA
-4-01-01-14	croplands			Croplands	NA
-4-01-01-15	urbanBuiltup			Urban and built-up	NA
-4-01-01-16	mosaic			Cropland/Natural vegetation mosaic	NA
-4-01-01-17	snowIce			Snow and ice	NA
-4-01-01-18	barren			Barren or sparsely vegetated	NA
-4-01-01-19	unclassified			Unclassified	NA
+WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+barren,,,Barren or sparsely vegetated,NA
+closedShrublands,,,Closed shrublands,NA
+mosaic,,,Cropland/Natural vegetation mosaic,NA
+croplands,,,Croplands,NA
+deciduousBroadleafForest,,,Deciduous Broadleaf forest,NA
+deciduousNeedleleafForest,,,Deciduous Needleleaf forest,NA
+evergreenBroadleafForest,,,Evergreen Broadleaf forest,NA
+evergreenNeedleleafForest,,,Evergreen Needleleaf forest,NA
+grasslands,,,Grasslands,NA
+mixedForest,,,Mixed forest,NA
+notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
+openShrublands,,,Open shrublands,NA
+permanentWetlands,,,Permanent wetlands,NA
+svannas,,,Savannas,NA
+snowIce,,,Snow and ice,NA
+unclassified,,,Unclassified,NA
+urbanBuiltup,,,Urban and built-up,NA
+water,,,Water,NA
+woodySavannas,,,Woody savannas,NA

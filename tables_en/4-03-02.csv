@@ -1,7 +1,7 @@
-#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
-4-03-02-1	nilReason			Not applicable	None of the codes in the table are applicable in the context of this particular observation (nilReason)
-4-03-02-2	lowest			Lowest	In the bottom 5% of the elevation range
-4-03-02-3	low			Low	Between 5% and 25% of the elevation range
-4-03-02-4	middle			Middle	Between 25% and 75% of the elevation range
-4-03-02-5	high			High	Between 75% and 95% of the elevation range
-4-03-02-6	highest			Highest	In the highest 5% of the elevation range
+WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+high,,,High,Between 75% and 95% of the elevation range
+highest,,,Highest,In the highest 5% of the elevation range
+low,,,Low,Between 5% and 25% of the elevation range
+lowest,,,Lowest,In the bottom 5% of the elevation range
+middle,,,Middle,Between 25% and 75% of the elevation range
+nilReason,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)

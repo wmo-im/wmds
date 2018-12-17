@@ -1,9 +1,9 @@
-#	WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
-1	gps			GPS	Location determined using the Global Positioning System. http://www.gps.gov/
-2	argosDoppler			ARGOS DOPPLER	Location determined using the frequency shift of transmissions to the ARGOS communications satellite service. http://www.argos-system.org/web/en/333-why-choose-argos.php
-3	iridiumDoppler			IRIDIUM DOPPLER	Location determined using the frequency shift of transmissions to the Iridium communications satellite constellation. https://www.iridium.com/
-4	argosKalman			ARGOS Kalman	Location determined using the Kalman filtering technique and the ARGOS communications satellite service. http://www.argos-system.org/web/en/393-faq-kalman.php.
-5	galileo			GALILEO	Location determined using the European GALILEO global navigation satellite system. http://galileognss.eu/
-6	loran			LORAN	Location determined using the LORAN (LOng RAnge Navigation) hyperbolic radio system.
-7	survey			Survey	Location determined using a geographic survey.
-8	map			From map	Location extracted by locating the object on a map.
+WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+argosDoppler,,,ARGOS DOPPLER,Location determined using the frequency shift of transmissions to the ARGOS communications satellite service. http://www.argos-system.org/web/en/333-why-choose-argos.php
+argosKalman,,,ARGOS Kalman,Location determined using the Kalman filtering technique and the ARGOS communications satellite service. http://www.argos-system.org/web/en/393-faq-kalman.php.
+map,,,From map,Location extracted by locating the object on a map.
+galileo,,,GALILEO,Location determined using the European GALILEO global navigation satellite system. http://galileognss.eu/
+gps,,,GPS,Location determined using the Global Positioning System. http://www.gps.gov/
+iridiumDoppler,,,IRIDIUM DOPPLER,Location determined using the frequency shift of transmissions to the Iridium communications satellite constellation. https://www.iridium.com/
+loran,,,LORAN,Location determined using the LORAN (LOng RAnge Navigation) hyperbolic radio system.
+survey,,,Survey,Location determined using a geographic survey.
