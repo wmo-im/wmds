@@ -10,9 +10,9 @@ desertColdArid,,,BWk,Desert - Cold arid
 warmTemperateFullyHumidHotSummer,,,Cfa,Warm Temperate - Fully humid - Hot summer
 warmTemperateFullyHumidWarmSummer,,,Cfb,Warm Temperate - Fully humid - Warm summer
 warmTemperateFullyHumidCoolSummer,,,Cfc,Warm Temperate - Fully humid - Cool summer
-warmTemperateDryHotSummer,,,Csa,Warm temperate - Dry
-warmTemperateDryWarmSummer,,,Csb,"Warm temperate - Dry, warm summer"
-warmTemperateDryCoolSummer,,,Csc,"Warm temperate - Dry, cool summer"
+warmTemperateDryHotSummer,,,Csa,Warm temperate - Dry and hot summer
+warmTemperateDryWarmSummer,,,Csb,Warm temperate - Dry and warm summer
+warmTemperateDryCoolSummer,,,Csc,Warm temperate - Dry and cool summer
 warmTemperateDryWinterHotSummer,,,Cwa,Warm Temperate - Dry winter - Hot summer
 warmTemperateDryWinterWarmSummer,,,Cwb,Warm Temperate - Dry winter - Warm summer
 warmTemperateDryWinterCoolSummer,,,Cwc,Warm Temperate - Dry winter - Cool summer
@@ -30,4 +30,5 @@ snowDryWinterColdSummer,,,Dwc,Snow - Dry winter - Cold summer
 snowDryWinterVeryColdWinter,,,Dwd,Snow - Dry winter - Very cold winter
 polarFrost,,,EF,Polar - Frost
 polarTundra,,,ET,Polar - Tundra
-unspecified,,,(unspecified),unspecified
+inapplicable,,,Ina,(Inapplicable - The value is not applicable.)
+unknown,,,Unk,(Unknown - The value is unknown or missing.)
