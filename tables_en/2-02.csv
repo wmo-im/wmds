@@ -3,7 +3,7 @@ add,,>WIGOS>GOS>GOS Other elements>ADD,ADD,Aircraft Derived Data (Mode-S/ADS-B)
 galionAdnet,,>WIGOS>GAW>GAW Contributing networks>GALION>ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 adsc,,>WIGOS>GOS>GOS Other elements>ADS-C,ADS-C,Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath.
 aerocan,,>WIGOS>GAW>GAW Other elements>AOD>AEROCAN,AEROCAN,"AEROCAN, federated to AERONET"
-aeronet,,>WIGOS>GAW>GAW Other elements>AOD>AERONET,AERONET,AERONET
+aeronet,,>WIGOS>GAW>GAW Other elements>AOD>AERONET,AERONET,AErosol RObotic NETwork
 afirs,,>WIGOS>GOS>GOS Other elements>AFIRS,AFIRS,"Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
 agage,,>WIGOS>GAW>GAW Other elements>AGAGE,AGAGE,AGAGE/SOGE/NIES
 airep,,>WIGOS>GOS>GOS Other elements>AIREP,AIREP,Aircraft Report (Manual). These are transmitted by the aircraft when a weather event encountered e.g. severe turbulence or icing.
@@ -161,8 +161,8 @@ argoDekosim,,>Co-sponsored>GOOS>Argo>DEKOSIM,DEKOSIM,NA
 cbcpDFODB,,>Co-sponsored>GOOS>DBCP>DFO DB,DFO DB,NA
 argoEAims,,>Co-sponsored>GOOS>Argo>E-AIMS,E-AIMS,NA
 eanet,,>WIGOS>GAW>GAW Other elements>EANET,EANET,EANET
-galionEarlinet,,>WIGOS>GAW>GAW Contributing networks>GALION>EARLINET,EARLINET,EARLINET European Lidar
-eAsap,,>Co-sponsored>GOOS>SOT>ASAP>E-ASAP,E-ASAP,NA
+galionEarlinet,,>WIGOS>GAW>GAW Contributing networks>GALION>EARLINET,EARLINET,European Aerosol Research Lidar Network
+eAsap,,>Co-sponsored>GOOS>SOT>ASAP>E-ASAP,E-ASAP,European - Automated Shipboard Aerological Program
 dbcpECDB,,>Co-sponsored>GOOS>DBCP>EC DB,EC DB,NA
 dbcpEcIABP,,>Co-sponsored>GOOS>DBCP>EC-IABP,EC-IABP,NA
 dbcpECMB,,>Co-sponsored>GOOS>DBCP>EC MB,EC MB,NA
@@ -186,7 +186,7 @@ gawPFR,,>WIGOS>GAW>GAW Contributing networks>GAW-PFR,GAW-PFR,GAW Precision Filte
 gawRegional,,>WIGOS>GAW>GAW Regional,GAW Regional,Regional GAW station
 gcos,,>Co-sponsored>GCOS,GCOS,Global Climate Observing System
 gcw,,>WIGOS>GCW,GCW,Global Cryosphere Watch
-germanAOD,,>WIGOS>GAW>GAW Other elements>AOD>German AOD network,German AOD network,German AOD network
+germanAOD,,>WIGOS>GAW>GAW Other elements>AOD>German AOD network,German AOD network,German Aerosol Optical Depth Network
 dbcpGermanyMB,,>Co-sponsored>GOOS>DBCP>GERMANY MB,GERMANY MB,NA
 dbcpGloscal,,>Co-sponsored>GOOS>DBCP>GLOSCAL,GLOSCAL,NA
 gnssRadioOccultation,,>WIGOS>GOS>GOS Other elements>GNSS radio-occultation system,GNSS radio-occultation system,NA
@@ -209,7 +209,7 @@ dbcpIABP,,>Co-sponsored>GOOS>DBCP>IABP,IABP,NA
 dbcpIABPNIC,,>Co-sponsored>GOOS>DBCP>IABP NIC,IABP NIC,NA
 dbcpIABPUS,,>Co-sponsored>GOOS>DBCP>IABP US,IABP US,NA
 dbcpIABPUW,,>Co-sponsored>GOOS>DBCP>IABP-UW,IABP-UW,NA
-iagos,,>WIGOS>GAW>GAW Other elements>IAGOS,IAGOS,MOZAIC-IAGOS
+iagos,,>WIGOS>GAW>GAW Other elements>IAGOS,IAGOS,In-service Aircraft for a Global Observing System
 dbcpIBPIO,,>Co-sponsored>GOOS>DBCP>IBPIO,IBPIO,NA
 idaf,,>WIGOS>GAW>GAW Contributing networks>IDAF,IDAF,IGAC/DEBITS Africa
 improve,,>WIGOS>GAW>GAW Contributing networks>IMPROVE,IMPROVE,IMPROVE Optical Aerosol
@@ -308,7 +308,7 @@ dbcpPacioos,,>Co-sponsored>GOOS>DBCP>PACIOOS,PACIOOS,NA
 dbcpPetrobras,,>Co-sponsored>GOOS>DBCP>PETROBRAS,PETROBRAS,NA
 photons,,>WIGOS>GAW>GAW Other elements>AOD>PHOTONS,PHOTONS,"PHOTONS, federated to AERONET"
 dbcpPmel,,>Co-sponsored>GOOS>DBCP>PMEL MB,PMEL MB,NA
-polarAOD,,>WIGOS>GAW>GAW Other elements>AOD>PolarAOD,PolarAOD,PolarAOD
+polarAOD,,>WIGOS>GAW>GAW Other elements>AOD>PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
 rbcn,,>WIGOS>GOS>GOS Surface networks>RBCN,RBCN,Regional Basic Climatological Networks
 rbsn,,>WIGOS>GOS>GOS Surface networks>RBSN,RBSN,GOS Regional Basic Synoptic Networks
 rbsnP,,>WIGOS>GOS>GOS Surface networks>RBSN>RBSN(P),RBSN(P),Regional Basic Synoptic Network upper-air station (PILOT)
@@ -322,17 +322,17 @@ dbcpShell,,>Co-sponsored>GOOS>DBCP>SHELL,SHELL,NA
 dbcpShoaTSU,,>Co-sponsored>GOOS>DBCP>SHOA-TSU,SHOA-TSU,NA
 sibrad,,>WIGOS>GAW>GAW Other elements>AOD>SibRad,SibRad,SibRad
 dbcpSIODB,,>Co-sponsored>GOOS>DBCP>SIO-DB,SIO-DB,NA
-skynet,,>WIGOS>GAW>GAW Other elements>AOD>SKYNET,SKYNET,SKYNET
+skynet,,>WIGOS>GAW>GAW Other elements>AOD>SKYNET,SKYNET,Aerosol -cloud-radiation interaction in the atmosphere project
 soopBOM,,>Co-sponsored>GOOS>SOT>SOOP-BOM,SOOP-BOM,NA
-soot,,>Co-sponsored>GOOS>SOT>SOOT,SOOT,Ship Of Opportunity Programme
+soot,,>Co-sponsored>GOOS>SOT>SOOP,SOOP,Ship Of Opportunity Programme
 sot,,>Co-sponsored>GOOS>SOT,SOT,NA
 dbcpSpainPDEMB,,>Co-sponsored>GOOS>DBCP>SPAIN-PDE MB,SPAIN-PDE MB,NA
 dbcpStratus,,>Co-sponsored>GOOS>DBCP>STRATUS,STRATUS,NA
 tamdar,,>WIGOS>GOS>GOS Other elements>TAMDAR,TAMDAR,"Tropospheric Aircraft Meteorological Data Relay (Commercial/Panasonic). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
 dbcpTaoAtlas,,>Co-sponsored>GOOS>DBCP>TAO ATLAS,TAO ATLAS,NA
-dbcpTaoPirata,,>Co-sponsored>GOOS>DBCP>TAO PIRATA,TAO PIRATA,NA
-dbcpTaoPirataUS,,>Co-sponsored>GOOS>DBCP>TAO PIRATA US,TAO PIRATA US,NA
-dbcpTaoRamaUSIndia,,>Co-sponsored>GOOS>DBCP>TAO RAMA US-INDIA,TAO RAMA US-INDIA,NA
+dbcpTaoPirata,,>Co-sponsored>GOOS>DBCP>TAO PIRATA,TAO PIRATA,Prediction and Research Moored Array in the Atlantic
+dbcpTaoPirataUS,,>Co-sponsored>GOOS>DBCP>TAO PIRATA US,TAO PIRATA US,
+dbcpTaoRamaUSIndia,,>Co-sponsored>GOOS>DBCP>TAO RAMA US-INDIA,TAO RAMA US-INDIA,Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction
 dbcpTaoTriton,,>Co-sponsored>GOOS>DBCP>TAO TRITON,TAO TRITON,NA
 tccon,,>WIGOS>GAW>GAW Contributing networks>TCCON,TCCON,Total Carbon Column Observing Network
 dbcpUCSDScripps,,>Co-sponsored>GOOS>DBCP>UCSD-SCRIPPS,UCSD-SCRIPPS,NA
@@ -371,7 +371,7 @@ vosShipMask,,>Co-sponsored>GOOS>SOT>VOS>VOS-SHIP-MASK,VOS-SHIP-MASK,NA
 vosUS,,>Co-sponsored>GOOS>SOT>VOS>VOS-US,VOS-US,NA
 vosZA,,>Co-sponsored>GOOS>SOT>VOS>VOS-ZA,VOS-ZA,NA
 whos,,>WIGOS>WHOS,WHOS,NA
-whycos,,>WIGOS>WHOS>WHYCOS,WHYCOS,NA
+whycos,,>WIGOS>WHOS>WHYCOS,WHYCOS,World Hydrological Cycle Observing System
 wigos,,>WIGOS,WIGOS,WMO Integrated Observing System components
 windProfiler,,>WIGOS>GOS>GOS Other elements>Wind Profilers,Wind Profilers,Wind profilers for upper-air wind observations
 wro,,>WIGOS>GOS>GOS Other elements>WRO,WRO,GOS Weather Radar
