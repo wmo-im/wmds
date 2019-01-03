@@ -1,20 +1,20 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-barren,,,Barren or sparsely vegetated,NA
-closedShrublands,,,Closed shrublands,NA
-mosaic,,,Cropland/Natural vegetation mosaic,NA
-croplands,,,Croplands,NA
-deciduousBroadleafForest,,,Deciduous Broadleaf forest,NA
-deciduousNeedleleafForest,,,Deciduous Needleleaf forest,NA
-evergreenBroadleafForest,,,Evergreen Broadleaf forest,NA
-evergreenNeedleleafForest,,,Evergreen Needleleaf forest,NA
-grasslands,,,Grasslands,NA
-mixedForest,,,Mixed forest,NA
+barren,,,Barren or sparsely vegetated,
+closedShrublands,,,Closed shrublands,
+mosaic,,,Cropland/Natural vegetation mosaic,
+croplands,,,Croplands,
+deciduousBroadleafForest,,,Deciduous Broadleaf forest,
+deciduousNeedleleafForest,,,Deciduous Needleleaf forest,
+evergreenBroadleafForest,,,Evergreen Broadleaf forest,
+evergreenNeedleleafForest,,,Evergreen Needleleaf forest,
+grasslands,,,Grasslands,
+mixedForest,,,Mixed forest,
 notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
-openShrublands,,,Open shrublands,NA
-permanentWetlands,,,Permanent wetlands,NA
-svannas,,,Savannas,NA
-snowIce,,,Snow and ice,NA
-unclassified,,,Unclassified,NA
-urbanBuiltup,,,Urban and built-up,NA
-water,,,Water,NA
-woodySavannas,,,Woody savannas,NA
+openShrublands,,,Open shrublands,
+permanentWetlands,,,Permanent wetlands,
+svannas,,,Savannas,
+snowIce,,,Snow and ice,
+unclassified,,,Unclassified,
+urbanBuiltup,,,Urban and built-up,
+water,,,Water,
+woodySavannas,,,Woody savannas,

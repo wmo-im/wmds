@@ -5,4 +5,4 @@ operational,,,Operational,The station fully complies with the reporting obligati
 partlyOperational,,,Partly operational,The station partially complies with the reporting obligations of the observation programme/network concerned
 planned,,,Planned,"The station is planned to be deployed sometime in the future, and all information"
 preOperational,,,Pre-operational,The station is deployed and producing data but still not fully ready to start reporting operationally
-standBy,,,Stand-by,NA
+standBy,,,Stand-by,

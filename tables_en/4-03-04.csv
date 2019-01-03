@@ -1,5 +1,5 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-large,,,Large,Between -3000 and -1000 m Between 1000 and 3000 m
+large,,,Large,Between -3000 and -1000 m or between 1000 and 3000 m
 middle,,,Middle,Between -1000 and -300 m or between 300 and 1000 m
 nilReason,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
 small,,,Small,Between -300 and -100 m or between 100 and 300 m

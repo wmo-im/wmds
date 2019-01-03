@@ -1,9 +1,9 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-collectiveStandard,,,Collective,NA
-internationalStandard,,,International,NA
-primaryStandard,,,Primary,NA
-referenceStandard,,,Reference,NA
-secondaryStandard,,,Secondary,NA
-transferStandard,,,Transfer,NA
-travellingStandard,,,Travelling,NA
-workingStandard,,,Working,NA
+collectiveStandard,,,Collective,
+internationalStandard,,,International,
+primaryStandard,,,Primary,
+referenceStandard,,,Reference,
+secondaryStandard,,,Secondary,
+transferStandard,,,Transfer,
+travellingStandard,,,Travelling,
+workingStandard,,,Working,

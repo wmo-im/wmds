@@ -12,170 +12,170 @@ amdar,,>WIGOS>GOS>GOS Other elements>AMDAR,AMDAR,Aircraft Meteorological Data Re
 anton,,>WIGOS>GOS>GOS Surface networks>ANTON,ANTON,Antarctic Observing Network surface synoptic station (SYNOP/CLIMAT)
 antonT,,>WIGOS>GOS>GOS Surface networks>ANTON>ANTON(T),ANTON(T),Antarctic Observing Network upper-air station (TEMP)
 globalAOD,,>WIGOS>GAW>GAW Other elements>AOD,AOD,Aerosol Optical Depth
-dbcpAOMLeSurfmar,,>Co-sponsored>GOOS>DBCP>AOML-E-SURFMAR,AOML-E-SURFMAR,NA
-dbcpAOMLmf,,>Co-sponsored>GOOS>DBCP>AOML-MF DB,AOML-MF DB,NA
-dbcpAOML,,>Co-sponsored>GOOS>DBCP>AOML,AOML,NA
-dbcpAPLUW,,>Co-sponsored>GOOS>DBCP>APL-UW,APL-UW,NA
-argoArgentina,,>Co-sponsored>GOOS>Argo>ARGO ARGENTINA,ARGO ARGENTINA,NA
-argoEqAustralia,,>Co-sponsored>GOOS>Argo>ARGO AUSTRALIA EQ.,ARGO AUSTRALIA EQ.,NA
-argoAustralia,,>Co-sponsored>GOOS>Argo>ARGO AUSTRALIA,ARGO AUSTRALIA,NA
-argoAWI,,>Co-sponsored>GOOS>Argo>ARGO AWI,ARGO AWI,NA
-argoBrazil,,>Co-sponsored>GOOS>Argo>ARGO BRAZIL,ARGO BRAZIL,NA
-argoBrazilNavy,,>Co-sponsored>GOOS>Argo>ARGO BRAZIL NAVY,ARGO BRAZIL NAVY,NA
-argoBSH,,>Co-sponsored>GOOS>Argo>ARGO BSH,ARGO BSH,NA
-argoCanada,,>Co-sponsored>GOOS>Argo>ARGO CANADA,ARGO CANADA,NA
-argoChile,,>Co-sponsored>GOOS>Argo>ARGO CHILE,ARGO CHILE,NA
-argoChina,,>Co-sponsored>GOOS>Argo>ARGO CHINA,ARGO CHINA,NA
-argoChinaSOA,,>Co-sponsored>GOOS>Argo>ARGO CHINA SOA,ARGO CHINA SOA,NA
-argoCostaRica,,>Co-sponsored>GOOS>Argo>ARGO COSTA RICA,ARGO COSTA RICA,NA
-argoDenmark,,>Co-sponsored>GOOS>Argo>ARGO DENMARK,ARGO DENMARK,NA
-argoEcuador,,>Co-sponsored>GOOS>Argo>ARGO ECUADOR,ARGO ECUADOR,NA
-argoEqAOML,,>Co-sponsored>GOOS>Argo>ARGO EQ. AOML,ARGO EQ. AOML,NA
-argoEqAWI,,>Co-sponsored>GOOS>Argo>ARGO EQ. AWI,ARGO EQ. AWI,NA
-argoEqBSH,,>Co-sponsored>GOOS>Argo>ARGO EQ. BSH,ARGO EQ. BSH,NA
-argoEqChina,,>Co-sponsored>GOOS>Argo>ARGO EQ. CHINA,ARGO EQ. CHINA,NA
-argoEqESPOMZ,,>Co-sponsored>GOOS>Argo>ARGO EQ. ESP-OMZ,ARGO EQ. ESP-OMZ,NA
-argoEqFERHRI,,>Co-sponsored>GOOS>Argo>ARGO EQ. FERHRI,ARGO EQ. FERHRI,NA
-argoEqFSU,,>Co-sponsored>GOOS>Argo>ARGO EQ. FSU,ARGO EQ. FSU,NA
-argoEqHNFRI,,>Co-sponsored>GOOS>Argo>ARGO EQ. HNFRI,ARGO EQ. HNFRI,NA
-argoEqIFM2,,>Co-sponsored>GOOS>Argo>ARGO EQ. IFM2,ARGO EQ. IFM2,NA
-argoEqIFM,,>Co-sponsored>GOOS>Argo>ARGO EQ. IFM,ARGO EQ. IFM,NA
-argoEqIreland,,>Co-sponsored>GOOS>Argo>ARGO EQ. IRELAND,ARGO EQ. IRELAND,NA
-argoEqJamstec,,>Co-sponsored>GOOS>Argo>ARGO EQ. JAMSTEC,ARGO EQ. JAMSTEC,NA
-argoEqJMA,,>Co-sponsored>GOOS>Argo>ARGO EQ. JMA,ARGO EQ. JMA,NA
-argoEqNavoceano,,>Co-sponsored>GOOS>Argo>ARGO EQ. NAVOCEANO,ARGO EQ. NAVOCEANO,NA
-argoEqNDBC,,>Co-sponsored>GOOS>Argo>ARGO EQ. NDBC,ARGO EQ. NDBC,NA
-argoEqNIPR,,>Co-sponsored>GOOS>Argo>ARGO EQ. NIPR,ARGO EQ. NIPR,NA
-argoEqNRIFS,,>Co-sponsored>GOOS>Argo>ARGO EQ. NRIFS,ARGO EQ. NRIFS,NA
-argoEqOIST,,>Co-sponsored>GOOS>Argo>ARGO EQ. OIST,ARGO EQ. OIST,NA
-argoEqORI,,>Co-sponsored>GOOS>Argo>ARGO EQ. ORI,ARGO EQ. ORI,NA
-argoEqPMEL,,>Co-sponsored>GOOS>Argo>ARGO EQ. PMEL,ARGO EQ. PMEL,NA
-argoEqPomme,,>Co-sponsored>GOOS>Argo>ARGO EQ. POMME,ARGO EQ. POMME,NA
-argoEqSage,,>Co-sponsored>GOOS>Argo>ARGO EQ. SAGE,ARGO EQ. SAGE,NA
-argoEqTNFRI,,>Co-sponsored>GOOS>Argo>ARGO EQ. TNFRI,ARGO EQ. TNFRI,NA
-argoEqTSK,,>Co-sponsored>GOOS>Argo>ARGO EQ. TSK,ARGO EQ. TSK,NA
-argoEqTU,,>Co-sponsored>GOOS>Argo>ARGO EQ. TU,ARGO EQ. TU,NA
-argoEqUHH,,>Co-sponsored>GOOS>Argo>ARGO EQ. UHH,ARGO EQ. UHH,NA
-argoEqUH,,>Co-sponsored>GOOS>Argo>ARGO EQ. UH,ARGO EQ. UH,NA
-argoEqUMOSU,,>Co-sponsored>GOOS>Argo>ARGO EQ. UM-OSU,ARGO EQ. UM-OSU,NA
-argoEqVocals,,>Co-sponsored>GOOS>Argo>ARGO EQ. VOCALS,ARGO EQ. VOCALS,NA
-argoEqWHOI,,>Co-sponsored>GOOS>Argo>ARGO EQ. WHOI,ARGO EQ. WHOI,NA
-argoFinland,,>Co-sponsored>GOOS>Argo>ARGO FINLAND,ARGO FINLAND,NA
-argoGabon,,>Co-sponsored>GOOS>Argo>ARGO GABON,ARGO GABON,NA
-argoGermany,,>Co-sponsored>GOOS>Argo>ARGO GERMANY,ARGO GERMANY,NA
-argoGreece,,>Co-sponsored>GOOS>Argo>ARGO GREECE,ARGO GREECE,NA
-argoIFMGeomar,,>Co-sponsored>GOOS>Argo>ARGO IFM-GEOMAR,ARGO IFM-GEOMAR,NA
-argoIndia,,>Co-sponsored>GOOS>Argo>ARGO INDIA,ARGO INDIA,NA
+dbcpAOMLeSurfmar,,>Co-sponsored>GOOS>DBCP>AOML-E-SURFMAR,AOML-E-SURFMAR,
+dbcpAOMLmf,,>Co-sponsored>GOOS>DBCP>AOML-MF DB,AOML-MF DB,
+dbcpAOML,,>Co-sponsored>GOOS>DBCP>AOML,AOML,
+dbcpAPLUW,,>Co-sponsored>GOOS>DBCP>APL-UW,APL-UW,
+argoArgentina,,>Co-sponsored>GOOS>Argo>ARGO ARGENTINA,ARGO ARGENTINA,
+argoEqAustralia,,>Co-sponsored>GOOS>Argo>ARGO AUSTRALIA EQ.,ARGO AUSTRALIA EQ.,
+argoAustralia,,>Co-sponsored>GOOS>Argo>ARGO AUSTRALIA,ARGO AUSTRALIA,
+argoAWI,,>Co-sponsored>GOOS>Argo>ARGO AWI,ARGO AWI,
+argoBrazil,,>Co-sponsored>GOOS>Argo>ARGO BRAZIL,ARGO BRAZIL,
+argoBrazilNavy,,>Co-sponsored>GOOS>Argo>ARGO BRAZIL NAVY,ARGO BRAZIL NAVY,
+argoBSH,,>Co-sponsored>GOOS>Argo>ARGO BSH,ARGO BSH,
+argoCanada,,>Co-sponsored>GOOS>Argo>ARGO CANADA,ARGO CANADA,
+argoChile,,>Co-sponsored>GOOS>Argo>ARGO CHILE,ARGO CHILE,
+argoChina,,>Co-sponsored>GOOS>Argo>ARGO CHINA,ARGO CHINA,
+argoChinaSOA,,>Co-sponsored>GOOS>Argo>ARGO CHINA SOA,ARGO CHINA SOA,
+argoCostaRica,,>Co-sponsored>GOOS>Argo>ARGO COSTA RICA,ARGO COSTA RICA,
+argoDenmark,,>Co-sponsored>GOOS>Argo>ARGO DENMARK,ARGO DENMARK,
+argoEcuador,,>Co-sponsored>GOOS>Argo>ARGO ECUADOR,ARGO ECUADOR,
+argoEqAOML,,>Co-sponsored>GOOS>Argo>ARGO EQ. AOML,ARGO EQ. AOML,
+argoEqAWI,,>Co-sponsored>GOOS>Argo>ARGO EQ. AWI,ARGO EQ. AWI,
+argoEqBSH,,>Co-sponsored>GOOS>Argo>ARGO EQ. BSH,ARGO EQ. BSH,
+argoEqChina,,>Co-sponsored>GOOS>Argo>ARGO EQ. CHINA,ARGO EQ. CHINA,
+argoEqESPOMZ,,>Co-sponsored>GOOS>Argo>ARGO EQ. ESP-OMZ,ARGO EQ. ESP-OMZ,
+argoEqFERHRI,,>Co-sponsored>GOOS>Argo>ARGO EQ. FERHRI,ARGO EQ. FERHRI,
+argoEqFSU,,>Co-sponsored>GOOS>Argo>ARGO EQ. FSU,ARGO EQ. FSU,
+argoEqHNFRI,,>Co-sponsored>GOOS>Argo>ARGO EQ. HNFRI,ARGO EQ. HNFRI,
+argoEqIFM2,,>Co-sponsored>GOOS>Argo>ARGO EQ. IFM2,ARGO EQ. IFM2,
+argoEqIFM,,>Co-sponsored>GOOS>Argo>ARGO EQ. IFM,ARGO EQ. IFM,
+argoEqIreland,,>Co-sponsored>GOOS>Argo>ARGO EQ. IRELAND,ARGO EQ. IRELAND,
+argoEqJamstec,,>Co-sponsored>GOOS>Argo>ARGO EQ. JAMSTEC,ARGO EQ. JAMSTEC,
+argoEqJMA,,>Co-sponsored>GOOS>Argo>ARGO EQ. JMA,ARGO EQ. JMA,
+argoEqNavoceano,,>Co-sponsored>GOOS>Argo>ARGO EQ. NAVOCEANO,ARGO EQ. NAVOCEANO,
+argoEqNDBC,,>Co-sponsored>GOOS>Argo>ARGO EQ. NDBC,ARGO EQ. NDBC,
+argoEqNIPR,,>Co-sponsored>GOOS>Argo>ARGO EQ. NIPR,ARGO EQ. NIPR,
+argoEqNRIFS,,>Co-sponsored>GOOS>Argo>ARGO EQ. NRIFS,ARGO EQ. NRIFS,
+argoEqOIST,,>Co-sponsored>GOOS>Argo>ARGO EQ. OIST,ARGO EQ. OIST,
+argoEqORI,,>Co-sponsored>GOOS>Argo>ARGO EQ. ORI,ARGO EQ. ORI,
+argoEqPMEL,,>Co-sponsored>GOOS>Argo>ARGO EQ. PMEL,ARGO EQ. PMEL,
+argoEqPomme,,>Co-sponsored>GOOS>Argo>ARGO EQ. POMME,ARGO EQ. POMME,
+argoEqSage,,>Co-sponsored>GOOS>Argo>ARGO EQ. SAGE,ARGO EQ. SAGE,
+argoEqTNFRI,,>Co-sponsored>GOOS>Argo>ARGO EQ. TNFRI,ARGO EQ. TNFRI,
+argoEqTSK,,>Co-sponsored>GOOS>Argo>ARGO EQ. TSK,ARGO EQ. TSK,
+argoEqTU,,>Co-sponsored>GOOS>Argo>ARGO EQ. TU,ARGO EQ. TU,
+argoEqUHH,,>Co-sponsored>GOOS>Argo>ARGO EQ. UHH,ARGO EQ. UHH,
+argoEqUH,,>Co-sponsored>GOOS>Argo>ARGO EQ. UH,ARGO EQ. UH,
+argoEqUMOSU,,>Co-sponsored>GOOS>Argo>ARGO EQ. UM-OSU,ARGO EQ. UM-OSU,
+argoEqVocals,,>Co-sponsored>GOOS>Argo>ARGO EQ. VOCALS,ARGO EQ. VOCALS,
+argoEqWHOI,,>Co-sponsored>GOOS>Argo>ARGO EQ. WHOI,ARGO EQ. WHOI,
+argoFinland,,>Co-sponsored>GOOS>Argo>ARGO FINLAND,ARGO FINLAND,
+argoGabon,,>Co-sponsored>GOOS>Argo>ARGO GABON,ARGO GABON,
+argoGermany,,>Co-sponsored>GOOS>Argo>ARGO GERMANY,ARGO GERMANY,
+argoGreece,,>Co-sponsored>GOOS>Argo>ARGO GREECE,ARGO GREECE,
+argoIFMGeomar,,>Co-sponsored>GOOS>Argo>ARGO IFM-GEOMAR,ARGO IFM-GEOMAR,
+argoIndia,,>Co-sponsored>GOOS>Argo>ARGO INDIA,ARGO INDIA,
 argo,,>Co-sponsored>GOOS>Argo,Argo,IOC/WMO Argo program of drifting sub-surface floats
-argoIreland,,>Co-sponsored>GOOS>Argo>ARGO IRELAND,ARGO IRELAND,NA
-argoItaly,,>Co-sponsored>GOOS>Argo>ARGO ITALY,ARGO ITALY,NA
-argoJamstec,,>Co-sponsored>GOOS>Argo>ARGO JAMSTEC,ARGO JAMSTEC,NA
-argoJMA,,>Co-sponsored>GOOS>Argo>ARGO JMA,ARGO JMA,NA
-argoKenya,,>Co-sponsored>GOOS>Argo>ARGO KENYA,ARGO KENYA,NA
-argoKiost,,>Co-sponsored>GOOS>Argo>ARGO KIOST,ARGO KIOST,NA
-argoLebanon,,>Co-sponsored>GOOS>Argo>ARGO LEBANON,ARGO LEBANON,NA
-argoMauritius,,>Co-sponsored>GOOS>Argo>ARGO MAURITIUS,ARGO MAURITIUS,NA
-argoMexCoUS,,>Co-sponsored>GOOS>Argo>ARGO MEX-CO-US,ARGO MEX-CO-US,NA
-argoMexico,,>Co-sponsored>GOOS>Argo>ARGO MEXICO,ARGO MEXICO,NA
-argoNetherlands,,>Co-sponsored>GOOS>Argo>ARGO NETHERLANDS,ARGO NETHERLANDS,NA
-argoNewZealand,,>Co-sponsored>GOOS>Argo>ARGO NEW ZEALAND,ARGO NEW ZEALAND,NA
-argoMIMRKMA,,>Co-sponsored>GOOS>Argo>ARGO NIMR/KMA,ARGO NIMR/KMA,NA
-argoNorway,,>Co-sponsored>GOOS>Argo>ARGO NORWAY,ARGO NORWAY,NA
-argoPMEL,,>Co-sponsored>GOOS>Argo>ARGO PMEL,ARGO PMEL,NA
-argoPoland,,>Co-sponsored>GOOS>Argo>ARGO POLAND,ARGO POLAND,NA
-argoRussia,,>Co-sponsored>GOOS>Argo>ARGO RUSSIA,ARGO RUSSIA,NA
-argoSaudiArabia,,>Co-sponsored>GOOS>Argo>ARGO SAUDI ARABIA,ARGO SAUDI ARABIA,NA
-argoSIOEqASIRI,,>Co-sponsored>GOOS>Argo>ARGO SIO EQ (ASIRI),ARGO SIO EQ (ASIRI),NA
-argoSIOEqOKMC,,>Co-sponsored>GOOS>Argo>ARGO SIO EQ. (OKMC),ARGO SIO EQ. (OKMC),NA
-argoSIO,,>Co-sponsored>GOOS>Argo>ARGO SIO,ARGO SIO,NA
-argoSouthAfrica,,>Co-sponsored>GOOS>Argo>ARGO SOUTH AFRICA,ARGO SOUTH AFRICA,NA
-argoSpain,,>Co-sponsored>GOOS>Argo>ARGO SPAIN,ARGO SPAIN,NA
-argoSriLanka,,>Co-sponsored>GOOS>Argo>ARGO SRI LANKA,ARGO SRI LANKA,NA
-argoTWREng,,>Co-sponsored>GOOS>Argo>ARGO TWR ENGINEERING,ARGO TWR ENGINEERING,NA
-argoUKBIO,,>Co-sponsored>GOOS>Argo>ARGO UK BIO,ARGO UK BIO,NA
-argoUKEq,,>Co-sponsored>GOOS>Argo>ARGO UK EQ.,ARGO UK EQ.,NA
-argoUK,,>Co-sponsored>GOOS>Argo>ARGO UK,ARGO UK,NA
-argoUWAplEq,,>Co-sponsored>GOOS>Argo>ARGO UW-APL EQ.,ARGO UW-APL EQ.,NA
-argoUWEq,,>Co-sponsored>GOOS>Argo>ARGO UW EQ.,ARGO UW EQ.,NA
-argoUWMbariEq,,>Co-sponsored>GOOS>Argo>ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.,NA
-argoUW,,>Co-sponsored>GOOS>Argo>ARGO UW,ARGO UW,NA
-argoUWSoccomEq,,>Co-sponsored>GOOS>Argo>ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.,NA
-argoUWSpursEq,,>Co-sponsored>GOOS>Argo>ARGO UW-SPURS  EQ.,ARGO UW-SPURS  EQ.,NA
-argoUWUAEq,,>Co-sponsored>GOOS>Argo>ARGO UW-UA EQ.,ARGO UW-UA EQ.,NA
-argoWHOIEqIR,,>Co-sponsored>GOOS>Argo>ARGO WHOI EQ. IR,ARGO WHOI EQ. IR,NA
-argoWHOIMRVEq,,>Co-sponsored>GOOS>Argo>ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.,NA
-argoWHOI,,>Co-sponsored>GOOS>Argo>ARGO WHOI,ARGO WHOI,NA
-asapAWI,,>Co-sponsored>GOOS>SOT>ASAP>ASAP-AWI,ASAP-AWI,NA
+argoIreland,,>Co-sponsored>GOOS>Argo>ARGO IRELAND,ARGO IRELAND,
+argoItaly,,>Co-sponsored>GOOS>Argo>ARGO ITALY,ARGO ITALY,
+argoJamstec,,>Co-sponsored>GOOS>Argo>ARGO JAMSTEC,ARGO JAMSTEC,
+argoJMA,,>Co-sponsored>GOOS>Argo>ARGO JMA,ARGO JMA,
+argoKenya,,>Co-sponsored>GOOS>Argo>ARGO KENYA,ARGO KENYA,
+argoKiost,,>Co-sponsored>GOOS>Argo>ARGO KIOST,ARGO KIOST,
+argoLebanon,,>Co-sponsored>GOOS>Argo>ARGO LEBANON,ARGO LEBANON,
+argoMauritius,,>Co-sponsored>GOOS>Argo>ARGO MAURITIUS,ARGO MAURITIUS,
+argoMexCoUS,,>Co-sponsored>GOOS>Argo>ARGO MEX-CO-US,ARGO MEX-CO-US,
+argoMexico,,>Co-sponsored>GOOS>Argo>ARGO MEXICO,ARGO MEXICO,
+argoNetherlands,,>Co-sponsored>GOOS>Argo>ARGO NETHERLANDS,ARGO NETHERLANDS,
+argoNewZealand,,>Co-sponsored>GOOS>Argo>ARGO NEW ZEALAND,ARGO NEW ZEALAND,
+argoMIMRKMA,,>Co-sponsored>GOOS>Argo>ARGO NIMR/KMA,ARGO NIMR/KMA,
+argoNorway,,>Co-sponsored>GOOS>Argo>ARGO NORWAY,ARGO NORWAY,
+argoPMEL,,>Co-sponsored>GOOS>Argo>ARGO PMEL,ARGO PMEL,
+argoPoland,,>Co-sponsored>GOOS>Argo>ARGO POLAND,ARGO POLAND,
+argoRussia,,>Co-sponsored>GOOS>Argo>ARGO RUSSIA,ARGO RUSSIA,
+argoSaudiArabia,,>Co-sponsored>GOOS>Argo>ARGO SAUDI ARABIA,ARGO SAUDI ARABIA,
+argoSIOEqASIRI,,>Co-sponsored>GOOS>Argo>ARGO SIO EQ (ASIRI),ARGO SIO EQ (ASIRI),
+argoSIOEqOKMC,,>Co-sponsored>GOOS>Argo>ARGO SIO EQ. (OKMC),ARGO SIO EQ. (OKMC),
+argoSIO,,>Co-sponsored>GOOS>Argo>ARGO SIO,ARGO SIO,
+argoSouthAfrica,,>Co-sponsored>GOOS>Argo>ARGO SOUTH AFRICA,ARGO SOUTH AFRICA,
+argoSpain,,>Co-sponsored>GOOS>Argo>ARGO SPAIN,ARGO SPAIN,
+argoSriLanka,,>Co-sponsored>GOOS>Argo>ARGO SRI LANKA,ARGO SRI LANKA,
+argoTWREng,,>Co-sponsored>GOOS>Argo>ARGO TWR ENGINEERING,ARGO TWR ENGINEERING,
+argoUKBIO,,>Co-sponsored>GOOS>Argo>ARGO UK BIO,ARGO UK BIO,
+argoUKEq,,>Co-sponsored>GOOS>Argo>ARGO UK EQ.,ARGO UK EQ.,
+argoUK,,>Co-sponsored>GOOS>Argo>ARGO UK,ARGO UK,
+argoUWAplEq,,>Co-sponsored>GOOS>Argo>ARGO UW-APL EQ.,ARGO UW-APL EQ.,
+argoUWEq,,>Co-sponsored>GOOS>Argo>ARGO UW EQ.,ARGO UW EQ.,
+argoUWMbariEq,,>Co-sponsored>GOOS>Argo>ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.,
+argoUW,,>Co-sponsored>GOOS>Argo>ARGO UW,ARGO UW,
+argoUWSoccomEq,,>Co-sponsored>GOOS>Argo>ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.,
+argoUWSpursEq,,>Co-sponsored>GOOS>Argo>ARGO UW-SPURS  EQ.,ARGO UW-SPURS  EQ.,
+argoUWUAEq,,>Co-sponsored>GOOS>Argo>ARGO UW-UA EQ.,ARGO UW-UA EQ.,
+argoWHOIEqIR,,>Co-sponsored>GOOS>Argo>ARGO WHOI EQ. IR,ARGO WHOI EQ. IR,
+argoWHOIMRVEq,,>Co-sponsored>GOOS>Argo>ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.,
+argoWHOI,,>Co-sponsored>GOOS>Argo>ARGO WHOI,ARGO WHOI,
+asapAWI,,>Co-sponsored>GOOS>SOT>ASAP>ASAP-AWI,ASAP-AWI,
 asap,,>Co-sponsored>GOOS>SOT>ASAP,ASAP,GOS Automated Shipboard Upper-Air Sounding Program
-asapZA,,>Co-sponsored>GOOS>SOT>ASAP-ZA,ASAP-ZA,NA
-dbcpAWIDB,,>Co-sponsored>GOOS>DBCP>AWI-DB,AWI-DB,NA
-dbcpBomDB,,>Co-sponsored>GOOS>DBCP>BOM DB,BOM DB,NA
-dbcpBomTSU,,>Co-sponsored>GOOS>DBCP>BOM-TSU,BOM-TSU,NA
-dbcpBPInc,,>Co-sponsored>GOOS>DBCP>BP INC,BP INC,NA
-dbcpBrazilPNBOIAINPE,,>Co-sponsored>GOOS>DBCP>BRAZIL PNBOIA-INPE,BRAZIL PNBOIA-INPE,NA
-dbcpBshDWDFixed,,>Co-sponsored>GOOS>DBCP>BSH-DWD-FIXED,BSH-DWD-FIXED,NA
-dbcpBshDWDMD,,>Co-sponsored>GOOS>DBCP>BSH-DWD-MB,BSH-DWD-MB,NA
-dbcpBshMB,,>Co-sponsored>GOOS>DBCP>BSH-MB,BSH-MB,NA
+asapZA,,>Co-sponsored>GOOS>SOT>ASAP-ZA,ASAP-ZA,
+dbcpAWIDB,,>Co-sponsored>GOOS>DBCP>AWI-DB,AWI-DB,
+dbcpBomDB,,>Co-sponsored>GOOS>DBCP>BOM DB,BOM DB,
+dbcpBomTSU,,>Co-sponsored>GOOS>DBCP>BOM-TSU,BOM-TSU,
+dbcpBPInc,,>Co-sponsored>GOOS>DBCP>BP INC,BP INC,
+dbcpBrazilPNBOIAINPE,,>Co-sponsored>GOOS>DBCP>BRAZIL PNBOIA-INPE,BRAZIL PNBOIA-INPE,
+dbcpBshDWDFixed,,>Co-sponsored>GOOS>DBCP>BSH-DWD-FIXED,BSH-DWD-FIXED,
+dbcpBshDWDMD,,>Co-sponsored>GOOS>DBCP>BSH-DWD-MB,BSH-DWD-MB,
+dbcpBshMB,,>Co-sponsored>GOOS>DBCP>BSH-MB,BSH-MB,
 bsrn,,>WIGOS>GOS>GOS Surface networks>BSRN,BSRN,Baseline Surface Radiation Network
-argoBulargo,,>Co-sponsored>GOOS>Argo>BULARGO,BULARGO,NA
-dbcpCandhis,,>Co-sponsored>GOOS>DBCP>CANDHIS,CANDHIS,NA
+argoBulargo,,>Co-sponsored>GOOS>Argo>BULARGO,BULARGO,
+dbcpCandhis,,>Co-sponsored>GOOS>DBCP>CANDHIS,CANDHIS,
 capmon,,>WIGOS>GAW>GAW Other elements>CAPMoN,CAPMoN,Canadian Air and Precipitation Monitoring Network
-dbcpCaricoos,,>Co-sponsored>GOOS>DBCP>CARICOOS,CARICOOS,NA
-dbcpCarioca,,>Co-sponsored>GOOS>DBCP>CARIOCA,CARIOCA,NA
+dbcpCaricoos,,>Co-sponsored>GOOS>DBCP>CARICOOS,CARICOOS,
+dbcpCarioca,,>Co-sponsored>GOOS>DBCP>CARIOCA,CARIOCA,
 castnet,,>WIGOS>GAW>GAW Contributing networks>CASTNET,CASTNET,Clean Air Status and Trends Network
-dbcpCDIP,,>Co-sponsored>GOOS>DBCP>CDIP,CDIP,NA
+dbcpCDIP,,>Co-sponsored>GOOS>DBCP>CDIP,CDIP,
 ceilometer,,>WIGOS>GOS>GOS Other elements>Ceilometers,Ceilometers,Elastic lidar (ceilometer) networks
 cislinet,,>WIGOS>GAW>GAW Contributing networks>GALION>CIS-LiNet,CIS-LiNet,Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network
 rbcnClimatC,,>WIGOS>GOS>GOS Surface networks>RBCN>CLIMAT(C),CLIMAT(C),Station for which monthly climatological means of surface elements are transmitted
 rbcnClimatCT,,>WIGOS>GOS>GOS Surface networks>RBCN>CLIMAT(CT),CLIMAT(CT),Station for which monthly climatological means of both surface and upper- air elements are transmitted
 rbcnClimatT,,>WIGOS>GOS>GOS Surface networks>RBCN>CLIMAT(T),CLIMAT(T),Station for which monthly climatological means of upper-air elements are transmitted
 cln,,>WIGOS>GAW>GAW Other elements>CLN,CLN,The NOAA Cooperative Remote Sensing Science and Technology (CREST) Lidar network
-dbcpColombiaTSU,,>Co-sponsored>GOOS>DBCP>COLOMBIA-TSU,COLOMBIA-TSU,NA
-argoCoriolisBioargo,,>Co-sponsored>GOOS>Argo>CORIOLIS-BIOARGO,CORIOLIS-BIOARGO,NA
-argoCoriolisCanoa,,>Co-sponsored>GOOS>Argo>CORIOLIS-CANOA,CORIOLIS-CANOA,NA
-argoCoriolisCongas,,>Co-sponsored>GOOS>Argo>CORIOLIS-CONGAS,CORIOLIS-CONGAS,NA
-argoCoriolisDrake,,>Co-sponsored>GOOS>Argo>CORIOLIS-DRAKE,CORIOLIS-DRAKE,NA
-argoCoriolisEGEE,,>Co-sponsored>GOOS>Argo>CORIOLIS-EGEE,CORIOLIS-EGEE,NA
-argoCoriolisEqypt,,>Co-sponsored>GOOS>Argo>CORIOLIS-EGYPT,CORIOLIS-EGYPT,NA
-argoCoriolisFlops,,>Co-sponsored>GOOS>Argo>CORIOLIS-FLOPS,CORIOLIS-FLOPS,NA
-argoCoriolisFlostral,,>Co-sponsored>GOOS>Argo>CORIOLIS-FLOSTRAL,CORIOLIS-FLOSTRAL,NA
-argoCoriolisFNOBJCOMMOPS,,>Co-sponsored>GOOS>Argo>CORIOLIS-FNOB-JCOMMOPS,CORIOLIS-FNOB-JCOMMOPS,NA
-argoCoriolisFrontalis,,>Co-sponsored>GOOS>Argo>CORIOLIS-FRONTALIS,CORIOLIS-FRONTALIS,NA
-argoCoriolisGoodHope,,>Co-sponsored>GOOS>Argo>CORIOLIS-GOOD HOPE,CORIOLIS-GOOD HOPE,NA
-argoCoriolis,,>Co-sponsored>GOOS>Argo>CORIOLIS,CORIOLIS,NA
-argoCoriolisOvide,,>Co-sponsored>GOOS>Argo>CORIOLIS-OVIDE,CORIOLIS-OVIDE,NA
-argoCoriolisPirata,,>Co-sponsored>GOOS>Argo>CORIOLIS-PIRATA,CORIOLIS-PIRATA,NA
-argoCoriolisPrevimer,,>Co-sponsored>GOOS>Argo>CORIOLIS-PREVIMER,CORIOLIS-PREVIMER,NA
-argoCoriolisProsat,,>Co-sponsored>GOOS>Argo>CORIOLIS-PROSAT,CORIOLIS-PROSAT,NA
-argoCoriolisRemoceanEq,,>Co-sponsored>GOOS>Argo>CORIOLIS-REMOCEAN EQ.,CORIOLIS-REMOCEAN EQ.,NA
-argoCoriolisRemocean,,>Co-sponsored>GOOS>Argo>CORIOLIS-REMOCEAN,CORIOLIS-REMOCEAN,NA
-argoCoriolisSpice,,>Co-sponsored>GOOS>Argo>CORIOLIS-SPICE,CORIOLIS-SPICE,NA
-argoCoriolisTrack,,>Co-sponsored>GOOS>Argo>CORIOLIS-TRACK,CORIOLIS-TRACK,NA
-dbcpCormpNC,,>Co-sponsored>GOOS>DBCP>CORMP-NC,CORMP-NC,NA
+dbcpColombiaTSU,,>Co-sponsored>GOOS>DBCP>COLOMBIA-TSU,COLOMBIA-TSU,
+argoCoriolisBioargo,,>Co-sponsored>GOOS>Argo>CORIOLIS-BIOARGO,CORIOLIS-BIOARGO,
+argoCoriolisCanoa,,>Co-sponsored>GOOS>Argo>CORIOLIS-CANOA,CORIOLIS-CANOA,
+argoCoriolisCongas,,>Co-sponsored>GOOS>Argo>CORIOLIS-CONGAS,CORIOLIS-CONGAS,
+argoCoriolisDrake,,>Co-sponsored>GOOS>Argo>CORIOLIS-DRAKE,CORIOLIS-DRAKE,
+argoCoriolisEGEE,,>Co-sponsored>GOOS>Argo>CORIOLIS-EGEE,CORIOLIS-EGEE,
+argoCoriolisEqypt,,>Co-sponsored>GOOS>Argo>CORIOLIS-EGYPT,CORIOLIS-EGYPT,
+argoCoriolisFlops,,>Co-sponsored>GOOS>Argo>CORIOLIS-FLOPS,CORIOLIS-FLOPS,
+argoCoriolisFlostral,,>Co-sponsored>GOOS>Argo>CORIOLIS-FLOSTRAL,CORIOLIS-FLOSTRAL,
+argoCoriolisFNOBJCOMMOPS,,>Co-sponsored>GOOS>Argo>CORIOLIS-FNOB-JCOMMOPS,CORIOLIS-FNOB-JCOMMOPS,
+argoCoriolisFrontalis,,>Co-sponsored>GOOS>Argo>CORIOLIS-FRONTALIS,CORIOLIS-FRONTALIS,
+argoCoriolisGoodHope,,>Co-sponsored>GOOS>Argo>CORIOLIS-GOOD HOPE,CORIOLIS-GOOD HOPE,
+argoCoriolis,,>Co-sponsored>GOOS>Argo>CORIOLIS,CORIOLIS,
+argoCoriolisOvide,,>Co-sponsored>GOOS>Argo>CORIOLIS-OVIDE,CORIOLIS-OVIDE,
+argoCoriolisPirata,,>Co-sponsored>GOOS>Argo>CORIOLIS-PIRATA,CORIOLIS-PIRATA,
+argoCoriolisPrevimer,,>Co-sponsored>GOOS>Argo>CORIOLIS-PREVIMER,CORIOLIS-PREVIMER,
+argoCoriolisProsat,,>Co-sponsored>GOOS>Argo>CORIOLIS-PROSAT,CORIOLIS-PROSAT,
+argoCoriolisRemoceanEq,,>Co-sponsored>GOOS>Argo>CORIOLIS-REMOCEAN EQ.,CORIOLIS-REMOCEAN EQ.,
+argoCoriolisRemocean,,>Co-sponsored>GOOS>Argo>CORIOLIS-REMOCEAN,CORIOLIS-REMOCEAN,
+argoCoriolisSpice,,>Co-sponsored>GOOS>Argo>CORIOLIS-SPICE,CORIOLIS-SPICE,
+argoCoriolisTrack,,>Co-sponsored>GOOS>Argo>CORIOLIS-TRACK,CORIOLIS-TRACK,
+dbcpCormpNC,,>Co-sponsored>GOOS>DBCP>CORMP-NC,CORMP-NC,
 coSponsored,,>Co-sponsored,Co-sponsored,WMO contributions to co-sponsored observing systems
-cryonet,,>WIGOS>GCW>CryoNet,CryoNet,NA
+cryonet,,>WIGOS>GCW>CryoNet,CryoNet,
 ctbto,,>WIGOS>GOS>GOS Contributing networks>CTBTO,CTBTO,Comprehensive Nuclear-Test Ban Treaty Organization International Monitoring System Network monitoring station
-dbcp,,>Co-sponsored>GOOS>DBCP>DBCP,DBCP,NA
-dbcpDbcp,,>Co-sponsored>GOOS>DBCP,DBCP,NA
-argoDekosim,,>Co-sponsored>GOOS>Argo>DEKOSIM,DEKOSIM,NA
-cbcpDFODB,,>Co-sponsored>GOOS>DBCP>DFO DB,DFO DB,NA
-argoEAims,,>Co-sponsored>GOOS>Argo>E-AIMS,E-AIMS,NA
+dbcp,,>Co-sponsored>GOOS>DBCP>DBCP,DBCP,
+dbcpDbcp,,>Co-sponsored>GOOS>DBCP,DBCP,
+argoDekosim,,>Co-sponsored>GOOS>Argo>DEKOSIM,DEKOSIM,
+cbcpDFODB,,>Co-sponsored>GOOS>DBCP>DFO DB,DFO DB,
+argoEAims,,>Co-sponsored>GOOS>Argo>E-AIMS,E-AIMS,
 eanet,,>WIGOS>GAW>GAW Other elements>EANET,EANET,EANET
 galionEarlinet,,>WIGOS>GAW>GAW Contributing networks>GALION>EARLINET,EARLINET,European Aerosol Research Lidar Network
 eAsap,,>Co-sponsored>GOOS>SOT>ASAP>E-ASAP,E-ASAP,European - Automated Shipboard Aerological Program
-dbcpECDB,,>Co-sponsored>GOOS>DBCP>EC DB,EC DB,NA
-dbcpEcIABP,,>Co-sponsored>GOOS>DBCP>EC-IABP,EC-IABP,NA
-dbcpECMB,,>Co-sponsored>GOOS>DBCP>EC MB,EC MB,NA
+dbcpECDB,,>Co-sponsored>GOOS>DBCP>EC DB,EC DB,
+dbcpEcIABP,,>Co-sponsored>GOOS>DBCP>EC-IABP,EC-IABP,
+dbcpECMB,,>Co-sponsored>GOOS>DBCP>EC MB,EC MB,
 emep,,>WIGOS>GAW>GAW Other elements>EMEP,EMEP,European Monitoring and Evaluation Programme
 esrlccg,,>WIGOS>GAW>GAW Other elements>ESRLCCG,ESRLCCG,NOAA-ESRL (CCG)
-eSurfmarIrishIMI,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-IRISH IMI,E-SURFMAR-IRISH IMI,NA
-eSurfmar,,>Co-sponsored>GOOS>DBCP>E-SURFMAR,E-SURFMAR,NA
-eSurfmarNOAA,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-NOAA,E-SURFMAR-NOAA,NA
-eSurfmarUKFRMB,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-UK/FR MB,E-SURFMAR-UK/FR MB,NA
-eSurfmarUKMB,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-UK MB,E-SURFMAR-UK MB,NA
-argoEurargo,,>Co-sponsored>GOOS>Argo>EUROARGO,EUROARGO,NA
-dbcpEurositesPlanier,,>Co-sponsored>GOOS>DBCP>EUROSITES PLANIER,EUROSITES PLANIER,NA
-dbcpFerhriTSU,,>Co-sponsored>GOOS>DBCP>FERHRI-TSU,FERHRI-TSU,NA
+eSurfmarIrishIMI,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-IRISH IMI,E-SURFMAR-IRISH IMI,
+eSurfmar,,>Co-sponsored>GOOS>DBCP>E-SURFMAR,E-SURFMAR,
+eSurfmarNOAA,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-NOAA,E-SURFMAR-NOAA,
+eSurfmarUKFRMB,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-UK/FR MB,E-SURFMAR-UK/FR MB,
+eSurfmarUKMB,,>Co-sponsored>GOOS>DBCP>E-SURFMAR-UK MB,E-SURFMAR-UK MB,
+argoEurargo,,>Co-sponsored>GOOS>Argo>EUROARGO,EUROARGO,
+dbcpEurositesPlanier,,>Co-sponsored>GOOS>DBCP>EUROSITES PLANIER,EUROSITES PLANIER,
+dbcpFerhriTSU,,>Co-sponsored>GOOS>DBCP>FERHRI-TSU,FERHRI-TSU,
 galion,,>WIGOS>GAW>GAW Contributing networks>GALION,GALION,GAW Aerosol Lidar Observation Network
 gawContributing,,>WIGOS>GAW>GAW Contributing networks,GAW Contributing networks,Networks contributing to GAW that have signed an agreement with GAW
 gaw,,>WIGOS>GAW,GAW,Global Atmosphere Watch
@@ -187,190 +187,190 @@ gawRegional,,>WIGOS>GAW>GAW Regional,GAW Regional,Regional GAW station
 gcos,,>Co-sponsored>GCOS,GCOS,Global Climate Observing System
 gcw,,>WIGOS>GCW,GCW,Global Cryosphere Watch
 germanAOD,,>WIGOS>GAW>GAW Other elements>AOD>German AOD network,German AOD network,German Aerosol Optical Depth Network
-dbcpGermanyMB,,>Co-sponsored>GOOS>DBCP>GERMANY MB,GERMANY MB,NA
-dbcpGloscal,,>Co-sponsored>GOOS>DBCP>GLOSCAL,GLOSCAL,NA
-gnssRadioOccultation,,>WIGOS>GOS>GOS Other elements>GNSS radio-occultation system,GNSS radio-occultation system,NA
+dbcpGermanyMB,,>Co-sponsored>GOOS>DBCP>GERMANY MB,GERMANY MB,
+dbcpGloscal,,>Co-sponsored>GOOS>DBCP>GLOSCAL,GLOSCAL,
+gnssRadioOccultation,,>WIGOS>GOS>GOS Other elements>GNSS radio-occultation system,GNSS radio-occultation system,
 goos,,>Co-sponsored>GOOS,GOOS,Global Ocean Observing System
 gosContributing,,>WIGOS>GOS>GOS Contributing networks,GOS Contributing networks,Networks contributing to the Global Observing System (GOS)
 gos,,>WIGOS>GOS,GOS,Global Observing System
 goShip,,>Co-sponsored>GOOS>SOT>GO-SHIP,GO-SHIP,Global Ocean Ship-Based Hydrographic Investigations Programme
 gosOther,,>WIGOS>GOS>GOS Other elements,GOS Other elements,Other elements of the Global Observing System (GOS)
 gosSurface,,>WIGOS>GOS>GOS Surface networks,GOS Surface networks,Surface-based observing networks of the Global Observing System (GOS)
-dbcpGreeceMB,,>Co-sponsored>GOOS>DBCP>GREECE MB,GREECE MB,NA
+dbcpGreeceMB,,>Co-sponsored>GOOS>DBCP>GREECE MB,GREECE MB,
 gruan,,>Co-sponsored>GCOS>GRUAN,GRUAN,GCOS Reference Upper-Air Network
 gsn,,>Co-sponsored>GCOS>GSN,GSN,GCOS Surface Network
 gtos,,>Co-sponsored>GTOS,GTOS,Global Terrestrial Observing System
 guan,,>Co-sponsored>GCOS>GUAN,GUAN,GCOS Upper-Air Network
-argoGyroscope,,>Co-sponsored>GOOS>Argo>GYROSCOPE,GYROSCOPE,NA
-dbcpHK,,>Co-sponsored>GOOS>DBCP>HK-OBS-DB,HK-OBS-DB,NA
-dbcpIABPCanada,,>Co-sponsored>GOOS>DBCP>IABP CANADA,IABP CANADA,NA
-dbcpIABPEC,,>Co-sponsored>GOOS>DBCP>IABP-EC,IABP-EC,NA
-dbcpIABP,,>Co-sponsored>GOOS>DBCP>IABP,IABP,NA
-dbcpIABPNIC,,>Co-sponsored>GOOS>DBCP>IABP NIC,IABP NIC,NA
-dbcpIABPUS,,>Co-sponsored>GOOS>DBCP>IABP US,IABP US,NA
-dbcpIABPUW,,>Co-sponsored>GOOS>DBCP>IABP-UW,IABP-UW,NA
+argoGyroscope,,>Co-sponsored>GOOS>Argo>GYROSCOPE,GYROSCOPE,
+dbcpHK,,>Co-sponsored>GOOS>DBCP>HK-OBS-DB,HK-OBS-DB,
+dbcpIABPCanada,,>Co-sponsored>GOOS>DBCP>IABP CANADA,IABP CANADA,
+dbcpIABPEC,,>Co-sponsored>GOOS>DBCP>IABP-EC,IABP-EC,
+dbcpIABP,,>Co-sponsored>GOOS>DBCP>IABP,IABP,
+dbcpIABPNIC,,>Co-sponsored>GOOS>DBCP>IABP NIC,IABP NIC,
+dbcpIABPUS,,>Co-sponsored>GOOS>DBCP>IABP US,IABP US,
+dbcpIABPUW,,>Co-sponsored>GOOS>DBCP>IABP-UW,IABP-UW,
 iagos,,>WIGOS>GAW>GAW Other elements>IAGOS,IAGOS,In-service Aircraft for a Global Observing System
-dbcpIBPIO,,>Co-sponsored>GOOS>DBCP>IBPIO,IBPIO,NA
+dbcpIBPIO,,>Co-sponsored>GOOS>DBCP>IBPIO,IBPIO,
 idaf,,>WIGOS>GAW>GAW Contributing networks>IDAF,IDAF,IGAC/DEBITS Africa
 improve,,>WIGOS>GAW>GAW Contributing networks>IMPROVE,IMPROVE,IMPROVE Optical Aerosol
-dbcpINCOISTSU,,>Co-sponsored>GOOS>DBCP>INCOIS-TSU,INCOIS-TSU,NA
-dbcpIndiaNIO,,>Co-sponsored>GOOS>DBCP>INDIA NIO,INDIA NIO,NA
-dbcpIndiaNIOT,,>Co-sponsored>GOOS>DBCP>INDIA-NIOT,INDIA-NIOT,NA
-dbcpIndiaNIOTSU,,>Co-sponsored>GOOS>DBCP>INDIA NIO-TSU,INDIA NIO-TSU,NA
-dbcpINOCARTSU,,>Co-sponsored>GOOS>DBCP>INOCAR-TSU,INOCAR-TSU,NA
-dbcpItalyDB,,>Co-sponsored>GOOS>DBCP>ITALY DB,ITALY DB,NA
-dbcpItalyOGS,,>Co-sponsored>GOOS>DBCP>ITALY-OGS,ITALY-OGS,NA
-argoDamocles,,>Co-sponsored>GOOS>Argo>ITP-DAMOCLES,ITP-DAMOCLES,NA
-argoItpWHOI,,>Co-sponsored>GOOS>Argo>ITP-WHOI,ITP-WHOI,NA
-dbcpJMADB,,>Co-sponsored>GOOS>DBCP>JMA DB,JMA DB,NA
-dbcpJMATSU,,>Co-sponsored>GOOS>DBCP>JMA-TSU,JMA-TSU,NA
-dbcpKMAMB,,>Co-sponsored>GOOS>DBCP>KMA MB,KMA MB,NA
+dbcpINCOISTSU,,>Co-sponsored>GOOS>DBCP>INCOIS-TSU,INCOIS-TSU,
+dbcpIndiaNIO,,>Co-sponsored>GOOS>DBCP>INDIA NIO,INDIA NIO,
+dbcpIndiaNIOT,,>Co-sponsored>GOOS>DBCP>INDIA-NIOT,INDIA-NIOT,
+dbcpIndiaNIOTSU,,>Co-sponsored>GOOS>DBCP>INDIA NIO-TSU,INDIA NIO-TSU,
+dbcpINOCARTSU,,>Co-sponsored>GOOS>DBCP>INOCAR-TSU,INOCAR-TSU,
+dbcpItalyDB,,>Co-sponsored>GOOS>DBCP>ITALY DB,ITALY DB,
+dbcpItalyOGS,,>Co-sponsored>GOOS>DBCP>ITALY-OGS,ITALY-OGS,
+argoDamocles,,>Co-sponsored>GOOS>Argo>ITP-DAMOCLES,ITP-DAMOCLES,
+argoItpWHOI,,>Co-sponsored>GOOS>Argo>ITP-WHOI,ITP-WHOI,
+dbcpJMADB,,>Co-sponsored>GOOS>DBCP>JMA DB,JMA DB,
+dbcpJMATSU,,>Co-sponsored>GOOS>DBCP>JMA-TSU,JMA-TSU,
+dbcpKMAMB,,>Co-sponsored>GOOS>DBCP>KMA MB,KMA MB,
 lightningDetection,,>WIGOS>GOS>GOS Other elements>Lightning detection system,Lightning detection system,Surface-based lightning detection system
-dbcpLocean,,>Co-sponsored>GOOS>DBCP>LOCEAN,LOCEAN,NA
-dbcpMarlin,,>Co-sponsored>GOOS>DBCP>MARLIN-DB,MARLIN-DB,NA
-argoMedargo,,>Co-sponsored>GOOS>Argo>MEDARGO,MEDARGO,NA
-argoMeridianGoodHope,,>Co-sponsored>GOOS>Argo>MERIDIAN GOODHOPE,MERIDIAN GOODHOPE,NA
-argoMersea,,>Co-sponsored>GOOS>Argo>MERSEA,MERSEA,NA
-dbcpMeteoFranceDB,,>Co-sponsored>GOOS>DBCP>METEO FRANCE DB,METEO FRANCE DB,NA
-dbcpMeteoFranceMB,,>Co-sponsored>GOOS>DBCP>METEO FRANCE MB,METEO FRANCE MB,NA
-dbcpMeteoFranceWB,,>Co-sponsored>GOOS>DBCP>METEO FRANCE WB,METEO FRANCE WB,NA
+dbcpLocean,,>Co-sponsored>GOOS>DBCP>LOCEAN,LOCEAN,
+dbcpMarlin,,>Co-sponsored>GOOS>DBCP>MARLIN-DB,MARLIN-DB,
+argoMedargo,,>Co-sponsored>GOOS>Argo>MEDARGO,MEDARGO,
+argoMeridianGoodHope,,>Co-sponsored>GOOS>Argo>MERIDIAN GOODHOPE,MERIDIAN GOODHOPE,
+argoMersea,,>Co-sponsored>GOOS>Argo>MERSEA,MERSEA,
+dbcpMeteoFranceDB,,>Co-sponsored>GOOS>DBCP>METEO FRANCE DB,METEO FRANCE DB,
+dbcpMeteoFranceMB,,>Co-sponsored>GOOS>DBCP>METEO FRANCE MB,METEO FRANCE MB,
+dbcpMeteoFranceWB,,>Co-sponsored>GOOS>DBCP>METEO FRANCE WB,METEO FRANCE WB,
 galionMplnet,,>WIGOS>GAW>GAW Contributing networks>GALION>MPLNET,MPLNET,Micro-Pulse Lidar Network
 nadp,,>WIGOS>GAW>GAW Contributing networks>NADP,NADP,National Atmospheric Deposition Program
-argoNaosFrance,,>Co-sponsored>GOOS>Argo>NAOS-FRANCE,NAOS-FRANCE,NA
-dbcpNCCOOS,,>Co-sponsored>GOOS>DBCP>NCCOOS,NCCOOS,NA
+argoNaosFrance,,>Co-sponsored>GOOS>Argo>NAOS-FRANCE,NAOS-FRANCE,
+dbcpNCCOOS,,>Co-sponsored>GOOS>DBCP>NCCOOS,NCCOOS,
 galionNdacc,,>WIGOS>GAW>GAW Contributing networks>GALION>NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
 ndacc,,>WIGOS>GAW>GAW Other elements>NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
-dbcpNDBCBP,,>Co-sponsored>GOOS>DBCP>NDBC-BP,NDBC-BP,NA
-dbcpNDBCCOE,,>Co-sponsored>GOOS>DBCP>NDBC-COE,NDBC-COE,NA
-dbcpNDBCCSI,,>Co-sponsored>GOOS>DBCP>NDBC-CSI,NDBC-CSI,NA
-dbcpNDBCMBARI,,>Co-sponsored>GOOS>DBCP>NDBC-MBARI,NDBC-MBARI,NA
-dbcpNDBCMB,,>Co-sponsored>GOOS>DBCP>NDBC-MB,NDBC-MB,NA
-dbcpNDBCNASA,,>Co-sponsored>GOOS>DBCP>NDBC-NASA,NDBC-NASA,NA
-dbcpcNOAANWS,,>Co-sponsored>GOOS>DBCP>NDBC-NOAA-NWS,NDBC-NOAA-NWS,NA
-dbcpNDBCTABS,,>Co-sponsored>GOOS>DBCP>NDBC-TABS,NDBC-TABS,NA
-dbcpNDBCTSU,,>Co-sponsored>GOOS>DBCP>NDBC-TSU,NDBC-TSU,NA
-dbcpNDBCUSCG,,>Co-sponsored>GOOS>DBCP>NDBC-USCG,NDBC-USCG,NA
-dbcpNDWCTSU,,>Co-sponsored>GOOS>DBCP>NDWC-TSU,NDWC-TSU,NA
-dbcpNewZealandDB,,>Co-sponsored>GOOS>DBCP>NEW ZEALAND DB,NEW ZEALAND DB,NA
-dbcpNicIABP,,>Co-sponsored>GOOS>DBCP>NIC-IABP,NIC-IABP,NA
-dbcpNOAACBIBS,,>Co-sponsored>GOOS>DBCP>NOAA-CBIBS,NOAA-CBIBS,NA
+dbcpNDBCBP,,>Co-sponsored>GOOS>DBCP>NDBC-BP,NDBC-BP,
+dbcpNDBCCOE,,>Co-sponsored>GOOS>DBCP>NDBC-COE,NDBC-COE,
+dbcpNDBCCSI,,>Co-sponsored>GOOS>DBCP>NDBC-CSI,NDBC-CSI,
+dbcpNDBCMBARI,,>Co-sponsored>GOOS>DBCP>NDBC-MBARI,NDBC-MBARI,
+dbcpNDBCMB,,>Co-sponsored>GOOS>DBCP>NDBC-MB,NDBC-MB,
+dbcpNDBCNASA,,>Co-sponsored>GOOS>DBCP>NDBC-NASA,NDBC-NASA,
+dbcpcNOAANWS,,>Co-sponsored>GOOS>DBCP>NDBC-NOAA-NWS,NDBC-NOAA-NWS,
+dbcpNDBCTABS,,>Co-sponsored>GOOS>DBCP>NDBC-TABS,NDBC-TABS,
+dbcpNDBCTSU,,>Co-sponsored>GOOS>DBCP>NDBC-TSU,NDBC-TSU,
+dbcpNDBCUSCG,,>Co-sponsored>GOOS>DBCP>NDBC-USCG,NDBC-USCG,
+dbcpNDWCTSU,,>Co-sponsored>GOOS>DBCP>NDWC-TSU,NDWC-TSU,
+dbcpNewZealandDB,,>Co-sponsored>GOOS>DBCP>NEW ZEALAND DB,NEW ZEALAND DB,
+dbcpNicIABP,,>Co-sponsored>GOOS>DBCP>NIC-IABP,NIC-IABP,
+dbcpNOAACBIBS,,>Co-sponsored>GOOS>DBCP>NOAA-CBIBS,NOAA-CBIBS,
 gawNonAffiliated,,>WIGOS>GAW>GAW Other elements>Non-affiliated,Non-affiliated,Observing elements that are not affiliated with GAW or any of the co-sponsored programs
 nonAffiliated,,>Non-affiliated,Non-affiliated,Observing elements that are not affiliated with WIGOS or any of the co-sponsored programmes
-dbcpNorwayIMR,,>Co-sponsored>GOOS>DBCP>NORWAY-IMR,NORWAY-IMR,NA
-dbcpNWSNDBCMB,,>Co-sponsored>GOOS>DBCP>NWS-NDBC-MB,NWS-NDBC-MB,NA
-dbcpNDBCWB,,>Co-sponsored>GOOS>DBCP>NWS-NDBC-WB,NWS-NDBC-WB,NA
-smoOS,,>WIGOS>GOS>OceanSITES,OceanSITES,NA
-smoOSawi,,>WIGOS>GOS>OceanSITES>OS-AWI,OS-AWI,NA
-smoOSbas,,>WIGOS>GOS>OceanSITES>OS-BAS,OS-BAS,NA
-smoOSbccr,,>WIGOS>GOS>OceanSITES>OS-BCCR,OS-BCCR,NA
-smoOSbios,,>WIGOS>GOS>OceanSITES>OS-BIOS,OS-BIOS,NA
-smoOScentre,,>WIGOS>GOS>OceanSITES>OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,NA
-smoOScnr,,>WIGOS>GOS>OceanSITES>OS-CNR,OS-CNR,NA
-smoOScnrs,,>WIGOS>GOS>OceanSITES>OS-CNRS,OS-CNRS,NA
-smoOScsiro,,>WIGOS>GOS>OceanSITES>OS-CSIRO,OS-CSIRO,NA
-smoOSdfo,,>WIGOS>GOS>OceanSITES>OS-DFO,OS-DFO,NA
-smoOSdml,,>WIGOS>GOS>OceanSITES>OS-DML,OS-DML,NA
-smoOSeu,,>WIGOS>GOS>OceanSITES>OS-EU-THOR,OS-EU-THOR,NA
-smoOSgeomar,,>WIGOS>GOS>OceanSITES>OS-GEOMAR,OS-GEOMAR,NA
-smoOShamburgUni,,>WIGOS>GOS>OceanSITES>OS-HAMBURG UNIVERSITY,OS-HAMBURG UNIVERSITY,NA
-smoOShav,,>WIGOS>GOS>OceanSITES>OS-HAV,OS-HAV,NA
-smoOShellenic,,>WIGOS>GOS>OceanSITES>OS-HELLENIC CENTRE FOR MARINE RESEARCH,OS-HELLENIC CENTRE FOR MARINE RESEARCH,NA
-osICCM,,>WIGOS>GOS>OceanSITES>OS-ICCM - ACIISI - GOBIERNO DE CANARIAS,OS-ICCM - ACIISI - GOBIERNO DE CANARIAS,NA
-osIFREMER,,>WIGOS>GOS>OceanSITES>OS-IFREMER,OS-IFREMER,NA
-osIMARPE,,>WIGOS>GOS>OceanSITES>OS-IMARPE,OS-IMARPE,NA
-osIMR,,>WIGOS>GOS>OceanSITES>OS-INSTITUTE OF MARINE RESEARCH,OS-INSTITUTE OF MARINE RESEARCH,NA
-osIOntu,,>WIGOS>GOS>OceanSITES>OS-IO-NTU,OS-IO-NTU,NA
-osIOwarnemuende,,>WIGOS>GOS>OceanSITES>OS-IO-WARNEMUENDE,OS-IO-WARNEMUENDE,NA
-osIRD,,>WIGOS>GOS>OceanSITES>OS-IRD,OS-IRD,NA
-osJamstec,,>WIGOS>GOS>OceanSITES>OS-JAMSTEC,OS-JAMSTEC,NA
-osKiost,,>WIGOS>GOS>OceanSITES>OS-KIOST,OS-KIOST,NA
-osLDEO,,>WIGOS>GOS>OceanSITES>OS-LDEO,OS-LDEO,NA
-osMarum,,>WIGOS>GOS>OceanSITES>OS-MARUM,OS-MARUM,NA
-osMbari,,>WIGOS>GOS>OceanSITES>OS-MBARI,OS-MBARI,NA
-osNIO,,>WIGOS>GOS>OceanSITES>OS-NIO,OS-NIO,NA
-osNIOT,,>WIGOS>GOS>OceanSITES>OS-NIOT,OS-NIOT,NA
-osNIWA,,>WIGOS>GOS>OceanSITES>OS-NIWA,OS-NIWA,NA
-osNOAA,,>WIGOS>GOS>OceanSITES>OS-NOAA/AOML,OS-NOAA/AOML,NA
-osNOAApmel,,>WIGOS>GOS>OceanSITES>OS-NOAA/PMEL,OS-NOAA/PMEL,NA
-osNOC,,>WIGOS>GOS>OceanSITES>OS-NOC,OS-NOC,NA
-osOGS,,>WIGOS>GOS>OceanSITES>OS-OGS,OS-OGS,NA
-osNIOZ,,>WIGOS>GOS>OceanSITES>OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),NA
-osSIO,,>WIGOS>GOS>OceanSITES>OS-SIO,OS-SIO,NA
-osSNU,,>WIGOS>GOS>OceanSITES>OS-SNU,OS-SNU,NA
-osSOA,,>WIGOS>GOS>OceanSITES>OS-SOA,OS-SOA,NA
-osUNhawaii,,>WIGOS>GOS>OceanSITES>OS-UN_HAWAII_MANOA,OS-UN_HAWAII_MANOA,NA
-osUNmiami,,>WIGOS>GOS>OceanSITES>OS-UN_MIAMI,OS-UN_MIAMI,NA
-osUSP,,>WIGOS>GOS>OceanSITES>OS-USP,OS-USP,NA
-osUW,,>WIGOS>GOS>OceanSITES>OS-UW,OS-UW,NA
-osWHOI,,>WIGOS>GOS>OceanSITES>OS-WHOI,OS-WHOI,NA
-osWHOIsio,,>WIGOS>GOS>OceanSITES>OS-WHOI/SIO/OSU,OS-WHOI/SIO/OSU,NA
-dbcpPacioos,,>Co-sponsored>GOOS>DBCP>PACIOOS,PACIOOS,NA
-dbcpPetrobras,,>Co-sponsored>GOOS>DBCP>PETROBRAS,PETROBRAS,NA
+dbcpNorwayIMR,,>Co-sponsored>GOOS>DBCP>NORWAY-IMR,NORWAY-IMR,
+dbcpNWSNDBCMB,,>Co-sponsored>GOOS>DBCP>NWS-NDBC-MB,NWS-NDBC-MB,
+dbcpNDBCWB,,>Co-sponsored>GOOS>DBCP>NWS-NDBC-WB,NWS-NDBC-WB,
+smoOS,,>WIGOS>GOS>OceanSITES,OceanSITES,
+smoOSawi,,>WIGOS>GOS>OceanSITES>OS-AWI,OS-AWI,
+smoOSbas,,>WIGOS>GOS>OceanSITES>OS-BAS,OS-BAS,
+smoOSbccr,,>WIGOS>GOS>OceanSITES>OS-BCCR,OS-BCCR,
+smoOSbios,,>WIGOS>GOS>OceanSITES>OS-BIOS,OS-BIOS,
+smoOScentre,,>WIGOS>GOS>OceanSITES>OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,
+smoOScnr,,>WIGOS>GOS>OceanSITES>OS-CNR,OS-CNR,
+smoOScnrs,,>WIGOS>GOS>OceanSITES>OS-CNRS,OS-CNRS,
+smoOScsiro,,>WIGOS>GOS>OceanSITES>OS-CSIRO,OS-CSIRO,
+smoOSdfo,,>WIGOS>GOS>OceanSITES>OS-DFO,OS-DFO,
+smoOSdml,,>WIGOS>GOS>OceanSITES>OS-DML,OS-DML,
+smoOSeu,,>WIGOS>GOS>OceanSITES>OS-EU-THOR,OS-EU-THOR,
+smoOSgeomar,,>WIGOS>GOS>OceanSITES>OS-GEOMAR,OS-GEOMAR,
+smoOShamburgUni,,>WIGOS>GOS>OceanSITES>OS-HAMBURG UNIVERSITY,OS-HAMBURG UNIVERSITY,
+smoOShav,,>WIGOS>GOS>OceanSITES>OS-HAV,OS-HAV,
+smoOShellenic,,>WIGOS>GOS>OceanSITES>OS-HELLENIC CENTRE FOR MARINE RESEARCH,OS-HELLENIC CENTRE FOR MARINE RESEARCH,
+osICCM,,>WIGOS>GOS>OceanSITES>OS-ICCM - ACIISI - GOBIERNO DE CANARIAS,OS-ICCM - ACIISI - GOBIERNO DE CANARIAS,
+osIFREMER,,>WIGOS>GOS>OceanSITES>OS-IFREMER,OS-IFREMER,
+osIMARPE,,>WIGOS>GOS>OceanSITES>OS-IMARPE,OS-IMARPE,
+osIMR,,>WIGOS>GOS>OceanSITES>OS-INSTITUTE OF MARINE RESEARCH,OS-INSTITUTE OF MARINE RESEARCH,
+osIOntu,,>WIGOS>GOS>OceanSITES>OS-IO-NTU,OS-IO-NTU,
+osIOwarnemuende,,>WIGOS>GOS>OceanSITES>OS-IO-WARNEMUENDE,OS-IO-WARNEMUENDE,
+osIRD,,>WIGOS>GOS>OceanSITES>OS-IRD,OS-IRD,
+osJamstec,,>WIGOS>GOS>OceanSITES>OS-JAMSTEC,OS-JAMSTEC,
+osKiost,,>WIGOS>GOS>OceanSITES>OS-KIOST,OS-KIOST,
+osLDEO,,>WIGOS>GOS>OceanSITES>OS-LDEO,OS-LDEO,
+osMarum,,>WIGOS>GOS>OceanSITES>OS-MARUM,OS-MARUM,
+osMbari,,>WIGOS>GOS>OceanSITES>OS-MBARI,OS-MBARI,
+osNIO,,>WIGOS>GOS>OceanSITES>OS-NIO,OS-NIO,
+osNIOT,,>WIGOS>GOS>OceanSITES>OS-NIOT,OS-NIOT,
+osNIWA,,>WIGOS>GOS>OceanSITES>OS-NIWA,OS-NIWA,
+osNOAA,,>WIGOS>GOS>OceanSITES>OS-NOAA/AOML,OS-NOAA/AOML,
+osNOAApmel,,>WIGOS>GOS>OceanSITES>OS-NOAA/PMEL,OS-NOAA/PMEL,
+osNOC,,>WIGOS>GOS>OceanSITES>OS-NOC,OS-NOC,
+osOGS,,>WIGOS>GOS>OceanSITES>OS-OGS,OS-OGS,
+osNIOZ,,>WIGOS>GOS>OceanSITES>OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),
+osSIO,,>WIGOS>GOS>OceanSITES>OS-SIO,OS-SIO,
+osSNU,,>WIGOS>GOS>OceanSITES>OS-SNU,OS-SNU,
+osSOA,,>WIGOS>GOS>OceanSITES>OS-SOA,OS-SOA,
+osUNhawaii,,>WIGOS>GOS>OceanSITES>OS-UN_HAWAII_MANOA,OS-UN_HAWAII_MANOA,
+osUNmiami,,>WIGOS>GOS>OceanSITES>OS-UN_MIAMI,OS-UN_MIAMI,
+osUSP,,>WIGOS>GOS>OceanSITES>OS-USP,OS-USP,
+osUW,,>WIGOS>GOS>OceanSITES>OS-UW,OS-UW,
+osWHOI,,>WIGOS>GOS>OceanSITES>OS-WHOI,OS-WHOI,
+osWHOIsio,,>WIGOS>GOS>OceanSITES>OS-WHOI/SIO/OSU,OS-WHOI/SIO/OSU,
+dbcpPacioos,,>Co-sponsored>GOOS>DBCP>PACIOOS,PACIOOS,
+dbcpPetrobras,,>Co-sponsored>GOOS>DBCP>PETROBRAS,PETROBRAS,
 photons,,>WIGOS>GAW>GAW Other elements>AOD>PHOTONS,PHOTONS,"PHOTONS, federated to AERONET"
-dbcpPmel,,>Co-sponsored>GOOS>DBCP>PMEL MB,PMEL MB,NA
+dbcpPmel,,>Co-sponsored>GOOS>DBCP>PMEL MB,PMEL MB,
 polarAOD,,>WIGOS>GAW>GAW Other elements>AOD>PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
 rbcn,,>WIGOS>GOS>GOS Surface networks>RBCN,RBCN,Regional Basic Climatological Networks
 rbsn,,>WIGOS>GOS>GOS Surface networks>RBSN,RBSN,GOS Regional Basic Synoptic Networks
 rbsnP,,>WIGOS>GOS>GOS Surface networks>RBSN>RBSN(P),RBSN(P),Regional Basic Synoptic Network upper-air station (PILOT)
-rbsnSP,,>WIGOS>GOS>GOS Surface networks>RBSN>RBSN(SP),RBSN(SP),NA
+rbsnSP,,>WIGOS>GOS>GOS Surface networks>RBSN>RBSN(SP),RBSN(SP),
 rbsnS,,>WIGOS>GOS>GOS Surface networks>RBSN>RBSN(S),RBSN(S),Regional Basic Synoptic Network surface station (SYNOP)
 rbsnST,,>WIGOS>GOS>GOS Surface networks>RBSN>RBSN(ST),RBSN(ST),Regional Basic Synoptic Network surface and upper-air station (SYNOP/TEMP)
 rbsnT,,>WIGOS>GOS>GOS Surface networks>RBSN>RBSN(T),RBSN(T),Regional Basic Synoptic Network upper-air station (TEMP)
-dbcpScrips,,>Co-sponsored>GOOS>DBCP>SCRIPS,SCRIPS,NA
+dbcpScrips,,>Co-sponsored>GOOS>DBCP>SCRIPS,SCRIPS,
 shadoz,,>WIGOS>GAW>GAW Other elements>SHADOZ,SHADOZ,Southern Hemisphere ADditional Ozonesondes
-dbcpShell,,>Co-sponsored>GOOS>DBCP>SHELL,SHELL,NA
-dbcpShoaTSU,,>Co-sponsored>GOOS>DBCP>SHOA-TSU,SHOA-TSU,NA
+dbcpShell,,>Co-sponsored>GOOS>DBCP>SHELL,SHELL,
+dbcpShoaTSU,,>Co-sponsored>GOOS>DBCP>SHOA-TSU,SHOA-TSU,
 sibrad,,>WIGOS>GAW>GAW Other elements>AOD>SibRad,SibRad,SibRad
-dbcpSIODB,,>Co-sponsored>GOOS>DBCP>SIO-DB,SIO-DB,NA
+dbcpSIODB,,>Co-sponsored>GOOS>DBCP>SIO-DB,SIO-DB,
 skynet,,>WIGOS>GAW>GAW Other elements>AOD>SKYNET,SKYNET,Aerosol -cloud-radiation interaction in the atmosphere project
-soopBOM,,>Co-sponsored>GOOS>SOT>SOOP-BOM,SOOP-BOM,NA
+soopBOM,,>Co-sponsored>GOOS>SOT>SOOP-BOM,SOOP-BOM,
 soot,,>Co-sponsored>GOOS>SOT>SOOP,SOOP,Ship Of Opportunity Programme
-sot,,>Co-sponsored>GOOS>SOT,SOT,NA
-dbcpSpainPDEMB,,>Co-sponsored>GOOS>DBCP>SPAIN-PDE MB,SPAIN-PDE MB,NA
-dbcpStratus,,>Co-sponsored>GOOS>DBCP>STRATUS,STRATUS,NA
+sot,,>Co-sponsored>GOOS>SOT,SOT,
+dbcpSpainPDEMB,,>Co-sponsored>GOOS>DBCP>SPAIN-PDE MB,SPAIN-PDE MB,
+dbcpStratus,,>Co-sponsored>GOOS>DBCP>STRATUS,STRATUS,
 tamdar,,>WIGOS>GOS>GOS Other elements>TAMDAR,TAMDAR,"Tropospheric Aircraft Meteorological Data Relay (Commercial/Panasonic). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
-dbcpTaoAtlas,,>Co-sponsored>GOOS>DBCP>TAO ATLAS,TAO ATLAS,NA
+dbcpTaoAtlas,,>Co-sponsored>GOOS>DBCP>TAO ATLAS,TAO ATLAS,
 dbcpTaoPirata,,>Co-sponsored>GOOS>DBCP>TAO PIRATA,TAO PIRATA,Prediction and Research Moored Array in the Atlantic
 dbcpTaoPirataUS,,>Co-sponsored>GOOS>DBCP>TAO PIRATA US,TAO PIRATA US,
 dbcpTaoRamaUSIndia,,>Co-sponsored>GOOS>DBCP>TAO RAMA US-INDIA,TAO RAMA US-INDIA,Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction
-dbcpTaoTriton,,>Co-sponsored>GOOS>DBCP>TAO TRITON,TAO TRITON,NA
+dbcpTaoTriton,,>Co-sponsored>GOOS>DBCP>TAO TRITON,TAO TRITON,
 tccon,,>WIGOS>GAW>GAW Contributing networks>TCCON,TCCON,Total Carbon Column Observing Network
-dbcpUCSDScripps,,>Co-sponsored>GOOS>DBCP>UCSD-SCRIPPS,UCSD-SCRIPPS,NA
-dbcpUKJerseyMB,,>Co-sponsored>GOOS>DBCP>UK-JERSEY MB,UK-JERSEY MB,NA
-dbcpUKMODB,,>Co-sponsored>GOOS>DBCP>UK-MO DB,UK-MO DB,NA
-dbcpUKMOFixed,,>Co-sponsored>GOOS>DBCP>UK-MO FIXED,UK-MO FIXED,NA
-dbcpUKMOlv,,>Co-sponsored>GOOS>DBCP>UK-MO LV,UK-MO LV,NA
-dbcpUKMOMB,,>Co-sponsored>GOOS>DBCP>UK-MO MB,UK-MO MB,NA
-dbcpUSCGDB,,>Co-sponsored>GOOS>DBCP>US-CG DB,US-CG DB,NA
-vos3P,,>Co-sponsored>GOOS>SOT>VOS>VOS-3P,VOS-3P,NA
-vosAU,,>Co-sponsored>GOOS>SOT>VOS>VOS-AU,VOS-AU,NA
-vosCA,,>Co-sponsored>GOOS>SOT>VOS>VOS-CA,VOS-CA,NA
-vosCL,,>Co-sponsored>GOOS>SOT>VOS>VOS-CL,VOS-CL,NA
-vosDE,,>Co-sponsored>GOOS>SOT>VOS>VOS-DE,VOS-DE,NA
-vosES,,>Co-sponsored>GOOS>SOT>VOS>VOS-ES,VOS-ES,NA
-vosEU,,>Co-sponsored>GOOS>SOT>VOS>VOS-EU,VOS-EU,NA
-vosFR,,>Co-sponsored>GOOS>SOT>VOS>VOS-FR,VOS-FR,NA
-vosGB,,>Co-sponsored>GOOS>SOT>VOS>VOS-GB,VOS-GB,NA
+dbcpUCSDScripps,,>Co-sponsored>GOOS>DBCP>UCSD-SCRIPPS,UCSD-SCRIPPS,
+dbcpUKJerseyMB,,>Co-sponsored>GOOS>DBCP>UK-JERSEY MB,UK-JERSEY MB,
+dbcpUKMODB,,>Co-sponsored>GOOS>DBCP>UK-MO DB,UK-MO DB,
+dbcpUKMOFixed,,>Co-sponsored>GOOS>DBCP>UK-MO FIXED,UK-MO FIXED,
+dbcpUKMOlv,,>Co-sponsored>GOOS>DBCP>UK-MO LV,UK-MO LV,
+dbcpUKMOMB,,>Co-sponsored>GOOS>DBCP>UK-MO MB,UK-MO MB,
+dbcpUSCGDB,,>Co-sponsored>GOOS>DBCP>US-CG DB,US-CG DB,
+vos3P,,>Co-sponsored>GOOS>SOT>VOS>VOS-3P,VOS-3P,
+vosAU,,>Co-sponsored>GOOS>SOT>VOS>VOS-AU,VOS-AU,
+vosCA,,>Co-sponsored>GOOS>SOT>VOS>VOS-CA,VOS-CA,
+vosCL,,>Co-sponsored>GOOS>SOT>VOS>VOS-CL,VOS-CL,
+vosDE,,>Co-sponsored>GOOS>SOT>VOS>VOS-DE,VOS-DE,
+vosES,,>Co-sponsored>GOOS>SOT>VOS>VOS-ES,VOS-ES,
+vosEU,,>Co-sponsored>GOOS>SOT>VOS>VOS-EU,VOS-EU,
+vosFR,,>Co-sponsored>GOOS>SOT>VOS>VOS-FR,VOS-FR,
+vosGB,,>Co-sponsored>GOOS>SOT>VOS>VOS-GB,VOS-GB,
 vos,,>Co-sponsored>GOOS>SOT>VOS,VOS,GOS Voluntary Observing Ship Program
-vosGR,,>Co-sponsored>GOOS>SOT>VOS>VOS-GR,VOS-GR,NA
-vosHK,,>Co-sponsored>GOOS>SOT>VOS>VOS-HK,VOS-HK,NA
-vosIE,,>Co-sponsored>GOOS>SOT>VOS>VOS-IE,VOS-IE,NA
-vosIL,,>Co-sponsored>GOOS>SOT>VOS>VOS-IL,VOS-IL,NA
-vosIN,,>Co-sponsored>GOOS>SOT>VOS>VOS-IN,VOS-IN,NA
-vosIS,,>Co-sponsored>GOOS>SOT>VOS>VOS-IS,VOS-IS,NA
-vosJP,,>Co-sponsored>GOOS>SOT>VOS>VOS-JP,VOS-JP,NA
-vosKR,,>Co-sponsored>GOOS>SOT>VOS>VOS-KR,VOS-KR,NA
-vosMY,,>Co-sponsored>GOOS>SOT>VOS>VOS-MY,VOS-MY,NA
-vosNL,,>Co-sponsored>GOOS>SOT>VOS>VOS-NL,VOS-NL,NA
-vosNO,,>Co-sponsored>GOOS>SOT>VOS>VOS-NO,VOS-NO,NA
-vosNZ,,>Co-sponsored>GOOS>SOT>VOS>VOS-NZ,VOS-NZ,NA
-vosPL,,>Co-sponsored>GOOS>SOT>VOS-PL,VOS-PL,NA
-vosRU,,>Co-sponsored>GOOS>SOT>VOS>VOS-RU,VOS-RU,NA
-vosSE,,>Co-sponsored>GOOS>SOT>VOS>VOS-SE,VOS-SE,NA
-vosShipMask,,>Co-sponsored>GOOS>SOT>VOS>VOS-SHIP-MASK,VOS-SHIP-MASK,NA
-vosUS,,>Co-sponsored>GOOS>SOT>VOS>VOS-US,VOS-US,NA
-vosZA,,>Co-sponsored>GOOS>SOT>VOS>VOS-ZA,VOS-ZA,NA
-whos,,>WIGOS>WHOS,WHOS,NA
+vosGR,,>Co-sponsored>GOOS>SOT>VOS>VOS-GR,VOS-GR,
+vosHK,,>Co-sponsored>GOOS>SOT>VOS>VOS-HK,VOS-HK,
+vosIE,,>Co-sponsored>GOOS>SOT>VOS>VOS-IE,VOS-IE,
+vosIL,,>Co-sponsored>GOOS>SOT>VOS>VOS-IL,VOS-IL,
+vosIN,,>Co-sponsored>GOOS>SOT>VOS>VOS-IN,VOS-IN,
+vosIS,,>Co-sponsored>GOOS>SOT>VOS>VOS-IS,VOS-IS,
+vosJP,,>Co-sponsored>GOOS>SOT>VOS>VOS-JP,VOS-JP,
+vosKR,,>Co-sponsored>GOOS>SOT>VOS>VOS-KR,VOS-KR,
+vosMY,,>Co-sponsored>GOOS>SOT>VOS>VOS-MY,VOS-MY,
+vosNL,,>Co-sponsored>GOOS>SOT>VOS>VOS-NL,VOS-NL,
+vosNO,,>Co-sponsored>GOOS>SOT>VOS>VOS-NO,VOS-NO,
+vosNZ,,>Co-sponsored>GOOS>SOT>VOS>VOS-NZ,VOS-NZ,
+vosPL,,>Co-sponsored>GOOS>SOT>VOS-PL,VOS-PL,
+vosRU,,>Co-sponsored>GOOS>SOT>VOS>VOS-RU,VOS-RU,
+vosSE,,>Co-sponsored>GOOS>SOT>VOS>VOS-SE,VOS-SE,
+vosShipMask,,>Co-sponsored>GOOS>SOT>VOS>VOS-SHIP-MASK,VOS-SHIP-MASK,
+vosUS,,>Co-sponsored>GOOS>SOT>VOS>VOS-US,VOS-US,
+vosZA,,>Co-sponsored>GOOS>SOT>VOS>VOS-ZA,VOS-ZA,
+whos,,>WIGOS>WHOS,WHOS,
 whycos,,>WIGOS>WHOS>WHYCOS,WHYCOS,World Hydrological Cycle Observing System
 wigos,,>WIGOS,WIGOS,WMO Integrated Observing System components
 windProfiler,,>WIGOS>GOS>GOS Other elements>Wind Profilers,Wind Profilers,Wind profilers for upper-air wind observations

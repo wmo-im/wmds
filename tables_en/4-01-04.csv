@@ -1,11 +1,11 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-annualBroadleafVegetation,,,Annual broadleaf vegetation,NA
-deciduousBroadleafVegetation,,,Deciduous broadleaf vegetation,NA
-deciduousNeedleleafVegetation,,,Deciduous needleleaf vegetation,NA
-evergreenBroadleafVegetation,,,Evergreen broadleaf vegetation,NA
-evergreenNeedleleafVegetation,,,Evergreen needleleaf vegetation,NA
-nonVegetated,,,Non-vegetated land,NA
+annualBroadleafVegetation,,,Annual broadleaf vegetation,
+deciduousBroadleafVegetation,,,Deciduous broadleaf vegetation,
+deciduousNeedleleafVegetation,,,Deciduous needleleaf vegetation,
+evergreenBroadleafVegetation,,,Evergreen broadleaf vegetation,
+evergreenNeedleleafVegetation,,,Evergreen needleleaf vegetation,
+nonVegetated,,,Non-vegetated land,
 notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
-unclassified,,,Unclassified,NA
-urban,,,Urban,NA
-water,,,Water,NA
+unclassified,,,Unclassified,
+urban,,,Urban,
+water,,,Water,
