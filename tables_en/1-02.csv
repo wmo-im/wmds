@@ -1,0 +1,139 @@
+WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+g,,,g,acceleration due to gravity
+A,,,A,ampere
+AU,,,AU,astronomic unit
+u,,,u,atomic mass unit
+Bq,,,Bq,becquerel
+Bq_s_m-3,,,Bq s m-3,becquerel seconds per cubic metre
+Bq_m-3,,,Bq m-3,becquerels per cubic metre
+Bq_l-1,,,Bq l-1,becquerels per litre
+Bq_m-2,,,Bq m-2,becquerels per square metre
+cd,,,cd,candela
+cb_-1,,,cb/12 h,centibars per 12 hours
+cb_s-1,,,cb s-1,centibars per second
+cm,,,cm,centimetre
+cm_h-1,,,cm h-1,centimetres per hour
+cm_s-1,,,cm -1,centimetres per second
+C,,,C,coulomb
+m3,,,m3,cubic metres
+m3_m-3,,,m3 m-3,cubic metres per cubic metre
+m3_s-1,,,m3 s-1,cubic metres per second
+d,,,d,day
+dB,,,dB,decibel
+dB_deg-1,,,dB degree–1,decibels per degree
+dB_m-1,,,dB m-1,decibels per metre
+dm,,,dm,decimetre
+dPa_s-1,,,dPa s-1,decipascals per second (microbar per second)
+degree_(angle),,,°,degree (angle)
+Cel,,,°C,degree Celsius
+degC,,,°C,degrees Celsius
+C_-1,,,°C/100 m,degrees Celsius per 100 metres
+C_m-1,,,°C/m,degrees Celsius per metre
+deg_s-1,,,degree/s,degrees per second
+degrees_true,,,°,degrees true
+daPa,,,daPa,dekapascal
+DU,,,DU,Dobson Unit
+okta,,,okta,eighths of cloud
+eV,,,eV,electron volt
+F,,,F,farad
+ft,,,ft,foot
+gpm,,,gpm,geopotential metre
+g_kg-1,,,g kg-1,grams per kilogram
+g_kg-1_s-1,,,g kg-1 s-1,grams per kilogram per second
+Gy,,,Gy,gray
+ha,,,ha,hectare
+hPa,,,hPa,hectopascal
+hPa_-1,,,hPa/3 h,hectopascals per 3 hours
+hPa_h-1,,,hPa h-1,hectopascals per hour
+hPa_s-1,,,hPa s-1,hectopascals per second
+H,,,H,henry
+Hz,,,Hz,hertz
+h,,,h,hour
+in,,,In,inch
+J,,,J,joule
+J_kg-1,,,J kg-1,joules per kilogram
+J_m-2,,,J m-2,joules per square metre
+K,,,K,kelvin
+K_m_s-1,,,K m s-1,kelvin metres per second
+K_m2_kg-1_s-1,,,k m2 kg-1 s-1,kelvin square metres per kilogram per second
+K_m-1,,,K m-1,kelvins per metre
+kg,,,kg,kilogram
+kg_m-3,,,kg m-3,kilograms per cubic metre
+kg_kg-1,,,kg kg-1,kilograms per kilogram
+kg_kg-1_s-1,,,kg kg-1 s-1,kilograms per kilogram per second
+kg_m-1,,,kg m-1,kilograms per metre
+kg_m-2,,,kg m-2,kilograms per square metre
+kg_m-2_s-1,,,kg m-2 s-1,kilograms per square metre per second
+km,,,Km,kilometre
+km_d-1,,,km/d,kilometres per day
+km_h-1,,,km h-1,kilometres per hour
+kPa,,,kPa,kilopascal
+kt,,,kt,knot
+kt_km-1,,,kt/1000 m,knots per 1000 metres
+l,,,l or L,litre
+log_(m-1),,,log (m-1),logarithm per metre
+log_(m-2),,,log (m-2),logarithm per square metre
+lm,,,lm,lumen
+lx,,,lx,lux
+m,,,m,metre
+m_s-1,,,m s-1,metres per second
+m_s-1_km-1,,,m s-1/1000 m,metres per second per 1000 metres
+m_s-1_m-1,,,m s-1/m,metres per second per metre
+m_s-2,,,m s-2,metres per second squared
+m4,,,m4,metres to the fourth power
+m2_-1,,,m2/3 s-1,metres to the two thirds power per second
+mm,,,mm,millimetre
+mm_h-1,,,mm h-1,millimetres per hour
+mm_s-1,,,mm s-1,millimetres per second
+mm6_m-3,,,mm6 m-3,millimetres to the sixth power per cubic metre
+mSv,,,mSv,millisievert
+',,,',minute (angle)
+min,,,min,minute (time)
+mol,,,mol,mole
+mol_mol-1,,,mol mol-1,moles per mole
+mon,,,mon,month
+N_units,,,N units,N units
+nbar,,,nbar,nanobar=hPa 10-6
+nautical_mile,,,mile,nautical mile
+N,,,N,newton
+N_m-2,,,N m-2,newtons per square metre
+Ohm,,,?,ohm
+pc,,,pc,parsec
+0.001,,,‰,parts per thousand
+Pa,,,Pa,pascal
+Pa_s-1,,,Pa s-1,pascals per second
+percent,,,%,per cent
+m-1,,,m–1,per metre
+s-1,,,s–1,per second (same as hertz)
+s-2,,,s–2,per second squared
+kg-2_s-1,,,kg-2 s-1,per square kilogram per second
+pH_unit,,,pH unit,pH unit
+rad,,,rad,radian
+rad_m-1,,,rad m-1,radians per metre
+s,,,s,second
+'',,,'',second (angle)
+s_m-1,,,s m-1,seconds per metre
+S,,,S,siemens
+S_m-1,,,S m-1,siemens per metre
+Sv,,,Sv,sievert
+deg2,,,degree2,square degrees
+m2,,,m2,square metres
+m2_Hz-1,,,m2 Hz-1,square metres per hertz
+m2_rad-1_s,,,m2 rad-1 s,square metres per radian second
+m2_s-1,,,m2 s-1,square metres per second
+m2_s-2,,,m2 s-2,square metres per second squared
+m2_s,,,m2 s,square metres second
+sr,,,sr,steradian
+T,,,T,tesla
+t,,,t,tonne
+V,,,V,volt
+W,,,W,watt
+W_m-3_sr-1,,,W m-3 sr-1,watts per cubic metre per steradian
+W_m-1_sr-1,,,W m-1 sr-1,watts per metre per steradian
+W_m-2,,,W m-2,watts per square metre
+W_m-2_sr-1,,,W m-2 sr-1,watts per square metre per steradian
+W_m-2_sr-1_cm,,,W m-2 sr-1 cm,watts per square metre per steradian centimetre
+W_m-2_sr-1_m,,,W m-2 sr-1 m,watts per square metre per steradian metre
+Wb,,,Wb,weber
+week,,,,week
+a,,,a,year
