@@ -1,0 +1,45 @@
+WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+165,,\Terrestrial\Ground water\Ground water (amount per unit area),Ground water (amount per unit area),Amount of water present beneath the ground surface per unit area
+166,,\Terrestrial\Ground water\Ground water (level),Ground water (level),
+167,,\Terrestrial\Lake\Lake area,Lake area,Aera extent of the surface of a lake
+168,,\Terrestrial\Lake\Lake level,Lake level,Map of the height of the lake surface.
+171,,\Terrestrial\River\River discharge,River discharge,Volume of water flowing through a river per unit of time 
+172,,\Terrestrial\River\River stage (level above reference),River stage (level above reference),
+174,,\Terrestrial\Well\Well discharge,Well discharge,
+231,,\Terrestrial\Land surface\Breaking action/friction coefficient,Breaking action/friction coefficient,
+232,,\Terrestrial\Land surface\Coastlines,Coastlines,Location of coastlines (Lat/Long)
+236,,\Terrestrial\Land surface\Land cover,Land cover,"Processed from land surface imagery by assigning identified cluster(s) within a given area to specific classes of objects - Accuracy expressed as number of classes. Actually [ classes-1 ] is used, so that smaller figure corresponds to better performance, as usual."
+237,,\Terrestrial\Land surface\Land surface topography,Land surface topography,Map of land surface heights - Physical unit: [ m ] - Accuracy unit: [ m ].
+239,,\Terrestrial\Land surface\Runway conditions,Runway conditions,
+243,,\Terrestrial\Land surface\Wetland extent,Wetland extent,Fraction of an area flood by water
+245,,\Terrestrial\Soil\Soil heat Flux,Soil heat Flux,
+246,,\Terrestrial\Soil\Soil type,Soil type,"Result of the classification of different types of soil within an area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
+354,,\Terrestrial\Land surface\Snow / Ice / Glacier\Permafrost,Permafrost,
+386,,\Terrestrial\Land surface\Fire\Fire fractional cover,Fire fractional cover,Fraction of a land area where fire is occurring
+387,,\Terrestrial\Land surface\Fire\Fire radiative power,Fire radiative power,Power radiated by the fire occurring within an area
+388,,\Terrestrial\Land surface\Fire\Fire temperature,Fire temperature,Temperature of the fire occurring within an area 
+389,,\Terrestrial\Land surface\Temperature\Land surface temperature,Land surface temperature,Temperature of the apparent surface of land (bare soil or vegetation) - Physical unit: [ K ] - Accuracy unit: [ K ].
+410,,\Terrestrial\Lake\Temperature\Lake Surface Temperature,Lake Surface Temperature,Temperature of the lake surface - Physical unit: [ K ] - Accuracy unit: [ K ].
+422,,\Terrestrial\Land surface\Greenhouse Gas\CO2 flux,CO2 flux,Flux of carbon dioxide from the surface to the atmosphere
+423,,\Terrestrial\Land surface\Vegetation\Biomass,Biomass,Total amount of vegetation in a reference area - Physical unit: [ t/ha (tons/hectare) ] - Accuracy unit: [ t/ha ]
+424,,\Terrestrial\Land surface\Vegetation\Fraction of vegetated land,Fraction of vegetated land,Fraction of a land area where vegetation is present
+425,,\Terrestrial\Land surface\Vegetation\Leaf Area Index (LAI),Leaf Area Index (LAI),LAI is the total one-sided area of photosynthetic tissue per unit ground surface area 
+426,,\Terrestrial\Land surface\Vegetation\Normalised Difference Vegetation Index (NDVI),Normalised Difference Vegetation Index (NDVI),"Difference between maximum (in NIR) and minimum (around the Red) vegetation reflectance, normalised to the summation. Representative of total biomass, supportive for computing LAI if not directly measured"
+427,,\Terrestrial\Land surface\Vegetation\Vegetation type,Vegetation type,"Result of the classification of different types of vegetation within a vegetated area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
+510,,\Terrestrial\Land surface\Humidity\Evaporation,Evaporation,Quantity of water evaporated from the soil and plants when the ground is at its natural moisture content.
+527,,\Terrestrial\Soil\Humidity\Soil moisture (in the roots region),Soil moisture (in the roots region),Sub-soil 3D field of the fractional content of water in a volume of wet soil. Requested from surface down to ~ 3 m
+528,,\Terrestrial\Soil\Humidity\Soil moisture at surface,Soil moisture at surface,Fractional content of water in a volume of wet soil. Surface layer (upper few centimetres)
+563,,\Terrestrial\Land surface\Radiation\Fraction of Absorbed PAR (FAPAR),Fraction of Absorbed PAR (FAPAR),Fraction of PAR absorbed by vegetation (land or marine) for photosynthesis processes (generally around the 'red' )
+564,,\Terrestrial\Land surface\Radiation\Photosynthetically Active Radiation (PAR),Photosynthetically Active Radiation (PAR),Flux of downwelling photons of wavelength 0.4-0.7
+596,,\Terrestrial\Soil\Temperature\Soil temperature,Soil temperature,"The standard depths for soil temperature measurements are 5, 10, 20, 50 and 100 cm below the surface; additional depths may be included. The site for such measurements should be a level plot of bare ground (about 75 cm^2 ) and typical of the surrounding soil for which information is required."
+610,,\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier cover,Glacier cover,Fraction of a land area covered by permanent ice 
+611,,\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier motion,Glacier motion,Velocity of the ice measured at the surface of a glacier 
+612,,\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier topography,Glacier topography,Map of the height of the glacier surface.
+613,,\Terrestrial\Land surface\Snow / Ice / Glacier\Ice\Ice sheet topography,Ice sheet topography,Map of ice sheet height over land .
+627,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Depth of fresh snowfall,Depth of fresh snowfall,
+628,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow cover (fraction of area),Snow cover (fraction of area),Fraction of a given area which is covered by snow
+629,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow depth,Snow depth,"Vertical distance from the snow surface to the underlying surface (ground, glacier ice or sea ice)."
+630,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow status (wet/dry),Snow status (wet/dry),Binary product (dry or melting/thawing) expressing the presence of liquid water in a snow layer- Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].
+631,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow water equivalent,Snow water equivalent,Vertical depth of the water that would be obtained by melting a snow layer. Linked to snow depth through the density of the snow layer.
+725,,\Terrestrial\Lake\Snow / Ice / Glacier\Ice\Ice thickness,Ice thickness,
+726,,\Terrestrial\River\Snow / Ice / Glacier\Ice\Ice thickness,Ice thickness,
