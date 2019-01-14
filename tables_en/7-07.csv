@@ -1,62 +1,62 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 ascii,,,ASCII,"ASCII (American Standard Code for Information Interchange) is a character-encoding scheme used for text files. Plain text files are often called ""ASCII"" files."
 csv,,,CSV,"A comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas, hence the name for this file format."
-synop,,,FM 12 - SYNOP,Report of surface observation from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-ship,,,FM 13 - SHIP,Report of surface observation from a fixed sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-synopMobil,,,FM14 - SYNOP MOBIL,Report of a surface observation from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-metar,,,FM 15 - METAR,Aerodrome routine meteorological report (with or without trend forecast). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-speci,,,FM 16 - SPECI,Aerodrome special meteorological report (with or without trend forecast). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-buoy,,,FM 18 - BUOY,Report of a buoy observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-collect,,,FM 201 - COLLECT,Collection of reports that use the same XML application schemas. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
-metce,,,FM 202 - METCE,Meteorological information. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
-opmXML,,,FM 203 - OPM-XML,Observable property model. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
-safXML,,,FM 204 - SAF-XML,Simple aeronautical features. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
-iwxxmXML,,,FM 205 - IWXXM-XML,International Civil Aviation Organization meteorological information exchange model. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
-radob,,,FM 20 - RADOB,Report of ground radar weather observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-radrep,,,FM 22 - RADREP,Radiological data report (monitored on a routine basis and/or in case of accident). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-pilot,,,FM 32 - PILOT,Upper-wind report from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-pilotShip,,,FM33 - PILOT SHIP,Upper-wind report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-pilotMobil,,,FM 34 - PILOT MOBIL,Upper wind report from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-temp,,,FM 35 - TEMP,"Upper-level pressure, temperature, humidity and wind report from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-tempShip,,,FM 36 - TEMP SHIP,"Upper-level pressure, temperature, humidity and wind report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-tempDrop,,,FM 37 - TEMP DROP,"Upper-level pressure, temperature, humidity and wind report from a sonde released by carrier balloons or aircraft. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-tempMobil,,,FM 38 - TEMP MOBIL,"Upper-level pressure, temperature, humidity and wind report from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-rocob,,,FM 39 - ROCOB,"Upper-level temperature, wind and air density report from a land rocketsonde station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-rocobShip,,,FM 40 - ROCOB SHIP,"Upper-level temperature, wind and air density report from a rocketsonde station on a ship. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-codar,,,FM 41 - CODAR,Upper-air report from an aircraft (other than weather reconnaissance aircraft). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-amdar,,,FM 42 - AMDAR,Aircraft report (aircraft meteorological data relay). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-icean,,,FM 44 - ICEAN,Ice analysis. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-IAC,,,FM 45 - IAC,Analysis in full form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-iacFleet,,,FM 46 - IAC FLEET,Analysis in abbreviated form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-grid,,,FM 47 - GRID,Processed data in the form of grid-point values. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-graf,,,FM 49 - GRAF,Processed data in the form of grid-point vlues (abbreviated code form). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-wintem,,,FM 50 - WINTEM,Forecast upper wind and temperature for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-taf,,,FM 51 - TAF,Aerodrome forecast. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-arfor,,,FM 53 - ARFOR,Area forecast for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-rofor,,,FM 54 - ROFOR,Route forecast for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-radof,,,FM 57 - RADOF,Radiological trajectory dose forecast (defined time of arrival and location). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-mafor,,,FM 61 - MAFOR,Forecast for shipping. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-trackob,,,FM 62 - TRACKOB,Report of marine surface observation along a ship's track. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-bathy,,,FM 63 - BATHY,Report of bathythermal observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-tesac,,,FM 64 - TESAC,"Temperature, salinity and current report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-waveob,,,FM 65 - WAVEOB,Report of spectral wave information from a sea station or from a remote platform (aircraft or satellite). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-hydra,,,FM  67 - HYDRA,Report of hydrological observation from a hydrological station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-hyfor,,,FM 68 - HYFOR,Hydrological forecast. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-climat,,,FM 71 - CLIMAT,Report of monthly values from a land station.  Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-climatShip,,,FM 72 - CLIMAT SHIP,Report of monthly means and totals from an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-nacli,,,"FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI",Report of monthly means for an oceanic area. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-climatTemp,,,FM 75 - CLIMAT TEMP,Report of monthly aerological means form  a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-climatTempShip,,,FM 76 - CLIMAT TEMP SHIP,Report of monthly aerological means form an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-sfazi,,,FM 81 - SFAZI,Synoptic report of bearings of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-sfloc,,,FM 82 - SFLOC,Synoptic report of the geographical location of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-sfazu,,,FM 83 - SFAZU,Detailed report of the distribution of sources of atmospherics by bearings for any period up to and including 24 hours. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-sarep,,,FM 85 - SAREP,Report of synoptic interpretation of cloud data obtained by a meteorological satellite. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-satem,,,FM 86 - SATEM,"Report of satellite remote upper-air soundings of pressure, temperature and humidity. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-sarad,,,FM 87 - SARAD,Report of satellite clear radiance observations. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-satob,,,FM 88 - SATOB,"Report of satellite observations of wind, surface temperature, cloud, humidity and radiation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
-grib,,,FM 92 - GRIB,Processed data in the form of grid-point values expressed in binary form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes2
-bufr,,,FM 94 - BUFR,Binary Universal Form for the Representation of meteorological data. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes2
-crex,,,FM 95 - CREX,Character form for the representation and exchange of data. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-12-synop,,,FM 12 - SYNOP,Report of surface observation from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-13-ship,,,FM 13 - SHIP,Report of surface observation from a fixed sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-4-synopMobil,,,FM14 - SYNOP MOBIL,Report of a surface observation from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-15-metar,,,FM 15 - METAR,Aerodrome routine meteorological report (with or without trend forecast). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-16-speci,,,FM 16 - SPECI,Aerodrome special meteorological report (with or without trend forecast). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-18-buoy,,,FM 18 - BUOY,Report of a buoy observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-20-collect,,,FM 201 - COLLECT,Collection of reports that use the same XML application schemas. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
+FM-20-metce,,,FM 202 - METCE,Meteorological information. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
+FM-20-opmXML,,,FM 203 - OPM-XML,Observable property model. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
+FM-20-safXML,,,FM 204 - SAF-XML,Simple aeronautical features. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
+FM-20-iwxxmXML,,,FM 205 - IWXXM-XML,International Civil Aviation Organization meteorological information exchange model. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes3
+FM-20-radob,,,FM 20 - RADOB,Report of ground radar weather observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-22-radrep,,,FM 22 - RADREP,Radiological data report (monitored on a routine basis and/or in case of accident). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-32-pilot,,,FM 32 - PILOT,Upper-wind report from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-3-pilotShip,,,FM33 - PILOT SHIP,Upper-wind report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-34-pilotMobil,,,FM 34 - PILOT MOBIL,Upper wind report from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-35-temp,,,FM 35 - TEMP,"Upper-level pressure, temperature, humidity and wind report from a fixed land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-36-tempShip,,,FM 36 - TEMP SHIP,"Upper-level pressure, temperature, humidity and wind report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-37-tempDrop,,,FM 37 - TEMP DROP,"Upper-level pressure, temperature, humidity and wind report from a sonde released by carrier balloons or aircraft. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-38-tempMobil,,,FM 38 - TEMP MOBIL,"Upper-level pressure, temperature, humidity and wind report from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-39-rocob,,,FM 39 - ROCOB,"Upper-level temperature, wind and air density report from a land rocketsonde station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-40-rocobShip,,,FM 40 - ROCOB SHIP,"Upper-level temperature, wind and air density report from a rocketsonde station on a ship. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-41-codar,,,FM 41 - CODAR,Upper-air report from an aircraft (other than weather reconnaissance aircraft). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-42-amdar,,,FM 42 - AMDAR,Aircraft report (aircraft meteorological data relay). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-44-icean,,,FM 44 - ICEAN,Ice analysis. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-45-IAC,,,FM 45 - IAC,Analysis in full form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-46-iacFleet,,,FM 46 - IAC FLEET,Analysis in abbreviated form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-47-grid,,,FM 47 - GRID,Processed data in the form of grid-point values. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-49-graf,,,FM 49 - GRAF,Processed data in the form of grid-point vlues (abbreviated code form). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-50-wintem,,,FM 50 - WINTEM,Forecast upper wind and temperature for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-51-taf,,,FM 51 - TAF,Aerodrome forecast. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-53-arfor,,,FM 53 - ARFOR,Area forecast for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-54-rofor,,,FM 54 - ROFOR,Route forecast for aviation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-57-radof,,,FM 57 - RADOF,Radiological trajectory dose forecast (defined time of arrival and location). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-61-mafor,,,FM 61 - MAFOR,Forecast for shipping. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-62-trackob,,,FM 62 - TRACKOB,Report of marine surface observation along a ship's track. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-63-bathy,,,FM 63 - BATHY,Report of bathythermal observation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-64-tesac,,,FM 64 - TESAC,"Temperature, salinity and current report from a sea station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-65-waveob,,,FM 65 - WAVEOB,Report of spectral wave information from a sea station or from a remote platform (aircraft or satellite). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM- 6-hydra,,,FM  67 - HYDRA,Report of hydrological observation from a hydrological station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-68-hyfor,,,FM 68 - HYFOR,Hydrological forecast. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-71-climat,,,FM 71 - CLIMAT,Report of monthly values from a land station.  Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-72-climatShip,,,FM 72 - CLIMAT SHIP,Report of monthly means and totals from an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-73-nacli,,,"FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI",Report of monthly means for an oceanic area. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-75-climatTemp,,,FM 75 - CLIMAT TEMP,Report of monthly aerological means form  a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-76-climatTempShip,,,FM 76 - CLIMAT TEMP SHIP,Report of monthly aerological means form an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-81-sfazi,,,FM 81 - SFAZI,Synoptic report of bearings of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-82-sfloc,,,FM 82 - SFLOC,Synoptic report of the geographical location of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-83-sfazu,,,FM 83 - SFAZU,Detailed report of the distribution of sources of atmospherics by bearings for any period up to and including 24 hours. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-85-sarep,,,FM 85 - SAREP,Report of synoptic interpretation of cloud data obtained by a meteorological satellite. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-86-satem,,,FM 86 - SATEM,"Report of satellite remote upper-air soundings of pressure, temperature and humidity. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-87-sarad,,,FM 87 - SARAD,Report of satellite clear radiance observations. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-88-satob,,,FM 88 - SATOB,"Report of satellite observations of wind, surface temperature, cloud, humidity and radiation. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"
+FM-92-grib,,,FM 92 - GRIB,Processed data in the form of grid-point values expressed in binary form. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes2
+FM-94-bufr,,,FM 94 - BUFR,Binary Universal Form for the Representation of meteorological data. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes2
+FM-95-crex,,,FM 95 - CREX,Character form for the representation and exchange of data. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 hdf4,,,HDF4,"Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data."
 hdf5,,,HDF5,"Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) designed to store and organize large amounts of data."
 nasaAmes,,,NASA AMES,The NASA AMES format is a set of nine ASCII-based file formats that comply with an overall common structure but make provision of different features adapted to various cases. It consists of a header and a data part.
