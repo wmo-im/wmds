@@ -9,8 +9,8 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 68,,\Ocean\Miscellaneous\Carbon species\Dissolved organic carbon,Dissolved organic carbon,
 69,,\Ocean\Miscellaneous\Nitrogen species\Dissolved organic nitrogen,Dissolved organic nitrogen,
 70,,"\Ocean\Miscellaneous\Diffuse attenuation coefficient (DAC), turbidity","Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation."
-71,,\Ocean\Biology\Chlorophyll concentration ,Chlorophyll concentration ,"Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m<sup>3</sup> for a given concentration of 1 mg/m<sup>3</sup> ."
-72,,\Ocean\Miscellaneous\Ocean suspended sediments concentration,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m<sup>3</sup>&nbsp;at a specific concentration (e.g., 2 g/m<sup>3</sup>&nbsp;)."
+71,,\Ocean\Biology\Chlorophyll concentration ,Chlorophyll concentration ,"Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3 ."
+72,,\Ocean\Miscellaneous\Ocean suspended sediments concentration,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3 ). "
 73,,\Ocean\Miscellaneous\Oil spill cover,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
 74,,\Ocean\Biology\Primary production,Primary production,
 75,,\Ocean\Miscellaneous\Sea surface Mass Flux,Sea surface Mass Flux,Sea Surface Mass Flux
@@ -26,19 +26,19 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 89,,\Ocean\Radiation\Water-leaving spectral radiance,Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle."
 90,,"\Ocean\Reactive Gas\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",
 91,,\Ocean\Basic Physical Properties\Ocean salinity,Ocean salinity,"3D field of salinity of the ocean Requested in upper and deep ocean - Physical unit: [ psu ], Practical Salinity Unit, close to 1, determined by CTD"
-92,,\Ocean\Basic Physical Properties\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be ìhalinityî with reference of the diversity of salts involved.
+92,,\Ocean\Basic Physical Properties\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be ‚Äúhalinity‚Äù with reference of the diversity of salts involved.
 94,,\Ocean\Basic Physical Properties\Ocean temperature,Ocean temperature,3D field of temperature of the ocean Requested in upper and deep ocean.
-95,,\Ocean\Basic Physical Properties\Sea surface temperature,Sea surface temperature,"Temperature of the sea water at surface. The ìbulkî temperature refers to the depth of typically 2 m, the ìskinî temperature refers to within the upper 1 mm. "
+95,,\Ocean\Basic Physical Properties\Sea surface temperature,Sea surface temperature,"Temperature of the sea water at surface. The ‚Äúbulk‚Äù temperature refers to the depth of typically 2 m, the ‚Äúskin‚Äù temperature refers to within the upper 1 mm. "
 96,,\Ocean\Topography\Coastal sea level (tide),Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)."
 98,,\Ocean\Waves\Dominant wave direction,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum - Physical unit: [ degrees ] - Accuracy unit: [ degrees ].
 99,,\Ocean\Waves\Dominant wave period,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
 100,,\Ocean\Waves\Significant wave height,Significant wave height,Average amplitude of the highest 30 of 100 waves.
-101,,\Ocean\Waves\Wave 1D energy frequency spectrum,Wave 1D energy frequency spectrum,1D variable colloquially referred to as &ldquo wave spectrum&rdquo. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
-102,,\Ocean\Waves\Wave directional energy frequency spectrum,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g., 24 distinct azimuth sectors each 15&deg; wide, and 25 frequency bands)"
+101,,\Ocean\Waves\Wave 1D energy frequency spectrum,Wave 1D energy frequency spectrum,1D variable colloquially referred to as "wave spectrum". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
+102,,\Ocean\Waves\Wave directional energy frequency spectrum,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g., 24 distinct azimuth sectors each 15¬∞deg; wide, and 25 frequency bands)"
 103,,\Ocean\Wind\Wind stress,Wind stress,The shear force per unit area exerted by wind blowing over the sea surface - 
-311,,\Ocean\Biology\Nitrogen species\NO2- (nitrite),NO2- (nitrite),nitrite concentration in sea water
-312,,\Ocean\Biology\Nitrogen species\NO3- (nitrate),NO3- (nitrate),nitrate concentration in sea water
-399,,\Ocean\Biology\Phosporus species\PO4= (phosphate),PO4= (phosphate),phosphate conetration in sea water
+311,,\Ocean\Biology\Nitrogen species\NO2- (nitrite),NO2- (nitrite),Nitrite concentration in sea water.
+312,,\Ocean\Biology\Nitrogen species\NO3- (nitrate),NO3- (nitrate),Nitrate concentration in sea water.
+399,,\Ocean\Biology\Phosporus species\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water
 400,,\Ocean\Biology\Phosporus species\Total organic phosphorus,Total organic phosphorus,
 401,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present
 402,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level
@@ -58,6 +58,6 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 740,,\Ocean\Topography\Mean dynamic topography (MDT),Mean dynamic topography (MDT),
 741,,\Ocean\Topography\Mean sea surface (MSS),Mean sea surface (MSS),
 742,,"\Ocean\Topography\Sea surface height (SSH, OST)","Sea surface height (SSH, OST)",
-743,,\Ocean\Waves\Wave height,Wave height, average of height (trough to crest) of the waves collected through a specified time 
+743,,\Ocean\Waves\Wave height,Wave height, Average of height (trough to crest) of the waves collected through a specified time 
 744,,\Ocean\Waves\Wave period,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
-745,,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions"
+745,,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."

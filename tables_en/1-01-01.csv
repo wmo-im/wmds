@@ -1,6 +1,6 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 37,,\Atmosphere\Aerological soundings,Aerological soundings,
-39,,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere
+39,,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 44,,\Atmosphere\Integrated air samples,Integrated air samples,
 56,,\Atmosphere\Special phenomena,Special phenomena,
 57,,\Atmosphere\State of ground,State of ground,
@@ -11,31 +11,31 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 183,,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 186,,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
 188,,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
-192,,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,1D variable colloquially referred to as &ldquo wave spectrum&rdquo. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
-193,,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],
-194,,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,
-195,,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],
-196,,\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18],CO2 [O-18],
-201,,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,
-203,,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,
-204,,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulfuryl fluoride),SO2F2 (sulfuryl fluoride),
-205,,\Atmosphere\Gas\Other Gas\H2,H2,
-206,,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),3D field of mole fraction of H<sub>2</sub>O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
+192,,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,1D variable colloquially referred to as "wave spectrum". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
+193,,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
+194,,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
+195,,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],CO2 with C-13 isotope
+196,,\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18],CO2 [O-18],CO2 with O-18 isotope
+201,,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,N2O
+203,,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,SF6
+204,,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride)
+205,,\Atmosphere\Gas\Other Gas\H2,H2,H2
+206,,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),3D field of mole fraction of H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
 207,,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
 210,,\Atmosphere\Precipitation\Amount of precipitation,Amount of precipitation,
 211,,\Atmosphere\Precipitation\Duration of precipitation,Duration of precipitation,
 212,,\Atmosphere\Precipitation\Intensity of precipitation,Intensity of precipitation,
-213,,\Atmosphere\Precipitation\Occurrence of precipitation during last period,Occurrence of precipitation during last period,
+213,,\Atmosphere\Precipitation\Occurrence of precipitation during last period (yes/no),Occurrence of precipitation during last period (yes/no),
 214,,\Atmosphere\Precipitation\Rate of ice accretion,Rate of ice accretion,
 215,,\Atmosphere\Precipitation\Type of precipitation,Type of precipitation,
 216,,\Atmosphere\Pressure\Atmospheric pressure,Atmospheric pressure,
 217,,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,
 218,,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,
 219,,\Atmosphere\Radionuclide\Beryllium [Be-7],Beryllium [Be-7],
-220,,\Atmosphere\Radionuclide\CO2 [C-14],CO2 [C-14],
-221,,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],
-222,,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],
-223,,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],
+220,,\Atmosphere\Radionuclide\CO2 [C-14],CO2 [C-14],CO2 with C-14 isotope
+221,,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],Krypton (Kr-85 isotope)
+222,,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (Pb-210 isotope)
+223,,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
 224,,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
 225,,\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface),Dew-point temperature (at specified distance from reference surface),
 226,,"\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)","Extreme temperature (min, max) (at specified distance from reference surface)",
@@ -88,9 +88,9 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 304,,\Atmosphere\Wind\Direction of cloud movement,Direction of cloud movement,
 305,,\Atmosphere\Wind\Gust Speed,Gust Speed,
 307,,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)", Z component of wind vector  (horizontal and vertical profile)
-309,,"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",
-310,,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",
-314,,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K. &Delta z) where K is the absorption coefficient [km<sup>-1</sup>] and &Delta z the vertical path [km]
+309,,"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",Horizontal component of wind as speed and direction.
+310,,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
+314,,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K. Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
 315,,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
 316,,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
 317,,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
@@ -166,11 +166,11 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 398,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy,NOy,
 411,,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
 412,,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra,CCN concentration spectra,
-413,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 ?m equivalent","Hygroscopic growth factor, 110 ?m equivalent",
-414,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 ?m equivalent","Hygroscopic growth factor, 165 ?m equivalent",
-415,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 ?m equivalent","Hygroscopic growth factor, 35 ?m equivalent",
-416,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 ?m equivalent","Hygroscopic growth factor, 50 ?m equivalent",
-417,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 ?m equivalent","Hygroscopic growth factor, 75 ?m equivalent",
+413,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 μm equivalent","Hygroscopic growth factor, 110 μm equivalent",
+414,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 μm equivalent","Hygroscopic growth factor, 165 μm equivalent",
+415,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 μm equivalent","Hygroscopic growth factor, 35 μm equivalent",
+416,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 μm equivalent","Hygroscopic growth factor, 50 μm equivalent",
+417,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 μm equivalent","Hygroscopic growth factor, 75 μm equivalent",
 418,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
 419,,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)",
 420,,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)",
@@ -253,7 +253,7 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 503,,\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane),n-C7H16 (n-heptane),
 504,,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),
 505,,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),
-506,,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD = exp(-K.&Deltaz) where K is the extinction coefficient [km<sup>-1</sup> ] and &Delta z the vertical path [km] between the base and the top of the cloud
+506,,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
 507,,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
 508,,\Atmosphere\Clouds\Optical properties\Optical depth within each layer,Optical depth within each layer,
 509,,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
@@ -276,8 +276,8 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 540,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Fluoride (F-),Fluoride (F-),
 541,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Iodide (I-),Iodide (I-),
 542,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Phosphate (PO4---),Phosphate (PO4---),
-543,,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulfate (SO4=), corrected","Sulfate (SO4=), corrected",
-544,,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulfate (SO4=), total","Sulfate (SO4=), total",
+543,,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), corrected","Sulphate (SO4=), corrected",
+544,,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), total","Sulphate (SO4=), total",
 545,,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Calcium (Ca++),Calcium (Ca++),
 546,,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Magnesium (Mg++),Magnesium (Mg++),
 547,,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+),Potassium (K+),
@@ -335,10 +335,10 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 616,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Chloride (Cl-), PM2.5",
 617,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Chloride (Cl-), total aerosol",
 618,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","Fluoride (F-), total aerosol",
-619,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), corrected","Sulfate (SO4=), corrected",
-620,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total","Sulfate (SO4=), total",
-621,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM10","Sulfate (SO4=), total, PM10",
-622,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM2.5","Sulfate (SO4=), total, PM2.5",
+619,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), corrected","Sulphate (SO4=), corrected",
+620,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total","Sulphate (SO4=), total",
+621,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM10","Sulphate (SO4=), total, PM10",
+622,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM2.5","Sulphate (SO4=), total, PM2.5",
 623,,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon (coarse), PM10","Elemental carbon (coarse), PM10",
 624,,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM1","Elemental carbon, PM1",
 625,,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM2.5","Elemental carbon, PM2.5",
@@ -378,8 +378,8 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 664,,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1",
 665,,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10","C2O4= (oxalate, ethanedioate), PM10",
 666,,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol","C2O4= (oxalate, ethanedioate), total aerosol",
-667,,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), PM1","CH3O3S- (methanesulfonate), PM1",
-668,,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), total aerosol","CH3O3S- (methanesulfonate), total aerosol",
+667,,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), PM1","CH3O3S- (methanesulphonate), PM1",
+668,,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), total aerosol","CH3O3S- (methanesulphonate), total aerosol",
 669,,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), in aerosol",
 670,,"\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (coarse), PM10","Carbonaceous/organic material (coarse), PM10",
 671,,\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (fine),Carbonaceous/organic material (fine),

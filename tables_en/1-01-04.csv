@@ -1,15 +1,15 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 104,,\Outer Space\Energetic particles / solar wind \Electron flux energy spectrum,Electron flux energy spectrum,"Flux density energy spectrum of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium."
 105,,\Outer Space\Energetic particles / solar wind \Electrostatic charge,Electrostatic charge,Measurement of the electrostatic charge of a satellite accumulated because of the environmental situation.
-106,,\Outer Space\Energetic particles / solar wind \Heavy ion angular flux energy and mass spectrum,Heavy ion angular flux energy and mass spectrum,"Flux density energy and mass spectrum of heavy ions ranging from Helium to Iron, per unit solid angle"
+106,,\Outer Space\Energetic particles / solar wind \Heavy ion angular flux energy and mass spectrum,Heavy ion angular flux energy and mass spectrum,"Flux density energy and mass spectrum of heavy ions ranging from Helium to Iron, per unit solid angle."
 107,,\Outer Space\Energetic particles / solar wind \Heavy ion flux energy and mass spectrum,Heavy ion flux energy and mass spectrum,Flux density energy and mass spectrum of heavy ions ranging from Helium to Iron.
 108,,\Outer Space\Energetic particles / solar wind \Interplanetary magnetic field,Interplanetary magnetic field,Vector magnetic field (3D) in the solar wind.The reference frame is Cartesian or Cylindrical with many different axis orientations. Important in Space Weather to monitor magnetic disturbances of the near earth environment.
 111,,\Outer Space\Energetic particles / solar wind \Radiation Dose Rate,Radiation Dose Rate,3D field of the dose rate of energetic particles
 112,,\Outer Space\Energetic particles / solar wind \Solar wind temperature,Solar wind temperature,Temperature of solar wind protons
 113,,\Outer Space\Energetic particles / solar wind \Solar wind velocity,Solar wind velocity,Vector velocity of solar wind plasma
 114,,\Outer Space\Ionospheric disturbances\Aurora,Aurora,Occurence of fluorescence of the upper atmosphere through ionization by energetic charged particles accelerated by the Earth's magnetic field.
-115,,\Outer Space\Ionospheric disturbances\Electric Field,Electric Field,Magnitude and direction of the Earth's electriv field
-116,,\Outer Space\Ionospheric disturbances\Electron Density,Electron Density,3-D field of the electron density in the ionosphere
+115,,\Outer Space\Ionospheric disturbances\Electric Field,Electric Field,Magnitude and direction of the Earth's electric field.
+116,,\Outer Space\Ionospheric disturbances\Electron Density,Electron Density,3-D field of the electron density in the ionosphere.
 117,,\Outer Space\Ionospheric disturbances\Ionospheric Radio Absorption,Ionospheric Radio Absorption,Attenuation of a radio wave passing through the lower ionosphere.
 118,,\Outer Space\Ionospheric disturbances\Ionospheric Scintillation,Ionospheric Scintillation,Random fluctuations of radio waves resulting of small scale variations of the ionospheric electron density in space and time.
 119,,\Outer Space\Ionospheric disturbances\Ionospheric Vertical Total Electron Content (VTEC),Ionospheric Vertical Total Electron Content (VTEC),Number of electrons between two points.
@@ -17,24 +17,24 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 121,,\Outer Space\Ionospheric disturbances\Ionospheric plasma velocity,Ionospheric plasma velocity,Velocity of bulk plasma or electrons (depending on measurement technique) as a function of altitude in the ionosphere.
 122,,\Outer Space\Ionospheric disturbances\Spread F,Spread F,Vertical thickness of highly structured ion density in the F-region of the ionosphere.
 123,,\Outer Space\Ionospheric disturbances\foEs,foEs,The highest ordinary-wave frequency reflected back from a sporadic E layer and observed by an ionosonde.
-124,,\Outer Space\Ionospheric disturbances\foF2,foF2,"Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm<sup>-3</sup>): f=9*10<sup>-3</sup>*sqrt(Ne)."
+124,,\Outer Space\Ionospheric disturbances\foF2,foF2,"Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm-3): f=9*10^-3*sqrt(Ne). "
 125,,\Outer Space\Ionospheric disturbances\h'F,h'F,Virtual height of the bottom of the ionospheric F-layer.
 126,,\Outer Space\Ionospheric disturbances\hmF2,hmF2,Altitude of the peak density in the ionospheric F2 layer.
 127,,\Outer Space\Solar monitoring\EUV flux,EUV flux,Radiative flux integrated over the EUV band.
 128,,\Outer Space\Solar monitoring\EUV flux spectrum,EUV flux spectrum,Energy spectrum of the radiative flux measured in the EUV band.
-129,,\Outer Space\Solar monitoring\EUV sky image,EUV sky image,EUV image of the sky
+129,,\Outer Space\Solar monitoring\EUV sky image,EUV sky image,Extreme Ultra-Violet (EUV) image of the sky.
 130,,\Outer Space\Solar monitoring\Gamma-ray flux,Gamma-ray flux,Radiative flux integrated over the gamma-ray domain.
 131,,\Outer Space\Solar monitoring\Gamma-ray flux spectrum,Gamma-ray flux spectrum,Energy spectrum of the radiative flux measured in the gamma-ray domain.
 132,,\Outer Space\Solar monitoring\Heliospheric image,Heliospheric image,Image of the interplanetary space between the Sun and Earth
 133,,\Outer Space\Solar monitoring\Radio-waves,Radio-waves,"Travelling radio-waves of solar, galactic and extragalactic origin, entering the Earth's environment."
 134,,\Outer Space\Solar monitoring\Solar Ca II-K image,Solar Ca II-K image,Image of the Sun in the K-line of Ca-II(393.4 nm)
-135,,\Outer Space\Solar monitoring\Solar EUV flux,Solar EUV flux,Integrated EUV flux over the solar disk
-136,,\Outer Space\Solar monitoring\Solar EUV flux spectrum,Solar EUV flux spectrum,Energy spectrum of the EUV flux integrated over the solar disk.
+135,,\Outer Space\Solar monitoring\Solar EUV flux,Solar EUV flux,Integrated Extreme Ultra-Violet (EUV) flux over the solar disk.
+136,,\Outer Space\Solar monitoring\Solar EUV flux spectrum,Solar EUV flux spectrum,Energy spectrum of the Extreme Ultra-Violet (EUV) flux integrated over the solar disk.
 137,,\Outer Space\Solar monitoring\Solar EUV image,Solar EUV image,"Images of the Sun in the Extreme Ultra-Violet (EUV) wavelengths in order to identify features such as filaments, active regions and coronal holes."
 138,,\Outer Space\Solar monitoring\Solar H-alpha image,Solar H-alpha image,Image of the Sun in the Hydrogen-alpha transition wavelength (656.3 nm).
-139,,\Outer Space\Solar monitoring\Solar Lyman-alpha flux,Solar Lyman-alpha flux,Solar flux in the Hydrogen Lyman-alpha transition wavelength (121.6 nm)
-140,,\Outer Space\Solar monitoring\Solar Lyman-alpha image,Solar Lyman-alpha image,Image of the Sun in the Hydrogen Lyman-alpha transition wavelength (121.6 nm)
-141,,\Outer Space\Solar monitoring\Solar UV flux,Solar UV flux,Integrated UV flux over the solar disk.
+139,,\Outer Space\Solar monitoring\Solar Lyman-alpha flux,Solar Lyman-alpha flux,Solar flux in the Hydrogen Lyman-alpha transition wavelength (121.6 nm).
+140,,\Outer Space\Solar monitoring\Solar Lyman-alpha image,Solar Lyman-alpha image,Image of the Sun in the Hydrogen Lyman-alpha transition wavelength (121.6 nm).
+141,,\Outer Space\Solar monitoring\Solar UV flux,Solar UV flux,Integrated Ultra-Violet (UV) flux over the solar disk.
 142,,\Outer Space\Solar monitoring\Solar UV flux spectrum,Solar UV flux spectrum,Energy spectrum of the UV flux integrated over the solar disk.
 143,,\Outer Space\Solar monitoring\Solar UV image,Solar UV image,Images of the Sun in the UV wavelengths.
 144,,\Outer Space\Solar monitoring\Solar VIS flux,Solar VIS flux,Integrated VIS flux over the solar disk
@@ -53,19 +53,19 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 157,,\Outer Space\Solar monitoring\Solar radio image,Solar radio image,2D image of the solar radio flux
 158,,\Outer Space\Solar monitoring\Solar velocity fields,Solar velocity fields,"Map of 3D velocity of particles of the Solar atmosphere, significant of the Sun interior."
 159,,\Outer Space\Solar monitoring\Solar white light image,Solar white light image,Image of the Sun in white light
-160,,\Outer Space\Solar monitoring\UV flux,UV flux,Integrated UV flux.
-161,,\Outer Space\Solar monitoring\UV sky image,UV sky image,UV image of the sky
+160,,\Outer Space\Solar monitoring\UV flux,UV flux,Integrated Ultra-Violet (UV) flux.
+161,,\Outer Space\Solar monitoring\UV sky image,UV sky image,Ultra-Violet (UV)  image of the sky.
 162,,\Outer Space\Solar monitoring\X-ray flux,X-ray flux,Integrated X-ray flux.
 163,,\Outer Space\Solar monitoring\X-ray flux spectrum,X-ray flux spectrum,Energy spectrum of the integrated X-ray flux.
-164,,\Outer Space\Solar monitoring\X-ray sky image,X-ray sky image,X-ray image of the sky
-409,,\Outer Space\Energetic particles / solar wind \Particle density\Solar wind density,Solar wind density,Density of solar wind plasma
+164,,\Outer Space\Solar monitoring\X-ray sky image,X-ray sky image,X-ray image of the sky.
+409,,\Outer Space\Energetic particles / solar wind \Particle density\Solar wind density,Solar wind density,Density of solar wind plasma.
 511,,\Outer Space\Energetic particles / solar wind \Particle flux\Alpha particles differential directional flux,Alpha particles differential directional flux,
 512,,\Outer Space\Energetic particles / solar wind \Particle flux\Alpha particles integral directional flux,Alpha particles integral directional flux,"An alpha particle has positive charge and consists of two protons and two neutrons (the nucleus of a helium atom). Flux is the rate of flow through a reference surface, measured in particles per unit area.The directional flux is the flux limited to a certain solid angle as a function of the direction (pitch angle)."
 513,,\Outer Space\Energetic particles / solar wind \Particle flux\Cosmic ray neutron flux spectrum,Cosmic ray neutron flux spectrum,Flux density energy spectrum of neutrons from the Sun or as component of the cosmic radiation.
 514,,\Outer Space\Energetic particles / solar wind \Particle flux\Electron differential directional flux,Electron differential directional flux,"Flux density energy spectrum of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle"
 515,,\Outer Space\Energetic particles / solar wind \Particle flux\Electron flux density,Electron flux density,"Flux density of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium."
 516,,\Outer Space\Energetic particles / solar wind \Particle flux\Electron integral directional flux,Electron integral directional flux,"Flux density of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
-517,,\Outer Space\Energetic particles / solar wind \Particle flux\Heavy ion differential directional flux,Heavy ion differential directional flux,Flux density of heavy ions (eavier than Helium) per unit solid angle
+517,,\Outer Space\Energetic particles / solar wind \Particle flux\Heavy ion differential directional flux,Heavy ion differential directional flux,Flux density of heavy ions (heavier than Helium) per unit solid angle.
 518,,\Outer Space\Energetic particles / solar wind \Particle flux\Heavy ion integral directional flux,Heavy ion integral directional flux,Flux density of heavy ions ranging from Helium to Iron.
 519,,\Outer Space\Energetic particles / solar wind \Particle flux\Proton differential directional flux,Proton differential directional flux,"Flux density energy spectrum of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
 520,,\Outer Space\Energetic particles / solar wind \Particle flux\Proton integral directional flux,Proton integral directional flux,"Flux density of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium."
