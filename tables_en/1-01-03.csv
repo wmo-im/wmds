@@ -1,6 +1,6 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 13,,\Ocean\Topography\Bathymetry,Bathymetry,
-18,,\Ocean\Basic Physical Properties\Pressure,Pressure,Pressure(depth) measured by CTD
+18,,\Ocean\Basic Physical Properties\Pressure,Pressure,Pressure(depth) measured by CTD.
 62,,\Ocean\Currents\Ocean Current - Direction,Ocean Current - Direction,
 63,,\Ocean\Currents\Ocean Current - Speed,Ocean Current - Speed,Ocean motion measured at various depth levels.
 64,,\Ocean\Topography\Ocean dynamic topography (ODT),Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects) - Physical unit: [ cm ] - Accuracy unit: [ cm ].
@@ -13,15 +13,15 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 72,,\Ocean\Miscellaneous\Ocean suspended sediments concentration,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3 ). "
 73,,\Ocean\Miscellaneous\Oil spill cover,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
 74,,\Ocean\Biology\Primary production,Primary production,
-75,,\Ocean\Miscellaneous\Sea surface Mass Flux,Sea surface Mass Flux,Sea Surface Mass Flux
-76,,\Ocean\Miscellaneous\Sea surface heat flux,Sea surface heat flux,Sea Surface Heat Flux
-77,,\Ocean\Topography\Sea surface height anomaly (SSHA),Sea surface height anomaly (SSHA),Sea surface height anomaly
+75,,\Ocean\Miscellaneous\Sea surface Mass Flux,Sea surface Mass Flux,Sea Surface Mass Flux.
+76,,\Ocean\Miscellaneous\Sea surface heat flux,Sea surface heat flux,Sea Surface Heat Flux.
+77,,\Ocean\Topography\Sea surface height anomaly (SSHA),Sea surface height anomaly (SSHA),Sea surface height anomaly.
 78,,\Ocean\Miscellaneous\Total alkalinity (AT),Total alkalinity (AT),The amount of acid necessary to titrate all weak bases in seawater.
-79,,\Ocean\Miscellaneous\pH,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity"
+79,,\Ocean\Miscellaneous\pH,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity."
 82,,\Ocean\Biology\SiO3= (metasilicate),SiO3= (metasilicate),
 84,,"\Ocean\Other Gas\N2, Ar, O2 ","N2, Ar, O2 ",
 85,,\Ocean\Other Gas\O2/Ar ratio,O2/Ar ratio,
-86,,\Ocean\Other Gas\Ocean subsurface dissolved oxygen concentration,Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen
+86,,\Ocean\Other Gas\Ocean subsurface dissolved oxygen concentration,Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen.
 87,,"\Ocean\Other Gas\Oxygen, dissolved","Oxygen, dissolved",
 89,,\Ocean\Radiation\Water-leaving spectral radiance,Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle."
 90,,"\Ocean\Reactive Gas\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",
@@ -32,18 +32,18 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 96,,\Ocean\Topography\Coastal sea level (tide),Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)."
 98,,\Ocean\Waves\Dominant wave direction,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum - Physical unit: [ degrees ] - Accuracy unit: [ degrees ].
 99,,\Ocean\Waves\Dominant wave period,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
-100,,\Ocean\Waves\Significant wave height,Significant wave height,Average amplitude of the highest 30 of 100 waves.
+100,,\Ocean\Waves\Significant wave height,Significant wave height,Average amplitude of the highest 30 out of 100 waves.
 101,,\Ocean\Waves\Wave 1D energy frequency spectrum,Wave 1D energy frequency spectrum,1D variable colloquially referred to as "wave spectrum". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
 102,,\Ocean\Waves\Wave directional energy frequency spectrum,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g., 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)"
-103,,\Ocean\Wind\Wind stress,Wind stress,The shear force per unit area exerted by wind blowing over the sea surface - 
+103,,\Ocean\Wind\Wind stress,Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
 311,,\Ocean\Biology\Nitrogen species\NO2- (nitrite),NO2- (nitrite),Nitrite concentration in sea water.
 312,,\Ocean\Biology\Nitrogen species\NO3- (nitrate),NO3- (nitrate),Nitrate concentration in sea water.
-399,,\Ocean\Biology\Phosporus species\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water
+399,,\Ocean\Biology\Phosporus species\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water.
 400,,\Ocean\Biology\Phosporus species\Total organic phosphorus,Total organic phosphorus,
-401,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present
-402,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level
-403,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice motion,Sea-ice motion,Sea-ice motion
-404,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
+401,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
+402,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
+403,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
+404,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)."
 405,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
 406,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
 407,,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
@@ -51,13 +51,13 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 549,,\Ocean\Other Gas\CTD\pO2,pO2,
 731,,\Ocean\Basic Physical Properties\Conductivity,Conductivity,Conductivity measured by CTD or MicroCAT
 732,,\Ocean\Basic Physical Properties\Density,Density,Density measured by CTD
-733,,\Ocean\Biology\Zooplankton (size and/or development stage),Zooplankton (size and/or development stage),"the aggregate of animal or animal-like organisms in plankton, as protozoans"
-735,,\Ocean\Greenhouse Gas\pCO2,pCO2,Partial pressure of CO2 
+733,,\Ocean\Biology\Zooplankton (size and/or development stage),Zooplankton (size and/or development stage),"Aggregate of animal or animal-like organisms in plankton, as protozoans."
+735,,\Ocean\Greenhouse Gas\pCO2,pCO2,Partial pressure of CO2.
 736,,\Ocean\Greenhouse Gas\pCO2 air-sea flux,pCO2 air-sea flux,Flux of CO2 from the ocean into the atmosphere
-739,,\Ocean\Miscellaneous\Fluorescence (DOM),Fluorescence (DOM),Flurometric  colored dissolved Organic matter concentration
+739,,\Ocean\Miscellaneous\Fluorescence (DOM),Fluorescence (DOM),Flurometric coloured dissolved Organic matter concentration.
 740,,\Ocean\Topography\Mean dynamic topography (MDT),Mean dynamic topography (MDT),
 741,,\Ocean\Topography\Mean sea surface (MSS),Mean sea surface (MSS),
 742,,"\Ocean\Topography\Sea surface height (SSH, OST)","Sea surface height (SSH, OST)",
-743,,\Ocean\Waves\Wave height,Wave height, Average of height (trough to crest) of the waves collected through a specified time 
+743,,\Ocean\Waves\Wave height,Wave height,Average of height (trough to crest) of the waves sampled over a specified time period.
 744,,\Ocean\Waves\Wave period,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
 745,,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."

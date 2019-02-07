@@ -178,7 +178,7 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 428,,"\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\COS (OCS, carbon oxide sulfide, carbonyl sulfide)","COS (OCS, carbon oxide sulfide, carbonyl sulfide)",
 429,,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\CS2 (Carbon disulfide),CS2 (Carbon disulfide),
 430,,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\SO2,SO2,
-431,,\Atmosphere\Lightning\Position\Lightning detection (time and location),Lightning detection (time and location),"Detection of the time and location (latitude, longitude) of lightning events. Accuracy expressed in terms of Hit Rate and False Alarm Rate, which requires predetermination of a specific distance and time tolerance ."
+431,,\Atmosphere\Lightning\Position\Lightning detection (time and location),Lightning detection (time and location),"Detection of the time and location (latitude, longitude) of lightning events. Accuracy expressed in terms of Hit Rate and False Alarm Rate, which requires predetermination of a specific distance and time tolerance."
 432,,\Atmosphere\Lightning\Position\Lightning direction from station,Lightning direction from station,
 433,,\Atmosphere\Lightning\Position\Lightning distance from station,Lightning distance from station,
 434,,"\Atmosphere\Gas\Reactive Gas\VOC\C2H2 (ethyne, acetylene)","C2H2 (ethyne, acetylene)",
