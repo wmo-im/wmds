@@ -1,7 +1,7 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-estimate,,,Estimate,The value has been estimated rather than measured.
+suspect,,,Estimate,The data should be treated as suspect.
 good,,,Good,The data has been examined and represents a reliable measurement.
 missing,,,Missing,The data is missing.
-poor,,,Poor,The data should be considered as low quality and may have been rejected.
-suspect,,,Suspect,The data should be treated as suspect.
-unchecked,,,Unchecked,The data has not been checked by any qualitative or quantitative method.
+unchecked,,,Poor,The data has not been checked by any qualitative or quantitative method.
+poor,,,Suspect,The data should be considered as low quality and may have been rejected.
+estimate,,,Unchecked,The value has been estimated rather than measured.

@@ -4,6 +4,7 @@ ALB,,,Albania,Albania
 DZA,,,Algeria,Algeria
 AGO,,,Angola,Angola
 AIA,,,Anguilla,Anguilla
+ATA,,,Antarctica,Antarctica
 ATG,,,Antigua and Barbuda,Antigua and Barbuda
 ARG,,,Argentina,Argentina
 ARM,,,Armenia,Armenia
@@ -50,10 +51,9 @@ CRI,,,Costa Rica,Costa Rica
 CIV,,,Côte d'Ivoire,Cote d'Ivoire
 HRV,,,Croatia,Croatia
 CUB,,,Cuba,Cuba
-CUW,,,Curacao,Curacao
-CSM,,,Curacao and Sint Maarten,Curacao and Sint Maarten
+CUW,,,Curacao and Sint Maarten,Curacao and Sint Maarten
 CYP,,,Cyprus,Cyprus
-CZE,,,Czech Republic,Czech Republic
+CZE,,,Czechia,Czechia
 DNK,,,Denmark,Denmark
 DJI,,,Djibouti,Djibouti
 DMA,,,Dominica,Dominica
@@ -64,7 +64,6 @@ SLV,,,El Salvador,El Salvador
 GNQ,,,Equatorial Guinea,Equatorial Guinea
 ERI,,,Eritrea,Eritrea
 EST,,,Estonia,Estonia
-SWZ,,,Eswatini,Eswatini
 ETH,,,Ethiopia,Ethiopia
 FLK,,,Falkland Islands (Malvinas),Falkland Islands (Malvinas)
 FJI,,,Fiji,Fiji
@@ -161,7 +160,7 @@ POL,,,Poland,Poland
 PRT,,,Portugal,Portugal
 PRI,,,Puerto Rico,Puerto Rico
 QAT,,,Qatar,Qatar
-ROU,,,Romania,Romania
+ROM,,,Romania,Romania
 RUS,,,Russian Federation,Russian Federation
 RWA,,,Rwanda,Rwanda
 SHN,,,Saint Helena,Saint Helena
@@ -177,7 +176,6 @@ SRB,,,Serbia,Serbia
 SYC,,,Seychelles,Seychelles
 SLE,,,Sierra Leone,Sierra Leone
 SGP,,,Singapore,Singapore
-SXM,,,Sint Maarten,Sint Maarten
 SVK,,,Slovakia,Slovakia
 SVN,,,Slovenia,Slovenia
 SLB,,,Solomon Islands,Solomon Islands
@@ -189,6 +187,7 @@ ESP,,,Spain,Spain
 LKA,,,Sri Lanka,Sri Lanka
 SDN,,,Sudan,Sudan
 SUR,,,Suriname,Suriname
+SWZ,,,Swaziland,Swaziland
 SWE,,,Sweden,Sweden
 CHE,,,Switzerland,Switzerland
 SYR,,,Syrian Arab Republic,Syrian Arab Republic
@@ -211,7 +210,6 @@ UKR,,,Ukraine,Ukraine
 ARE,,,United Arab Emirates (the),United Arab Emirates (the)
 GBR,,,United Kingdom (the),United Kingdom (the)
 USA,,,United States (the),United States (the)
-NA,,,(unknown),
 URY,,,Uruguay,Uruguay
 UZB,,,Uzbekistan,Uzbekistan
 VUT,,,Vanuatu,Vanuatu
