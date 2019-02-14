@@ -11,4 +11,4 @@ seaMobile,,,Sea (mobile),"Station/platform at sea surface, moving around"
 seaOnIce,,,Sea (on ice),"Station/platform on floating ice, moving with the ice"
 spaceBased,,,Space-based,Satellite platform in orbit
 underwaterFixed,,,Underwater (fixed),"Station/platform under water, at fixed horizontal position"
-underwaterMobile,,,Underwater (mobile),"Station/platform under water, moving around"
+underwaterMobile,,,Underwater (mobile),"Station/platform under water, moving around also horizontally"
