@@ -1,5 +1,5 @@
 ﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e,Path_f,Name_f,Definition_f,Path_s,Name_s,Definition_s,Path_r,Name_r,Definition_r
-4-01-01-01,notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason),,Sans objet ,Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason).,,No se aplica,No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL),,Неприменимо,Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)
+4-01-01-01,inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation (nilReason),,Sans objet ,Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason).,,No se aplica,No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL),,Неприменимо,Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)
 4-01-01-02,water,,,Water,NA,,Eau,s.o.,,Agua,NA,,Вода,NA
 4-01-01-03,evergreenNeedleleafForest,,,Evergreen Needleleaf forest,NA,,Forêt sempervirente de conifères ,s.o.,,Bosque de hoja aciculada perenne,NA,,Вечнозеленый хвойный лес,NA
 4-01-01-04,evergreenBroadleafForest,,,Evergreen Broadleaf forest,NA,,Forêt sempervirente de feuillus ,s.o.,,Bosque de hoja ancha perenne,NA,,Вечнозеленый широколиственный лес,NA
@@ -9,7 +9,7 @@
 4-01-01-08,closedShrublands,,,Closed shrublands,NA,,Zone arbustive dense,s.o.,,Tierras de matorral espeso,NA,,"Закрытая местность, покрытая кустарником",NA
 4-01-01-09,openShrublands,,,Open shrublands,NA,,Zone arbustive claire,s.o.,,Tierras de matorral ralo,NA,,"Открытая местность, покрытая кустарником",NA
 4-01-01-10,woodySavannas,,,Woody savannas,NA,,Savane arborée,s.o.,,Sabanas boscosas,NA,,Лесистая саванна,NA
-4-01-01-11,svannas,,,Savannas,NA,,Savane,s.o.,,Sabanas,NA,,Саванна,NA
+4-01-01-11,savannas,,,Savannas,NA,,Savane,s.o.,,Sabanas,NA,,Саванна,NA
 4-01-01-12,grasslands,,,Grasslands,NA,,Prairie,s.o.,,Pastizales,NA,,Луга,NA
 4-01-01-13,permanentWetlands,,,Permanent wetlands,NA,,Zone humide permanente,s.o.,,Humedales permanentes,NA,,Постоянно заболоченная территория,NA
 4-01-01-14,croplands,,,Croplands,NA,,Terre cultivée,s.o.,,Tierras de cultivo,NA,,Пахотные земли,NA
@@ -17,4 +17,4 @@
 4-01-01-16,mosaic,,,Cropland/Natural vegetation mosaic,NA,,Mosaïque de terre cultivée/végétation naturelle ,s.o.,,Mosaico de tierras de cultivo o vegetación natural,NA,,Пахотная земля/Мозаичный естественный растительный покров,NA
 4-01-01-17,snowIce,,,Snow and ice,NA,,Neige et glace ,s.o.,,Nieve y hielo,NA,,Снег и лед,NA
 4-01-01-18,barren,,,Barren or sparsely vegetated,NA,,Terre nue ou végétation clairsemée,s.o.,,Tierra estéril o con escasa vegetación,NA,,Бесплодный участок земли или с минимальной растительностью,NA
-4-01-01-19,unclassified,,,Unclassified,NA,,Non classée ,s.o.,,Sin clasificar,NA,,Неклассифицированный,NA
+4-01-01-19,unknown,,,Unclassified,NA,,Non classée ,s.o.,,Sin clasificar,NA,,Неклассифицированный,NA
