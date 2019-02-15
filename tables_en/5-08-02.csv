@@ -1,4 +1,4 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-onSite,,,Field calibration,Instrument control activity performed on site
+onSite,,,On site calibration calibration,Instrument control activity performed on site
 laboratory,,,Laboratory calibration,Instrument control activity performed in the laboratory
 remote,,,Remote (non in-situ),Instrument control activity performed remotely
