@@ -1,10 +1,10 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-collectiveSt,,,Collective Standard,"A set of similar material measures or measuring instruments fulfilling, by their combined use, the role of a standard."
-internationalSt,,,International Standard,Measurement standard recognized by signatories to an international agreement and intended to serve worldwide.
-primarySt,,,Primary Standard,"Measurement standard established using a primary reference measurement procedure, or created as an artifact, chosen by convention."
-referenceSt,,,Reference Standard,Measurement standard designated for the calibration of other measurement standards for quantities of a given kind in a given organization or at a given location.
-secondarySt,,,Secondary Standard,Measurement standard established through calibration with respect to a primary measurement standard for a quantity of the same kind.
-transferSt,,,Transfer Standard,Device used as an intermediary to compare measurement standards.
-travellingSt,,,Travelling Standard,"Measurement standard, sometimes of special construction, intended for transport between different locations."
-workingSt,,,Working Standard,Measurement standard that is used routinely to calibrate or verify measuring instruments or measuring systems.
-nationalSt,,,National Standard,Measurement standard recognized by national authority to serve in a state or economy as the basis for assigning quantity values to other measurement standards for the kind of quantity concerned.
+collectiveSt,,,Collective Standard,"A set of similar material measures or measuring instruments fulfilling, by their combined use, the role of a standard. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf"
+internationalSt,,,International Standard,Measurement standard recognized by signatories to an international agreement and intended to serve worldwide. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
+primarySt,,,Primary Standard,"Measurement standard established using a primary reference measurement procedure, or created as an artifact, chosen by convention. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf"
+referenceSt,,,Reference Standard,Measurement standard designated for the calibration of other measurement standards for quantities of a given kind in a given organization or at a given location. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
+secondarySt,,,Secondary Standard,Measurement standard established through calibration with respect to a primary measurement standard for a quantity of the same kind. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
+transferSt,,,Transfer Standard,Device used as an intermediary to compare measurement standards. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
+travellingSt,,,Travelling Standard,"Measurement standard, sometimes of special construction, intended for transport between different locations. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf"
+workingSt,,,Working Standard,Measurement standard that is used routinely to calibrate or verify measuring instruments or measuring systems. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
+nationalSt,,,National Standard,Measurement standard recognized by national authority to serve in a state or economy as the basis for assigning quantity values to other measurement standards for the kind of quantity concerned. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
