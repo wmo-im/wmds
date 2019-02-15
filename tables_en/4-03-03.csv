@@ -4,7 +4,7 @@ guyots,,,within guyots,An undersea mountain having a comparatively smooth flat t
 hills,,,within hills,"Medium relief  (differences 250-1000 m within 5-10 km range) on land, tending to divergent form"
 hollows,,,within hollows,"Low relief  (differences 30-250 m within 5-10 km range) on land, tending to convergent form"
 mountains,,,within mountains,High relief (differences > 1000 m within 5-10 km range) on land
-notApplicable,,,(not applicable),
+inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
 plains,,,within plains,Very low relief  (differences <30 m within 5-10 km range) on land
 ridges,,,within ridges,"A long, narrow elevation with steep sides; or: A long, narrow elevation often separating ocean basins; or: The major oceanic mountain systems of global extent"
 rises,,,within rises,"Low relief (differences 30-250 m within 5-10 km range) on land, tending to divergent form"
