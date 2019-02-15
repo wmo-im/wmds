@@ -5,4 +5,4 @@ level2,,,Level II,"CIMO: Level II data (Meteorological parameters). They may be 
 level3,,,Level III,"CIMO: Level III (Initial state parameters) are internally consistent datasets, generally in grid-point form obtained from Level II data by applying established initialization procedures. NOTE: Data exchanged internationally are Level II or Level III data. CEOS: Geophysical information. Data or retrieved environmental variables which have been spatially and/or temporally re-sampled (i.e., derived from level 1 or 2 products). Such re-sampling may include averaging and compositing."
 level4,,,Level IV,"CEOS: Thematic information. Model output or results from analyses of lower level data (i.e., variables that are not directly measured by the instruments, but are derived from these measurements)."
 raw,,,Raw,"CEOS: Physical information: Data in their original packets, as received from a satellite"
-unknown,,,Unknown,
+unknown,,,(Unknown),The value is unknown or missing.
