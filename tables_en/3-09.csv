@@ -1,8 +1,8 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-closed,,,Closed,The station has been declared as closed by the responsible supervising organization
-nonReporting,,,Non-reporting,"The station is considered non-operational/non-reporting temporarily, but is expected to resume its operations/reporting after the temporary suspension"
-operational,,,Operational,The station fully complies with the reporting obligations of the observation programme/network concerned
-partlyOperational,,,Partly operational,The station partially complies with the reporting obligations of the observation programme/network concerned
-planned,,,Planned,"The station is planned to be deployed sometime in the future, and all information"
-preOperational,,,Pre-operational,The station is deployed and producing data but still not fully ready to start reporting operationally
+closed,,,Closed,The station has been declared as closed by the responsible supervising organization.
+nonReporting,,,Non-reporting,"The station is considered non-operational/non-reporting temporarily, but is expected to resume its operations/reporting after the temporary suspension."
+operational,,,Operational,The station fully complies with the reporting obligations of the observation programme/network concerned.
+partlyOperational,,,Partly operational,The station partially complies with the reporting obligations of the observation programme/network concerned.
+planned,,,Planned,"The station is planned to be deployed sometime in the future, and all information provided is indicative only. No observations are taken."
+preOperational,,,Pre-operational,The station is deployed and producing data but still not fully ready to start reporting operationally.
 standBy,,,Stand-by,NA
