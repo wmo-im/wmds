@@ -4,4 +4,4 @@ highest,,,at Highest,In the highest 5% of the elevation range
 low,,,at Low,Between 5% and 25% of the elevation range
 lowest,,,at Lowest,In the bottom 5% of the elevation range
 middle,,,at Middle,Between 25% and 75% of the elevation range
-inapplicable,,,(Inapplicable),"Inapplicable (topographic context is ""Plains"" or ""Basins"")"
+inapplicable,,,(inapplicable),"Inapplicable (topographic context is ""Plains"" or ""Basins"")"
