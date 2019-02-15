@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+﻿WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 165,,\Terrestrial\Ground water\Ground water (amount per unit area),Ground water (amount per unit area),Amount of water present beneath the ground surface per unit area.
 166,,\Terrestrial\Ground water\Ground water (level),Ground water (level),
 167,,\Terrestrial\Lake\Lake area,Lake area,Area extent of the surface of a lake.
@@ -23,7 +23,7 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 422,,\Terrestrial\Land surface\Greenhouse Gas\CO2 flux,CO2 flux,Flux of carbon dioxide from the surface to the atmosphere
 423,,\Terrestrial\Land surface\Vegetation\Biomass,Biomass,Total amount of vegetation in a reference area - Physical unit: [ t/ha (tons/hectare) ] - Accuracy unit: [ t/ha ]
 424,,\Terrestrial\Land surface\Vegetation\Fraction of vegetated land,Fraction of vegetated land,Fraction of a land area where vegetation is present.
-425,,\Terrestrial\Land surface\Vegetation\Leaf Area Index (LAI),Leaf Area Index (LAI),LAI (Leaf Area Index, LAI) is the total one-sided area of photosynthetic tissue per unit ground surface area 
+425,,\Terrestrial\Land surface\Vegetation\Leaf Area Index (LAI),Leaf Area Index (LAI),"LAI (Leaf Area Index, LAI) is the total one-sided area of photosynthetic tissue per unit ground surface area."
 426,,\Terrestrial\Land surface\Vegetation\Normalised Difference Vegetation Index (NDVI),Normalised Difference Vegetation Index (NDVI),"Difference between maximum (in NIR) and minimum (around the Red) vegetation reflectance, normalised to the summation. Representative of total biomass, supportive for computing LAI if not directly measured."
 427,,\Terrestrial\Land surface\Vegetation\Vegetation type,Vegetation type,"Result of the classification of different types of vegetation within a vegetated area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
 510,,\Terrestrial\Land surface\Humidity\Evaporation,Evaporation,Quantity of water evaporated from the soil and plants when the ground is at its natural moisture content.
@@ -36,10 +36,10 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 611,,\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier motion,Glacier motion,Velocity of the ice measured at the surface of a glacier.
 612,,\Terrestrial\Land surface\Snow / Ice / Glacier\Glacier\Glacier topography,Glacier topography,Map of the height of the glacier surface.
 613,,\Terrestrial\Land surface\Snow / Ice / Glacier\Ice\Ice sheet topography,Ice sheet topography,Map of ice sheet height over land .
-627,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Depth of fresh snowfall,Depth of fresh snowfall,
-628,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow cover (fraction of area),Snow cover (fraction of area),Fraction of a given area which is covered by snow.
-629,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow depth,Snow depth,"Vertical distance from the snow surface to the underlying surface (ground, glacier ice or sea ice)."
-630,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow status (wet/dry),Snow status (wet/dry),Binary product (dry or melting/thawing) expressing the presence of liquid water in a snow layer- Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].
-631,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow water equivalent,Snow water equivalent,Vertical depth of the water that would be obtained by melting a snow layer. Linked to snow depth through the density of the snow layer.
+627,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Depth of fresh snowfall,Depth of fresh snowfall,The vertical depth of freshly fallen snow that has accumulated during a specific period.
+628,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow cover extent,Snow cover extent,"The area of snow-covered ground, ice, or firn based on the fractional threshold used to define presence of snow."
+629,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow depth,Snow depth,"Vertical distance from the snow surface to the stated reference level (ground, glacier ice or sea ice)."
+630,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Snow surface state,Snow surface state,Binary product (dry or wet) expressing the presence of liquid water at the surface of the snow cover.
+631,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area. Linked to snow depth through the density of the snow layer."
 725,,\Terrestrial\Lake\Snow / Ice / Glacier\Ice\Ice thickness,Ice thickness,
 726,,\Terrestrial\River\Snow / Ice / Glacier\Ice\Ice thickness,Ice thickness,

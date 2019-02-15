@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+﻿WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 37,,\Atmosphere\Aerological soundings,Aerological soundings,
 39,,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 44,,\Atmosphere\Integrated air samples,Integrated air samples,
@@ -90,7 +90,7 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 307,,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)", Z component of wind vector  (horizontal and vertical profile)
 309,,"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",Horizontal component of wind as speed and direction.
 310,,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
-314,,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K. Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
+314,,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
 315,,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
 316,,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
 317,,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
