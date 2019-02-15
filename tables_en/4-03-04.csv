@@ -1,5 +1,5 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-notApplicable,,,(not applicable),
+inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
 greatDepth,,,of great depth,Between 1000 and 3000 m below mean sea level
 highAltitude,,,of high altitude,Between 1000 and 3000 m above mean sea level
 lowAltitude,,,of low altitude,Between 100 and 300 m above mean sea level
