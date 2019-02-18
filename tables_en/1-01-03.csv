@@ -33,7 +33,7 @@
 98,,\Ocean\Waves\Dominant wave direction,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum - Physical unit: [ degrees ] - Accuracy unit: [ degrees ].
 99,,\Ocean\Waves\Dominant wave period,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
 100,,\Ocean\Waves\Significant wave height,Significant wave height,Average amplitude of the highest 30 out of 100 waves.
-101,,\Ocean\Waves\Wave 1D energy frequency spectrum,Wave 1D energy frequency spectrum,1D variable colloquially referred to as "wave spectrum". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
+101,,\Ocean\Waves\Wave 1D energy frequency spectrum,Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
 102,,\Ocean\Waves\Wave directional energy frequency spectrum,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g., 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)"
 103,,\Ocean\Wind\Wind stress,Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
 311,,\Ocean\Biology\Nitrogen species\NO2- (nitrite),NO2- (nitrite),Nitrite concentration in sea water.
