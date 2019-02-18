@@ -6,9 +6,9 @@ evergreenBroadleafForest,,,Evergreen broadleaf forest,NA
 evergreenNeedleleafForest,,,Evergreen needleleaf forest,NA
 grassesCerealCrops,,,Grasses/Cereal crops,NA
 nonVegetated,,,Non vegetated,NA
-notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
+inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
 savannas,,,Savanna,NA
 shrubs,,,Shrubs,NA
-unclassified,,,Unclassified,NA
+unknown,,,(unknown),NA
 urban,,,Urban,NA
 water,,,Water,NA

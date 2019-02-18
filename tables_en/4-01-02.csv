@@ -8,10 +8,10 @@ evergreenBroadleafForest,,,Evergreen Broadleaf forest,NA
 evergreenNeedleleafForest,,,Evergreen Needleleaf forest,NA
 grasslands,,,Grasslands,NA
 mixedForest,,,Mixed forest,NA
-notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason).
+inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
 openShrublands,,,Open shrublands,NA
 savannas,,,Savannas,NA
-unclassified,,,Unclassified,NA
+unknown,,,(unknown),NA
 urbanBuiltup,,,Urban and built-up,NA
 water,,,Water,NA
 woodySavannas,,,Woody savannas,NA

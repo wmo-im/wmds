@@ -3,3 +3,4 @@ unknown,,,no changes (calibration unknown),Instrument visited but calibration co
 inCalibration,,,no changes (in calibration),"Instrument verified and found to be in calibration; no changes to calibration function"
 outOfCalibration,,,no changes (out of calibration),Instrument checked and found to be out of calibration; no changes to calibration function
 recalibrated,,,recalibrated (in calibration),Instrument checked and found to be out of calibration; instrument recalibrated (calibration function changed)
+inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation

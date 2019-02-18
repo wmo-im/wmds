@@ -1,4 +1,6 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 inactive,,,Not in service / inactive,The instrument is deployed but presently not in service
+inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation
 operational,,,Operational,The instrument is declared operational and subject to routine maintenance
 testing,,,Testing / commissioning,The instrument is deployed for testing purposes and the information provided may not be reliable
+unknown,,,(unknown),The instrument operating status is unknown
