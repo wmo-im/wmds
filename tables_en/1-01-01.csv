@@ -11,7 +11,7 @@
 183,,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 186,,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
 188,,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
-192,,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,1D variable colloquially referred to as "wave spectrum". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
+192,,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"1D variable colloquially referred to as "wave spectrum". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation" 
 193,,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
 194,,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
 195,,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],CO2 with C-13 isotope
