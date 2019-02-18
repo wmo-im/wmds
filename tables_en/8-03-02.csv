@@ -1,5 +1,5 @@
 WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-estimate,,,Estimate,The data is an estimate only, not a direct measurement.
+estimate,,,Estimate,"The data is an estimate only, not a direct measurement."
 good,,,Good,The data has been examined and represents a reliable measurement.
 missing,,,Missing,The data is missing.
 poor,,,Poor,The data should be considered as low quality and may have been rejected.
