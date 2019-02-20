@@ -29,7 +29,7 @@ Gy,,,Gy,gray
 Sv,,,Sv,sievert
 degree_(angle),,,°,degree (angle)
 ',,,',minute (angle)
-'',,,"U+0022",second (angle)
+'',,,'',second (angle)
 l,,,l or L,litre
 min,,,min,minute (time)
 h,,,h,hour
