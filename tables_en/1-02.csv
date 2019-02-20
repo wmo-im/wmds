@@ -1,144 +1,144 @@
-﻿WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-m,,,m,metre
-kg,,,kg,kilogram
-s,,,s,second
-A,,,A,ampere
-K,,,K,kelvin
-mol,,,mol,mole
-cd,,,cd,candela
-rad,,,rad,radian
-sr,,,sr,steradian
-Hz,,,Hz,hertz
-N,,,N,newton
-Pa,,,Pa,pascal
-J,,,J,joule
-W,,,W,watt
-C,,,C,coulomb
-V,,,V,volt
-F,,,F,farad
-Ohm,,,O,ohm
-S,,,S,siemens
-Wb,,,Wb,weber
-T,,,T,tesla
-H,,,H,henry
-Cel,,,°C,degree Celsius
-lm,,,lm,lumen
-lx,,,lx,lux
-Bq,,,Bq,becquerel
-Gy,,,Gy,gray
-Sv,,,Sv,sievert
-degree_(angle),,,°,degree (angle)
-',,,',minute (angle)
-'',,,'',second (angle)
-l,,,l or L,litre
-min,,,min,minute (time)
-h,,,h,hour
-d,,,d,day
-t,,,t,tonne
-eV,,,eV,electron volt
-u,,,u,atomic mass unit
-AU,,,AU,astronomic unit
-pc,,,pc,parsec
-nautical_mile,,,,nautical mile
-kt,,,kt,knot
-dB,,,dB,decibel
-ha,,,ha,hectare
-week,,,,week
-a,,,a,year
-percent,,,%,per cent
-0.001,,,‰,parts per thousand
-okta,,,okta,eighths of cloud
-degrees_true,,,°,degrees true
-deg_s-1,,,degree/s,degrees per second
-degC,,,°C,degrees Celsius
-C_m-1,,,°C/m,degrees Celsius per metre
-C_-1,,,°C/100 m,degrees Celsius per 100 metres
-DU,,,DU,Dobson Unit
-mon,,,mon,month
-s-1,,,s?¹,per second (same as hertz)
-s-2,,,s?²,per second squared
-kt_km-1,,,kt/1000 m,knots per 1000 metres
-ft,,,ft,foot
-in,,,in,inch
-dPa_s-1,,,dPa s?¹,decipascals per second (microbar per second)
-cb_s-1,,,cb s?¹,centibars per second
-cb_-1,,,cb/12 h,centibars per 12 hours
-daPa,,,daPa,dekapascal
-hPa,,,hPa,hectopascal
-hPa_s-1,,,hPa s?¹,hectopascals per second
-hPa_h-1,,,hPa h?¹,hectopascals per hour
-hPa_-1,,,hPa/3 h,hectopascals per 3 hours
-nbar,,,nbar,nanobar = hPa 10?6
-g_kg-1,,,g kg?¹,grams per kilogram
-g_kg-1_s-1,,,g kg?¹ s?¹,grams per kilogram per second
-kg_kg-1,,,kg kg?¹,kilograms per kilogram
-kg_kg-1_s-1,,,kg kg?¹ s?¹,kilograms per kilogram per second
-kg_m-2,,,kg m?²,kilograms per square metre
-g,,,g,acceleration due to gravity
-gpm,,,gpm,geopotential metre
-mm,,,mm,millimetre
-mm_s-1,,,mm s?¹,millimetres per second
-mm_h-1,,,mm h?¹,millimetres per hour
-mm6_m-3,,,mm6 m?³,millimetres to the sixth power per cubic metre
-cm,,,cm,centimetre
-cm_s-1,,,cm s?¹,centimetres per second
-cm_h-1,,,cm h?¹,centimetres per hour
-dm,,,dm,decimetre
-m_s-1,,,m s?¹,metres per second
-m_s-1_m-1,,,m s?¹/m,metres per second per metre
-m_s-1_km-1,,,m s?¹/1000 m,metres per second per 1000 metres
-m2,,,m²,square metres
-m2_s-1,,,m² s?¹,square metres per second
-km,,,km,kilometre
-km_h-1,,,km h?¹,kilometres per hour
-km_d-1,,,km/d,kilometres per day
-m-1,,,m?¹,per metre
-Bq_l-1,,,Bq l?¹,becquerels per litre
-Bq_m-2,,,Bq m?²,becquerels per square metre
-Bq_m-3,,,Bq m?³,becquerels per cubic metre
-mSv,,,mSv,millisievert
-m_s-2,,,m s?²,metres per second squared
-m2_s,,,m² s,square metres second
-m2_s-2,,,m² s?²,square metres per second squared
-m2_rad-1_s,,,m² rad?¹ s,square metres per radian second
-m2_Hz-1,,,m² Hz?¹,square metres per hertz
-m3,,,m³,cubic metres
-m3_s-1,,,m³ s?¹,cubic metres per second
-m3_m-3,,,m³ m?³,cubic metres per cubic metre
-m4,,,m4,metres to the fourth power
-m2_-1,,,m? s?¹,metres to the two thirds power per second
-log_(m-1),,,log (m?¹),logarithm per metre
-log_(m-2),,,log (m?²),logarithm per square metre
-kg_m-1,,,kg m?¹,kilograms per metre
-kg_m-2_s-1,,,kg m?² s?¹,kilograms per square metre per second
-kg_m-3,,,kg m?³,kilograms per cubic metre
-kg-2_s-1,,,kg?² s?¹,per square kilogram per second
-s_m-1,,,s m?¹,seconds per metre
-K_m_s-1,,,K m s?¹,kelvin metres per second
-K_m-1,,,K m?¹,kelvins per metre
-K_m2_kg-1_s-1,,,K m² kg?¹ s?¹,kelvin square metres per kilogram per second
-mol_mol-1,,,mol mol?¹,moles per mole
-rad_m-1,,,rad m?¹,radians per metre
-N_m-2,,,N m?²,newtons per square metre
-Pa_s-1,,,Pa s?¹,pascals per second
-kPa,,,kPa,kilopascal
-J_m-2,,,J m?²,joules per square metre
-J_kg-1,,,J kg?¹,joules per kilogram
-W_m-1_sr-1,,,W m?¹ sr?¹,watts per metre per steradian
-W_m-2,,,W m?²,watts per square metre
-W_m-2_sr-1,,,W m?² sr?¹,watts per square metre per steradian
-W_m-2_sr-1_cm,,,W m?² sr?¹ cm,watts per square metre per steradian centimetre
-W_m-2_sr-1_m,,,W m?² sr?¹ m,watts per square metre per steradian metre
-W_m-3_sr-1,,,W m?³ sr?¹,watts per cubic metre per steradian
-S_m-1,,,S m?¹,siemens per metre
-deg2,,,degree²,square degrees
-Bq_s_m-3,,,Bq s m?³,becquerel seconds per cubic metre
-dB_m-1,,,dB m?¹,decibels per metre
-dB_deg-1,,,dB degree?¹,decibels per degree
-pH_unit,,,pH unit,pH unit
-N_units,,,N units,N units
-unknown,,,,(unknown)
-kHz,,,kHz,kilohertz
-MHz,,,MHz,megahertz
-GHz,,,GHz,gigahertz
-THz,,,THz,terahertz
+WMO306CD_efrs	QualityFlagSysURL_efrs	Path_e	Name_e	Definition_e
+m			metre	
+kg			kilogram	
+s			second	
+A			ampere	
+K			kelvin	
+mol			mole	
+cd			candela	
+rad			radian	
+sr			steradian	
+Hz			hertz	
+N			newton	
+Pa			pascal	
+J			joule	
+W			watt	
+C			coulomb	
+V			volt	
+F			farad	
+Ohm			ohm	
+S			siemens	
+Wb			weber	
+T			tesla	
+H			henry	
+Cel			degree Celsius	
+lm			lumen	
+lx			lux	
+Bq			becquerel	
+Gy			gray	
+Sv			sievert	
+degree_(angle)			degree (angle)	
+'			minute (angle)	
+''			second (angle)	
+l			litre	
+min			minute (time)	
+h			hour	
+d			day	
+t			tonne	
+eV			electron volt	
+u			atomic mass unit	
+AU			astronomic unit	
+pc			parsec	
+nautical_mile			nautical mile	
+kt			knot	
+dB			decibel	
+ha			hectare	
+week			week	
+a			year	
+percent			per cent	
+0.001			parts per thousand	
+okta			eighths of cloud	
+degrees_true			degrees true	
+deg_s-1			degrees per second	
+degC			degrees Celsius	
+C_m-1			degrees Celsius per metre	
+C_-1			degrees Celsius per 100 metres	
+DU			Dobson Unit	
+mon			month	
+s-1			per second (same as hertz)	
+s-2			per second squared	
+kt_km-1			knots per 1000 metres	
+ft			foot	
+in			inch	
+dPa_s-1			decipascals per second (microbar per second)	
+cb_s-1			centibars per second	
+cb_-1			centibars per 12 hours	
+daPa			dekapascal	
+hPa			hectopascal	
+hPa_s-1			hectopascals per second	
+hPa_h-1			hectopascals per hour	
+hPa_-1			hectopascals per 3 hours	
+nbar			nanobar = hPa 10?6	
+g_kg-1			grams per kilogram	
+g_kg-1_s-1			grams per kilogram per second	
+kg_kg-1			kilograms per kilogram	
+kg_kg-1_s-1			kilograms per kilogram per second	
+kg_m-2			kilograms per square metre	
+g			acceleration due to gravity	
+gpm			geopotential metre	
+mm			millimetre	
+mm_s-1			millimetres per second	
+mm_h-1			millimetres per hour	
+mm6_m-3			millimetres to the sixth power per cubic metre	
+cm			centimetre	
+cm_s-1			centimetres per second	
+cm_h-1			centimetres per hour	
+dm			decimetre	
+m_s-1			metres per second	
+m_s-1_m-1			metres per second per metre	
+m_s-1_km-1			metres per second per 1000 metres	
+m2			square metres	
+m2_s-1			square metres per second	
+km			kilometre	
+km_h-1			kilometres per hour	
+km_d-1			kilometres per day	
+m-1			per metre	
+Bq_l-1			becquerels per litre	
+Bq_m-2			becquerels per square metre	
+Bq_m-3			becquerels per cubic metre	
+mSv			millisievert	
+m_s-2			metres per second squared	
+m2_s			square metres second	
+m2_s-2			square metres per second squared	
+m2_rad-1_s			square metres per radian second	
+m2_Hz-1			square metres per hertz	
+m3			cubic metres	
+m3_s-1			cubic metres per second	
+m3_m-3			cubic metres per cubic metre	
+m4			metres to the fourth power	
+m2_-1			metres to the two thirds power per second	
+log_(m-1)			logarithm per metre	
+log_(m-2)			logarithm per square metre	
+kg_m-1			kilograms per metre	
+kg_m-2_s-1			kilograms per square metre per second	
+kg_m-3			kilograms per cubic metre	
+kg-2_s-1			per square kilogram per second	
+s_m-1			seconds per metre	
+K_m_s-1			kelvin metres per second	
+K_m-1			kelvins per metre	
+K_m2_kg-1_s-1			kelvin square metres per kilogram per second	
+mol_mol-1			moles per mole	
+rad_m-1			radians per metre	
+N_m-2			newtons per square metre	
+Pa_s-1			pascals per second	
+kPa			kilopascal	
+J_m-2			joules per square metre	
+J_kg-1			joules per kilogram	
+W_m-1_sr-1			watts per metre per steradian	
+W_m-2			watts per square metre	
+W_m-2_sr-1			watts per square metre per steradian	
+W_m-2_sr-1_cm			watts per square metre per steradian centimetre	
+W_m-2_sr-1_m			watts per square metre per steradian metre	
+W_m-3_sr-1			watts per cubic metre per steradian	
+S_m-1			siemens per metre	
+deg2			square degrees	
+Bq_s_m-3			becquerel seconds per cubic metre	
+dB_m-1			decibels per metre	
+dB_deg-1			decibels per degree	
+pH_unit			pH unit	
+N_units			N units	
+unknown			(unknown)	
+kHz			kilohertz	
+MHz			megahertz	
+GHz			gigahertz	
+THz			terahertz	
