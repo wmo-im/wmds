@@ -1,0 +1,5 @@
+﻿UNCERTAINTY_EVAL_PROC_ID,DESCRIPTION_SHORT_TX,DESCRIPTION_LONG_TX,WMO306_CD
+1,GUM,Guide for the Expression of Uncertainty in Measurement (JCGM 100:2008),gum
+2,(other),Uncertainty estimates derived by other means,other
+3,(not available),No uncertainty estimates available,notAvailable
+4,(not applicable),Not applicable,notApplicable
