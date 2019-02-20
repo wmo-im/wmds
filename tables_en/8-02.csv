@@ -1,0 +1,6 @@
+﻿WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+gum,,,GUM,Guide for the Expression of Uncertainty in Measurement (JCGM 100:2008)
+other,,,(other),Uncertainty estimates derived by other means
+notAvailable,,,(not available),No uncertainty estimates available
+inapplicable,,,(inapplicable),Inapplicable
+unknown,,,(unknown),Procedure used to estimate uncertainty is unknown.
