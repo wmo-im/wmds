@@ -43,3 +43,5 @@
 631,,\Terrestrial\Land surface\Snow / Ice / Glacier\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area. Linked to snow depth through the density of the snow layer."
 725,,\Terrestrial\Lake\Snow / Ice / Glacier\Ice\Ice thickness,Ice thickness,
 726,,\Terrestrial\River\Snow / Ice / Glacier\Ice\Ice thickness,Ice thickness,
+800,,,(unknown),The variable is unknown.
+801,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
