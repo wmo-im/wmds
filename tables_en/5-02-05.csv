@@ -7,3 +7,4 @@ WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
 194,,\Terrestrial\Soil temperature\In situ\Soil thermometer,Soil thermometer,
 200,,\Terrestrial\Soil moisture\In situ\Tensiometer,Tensiometer,
 203,,\Terrestrial\Soil moisture\In situ\Time domain reflectometry (TDR),Time domain reflectometry (TDR),
+341,,,(unknown),The measurement/observing method is unknown.
