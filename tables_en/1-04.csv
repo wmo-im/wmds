@@ -5,4 +5,6 @@ ID,NAME_TX,DEFINITION_TX,WMO306_CD,Status
 4,Line,"a one-dimensional feature, either a straight line, or a curve; synonmous with trajectory",line,approved
 5,Area,"a two-dimensional feature, either a plane, or some other surface",area,approved
 6,Volume,a three-dimensional feature,volume,approved
-7,(unspecified),observing geometry unspecified,unspecified,approved
+7,(unknown),observing geometry unknown,unknown,approved
+8,(inapplicable),observing geometry inapplicable,inapplicable,approved
+
