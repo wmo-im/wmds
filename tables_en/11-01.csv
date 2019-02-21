@@ -8,3 +8,5 @@ gps,,,GPS,Location determined using the Global Positioning System. http://www.gp
 iridiumDoppler,,,IRIDIUM DOPPLER,Location determined using the frequency shift of transmissions to the Iridium communications satellite constellation. https://www.iridium.com/
 loran,,,LORAN,Location determined using the LORAN (LOng RAnge Navigation) hyperbolic radio system.
 survey,,,Survey,Location determined using a geographic survey.
+unknown,,,(unknown),The coordinates source/service is unknown.
+inapplicable,,,(inapplicable),None of the codes in the table are applicable.

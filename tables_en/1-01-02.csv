@@ -6,3 +6,5 @@
 10,,\Earth\Geomagnetic field,Geomagnetic field,"Magnitude and direction of the 3D magnetic field on the surface of Earth and within the magnetosphere (i.e., in low-Earth orbit and in geosynchronous orbit)."
 11,,\Earth\Gravity field,Gravity field,Indicative of the statics and dynamics of the lithosphere and the mantle - Physical unit: [ mGal ] where : 1 Gal = 0.01 m s-2.
 12,,\Earth\Gravity gradients,Gravity gradients,"Gradient of the Earth's gravity field measured at the satellite orbital height - Physical unit: [ E ] , Eötvös (1 E = 1 mGal / 10 km) - Accuracy unit: [ E ]."
+800,,,(unknown),The variable is unknown.
+801,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.

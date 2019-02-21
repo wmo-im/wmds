@@ -5,7 +5,7 @@ deciduousNeedleleafVegetation,,,Deciduous needleleaf vegetation,NA
 evergreenBroadleafVegetation,,,Evergreen broadleaf vegetation,NA
 evergreenNeedleleafVegetation,,,Evergreen needleleaf vegetation,NA
 nonVegetated,,,Non-vegetated land,NA
-notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
-unclassified,,,Unclassified,NA
+inapplicable,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
+unknown,,,(unknown),NA
 urban,,,Urban,NA
 water,,,Water,NA

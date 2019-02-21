@@ -4,4 +4,5 @@ class2,,,Class 2,Exposure of instrument has small or infrequence influence on me
 class3,,,Class 3,Exposure of instrument leads to increased uncertainty or occasional invalid measurements
 class4,,,Class 4,Exposure of instrument leads to high uncertainty or regular invalid measurements
 class5,,,Class 5,Exposure of instrument leads to invalid measurements
-unspecified,,,(unspecified),Classification not specified
+inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation
+unknown,,,(unknown),Classification unknown

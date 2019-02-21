@@ -10,6 +10,6 @@ FillValue,,,Fill Value,NA
 grass,,,Grass,NA
 shrub,,,Shrub,NA
 snowIce,,,Snow and ice,NA
-unclassified,,,Unclassified,NA
+unknown,,,(unknown),NA
 urbanBuiltUp,,,Urban and built-up,NA
-water,,,Water,None of the codes in the table are applicable in the context of this particular observation (nilReason)
+water,,,Water,NA
