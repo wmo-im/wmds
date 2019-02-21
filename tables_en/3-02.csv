@@ -211,7 +211,6 @@ UKR,,,Ukraine,Ukraine
 ARE,,,United Arab Emirates (the),United Arab Emirates (the)
 GBR,,,United Kingdom (the),United Kingdom (the)
 USA,,,United States (the),United States (the)
-NA,,,(unknown),
 URY,,,Uruguay,Uruguay
 UZB,,,Uzbekistan,Uzbekistan
 VUT,,,Vanuatu,Vanuatu
@@ -221,3 +220,5 @@ ESH,,,Western Sahara,Western Sahara
 YEM,,,Yemen,Yemen
 ZMB,,,Zambia,Zambia
 ZWE,,,Zimbabwe,Zimbabwe
+unknown,,,(unknown),
+inapplicable,,,(inapplicable),
