@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 collectiveSt,,,Collective Standard,"A set of similar material measures or measuring instruments fulfilling, by their combined use, the role of a standard. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf"
 internationalSt,,,International Standard,Measurement standard recognized by signatories to an international agreement and intended to serve worldwide. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
 primarySt,,,Primary Standard,"Measurement standard established using a primary reference measurement procedure, or created as an artifact, chosen by convention. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf"
