@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 globCover2009,,,Surface cover types (GlobCover2009),GlobCover 2009 land cover map is derived by an automatic and regionally-tuned classification of a time series of global MERIS FR mosaics for the year 2009. The global land cover map counts 22 land cover classes defined with the United Nations (UN) Land Cover Classification System (LCCS). 
 igbp,,,Surface cover types (IGBP),International Geosphere-Biosphere Programme land cover classification scheme
 laifpar,,,Surface cover types (LAI/fPAR),Leaf Area Index (LAI) and Fractional Photosynthetically Active Radiation (FPAR). FPAR/LAI is the Fraction of Absorbed Photosynthetically Active radiation that a plant canopy absorbs for photosynthesis and growth in the 0.4 - 0.7nm spectral range.
