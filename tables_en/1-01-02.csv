@@ -1,4 +1,4 @@
-﻿WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+﻿notation,QualityFlagSysURL_efrs,path,name,description
 6,,\Earth\Crustal motion (horizontal and vertical),Crustal motion (horizontal and vertical),"Changes in time of the position and height of the Earth plates. Indicative of the lithosphere dynamics, thus useful for earthquake prediction - Physical unit: [ mm/y ] - Accuracy unit: [ mm/y ]."
 7,,\Earth\Crustal plates positioning,Crustal plates positioning,Basis for monitoring the evolution of the lithosphere dynamics - Physical unit: [ cm ] - Accuracy unit: [ cm ].
 8,,\Earth\Earth Rotation,Earth Rotation,"Rotation velocity of the Earth, determining the length of the day - Physical unit: [Rad/s] - Accuracy unit: [Arcsec/century]."
