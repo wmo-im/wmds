@@ -1,7 +1,7 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-noLimitation,,,(unspecified),No limitation on distribution or use
-WMOAdditional,,,WMOAdditional,WMO Additional Data: free and unrestricted access to data and products exchanged under the auspices of WMO to the research and education communities for non-commercial activities. A more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider – which may necessitate dialogue with the data publisher for confirmation of terms and conditions.
-WMOEssential,,,WMOEssential,WMO Essential Data: free and unrestricted international exchange of basic data and products.
-WMOOther,,,WMOOther,"Data identified for global distribution via WMO infrastructure (GTS / WIS) that is not covered by WMO Resolution 25 neither WMO Resolution 40; e.g. aviation OPMET data. Data marked with """"WMOOther"""" data policy shall be treated like """"WMOAdditional"""" where a more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider – which may necessitate dialogue with the data publisher for confirmation of terms and conditions."
-unknown,,,(unknown),unknown
-inapplicable,,,(inapplicable),inapplicable
+notation,name,description
+noLimitation,(unspecified),No limitation on distribution or use
+WMOAdditional,WMOAdditional,WMO Additional Data: free and unrestricted access to data and products exchanged under the auspices of WMO to the research and education communities for non-commercial activities. A more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider – which may necessitate dialogue with the data publisher for confirmation of terms and conditions.
+WMOEssential,WMOEssential,WMO Essential Data: free and unrestricted international exchange of basic data and products.
+WMOOther,WMOOther,"Data identified for global distribution via WMO infrastructure (GTS / WIS) that is not covered by WMO Resolution 25 neither WMO Resolution 40; e.g. aviation OPMET data. Data marked with """"WMOOther"""" data policy shall be treated like """"WMOAdditional"""" where a more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider – which may necessitate dialogue with the data publisher for confirmation of terms and conditions."
+unknown,(unknown),unknown
+inapplicable,(inapplicable),inapplicable
