@@ -34,19 +34,19 @@
 
 [3-09.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/3-09.csv) Station operating status
 
-[4-01-01.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-01.csv) Land cover types (IGBP)
+[4-01-01.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-01.csv) Surface cover types (IGBP)
 
-[4-01-02.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-02.csv) Land cover types (UMD)
+[4-01-02.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-02.csv) Surface cover types (UMD)
 
-[4-01-03.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-03.csv) Land cover types (LAU/fPAR)
+[4-01-03.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-03.csv) Surface cover types (LAU/fPAR)
 
-[4-01-04.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-04.csv) Land cover types (NPP)
+[4-01-04.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-04.csv) Surface cover types (NPP)
 
-[4-01-05.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-05.csv) Land cover types (PFT)
+[4-01-05.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-05.csv) Surface cover types (PFT)
 
-[4-01-06.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-06.csv) Land cover types (LCCS)
+[4-01-06.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-06.csv) Surface cover types (LCCS)
 
-[4-01-07.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-07.csv)
+[4-01-07.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-07.csv) Surface cover types (?)
 
 [4-02.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-02.csv) Surface cover classification scheme
 
