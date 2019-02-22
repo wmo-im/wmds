@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 chaotic,,,Chaotic (City centre with high and low-rise buildings),Centres of large towns with mixture of low-rise and high-rise buildings. Also irregular large forests with many clearings. (zo ≥ 2)
 closed,,,"Closed (Regular large obstacle COVER (suburb, forest))","Landscape totally and quite regularly covered with similar size large obstacles, with open spaces comparable to the obstacle heights; e.g. mature regular forests, homogeneous cities or villages. (zo 1.0)"
 inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation
