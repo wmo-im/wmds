@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 beginning,,,Beginning,Time stamps indicate the end of a period covering the range up to but excluding the preceding time stamp
 end,,,End,Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp.
 inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
