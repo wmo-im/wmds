@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 closed,,,Closed,The station has been declared as closed by the responsible supervising organization.
 inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular station/platform.
 nonReporting,,,Non-reporting,"The station is considered non-operational/non-reporting temporarily, but is expected to resume its operations/reporting after the temporary suspension."
