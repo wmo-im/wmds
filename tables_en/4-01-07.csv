@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 urbanBuiltup,,,Artificial surfaces and associated areas (Urban areas >50%),NA
 bareAreas,,,Bare areas,NA
 closedDeciduousBroadleafForest,,,Closed (>40%) broadleaved deciduous forest (>5m),NA
