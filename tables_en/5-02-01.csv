@@ -1,4 +1,4 @@
-﻿WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 24,,\Atmosphere\Clouds\Human observation,Human observation,
 58,,"\Atmosphere\Ozone\Remote-sensing, passive\(Optical) filter Instrument",(Optical) filter Instrument,
 59,,\Atmosphere\Precipitation\In situ\(Ruler for) rain gauge,(Ruler for) rain gauge,
