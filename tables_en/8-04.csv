@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 other,NA,,Other quality flagging system,Quality flags are specified according to another system
 unknown,NA,,(unknown),Quality flagging system not known
 waterML2.0,http://www.opengis.net/def/waterml/2.0/quality/,,WaterML2,"Quality flags are specified according to WaterML2, http://www.opengis.net/def/waterml/2.0/quality/"
