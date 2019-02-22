@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 aeronauticalMeteorology,,,Aeronautical meteorology,"Aeronautical meteorology covers worldwide, reliable provision of high quality, timely and cost-effective meteorological services to aviation users."
 agriculturalMeteorology,,,Agricultural meteorology,Agricultural Meteorology relates to specific weather and climate services addressed to the agricultural community to help develop sustainable agricultural production systems. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Agriculture.pdf
 atmosphericCompositionForecasting,,,Forecasting atmospheric composition,Applications from global to regional scales (with horizontal resolutions similar to global NWP (~10 km and coarser) with stringent timeliness requirements (NRT) to support operations such as sand and dust storm and chemical weather forecasts [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]
