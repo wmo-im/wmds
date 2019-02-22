@@ -1,8 +1,8 @@
-Project name: WMDS Codetables English
+**Project name:** WMDS Codetables English
 
-Description: This directory contains the English versions of the WMDS Codetables. 
+**Description:** This directory contains the English versions of the WMDS Codetables. 
 
-Table of Contents: 
+**Table of Contents:**
 
 [1-01-01.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/1-01-01.csv) Observed variable - measurand (atmosphere)
 
