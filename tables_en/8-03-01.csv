@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 suspect,,,Doubtful,The data should be treated as suspect.
 estimate,,,Estimated,The value has been estimated rather than measured.
 good,,,Good,The data has been examined and represents a reliable measurement.
