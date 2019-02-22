@@ -1,448 +1,448 @@
-﻿notation,QualityFlagSysURL_efrs,path,name,description
-37,,\Atmosphere\Aerological soundings,Aerological soundings,
-39,,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
-44,,\Atmosphere\Integrated air samples,Integrated air samples,
-56,,\Atmosphere\Special phenomena,Special phenomena,
-57,,\Atmosphere\State of ground,State of ground,
-179,,\Atmosphere\Clouds\Cloud amount,Cloud amount,
-180,,\Atmosphere\Clouds\Cloud cover,Cloud cover,
-181,,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"Size distribution of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
-182,,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
-183,,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
-186,,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
-188,,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
-192,,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
-193,,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
-194,,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
-195,,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],CO2 with C-13 isotope
-196,,\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18],CO2 [O-18],CO2 with O-18 isotope
-201,,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,N2O
-203,,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,SF6
-204,,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride)
-205,,\Atmosphere\Gas\Other Gas\H2,H2,H2
-206,,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),3D field of mole fraction of H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
-207,,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
-210,,\Atmosphere\Precipitation\Amount of precipitation,Amount of precipitation,
-211,,\Atmosphere\Precipitation\Duration of precipitation,Duration of precipitation,
-212,,\Atmosphere\Precipitation\Intensity of precipitation,Intensity of precipitation,
-213,,\Atmosphere\Precipitation\Occurrence of precipitation during last period (yes/no),Occurrence of precipitation during last period (yes/no),
-214,,\Atmosphere\Precipitation\Rate of ice accretion,Rate of ice accretion,
-215,,\Atmosphere\Precipitation\Type of precipitation,Type of precipitation,
-216,,\Atmosphere\Pressure\Atmospheric pressure,Atmospheric pressure,
-217,,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,
-218,,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,
-219,,\Atmosphere\Radionuclide\Beryllium [Be-7],Beryllium [Be-7],
-220,,\Atmosphere\Radionuclide\CO2 [C-14],CO2 [C-14],CO2 with C-14 isotope
-221,,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],Krypton (Kr-85 isotope)
-222,,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (Pb-210 isotope)
-223,,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
-224,,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
-225,,\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface),Dew-point temperature (at specified distance from reference surface),
-226,,"\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)","Extreme temperature (min, max) (at specified distance from reference surface)",
-227,,\Atmosphere\Temperature\Temperature profile,Temperature profile,
-229,,\Atmosphere\Visibility\Runway visual range,Runway visual range,
-230,,\Atmosphere\Visibility\Visibility,Visibility,
-248,,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
-249,,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
-250,,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
-251,,\Atmosphere\Humidity\Humidity  (at specified distance from reference surface),Humidity  (at specified distance from reference surface),
-252,,\Atmosphere\Humidity\Integrated water vapour,Integrated water vapour,
-253,,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
-254,,\Atmosphere\Humidity\Object wetness duration,Object wetness duration,
-255,,\Atmosphere\Humidity\Water vapour pressure,Water vapour pressure,
-256,,\Atmosphere\Humidity\Watervapor profile,Watervapor profile,
-257,,\Atmosphere\Lightning\Lightning discharge energy,Lightning discharge energy,
-258,,\Atmosphere\Lightning\Lightning discharge polarity,Lightning discharge polarity,
-259,,\Atmosphere\Lightning\Lightning discharge rates,Lightning discharge rates,
-260,,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)","Lightning discharge type (cloud to cloud, cloud to surface)",
-262,,\Atmosphere\Gas\Ozone\Surface ozone,Surface ozone,
-263,,\Atmosphere\Gas\Ozone\Total column ozone,Total column ozone,
-264,,\Atmosphere\Gas\Ozone\Vertical ozone profile,Vertical ozone profile,
-265,,\Atmosphere\Past weather\Past weather,Past weather,
-266,,\Atmosphere\Present weather\Present weather,Present weather,
-267,,\Atmosphere\Radiation\Background luminance,Background luminance,
-270,,\Atmosphere\Radiation\Sunshine duration,Sunshine duration,
-271,,\Atmosphere\Radiation\Surface albedo,Surface albedo,
-273,,\Atmosphere\Radiation\UV-B radiation,UV-B radiation,
-274,,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),BrO (bromine monoxide),
-275,,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),C2Cl4 (tetrachloroethene),
-276,,\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene),C2HCl3 (trichloroethene),
-277,,\Atmosphere\Gas\Reactive Gas\CH2Br2 (dibromomethane),CH2Br2 (dibromomethane),
-278,,\Atmosphere\Gas\Reactive Gas\CH2Cl2 (dichloromethane),CH2Cl2 (dichloromethane),
-279,,\Atmosphere\Gas\Reactive Gas\CH3Br (methylbromide),CH3Br (methylbromide),
-280,,\Atmosphere\Gas\Reactive Gas\CH3Cl (methylchloride),CH3Cl (methylchloride),
-281,,\Atmosphere\Gas\Reactive Gas\CH3I (methyliodide),CH3I (methyliodide),
-282,,\Atmosphere\Gas\Reactive Gas\CHBr3 (bromoform),CHBr3 (bromoform),
-283,,\Atmosphere\Gas\Reactive Gas\CHCl3 (chloroform),CHCl3 (chloroform),
-284,,\Atmosphere\Gas\Reactive Gas\CO,CO,
-285,,"\Atmosphere\Gas\Reactive Gas\COF2 (difluoromethanal, carbonyl fluoride)","COF2 (difluoromethanal, carbonyl fluoride)",
-286,,\Atmosphere\Gas\Reactive Gas\ClO (chlorine monoxide),ClO (chlorine monoxide),
-287,,\Atmosphere\Gas\Reactive Gas\H2O2 (hydrogen peroxide),H2O2 (hydrogen peroxide),
-288,,\Atmosphere\Gas\Reactive Gas\HCl (hydrochloric acid),HCl (hydrochloric acid),
-289,,\Atmosphere\Gas\Reactive Gas\HF (hydrofluoric acid),HF (hydrofluoric acid),
-291,,\Atmosphere\Gas\Reactive Gas\ROOH,ROOH,
-294,,\Atmosphere\Total Atmospheric Deposition\Acidity/Alkalinity,Acidity/Alkalinity,
-295,,\Atmosphere\Total Atmospheric Deposition\Electric conductivity,Electric conductivity,
-296,,\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH,Hydrogen ion (H+) or pH,
-302,,\Atmosphere\Total Atmospheric Deposition\Sulphur (S),Sulphur (S),
-304,,\Atmosphere\Wind\Direction of cloud movement,Direction of cloud movement,
-305,,\Atmosphere\Wind\Gust Speed,Gust Speed,
-307,,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)", Z component of wind vector  (horizontal and vertical profile)
-309,,"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",Horizontal component of wind as speed and direction.
-310,,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
-314,,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
-315,,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
-316,,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
-317,,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
-318,,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",
-319,,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM1","Light backscattering coefficient, PM1",
-320,,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM10","Light backscattering coefficient, PM10",
-321,,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, total aerosol","Light backscattering coefficient, total aerosol",
-322,,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1","Light scattering coefficient, PM1",
-323,,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM10","Light scattering coefficient, PM10",
-324,,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",
-325,,"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
-326,,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
-327,,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
-328,,\Atmosphere\Clouds\Ice\Cloud ice (total column),Cloud ice (total column),Field of atmospheric water in the solid phase (precipitating or not) as total column.
-329,,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
-330,,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
-331,,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
-332,,\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211),CBrClF2 (Halon 1211),
-333,,"\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)","CBrF3 (bromotrifluoromethane, Halon 1301)",
-334,,"\Atmosphere\POPs\PAH\C13H10 (9H-fluorene, fluorene), in air","C13H10 (9H-fluorene, fluorene), in air",
-335,,"\Atmosphere\POPs\PAH\C14H10 (anthracene), PM10","C14H10 (anthracene), PM10",
-336,,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in aerosol","C14H10 (anthracene), in aerosol",
-337,,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air and aerosol","C14H10 (anthracene), in air and aerosol",
-338,,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air","C14H10 (anthracene), in air",
-339,,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), PM10","C14H10 (phenanthrene), PM10",
-340,,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in aerosol","C14H10 (phenanthrene), in aerosol",
-341,,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air","C14H10 (phenanthrene), in air",
-342,,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air and aerosol","C14H10 (phenanthrene), in air and aerosol",
-343,,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in wet deposition","C14H10 (phenanthrene), in wet deposition",
-344,,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in total precipitation","C14H10 (phenanthrene), in total precipitation",
-345,,"\Atmosphere\POPs\PAH\C16H10 (pyrene), in air and aerosol","C16H10 (pyrene), in air and aerosol",
-346,,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), PM10","C18H12 (Benz(a)anthracene), PM10",
-347,,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in aerosol","C18H12 (Benz(a)anthracene), in aerosol",
-348,,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air","C18H12 (Benz(a)anthracene), in air",
-349,,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air and aerosol","C18H12 (Benz(a)anthracene), in air and aerosol",
-350,,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in precipitation","C18H12 (Benz(a)anthracene), in precipitation",
-351,,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in total precipitation","C18H12 (Benz(a)anthracene), in total precipitation",
-356,,\Atmosphere\Radiation\UV\UV Broadband,UV Broadband,
-357,,\Atmosphere\Radiation\UV\UV Erythemally weighted,UV Erythemally weighted,
-358,,\Atmosphere\Radiation\UV\UV Multiband,UV Multiband,
-359,,\Atmosphere\Radiation\UV\UV Spectral,UV Spectral,
-361,,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
-362,,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
-364,,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
-365,,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
-366,,"\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5","Mass concentration (medium), PM2.5",
-367,,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated),Mass concentration (size fractionated),
-368,,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (total aerosol) or Mass TSP,Mass concentration (total aerosol) or Mass TSP,
-369,,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
-370,,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",
-371,,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
-373,,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
-374,,"\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW, total column)","Cloud liquid water (CLW, total column)",Field of atmospheric water in the liquid phase (precipitating or not).
-375,,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in aerosol","C12H8Cl6 (aldrin), in aerosol",
-376,,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air","C12H8Cl6 (aldrin), in air",
-377,,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air and aerosol","C12H8Cl6 (aldrin), in air and aerosol",
-378,,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in total precipitation","C12H8Cl6 (aldrin), in total precipitation",
-379,,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in wet precipitation","C12H8Cl6 (aldrin), in wet precipitation",
-380,,"\Atmosphere\POPs\POP\C6Cl6 (hexachlorobenzene, HCB), in air","C6Cl6 (hexachlorobenzene, HCB), in air",
-381,,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol",
-382,,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air",
-383,,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation",
-384,,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air",
-385,,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation",
-390,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\Ammonia (NH3),Ammonia (NH3),
-391,,"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\C2H3O5N (peroxyacetylnitrate, PAN)","C2H3O5N (peroxyacetylnitrate, PAN)",
-392,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\ClONO2 (chlorine nitrate),ClONO2 (chlorine nitrate),
-393,,"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HCN (formonitrile, hydrogen cyanide)","HCN (formonitrile, hydrogen cyanide)",
-394,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HNO3 (nitric acid),HNO3 (nitric acid),
-395,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO,NO,
-396,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO2,NO2,
-397,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOx,NOx,
-398,,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy,NOy,
-411,,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
-412,,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra,CCN concentration spectra,
-413,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 μm equivalent","Hygroscopic growth factor, 110 μm equivalent",
-414,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 μm equivalent","Hygroscopic growth factor, 165 μm equivalent",
-415,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 μm equivalent","Hygroscopic growth factor, 35 μm equivalent",
-416,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 μm equivalent","Hygroscopic growth factor, 50 μm equivalent",
-417,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 μm equivalent","Hygroscopic growth factor, 75 μm equivalent",
-418,,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
-419,,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)",
-420,,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)",
-421,,"\Atmosphere\Gas\Greenhouse Gas\PFCs\CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)","CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)",
-428,,"\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\COS (OCS, carbon oxide sulfide, carbonyl sulfide)","COS (OCS, carbon oxide sulfide, carbonyl sulfide)",
-429,,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\CS2 (Carbon disulfide),CS2 (Carbon disulfide),
-430,,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\SO2,SO2,
-431,,\Atmosphere\Lightning\Position\Lightning detection (time and location),Lightning detection (time and location),"Detection of the time and location (latitude, longitude) of lightning events. Accuracy expressed in terms of Hit Rate and False Alarm Rate, which requires predetermination of a specific distance and time tolerance."
-432,,\Atmosphere\Lightning\Position\Lightning direction from station,Lightning direction from station,
-433,,\Atmosphere\Lightning\Position\Lightning distance from station,Lightning distance from station,
-434,,"\Atmosphere\Gas\Reactive Gas\VOC\C2H2 (ethyne, acetylene)","C2H2 (ethyne, acetylene)",
-435,,"\Atmosphere\Gas\Reactive Gas\VOC\C2H2O2 (oxaldehyde, ethanedial)","C2H2O2 (oxaldehyde, ethanedial)",
-436,,\Atmosphere\Gas\Reactive Gas\VOC\C2H4 (ethene),C2H4 (ethene),
-437,,\Atmosphere\Gas\Reactive Gas\VOC\C2H6 (ethane),C2H6 (ethane),
-438,,"\Atmosphere\Gas\Reactive Gas\VOC\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",
-439,,\Atmosphere\Gas\Reactive Gas\VOC\C3H4 (propyne),C3H4 (propyne),
-440,,"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O (prop-2-enal, acrolein)","C3H4O (prop-2-enal, acrolein)",
-441,,"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O2 (2-oxopropanal, methylglyoxal)","C3H4O2 (2-oxopropanal, methylglyoxal)",
-442,,\Atmosphere\Gas\Reactive Gas\VOC\C3H6 (propene),C3H6 (propene),
-443,,"\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (acetone, propanone)","C3H6O (acetone, propanone)",
-444,,\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (propanal),C3H6O (propanal),
-445,,\Atmosphere\Gas\Reactive Gas\VOC\C3H8 (propane),C3H8 (propane),
-446,,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6 (1,3-butadiene, butadiene)","C4H6 (1,3-butadiene, butadiene)",
-447,,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (2-methylprop-2-enal, methacrolein)","C4H6O (2-methylprop-2-enal, methacrolein)",
-448,,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (but-3-en-2-one, methylvinylketone)","C4H6O (but-3-en-2-one, methylvinylketone)",
-449,,\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (1-butene),C4H8 (1-butene),
-450,,\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (sum of butenes),C4H8 (sum of butenes),
-451,,"\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butan-2-one, methylethylketone)","C4H8O (butan-2-one, methylethylketone)",
-452,,\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butanal isomers),C4H8O (butanal isomers),
-453,,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (1-pentene),C5H10 (1-pentene),
-454,,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-1-butene),C5H10 (2-methyl-1-butene),
-455,,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-2-butene),C5H10 (2-methyl-2-butene),
-456,,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (3-methyl-1-butene),C5H10 (3-methyl-1-butene),
-457,,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (cyclopentane),C5H10 (cyclopentane),
-458,,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of 1-pentene & 2-methyl-2-butene),C5H10 (sum of 1-pentene & 2-methyl-2-butene),
-459,,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of pentenes),C5H10 (sum of pentenes),
-460,,"\Atmosphere\Gas\Reactive Gas\VOC\C5H10O (pentanal, valeraldehyde)","C5H10O (pentanal, valeraldehyde)",
-461,,"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)","C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)",
-462,,"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 (2,2-dimethylpropane)","C5H12 (2,2-dimethylpropane)",
-463,,"\Atmosphere\Gas\Reactive Gas\VOC\C5H14 (2,3-dimethylbutane)","C5H14 (2,3-dimethylbutane)",
-464,,"\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (2-methyl-1,3-butadiene, isoprene)","C5H8 (2-methyl-1,3-butadiene, isoprene)",
-465,,\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (cyclopentene),C5H8 (cyclopentene),
-466,,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)","C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)",
-467,,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)","C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)",
-468,,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (cyclohexane),C6H12 (cyclohexane),
-469,,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (methylcyclopentane),C6H12 (methylcyclopentane),
-470,,\Atmosphere\Gas\Reactive Gas\VOC\C6H12O (hexanal isomers),C6H12O (hexanal isomers),
-471,,"\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2,2-dimethylbutane)","C6H14 (2,2-dimethylbutane)",
-472,,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2-methylpentane),C6H14 (2-methylpentane),
-473,,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (3-methylpentane),C6H14 (3-methylpentane),
-474,,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (n-hexane),C6H14 (n-hexane),
-475,,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (sum of methylpentanes),C6H14 (sum of methylpentanes),
-476,,\Atmosphere\Gas\Reactive Gas\VOC\C6H6 (benzene),C6H6 (benzene),
-477,,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)","C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)",
-478,,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane","C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane",
-479,,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane","C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane",
-480,,\Atmosphere\Gas\Reactive Gas\VOC\C7H16 (sum of methylhexanes),C7H16 (sum of methylhexanes),
-481,,\Atmosphere\Gas\Reactive Gas\VOC\C7H6O (benzene carbaldehyde),C7H6O (benzene carbaldehyde),
-482,,\Atmosphere\Gas\Reactive Gas\VOC\C7H8 (toluene),C7H8 (toluene),
-483,,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (ethylbenzene),C8H10 (ethylbenzene),
-484,,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (m-xylene),C8H10 (m-xylene),
-485,,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (o-xylene),C8H10 (o-xylene),
-486,,"\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (p,m-xylene)","C8H10 (p,m-xylene)",
-487,,"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,2,4-trimethylbenzene)","C9H12 (1,2,4-trimethylbenzene)",
-488,,"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,3,5-trimethylbenzene)","C9H12 (1,3,5-trimethylbenzene)",
-489,,\Atmosphere\Gas\Reactive Gas\VOC\CH2O (formaldehyde),CH2O (formaldehyde),
-490,,\Atmosphere\Gas\Reactive Gas\VOC\CH3CH2OH (ethanol),CH3CH2OH (ethanol),
-491,,"\Atmosphere\Gas\Reactive Gas\VOC\CH3CHO (acetaldehyde, ethanal)","CH3CHO (acetaldehyde, ethanal)",
-492,,\Atmosphere\Gas\Reactive Gas\VOC\CH3CN (acetonitrile),CH3CN (acetonitrile),
-493,,\Atmosphere\Gas\Reactive Gas\VOC\CH3OH (methanol),CH3OH (methanol),
-494,,\Atmosphere\Gas\Reactive Gas\VOC\NMHC,NMHC,
-495,,\Atmosphere\Gas\Reactive Gas\VOC\c-C4H8 (cis-2-butene),c-C4H8 (cis-2-butene),
-496,,\Atmosphere\Gas\Reactive Gas\VOC\c-C5H10 (cis-2-pentene),c-C5H10 (cis-2-pentene),
-497,,"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H10 (2-methylpropane, iso-butane)","i-C4H10 (2-methylpropane, iso-butane)",
-498,,"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H8 (2-methylpropene, iso-butene)","i-C4H8 (2-methylpropene, iso-butene)",
-499,,"\Atmosphere\Gas\Reactive Gas\VOC\i-C5H12 (2-methylbutane, iso-pentane)","i-C5H12 (2-methylbutane, iso-pentane)",
-500,,"\Atmosphere\Gas\Reactive Gas\VOC\i-C7H16 (2-methylhexane, isoheptane)","i-C7H16 (2-methylhexane, isoheptane)",
-501,,\Atmosphere\Gas\Reactive Gas\VOC\n-C4H10 (n-butane),n-C4H10 (n-butane),
-502,,\Atmosphere\Gas\Reactive Gas\VOC\n-C5H12 (n-pentane),n-C5H12 (n-pentane),
-503,,\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane),n-C7H16 (n-heptane),
-504,,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),
-505,,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),
-506,,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
-507,,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
-508,,\Atmosphere\Clouds\Optical properties\Optical depth within each layer,Optical depth within each layer,
-509,,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
-521,,\Atmosphere\Visibility\Obscurations\Extinction coefficient,Extinction coefficient,
-522,,\Atmosphere\Visibility\Obscurations\Hydrometeor radius,Hydrometeor radius,
-523,,\Atmosphere\Visibility\Obscurations\Hydrometeor type,Hydrometeor type,
-524,,\Atmosphere\Visibility\Obscurations\Lithometeor type,Lithometeor type,
-525,,\Atmosphere\Visibility\Obscurations\Meteorological Optical Range,Meteorological Optical Range,
-526,,\Atmosphere\Visibility\Obscurations\Obscuration type,Obscuration type,
-529,,\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids,Strong acids,
-531,,\Atmosphere\Clouds\Position\Height of cloud base,Height of cloud base,
-532,,\Atmosphere\Clouds\Position\Height of cloud top,Height of cloud top,
-533,,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
-534,,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",
-535,,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",
-536,,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)",
-537,,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)",
-538,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Bromide (Br-),Bromide (Br-),
-539,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Chloride (Cl-),Chloride (Cl-),
-540,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Fluoride (F-),Fluoride (F-),
-541,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Iodide (I-),Iodide (I-),
-542,,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Phosphate (PO4---),Phosphate (PO4---),
-543,,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), corrected","Sulphate (SO4=), corrected",
-544,,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), total","Sulphate (SO4=), total",
-545,,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Calcium (Ca++),Calcium (Ca++),
-546,,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Magnesium (Mg++),Magnesium (Mg++),
-547,,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+),Potassium (K+),
-548,,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Sodium (Na+),Sodium (Na+),
-550,,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
-551,,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
-552,,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
-553,,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
-554,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)",
-555,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)",
-556,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)",
-557,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)","C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)",
-558,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)","C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)",
-559,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)","C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)",
-560,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)",
-561,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)","CH2F2 (difluoromethane, HFC-32)",
-562,,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)","CHF3 (trifluoromethane, HFC-23)",
-565,,\Atmosphere\Radiation\IR\Long-wave radiation (direction unspecified),Long-wave radiation (direction unspecified),
-566,,\Atmosphere\Radiation\IR\Long-wave radiation (downwelling),Long-wave radiation (downwelling),
-567,,\Atmosphere\Radiation\IR\Long-wave radiation (upwelling),Long-wave radiation (upwelling),
-568,,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Ammonium (NH4+),Ammonium (NH4+),
-569,,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrate (NO3-),Nitrate (NO3-),
-570,,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrite (NO2-),Nitrite (NO2-),
-571,,\Atmosphere\Radiation\Solar\Diffuse solar radiation,Diffuse solar radiation,
-572,,\Atmosphere\Radiation\Solar\Direct solar radiation,Direct solar radiation,
-573,,\Atmosphere\Radiation\Solar\Global solar radiation (downwelling),Global solar radiation (downwelling),
-574,,\Atmosphere\Radiation\Solar\Global solar radiation (upwelling),Global solar radiation (upwelling),
-575,,\Atmosphere\Radiation\Solar\Reflected solar radiation,Reflected solar radiation,
-576,,\Atmosphere\Total Atmospheric Deposition\Organic acid\Acetate (CH3COO-),Acetate (CH3COO-),
-577,,\Atmosphere\Total Atmospheric Deposition\Organic acid\Formate (HCOO-),Formate (HCOO-),
-578,,\Atmosphere\Total Atmospheric Deposition\Organic acid\Propionate (C2H5COO-),Propionate (C2H5COO-),
-579,,"\Atmosphere\Aerosol\Composition\Acidity/Alkalinity, total aerosol","Acidity/Alkalinity, total aerosol",
-589,,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)","C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)",
-590,,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)","C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)",
-591,,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)",
-592,,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)","CCl2F2 (dichlorodifluoromethane, CFC-12)",
-593,,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)","CCl3F (trichlorofluoromethane, CFC-11)",
-594,,\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CCl4 (carbon tetrachloride),CCl4 (carbon tetrachloride),
-595,,"\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CH3CCl3 (1,1,1-trichloroethane)","CH3CCl3 (1,1,1-trichloroethane)",
-597,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Aluminium (Al),Aluminium (Al),
-598,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Arsenic (As),Arsenic (As),
-599,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Cadmium (Cd),Cadmium (Cd),
-600,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Chromium (Cr),Chromium (Cr),
-601,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Cobalt (Co),Cobalt (Co),
-602,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Copper (Cu),Copper (Cu),
-603,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Iron (Fe),Iron (Fe),
-604,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Lead (Pb),Lead (Pb),
-605,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Manganese (Mn),Manganese (Mn),
-606,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Mercury (Hg),Mercury (Hg),
-607,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Nickel (Ni),Nickel (Ni),
-608,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Vanadium (V),Vanadium (V),
-609,,\Atmosphere\Total Atmospheric Deposition\Trace elements\Zinc (Zn),Zinc (Zn),
-614,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1","Chloride (Cl-), PM1",
-615,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM10","Chloride (Cl-), PM10",
-616,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Chloride (Cl-), PM2.5",
-617,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Chloride (Cl-), total aerosol",
-618,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","Fluoride (F-), total aerosol",
-619,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), corrected","Sulphate (SO4=), corrected",
-620,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total","Sulphate (SO4=), total",
-621,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM10","Sulphate (SO4=), total, PM10",
-622,,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM2.5","Sulphate (SO4=), total, PM2.5",
-623,,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon (coarse), PM10","Elemental carbon (coarse), PM10",
-624,,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM1","Elemental carbon, PM1",
-625,,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM2.5","Elemental carbon, PM2.5",
-626,,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Total carbon (coarse), PM10","Total carbon (coarse), PM10",
-632,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM10","Calcium (Ca++), PM10",
-633,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM2.5","Calcium (Ca++), PM2.5",
-634,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), total aerosol","Calcium (Ca++), total aerosol",
-635,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10","Magnesium (Mg++), PM10",
-636,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM2.5","Magnesium (Mg++), PM2.5",
-637,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), total aerosol","Magnesium (Mg++), total aerosol",
-638,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM10","Potassium (K+), PM10",
-639,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM2.5","Potassium (K+), PM2.5",
-640,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), total aerosol","Potassium (K+), total aerosol",
-641,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM10","Sodium (Na+), PM10",
-642,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM2.5","Sodium (Na+), PM2.5",
-643,,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), total aerosol","Sodium (Na+), total aerosol",
-644,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonia (NH3), PM2.5","Ammonia (NH3), PM2.5",
-645,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM10","Ammonium (NH4+), PM10",
-646,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM2.5","Ammonium (NH4+), PM2.5",
-647,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), total aerosol","Ammonium (NH4+), total aerosol",
-648,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), total aerosol","Ammonium nitrate (NH4NO3), total aerosol",
-649,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), PM1","Ammonium nitrate (NH4NO3), PM1",
-650,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM10","Nitrate (NO3-), PM10",
-651,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM2.5","Nitrate (NO3-), PM2.5",
-652,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), total aerosol","Nitrate (NO3-), total aerosol",
-653,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrite (NO2-), total aerosol","Nitrite (NO2-), total aerosol",
-654,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol","Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",
-655,,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol","Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol",
-656,,\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated),Major chemical components (size fractionated),
-657,,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP),Major inorganic components (TSP),
-658,,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (coarse),Major inorganic components (coarse),
-659,,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (fine),Major inorganic components (fine),
-660,,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse),Other chemical components (coarse),
-661,,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine),Other chemical components (fine),
-662,,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1","C2H3O2- (CH3COO-, acetate), PM1",
-663,,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate), in aerosol",
-664,,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1",
-665,,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10","C2O4= (oxalate, ethanedioate), PM10",
-666,,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol","C2O4= (oxalate, ethanedioate), total aerosol",
-667,,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), PM1","CH3O3S- (methanesulphonate), PM1",
-668,,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), total aerosol","CH3O3S- (methanesulphonate), total aerosol",
-669,,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), in aerosol",
-670,,"\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (coarse), PM10","Carbonaceous/organic material (coarse), PM10",
-671,,\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (fine),Carbonaceous/organic material (fine),
-672,,"\Atmosphere\Aerosol\Composition\Trace elements\Titanium (Ti), total aerosol","Titanium (Ti), total aerosol",
-673,,"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), PM2.5","Aluminium (Al), PM2.5",
-674,,"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), total aerosol","Aluminium (Al), total aerosol",
-675,,"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), PM2.5","Antimony (Sb), PM2.5",
-676,,"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), total aerosol","Antimony (Sb), total aerosol",
-677,,"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), PM10","Arsenic (As), PM10",
-678,,"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), total aerosol","Arsenic (As), total aerosol",
-679,,"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), PM2.5","Barium (Ba), PM2.5",
-680,,"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), total aerosol","Barium (Ba), total aerosol",
-681,,"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), PM2.5","Bismuth (Bi), PM2.5",
-682,,"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), total aerosol","Bismuth (Bi), total aerosol",
-683,,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM1","Cadmium (Cd), PM1",
-684,,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM10","Cadmium (Cd), PM10",
-685,,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5","Cadmium (Cd), PM2.5",
-686,,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5 thru PM10","Cadmium (Cd), PM2.5 thru PM10",
-687,,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), total aerosol","Cadmium (Cd), total aerosol",
-688,,"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), PM2.5","Cerium (Ce), PM2.5",
-689,,"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), total aerosol","Cerium (Ce), total aerosol",
-690,,"\Atmosphere\Aerosol\Composition\Trace elements\Chromium (Cr), total aerosol","Chromium (Cr), total aerosol",
-691,,"\Atmosphere\Aerosol\Composition\Trace elements\Cobalt (Co), total aerosol","Cobalt (Co), total aerosol",
-692,,"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), PM10","Copper (Cu), PM10",
-693,,"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), total aerosol","Copper (Cu), total aerosol",
-694,,"\Atmosphere\Aerosol\Composition\Trace elements\Iron (Fe), total aerosol","Iron (Fe), total aerosol",
-695,,"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), PM2.5","Lanthanum (La), PM2.5",
-696,,"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), total aerosol","Lanthanum (La), total aerosol",
-697,,"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), PM10","Lead (Pb), PM10",
-698,,"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), total aerosol","Lead (Pb), total aerosol",
-699,,"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), PM2.5","Lithium (Li), PM2.5",
-700,,"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), total aerosol","Lithium (Li), total aerosol",
-701,,"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), PM10","Manganese (Mn), PM10",
-702,,"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), total aerosol","Manganese (Mn), total aerosol",
-703,,"\Atmosphere\Aerosol\Composition\Trace elements\Mercury (Hg), total aerosol","Mercury (Hg), total aerosol",
-704,,"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), PM10","Nickel (Ni), PM10",
-705,,"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), total aerosol","Nickel (Ni), total aerosol",
-706,,"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), PM2.5","Phosphorous (P), PM2.5",
-707,,"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), total aerosol","Phosphorous (P), total aerosol",
-708,,"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), PM2.5","Rubidium (Rb), PM2.5",
-709,,"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), total aerosol","Rubidium (Rb), total aerosol",
-710,,"\Atmosphere\Aerosol\Composition\Trace elements\Selenium (Se), total aerosol","Selenium (Se), total aerosol",
-711,,"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), PM2.5","Strontium (Sr), PM2.5",
-712,,"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), total aerosol","Strontium (Sr), total aerosol",
-713,,"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), PM2.5","Thallium (Tl), PM2.5",
-714,,"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), total aerosol","Thallium (Tl), total aerosol",
-715,,"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), PM2.5","Thorium (Th), PM2.5",
-716,,"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), total aerosol","Thorium (Th), total aerosol",
-717,,"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), PM2.5","Tin (Sn), PM2.5",
-718,,"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), total aerosol","Tin (Sn), total aerosol",
-719,,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), PM2.5","Uranium (U), PM2.5",
-720,,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), total aerosol","Uranium (U), total aerosol",
-721,,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), PM2.5","Vanadium (V), PM2.5",
-722,,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol","Vanadium (V), total aerosol",
-723,,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
-724,,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",
-727,,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
-728,,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
-729,,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
-800,,,(unknown),The variable is unknown.
-801,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
-12000,,\Atmosphere\Pressure\Atmospheric pressure profile,Atmospheric pressure profile,Upper-air atmospheric pressure
-12001,,\Atmosphere\Lightning\Total lightning density,Total lightning density,
-12002,,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
-12005,,\Atmosphere\Wind\Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface
-12006,,\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface
+notation	path	name	description
+37	\Atmosphere\Aerological soundings	Aerological soundings	
+39	\Atmosphere\Atmospheric density	Atmospheric density	3D field of density of the atmosphere.
+44	\Atmosphere\Integrated air samples	Integrated air samples	
+56	\Atmosphere\Special phenomena	Special phenomena	
+57	\Atmosphere\State of ground	State of ground	
+179	\Atmosphere\Clouds\Cloud amount	Cloud amount	
+180	\Atmosphere\Clouds\Cloud cover	Cloud cover	
+181	\Atmosphere\Clouds\Cloud drop effective radius	Cloud drop effective radius	"Size distribution of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+182	\Atmosphere\Clouds\Cloud hydrometeor concentration	Cloud hydrometeor concentration	
+183	\Atmosphere\Clouds\Effective radius of cloud hydrometeors	Effective radius of cloud hydrometeors	
+186	\Atmosphere\Clouds\Melting layer depth in clouds	Melting layer depth in clouds	Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
+188	\Atmosphere\Clouds\PSC occurrence	PSC occurrence	3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
+192	\Atmosphere\Gas\Greenhouse Gas\CH4	CH4	1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
+193	\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13]	CH4 [C-13]	CH4 with C-13 isotope
+194	\Atmosphere\Gas\Greenhouse Gas\CO2	CO2	CO2
+195	\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13]	CO2 [C-13]	CO2 with C-13 isotope
+196	\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18]	CO2 [O-18]	CO2 with O-18 isotope
+201	\Atmosphere\Gas\Greenhouse Gas\N2O	N2O	N2O
+203	\Atmosphere\Gas\Greenhouse Gas\SF6	SF6	SF6
+204	\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride)	SO2F2 (sulphuryl fluoride)	SO2F2 (sulphuryl fluoride)
+205	\Atmosphere\Gas\Other Gas\H2	H2	H2
+206	\Atmosphere\Gas\Other Gas\H2O (as a chemical species)	H2O (as a chemical species)	3D field of mole fraction of H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
+207	\Atmosphere\Gas\Other Gas\HDO (as a chemical species)	HDO (as a chemical species)	3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
+210	\Atmosphere\Precipitation\Amount of precipitation	Amount of precipitation	
+211	\Atmosphere\Precipitation\Duration of precipitation	Duration of precipitation	
+212	\Atmosphere\Precipitation\Intensity of precipitation	Intensity of precipitation	
+213	\Atmosphere\Precipitation\Occurrence of precipitation during last period (yes/no)	Occurrence of precipitation during last period (yes/no)	
+214	\Atmosphere\Precipitation\Rate of ice accretion	Rate of ice accretion	
+215	\Atmosphere\Precipitation\Type of precipitation	Type of precipitation	
+216	\Atmosphere\Pressure\Atmospheric pressure	Atmospheric pressure	
+217	\Atmosphere\Pressure\Characteristic of pressure tendency	Characteristic of pressure tendency	
+218	\Atmosphere\Pressure\Pressure tendency	Pressure tendency	
+219	\Atmosphere\Radionuclide\Beryllium [Be-7]	Beryllium [Be-7]	
+220	\Atmosphere\Radionuclide\CO2 [C-14]	CO2 [C-14]	CO2 with C-14 isotope
+221	\Atmosphere\Radionuclide\Krypton [Kr-85]	Krypton [Kr-85]	Krypton (Kr-85 isotope)
+222	\Atmosphere\Radionuclide\Lead [Pb-210]	Lead [Pb-210]	Lead (Pb-210 isotope)
+223	\Atmosphere\Radionuclide\Radon [Rn-222]	Radon [Rn-222]	Radon (Rn-222 isotope)
+224	\Atmosphere\Temperature\Air temperature (at specified distance from reference surface)	Air temperature (at specified distance from reference surface)	
+225	\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface)	Dew-point temperature (at specified distance from reference surface)	
+226	"\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)"	"Extreme temperature (min, max) (at specified distance from reference surface)"	
+227	\Atmosphere\Temperature\Temperature profile	Temperature profile	
+229	\Atmosphere\Visibility\Runway visual range	Runway visual range	
+230	\Atmosphere\Visibility\Visibility	Visibility	
+248	"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)"	"Transport calculations (e.g., trajectories)"	
+249	\Atmosphere\Dynamics\Turbulence	Turbulence	3D field of kinetic energy density of turbulent motion of the air
+250	\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex)	Turbulence type (low levels and wake vortex)	
+251	\Atmosphere\Humidity\Humidity  (at specified distance from reference surface)	Humidity  (at specified distance from reference surface)	
+252	\Atmosphere\Humidity\Integrated water vapour	Integrated water vapour	
+253	\Atmosphere\Humidity\Mass mixing ratio	Mass mixing ratio	
+254	\Atmosphere\Humidity\Object wetness duration	Object wetness duration	
+255	\Atmosphere\Humidity\Water vapour pressure	Water vapour pressure	
+256	\Atmosphere\Humidity\Watervapor profile	Watervapor profile	
+257	\Atmosphere\Lightning\Lightning discharge energy	Lightning discharge energy	
+258	\Atmosphere\Lightning\Lightning discharge polarity	Lightning discharge polarity	
+259	\Atmosphere\Lightning\Lightning discharge rates	Lightning discharge rates	
+260	"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)"	"Lightning discharge type (cloud to cloud, cloud to surface)"	
+262	\Atmosphere\Gas\Ozone\Surface ozone	Surface ozone	
+263	\Atmosphere\Gas\Ozone\Total column ozone	Total column ozone	
+264	\Atmosphere\Gas\Ozone\Vertical ozone profile	Vertical ozone profile	
+265	\Atmosphere\Past weather\Past weather	Past weather	
+266	\Atmosphere\Present weather\Present weather	Present weather	
+267	\Atmosphere\Radiation\Background luminance	Background luminance	
+270	\Atmosphere\Radiation\Sunshine duration	Sunshine duration	
+271	\Atmosphere\Radiation\Surface albedo	Surface albedo	
+273	\Atmosphere\Radiation\UV-B radiation	UV-B radiation	
+274	\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide)	BrO (bromine monoxide)	
+275	\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene)	C2Cl4 (tetrachloroethene)	
+276	\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene)	C2HCl3 (trichloroethene)	
+277	\Atmosphere\Gas\Reactive Gas\CH2Br2 (dibromomethane)	CH2Br2 (dibromomethane)	
+278	\Atmosphere\Gas\Reactive Gas\CH2Cl2 (dichloromethane)	CH2Cl2 (dichloromethane)	
+279	\Atmosphere\Gas\Reactive Gas\CH3Br (methylbromide)	CH3Br (methylbromide)	
+280	\Atmosphere\Gas\Reactive Gas\CH3Cl (methylchloride)	CH3Cl (methylchloride)	
+281	\Atmosphere\Gas\Reactive Gas\CH3I (methyliodide)	CH3I (methyliodide)	
+282	\Atmosphere\Gas\Reactive Gas\CHBr3 (bromoform)	CHBr3 (bromoform)	
+283	\Atmosphere\Gas\Reactive Gas\CHCl3 (chloroform)	CHCl3 (chloroform)	
+284	\Atmosphere\Gas\Reactive Gas\CO	CO	
+285	"\Atmosphere\Gas\Reactive Gas\COF2 (difluoromethanal, carbonyl fluoride)"	"COF2 (difluoromethanal, carbonyl fluoride)"	
+286	\Atmosphere\Gas\Reactive Gas\ClO (chlorine monoxide)	ClO (chlorine monoxide)	
+287	\Atmosphere\Gas\Reactive Gas\H2O2 (hydrogen peroxide)	H2O2 (hydrogen peroxide)	
+288	\Atmosphere\Gas\Reactive Gas\HCl (hydrochloric acid)	HCl (hydrochloric acid)	
+289	\Atmosphere\Gas\Reactive Gas\HF (hydrofluoric acid)	HF (hydrofluoric acid)	
+291	\Atmosphere\Gas\Reactive Gas\ROOH	ROOH	
+294	\Atmosphere\Total Atmospheric Deposition\Acidity/Alkalinity	Acidity/Alkalinity	
+295	\Atmosphere\Total Atmospheric Deposition\Electric conductivity	Electric conductivity	
+296	\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH	Hydrogen ion (H+) or pH	
+302	\Atmosphere\Total Atmospheric Deposition\Sulphur (S)	Sulphur (S)	
+304	\Atmosphere\Wind\Direction of cloud movement	Direction of cloud movement	
+305	\Atmosphere\Wind\Gust Speed	Gust Speed	
+307	"\Atmosphere\Wind\Wind (Z component, vertical)"	"Wind (Z component, vertical)"	 Z component of wind vector  (horizontal and vertical profile)
+309	"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated"	"Wind (surface wind direction and speed, horizontal) - deprecated"	Horizontal component of wind as speed and direction.
+310	"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)"	"Upper wind (X, Y components, horizontal)"	Horizontal component of wind as a vector in an orthogonal coordinate system.
+314	\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth	Aerosol Absorption Optical Depth	Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.?z) where K is the absorption coefficient [km-1] and ?z the vertical path [km]
+315	\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient	Aerosol Extinction Coefficient	3D field of spectral volumetric extinction cross-section of aerosol particles.
+316	"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1"	"Light absorption coefficient, PM1"	
+317	"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10"	"Light absorption coefficient, PM10"	
+318	"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol"	"Light absorption coefficient, total aerosol"	
+319	"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM1"	"Light backscattering coefficient, PM1"	
+320	"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM10"	"Light backscattering coefficient, PM10"	
+321	"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, total aerosol"	"Light backscattering coefficient, total aerosol"	
+322	"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1"	"Light scattering coefficient, PM1"	
+323	"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM10"	"Light scattering coefficient, PM10"	
+324	"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol"	"Light scattering coefficient, total aerosol"	
+325	"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol"	"Multiwavelength optical depth, total aerosol"	Aerosol optical depth of the atmospheric column determined at multiple wavelengths
+326	\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties	Vertical distribution of properties	
+327	\Atmosphere\Clouds\Ice\Cloud ice	Cloud ice	3D field of atmospheric water in the solid phase (precipitating or not). 
+328	\Atmosphere\Clouds\Ice\Cloud ice (total column)	Cloud ice (total column)	Field of atmospheric water in the solid phase (precipitating or not) as total column.
+329	\Atmosphere\Clouds\Ice\Cloud ice effective radius	Cloud ice effective radius	"Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
+330	\Atmosphere\Clouds\Ice\Freezing level height in clouds	Freezing level height in clouds	Height of the atmospheric layer in cloud where liquid-solid states transform into each other
+331	\Atmosphere\Clouds\Ice\Icing potential	Icing potential	"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
+332	\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211)	CBrClF2 (Halon 1211)	
+333	"\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)"	"CBrF3 (bromotrifluoromethane, Halon 1301)"	
+334	"\Atmosphere\POPs\PAH\C13H10 (9H-fluorene, fluorene), in air"	"C13H10 (9H-fluorene, fluorene), in air"	
+335	"\Atmosphere\POPs\PAH\C14H10 (anthracene), PM10"	"C14H10 (anthracene), PM10"	
+336	"\Atmosphere\POPs\PAH\C14H10 (anthracene), in aerosol"	"C14H10 (anthracene), in aerosol"	
+337	"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air and aerosol"	"C14H10 (anthracene), in air and aerosol"	
+338	"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air"	"C14H10 (anthracene), in air"	
+339	"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), PM10"	"C14H10 (phenanthrene), PM10"	
+340	"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in aerosol"	"C14H10 (phenanthrene), in aerosol"	
+341	"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air"	"C14H10 (phenanthrene), in air"	
+342	"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air and aerosol"	"C14H10 (phenanthrene), in air and aerosol"	
+343	"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in wet deposition"	"C14H10 (phenanthrene), in wet deposition"	
+344	"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in total precipitation"	"C14H10 (phenanthrene), in total precipitation"	
+345	"\Atmosphere\POPs\PAH\C16H10 (pyrene), in air and aerosol"	"C16H10 (pyrene), in air and aerosol"	
+346	"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), PM10"	"C18H12 (Benz(a)anthracene), PM10"	
+347	"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in aerosol"	"C18H12 (Benz(a)anthracene), in aerosol"	
+348	"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air"	"C18H12 (Benz(a)anthracene), in air"	
+349	"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air and aerosol"	"C18H12 (Benz(a)anthracene), in air and aerosol"	
+350	"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in precipitation"	"C18H12 (Benz(a)anthracene), in precipitation"	
+351	"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in total precipitation"	"C18H12 (Benz(a)anthracene), in total precipitation"	
+356	\Atmosphere\Radiation\UV\UV Broadband	UV Broadband	
+357	\Atmosphere\Radiation\UV\UV Erythemally weighted	UV Erythemally weighted	
+358	\Atmosphere\Radiation\UV\UV Multiband	UV Multiband	
+359	\Atmosphere\Radiation\UV\UV Spectral	UV Spectral	
+361	\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density)	Aerosol column burden (mass density)	2D field of the column burden of condensed particles in the atmosphere 
+362	\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius	Aerosol effective radius	"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
+364	\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10	Mass concentration (coarse) or Mass PM10	
+365	\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1	Mass concentration (fine) or Mass PM1	
+366	"\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5"	"Mass concentration (medium), PM2.5"	
+367	\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated)	Mass concentration (size fractionated)	
+368	\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (total aerosol) or Mass TSP	Mass concentration (total aerosol) or Mass TSP	
+369	\Atmosphere\Aerosol\Physical properties - primary\Number concentration	Number concentration	
+370	"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10"	"Number size distribution, PM10"	
+371	"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol"	"Number size distribution, total aerosol"	
+373	\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW)	Cloud liquid water (CLW)	3D field of atmospheric water in the liquid phase (precipitating or not).
+374	"\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW, total column)"	"Cloud liquid water (CLW, total column)"	Field of atmospheric water in the liquid phase (precipitating or not).
+375	"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in aerosol"	"C12H8Cl6 (aldrin), in aerosol"	
+376	"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air"	"C12H8Cl6 (aldrin), in air"	
+377	"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air and aerosol"	"C12H8Cl6 (aldrin), in air and aerosol"	
+378	"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in total precipitation"	"C12H8Cl6 (aldrin), in total precipitation"	
+379	"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in wet precipitation"	"C12H8Cl6 (aldrin), in wet precipitation"	
+380	"\Atmosphere\POPs\POP\C6Cl6 (hexachlorobenzene, HCB), in air"	"C6Cl6 (hexachlorobenzene, HCB), in air"	
+381	"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol"	"C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol"	
+382	"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air"	"C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air"	
+383	"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation"	"C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation"	
+384	"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air"	"C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air"	
+385	"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation"	"C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation"	
+390	\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\Ammonia (NH3)	Ammonia (NH3)	
+391	"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\C2H3O5N (peroxyacetylnitrate, PAN)"	"C2H3O5N (peroxyacetylnitrate, PAN)"	
+392	\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\ClONO2 (chlorine nitrate)	ClONO2 (chlorine nitrate)	
+393	"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HCN (formonitrile, hydrogen cyanide)"	"HCN (formonitrile, hydrogen cyanide)"	
+394	\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HNO3 (nitric acid)	HNO3 (nitric acid)	
+395	\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO	NO	
+396	\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO2	NO2	
+397	\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOx	NOx	
+398	\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy	NOy	
+411	\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation	CCN concentration at single supersaturation	
+412	\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra	CCN concentration spectra	
+413	"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 ?m equivalent"	"Hygroscopic growth factor, 110 ?m equivalent"	
+414	"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 ?m equivalent"	"Hygroscopic growth factor, 165 ?m equivalent"	
+415	"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 ?m equivalent"	"Hygroscopic growth factor, 35 ?m equivalent"	
+416	"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 ?m equivalent"	"Hygroscopic growth factor, 50 ?m equivalent"	
+417	"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 ?m equivalent"	"Hygroscopic growth factor, 75 ?m equivalent"	
+418	"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol"	"Hygroscopic growth factor, total aerosol"	
+419	"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)"	"C2F6 (hexafluoroethane, PFC-116)"	
+420	"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)"	"C3F8 (octafluoropropane, PFC-218)"	
+421	"\Atmosphere\Gas\Greenhouse Gas\PFCs\CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)"	"CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)"	
+428	"\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\COS (OCS, carbon oxide sulfide, carbonyl sulfide)"	"COS (OCS, carbon oxide sulfide, carbonyl sulfide)"	
+429	\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\CS2 (Carbon disulfide)	CS2 (Carbon disulfide)	
+430	\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\SO2	SO2	
+431	\Atmosphere\Lightning\Position\Lightning detection (time and location)	Lightning detection (time and location)	"Detection of the time and location (latitude, longitude) of lightning events. Accuracy expressed in terms of Hit Rate and False Alarm Rate, which requires predetermination of a specific distance and time tolerance."
+432	\Atmosphere\Lightning\Position\Lightning direction from station	Lightning direction from station	
+433	\Atmosphere\Lightning\Position\Lightning distance from station	Lightning distance from station	
+434	"\Atmosphere\Gas\Reactive Gas\VOC\C2H2 (ethyne, acetylene)"	"C2H2 (ethyne, acetylene)"	
+435	"\Atmosphere\Gas\Reactive Gas\VOC\C2H2O2 (oxaldehyde, ethanedial)"	"C2H2O2 (oxaldehyde, ethanedial)"	
+436	\Atmosphere\Gas\Reactive Gas\VOC\C2H4 (ethene)	C2H4 (ethene)	
+437	\Atmosphere\Gas\Reactive Gas\VOC\C2H6 (ethane)	C2H6 (ethane)	
+438	"\Atmosphere\Gas\Reactive Gas\VOC\C2H6S (dimethylsulfide, DMS)"	"C2H6S (dimethylsulfide, DMS)"	
+439	\Atmosphere\Gas\Reactive Gas\VOC\C3H4 (propyne)	C3H4 (propyne)	
+440	"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O (prop-2-enal, acrolein)"	"C3H4O (prop-2-enal, acrolein)"	
+441	"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O2 (2-oxopropanal, methylglyoxal)"	"C3H4O2 (2-oxopropanal, methylglyoxal)"	
+442	\Atmosphere\Gas\Reactive Gas\VOC\C3H6 (propene)	C3H6 (propene)	
+443	"\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (acetone, propanone)"	"C3H6O (acetone, propanone)"	
+444	\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (propanal)	C3H6O (propanal)	
+445	\Atmosphere\Gas\Reactive Gas\VOC\C3H8 (propane)	C3H8 (propane)	
+446	"\Atmosphere\Gas\Reactive Gas\VOC\C4H6 (1,3-butadiene, butadiene)"	"C4H6 (1,3-butadiene, butadiene)"	
+447	"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (2-methylprop-2-enal, methacrolein)"	"C4H6O (2-methylprop-2-enal, methacrolein)"	
+448	"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (but-3-en-2-one, methylvinylketone)"	"C4H6O (but-3-en-2-one, methylvinylketone)"	
+449	\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (1-butene)	C4H8 (1-butene)	
+450	\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (sum of butenes)	C4H8 (sum of butenes)	
+451	"\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butan-2-one, methylethylketone)"	"C4H8O (butan-2-one, methylethylketone)"	
+452	\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butanal isomers)	C4H8O (butanal isomers)	
+453	\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (1-pentene)	C5H10 (1-pentene)	
+454	\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-1-butene)	C5H10 (2-methyl-1-butene)	
+455	\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-2-butene)	C5H10 (2-methyl-2-butene)	
+456	\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (3-methyl-1-butene)	C5H10 (3-methyl-1-butene)	
+457	\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (cyclopentane)	C5H10 (cyclopentane)	
+458	\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of 1-pentene & 2-methyl-2-butene)	C5H10 (sum of 1-pentene & 2-methyl-2-butene)	
+459	\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of pentenes)	C5H10 (sum of pentenes)	
+460	"\Atmosphere\Gas\Reactive Gas\VOC\C5H10O (pentanal, valeraldehyde)"	"C5H10O (pentanal, valeraldehyde)"	
+461	"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)"	"C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)"	
+462	"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 (2,2-dimethylpropane)"	"C5H12 (2,2-dimethylpropane)"	
+463	"\Atmosphere\Gas\Reactive Gas\VOC\C5H14 (2,3-dimethylbutane)"	"C5H14 (2,3-dimethylbutane)"	
+464	"\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (2-methyl-1,3-butadiene, isoprene)"	"C5H8 (2-methyl-1,3-butadiene, isoprene)"	
+465	\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (cyclopentene)	C5H8 (cyclopentene)	
+466	"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)"	"C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)"	
+467	"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)"	"C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)"	
+468	\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (cyclohexane)	C6H12 (cyclohexane)	
+469	\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (methylcyclopentane)	C6H12 (methylcyclopentane)	
+470	\Atmosphere\Gas\Reactive Gas\VOC\C6H12O (hexanal isomers)	C6H12O (hexanal isomers)	
+471	"\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2,2-dimethylbutane)"	"C6H14 (2,2-dimethylbutane)"	
+472	\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2-methylpentane)	C6H14 (2-methylpentane)	
+473	\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (3-methylpentane)	C6H14 (3-methylpentane)	
+474	\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (n-hexane)	C6H14 (n-hexane)	
+475	\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (sum of methylpentanes)	C6H14 (sum of methylpentanes)	
+476	\Atmosphere\Gas\Reactive Gas\VOC\C6H6 (benzene)	C6H6 (benzene)	
+477	"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)"	"C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)"	
+478	"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane"	"C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane"	
+479	"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane"	"C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane"	
+480	\Atmosphere\Gas\Reactive Gas\VOC\C7H16 (sum of methylhexanes)	C7H16 (sum of methylhexanes)	
+481	\Atmosphere\Gas\Reactive Gas\VOC\C7H6O (benzene carbaldehyde)	C7H6O (benzene carbaldehyde)	
+482	\Atmosphere\Gas\Reactive Gas\VOC\C7H8 (toluene)	C7H8 (toluene)	
+483	\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (ethylbenzene)	C8H10 (ethylbenzene)	
+484	\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (m-xylene)	C8H10 (m-xylene)	
+485	\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (o-xylene)	C8H10 (o-xylene)	
+486	"\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (p,m-xylene)"	"C8H10 (p,m-xylene)"	
+487	"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,2,4-trimethylbenzene)"	"C9H12 (1,2,4-trimethylbenzene)"	
+488	"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,3,5-trimethylbenzene)"	"C9H12 (1,3,5-trimethylbenzene)"	
+489	\Atmosphere\Gas\Reactive Gas\VOC\CH2O (formaldehyde)	CH2O (formaldehyde)	
+490	\Atmosphere\Gas\Reactive Gas\VOC\CH3CH2OH (ethanol)	CH3CH2OH (ethanol)	
+491	"\Atmosphere\Gas\Reactive Gas\VOC\CH3CHO (acetaldehyde, ethanal)"	"CH3CHO (acetaldehyde, ethanal)"	
+492	\Atmosphere\Gas\Reactive Gas\VOC\CH3CN (acetonitrile)	CH3CN (acetonitrile)	
+493	\Atmosphere\Gas\Reactive Gas\VOC\CH3OH (methanol)	CH3OH (methanol)	
+494	\Atmosphere\Gas\Reactive Gas\VOC\NMHC	NMHC	
+495	\Atmosphere\Gas\Reactive Gas\VOC\c-C4H8 (cis-2-butene)	c-C4H8 (cis-2-butene)	
+496	\Atmosphere\Gas\Reactive Gas\VOC\c-C5H10 (cis-2-pentene)	c-C5H10 (cis-2-pentene)	
+497	"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H10 (2-methylpropane, iso-butane)"	"i-C4H10 (2-methylpropane, iso-butane)"	
+498	"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H8 (2-methylpropene, iso-butene)"	"i-C4H8 (2-methylpropene, iso-butene)"	
+499	"\Atmosphere\Gas\Reactive Gas\VOC\i-C5H12 (2-methylbutane, iso-pentane)"	"i-C5H12 (2-methylbutane, iso-pentane)"	
+500	"\Atmosphere\Gas\Reactive Gas\VOC\i-C7H16 (2-methylhexane, isoheptane)"	"i-C7H16 (2-methylhexane, isoheptane)"	
+501	\Atmosphere\Gas\Reactive Gas\VOC\n-C4H10 (n-butane)	n-C4H10 (n-butane)	
+502	\Atmosphere\Gas\Reactive Gas\VOC\n-C5H12 (n-pentane)	n-C5H12 (n-pentane)	
+503	\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane)	n-C7H16 (n-heptane)	
+504	\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene)	t-C4H8 (trans-2-butene)	
+505	\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene)	t-C5H10 (trans-2-pentene)	
+506	\Atmosphere\Clouds\Optical properties\Cloud optical depth	Cloud optical depth	Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.?z) where K is the extinction coefficient [km-1] and ?z the vertical path [km] between the base and the top of the cloud
+507	\Atmosphere\Clouds\Optical properties\Optical depth of fog	Optical depth of fog	
+508	\Atmosphere\Clouds\Optical properties\Optical depth within each layer	Optical depth within each layer	
+509	\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance	Short-wave cloud reflectance	Reflectance of the solar radiation from clouds 
+521	\Atmosphere\Visibility\Obscurations\Extinction coefficient	Extinction coefficient	
+522	\Atmosphere\Visibility\Obscurations\Hydrometeor radius	Hydrometeor radius	
+523	\Atmosphere\Visibility\Obscurations\Hydrometeor type	Hydrometeor type	
+524	\Atmosphere\Visibility\Obscurations\Lithometeor type	Lithometeor type	
+525	\Atmosphere\Visibility\Obscurations\Meteorological Optical Range	Meteorological Optical Range	
+526	\Atmosphere\Visibility\Obscurations\Obscuration type	Obscuration type	
+529	\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids	Strong acids	
+531	\Atmosphere\Clouds\Position\Height of cloud base	Height of cloud base	
+532	\Atmosphere\Clouds\Position\Height of cloud top	Height of cloud top	
+533	\Atmosphere\Clouds\Position\Height of inversion	Height of inversion	
+534	"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)"	"C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)"	
+535	"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)"	"C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)"	
+536	"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)"	"C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)"	
+537	"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)"	"CHClF2 (chlorodifluoromethane, HCFC-22)"	
+538	\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Bromide (Br-)	Bromide (Br-)	
+539	\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Chloride (Cl-)	Chloride (Cl-)	
+540	\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Fluoride (F-)	Fluoride (F-)	
+541	\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Iodide (I-)	Iodide (I-)	
+542	\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Phosphate (PO4---)	Phosphate (PO4---)	
+543	"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), corrected"	"Sulphate (SO4=), corrected"	
+544	"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), total"	"Sulphate (SO4=), total"	
+545	\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Calcium (Ca++)	Calcium (Ca++)	
+546	\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Magnesium (Mg++)	Magnesium (Mg++)	
+547	\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+)	Potassium (K+)	
+548	\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Sodium (Na+)	Sodium (Na+)	
+550	\Atmosphere\Clouds\Type\Type of cloud	Type of cloud	"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
+551	\Atmosphere\Clouds\Type\Type of high clouds	Type of high clouds	
+552	\Atmosphere\Clouds\Type\Type of low clouds	Type of low clouds	
+553	\Atmosphere\Clouds\Type\Type of middle clouds	Type of middle clouds	
+554	"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)"	"C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)"	
+555	"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)"	"C2H4F2 (1,1-difluoroethane, HFC-152a)"	
+556	"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)"	"C2HF5 (pentafluoroethane, HFC-125)"	
+557	"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)"	"C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)"	
+558	"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)"	"C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)"	
+559	"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)"	"C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)"	
+560	"\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)"	"C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)"	
+561	"\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)"	"CH2F2 (difluoromethane, HFC-32)"	
+562	"\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)"	"CHF3 (trifluoromethane, HFC-23)"	
+565	\Atmosphere\Radiation\IR\Long-wave radiation (direction unspecified)	Long-wave radiation (direction unspecified)	
+566	\Atmosphere\Radiation\IR\Long-wave radiation (downwelling)	Long-wave radiation (downwelling)	
+567	\Atmosphere\Radiation\IR\Long-wave radiation (upwelling)	Long-wave radiation (upwelling)	
+568	\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Ammonium (NH4+)	Ammonium (NH4+)	
+569	\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrate (NO3-)	Nitrate (NO3-)	
+570	\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrite (NO2-)	Nitrite (NO2-)	
+571	\Atmosphere\Radiation\Solar\Diffuse solar radiation	Diffuse solar radiation	
+572	\Atmosphere\Radiation\Solar\Direct solar radiation	Direct solar radiation	
+573	\Atmosphere\Radiation\Solar\Global solar radiation (downwelling)	Global solar radiation (downwelling)	
+574	\Atmosphere\Radiation\Solar\Global solar radiation (upwelling)	Global solar radiation (upwelling)	
+575	\Atmosphere\Radiation\Solar\Reflected solar radiation	Reflected solar radiation	
+576	\Atmosphere\Total Atmospheric Deposition\Organic acid\Acetate (CH3COO-)	Acetate (CH3COO-)	
+577	\Atmosphere\Total Atmospheric Deposition\Organic acid\Formate (HCOO-)	Formate (HCOO-)	
+578	\Atmosphere\Total Atmospheric Deposition\Organic acid\Propionate (C2H5COO-)	Propionate (C2H5COO-)	
+579	"\Atmosphere\Aerosol\Composition\Acidity/Alkalinity, total aerosol"	"Acidity/Alkalinity, total aerosol"	
+589	"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)"	"C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)"	
+590	"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)"	"C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)"	
+591	"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)"	"C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)"	
+592	"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)"	"CCl2F2 (dichlorodifluoromethane, CFC-12)"	
+593	"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)"	"CCl3F (trichlorofluoromethane, CFC-11)"	
+594	\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CCl4 (carbon tetrachloride)	CCl4 (carbon tetrachloride)	
+595	"\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CH3CCl3 (1,1,1-trichloroethane)"	"CH3CCl3 (1,1,1-trichloroethane)"	
+597	\Atmosphere\Total Atmospheric Deposition\Trace elements\Aluminium (Al)	Aluminium (Al)	
+598	\Atmosphere\Total Atmospheric Deposition\Trace elements\Arsenic (As)	Arsenic (As)	
+599	\Atmosphere\Total Atmospheric Deposition\Trace elements\Cadmium (Cd)	Cadmium (Cd)	
+600	\Atmosphere\Total Atmospheric Deposition\Trace elements\Chromium (Cr)	Chromium (Cr)	
+601	\Atmosphere\Total Atmospheric Deposition\Trace elements\Cobalt (Co)	Cobalt (Co)	
+602	\Atmosphere\Total Atmospheric Deposition\Trace elements\Copper (Cu)	Copper (Cu)	
+603	\Atmosphere\Total Atmospheric Deposition\Trace elements\Iron (Fe)	Iron (Fe)	
+604	\Atmosphere\Total Atmospheric Deposition\Trace elements\Lead (Pb)	Lead (Pb)	
+605	\Atmosphere\Total Atmospheric Deposition\Trace elements\Manganese (Mn)	Manganese (Mn)	
+606	\Atmosphere\Total Atmospheric Deposition\Trace elements\Mercury (Hg)	Mercury (Hg)	
+607	\Atmosphere\Total Atmospheric Deposition\Trace elements\Nickel (Ni)	Nickel (Ni)	
+608	\Atmosphere\Total Atmospheric Deposition\Trace elements\Vanadium (V)	Vanadium (V)	
+609	\Atmosphere\Total Atmospheric Deposition\Trace elements\Zinc (Zn)	Zinc (Zn)	
+614	"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1"	"Chloride (Cl-), PM1"	
+615	"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM10"	"Chloride (Cl-), PM10"	
+616	"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5"	"Chloride (Cl-), PM2.5"	
+617	"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol"	"Chloride (Cl-), total aerosol"	
+618	"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol"	"Fluoride (F-), total aerosol"	
+619	"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), corrected"	"Sulphate (SO4=), corrected"	
+620	"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total"	"Sulphate (SO4=), total"	
+621	"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM10"	"Sulphate (SO4=), total, PM10"	
+622	"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM2.5"	"Sulphate (SO4=), total, PM2.5"	
+623	"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon (coarse), PM10"	"Elemental carbon (coarse), PM10"	
+624	"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM1"	"Elemental carbon, PM1"	
+625	"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM2.5"	"Elemental carbon, PM2.5"	
+626	"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Total carbon (coarse), PM10"	"Total carbon (coarse), PM10"	
+632	"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM10"	"Calcium (Ca++), PM10"	
+633	"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM2.5"	"Calcium (Ca++), PM2.5"	
+634	"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), total aerosol"	"Calcium (Ca++), total aerosol"	
+635	"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10"	"Magnesium (Mg++), PM10"	
+636	"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM2.5"	"Magnesium (Mg++), PM2.5"	
+637	"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), total aerosol"	"Magnesium (Mg++), total aerosol"	
+638	"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM10"	"Potassium (K+), PM10"	
+639	"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM2.5"	"Potassium (K+), PM2.5"	
+640	"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), total aerosol"	"Potassium (K+), total aerosol"	
+641	"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM10"	"Sodium (Na+), PM10"	
+642	"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM2.5"	"Sodium (Na+), PM2.5"	
+643	"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), total aerosol"	"Sodium (Na+), total aerosol"	
+644	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonia (NH3), PM2.5"	"Ammonia (NH3), PM2.5"	
+645	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM10"	"Ammonium (NH4+), PM10"	
+646	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM2.5"	"Ammonium (NH4+), PM2.5"	
+647	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), total aerosol"	"Ammonium (NH4+), total aerosol"	
+648	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), total aerosol"	"Ammonium nitrate (NH4NO3), total aerosol"	
+649	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), PM1"	"Ammonium nitrate (NH4NO3), PM1"	
+650	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM10"	"Nitrate (NO3-), PM10"	
+651	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM2.5"	"Nitrate (NO3-), PM2.5"	
+652	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), total aerosol"	"Nitrate (NO3-), total aerosol"	
+653	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrite (NO2-), total aerosol"	"Nitrite (NO2-), total aerosol"	
+654	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol"	"Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol"	
+655	"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol"	"Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol"	
+656	\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated)	Major chemical components (size fractionated)	
+657	\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP)	Major inorganic components (TSP)	
+658	\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (coarse)	Major inorganic components (coarse)	
+659	\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (fine)	Major inorganic components (fine)	
+660	\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse)	Other chemical components (coarse)	
+661	\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine)	Other chemical components (fine)	
+662	"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1"	"C2H3O2- (CH3COO-, acetate), PM1"	
+663	"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol"	"C2H3O2- (CH3COO-, acetate), in aerosol"	
+664	"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1"	"C2O4= (oxalate, ethanedioate), PM1"	
+665	"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10"	"C2O4= (oxalate, ethanedioate), PM10"	
+666	"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol"	"C2O4= (oxalate, ethanedioate), total aerosol"	
+667	"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), PM1"	"CH3O3S- (methanesulphonate), PM1"	
+668	"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), total aerosol"	"CH3O3S- (methanesulphonate), total aerosol"	
+669	"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol"	"CHO2- (HCOO-, formate), in aerosol"	
+670	"\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (coarse), PM10"	"Carbonaceous/organic material (coarse), PM10"	
+671	\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous/organic material (fine)	Carbonaceous/organic material (fine)	
+672	"\Atmosphere\Aerosol\Composition\Trace elements\Titanium (Ti), total aerosol"	"Titanium (Ti), total aerosol"	
+673	"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), PM2.5"	"Aluminium (Al), PM2.5"	
+674	"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), total aerosol"	"Aluminium (Al), total aerosol"	
+675	"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), PM2.5"	"Antimony (Sb), PM2.5"	
+676	"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), total aerosol"	"Antimony (Sb), total aerosol"	
+677	"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), PM10"	"Arsenic (As), PM10"	
+678	"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), total aerosol"	"Arsenic (As), total aerosol"	
+679	"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), PM2.5"	"Barium (Ba), PM2.5"	
+680	"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), total aerosol"	"Barium (Ba), total aerosol"	
+681	"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), PM2.5"	"Bismuth (Bi), PM2.5"	
+682	"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), total aerosol"	"Bismuth (Bi), total aerosol"	
+683	"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM1"	"Cadmium (Cd), PM1"	
+684	"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM10"	"Cadmium (Cd), PM10"	
+685	"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5"	"Cadmium (Cd), PM2.5"	
+686	"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5 thru PM10"	"Cadmium (Cd), PM2.5 thru PM10"	
+687	"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), total aerosol"	"Cadmium (Cd), total aerosol"	
+688	"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), PM2.5"	"Cerium (Ce), PM2.5"	
+689	"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), total aerosol"	"Cerium (Ce), total aerosol"	
+690	"\Atmosphere\Aerosol\Composition\Trace elements\Chromium (Cr), total aerosol"	"Chromium (Cr), total aerosol"	
+691	"\Atmosphere\Aerosol\Composition\Trace elements\Cobalt (Co), total aerosol"	"Cobalt (Co), total aerosol"	
+692	"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), PM10"	"Copper (Cu), PM10"	
+693	"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), total aerosol"	"Copper (Cu), total aerosol"	
+694	"\Atmosphere\Aerosol\Composition\Trace elements\Iron (Fe), total aerosol"	"Iron (Fe), total aerosol"	
+695	"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), PM2.5"	"Lanthanum (La), PM2.5"	
+696	"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), total aerosol"	"Lanthanum (La), total aerosol"	
+697	"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), PM10"	"Lead (Pb), PM10"	
+698	"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), total aerosol"	"Lead (Pb), total aerosol"	
+699	"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), PM2.5"	"Lithium (Li), PM2.5"	
+700	"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), total aerosol"	"Lithium (Li), total aerosol"	
+701	"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), PM10"	"Manganese (Mn), PM10"	
+702	"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), total aerosol"	"Manganese (Mn), total aerosol"	
+703	"\Atmosphere\Aerosol\Composition\Trace elements\Mercury (Hg), total aerosol"	"Mercury (Hg), total aerosol"	
+704	"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), PM10"	"Nickel (Ni), PM10"	
+705	"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), total aerosol"	"Nickel (Ni), total aerosol"	
+706	"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), PM2.5"	"Phosphorous (P), PM2.5"	
+707	"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), total aerosol"	"Phosphorous (P), total aerosol"	
+708	"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), PM2.5"	"Rubidium (Rb), PM2.5"	
+709	"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), total aerosol"	"Rubidium (Rb), total aerosol"	
+710	"\Atmosphere\Aerosol\Composition\Trace elements\Selenium (Se), total aerosol"	"Selenium (Se), total aerosol"	
+711	"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), PM2.5"	"Strontium (Sr), PM2.5"	
+712	"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), total aerosol"	"Strontium (Sr), total aerosol"	
+713	"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), PM2.5"	"Thallium (Tl), PM2.5"	
+714	"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), total aerosol"	"Thallium (Tl), total aerosol"	
+715	"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), PM2.5"	"Thorium (Th), PM2.5"	
+716	"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), total aerosol"	"Thorium (Th), total aerosol"	
+717	"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), PM2.5"	"Tin (Sn), PM2.5"	
+718	"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), total aerosol"	"Tin (Sn), total aerosol"	
+719	"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), PM2.5"	"Uranium (U), PM2.5"	
+720	"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), total aerosol"	"Uranium (U), total aerosol"	
+721	"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), PM2.5"	"Vanadium (V), PM2.5"	
+722	"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol"	"Vanadium (V), total aerosol"	
+723	"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5"	"Zinc (Zn), PM2.5"	
+724	"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol"	"Zinc (Zn), total aerosol"	
+727	\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass)	Aerosol dust concentration (mass)	3-D field of concentration of dust or sand in the atmosphere
+728	\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration)	Aerosol volcanic ash (mass concentration)	3D field of mass mixing ratio of volcanic ash
+729	\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column)	Aerosol volcanic ash (Total column)	Field of total column mass of volcanic ash
+800		(unknown)	The variable is unknown.
+801		(inapplicable)	None of the codes in the table are applicable in the context of this particular observation.
+12000	\Atmosphere\Pressure\Atmospheric pressure profile	Atmospheric pressure profile	Upper-air atmospheric pressure
+12001	\Atmosphere\Lightning\Total lightning density	Total lightning density	
+12002	\Atmosphere\Lightning\Lightning density cloud-to-ground	Lightning density cloud-to-ground	
+12005	\Atmosphere\Wind\Horizontal wind direction at specified distance from reference surface	Horizontal wind direction at specified distance from reference surface	Horizontal wind direction at specified distance from reference surface
+12006	\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface	Horizontal wind speed at specified distance from reference surface	Horizontal wind speed at specified distance from reference surface
