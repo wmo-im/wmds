@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 gnss,,,Global navigation satellite system (GNSS),"A Global Navigation Satellite System (GNSS) signal controlled clock, which receives a signal that comes from the atomic clock of a GNSS constellation of satellites."
 inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
 manualComparison,,,Manual comparison,A regular procedure of manual comparison with a reference clock
