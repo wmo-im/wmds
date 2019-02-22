@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 depression,,,A depression,"Lower than surrounding land beyond a 50 m radius, with no surface outlet for water."
 flat,,,A flat,"Slope less than 3 degrees and not a hilltop, ridge, valley bottom or depression."
 hilltop,,,A hilltop,Higher than all or nearly all of the surrounding land beyond a 50 m radius.
