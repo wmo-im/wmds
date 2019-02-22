@@ -1,4 +1,4 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
+notation,QualityFlagSysURL_efrs,path,name,description
 ABOS,,>WIGOS>GOS>GOS Other elements>ABOS,ABOS,Aircraft-Based Observing Systems
 GAWabos,,>WIGOS>GAW>GAW Other elements>ABOS,ABOS,Aircraft-Based Observing Systems
 ADD,,>WIGOS>GOS>GOS Other elements>ABOS>ADD,ADD,Aircraft Derived Data (Mode-S/ADS-B)
@@ -119,7 +119,7 @@ BSHDWDMB,,>Co-sponsored>GOOS>DBCP>BSH-DWD-MB,BSH-DWD-MB,NA
 BSHMB,,>Co-sponsored>GOOS>DBCP>BSH-MB,BSH-MB,NA
 BSRN,,>WIGOS>GOS>GOS Surface networks>BSRN,BSRN,Baseline Surface Radiation Network
 BULARGO,,>Co-sponsored>GOOS>Argo>BULARGO,BULARGO,NA
-CANDHIS,,>Co-sponsored>GOOS>DBCP>CANDHIS,CANDHIS,CANDHIS Wave buoys (CETMEF/Meteo France - (Centre d'Archivage National de Données de Houle In-Situ) )
+CANDHIS,,>Co-sponsored>GOOS>DBCP>CANDHIS,CANDHIS,CANDHIS Wave buoys (CETMEF/Meteo France - (Centre d'Archivage National de DonnÃ©es de Houle In-Situ) )
 CAPMoN,,>WIGOS>GAW>GAW Other elements>CAPMoN,CAPMoN,Canadian Air and Precipitation Monitoring Network
 CARICOOS,,>Co-sponsored>GOOS>DBCP>CARICOOS,CARICOOS,CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
 CARIOCA,,>Co-sponsored>GOOS>DBCP>CARIOCA,CARIOCA,CARIOCA SOUTHERN OCEAN
