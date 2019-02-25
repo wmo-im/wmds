@@ -1,10 +1,10 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-africa,,,Africa,Africa
-antarctica,,,Antarctica,Antarctica
-asia,,,Asia,Asia
-europe,,,Europe,Europe
-northCentralAmericaCaribbean,,,"North America, Central America and the Caribbean","North America, Central America and the Caribbean"
-southAmerica,,,South America,South America
-southWestPacific,,,South-West Pacific,South-West Pacific
-unknown,,,(unknown),(unknown)
-inapplicable,,,(inapplicable),(inapplicable)
+notation,name,description
+africa,Africa,Africa
+antarctica,Antarctica,Antarctica
+asia,Asia,Asia
+europe,Europe,Europe
+northCentralAmericaCaribbean,"North America, Central America and the Caribbean","North America, Central America and the Caribbean"
+southAmerica,South America,South America
+southWestPacific,South-West Pacific,South-West Pacific
+unknown,(unknown),(unknown)
+inapplicable,(inapplicable),(inapplicable)
