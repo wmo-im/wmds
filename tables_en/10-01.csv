@@ -1,6 +1,6 @@
-id,name,notation,description,status
-,National Focal Point,nationalFocalPoint,Responsible for WIGOS metadata in their country,proposed
-,Program Focal Point,programFocalPoint,Responsible for an observing program (possibly on a global scale),proposed
-,Metadata Editor,metadataEditor,Responsible for maintaining and editing WIGOS metadata in OSCAR in their country,proposed
-,(unknown),unknown,unknown function,
-,(inapplicable),inapplicable,inapplicable function,
+name,notation,description,status
+National Focal Point,nationalFocalPoint,Responsible for WIGOS metadata in their country,proposed
+Program Focal Point,programFocalPoint,Responsible for an observing program (possibly on a global scale),proposed
+Metadata Editor,metadataEditor,Responsible for maintaining and editing WIGOS metadata in OSCAR in their country,proposed
+(unknown),unknown,unknown function,
+(inapplicable),inapplicable,inapplicable function,
