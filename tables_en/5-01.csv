@@ -1,5 +1,6 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-humanObservation,,,Human observation,"Human, non-instrumented observation"
-automaticReading,,,Instrumental automatic reading,Automatically produced measurement result
-manualReading,,,Instrumental manual reading,"Manual reading of instrument, both analog and digital outputs"
-unspecified,,,(unspecified),Procedure used to obtain result unspecified
+notation,name,description
+humanObservation,Human observation,"Human, non-instrumented observation"
+automaticReading,Instrumental automatic reading,Automatically produced measurement result
+manualReading,Instrumental manual reading,"Manual reading of instrument, both analog and digital outputs"
+unknown,(unknown),Procedure used to obtain result is unknown
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation

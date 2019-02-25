@@ -1,14 +1,14 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-broadleafCrops,,,Broadleaf crops,NA
-deciduousBroadleafForest,,,Deciduous broadleaf forest,NA
-deciduousNeedleleafForest,,,Deciduous needleleaf forest,NA
-evergreenBroadleafForest,,,Evergreen broadleaf forest,NA
-evergreenNeedleleafForest,,,Evergreen needleleaf forest,NA
-grassesCerealCrops,,,Grasses/Cereal crops,NA
-nonVegetated,,,Non vegetated,NA
-notApplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason)
-savannas,,,Savanna,NA
-shrubs,,,Shrubs,NA
-unclassified,,,Unclassified,NA
-urban,,,Urban,NA
-water,,,Water,NA
+notation,name,description
+broadleafCrops,Broadleaf crops,NA
+deciduousBroadleafForest,Deciduous broadleaf forest,NA
+deciduousNeedleleafForest,Deciduous needleleaf forest,NA
+evergreenBroadleafForest,Evergreen broadleaf forest,NA
+evergreenNeedleleafForest,Evergreen needleleaf forest,NA
+grassesCerealCrops,Grasses/Cereal crops,NA
+nonVegetated,Non vegetated,NA
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+savannas,Savanna,NA
+shrubs,Shrubs,NA
+unknown,(unknown),NA
+urban,Urban,NA
+water,Water,NA

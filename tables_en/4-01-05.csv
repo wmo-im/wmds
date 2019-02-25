@@ -1,15 +1,15 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-barren,,,Barren or sparse vegetation,NA
-broadLeafCrops,,,Broad-leaf crops,NA
-cerealCrops,,,Cereal crops,NA
-deciduousBroadleafTrees,,,Deciduous Broadleaf trees,NA
-deciduousNeedleafTrees,,,Deciduous Needleleaf trees,NA
-evergreenBroadleafTrees,,,Evergreen Broadleaf trees,NA
-evergreenNeedleTrees,,,Evergreen Needleleaf trees,NA
-FillValue,,,Fill Value,NA
-grass,,,Grass,NA
-shrub,,,Shrub,NA
-snowIce,,,Snow and ice,NA
-unclassified,,,Unclassified,NA
-urbanBuiltUp,,,Urban and built-up,NA
-water,,,Water,None of the codes in the table are applicable in the context of this particular observation (nilReason)
+notation,name,description
+barren,Barren or sparse vegetation,NA
+broadLeafCrops,Broad-leaf crops,NA
+cerealCrops,Cereal crops,NA
+deciduousBroadleafTrees,Deciduous Broadleaf trees,NA
+deciduousNeedleafTrees,Deciduous Needleleaf trees,NA
+evergreenBroadleafTrees,Evergreen Broadleaf trees,NA
+evergreenNeedleTrees,Evergreen Needleleaf trees,NA
+FillValue,Fill Value,NA
+grass,Grass,NA
+shrub,Shrub,NA
+snowIce,Snow and ice,NA
+unknown,(unknown),NA
+urbanBuiltUp,Urban and built-up,NA
+water,Water,NA

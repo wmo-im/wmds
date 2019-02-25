@@ -1,33 +1,34 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-equatorialRainforestFullyHumid,,,Af,Equatorial rainforest - fully humid
-equatorialMonsoon,,,Am,Equatorial - Monsoon
-equatorialSavannahDryWinter,,,As,Equatorial - Savannah - dry winter
-equatorialSavannahDrySummer,,,Aw,Equatorial - Savannah - dry summer
-steppeHotArid,,,BSh,Steppe - Hot arid
-steppeColdArid,,,BSk,Steppe - Cold arid
-desertHotArid,,,BWh,Desert - Hot arid
-desertColdArid,,,BWk,Desert - Cold arid
-warmTemperateFullyHumidHotSummer,,,Cfa,Warm Temperate - Fully humid - Hot summer
-warmTemperateFullyHumidWarmSummer,,,Cfb,Warm Temperate - Fully humid - Warm summer
-warmTemperateFullyHumidCoolSummer,,,Cfc,Warm Temperate - Fully humid - Cool summer
-warmTemperateDryHotSummer,,,Csa,Warm temperate - Dry
-warmTemperateDryWarmSummer,,,Csb,"Warm temperate - Dry, warm summer"
-warmTemperateDryCoolSummer,,,Csc,"Warm temperate - Dry, cool summer"
-warmTemperateDryWinterHotSummer,,,Cwa,Warm Temperate - Dry winter - Hot summer
-warmTemperateDryWinterWarmSummer,,,Cwb,Warm Temperate - Dry winter - Warm summer
-warmTemperateDryWinterCoolSummer,,,Cwc,Warm Temperate - Dry winter - Cool summer
-snowFullyHumidHotSummer,,,Dfa,Snow - Fully humid - Hot summer
-snowFullyHumidWarmSummer,,,Dfb,Snow - Fully humid - Warm summer
-snowFullyHumidCoolSummer,,,Dfc,Snow - Fully humid - Cool summer
-snowFullyHumidVeryColdWinter,,,Dfd,Snow - Fully humid - Very cold winter
-snowDryHotSummer,,,Dsa,Snow - Dry and hot summer
-snowDryWarmSummer,,,Dsb,Snow - Dry and warm summer
-snowDryCoolSummer,,,Dsc,Snow - Dry and cool summer
-snowDrySummerVeryColdWinter,,,Dsd,Snow - Dry summer - Very cold winter
-snowDryWinterHotSummer,,,Dwa,Snow - Dry winter - Hot summer
-snowDryWinterWarmSummer,,,Dwb,Snow - Dry winter - Warm summer
-snowDryWinterColdSummer,,,Dwc,Snow - Dry winter - Cold summer
-snowDryWinterVeryColdWinter,,,Dwd,Snow - Dry winter - Very cold winter
-polarFrost,,,EF,Polar - Frost
-polarTundra,,,ET,Polar - Tundra
-unspecified,,,(unspecified),unspecified
+notation,name,description
+equatorialRainforestFullyHumid,Af,Equatorial rainforest - fully humid
+equatorialMonsoon,Am,Equatorial - Monsoon
+equatorialSavannahDryWinter,As,Equatorial - Savannah - dry winter
+equatorialSavannahDrySummer,Aw,Equatorial - Savannah - dry summer
+steppeHotArid,BSh,Steppe - Hot arid
+steppeColdArid,BSk,Steppe - Cold arid
+desertHotArid,BWh,Desert - Hot arid
+desertColdArid,BWk,Desert - Cold arid
+warmTemperateFullyHumidHotSummer,Cfa,Warm Temperate - Fully humid - Hot summer
+warmTemperateFullyHumidWarmSummer,Cfb,Warm Temperate - Fully humid - Warm summer
+warmTemperateFullyHumidCoolSummer,Cfc,Warm Temperate - Fully humid - Cool summer
+warmTemperateDryHotSummer,Csa,Warm temperate - Dry and hot summer
+warmTemperateDryWarmSummer,Csb,Warm temperate - Dry and warm summer
+warmTemperateDryCoolSummer,Csc,Warm temperate - Dry and cool summer
+warmTemperateDryWinterHotSummer,Cwa,Warm Temperate - Dry winter - Hot summer
+warmTemperateDryWinterWarmSummer,Cwb,Warm Temperate - Dry winter - Warm summer
+warmTemperateDryWinterCoolSummer,Cwc,Warm Temperate - Dry winter - Cool summer
+snowFullyHumidHotSummer,Dfa,Snow - Fully humid - Hot summer
+snowFullyHumidWarmSummer,Dfb,Snow - Fully humid - Warm summer
+snowFullyHumidCoolSummer,Dfc,Snow - Fully humid - Cool summer
+snowFullyHumidVeryColdWinter,Dfd,Snow - Fully humid - Very cold winter
+snowDryHotSummer,Dsa,Snow - Dry and hot summer
+snowDryWarmSummer,Dsb,Snow - Dry and warm summer
+snowDryCoolSummer,Dsc,Snow - Dry and cool summer
+snowDrySummerVeryColdWinter,Dsd,Snow - Dry summer - Very cold winter
+snowDryWinterHotSummer,Dwa,Snow - Dry winter - Hot summer
+snowDryWinterWarmSummer,Dwb,Snow - Dry winter - Warm summer
+snowDryWinterColdSummer,Dwc,Snow - Dry winter - Cold summer
+snowDryWinterVeryColdWinter,Dwd,Snow - Dry winter - Very cold winter
+polarFrost,EF,Polar - Frost
+polarTundra,ET,Polar - Tundra
+unknown,Unknown,(Unknown - The value is unknown or missing.)
+inapplicable,Inapplicable,(Inapplicable.)

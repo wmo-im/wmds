@@ -1,9 +1,10 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-africa,,,Africa,Africa
-antarctica,,,Antarctica,Antarctica
-asia,,,Asia,Asia
-europe,,,Europe,Europe
-northCentralAmericaCaribbean,,,"North America, Central America and the Caribbean","North America, Central America and the Caribbean"
-southAmerica,,,South America,South America
-southWestPacific,,,South-West Pacific,South-West Pacific
-unknown,,,(unknown),(unknown)
+notation,name,description
+africa,Africa,Africa
+antarctica,Antarctica,Antarctica
+asia,Asia,Asia
+europe,Europe,Europe
+northCentralAmericaCaribbean,"North America, Central America and the Caribbean","North America, Central America and the Caribbean"
+southAmerica,South America,South America
+southWestPacific,South-West Pacific,South-West Pacific
+unknown,(unknown),(unknown)
+inapplicable,(inapplicable),(inapplicable)

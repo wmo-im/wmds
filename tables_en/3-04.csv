@@ -1,14 +1,16 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-airFixed,,,Air (fixed),"Airborne station/platform, at fixed position"
-airMobile,,,Air (mobile),"Airborne station/platform, moving around"
-lakeRiverFixed,,,Lake/River (fixed),"Station/platform at lake/river surface, at fixed position"
-lakeRiverMobile,,,Lake/River (mobile),"station/platform at lake/river surface, moving around"
-landFixed,,,Land (fixed) ,"Station/platform on solid terrain, at fixed position"
-landMobile,,,Land (mobile),"Station/platform on solid terrain, moving around"
-landOnIce,,,Land (on ice) ,"Station/platform on ice-covered ground, moving with the ice"
-seaFixed,,,Sea (fixed),"Station/platform at sea surface, at fixed position"
-seaMobile,,,Sea (mobile),"Station/platform at sea surface, moving around"
-seaOnIce,,,Sea (on ice),"Station/platform on floating ice, moving with the ice"
-spaceBased,,,Space-based,Satellite platform in orbit
-underwaterFixed,,,Underwater (fixed),"Station/platform under water, at fixed horizontal position"
-underwaterMobile,,,Underwater (mobile),"Station/platform under water, moving around"
+notation,name,description
+airFixed,Air (fixed),"Airborne station/platform, at fixed position"
+airMobile,Air (mobile),"Airborne station/platform, moving around"
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular station/platform.
+lakeRiverFixed,Lake/River (fixed),"Station/platform at lake/river surface, at fixed position"
+lakeRiverMobile,Lake/River (mobile),"station/platform at lake/river surface, moving around"
+landFixed,Land (fixed) ,"Station/platform on solid terrain, at fixed position"
+landMobile,Land (mobile),"Station/platform on solid terrain, moving around"
+landOnIce,Land (on ice) ,"Station/platform on ice-covered ground, moving with the ice"
+seaFixed,Sea (fixed),"Station/platform at sea surface, at fixed position"
+seaMobile,Sea (mobile),"Station/platform at sea surface, moving around"
+seaOnIce,Sea (on ice),"Station/platform on floating ice, moving with the ice"
+spaceBased,Space-based,Satellite platform in orbit
+underwaterFixed,Underwater (fixed),"Station/platform under water, at fixed horizontal position"
+underwaterMobile,Underwater (mobile),"Station/platform under water, moving around also horizontally"
+unknown,(unknown),The station/platform type is unknown.

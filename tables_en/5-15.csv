@@ -1,7 +1,8 @@
-WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e
-class1,,,Class 1,Exposure of instrument allows reference level measurements
-class2,,,Class 2,Exposure of instrument has small or infrequence influence on measurement
-class3,,,Class 3,Exposure of instrument leads to increased uncertainty or occasional invalid measurements
-class4,,,Class 4,Exposure of instrument leads to high uncertainty or regular invalid measurements
-class5,,,Class 5,Exposure of instrument leads to invalid measurements
-unspecified,,,(unspecified),Classification not specified
+notation,name,description
+class1,Class 1,Exposure of instrument allows reference level measurements
+class2,Class 2,Exposure of instrument has small or infrequence influence on measurement
+class3,Class 3,Exposure of instrument leads to increased uncertainty or occasional invalid measurements
+class4,Class 4,Exposure of instrument leads to high uncertainty or regular invalid measurements
+class5,Class 5,Exposure of instrument leads to invalid measurements
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation
+unknown,(unknown),Classification unknown
