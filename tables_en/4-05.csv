@@ -1,12 +1,12 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-pointingN,,,N,Pointing North
-pointingNE,,,NE,Pointing Northeast
-pointingE,,,E,Pointing East
-pointingSE,,,SE,Pointing Southeast
-pointingS,,,S,Pointing South
-pointingSW,,,SW,Pointing Southwest
-pointingW,,,W,Pointing West
-pointingNW,,,NW,Pointing Northwest
-pointingDown,,,DOWN,Pointing down
-unknown,,,(unknown),Unknown pointing direction
-inapplicable,,,(inapplicable),None of the codes in the table are applicable.
+notation,name,description
+pointingN,N,Pointing North
+pointingNE,NE,Pointing Northeast
+pointingE,E,Pointing East
+pointingSE,SE,Pointing Southeast
+pointingS,S,Pointing South
+pointingSW,SW,Pointing Southwest
+pointingW,W,Pointing West
+pointingNW,NW,Pointing Northwest
+pointingDown,DOWN,Pointing down
+unknown,(unknown),Unknown pointing direction
+inapplicable,(inapplicable),None of the codes in the table are applicable.
