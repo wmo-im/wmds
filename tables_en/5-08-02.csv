@@ -1,6 +1,6 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-inapplicable,,,(inapplicable), None of the codes in the table are applicable in the context of this particular observation
-onSite,,,On site calibration calibration,Instrument control activity performed on site
-laboratory,,,Laboratory calibration,Instrument control activity performed in the laboratory
-remote,,,Remote (non in-situ),Instrument control activity performed remotely
-unknown,,,(unknown),The control location is unknown
+notation,name,description
+inapplicable,(inapplicable), None of the codes in the table are applicable in the context of this particular observation
+onSite,On site calibration calibration,Instrument control activity performed on site
+laboratory,Laboratory calibration,Instrument control activity performed in the laboratory
+remote,Remote (non in-situ),Instrument control activity performed remotely
+unknown,(unknown),The control location is unknown
