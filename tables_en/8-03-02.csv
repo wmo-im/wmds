@@ -1,7 +1,7 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-estimate,,,Estimate,"The data is an estimate only, not a direct measurement."
-good,,,Good,The data has been examined and represents a reliable measurement.
-missing,,,Missing,The data is missing.
-poor,,,Poor,The data should be considered as low quality and may have been rejected.
-suspect,,,Suspect,The data should be treated as suspect.
-unchecked,,,Unchecked,The data has not been checked by any qualitative or quantitative method.
+notation,name,description
+estimate,Estimate,"The data is an estimate only, not a direct measurement."
+good,Good,The data has been examined and represents a reliable measurement.
+missing,Missing,The data is missing.
+poor,Poor,The data should be considered as low quality and may have been rejected.
+suspect,Suspect,The data should be treated as suspect.
+unchecked,Unchecked,The data has not been checked by any qualitative or quantitative method.
