@@ -1,10 +1,10 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-globCover2009,,,Surface cover types (GlobCover2009),GlobCover 2009 land cover map is derived by an automatic and regionally-tuned classification of a time series of global MERIS FR mosaics for the year 2009. The global land cover map counts 22 land cover classes defined with the United Nations (UN) Land Cover Classification System (LCCS). 
-igbp,,,Surface cover types (IGBP),International Geosphere-Biosphere Programme land cover classification scheme
-laifpar,,,Surface cover types (LAI/fPAR),Leaf Area Index (LAI) and Fractional Photosynthetically Active Radiation (FPAR). FPAR/LAI is the Fraction of Absorbed Photosynthetically Active radiation that a plant canopy absorbs for photosynthesis and growth in the 0.4 - 0.7nm spectral range.
-lccs,,,Surface cover types (LCCS),"FAO/UNEP land cover classification scheme (LCCS), a comprehensive, standardized a priori classification system, independent of the scale or means used to map. The system can be used for any land cover classification initiative anywhere in the world, using a set of independent diagnostic criteria that allow correlation with existing classifications and legends."
-npp,,,Surface cover types (NPP),MODIS-derived Net Primary Production (NPP) surface cover scheme
-pft,,,Surface cover types (PFT),Plant Functional Types (PFT) land cover scheme
-umd,,,Surface cover types (UMD),"The University of Maryland, Department of Geography generated global land cover classification collection from 1998. http://glcf.umd.edu/data/landcover/"
-unknown,,,(unknown),The Surface cover classification scheme is unknown for this particular surface cover.
-inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular surface cover observation.
+notation,name,description
+globCover2009,Surface cover types (GlobCover2009),GlobCover 2009 land cover map is derived by an automatic and regionally-tuned classification of a time series of global MERIS FR mosaics for the year 2009. The global land cover map counts 22 land cover classes defined with the United Nations (UN) Land Cover Classification System (LCCS). 
+igbp,Surface cover types (IGBP),International Geosphere-Biosphere Programme land cover classification scheme
+laifpar,Surface cover types (LAI/fPAR),Leaf Area Index (LAI) and Fractional Photosynthetically Active Radiation (FPAR). FPAR/LAI is the Fraction of Absorbed Photosynthetically Active radiation that a plant canopy absorbs for photosynthesis and growth in the 0.4 - 0.7nm spectral range.
+lccs,Surface cover types (LCCS),"FAO/UNEP land cover classification scheme (LCCS), a comprehensive, standardized a priori classification system, independent of the scale or means used to map. The system can be used for any land cover classification initiative anywhere in the world, using a set of independent diagnostic criteria that allow correlation with existing classifications and legends."
+npp,Surface cover types (NPP),MODIS-derived Net Primary Production (NPP) surface cover scheme
+pft,Surface cover types (PFT),Plant Functional Types (PFT) land cover scheme
+umd,Surface cover types (UMD),"The University of Maryland, Department of Geography generated global land cover classification collection from 1998. http://glcf.umd.edu/data/landcover/"
+unknown,(unknown),The Surface cover classification scheme is unknown for this particular surface cover.
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular surface cover observation.
