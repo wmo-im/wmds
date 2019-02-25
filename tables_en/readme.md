@@ -102,7 +102,7 @@
 
 [8-05.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/8-05.csv) Traceability
 
-[9-02.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/9-02.csv) WMO_DataLicenseCode 
+[9-02.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/9-02.csv) Data policy/use constraints 
 
 [10-01.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/10-01.csv) WIGOS Functions
 
