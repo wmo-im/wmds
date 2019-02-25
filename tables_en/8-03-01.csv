@@ -1,9 +1,9 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-suspect,,,Doubtful,The data should be treated as suspect.
-estimate,,,Estimated,The value has been estimated rather than measured.
-good,,,Good,The data has been examined and represents a reliable measurement.
-changed,,,Has been changed,The original value has been replaced with another value.
-inconsistent,,,Inconsistent,The data has been examined and one or more parameters are inconsistent; the relationship between different elements does not meet defined criteria.
-missing,,,Missing value,The data is missing.
-unchecked,,,Not checked,The data has not been checked by any qualitative or quantitative method.
-erroneous,,,Wrong,The data has been examined and determined to contain errors
+notation,name,description
+suspect,Doubtful,The data should be treated as suspect.
+estimate,Estimated,The value has been estimated rather than measured.
+good,Good,The data has been examined and represents a reliable measurement.
+changed,Has been changed,The original value has been replaced with another value.
+inconsistent,Inconsistent,The data has been examined and one or more parameters are inconsistent; the relationship between different elements does not meet defined criteria.
+missing,Missing value,The data is missing.
+unchecked,Not checked,The data has not been checked by any qualitative or quantitative method.
+erroneous,Wrong,The data has been examined and determined to contain errors

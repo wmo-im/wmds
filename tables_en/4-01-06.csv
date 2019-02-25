@@ -1,11 +1,11 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-artificialSurfaces,,,Artificial Surfaces and Associated Areas,
-artificialWaterbodiesSnowIce,,,"Artificial Waterbodies, Snow and Ice",
-bareAreas,,,Bare Areas,
-cultivatedManagedTerrestrial,,,Cultivated and Managed Terrestrial Areas,
-cultivatedAquatic,,,Cultivated Aquatic or Regularly Flooded Areas,
-naturalSemiNaturalAquatic,,,Natural and Semi-Natural Aquatic or Regularly Flooded Vegetation,
-naturalSemiNaturalTerrestrial,,,Natural and Semi-Natural Terrestrial Vegetation,
-naturalWaterbodiesSnowIce,,,"Natural Waterbodies, Snow and Ice",
-inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
-unknown,,,(unknown),
+notation,name,description
+artificialSurfaces,Artificial Surfaces and Associated Areas,
+artificialWaterbodiesSnowIce,"Artificial Waterbodies, Snow and Ice",
+bareAreas,Bare Areas,
+cultivatedManagedTerrestrial,Cultivated and Managed Terrestrial Areas,
+cultivatedAquatic,Cultivated Aquatic or Regularly Flooded Areas,
+naturalSemiNaturalAquatic,Natural and Semi-Natural Aquatic or Regularly Flooded Vegetation,
+naturalSemiNaturalTerrestrial,Natural and Semi-Natural Terrestrial Vegetation,
+naturalWaterbodiesSnowIce,"Natural Waterbodies, Snow and Ice",
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,(unknown),

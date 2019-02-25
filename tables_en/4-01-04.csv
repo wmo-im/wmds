@@ -1,11 +1,11 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-annualBroadleafVegetation,,,Annual broadleaf vegetation,NA
-deciduousBroadleafVegetation,,,Deciduous broadleaf vegetation,NA
-deciduousNeedleleafVegetation,,,Deciduous needleleaf vegetation,NA
-evergreenBroadleafVegetation,,,Evergreen broadleaf vegetation,NA
-evergreenNeedleleafVegetation,,,Evergreen needleleaf vegetation,NA
-nonVegetated,,,Non-vegetated land,NA
-inapplicable,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
-unknown,,,(unknown),NA
-urban,,,Urban,NA
-water,,,Water,NA
+notation,name,description
+annualBroadleafVegetation,Annual broadleaf vegetation,NA
+deciduousBroadleafVegetation,Deciduous broadleaf vegetation,NA
+deciduousNeedleleafVegetation,Deciduous needleleaf vegetation,NA
+evergreenBroadleafVegetation,Evergreen broadleaf vegetation,NA
+evergreenNeedleleafVegetation,Evergreen needleleaf vegetation,NA
+nonVegetated,Non-vegetated land,NA
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
+unknown,(unknown),NA
+urban,Urban,NA
+water,Water,NA

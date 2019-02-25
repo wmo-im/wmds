@@ -1,5 +1,5 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-additional,,,Additional,Additional or supplemented observation of the observed variable
-inapplicable,,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation
-primary,,,Primary,The primary or official observation of the observed variable
-unknown,,,(unknown),The status of the observation is unknown
+notation,name,description
+additional,Additional,Additional or supplemented observation of the observed variable
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation
+primary,Primary,The primary or official observation of the observed variable
+unknown,(unknown),The status of the observation is unknown

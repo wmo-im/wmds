@@ -1,8 +1,8 @@
-notation,QualityFlagSysURL_efrs,path,name,description
-high,,,at High,Between 75% and 95% of the elevation range
-highest,,,at Highest,In the highest 5% of the elevation range
-low,,,at Low,Between 5% and 25% of the elevation range
-lowest,,,at Lowest,In the bottom 5% of the elevation range
-middle,,,at Middle,Between 25% and 75% of the elevation range
-inapplicable,,,(inapplicable),"Inapplicable (topographic context is ""Plains"" or ""Basins"")"
-unknown,,,(unknown),The relative elevation is unknown.
+notation,name,description
+high,at High,Between 75% and 95% of the elevation range
+highest,at Highest,In the highest 5% of the elevation range
+low,at Low,Between 5% and 25% of the elevation range
+lowest,at Lowest,In the bottom 5% of the elevation range
+middle,at Middle,Between 25% and 75% of the elevation range
+inapplicable,(inapplicable),"Inapplicable (topographic context is ""Plains"" or ""Basins"")"
+unknown,(unknown),The relative elevation is unknown.
