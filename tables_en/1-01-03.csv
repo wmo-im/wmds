@@ -20,7 +20,7 @@ notation,path,name,description
 79,\Ocean\Miscellaneous\pH,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity."
 82,\Ocean\Biology\SiO3= (metasilicate),SiO3= (metasilicate),
 84,"\Ocean\Other Gas\N2, Ar, O2 ","N2, Ar, O2 ",
-85,\Ocean\Other Gas\O2/Ar ratio,O2/Ar ratio,
+85,\Ocean\Other Gas\O2-Ar ratio,O2-Ar ratio,
 86,\Ocean\Other Gas\Ocean subsurface dissolved oxygen concentration,Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen.
 87,"\Ocean\Other Gas\Oxygen, dissolved","Oxygen, dissolved",
 89,\Ocean\Radiation\Water-leaving spectral radiance,Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle."
@@ -40,18 +40,18 @@ notation,path,name,description
 312,\Ocean\Biology\Nitrogen species\NO3- (nitrate),NO3- (nitrate),Nitrate concentration in sea water.
 399,\Ocean\Biology\Phosporus species\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water.
 400,\Ocean\Biology\Phosporus species\Total organic phosphorus,Total organic phosphorus,
-401,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
-402,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
-403,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
-404,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)."
-405,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
-406,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
-407,\Ocean\Snow / Ice / Glacier\Ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
+401,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
+402,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
+403,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
+404,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)."
+405,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
+406,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
+407,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
 408,\Ocean\Transmissivity\CTD\Transmissivity,Transmissivity,
 549,\Ocean\Other Gas\CTD\pO2,pO2,
 731,\Ocean\Basic Physical Properties\Conductivity,Conductivity,Conductivity measured by CTD or MicroCAT
 732,\Ocean\Basic Physical Properties\Density,Density,Density measured by CTD
-733,\Ocean\Biology\Zooplankton (size and/or development stage),Zooplankton (size and/or development stage),"Aggregate of animal or animal-like organisms in plankton, as protozoans."
+733,\Ocean\Biology\Zooplankton (size and-or development stage),Zooplankton (size and-or development stage),"Aggregate of animal or animal-like organisms in plankton, as protozoans."
 735,\Ocean\Greenhouse Gas\pCO2,pCO2,Partial pressure of CO2.
 736,\Ocean\Greenhouse Gas\pCO2 air-sea flux,pCO2 air-sea flux,Flux of CO2 from the ocean into the atmosphere
 739,\Ocean\Miscellaneous\Fluorescence (DOM),Fluorescence (DOM),Flurometric coloured dissolved Organic matter concentration.
