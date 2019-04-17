@@ -9,7 +9,7 @@ notation,path,name,description
 231,\Terrestrial\Land surface\Breaking action-friction coefficient,Breaking action-friction coefficient,
 232,\Terrestrial\Land surface\Coastlines,Coastlines,Location of coastlines (Lat/Long)
 236,\Terrestrial\Land surface\Land cover,Land cover,"Processed from land surface imagery by assigning identified cluster(s) within a given area to specific classes of objects - Accuracy expressed as number of classes. Actually [ classes-1 ] is used, so that smaller figure corresponds to better performance, as usual."
-237,\Terrestrial\Land surface\Land surface topography,Land surface topography,Map of land surface heights - Physical unit: [ m ] - Accuracy unit: [ m ].
+237,\Terrestrial\Land surface\Land surface topography,Land surface topography,Map of land surface heights.
 239,\Terrestrial\Land surface\Runway conditions,Runway conditions,
 243,\Terrestrial\Land surface\Wetland extent,Wetland extent,Fraction of an area flood by water.
 245,\Terrestrial\Soil\Soil heat Flux,Soil heat Flux,
@@ -18,10 +18,10 @@ notation,path,name,description
 386,\Terrestrial\Land surface\Fire\Fire fractional cover,Fire fractional cover,Fraction of a land area where fire is occurring.
 387,\Terrestrial\Land surface\Fire\Fire radiative power,Fire radiative power,Power radiated by the fire occurring within an area.
 388,\Terrestrial\Land surface\Fire\Fire temperature,Fire temperature,Temperature of the fire occurring within an area.
-389,\Terrestrial\Land surface\Temperature\Land surface temperature,Land surface temperature,Temperature of the apparent surface of land (bare soil or vegetation) - Physical unit: [ K ] - Accuracy unit: [ K ].
-410,\Terrestrial\Lake\Temperature\Lake Surface Temperature,Lake Surface Temperature,Temperature of the lake surface - Physical unit: [ K ] - Accuracy unit: [ K ].
+389,\Terrestrial\Land surface\Temperature\Land surface temperature,Land surface temperature,Temperature of the apparent surface of land (bare soil or vegetation).
+410,\Terrestrial\Lake\Temperature\Lake Surface Temperature,Lake Surface Temperature,Temperature of the lake surface.
 422,\Terrestrial\Land surface\Greenhouse Gas\CO2 flux,CO2 flux,Flux of carbon dioxide from the surface to the atmosphere
-423,\Terrestrial\Land surface\Vegetation\Biomass,Biomass,Total amount of vegetation in a reference area - Physical unit: [ t/ha (tons/hectare) ] - Accuracy unit: [ t/ha ]
+423,\Terrestrial\Land surface\Vegetation\Biomass,Biomass,Total amount of vegetation in a reference area
 424,\Terrestrial\Land surface\Vegetation\Fraction of vegetated land,Fraction of vegetated land,Fraction of a land area where vegetation is present.
 425,\Terrestrial\Land surface\Vegetation\Leaf Area Index (LAI),Leaf Area Index (LAI),"LAI (Leaf Area Index, LAI) is the total one-sided area of photosynthetic tissue per unit ground surface area."
 426,\Terrestrial\Land surface\Vegetation\Normalised Difference Vegetation Index (NDVI),Normalised Difference Vegetation Index (NDVI),"Difference between maximum (in NIR) and minimum (around the Red) vegetation reflectance, normalised to the summation. Representative of total biomass, supportive for computing LAI if not directly measured."
