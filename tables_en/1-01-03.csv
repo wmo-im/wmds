@@ -63,3 +63,4 @@ notation,path,name,description
 745,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."
 800,,(unknown),The variable is unknown.
 801,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+10080,\Ocean\Tides,Tides,
