@@ -1,10 +1,10 @@
-id,name,description,notation
-1,Point,a zero-dimensional feature,point
-2,Total column,the integral of the vertical distribution of a feature,totalColumn
-3,Vertical profile,synonymous to vertical distribution of a feature,verticalProfile
-4,Line,"a one-dimensional feature, either a straight line, or a curve; synonmous with trajectory",line
-5,Area,"a two-dimensional feature, either a plane, or some other surface",area
-6,Volume,a three-dimensional feature,volume
-7,(unknown),observing geometry unknown,unknown
-8,(inapplicable),observing geometry inapplicable,inapplicable
+id,notation,name,description
+1,point,Point,a zero-dimensional feature
+2,totalColumn,Total column,the integral of the vertical distribution of a feature,
+3,verticalProfile,Vertical profile,synonymous to vertical distribution of a feature
+4,line,Line,"a one-dimensional feature, either a straight line, or a curve; synonmous with trajectory"
+5,area,Area,"a two-dimensional feature, either a plane, or some other surface"
+6,volume,Volume,a three-dimensional feature
+7,unknown,(unknown),observing geometry unknown
+8,inapplicable,(inapplicable),observing geometry inapplicable
 
