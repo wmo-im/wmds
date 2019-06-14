@@ -1,8 +1,8 @@
 notation,name,description
-naturalGround,natural ground,"The natural interface between the atmosphere and the terrestrial globe (sphere), not artificially elevated with respect to the nearby surrounding area (on a scale of 50 meters)"
-artificialGround,artificial ground,"The artificial interface between the atmosphere and the terrestrial globe (sphere), not artificially elevated with respect to the nearby surrounding area (on a scale of 50 meters)"
-seaSurface,sea surface,"The natural interface between the atmosphere and the ocean"
-shipDeck,ship deck,"A permanent covering over a compartment or the body of a ship. Also the horizontal structure that forms the roof of the hull, elevated with respect to the surrounding sea surface"
-buildingRoof,building roof,"The top of a building, elevated with respect to the surrounding local ground"
+naturalGround,natural ground,"The natural surface at the interface between the atmosphere and the terrestrial globe, not elevated with respect to the nearby surrounding area (on a scale of 50 meters)"
+artificialGround,artificial ground,"An artificial surface at the interface between the atmosphere and the terrestrial globe, not elevated with respect to the nearby surrounding area (on a scale of 50 meters)"
+seaSurface,sea surface,"The natural surface of the sea at the interface between the atmosphere and the ocean"
+deck,deck,"A permanent covering over a compartment or the body of a fixed or mobile platform (ship). Also the horizontal structure that forms the roof of the hull, elevated with respect to the surrounding sea surface"
+buildingRoof,building roof,"The top or other part of a building, elevated with respect to the surrounding local ground"
 unknown,(unknown),The reference surface is unknown
 inapplicable,(inapplicable),None of the codes in the table are applicable in the context of the reference surface
