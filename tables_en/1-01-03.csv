@@ -61,5 +61,5 @@ notation,path,name,description
 743,\Ocean\Waves\Wave height,Wave height,Average of height (trough to crest) of the waves sampled over a specified time period.
 744,\Ocean\Waves\Wave period,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
 745,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."
-800,,(unknown),The variable is unknown.
-801,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,,(unknown),The variable is unknown.
+inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
