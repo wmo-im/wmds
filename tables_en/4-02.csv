@@ -5,6 +5,6 @@ laifpar,Surface cover types (LAI/fPAR),Leaf Area Index (LAI) and Fractional Phot
 lccs,Surface cover types (LCCS),"FAO/UNEP land cover classification scheme (LCCS), a comprehensive, standardized a priori classification system, independent of the scale or means used to map. The system can be used for any land cover classification initiative anywhere in the world, using a set of independent diagnostic criteria that allow correlation with existing classifications and legends."
 npp,Surface cover types (NPP),MODIS-derived Net Primary Production (NPP) surface cover scheme
 pft,Surface cover types (PFT),Plant Functional Types (PFT) land cover scheme
-umd,Surface cover types (UMD),"The University of Maryland, Department of Geography generated global land cover classification collection from 1998. http://glcf.umd.edu/data/landcover/"
-unknown,(unknown),The Surface cover classification scheme is unknown for this particular surface cover.
+umd,Surface cover types (UMD),"The University of Maryland, Department of Geography generated global land cover classification collection from 1998. See also: http://glcf.umd.edu/data/landcover/"
+unknown,(unknown),The Surface cover classification scheme is unknown for this particular surface cover observation.
 inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular surface cover observation.
