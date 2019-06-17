@@ -7,4 +7,4 @@ partlyOperational,Partly operational,The station partially complies with the rep
 planned,Planned,"The station is planned to be deployed sometime in the future, and all information provided is indicative only. No observations are taken."
 preOperational,Pre-operational,The station is deployed and producing data but still not fully ready to start reporting operationally.
 standBy,Stand-by,NA
-unknown,(unknown),The operating status of this particular station/platform type is unknown.
+unknown,(unknown),The declared operating status of this particular station/platform is unknown.
