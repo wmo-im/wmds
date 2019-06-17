@@ -1,10 +1,10 @@
 notation,path,name,description
-6,\Earth\Crustal motion (horizontal and vertical),Crustal motion (horizontal and vertical),"Changes in time of the position and height of the Earth plates. Indicative of the lithosphere dynamics, thus useful for earthquake prediction - Physical unit: [ mm/y ] - Accuracy unit: [ mm/y ]."
-7,\Earth\Crustal plates positioning,Crustal plates positioning,Basis for monitoring the evolution of the lithosphere dynamics - Physical unit: [ cm ] - Accuracy unit: [ cm ].
-8,\Earth\Earth Rotation,Earth Rotation,"Rotation velocity of the Earth, determining the length of the day - Physical unit: [Rad/s] - Accuracy unit: [Arcsec/century]."
-9,\Earth\Geoid,Geoid,"Equipotential surface which would coincide exactly with the mean ocean surface of the Earth, if the oceans were in equilibrium, at rest, and extended through the continents (such as with very narrow channels) - Physical unit: [ cm ] - Accuracy unit: [ cm ]."
+6,\Earth\Crustal motion (horizontal and vertical),Crustal motion (horizontal and vertical),"Changes in time of the position and height of the Earth plates. Indicative of the lithosphere dynamics, thus useful for earthquake prediction."
+7,\Earth\Crustal plates positioning,Crustal plates positioning,Basis for monitoring the evolution of the lithosphere dynamics.
+8,\Earth\Earth Rotation,Earth Rotation,"Rotation velocity of the Earth, determining the length of the day."
+9,\Earth\Geoid,Geoid,"Equipotential surface which would coincide exactly with the mean ocean surface of the Earth, if the oceans were in equilibrium, at rest, and extended through the continents (such as with very narrow channels)."
 10,\Earth\Geomagnetic field,Geomagnetic field,"Magnitude and direction of the 3D magnetic field on the surface of Earth and within the magnetosphere (i.e., in low-Earth orbit and in geosynchronous orbit)."
-11,\Earth\Gravity field,Gravity field,Indicative of the statics and dynamics of the lithosphere and the mantle - Physical unit: [ mGal ] where : 1 Gal = 0.01 m s-2.
-12,\Earth\Gravity gradients,Gravity gradients,"Gradient of the Earth's gravity field measured at the satellite orbital height - Physical unit: [ E ] , Eötvös (1 E = 1 mGal / 10 km) - Accuracy unit: [ E ]."
+11,\Earth\Gravity field,Gravity field,Indicative of the statics and dynamics of the lithosphere and the mantle.
+12,\Earth\Gravity gradients,Gravity gradients,"Gradient of the Earth's gravity field measured at the satellite orbital height."
 800,,(unknown),The variable is unknown.
 801,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
