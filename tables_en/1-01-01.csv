@@ -439,8 +439,8 @@ notation,path,name,description
 727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
 728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
 729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
-800,,(unknown),The variable is unknown.
-801,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,,(unknown),The variable is unknown.
+inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
 12000,\Atmosphere\Pressure\Atmospheric pressure profile,Atmospheric pressure profile,Upper-air atmospheric pressure
 12001,\Atmosphere\Lightning\Total lightning density,Total lightning density,
 12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
