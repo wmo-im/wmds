@@ -6,7 +6,7 @@ deciduousBroadleafTrees,Deciduous Broadleaf trees,NA
 deciduousNeedleafTrees,Deciduous Needleleaf trees,NA
 evergreenBroadleafTrees,Evergreen Broadleaf trees,NA
 evergreenNeedleTrees,Evergreen Needleleaf trees,NA
-FillValue,Fill Value,NA
+fillValue,Fill Value,NA
 grass,Grass,NA
 shrub,Shrub,NA
 snowIce,Snow and ice,NA
