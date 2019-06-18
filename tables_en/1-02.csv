@@ -164,7 +164,7 @@ rad_s-1, radian per second,
 mGal, milligal, "1 Gal = 0.01 m_s-2"
 E, Eötvös, "1 E = 1 mGal / 10 km"
 t_ha-1, (metric) ton per hectare,
-psu, Practical Salinity Unit, "close to 1, determined by CTD" 
+psu, practical salinity unit, "close to 1, determined by CTD"
 ppmv, parts per million by volume dry air,
 ppbv, parts per billion by volume dry air,
 pptv, parts per trillion by volume dry air,
