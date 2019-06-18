@@ -72,7 +72,9 @@
 
 [5-02-05.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-02-05.csv) Measurement/observing method (terrestrial)
 
-[5-04.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-04.csv) Instrument operating status 
+[5-04.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-04.csv) Instrument operating status
+
+[5-05.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-05.csv) Type of reference surface 
 
 [5-08-01.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-08-01.csv) Control standard type
 
