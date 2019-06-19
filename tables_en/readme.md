@@ -46,7 +46,7 @@
 
 [4-01-06.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-06.csv) Surface cover types (LCCS)
 
-[4-01-07.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-07.csv) Surface cover types (?)
+[4-01-07.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-07.csv) Surface cover types (GlobCover 2009)
 
 [4-02.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-02.csv) Surface cover classification scheme
 
