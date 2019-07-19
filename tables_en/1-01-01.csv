@@ -375,7 +375,6 @@ notation,path,name,description
 572,\Atmosphere\Radiation\Solar\Direct solar radiation,Direct solar radiation,
 573,\Atmosphere\Radiation\Solar\Global solar radiation (downwelling),Global solar radiation (downwelling),
 574,\Atmosphere\Radiation\Solar\Global solar radiation (upwelling),Global solar radiation (upwelling),
-575,\Atmosphere\Radiation\Solar\Reflected solar radiation,Reflected solar radiation,
 270,\Atmosphere\Radiation\Sunshine duration,Sunshine duration,
 271,\Atmosphere\Radiation\Surface albedo,Surface albedo,
 356,\Atmosphere\Radiation\UV\UV Broadband,UV Broadband,
