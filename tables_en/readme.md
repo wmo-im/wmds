@@ -46,7 +46,7 @@
 
 [4-01-06.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-06.csv) Surface cover types (LCCS)
 
-[4-01-07.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-07.csv) Surface cover types (?)
+[4-01-07.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-01-07.csv) Surface cover types (Globcover2009)
 
 [4-02.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/4-02.csv) Surface cover classification scheme
 
@@ -72,7 +72,9 @@
 
 [5-02-05.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-02-05.csv) Measurement/observing method (terrestrial)
 
-[5-04.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-04.csv) Instrument operating status 
+[5-04.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-04.csv) Instrument operating status
+
+[5-05.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-05.csv) Type of reference surface 
 
 [5-08-01.csv](https://github.com/wmo-im/wmds/blob/Development/tables_en/5-08-01.csv) Control standard type
 

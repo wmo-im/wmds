@@ -1,6 +1,6 @@
-notation,qualityflagURL,name,description
-other,NA,Other quality flagging system,Quality flags are specified according to another system
-unknown,NA,(unknown),Quality flagging system not known
-waterML2.0,http://www.opengis.net/def/waterml/2.0/quality/,WaterML2,"Quality flags are specified according to WaterML2, http://www.opengis.net/def/waterml/2.0/quality/"
-bufr033020,http://codes.wmo.int/bufr4/codeflag/0-33-020,WMO BUFR table 0 33 020,Quality flags are specified according to BUFR table 0 33 020 (http://codes.wmo.int/bufr4/codeflag/0-33-020)
-inapplicable,NA,(inapplicable),None of the codes in the table are applicable in the context of this particular observation
+notation,name,description
+other,Other quality flagging system,Quality flags are specified according to another system
+unknown,(unknown),Quality flagging system not known
+waterML2.0,WaterML2,"Quality flags are specified according to WaterML2 (quality flag URL: http://www.opengis.net/def/waterml/2.0/quality/)"
+bufr033020,WMO BUFR table 0 33 020,"Quality flags are specified according to BUFR table 0 33 020 (quality flag URL: http://codes.wmo.int/bufr4/codeflag/0-33-020)"
+inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation

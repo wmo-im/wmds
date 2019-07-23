@@ -2,6 +2,7 @@ notation,name,description
 AFG,Afghanistan,Afghanistan
 ALB,Albania,Albania
 DZA,Algeria,Algeria
+AND,Andorra,Andorra
 AGO,Angola,Angola
 AIA,Anguilla,Anguilla
 ATG,Antigua and Barbuda,Antigua and Barbuda
@@ -220,5 +221,5 @@ ESH,Western Sahara,Western Sahara
 YEM,Yemen,Yemen
 ZMB,Zambia,Zambia
 ZWE,Zimbabwe,Zimbabwe
-unknown,(unknown),Territory unkown.
+unknown,(unknown),Territory unknown.
 inapplicable,(inapplicable),Territory not applicable.
