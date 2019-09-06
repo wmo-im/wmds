@@ -1,4 +1,4 @@
-﻿notation,name,description
+notation,name,description
 drainageArea,drainage area,"An area (also known as 'catchment') having a common outlet for its surface runoff, in km2."
 largeScale,large scale (100 km .. < 3000 km),"An area or volume of 100 km to 3000 km horizontal extent (for example, fronts, various cyclones, cloud clusters)."
 mesoscale,mesoscale (3 km .. < 100 km),"An area or volume of 3 km to 100 km horizontal extent (for example, thunderstorms, sea and mountain breezes)."
