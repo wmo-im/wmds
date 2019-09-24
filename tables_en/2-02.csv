@@ -155,7 +155,6 @@ coriolisSpice,\Co-sponsored\GOOS\Argo\CORIOLIS-SPICE,CORIOLIS-SPICE,NA
 coriolisTrack,\Co-sponsored\GOOS\Argo\CORIOLIS-TRACK,CORIOLIS-TRACK,NA
 CORMPNC,\Co-sponsored\GOOS\DBCP\CORMP-NC,CORMP-NC,Coastal Ocean Research and Monitoring Program -NC
 coSponsored,\Co-sponsored,Co-sponsored,WMO contributions to co-sponsored observing systems
-CryoNet,\WIGOS\GCW\CryoNet,CryoNet,NA
 CTBTO,\WIGOS\GOS\GOS Contributing networks\CTBTO,CTBTO,Comprehensive Nuclear-Test Ban Treaty Organization International Monitoring System Network monitoring station
 DBCP,\Co-sponsored\GOOS\DBCP,DBCP,NA
 DBCPothers,\Co-sponsored\GOOS\DBCP\DBCP others,DBCP others,NA
@@ -188,6 +187,9 @@ GAWPFR,\WIGOS\GAW\GAW Contributing networks\GAW-PFR,GAW-PFR,GAW Precision Filter
 GAWregional,\WIGOS\GAW\GAW Regional,GAW Regional,Regional GAW station
 GCOS,\Co-sponsored\GCOS,GCOS,Global Climate Observing System
 GCW,\WIGOS\GCW,GCW,Global Cryosphere Watch
+GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
+GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
+GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."
 germanAODnetwork,\WIGOS\GAW\GAW Other elements\AOD\German AOD network,German AOD network,German Aerosol Optical Depth Network
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY 
 GLOSCAL,\Co-sponsored\GOOS\DBCP\GLOSCAL,GLOSCAL,"GLOSCAL is a  French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."
