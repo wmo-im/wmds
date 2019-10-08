@@ -5,10 +5,10 @@
 
 <Representativeness/unspecified> a skos:Concept ;
     skos:notation "unspecified" ;
-    rdfs:label "(unspecified)"@en ,
-    "(non précisé)"@fr ,
-    "(sin especificar)"@es ,
-    "(не определено)"@ru ;
+    rdfs:label "unspecified"@en ,
+    "non précisé"@fr ,
+    "sin especificar"@es ,
+    "не определено"@ru ;
     dct:description  "Not applicable in the context of the observed quantity; or: unknown; or: not available."@en ,
     "Sans objet dans le contexte de la grandeur observée, information inconnue ou information non disponible."@fr ,
     "No se aplica en el contexto de la cantidad observada; o: desconocido; o: no disponible."@es ,

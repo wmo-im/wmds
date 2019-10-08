@@ -5,10 +5,10 @@
 
 <ReferenceTime/unknown> a skos:Concept ;
     skos:notation "unknown" ;
-    rdfs:label "(unknown)"@en ,
+    rdfs:label "unknown"@en ,
     "Inconnu"@fr ,
-    "(desconocida)"@es ,
-    "(неизвестно)"@ru ;
+    "desconocida"@es ,
+    "неизвестно"@ru ;
     dct:description  "Source of reference time unknown"@en ,
     "Source du temps de référence inconnue"@fr ,
     "Fuente de la hora de referencia desconocida"@es ,

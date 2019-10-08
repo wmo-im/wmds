@@ -38,10 +38,10 @@
 
 <DataPolicy/noLimitation> a skos:Concept ;
     skos:notation "noLimitation" ;
-    rdfs:label "(unspecified)"@en ,
-    "(non précisé)"@fr ,
-    "(sin especificar)"@es ,
-    "(не определено)"@ru ;
+    rdfs:label "unspecified"@en ,
+    "non précisé"@fr ,
+    "sin especificar"@es ,
+    "не определено"@ru ;
     dct:description  "No limitation on distribution or use"@en ,
     "Aucune limitation relative à la diffusion ou à l’utilisation des données"@fr ,
     "Distribución o uso ilimitados."@es ,

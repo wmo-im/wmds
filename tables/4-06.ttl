@@ -5,10 +5,10 @@
 
 <SurfaceRoughnessDavenport/unspecified> a skos:Concept ;
     skos:notation "unspecified" ;
-    rdfs:label "(unspecified)"@en ,
-    "(non précisé)"@fr ,
-    "(no se especifica)"@es ,
-    "(не определено)"@ru ;
+    rdfs:label "unspecified"@en ,
+    "non précisé"@fr ,
+    "no se especifica"@es ,
+    "не определено"@ru ;
     dct:description  "None of the codes in the table are applicable in the context of this particular observation (nilReason)"@en ,
     "Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason)"@fr ,
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL)"@es ,
