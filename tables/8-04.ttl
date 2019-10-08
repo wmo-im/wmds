@@ -16,6 +16,7 @@
 
 <QualityFlagSystem/bufr033020> a skos:Concept ;
     skos:notation "bufr033020" ;
+    skos:related <http://codes.wmo.int/bufr4/codeflag/0-33-020> ;
     rdfs:label "WMO BUFR table 0 33 020"@en ,
     "Table de code BUFR 0 33 020 de l’OMM"@fr ,
     "Tabla BUFR 0 33 020 de la OMM"@es ,
@@ -38,6 +39,7 @@
 
 <QualityFlagSystem/waterML2.0> a skos:Concept ;
     skos:notation "waterML2.0" ;
+    skos:related <http://www.opengis.net/def/waterml/2.0/quality/> ;
     rdfs:label "WaterML2"@en ,
     "WaterML2"@fr ,
     "WaterML2"@es ,
