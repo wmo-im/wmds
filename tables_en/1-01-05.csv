@@ -45,5 +45,5 @@ snowPresence,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Presence of snow,Pr
 waterEquivalentSnowfall,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Water equivalent of snowfall,Water equivalent of snowfall,"Vertical depth of the water that would be obtained if the freshly fallen snow melted completely, which equates to the new snow mass per unit area."
 725,\Terrestrial\Lake\Snow-Ice-Glacier\Ice\Ice thickness,Ice thickness,
 726,\Terrestrial\River\Snow-Ice-Glacier\Ice\Ice thickness,Ice thickness,
-unknown,,(unknown),The variable is unknown.
-inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,,unknown,The variable is unknown.
+inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.

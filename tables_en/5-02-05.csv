@@ -1,5 +1,5 @@
 notation,path,name,description
-inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 126,\Terrestrial\Soil moisture\In situ\Gravimetric method,Gravimetric method,
 128,\Terrestrial\Soil heat flux\In situ\Heat flux plate,Heat flux plate,
 159,\Terrestrial\Soil moisture\In situ\Neutron probe,Neutron probe,
@@ -7,4 +7,4 @@ inapplicable,,(inapplicable),None of the codes in the table are applicable in th
 194,\Terrestrial\Soil temperature\In situ\Soil thermometer,Soil thermometer,
 200,\Terrestrial\Soil moisture\In situ\Tensiometer,Tensiometer,
 203,\Terrestrial\Soil moisture\In situ\Time domain reflectometry (TDR),Time domain reflectometry (TDR),
-unknown,,(unknown),The measurement/observing method is unknown.
+unknown,,unknown,The measurement/observing method is unknown.

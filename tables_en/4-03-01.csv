@@ -6,5 +6,5 @@ ridge,A ridge,"Higher than all or nearly all of the surrounding land, but elonga
 saddle,A saddle,"A depression located along the axial trend of an anticline; an area confined on two sides by downward slopes and on two sides by upward slopes."
 slope,A slope,"Neither crest nor depression or valley bottom, and with slope more than 3 degrees."
 valleyBottom,A valley bottom,"Lower than nearly all of surrounding land beyond a 50 m radius, but water can flow out."
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular station/platform.
-unknown,(unknown),Unknown local topography
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular station/platform.
+unknown,unknown,Unknown local topography
