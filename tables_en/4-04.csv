@@ -27,7 +27,7 @@ hail,>Incident>Severe weather>Hail,Hail,
 hardwareFailure,>Incident>Technical>Hardware failure,Hardware failure,
 flooding,>Incident>Severe weather>Heavy precipitation/flooding,Heavy precipitation/flooding,
 windDebris,>Incident>Severe weather>High wind/ blowing debris,High wind/ blowing debris,
-inapplicable,>(inapplicable),(inapplicable),None of the codes in the table is applicable in the context of the observing facility.
+inapplicable,>(inapplicable),inapplicable,None of the codes in the table is applicable in the context of the observing facility.
 incident,>Incident,Incident,An unexpected event that has (or may have) impacted the observations
 infrastructureWorks,>Intervention>Infrastructure works,Infrastructure works,
 infestation,>Incident>Environmental>Insect/animal infestation,Insect/animal infestation,
@@ -53,7 +53,7 @@ technical,>Incident>Technical,Technical,
 theft,>Intervention>Theft of equipment,Theft of equipment,
 thunderstormLightning,>Incident>Severe weather>Thunderstorm/ lightning strike,Thunderstorm/ lightning strike,
 tsunami,>Incident>Environmental>Tsunami,Tsunami,
-unknown,>(unknown),(unknown),The event is unknown.
+unknown,>(unknown),unknown,The event is unknown.
 unrestStrike,>Intervention>Unrest/strike,Unrest/strike,
 urbanDevelopment,>Intervention>Urban development,Urban development,
 vandalism,>Intervention>Vandalism,Vandalism,

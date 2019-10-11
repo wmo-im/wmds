@@ -8,5 +8,5 @@ transferSt,Transfer Standard,Device used as an intermediary to compare measureme
 travellingSt,Travelling Standard,"Measurement standard, sometimes of special construction, intended for transport between different locations. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf"
 workingSt,Working Standard,Measurement standard that is used routinely to calibrate or verify measuring instruments or measuring systems. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
 nationalSt,National Standard,Measurement standard recognized by national authority to serve in a state or economy as the basis for assigning quantity values to other measurement standards for the kind of quantity concerned. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf
-unknown,(unknown),Measurement standard type is unknown.
-inapplicable,(inapplicable),None of the measurement standards are applicable.
+unknown,unknown,Measurement standard type is unknown.
+inapplicable,inapplicable,None of the measurement standards are applicable.

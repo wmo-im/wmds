@@ -1,5 +1,5 @@
 notation,name,description
 gum,GUM,Guide for the Expression of Uncertainty in Measurement (JCGM 100:2008)
-other,(other),Uncertainty estimates derived by other means
-inapplicable,(inapplicable),Inapplicable
-unknown,(unknown),Procedure used to estimate uncertainty is unknown.
+other,other,Uncertainty estimates derived by other means
+inapplicable,inapplicable,Inapplicable
+unknown,unknown,Procedure used to estimate uncertainty is unknown.

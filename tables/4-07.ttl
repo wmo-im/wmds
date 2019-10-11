@@ -5,10 +5,10 @@
 
 <ClimateZone/unspecified> a skos:Concept ;
     skos:notation "unspecified" ;
-    rdfs:label "(unspecified)"@en ,
-    "(non précisé)"@fr ,
-    "(no se especifica)"@es ,
-    "(не определено)"@ru ;
+    rdfs:label "unspecified"@en ,
+    "non précisé"@fr ,
+    "no se especifica"@es ,
+    "не определено"@ru ;
     dct:description  "unspecified"@en ,
     "non précisé"@fr ,
     "no se especifica"@es ,

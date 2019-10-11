@@ -62,5 +62,5 @@ hdf5,HDF5,"Hierarchical Data Format (HDF) is a set of file formats (HDF4, HDF5) 
 nasaAmes,NASA AMES,The NASA AMES format is a set of nine ASCII-based file formats that comply with an overall common structure but make provision of different features adapted to various cases. It consists of a header and a data part.
 netcdf,NetCDF,"A set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. http://www.unidata.ucar.edu/software/netcdf/"
 xml,XML,Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format which is both human-readable and machine-readable.
-unknown,(unknown),The data format is unknown.
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,unknown,The data format is unknown.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.

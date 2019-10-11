@@ -1,5 +1,5 @@
 notation,name,description
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular station/platform.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular station/platform.
 greatDepth,of great depth,Between 1000 and 3000 m below mean sea level
 highAltitude,of high altitude,Between 1000 and 3000 m above mean sea level
 lowAltitude,of low altitude,Between 100 and 300 m above mean sea level
@@ -10,4 +10,4 @@ veryGreatDepth,of very great depth,Deeper than 3000 m below mean sea level
 veryHighAltitude,of very high altitude,Higher than 3000 m above mean sea level
 veryLowAltitude,of very low altitude,Less than 100 m above mean sea level
 veryShallowDepth,of very shallow depth,Less than 100 m below mean sea level
-unknown,(unknown),The elevation is unknown.
+unknown,unknown,The elevation is unknown.
