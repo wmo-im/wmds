@@ -1,0 +1,55 @@
+1-01-01,Observed variable - measurand (atmosphere),http://codes.wmo.int/wmdr/ObservedVariableAthmosphere
+1-01-02,Observed variable - measurand (earth),http://codes.wmo.int/wmdr/ObservedVariableEarth
+1-01-03,Observed variable - measurand (ocean),http://codes.wmo.int/wmdr/ObservedVariableOcean
+1-01-04,Observed variable - measurand (outer space),http://codes.wmo.int/wmdr/ObservedVariableOuterSpace
+1-01-05,Observed variable - measurand (terrestrial),http://codes.wmo.int/wmdr/ObservedVariableTerrestrial
+1-02,Measurement unit,http://codes.wmo.int/common/unit
+1-04,Geometry,http://codes.wmo.int/wmdr/Geometry
+1-05,Representativeness,http://codes.wmo.int/wmdr/Representativeness
+2-01,Application areas,http://codes.wmo.int/wmdr/ApplicationArea
+2-02,Programme/network affiliation,http://codes.wmo.int/wmdr/ProgramAffiliation
+3-01,Region of origin of data,http://codes.wmo.int/wmdr/WMORegion
+3-02,Territory of origin of data,http://codes.wmo.int/wmdr/TerritoryName
+3-04,Station/platform type,http://codes.wmo.int/wmdr/FacilityType
+3-08,Data communication method,http://codes.wmo.int/wmdr/DataCommunicationMethod
+3-09,Station/Platform operating status,http://codes.wmo.int/wmdr/ReportingStatus
+4-01-01,Surface cover types (IGBP),http://codes.wmo.int/wmdr/SurfaceCoverIGBP
+4-01-02,Surface cover types (UMD),http://codes.wmo.int/wmdr/SurfaceCoverUMD
+4-01-03,Surface cover types (LAI/fPAR),http://codes.wmo.int/wmdr/SurfaceCoverLAI
+4-01-04,Surface cover types (NPP),http://codes.wmo.int/wmdr/SurfaceCoverNPP
+4-01-05,Surface cover types (PFT),http://codes.wmo.int/wmdr/SurfaceCoverPFT
+4-01-06,Surface cover types (LCCS),http://codes.wmo.int/wmdr/SurfaceCoverLCCS
+4-01-07,Surface cover types (Globcover2009),http://codes.wmo.int/wmdr/SurfaceCoverGlob2009
+4-02,Surface cover classification scheme,http://codes.wmo.int/wmdr/SurfaceCoverClassification
+4-03-01,Local topography,http://codes.wmo.int/wmdr/LocalTopography
+4-03-02,Relative elevation,http://codes.wmo.int/wmdr/RelativeElevation
+4-03-03,Topographic context,http://codes.wmo.int/wmdr/TopographicContext
+4-03-04,Altitude/depth,http://codes.wmo.int/wmdr/AltitudeOrDepth
+4-04,Events at station/platform,http://codes.wmo.int/wmdr/EventAtFacility
+4-05,Direction of station pictures,http://codes.wmo.int/wmdr/StationPictureDirection
+4-06,Surface roughness (Davenport roughness classification),http://codes.wmo.int/wmdr/SurfaceRoughnessDavenport
+4-07,Climate zone,http://codes.wmo.int/wmdr/ClimateZone
+5-01,Source of observation,http://codes.wmo.int/wmdr/SourceOfObservation
+5-02-01,Measurement/observing method (atmosphere),http://codes.wmo.int/wmdr/ObservingMethodAtmosphere
+5-02-05,Measurement/observing method (terresrial),http://codes.wmo.int/wmdr/ObservingMethodTerrestrial
+5-04,Instrument operating status,http://codes.wmo.int/wmdr/InstrumentOperatingStatus
+5-05,Type of reference surface,http://codes.wmo.int/wmdr/ReferenceSurfaceType
+5-08-01,Control standard type,http://codes.wmo.int/wmdr/ControlStandardType
+5-08-02,Control location,http://codes.wmo.int/wmdr/ControlLocation
+5-08-03,Instrument control result,http://codes.wmo.int/wmdr/InstrumentControlResult
+5-14,Status of observation,http://codes.wmo.int/wmdr/ObservationOperatingStatus
+5-15,Exposure of instrument,http://codes.wmo.int/wmdr/Exposure
+6-03,Sampling strategy,http://codes.wmo.int/wmdr/SamplingStrategy
+7-06,Level of data,http://codes.wmo.int/wmdr/LevelOfData
+7-07,Data format,http://codes.wmo.int/wmdr/DataFormat
+7-10,Reference time,http://codes.wmo.int/wmdr/ReferenceTime
+8-02,Procedure used to estimate uncertainty,http://codes.wmo.int/wmdr/UncertaintyEstimateProcedure
+8-03-01,Quality flag (BUFR derived from CIMO guide),http://codes.wmo.int/wmdr/QualityFlagCIMO
+8-03-02,Quality flag (From WaterML2),http://codes.wmo.int/wmdr/QualityFlagOGC
+8-04,Quality Flag System,http://codes.wmo.int/wmdr/QualityFlagSystem
+8-05,Traceability,http://codes.wmo.int/wmdr/Traceability
+9-02,Data policy/use constraints,http://codes.wmo.int/wmdr/DataPolicy
+10-01,WIGOS Functions,http://codes.wmo.int/wmdr/WIGOSFunction
+11-01,Coordinates source/service,http://codes.wmo.int/wmdr/GeopositioningMethod
+11-02,Coordinates reference,http://codes.wmo.int/wmdr/CoordinateReferenceSystem
+11-03,Meaning of time stamp,http://codes.wmo.int/wmdr/TimeStampMeaning
