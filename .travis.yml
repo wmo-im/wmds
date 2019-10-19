@@ -7,4 +7,4 @@ install:
   - pip install -r scripts/requirements_deployment.txt
 # command to run tests
 script:
-  - scripts/test-gen.py
+  - python scripts/test-gen.py
