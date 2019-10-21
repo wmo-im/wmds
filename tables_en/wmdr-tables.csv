@@ -1,4 +1,4 @@
-1-01-01,Observed variable - measurand (atmosphere),http://codes.wmo.int/wmdr/ObservedVariableAthmosphere
+1-01-01,Observed variable - measurand (atmosphere),http://codes.wmo.int/wmdr/ObservedVariableAtmosphere
 1-01-02,Observed variable - measurand (earth),http://codes.wmo.int/wmdr/ObservedVariableEarth
 1-01-03,Observed variable - measurand (ocean),http://codes.wmo.int/wmdr/ObservedVariableOcean
 1-01-04,Observed variable - measurand (outer space),http://codes.wmo.int/wmdr/ObservedVariableOuterSpace
@@ -37,7 +37,7 @@
 5-08-01,Control standard type,http://codes.wmo.int/wmdr/ControlStandardType
 5-08-02,Control location,http://codes.wmo.int/wmdr/ControlLocation
 5-08-03,Instrument control result,http://codes.wmo.int/wmdr/InstrumentControlResult
-5-14,Status of observation,http://codes.wmo.int/wmdr/ObservationOperatingStatus
+5-14,Status of observation,http://codes.wmo.int/wmdr/ObservationStatus
 5-15,Exposure of instrument,http://codes.wmo.int/wmdr/Exposure
 6-03,Sampling strategy,http://codes.wmo.int/wmdr/SamplingStrategy
 7-06,Level of data,http://codes.wmo.int/wmdr/LevelOfData
