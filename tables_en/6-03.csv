@@ -2,5 +2,5 @@ notation,name,description
 continuous,Continuous,"Sampling is done continuously, but not necessarily at regular time intervals. Sampling is integrating, i.e., none of the medium escapes observations."
 discrete,Discrete,"Sampling is done at regular time intervals for certain sampling periods that are smaller than the time interval. Sampling is not integrating, i.e., parts of the medium escape observation. "
 event,Event,Sampling is done at irregular time intervals. 
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
-unknown,(unknown),The sampling strategy is unknown.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
+unknown,unknown,The sampling strategy is unknown.

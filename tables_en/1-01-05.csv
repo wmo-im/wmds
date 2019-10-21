@@ -36,12 +36,14 @@ notation,path,name,description
 611,\Terrestrial\Land surface\Snow-Ice-Glacier\Glacier\Glacier motion,Glacier motion,Velocity of the ice measured at the surface of a glacier.
 612,\Terrestrial\Land surface\Snow-Ice-Glacier\Glacier\Glacier topography,Glacier topography,Map of the height of the glacier surface.
 613,\Terrestrial\Land surface\Snow-Ice-Glacier\Ice\Ice sheet topography,Ice sheet topography,Map of ice sheet height over land .
-627,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Depth of fresh snowfall,Depth of fresh snowfall,The vertical depth of freshly fallen snow that has accumulated during a specific period.
-628,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow cover (fraction of area),Snow cover (fraction of area),"The area of snow-covered ground, ice, or firn based on the fractional threshold used to define presence of snow."
-629,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow depth,Snow depth,"Vertical distance from the snow surface to the stated reference level (ground, glacier ice or sea ice)."
-630,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow surface state (dry or wet),Snow surface state (dry or wet),Binary product (dry or melting/thawing) expressing the presence of liquid water at the surface of the snow cover - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].
-631,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area. Linked to snow depth through the density of the snow layer."
+627,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Depth of snowfall,Depth of snowfall,The vertical depth of freshly fallen snow that has accumulated during a specific period.
+12007,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Presence of snow,Presence of snow,A binary observation of the presence of snow cover at the measurement location.
+628,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow cover extent,Snow cover extent,"The area of snow-covered ground, ice, or firn based on the fractional threshold used to define presence of snow."
+629,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow depth,Snow depth,"Vertical distance from the snow surface to a stated reference level."
+630,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow surface state,Snow surface state,"Binary product (dry or wet) expressing the presence of liquid water at the surface of the snow cover."
+631,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"The Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area."
+12008,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Water equivalent of snowfall,Water equivalent of snowfall,"Vertical depth of the water that would be obtained if the freshly fallen snow melted completely, which equates to the new snow mass per unit area."
 725,\Terrestrial\Lake\Snow-Ice-Glacier\Ice\Ice thickness,Ice thickness,
 726,\Terrestrial\River\Snow-Ice-Glacier\Ice\Ice thickness,Ice thickness,
-unknown,,(unknown),The variable is unknown.
-inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,,unknown,The variable is unknown.
+inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.

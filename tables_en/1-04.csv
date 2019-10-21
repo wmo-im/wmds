@@ -5,5 +5,5 @@ verticalProfile,Vertical profile,synonymous to vertical distribution of a featur
 line,Line,"a one-dimensional feature, either a straight line, or a curve; synonymous with trajectory"
 area,Area,"a two-dimensional feature, either a plane, or some other surface"
 volume,Volume,a three-dimensional feature
-unknown,(unknown),observing geometry unknown
-inapplicable,(inapplicable),observing geometry inapplicable
+unknown,unknown,observing geometry unknown
+inapplicable,inapplicable,observing geometry inapplicable

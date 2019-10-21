@@ -8,5 +8,5 @@ pointingSW,SW,Pointing Southwest
 pointingW,W,Pointing West
 pointingNW,NW,Pointing Northwest
 pointingDown,DOWN,Pointing down
-unknown,(unknown),Unknown pointing direction
-inapplicable,(inapplicable),None of the codes in the table are applicable.
+unknown,unknown,Unknown pointing direction
+inapplicable,inapplicable,None of the codes in the table are applicable.

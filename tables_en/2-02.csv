@@ -217,7 +217,7 @@ IAGOS,\WIGOS\GAW\GAW Other elements\ABOS\IAGOS,IAGOS,In-service Aircraft for a G
 IBPIO,\Co-sponsored\GOOS\DBCP\IBPIO,IBPIO,International Buoy Programme for the Indian Ocean (IBPIO)
 IDAF,\WIGOS\GAW\GAW Contributing networks\IDAF,IDAF,IGAC/DEBITS Africa
 IMPROVE,\WIGOS\GAW\GAW Contributing networks\IMPROVE,IMPROVE,IMPROVE Optical Aerosol
-inapplicable,\(inapplicable),(inapplicable),None of the codes in the table are applicable.
+inapplicable,\(inapplicable),inapplicable,None of the codes in the table are applicable.
 INCOISTSU,\Co-sponsored\GOOS\DBCP\INCOIS-TSU,INCOIS-TSU,Indian National Centre for Ocean Information Services Tsunameter buoys
 INDIANIO,\Co-sponsored\GOOS\DBCP\INDIA NIO,INDIA NIO,Collection of METOCEAN data in India Ocean
 indiaNIOT,\Co-sponsored\GOOS\DBCP\INDIA-NIOT,INDIA-NIOT,Indian Ocean Observing Program
@@ -349,7 +349,7 @@ UKMODB,\Co-sponsored\GOOS\DBCP\UK-MO DB,UK-MO DB,UK MetOffice Iridium Drifters
 UKMOfixed,\Co-sponsored\GOOS\DBCP\UK-MO FIXED,UK-MO FIXED,UK Metoffice Fixed station
 UKMOLV,\Co-sponsored\GOOS\DBCP\UK-MO LV,UK-MO LV,UK Metoffice Light Vessel
 UKMOMB,\Co-sponsored\GOOS\DBCP\UK-MO MB,UK-MO MB,United Kingdom Met Office Moored Buoys
-unknown,\(unknown),(unknown),The affiliation/programme is unknown.
+unknown,\(unknown),unknown,The affiliation/programme is unknown.
 USCGDB,\Co-sponsored\GOOS\DBCP\US-CG DB,US-CG DB,USCG Drift Buoys
 VOS3P,\Co-sponsored\GOOS\SOT\VOS\VOS-3P,VOS-3P,NA
 VOSAU,\Co-sponsored\GOOS\SOT\VOS\VOS-AU,VOS-AU,NA
