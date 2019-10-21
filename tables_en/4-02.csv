@@ -6,5 +6,5 @@ lccs,Surface cover types (LCCS),"FAO/UNEP land cover classification scheme (LCCS
 npp,Surface cover types (NPP),MODIS-derived Net Primary Production (NPP) surface cover scheme
 pft,Surface cover types (PFT),Plant Functional Types (PFT) land cover scheme
 umd,Surface cover types (UMD),"The University of Maryland, Department of Geography generated global land cover classification collection from 1998. See also: http://glcf.umd.edu/data/landcover/"
-unknown,(unknown),The Surface cover classification scheme is unknown for this particular surface cover observation.
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular surface cover observation.
+unknown,unknown,The Surface cover classification scheme is unknown for this particular surface cover observation.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular surface cover observation.

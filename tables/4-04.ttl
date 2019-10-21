@@ -5,10 +5,10 @@
 
 <EventAtFacility/notApplicable> a skos:Concept ;
     skos:notation "notApplicable" ;
-    rdfs:label "(not applicable)"@en ,
-    "(Sans objet)"@fr ,
-    "(no se aplica)"@es ,
-    "(неприменимо)"@ru ;
+    rdfs:label "not applicable"@en ,
+    "Sans objet"@fr ,
+    "no se aplica"@es ,
+    "неприменимо"@ru ;
     dct:description  "None of the codes in the table is applicable in the context of the observing facility; or: Unknown; or: Information not available"@en ,
     "Aucun des codes de la table ne s’applique dans le cadre de cette installation d’observation; ou: Inconnu; ou: Information non disponible "@fr ,
     "No se aplica ninguna de las claves de la tabla de cifrado en el contexto de la instalación de observación; o: Desconocido; o: No se dispone de información"@es ,

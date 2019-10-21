@@ -38,10 +38,10 @@
 
 <SourceOfObservation/unspecified> a skos:Concept ;
     skos:notation "unspecified" ;
-    rdfs:label "(unspecified)"@en ,
-    "(non précisé)"@fr ,
-    "(no se especifica)"@es ,
-    "(не определено)"@ru ;
+    rdfs:label "unspecified"@en ,
+    "non précisé"@fr ,
+    "no se especifica"@es ,
+    "не определено"@ru ;
     dct:description  "Procedure used to obtain result unspecified"@en ,
     "Procédure utilisée pour obtenir un résultat non précisé"@fr ,
     "No se especifica el procedimiento empleado para obtener los resultados"@es ,

@@ -26,9 +26,9 @@ notation,path,name,description
 89,\Ocean\Radiation\Water-leaving spectral radiance,Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle."
 90,"\Ocean\Reactive Gas\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",
 91,\Ocean\Basic Physical Properties\Ocean salinity,Ocean salinity,"3D field of salinity of the ocean, requested in upper and deep ocean"
-92,\Ocean\Basic Physical Properties\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be “halinity” with reference of the diversity of salts involved.
+92,\Ocean\Basic Physical Properties\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be "halinity" with reference of the diversity of salts involved.
 94,\Ocean\Basic Physical Properties\Ocean temperature,Ocean temperature,3D field of temperature of the ocean Requested in upper and deep ocean.
-95,\Ocean\Basic Physical Properties\Sea surface temperature,Sea surface temperature,"Temperature of the sea water at surface. The “bulk” temperature refers to the depth of typically 2 m, the “skin” temperature refers to within the upper 1 mm. "
+95,\Ocean\Basic Physical Properties\Sea surface temperature,Sea surface temperature,"Temperature of the sea water at surface. The "bulk" temperature refers to the depth of typically 2 m, the "skin" temperature refers to within the upper 1 mm. "
 96,\Ocean\Topography\Coastal sea level (tide),Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)."
 98,\Ocean\Waves\Dominant wave direction,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
 99,\Ocean\Waves\Dominant wave period,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
@@ -62,5 +62,5 @@ notation,path,name,description
 744,\Ocean\Waves\Wave period,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
 745,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."
 10080,\Ocean\Tides,Tides,
-unknown,,(unknown),The variable is unknown.
-inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,,unknown,The variable is unknown.
+inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.

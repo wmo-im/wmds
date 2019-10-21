@@ -9,12 +9,12 @@ evergreenBroadleafForest,Evergreen Broadleaf forest,NA
 evergreenNeedleleafForest,Evergreen Needleleaf forest,NA
 grasslands,Grasslands,NA
 mixedForest,Mixed forest,NA
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 openShrublands,Open shrublands,NA
 permanentWetlands,Permanent wetlands,NA
 savannas,Savannas,NA
 snowIce,Snow and ice,NA
-unknown,(unknown),Unknown surface cover type.
+unknown,unknown,Unknown surface cover type.
 urbanBuiltup,Urban and built-up,NA
 water,Water,NA
 woodySavannas,Woody savannas,NA

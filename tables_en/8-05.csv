@@ -1,5 +1,5 @@
 notation,name,description
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 traceableToInternationalStandard,Traceable to international standard,The observations made are traceable to an internationally agreed standard.
 traceableToOtherStandard,Traceable to non-international standard,The observations made are traceable to some other standard.
-unknown,(unknown),The traceability of the observations is unknown.
+unknown,unknown,The traceability of the observations is unknown.
