@@ -1,0 +1,2 @@
+from registry_deployment.generator import generate
+from registry_deployment.registry import publish
