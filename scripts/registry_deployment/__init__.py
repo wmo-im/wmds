@@ -1,2 +1,2 @@
-from registry_deployment.generator import generate
-from registry_deployment.registry import publish
+from .generator import generate, createReadme
+from .registry import publish
