@@ -49,8 +49,7 @@ readme_tpl = Template("""**Project name:** WMDS Codetables English
 
 **Table of Contents:**
 
-$payload
-""")
+$payload""")
 
 readme_line_tpl = Template("""[$number.csv](./tables_en/$number.csv) [$abbreviation]($url) $name\n\n""")
     

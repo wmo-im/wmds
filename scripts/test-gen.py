@@ -3,6 +3,7 @@ from registry_deployment import generate, publish, createReadme
 import logging
 import os
 import sys
+import difflib
 
 logging.basicConfig(level=os.environ.get("LOGLEVEL", "INFO"))
 
@@ -16,7 +17,17 @@ try:
         
         virtual_readme = createReadme()
         
-        if readme_content != virtual_readme:
+        diff=False
+        for i,s in enumerate(difflib.ndiff(readme_content, virtual_readme)):
+            if s[0]==' ': continue
+            elif s[0]=='-':
+                logging.error(u'Delete "{}" from position {}'.format(s[-1],i))
+            elif s[0]=='+':
+                logging.error(u'Add "{}" to position {}'.format(s[-1],i)) 
+
+            diff=True
+        
+        if diff:
             logging.error("readme not in sync with wmrd-tables.csv")
             sys.exit(1)
 
