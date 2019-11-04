@@ -70,7 +70,7 @@
 
 [5-02-01.csv](./tables_en/5-02-01.csv) [ObservingMethodAtmosphere](http://codes.wmo.int/wmdr/ObservingMethodAtmosphere) Measurement/observing method (atmosphere)
 
-[5-02-05.csv](./tables_en/5-02-05.csv) [ObservingMethodTerrestrial](http://codes.wmo.int/wmdr/ObservingMethodTerrestrial) Measurement/observing method (terresrial)
+[5-02-05.csv](./tables_en/5-02-05.csv) [ObservingMethodTerrestrial](http://codes.wmo.int/wmdr/ObservingMethodTerrestrial) Measurement/observing method (terrestrial)
 
 [5-04.csv](./tables_en/5-04.csv) [InstrumentOperatingStatus](http://codes.wmo.int/wmdr/InstrumentOperatingStatus) Instrument operating status
 
