@@ -1,0 +1,4 @@
+notation,name,description
+transmit,Transmit,Transmission of information
+receive,Receive,Reception of information
+transmitReceive,TransmitReceive,Transmission and reception of information
