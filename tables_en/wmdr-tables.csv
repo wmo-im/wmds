@@ -44,7 +44,7 @@
 7-07,Data format,http://codes.wmo.int/wmdr/DataFormat
 7-10,Reference time,http://codes.wmo.int/wmdr/ReferenceTime
 8-02,Procedure used to estimate uncertainty,http://codes.wmo.int/wmdr/UncertaintyEstimateProcedure
-8-03-01,Quality flag (BUFR derived from CIMO guide),http://codes.wmo.int/wmdr/QualityFlagCIMO
+8-03-01,Quality flag (BUFR derived from CIMO guide),http://codes.wmo.int/bufr4/codeflag/0-33-020
 8-03-02,Quality flag (From WaterML2),http://codes.wmo.int/wmdr/QualityFlagOGC
 8-04,Quality Flag System,http://codes.wmo.int/wmdr/QualityFlagSystem
 8-05,Traceability,http://codes.wmo.int/wmdr/Traceability
