@@ -34,6 +34,8 @@
 
 [3-09.csv](https://github.com/wmo-im/wmds/blob/master/tables_en/3-09.csv) Station operating status
 
+[4-01.csv],(https://github.com/wmo-im/wmds/blob/master/tables_en/4-01.csv) Surface cover types (Globcover2009)
+
 [4-01-01.csv](https://github.com/wmo-im/wmds/blob/master/tables_en/4-01-01.csv) Surface cover types (IGBP)
 
 [4-01-02.csv](https://github.com/wmo-im/wmds/blob/master/tables_en/4-01-02.csv) Surface cover types (UMD)

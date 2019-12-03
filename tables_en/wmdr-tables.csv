@@ -13,6 +13,7 @@
 3-04,Station/platform type,http://codes.wmo.int/wmdr/FacilityType
 3-08,Data communication method,http://codes.wmo.int/wmdr/DataCommunicationMethod
 3-09,Station/Platform operating status,http://codes.wmo.int/wmdr/ReportingStatus
+4-01,Surface cover types (Globcover2009),http://codes.wmo.int/wmdr/SurfaceCoverClassification/globCover2009
 4-01-01,Surface cover types (IGBP),http://codes.wmo.int/wmdr/SurfaceCoverClassification/igbp
 4-01-02,Surface cover types (UMD),http://codes.wmo.int/wmdr/SurfaceCoverClassification/umd
 4-01-03,Surface cover types (LAI/fPAR),http://codes.wmo.int/wmdr/SurfaceCoverClassification/laifpar
