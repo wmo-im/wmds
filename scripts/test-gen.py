@@ -6,7 +6,7 @@ import argparse
 
 
 parser = argparse.ArgumentParser(description='Command line arguments of TTL file generator and uploader')
-parser.add_argument("-g", "--generate", action='store_true', default=False, help="generate files only")
+parser.add_argument("-g", "--generate", action='store_true', default=True, help="generate files only")
 parser.add_argument("-d", "--directory", default=None, help="directory for generated files")
 parser.add_argument("-p", "--production", action='store_true',default=False, help="upload to production (otherwise to test)")
 parser.add_argument("-t", "--token", default=False, help="token for upload")
@@ -39,6 +39,7 @@ if not gen and not token:
 try:
     logger.info("generating files")
     generate(dir) #of None is passed temporary files will be used
+    logger.info("generated files ok")
 
     registry = 'https://codes.wmo.int' if prod else 'http://test.wmocodes.info'
 
