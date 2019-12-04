@@ -111,7 +111,15 @@ def processCodelist(c,dir=None):
     #    print("skipping {}".format(codelist_nr))
     #    return
 
-    base_name = c.url.split('/')[-1]
+    temp = c.url.split('/')
+    
+    if len(temp) != 5:
+        msg = "WARNING: URL format of {} not correct..".format(c.url)
+        logger.warning(msg)
+        print(msg)
+        sys.exit(1)
+       
+    base_name = temp[-1]
        
     base_description = c.name
     name = c.name
