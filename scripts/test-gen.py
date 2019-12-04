@@ -39,13 +39,14 @@ if not gen and not token:
 try:
     
     with open(r"tables_en/readme.md","r",encoding="utf8") as f:
-    readme_content = f.read()
+        readme_content = f.read()
 
-    virtual_readme = createReadme()
+        virtual_readme = createReadme()
 
-    if readme_content != virtual_readme:
-        logging.error("readme not in sync with wmrd-tables.csv")
-        sys.exit(1)
+        if readme_content != virtual_readme:
+            logging.error("readme not in sync with wmrd-tables.csv")
+            sys.exit(1)
+        logger.info("readme in sync with wmrd-tables.csv")
     
     logger.info("generating files")
     generate(dir) #of None is passed temporary files will be used
