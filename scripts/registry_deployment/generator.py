@@ -41,6 +41,17 @@ collection_tpl = Template("""<$container>
     skos:member            $members .
     """)
 
+readme_tpl = Template("""**Project name:** WMDS Codetables English
+
+**Description:** This directory contains the English versions of the WMDS Codetables. 
+
+**Table of Contents:**
+
+$payload
+""")
+
+readme_line_tpl = Template("""[$number.csv](./tables_en/$number.csv) [$abbreviation]($url) $name\n""")
+
 class Codelist:
 
     def __init__(self,code_nr,name,url):
