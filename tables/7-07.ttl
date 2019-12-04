@@ -71,6 +71,7 @@
 
 <DataFormat/netcdf> a skos:Concept ;
     skos:notation "netcdf" ;
+    skos:related <http://www.unidata.ucar.edu/software/netcdf/> ;
     rdfs:label "NetCDF"@en ,
     "NetCDF"@fr ,
     "NetCDF"@es ,
@@ -82,6 +83,7 @@
 
 <DataFormat/ship> a skos:Concept ;
     skos:notation "ship" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 13 - SHIP"@en ,
     "FM 13 - SHIP"@fr ,
     "FM 13 - SHIP"@es ,
@@ -93,6 +95,7 @@
 
 <DataFormat/synopMobil> a skos:Concept ;
     skos:notation "synopMobil" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM14 - SYNOP MOBIL"@en ,
     "FM14 - SYNOP MOBIL"@fr ,
     "FM14 - SYNOP MOBIL"@es ,
@@ -104,6 +107,7 @@
 
 <DataFormat/metar> a skos:Concept ;
     skos:notation "metar" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 15 - METAR"@en ,
     "FM 15 - METAR"@fr ,
     "FM 15 - METAR"@es ,
@@ -115,6 +119,7 @@
 
 <DataFormat/speci> a skos:Concept ;
     skos:notation "speci" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 16 - SPECI"@en ,
     "FM 16 - SPECI"@fr ,
     "FM 16 - SPECI"@es ,
@@ -126,6 +131,7 @@
 
 <DataFormat/buoy> a skos:Concept ;
     skos:notation "buoy" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 18 - BUOY"@en ,
     "FM 18 - BUOY"@fr ,
     "FM 18 - BUOY"@es ,
@@ -137,6 +143,7 @@
 
 <DataFormat/radob> a skos:Concept ;
     skos:notation "radob" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 20 - RADOB"@en ,
     "FM 20 - RADOB"@fr ,
     "FM 20 - RADOB"@es ,
@@ -148,6 +155,7 @@
 
 <DataFormat/radrep> a skos:Concept ;
     skos:notation "radrep" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 22 - RADREP"@en ,
     "FM 22 - RADREP"@fr ,
     "FM 22 - RADREP"@es ,
@@ -159,6 +167,7 @@
 
 <DataFormat/pilot> a skos:Concept ;
     skos:notation "pilot" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 32 - PILOT"@en ,
     "FM 32 - PILOT"@fr ,
     "FM 32 - PILOT"@es ,
@@ -170,6 +179,7 @@
 
 <DataFormat/pilotShip> a skos:Concept ;
     skos:notation "pilotShip" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM33 - PILOT SHIP"@en ,
     "FM33 - PILOT SHIP"@fr ,
     "FM33 - PILOT SHIP"@es ,
@@ -181,6 +191,7 @@
 
 <DataFormat/pilotMobil> a skos:Concept ;
     skos:notation "pilotMobil" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 34 - PILOT MOBIL"@en ,
     "FM 34 - PILOT MOBIL"@fr ,
     "FM 34 - PILOT MOBIL"@es ,
@@ -192,6 +203,7 @@
 
 <DataFormat/temp> a skos:Concept ;
     skos:notation "temp" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 35 - TEMP"@en ,
     "FM 35 - TEMP"@fr ,
     "FM 35 - TEMP"@es ,
@@ -203,6 +215,7 @@
 
 <DataFormat/tempShip> a skos:Concept ;
     skos:notation "tempShip" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 36 - TEMP SHIP"@en ,
     "FM 36 - TEMP SHIP"@fr ,
     "FM 36 - TEMP SHIP"@es ,
@@ -214,6 +227,7 @@
 
 <DataFormat/tempDrop> a skos:Concept ;
     skos:notation "tempDrop" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 37 - TEMP DROP"@en ,
     "FM 37 - TEMP DROP"@fr ,
     "FM 37 - TEMP DROP"@es ,
@@ -225,6 +239,7 @@
 
 <DataFormat/tempMobil> a skos:Concept ;
     skos:notation "tempMobil" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 38 - TEMP MOBIL"@en ,
     "FM 38 - TEMP MOBIL"@fr ,
     "FM 38 - TEMP MOBIL"@es ,
@@ -236,6 +251,7 @@
 
 <DataFormat/rocob> a skos:Concept ;
     skos:notation "rocob" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 39 - ROCOB"@en ,
     "FM 39 - ROCOB"@fr ,
     "FM 39 - ROCOB"@es ,
@@ -247,6 +263,7 @@
 
 <DataFormat/rocobShip> a skos:Concept ;
     skos:notation "rocobShip" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 40 - ROCOB SHIP"@en ,
     "FM 40 - ROCOB SHIP"@fr ,
     "FM 40 - ROCOB SHIP"@es ,
@@ -258,6 +275,7 @@
 
 <DataFormat/codar> a skos:Concept ;
     skos:notation "codar" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 41 - CODAR"@en ,
     "FM 41 - CODAR"@fr ,
     "FM 41 - CODAR"@es ,
@@ -269,6 +287,7 @@
 
 <DataFormat/amdar> a skos:Concept ;
     skos:notation "amdar" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 42 - AMDAR"@en ,
     "FM 42 - AMDAR"@fr ,
     "FM 42 - AMDAR"@es ,
@@ -280,6 +299,7 @@
 
 <DataFormat/icean> a skos:Concept ;
     skos:notation "icean" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 44 - ICEAN"@en ,
     "FM 44 - ICEAN"@fr ,
     "FM 44 - ICEAN"@es ,
@@ -291,6 +311,7 @@
 
 <DataFormat/IAC> a skos:Concept ;
     skos:notation "IAC" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 45 - IAC"@en ,
     "FM 45 - IAC"@fr ,
     "FM 45 - IAC"@es ,
@@ -302,6 +323,7 @@
 
 <DataFormat/iacFleet> a skos:Concept ;
     skos:notation "iacFleet" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 46 - IAC FLEET"@en ,
     "FM 46 - IAC FLEET"@fr ,
     "FM 46 - IAC FLEET"@es ,
@@ -313,6 +335,7 @@
 
 <DataFormat/grid> a skos:Concept ;
     skos:notation "grid" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 47 - GRID"@en ,
     "FM 47 - GRID"@fr ,
     "FM 47 - GRID"@es ,
@@ -324,6 +347,7 @@
 
 <DataFormat/graf> a skos:Concept ;
     skos:notation "graf" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 49 - GRAF"@en ,
     "FM 49 - GRAF"@fr ,
     "FM 49 - GRAF"@es ,
@@ -335,6 +359,7 @@
 
 <DataFormat/wintem> a skos:Concept ;
     skos:notation "wintem" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 50 - WINTEM"@en ,
     "FM 50 - WINTEM"@fr ,
     "FM 50 - WINTEM"@es ,
@@ -346,6 +371,7 @@
 
 <DataFormat/taf> a skos:Concept ;
     skos:notation "taf" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 51 - TAF"@en ,
     "FM 51 - TAF"@fr ,
     "FM 51 - TAF"@es ,
@@ -357,6 +383,7 @@
 
 <DataFormat/arfor> a skos:Concept ;
     skos:notation "arfor" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 53 - ARFOR"@en ,
     "FM 53 - ARFOR"@fr ,
     "FM 53 - ARFOR"@es ,
@@ -368,6 +395,7 @@
 
 <DataFormat/rofor> a skos:Concept ;
     skos:notation "rofor" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 54 - ROFOR"@en ,
     "FM 54 - ROFOR"@fr ,
     "FM 54 - ROFOR"@es ,
@@ -379,6 +407,7 @@
 
 <DataFormat/radof> a skos:Concept ;
     skos:notation "radof" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 57 - RADOF"@en ,
     "FM 57 - RADOF"@fr ,
     "FM 57 - RADOF"@es ,
@@ -390,6 +419,7 @@
 
 <DataFormat/mafor> a skos:Concept ;
     skos:notation "mafor" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 61 - MAFOR"@en ,
     "FM 61 - MAFOR"@fr ,
     "FM 61 - MAFOR"@es ,
@@ -401,6 +431,7 @@
 
 <DataFormat/trackob> a skos:Concept ;
     skos:notation "trackob" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 62 - TRACKOB"@en ,
     "FM 62 - TRACKOB"@fr ,
     "FM 62 - TRACKOB"@es ,
@@ -412,6 +443,7 @@
 
 <DataFormat/bathy> a skos:Concept ;
     skos:notation "bathy" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 63 - BATHY"@en ,
     "FM 63 - BATHY"@fr ,
     "FM 63 - BATHY"@es ,
@@ -423,6 +455,7 @@
 
 <DataFormat/tesac> a skos:Concept ;
     skos:notation "tesac" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 64 - TESAC"@en ,
     "FM 64 - TESAC"@fr ,
     "FM 64 - TESAC"@es ,
@@ -434,6 +467,7 @@
 
 <DataFormat/waveob> a skos:Concept ;
     skos:notation "waveob" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 65 - WAVEOB"@en ,
     "FM 65 - WAVEOB"@fr ,
     "FM 65 - WAVEOB"@es ,
@@ -445,6 +479,7 @@
 
 <DataFormat/hydra> a skos:Concept ;
     skos:notation "hydra" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM  67 - HYDRA"@en ,
     "FM  67 - HYDRA"@fr ,
     "FM  67 - HYDRA"@es ,
@@ -456,6 +491,7 @@
 
 <DataFormat/hyfor> a skos:Concept ;
     skos:notation "hyfor" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 68 - HYFOR"@en ,
     "FM 68 - HYFOR"@fr ,
     "FM 68 - HYFOR"@es ,
@@ -467,6 +503,7 @@
 
 <DataFormat/climat> a skos:Concept ;
     skos:notation "climat" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 71 - CLIMAT"@en ,
     "FM 71 - CLIMAT"@fr ,
     "FM 71 - CLIMAT"@es ,
@@ -478,6 +515,7 @@
 
 <DataFormat/climatShip> a skos:Concept ;
     skos:notation "climatShip" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 72 - CLIMAT SHIP"@en ,
     "FM 72 - CLIMAT SHIP"@fr ,
     "FM 72 - CLIMAT SHIP"@es ,
@@ -489,6 +527,7 @@
 
 <DataFormat/nacli> a skos:Concept ;
     skos:notation "nacli" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI"@en ,
     "FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI"@fr ,
     "FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI"@es ,
@@ -500,6 +539,7 @@
 
 <DataFormat/climatTemp> a skos:Concept ;
     skos:notation "climatTemp" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 75 - CLIMAT TEMP"@en ,
     "FM 75 - CLIMAT TEMP"@fr ,
     "FM 75 - CLIMAT TEMP"@es ,
@@ -511,6 +551,7 @@
 
 <DataFormat/climatTempShip> a skos:Concept ;
     skos:notation "climatTempShip" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 76 - CLIMAT TEMP SHIP"@en ,
     "FM 76 - CLIMAT TEMP SHIP"@fr ,
     "FM 76 - CLIMAT TEMP SHIP"@es ,
@@ -522,6 +563,7 @@
 
 <DataFormat/sfazi> a skos:Concept ;
     skos:notation "sfazi" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 81 - SFAZI"@en ,
     "FM 81 - SFAZI"@fr ,
     "FM 81 - SFAZI"@es ,
@@ -533,6 +575,7 @@
 
 <DataFormat/sfloc> a skos:Concept ;
     skos:notation "sfloc" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 82 - SFLOC"@en ,
     "FM 82 - SFLOC"@fr ,
     "FM 82 - SFLOC"@es ,
@@ -544,6 +587,7 @@
 
 <DataFormat/sfazu> a skos:Concept ;
     skos:notation "sfazu" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 83 - SFAZU"@en ,
     "FM 83 - SFAZU"@fr ,
     "FM 83 - SFAZU"@es ,
@@ -555,6 +599,7 @@
 
 <DataFormat/sarep> a skos:Concept ;
     skos:notation "sarep" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 85 - SAREP"@en ,
     "FM 85 - SAREP"@fr ,
     "FM 85 - SAREP"@es ,
@@ -566,6 +611,7 @@
 
 <DataFormat/satem> a skos:Concept ;
     skos:notation "satem" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 86 - SATEM"@en ,
     "FM 86 - SATEM"@fr ,
     "FM 86 - SATEM"@es ,
@@ -577,6 +623,7 @@
 
 <DataFormat/sarad> a skos:Concept ;
     skos:notation "sarad" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 87 - SARAD"@en ,
     "FM 87 - SARAD"@fr ,
     "FM 87 - SARAD"@es ,
@@ -588,6 +635,7 @@
 
 <DataFormat/satob> a skos:Concept ;
     skos:notation "satob" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 88 - SATOB"@en ,
     "FM 88 - SATOB"@fr ,
     "FM 88 - SATOB"@es ,
@@ -599,6 +647,7 @@
 
 <DataFormat/grib> a skos:Concept ;
     skos:notation "grib" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 92 - GRIB"@en ,
     "FM 92 - GRIB"@fr ,
     "FM 92 - GRIB"@es ,
@@ -610,6 +659,7 @@
 
 <DataFormat/bufr> a skos:Concept ;
     skos:notation "bufr" ;
+    skos:related <http://wis.wmo.int/ManCodes2> ;
     rdfs:label "FM 94 - BUFR"@en ,
     "FM 94 - BUFR"@fr ,
     "FM 94 - BUFR"@es ,
@@ -621,6 +671,7 @@
 
 <DataFormat/crex> a skos:Concept ;
     skos:notation "crex" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 95 - CREX"@en ,
     "FM 95 - CREX"@fr ,
     "FM 95 - CREX"@es ,
@@ -632,6 +683,7 @@
 
 <DataFormat/collect> a skos:Concept ;
     skos:notation "collect" ;
+    skos:related <http://wis.wmo.int/ManCodes3> ;
     rdfs:label "FM 201 - COLLECT"@en ,
     "FM 201 - COLLECT"@fr ,
     "FM 201 - COLLECT"@es ,
@@ -643,6 +695,7 @@
 
 <DataFormat/metce> a skos:Concept ;
     skos:notation "metce" ;
+    skos:related <http://wis.wmo.int/ManCodes3> ;
     rdfs:label "FM 202 - METCE"@en ,
     "FM 202 - METCE"@fr ,
     "FM 202 - METCE"@es ,
@@ -654,6 +707,7 @@
 
 <DataFormat/opmXML> a skos:Concept ;
     skos:notation "opmXML" ;
+    skos:related <http://wis.wmo.int/ManCodes3> ;
     rdfs:label "FM 203 - OPM-XML"@en ,
     "FM 203 - OPM-XML"@fr ,
     "FM 203 - OPM-XML"@es ,
@@ -665,6 +719,7 @@
 
 <DataFormat/safXML> a skos:Concept ;
     skos:notation "safXML" ;
+    skos:related <http://wis.wmo.int/ManCodes3> ;
     rdfs:label "FM 204 - SAF-XML"@en ,
     "FM 204 - SAF-XML"@fr ,
     "FM 204 - SAF-XML"@es ,
@@ -676,6 +731,7 @@
 
 <DataFormat/iwxxmXML> a skos:Concept ;
     skos:notation "iwxxmXML" ;
+    skos:related <http://wis.wmo.int/ManCodes3> ;
     rdfs:label "FM 205 - IWXXM-XML"@en ,
     "FM 205 - IWXXM-XML"@fr ,
     "FM 205 - IWXXM-XML"@es ,
@@ -687,6 +743,7 @@
 
 <DataFormat/synop> a skos:Concept ;
     skos:notation "synop" ;
+    skos:related <http://wis.wmo.int/ManCodes1> ;
     rdfs:label "FM 12 - SYNOP"@en ,
     "FM 12 - SYNOP"@fr ,
     "FM 12 - SYNOP"@es ,

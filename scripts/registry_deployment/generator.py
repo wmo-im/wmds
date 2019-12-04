@@ -8,7 +8,6 @@ import logging
 import unicodedata
 import datetime
 
-
 from string import Template 
 
 logging.getLogger(__name__).addHandler(logging.NullHandler())
@@ -41,18 +40,6 @@ collection_tpl = Template("""<$container>
     dct:description        "WMO $description" ;
     skos:member            $members .
     """)
-    
-
-readme_tpl = Template("""**Project name:** WMDS Codetables English
-
-**Description:** This directory contains the English versions of the WMDS Codetables. 
-
-**Table of Contents:**
-
-$payload""")
-
-readme_line_tpl = Template("""[$number.csv](./tables_en/$number.csv) [$abbreviation]($url) $name\n\n""")
-    
 
 class Codelist:
 
@@ -124,8 +111,7 @@ def processCodelist(c,dir=None):
     #    print("skipping {}".format(codelist_nr))
     #    return
 
-    base_name = c.url.split('/')[-1]
-       
+      
     base_description = c.name
     name = c.name
     
@@ -203,7 +189,6 @@ def processCodelist(c,dir=None):
 
 # this function generates the TTL files from the current tables-en directory. It uses    
 def generate(dir=None):    
-
     # get codelist to 
     codes = {}
     with open(r"{}/wmdr-tables.csv".format(TABLES_DIR),'r') as f:
@@ -261,5 +246,4 @@ def createReadme():
 
     return str(readme_tpl.substitute(payload=temp))
             
-
 

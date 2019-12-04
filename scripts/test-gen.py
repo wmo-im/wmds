@@ -1,45 +1,54 @@
-from registry_deployment import generate, publish, createReadme
-
+from registry_deployment import generate, publish
 import logging
 import os
 import sys
-import difflib
+import argparse
 
-logging.basicConfig(level=os.environ.get("LOGLEVEL", "INFO"))
 
-dir = "C:/TEMP/registry"
+parser = argparse.ArgumentParser(description='Command line arguments of TTL file generator and uploader')
+parser.add_argument("-g", "--generate", action='store_true', default=True, help="generate files only")
+parser.add_argument("-d", "--directory", default=None, help="directory for generated files")
+parser.add_argument("-p", "--production", action='store_true',default=False, help="upload to production (otherwise to test)")
+parser.add_argument("-t", "--token", default=False, help="token for upload")
+parser.add_argument("-v", "--verbose", action='store_true', default=False, help="verbose")
+
+args = parser.parse_args()
+
+if args.verbose:
+    logging.basicConfig(level=os.environ.get("LOGLEVEL", "DEBUG"))
+else:
+    logging.basicConfig(level=os.environ.get("LOGLEVEL", "INFO"))
+
+logger = logging.getLogger()
+
+
+dir = args.directory
+token = args.token
+prod = args.production
+gen = args.generate
+
+
+if gen :
+    if dir and ( not os.path.isdir(dir) or len(os.listdir(dir) ) > 0):
+        raise ValueError("{} does not exist or not empty".format(dir))
+
+if not gen and not token:
+    raise ValueError("upload specified but no token")
+
 
 try:
+    logger.info("generating files")
+    generate(dir) #of None is passed temporary files will be used
+    logger.info("generated files ok")
 
-    # first check if filesystem and readme are synced
-    with open(r"tables_en/readme.md","r",encoding="utf8") as f:
-        readme_content = f.read()
-        
-        virtual_readme = createReadme()
-        
-        diff=False
-        for i,s in enumerate(difflib.ndiff(readme_content, virtual_readme)):
-            if s[0]==' ': continue
-            elif s[0]=='-':
-                logging.error(u'Delete "{}" from position {}'.format(s[-1],i))
-            elif s[0]=='+':
-                logging.error(u'Add "{}" to position {}'.format(s[-1],i)) 
+    registry = 'https://codes.wmo.int' if prod else 'http://test.wmocodes.info'
 
-            diff=True
-        
-        if diff:
-            logging.error("readme not in sync with wmrd-tables.csv")
-            sys.exit(1)
-
-    generate(dir)
-
-    registry = 'https://codes.wmo.int'
-    #registry = 'http://test.wmocodes.info'
-    token = '0039e8fb71d0d798b7766d97549a170c'
-
-    #publish(registry,token,dir)
+    if not gen:
+        logger.info("uploading files to {}".format(registry))
+        #publish(registry,token,dir)
+        logger.info("finished upload")
     
 except Exception as e:
     logging.error(e)
-    print("ERROR: {}".format(e))
+    logger.warning("ERROR: {}".format(e))
     sys.exit(1)
