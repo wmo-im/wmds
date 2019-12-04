@@ -128,6 +128,8 @@ def processCodelist(c,dir=None):
         else :
             ttlfile = tempfile.TemporaryFile(mode="w",encoding="utf-8")
         
+        logger.debug("writing to tempfile {}".format(ttlfile.name) )
+        
         data = f.read()
         
         # try to encode in latin1.. this throws an error which is caught outside
@@ -191,6 +193,8 @@ def processCodelist(c,dir=None):
 # this function generates the TTL files from the current tables-en directory. It uses    
 def generate(dir=None):    
 
+    logger.info("generating codelist files and writing them to {}".format( dir if dir else "temporary files" ))
+
     # get codelist to 
     codes = {}
     with open(r"{}/wmdr-tables.csv".format(TABLES_DIR),'r') as f:
@@ -207,6 +211,6 @@ def generate(dir=None):
             logger.debug("processing {}".format(c))
 
             processCodelist(c,dir)
-            logger.info("generated TTL file {}".format(c.code_nr))
+            logger.debug("generated TTL file {}".format(c.code_nr))
             
     
