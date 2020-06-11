@@ -1,6 +1,5 @@
 notation,path,name,description
 ABOS,\WIGOS\GOS\GOS Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
-GAWabos,\WIGOS\GAW\GAW Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
 ADD,\WIGOS\GOS\GOS Other elements\ABOS\ADD,ADD,Aircraft Derived Data (Mode-S/ADS-B)
 ADNet,\WIGOS\GAW\GAW Contributing networks\GALION\ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 ADSC,\WIGOS\GOS\GOS Other elements\ABOS\ADS-C,ADS-C,Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath.
@@ -12,7 +11,6 @@ AIREP,\WIGOS\GOS\GOS Other elements\ABOS\AIREP,AIREP,Aircraft Report (Manual). T
 AMDAR,\WIGOS\GOS\GOS Other elements\ABOS\AMDAR,AMDAR,Aircraft Meteorological DAta Relay
 ANTON,\WIGOS\GOS\GOS Surface networks\ANTON,ANTON,Antarctic Observing Network surface synoptic station (SYNOP/CLIMAT)
 ANTONt,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(T),ANTON(T),Antarctic Observing Network upper-air station (TEMP)
-globalAOD,\WIGOS\GAW\GAW Other elements\AOD,AOD,Aerosol Optical Depth
 AOML,\Co-sponsored\GOOS\DBCP\AOML,AOML,NA
 AOMLeSurfmar,\Co-sponsored\GOOS\DBCP\AOML-E-SURFMAR,AOML-E-SURFMAR,NA
 AOMLMFDB,\Co-sponsored\GOOS\DBCP\AOML-MF DB,AOML-MF DB,NA
@@ -40,8 +38,8 @@ argoEqESPOMZ,\Co-sponsored\GOOS\Argo\ARGO EQ. ESP-OMZ,ARGO EQ. ESP-OMZ,ARGO EQ. 
 argoEqFERHRI,\Co-sponsored\GOOS\Argo\ARGO EQ. FERHRI,ARGO EQ. FERHRI,ARGO EQ. FERHRI
 argoEqFSU,\Co-sponsored\GOOS\Argo\ARGO EQ. FSU,ARGO EQ. FSU,ARGO EQ. FSU
 argoEqHNFRI,\Co-sponsored\GOOS\Argo\ARGO EQ. HNFRI,ARGO EQ. HNFRI,ARGO EQ. HNFRI
-argoEqIFM2,\Co-sponsored\GOOS\Argo\ARGO EQ. IFM2,ARGO EQ. IFM2,ARGO EQ. IFM2
 argoEqIFM,\Co-sponsored\GOOS\Argo\ARGO EQ. IFM,ARGO EQ. IFM,ARGO EQ. IFM
+argoEqIFM2,\Co-sponsored\GOOS\Argo\ARGO EQ. IFM2,ARGO EQ. IFM2,ARGO EQ. IFM2
 argoEqIreland,\Co-sponsored\GOOS\Argo\ARGO EQ. IRELAND,ARGO EQ. IRELAND,ARGO EQ. IRELAND
 argoEqJamstec,\Co-sponsored\GOOS\Argo\ARGO EQ. JAMSTEC,ARGO EQ. JAMSTEC,ARGO EQ. JAMSTEC
 argoEqJMA,\Co-sponsored\GOOS\Argo\ARGO EQ. JMA,ARGO EQ. JMA,ARGO EQ. JMA
@@ -57,12 +55,13 @@ argoEqSage,\Co-sponsored\GOOS\Argo\ARGO EQ. SAGE,ARGO EQ. SAGE,ARGO EQ. SAGE
 argoEqTNFRI,\Co-sponsored\GOOS\Argo\ARGO EQ. TNFRI,ARGO EQ. TNFRI,ARGO EQ. TNFRI
 argoEqTSK,\Co-sponsored\GOOS\Argo\ARGO EQ. TSK,ARGO EQ. TSK,ARGO EQ. TSK
 argoEqTU,\Co-sponsored\GOOS\Argo\ARGO EQ. TU,ARGO EQ. TU,ARGO EQ. TU
-argoEqUHH,\Co-sponsored\GOOS\Argo\ARGO EQ. UHH,ARGO EQ. UHH,ARGO EQ. UHH
 argoEqUH,\Co-sponsored\GOOS\Argo\ARGO EQ. UH,ARGO EQ. UH,ARGO EQ. UH
+argoEqUHH,\Co-sponsored\GOOS\Argo\ARGO EQ. UHH,ARGO EQ. UHH,ARGO EQ. UHH
 argoEqUMOSU,\Co-sponsored\GOOS\Argo\ARGO EQ. UM-OSU,ARGO EQ. UM-OSU,ARGO EQ. UM-OSU
 argoEqVocals,\Co-sponsored\GOOS\Argo\ARGO EQ. VOCALS,ARGO EQ. VOCALS,ARGO EQ. VOCALS
 argoEqWHOI,\Co-sponsored\GOOS\Argo\ARGO EQ. WHOI,ARGO EQ. WHOI,ARGO EQ. WHOI
 argoFinland,\Co-sponsored\GOOS\Argo\ARGO FINLAND,ARGO FINLAND,ARGO FINLAND
+ARGOFPAIIGMMC,\Co-sponsored\GOOS\Argo\Argo FPAII-GMMC,Argo FPAII-GMMC,Fondation Prince Albert II de Monaco - Groupe Mission Mercator Coriolis Argo programme
 argoGabon,\Co-sponsored\GOOS\Argo\ARGO GABON,ARGO GABON,ARGO GABON
 argoGermany,\Co-sponsored\GOOS\Argo\ARGO GERMANY,ARGO GERMANY,ARGO GERMANY
 argoGreece,\Co-sponsored\GOOS\Argo\ARGO GREECE,ARGO GREECE,ARGO GREECE
@@ -78,10 +77,13 @@ argoLebanon,\Co-sponsored\GOOS\Argo\ARGO LEBANON,ARGO LEBANON,ARGO LEBANON
 argoMauritius,\Co-sponsored\GOOS\Argo\ARGO MAURITIUS,ARGO MAURITIUS,ARGO MAURITIUS
 argoMexCoUS,\Co-sponsored\GOOS\Argo\ARGO MEX-CO-US,ARGO MEX-CO-US,ARGO MEX-CO-US
 argoMexico,\Co-sponsored\GOOS\Argo\ARGO MEXICO,ARGO MEXICO,ARGO MEXICO
+argoMIMRKMA,\Co-sponsored\GOOS\Argo\ARGO NIMR/KMA,ARGO NIMR/KMA,ARGO NIMR/KMA
+ARGOMorocco,\Co-sponsored\GOOS\Argo\Argo Morocco,Argo Morocco,Morocco Argo programme
 argoNetherlands,\Co-sponsored\GOOS\Argo\ARGO NETHERLANDS,ARGO NETHERLANDS,ARGO NETHERLANDS
 argoNewZealand,\Co-sponsored\GOOS\Argo\ARGO NEW ZEALAND,ARGO NEW ZEALAND,ARGO NEW ZEALAND
-argoMIMRKMA,\Co-sponsored\GOOS\Argo\ARGO NIMR/KMA,ARGO NIMR/KMA,ARGO NIMR/KMA
+ARGONIMSKMA,\Co-sponsored\GOOS\Argo\Argo NIMS/KMA,Argo NIMS/KMA,National Institute of Meteorological Science/Korean Meteorological Administration Argo programme
 argoNorway,\Co-sponsored\GOOS\Argo\ARGO NORWAY,ARGO NORWAY,ARGO NORWAY
+ARGOPeru,\Co-sponsored\GOOS\Argo\Argo PERU,Argo PERU,Argo project - Peru
 argoPMEL,\Co-sponsored\GOOS\Argo\ARGO PMEL,ARGO PMEL,ARGO PMEL
 argoPoland,\Co-sponsored\GOOS\Argo\ARGO POLAND,ARGO POLAND,ARGO POLAND
 argoRussia,\Co-sponsored\GOOS\Argo\ARGO RUSSIA,ARGO RUSSIA,ARGO RUSSIA
@@ -96,19 +98,25 @@ argoTWREng,\Co-sponsored\GOOS\Argo\ARGO TWR ENGINEERING,ARGO TWR ENGINEERING,ARG
 argoUK,\Co-sponsored\GOOS\Argo\ARGO UK,ARGO UK,ARGO UK
 argoUKBIO,\Co-sponsored\GOOS\Argo\ARGO UK BIO,ARGO UK BIO,ARGO UK BIO
 argoUKEq,\Co-sponsored\GOOS\Argo\ARGO UK EQ.,ARGO UK EQ.,ARGO UK EQ.
+argoUW,\Co-sponsored\GOOS\Argo\ARGO UW,ARGO UW,ARGO UW
 argoUWAplEq,\Co-sponsored\GOOS\Argo\ARGO UW-APL EQ.,ARGO UW-APL EQ.,ARGO UW-APL EQ.
 argoUWEq,\Co-sponsored\GOOS\Argo\ARGO UW EQ.,ARGO UW EQ.,ARGO UW EQ.
+ARGOUWMBARI,\Co-sponsored\GOOS\Argo\Argo UW-MBARI,Argo UW-MBARI,University of Washington – Monterey Bay Aquarium Research Institute Argo programme
 argoUWMbariEq,\Co-sponsored\GOOS\Argo\ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.
-argoUW,\Co-sponsored\GOOS\Argo\ARGO UW,ARGO UW,ARGO UW
+ARGOUWSOCCOM,\Co-sponsored\GOOS\Argo\Argo UW-SOCCOM,Argo UW-SOCCOM,University of Washington - Southern Ocean Carbon and Climate Observations and Modelling Argo programme
 argoUWSoccomEq,\Co-sponsored\GOOS\Argo\ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.
 argoUWSpursEq,\Co-sponsored\GOOS\Argo\ARGO UW-SPURS EQ.,ARGO UW-SPURS EQ.,ARGO UW-SPURS EQ.
+ARGOUWTPOSEQ,\Co-sponsored\GOOS\Argo\Argo UW-TPOS eq.,Argo UW-TPOS eq.,University of Washington – Tropical Pacific Observing System Argo equivalent programme
 argoUWUAEq,\Co-sponsored\GOOS\Argo\ARGO UW-UA EQ.,ARGO UW-UA EQ.,ARGO UW-UA EQ.
-argoWHOIEqIR,\Co-sponsored\GOOS\Argo\ARGO WHOI EQ. IR,ARGO WHOI EQ. IR,ARGO WHOI EQ. IR
-argoWHOIMRVEq,\Co-sponsored\GOOS\Argo\ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.
 argoWHOI,\Co-sponsored\GOOS\Argo\ARGO WHOI,ARGO WHOI,ARGO WHOI
+argoWHOIEqIR,\Co-sponsored\GOOS\Argo\ARGO WHOI EQ. IR,ARGO WHOI EQ. IR,ARGO WHOI EQ. IR
+ARGOWHOIloopcurrentEQ,\Co-sponsored\GOOS\Argo\Argo WHOI-Loop Current eq.,Argo WHOI-Loop Current eq.,"""Woods Hole Oceanographic Institution - Loop Current, Gulf of Mexico Argo equivalent programme"""
+argoWHOIMRVEq,\Co-sponsored\GOOS\Argo\ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.
+ARGOWHOISODAEQ,\Co-sponsored\GOOS\Argo\Argo WHOI-SODA eq.,Argo WHOI-SODA eq.,Woods Hole Oceanographic Institution - Stratified Ocean Dynamics of the Arctic Argo equivalent programme
 ASAP,\Co-sponsored\GOOS\SOT\ASAP,ASAP,GOS Automated Shipboard Upper-Air Sounding Program
 ASAPAWI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-AWI,ASAP-AWI,NA
 ASAPZA,\Co-sponsored\GOOS\SOT\ASAP-ZA,ASAP-ZA,NA
+AtlantOSH2020,\Co-sponsored\GOOS\Argo\AtlantOS_H2020,AtlantOS_H2020,Atlantic Ocean Observing System Horizon 2020 Argo project
 AWIDB,\Co-sponsored\GOOS\DBCP\AWI-DB,AWI-DB,Alfred Wagner Institute Drifter Buoy program
 BOMDB,\Co-sponsored\GOOS\DBCP\BOM DB,BOM DB,Bureau of Meteorology (BOM) Drifting Buoy program
 BOMTSU,\Co-sponsored\GOOS\DBCP\BOM-TSU,BOM-TSU,Bureau of Meteorology (BOM) Tsunameter Buoy
@@ -149,8 +157,8 @@ coriolisOvide,\Co-sponsored\GOOS\Argo\CORIOLIS-OVIDE,CORIOLIS-OVIDE,NA
 coriolisPirata,\Co-sponsored\GOOS\Argo\CORIOLIS-PIRATA,CORIOLIS-PIRATA,NA
 coriolisPrevimer,\Co-sponsored\GOOS\Argo\CORIOLIS-PREVIMER,CORIOLIS-PREVIMER,NA
 coriolisProsat,\Co-sponsored\GOOS\Argo\CORIOLIS-PROSAT,CORIOLIS-PROSAT,NA
-coriolisRemoceanEq,\Co-sponsored\GOOS\Argo\CORIOLIS-REMOCEAN EQ.,CORIOLIS-REMOCEAN EQ.,NA
 coriolisRemocean,\Co-sponsored\GOOS\Argo\CORIOLIS-REMOCEAN,CORIOLIS-REMOCEAN,NA
+coriolisRemoceanEq,\Co-sponsored\GOOS\Argo\CORIOLIS-REMOCEAN EQ.,CORIOLIS-REMOCEAN EQ.,NA
 coriolisSpice,\Co-sponsored\GOOS\Argo\CORIOLIS-SPICE,CORIOLIS-SPICE,NA
 coriolisTrack,\Co-sponsored\GOOS\Argo\CORIOLIS-TRACK,CORIOLIS-TRACK,NA
 CORMPNC,\Co-sponsored\GOOS\DBCP\CORMP-NC,CORMP-NC,Coastal Ocean Research and Monitoring Program -NC
@@ -176,13 +184,17 @@ eSurfmarNOAA,\Co-sponsored\GOOS\DBCP\E-SURFMAR-NOAA,E-SURFMAR-NOAA,NA
 eSurfmarUKFRMB,\Co-sponsored\GOOS\DBCP\E-SURFMAR-UK/FR MB,E-SURFMAR-UK/FR MB,NA
 eSurfmarUKMB,\Co-sponsored\GOOS\DBCP\E-SURFMAR-UK MB,E-SURFMAR-UK MB,UKMO moored buoy programme
 EUROARGO,\Co-sponsored\GOOS\Argo\EUROARGO,EUROARGO,European contribution to Argo program
+EuroARGORISE,\Co-sponsored\GOOS\Argo\Euro-Argo RISE,Euro-Argo RISE,Euro-Argo Research Infrastructure Sustainability and Enhancement project
 EurositesPlanier,\Co-sponsored\GOOS\DBCP\EUROSITES PLANIER,EUROSITES PLANIER,NA
 FERHRITSU,\Co-sponsored\GOOS\DBCP\FERHRI-TSU,FERHRI-TSU,Far Eastern Regional Hydrometeorological Research Institute Tsunameter Buoys
 GALION,\WIGOS\GAW\GAW Contributing networks\GALION,GALION,GAW Aerosol Lidar Observation Network
+GALIONNDACC,\WIGOS\GAW\GAW Contributing networks\GALION\NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
 gaw,\WIGOS\GAW,GAW,Global Atmosphere Watch
+GAWabos,\WIGOS\GAW\GAW Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
 gawContributing,\WIGOS\GAW\GAW Contributing networks,GAW Contributing networks,Networks contributing to GAW that have signed an agreement with GAW
 GAWglobal,\WIGOS\GAW\GAW Global,GAW Global,Global GAW station
 GAWlocal,\WIGOS\GAW\GAW Local,GAW Local,Local GAW station
+GAWnonAffiliated,\WIGOS\GAW\GAW Other elements\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with GAW or any of the co-sponsored programs
 gawOther,\WIGOS\GAW\GAW Other elements,GAW Other elements,Other international/national networks that provide atmospheric composition observations but are not (yet) affiliated with GAW
 GAWPFR,\WIGOS\GAW\GAW Contributing networks\GAW-PFR,GAW-PFR,GAW Precision Filter Radiometer Network
 GAWregional,\WIGOS\GAW\GAW Regional,GAW Regional,Regional GAW station
@@ -190,13 +202,14 @@ GCOS,\Co-sponsored\GCOS,GCOS,Global Climate Observing System
 GCW,\WIGOS\GCW,GCW,Global Cryosphere Watch
 germanAODnetwork,\WIGOS\GAW\GAW Other elements\AOD\German AOD network,German AOD network,German Aerosol Optical Depth Network
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY
+globalAOD,\WIGOS\GAW\GAW Other elements\AOD,AOD,Aerosol Optical Depth
 GLOSCAL,\Co-sponsored\GOOS\DBCP\GLOSCAL,GLOSCAL,"GLOSCAL is a French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."
 GNSSradioOccultation,\WIGOS\GOS\GOS Other elements\GNSS radio-occultation system,GNSS radio-occultation system,NA
 GOOS,\Co-sponsored\GOOS,GOOS,Global Ocean Observing System
 GOS,\WIGOS\GOS,GOS,Global Observing System
 GOScontributingNetworks,\WIGOS\GOS\GOS Contributing networks,GOS Contributing networks,Networks contributing to the Global Observing System (GOS)
-GOSother,\WIGOS\GOS\GOS Other elements,GOS Other elements,Other elements of the Global Observing System (GOS)
 GOship,\Co-sponsored\GOOS\SOT\GO-SHIP,GO-SHIP,Global Ocean Ship-Based Hydrographic Investigations Programme
+GOSother,\WIGOS\GOS\GOS Other elements,GOS Other elements,Other elements of the Global Observing System (GOS)
 GOSsurfaceNetworks,\WIGOS\GOS\GOS Surface networks,GOS Surface networks,Surface-based observing networks of the Global Observing System (GOS)
 greeceMB,\Co-sponsored\GOOS\DBCP\GREECE MB,GREECE MB,Moored buoys in the Greek Poseiden Network
 GRUAN,\Co-sponsored\GCOS\GRUAN,GRUAN,GCOS Reference Upper-Air Network
@@ -205,9 +218,9 @@ GTOS,\Co-sponsored\GTOS,GTOS,Global Terrestrial Observing System
 GUAN,\Co-sponsored\GCOS\GUAN,GUAN,GCOS Upper-Air Network
 gyroscope,\Co-sponsored\GOOS\Argo\GYROSCOPE,GYROSCOPE,"GyroScope project is aimed to develop a European component of a global in situ observing system of ocean variability in the North Atlantic, as a contribution to the Argo project."
 HKOBSDB,\Co-sponsored\GOOS\DBCP\HK-OBS-DB,HK-OBS-DB,Hong Kong Observatory Drifter Buoy
+IABP,\Co-sponsored\GOOS\DBCP\IABP,IABP,International Arctic Buoy Programme (IABP)
 IABPcanada,\Co-sponsored\GOOS\DBCP\IABP CANADA,IABP CANADA,ICE FLOE DRIFT
 IABPEC,\Co-sponsored\GOOS\DBCP\IABP-EC,IABP-EC,NA
-IABP,\Co-sponsored\GOOS\DBCP\IABP,IABP,International Arctic Buoy Programme (IABP)
 IABPNIC,\Co-sponsored\GOOS\DBCP\IABP NIC,IABP NIC,NA
 IABPUS,\Co-sponsored\GOOS\DBCP\IABP US,IABP US,Coordination/data management of the Intl Arctic Buoy program
 IABPUW,\Co-sponsored\GOOS\DBCP\IABP-UW,IABP-UW,Intl Arctic Buoy Program (IABP) University of Washington (UW)
@@ -238,18 +251,23 @@ MERSEA,\Co-sponsored\GOOS\Argo\MERSEA,MERSEA,NA
 MeteoFranceDB,\Co-sponsored\GOOS\DBCP\METEO FRANCE DB,METEO FRANCE DB,MF Drifters Atlantic and Indian Ocean
 MeteoFranceMB,\Co-sponsored\GOOS\DBCP\METEO FRANCE MB,METEO FRANCE MB,MF Drifters Atlantic and Indian Ocean
 MeteoFranceWB,\Co-sponsored\GOOS\DBCP\METEO FRANCE WB,METEO FRANCE WB,Meteo-France waverider (operational)
+MOCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo – EU
+MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo – Germany
+MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo – Italy
+MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
+MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
 MOZAIC,\WIGOS\GAW\GAW Other elements\ABOS\MOZAIC,MOZAIC,Measurement of Ozone and Water Vapour on Airbus In-service Aircraft.
 MPLNET,\WIGOS\GAW\GAW Contributing networks\GALION\MPLNET,MPLNET,Micro-Pulse Lidar Network
 NADP,\WIGOS\GAW\GAW Contributing networks\NADP,NADP,National Atmospheric Deposition Program
 NAOSfrance,\Co-sponsored\GOOS\Argo\NAOS-FRANCE,NAOS-FRANCE,Novel Argo Ocean Observing System (NOAS) France project
+NAVOCEANODBCP,\Co-sponsored\GOOS\DBCP\NAVOCEANO DBCP,Navoceano DBCP,Naval Oceanographic Office DBCP programme
 NCCOOS,\Co-sponsored\GOOS\DBCP\NCCOOS,NCCOOS,NA
 NDACC,\WIGOS\GAW\GAW Other elements\NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
-GALIONNDACC,\WIGOS\GAW\GAW Contributing networks\GALION\NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
 NDBCBP,\Co-sponsored\GOOS\DBCP\NDBC-BP,NDBC-BP,NA
 NDBCCOE,\Co-sponsored\GOOS\DBCP\NDBC-COE,NDBC-COE,NA
 NDBCCSI,\Co-sponsored\GOOS\DBCP\NDBC-CSI,NDBC-CSI,NA
-NDBCMBARI,\Co-sponsored\GOOS\DBCP\NDBC-MBARI,NDBC-MBARI,NA
 NDBCMB,\Co-sponsored\GOOS\DBCP\NDBC-MB,NDBC-MB,NA
+NDBCMBARI,\Co-sponsored\GOOS\DBCP\NDBC-MBARI,NDBC-MBARI,NA
 NDBCNASA,\Co-sponsored\GOOS\DBCP\NDBC-NASA,NDBC-NASA,NA
 NDBCNOAANWS,\Co-sponsored\GOOS\DBCP\NDBC-NOAA-NWS,NDBC-NOAA-NWS,NA
 NDBCTABS,\Co-sponsored\GOOS\DBCP\NDBC-TABS,NDBC-TABS,NA
@@ -259,7 +277,6 @@ NDWCTSU,\Co-sponsored\GOOS\DBCP\NDWC-TSU,NDWC-TSU,National Disaster Warning Cent
 NewZealandDB,\Co-sponsored\GOOS\DBCP\NEW ZEALAND DB,NEW ZEALAND DB,NA
 NICIABP,\Co-sponsored\GOOS\DBCP\NIC-IABP,NIC-IABP,NA
 NOAACBIBS,\Co-sponsored\GOOS\DBCP\NOAA-CBIBS,NOAA-CBIBS,"The National Oceanic and Atmospheric Administration's (NOAA) Chesapeake Bay Interpretive Buoy System (CBIBS) is a network of observing platforms (buoys) that collect meteorological, oceanographic, and water-quality data and relay that information using wireless technology to a variety of users. "
-GAWnonAffiliated,\WIGOS\GAW\GAW Other elements\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with GAW or any of the co-sponsored programs
 nonAffiliated,\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with WIGOS or any of the co-sponsored programs
 NorwayIMR,\Co-sponsored\GOOS\DBCP\NORWAY-IMR,NORWAY-IMR,Institute of Marine Research Drifting Buoy Program
 NWSNDBCMB,\Co-sponsored\GOOS\DBCP\NWS-NDBC-MB,NWS-NDBC-MB,NWS NDBC Moored buoy
@@ -269,9 +286,9 @@ OSAWI,\Co-sponsored\GOOS\OceanSITES\OS-AWI,OS-AWI,AWI OceanSITES program
 OSBAS,\Co-sponsored\GOOS\OceanSITES\OS-BAS,OS-BAS,NA
 OSBCCR,\Co-sponsored\GOOS\OceanSITES\OS-BCCR,OS-BCCR,NA
 OSBIOS,\Co-sponsored\GOOS\OceanSITES\OS-BIOS,OS-BIOS,NA
-OSCOM,\Co-sponsored\GOOS\OceanSITES\OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,NA
 OSCNR,\Co-sponsored\GOOS\OceanSITES\OS-CNR,OS-CNR,NA
 OSCNRS,\Co-sponsored\GOOS\OceanSITES\OS-CNRS,OS-CNRS,NA
+OSCOM,\Co-sponsored\GOOS\OceanSITES\OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,OS-CENTRE D'OCEANOLOGIE DE MARSEILLE,NA
 OSCSIRO,\Co-sponsored\GOOS\OceanSITES\OS-CSIRO,OS-CSIRO,NA
 OSDFO,\Co-sponsored\GOOS\OceanSITES\OS-DFO,OS-DFO,NA
 OSDML,\Co-sponsored\GOOS\OceanSITES\OS-DML,OS-DML,NA
@@ -294,12 +311,12 @@ OSMARUM,\Co-sponsored\GOOS\OceanSITES\OS-MARUM,OS-MARUM,NA
 OSMBARI,\Co-sponsored\GOOS\OceanSITES\OS-MBARI,OS-MBARI,NA
 OSNIO,\Co-sponsored\GOOS\OceanSITES\OS-NIO,OS-NIO,NA
 OSNIOT,\Co-sponsored\GOOS\OceanSITES\OS-NIOT,OS-NIOT,NA
+OSNIOZ,\Co-sponsored\GOOS\OceanSITES\OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),NA
 OSNIWA,\Co-sponsored\GOOS\OceanSITES\OS-NIWA,OS-NIWA,NA
 OSNOAA-AOML,\Co-sponsored\GOOS\OceanSITES\OS-NOAA/AOML,OS-NOAA/AOML,NA
 OSNOAA-PMEL,\Co-sponsored\GOOS\OceanSITES\OS-NOAA/PMEL,OS-NOAA/PMEL,NA
 OSNOC,\Co-sponsored\GOOS\OceanSITES\OS-NOC,OS-NOC,NA
 OSOGS,\Co-sponsored\GOOS\OceanSITES\OS-OGS,OS-OGS,NA
-OSNIOZ,\Co-sponsored\GOOS\OceanSITES\OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),NA
 OSSIO,\Co-sponsored\GOOS\OceanSITES\OS-SIO,OS-SIO,NA
 OSSNU,\Co-sponsored\GOOS\OceanSITES\OS-SNU,OS-SNU,NA
 OSSOA,\Co-sponsored\GOOS\OceanSITES\OS-SOA,OS-SOA,NA
@@ -318,10 +335,11 @@ RBCN,\WIGOS\GOS\GOS Surface networks\RBCN,RBCN,Regional Basic Climatological Net
 RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project,RBON-Pilot Project,Regional Basic Observing Network (pilot project)
 RBSN,\WIGOS\GOS\GOS Surface networks\RBSN,RBSN,GOS Regional Basic Synoptic Networks
 RBSNp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(P),RBSN(P),Regional Basic Synoptic Network upper-air station (PILOT)
-RBSNsp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(SP),RBSN(SP),NA
 RBSNs,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(S),RBSN(S),Regional Basic Synoptic Network surface station (SYNOP)
+RBSNsp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(SP),RBSN(SP),NA
 RBSNst,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(ST),RBSN(ST),Regional Basic Synoptic Network surface and upper-air station (SYNOP/TEMP)
 RBSNt,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(T),RBSN(T),Regional Basic Synoptic Network upper-air station (TEMP)
+SAWSDB,\Co-sponsored\GOOS\DBCP\SAWS DB,SAWS DB,South African Weather Service Drifting Buoys programme
 scripps,\Co-sponsored\GOOS\DBCP\SCRIPPS,SCRIPPS,NA
 SHADOZ,\WIGOS\GAW\GAW Other elements\SHADOZ,SHADOZ,Southern Hemisphere ADditional Ozonesondes
 shell,\Co-sponsored\GOOS\DBCP\SHELL,SHELL,SHELL Beaufort sea ice movement
@@ -329,8 +347,8 @@ shoaTSU,\Co-sponsored\GOOS\DBCP\SHOA-TSU,SHOA-TSU,Chilean Navy Hydrographic And 
 sibRad,\WIGOS\GAW\GAW Other elements\AOD\SibRad,SibRad,SibRad
 SIODB,\Co-sponsored\GOOS\DBCP\SIO-DB,SIO-DB,Scripps Institution of Oceanography Drifter Buoy
 skynet,\WIGOS\GAW\GAW Other elements\AOD\SKYNET,SKYNET,Aerosol-cloud-radiation interaction in the atmosphere project
-SOOPBOM,\Co-sponsored\GOOS\SOT\SOOP-BOM,SOOP-BOM,NA
 SOOP,\Co-sponsored\GOOS\SOT\SOOP,SOOP,Ship Of Opportunity Programme
+SOOPBOM,\Co-sponsored\GOOS\SOT\SOOP-BOM,SOOP-BOM,NA
 SOT,\Co-sponsored\GOOS\SOT,SOT,NA
 spainPDEMB,\Co-sponsored\GOOS\DBCP\SPAIN-PDE MB,SPAIN-PDE MB,Puertos del EStado Spain Moored buoy
 stratus,\Co-sponsored\GOOS\DBCP\STRATUS,STRATUS,Woodshole IO OceanSITES
@@ -349,6 +367,7 @@ UKMOLV,\Co-sponsored\GOOS\DBCP\UK-MO LV,UK-MO LV,UK Metoffice Light Vessel
 UKMOMB,\Co-sponsored\GOOS\DBCP\UK-MO MB,UK-MO MB,United Kingdom Met Office Moored Buoys
 unknown,\(unknown),unknown,The affiliation/programme is unknown.
 USCGDB,\Co-sponsored\GOOS\DBCP\US-CG DB,US-CG DB,USCG Drift Buoys
+VOS,\Co-sponsored\GOOS\SOT\VOS,VOS,GOS Voluntary Observing Ship Program
 VOS3P,\Co-sponsored\GOOS\SOT\VOS\VOS-3P,VOS-3P,NA
 VOSAU,\Co-sponsored\GOOS\SOT\VOS\VOS-AU,VOS-AU,NA
 VOSCA,\Co-sponsored\GOOS\SOT\VOS\VOS-CA,VOS-CA,NA
@@ -358,7 +377,6 @@ VOSES,\Co-sponsored\GOOS\SOT\VOS\VOS-ES,VOS-ES,NA
 VOSEU,\Co-sponsored\GOOS\SOT\VOS\VOS-EU,VOS-EU,NA
 VOSFR,\Co-sponsored\GOOS\SOT\VOS\VOS-FR,VOS-FR,NA
 VOSGB,\Co-sponsored\GOOS\SOT\VOS\VOS-GB,VOS-GB,NA
-VOS,\Co-sponsored\GOOS\SOT\VOS,VOS,GOS Voluntary Observing Ship Program
 VOSGR,\Co-sponsored\GOOS\SOT\VOS\VOS-GR,VOS-GR,NA
 VOSHK,\Co-sponsored\GOOS\SOT\VOS\VOS-HK,VOS-HK,NA
 VOSIE,\Co-sponsored\GOOS\SOT\VOS\VOS-IE,VOS-IE,NA
@@ -382,21 +400,3 @@ WHYCOS,\WIGOS\WHOS\WHYCOS,WHYCOS,World Hydrological Cycle Observing System
 WIGOS,\WIGOS,WIGOS,WMO Integrated Observing System components
 windProfiler,\WIGOS\GOS\GOS Other elements\Wind Profilers,Wind Profilers,Wind profilers for upper-air wind observations
 WRO,\WIGOS\GOS\GOS Other elements\WRO,WRO,GOS Weather Radar
-AtlantOSH2020,\Co-sponsored\GOOS\Argo\AtlantOS_H2020,AtlantOS_H2020,Atlantic Ocean Observing System Horizon 2020 Argo project
-ARGOPeru,\Co-sponsored\GOOS\Argo\Argo PERU,Argo PERU,Argo project - Peru
-ARGOUWSOCCOM,\Co-sponsored\GOOS\Argo\Argo UW-SOCCOM,Argo UW-SOCCOM,University of Washington - Southern Ocean Carbon and Climate Observations and Modelling Argo programme
-MOCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo – EU
-MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo – Germany
-MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo – Italy
-MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
-MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
-ARGONIMSKMA,\Co-sponsored\GOOS\Argo\Argo NIMS/KMA,Argo NIMS/KMA,National Institute of Meteorological Science/Korean Meteorological Administration Argo programme
-ARGOUWMBARI,\Co-sponsored\GOOS\Argo\Argo UW-MBARI,Argo UW-MBARI,University of Washington – Monterey Bay Aquarium Research Institute Argo programme
-ARGOUWTPOSEQ,\Co-sponsored\GOOS\Argo\Argo UW-TPOS eq.,Argo UW-TPOS eq.,University of Washington – Tropical Pacific Observing System Argo equivalent programme
-ARGOWHOISODAEQ,\Co-sponsored\GOOS\Argo\Argo WHOI-SODA eq.,Argo WHOI-SODA eq.,Woods Hole Oceanographic Institution - Stratified Ocean Dynamics of the Arctic Argo equivalent programme
-ARGOMorocco,\Co-sponsored\GOOS\Argo\Argo Morocco,Argo Morocco,Morocco Argo programme
-ARGOWHOIloopcurrentEQ,\Co-sponsored\GOOS\Argo\Argo WHOI-Loop Current eq.,Argo WHOI-Loop Current eq.,"""Woods Hole Oceanographic Institution - Loop Current, Gulf of Mexico Argo equivalent programme"""
-EuroARGORISE,\Co-sponsored\GOOS\Argo\Euro-Argo RISE,Euro-Argo RISE,Euro-Argo Research Infrastructure Sustainability and Enhancement project
-ARGOFPAIIGMMC,\Co-sponsored\GOOS\Argo\Argo FPAII-GMMC,Argo FPAII-GMMC,Fondation Prince Albert II de Monaco - Groupe Mission Mercator Coriolis Argo programme
-NAVOCEANODBCP,\Co-sponsored\GOOS\DBCP\NAVOCEANO DBCP,Navoceano DBCP,Naval Oceanographic Office DBCP programme
-SAWSDB,\Co-sponsored\GOOS\DBCP\SAWS DB,SAWS DB,South African Weather Service Drifting Buoys programme
