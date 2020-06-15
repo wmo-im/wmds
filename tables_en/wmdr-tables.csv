@@ -31,7 +31,7 @@
 4-07,Climate zone,http://codes.wmo.int/wmdr/ClimateZone
 5-01,Source of observation,http://codes.wmo.int/wmdr/SourceOfObservation
 5-02-01,Measurement/observing method (atmosphere),http://codes.wmo.int/wmdr/ObservingMethodAtmosphere
-5-03-03, Identifies if electromagnetic radiation is used for observation or telecommunication,http://codes.wmo.int/wmdr/PurposeOfFrequencyUse
+5-03-03, Purpose of frequency use,http://codes.wmo.int/wmdr/PurposeOfFrequencyUse
 5-02-05,Measurement/observing method (terresrial),http://codes.wmo.int/wmdr/ObservingMethodTerrestrial
 5-04,Instrument operating status,http://codes.wmo.int/wmdr/InstrumentOperatingStatus
 5-05,Type of reference surface,http://codes.wmo.int/wmdr/ReferenceSurfaceType
