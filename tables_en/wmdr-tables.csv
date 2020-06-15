@@ -32,7 +32,7 @@
 5-01,Source of observation,http://codes.wmo.int/wmdr/SourceOfObservation
 5-02-01,Measurement/observing method (atmosphere),http://codes.wmo.int/wmdr/ObservingMethodAtmosphere
 5-02-05,Measurement/observing method (terresrial),http://codes.wmo.int/wmdr/ObservingMethodTerrestrial
-5-03-01,Polarization of electromagnetic radiation to characterize instruments,http://codes.wmo.int/wmdr/Polarization
+5-03-01,Polarization of electromagnetic radiation,http://codes.wmo.int/wmdr/Polarization
 5-04,Instrument operating status,http://codes.wmo.int/wmdr/InstrumentOperatingStatus
 5-05,Type of reference surface,http://codes.wmo.int/wmdr/ReferenceSurfaceType
 5-08-01,Control standard type,http://codes.wmo.int/wmdr/ControlStandardType
