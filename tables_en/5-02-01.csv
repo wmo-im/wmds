@@ -94,7 +94,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 180,"\Atmosphere\Radiation\In situ\Pyrradiometer (total global, UV+IR)","Pyrradiometer (total global, UV+IR)",
 181,"\Atmosphere\Humidity\Remote-sensing, active\Radio acoustic sounding system (RASS)",Radio acoustic sounding system (RASS),
 182,"\Atmosphere\Temperature\Remote-sensing, active\Radio acoustic sounding system (RASS)",Radio acoustic sounding system (RASS),
-183,"\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar) profiler",Radio detection and ranging (Radar) profiler,
+183,"\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)",Radio detection and ranging (Radar),
 184,"\Atmosphere\Wind\Remote-sensing, active\Radio detection and ranging (Radar) profiler",Radio detection and ranging (Radar) profiler,
 185,\Atmosphere\Radioactivity\In situ\Radiochemical Methods [general],Radiochemical Methods [general],
 186,\Atmosphere\Ozone\In situ\Regener Sonde (chemiluminescence),Regener Sonde (chemiluminescence),
