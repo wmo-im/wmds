@@ -41,6 +41,17 @@ collection_tpl = Template("""<$container>
     skos:member            $members .
     """)
 
+readme_tpl = Template("""**Project name:** WMDS Codetables English
+
+**Description:** This directory contains the English versions of the WMDS Codetables. 
+
+**Table of Contents:**
+
+$payload
+""")
+
+readme_line_tpl = Template("""[$number.csv](./tables_en/$number.csv) [$abbreviation]($url) $name\n""")
+
 class Codelist:
 
     def __init__(self,code_nr,name,url):
@@ -110,9 +121,18 @@ def processCodelist(c,dir=None):
     #if codelist_nr in ['1-01-01','1-01-02','1-01-03','1-01-04','1-01-05']:
     #    print("skipping {}".format(codelist_nr))
     #    return
+    
+    temp = c.url.split('/')
 
-    base_name = c.url.split('/')[-1]
-       
+    if len(temp) != 5:
+        msg = "WARNING: URL format of {} not correct..".format(c.url)
+        logger.warning(msg)
+        print(msg)
+        sys.exit(1)
+
+    base_name = temp[-1]
+
+      
     base_description = c.name
     name = c.name
     
@@ -127,8 +147,6 @@ def processCodelist(c,dir=None):
             ttlfile = open( "{}/{}.ttl".format( dir,c.code_nr ) , mode="w" , encoding="utf-8" )
         else :
             ttlfile = tempfile.TemporaryFile(mode="w",encoding="utf-8")
-        
-        logger.debug("writing to tempfile {}".format(ttlfile.name) )
         
         data = f.read()
         
@@ -192,9 +210,6 @@ def processCodelist(c,dir=None):
 
 # this function generates the TTL files from the current tables-en directory. It uses    
 def generate(dir=None):    
-
-    logger.info("generating codelist files and writing them to {}".format( dir if dir else "temporary files" ))
-
     # get codelist to 
     codes = {}
     with open(r"{}/wmdr-tables.csv".format(TABLES_DIR),'r') as f:
@@ -211,6 +226,45 @@ def generate(dir=None):
             logger.debug("processing {}".format(c))
 
             processCodelist(c,dir)
-            logger.debug("generated TTL file {}".format(c.code_nr))
-            
+            logger.info("generated TTL file {}".format(c.code_nr))
+
+
+        
     
+# this function creates the readme file from the CSV file
+def createReadme():
+
+    # get codelist to 
+    codes = {}
+    with open(r"{}/wmdr-tables.csv".format(TABLES_DIR),'r',encoding="utf8") as f:
+        csvreader = csv.reader(f)
+        
+        files = []
+        temp = ""
+        for line in csvreader:
+            code_nr = line[0]
+            name = line[1]
+            url = line[2]
+            abbreviation = url.split('/')[-1]
+            
+            temp += readme_line_tpl.substitute(number=code_nr,abbreviation=abbreviation,name=name,url=url)
+            
+            codes[code_nr] = url
+    
+    mypath = r"{}".format(TABLES_DIR)
+    csvfiles = [f.replace('.csv','') for f in os.listdir( mypath ) if os.path.isfile(os.path.join(mypath, f)) and f.endswith(".csv") and "wmdr-tables" not in f ]
+
+
+    missing_files = set( codes.keys() ).difference( set(csvfiles) )
+    missing_in_csv = set( csvfiles ).difference( set(codes.keys()) )
+
+    if len(missing_files)>0:
+        raise ValueError("{} are referenced in wmrd-tables.csv but do not exist ".format( ",".join([ "{}.csv".format(f) for f in missing_files ] ) ))
+        
+    if len(missing_in_csv)>0:
+        raise ValueError("{} are in filesystem but not referenced in wmrd-tables.csv ".format( ",".join( [ "{}.csv".format(f) for f in missing_in_csv ] ) ) )
+        
+
+    return str(readme_tpl.substitute(payload=temp))
+            
+

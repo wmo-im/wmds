@@ -1,4 +1,4 @@
-from registry_deployment import generate, publish
+from registry_deployment import generate, publish, createReadme
 import logging
 import os
 import sys
@@ -37,6 +37,17 @@ if not gen and not token:
 
 
 try:
+    
+    with open(r"tables_en/readme.md","r",encoding="utf8") as f:
+        readme_content = f.read()
+
+        virtual_readme = createReadme()
+
+        if readme_content != virtual_readme:
+            logging.error("readme not in sync with wmrd-tables.csv")
+            sys.exit(1)
+        logger.info("readme in sync with wmrd-tables.csv")
+    
     logger.info("generating files")
     generate(dir) #of None is passed temporary files will be used
     logger.info("generated files ok")
@@ -45,10 +56,10 @@ try:
 
     if not gen:
         logger.info("uploading files to {}".format(registry))
-        #publish(registry,token,dir)
+        publish(registry,token,dir)
         logger.info("finished upload")
     
 except Exception as e:
     logging.error(e)
-    logger.warning("ERROR: {}".format(e))
+    logger.error("ERROR: {}".format(e))
     sys.exit(1)
