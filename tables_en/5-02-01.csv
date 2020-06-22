@@ -229,8 +229,6 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 322,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\Fourier-transform IR spectroscopy (FTIR)",Fourier-transform IR spectroscopy (FTIR),
 323,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\TCCON Fourier-transform IR spectroscopy (TCCON-FTIR)",TCCON Fourier-transform IR spectroscopy (TCCON-FTIR),
 324,"\Atmosphere\Visual range\Remote-sensing, active\Laser-based methods\Light detection and ranging (Lidar)",Light detection and ranging (Lidar),
-325,"\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)\Magnetron",Magnetron,	
-326,"\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)\Klystron",Klystron,
 327,\Atmosphere\Radiosonde with NAVAID,Radiosonde with NAVAID,
 328,\Atmosphere\Radiosonde with radar tracking,Radiosonde with radar tracking,
 329,\Atmosphere\Radiosonde with radiotheodolite tracking,Radiosonde with radiotheodolite tracking,
