@@ -8,7 +8,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 200,\Terrestrial\Soil moisture\In situ\Tensiometer,Tensiometer,
 203,\Terrestrial\Soil moisture\In situ\Time domain reflectometry (TDR),Time domain reflectometry (TDR),
 260,\Terrestrial\Snow depth\Ultrasonic ranging,Ultrasonic ranging,Transmission of an ultrasonic pulse towards the target and listening for a return echo from that target.
-261,\Terrestrial\Snow depth\Graduated[SCBD1] device,Graduated[SCBD1] device,"Manual measurement or observation made with a graduated fixed stake, a sturdy ruler, or an extendable graduated rod."
-262,\Terrestrial\Water equivalent of snow cover\In situ\Snow pillows and snow scales,Snow pillows and snow scales,Weighing of snow-cover mass per unit area.
+261,\Terrestrial\Snow depth\Graduated device,Graduated device,"Manual measurement or observation made with a graduated fixed stake, a sturdy ruler, or an extendable graduated rod."
+262,\Terrestrial\Water equivalent of snow cover\Snow pillows and snow scales,Snow pillows and snow scales,Weighing of snow-cover mass per unit area.
 344,\Terrestrial\Snow depth\Laser ranging,Laser ranging,Emission of a modulated beam of light in the visible spectrum to determine the distance to a target by comparing the phase information from the reflected beam.
-unknown,,,The measurement/observing method is unknown.
+unknown,,unknown,The measurement/observing method is unknown.
