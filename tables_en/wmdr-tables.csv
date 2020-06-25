@@ -52,4 +52,3 @@
 11-01,Coordinates source/service,http://codes.wmo.int/wmdr/GeopositioningMethod
 11-02,Coordinates reference,http://codes.wmo.int/wmdr/CoordinateReferenceSystem
 11-03,Meaning of time stamp,http://codes.wmo.int/wmdr/TimeStampMeaning
-superseded,list of terms that are superseded by another term, 
