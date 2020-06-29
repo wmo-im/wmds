@@ -1,5 +1,7 @@
 notation,path,name,description
 ABOS,\WIGOS\GOS\GOS Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
+ACTRIS,\WIGOS\GAW\GAW Other elements\ACTRIS,ACTRIS,"Aerosol,Clouds and Trace Gases Research Infrastructure, www.actris.eu"
+GAWabos,\WIGOS\GAW\GAW Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
 ADD,\WIGOS\GOS\GOS Other elements\ABOS\ADD,ADD,Aircraft Derived Data (Mode-S/ADS-B)
 ADNet,\WIGOS\GAW\GAW Contributing networks\GALION\ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 ADSC,\WIGOS\GOS\GOS Other elements\ABOS\ADS-C,ADS-C,Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath.
@@ -228,6 +230,7 @@ IABPUS,\Co-sponsored\GOOS\DBCP\IABP US,IABP US,Coordination/data management of t
 IABPUW,\Co-sponsored\GOOS\DBCP\IABP-UW,IABP-UW,Intl Arctic Buoy Program (IABP) University of Washington (UW)
 IAGOS,\WIGOS\GAW\GAW Other elements\ABOS\IAGOS,IAGOS,In-service Aircraft for a Global Observing System
 IBPIO,\Co-sponsored\GOOS\DBCP\IBPIO,IBPIO,International Buoy Programme for the Indian Ocean (IBPIO)
+ICOS,\WIGOS\GAW\GAW Contributing networks\ICOS,ICOS,"Integrated Carbon Observation System, www.icos-cp.eu"
 IDAF,\WIGOS\GAW\GAW Contributing networks\IDAF,IDAF,IGAC/DEBITS Africa
 IMPROVE,\WIGOS\GAW\GAW Contributing networks\IMPROVE,IMPROVE,IMPROVE Optical Aerosol
 inapplicable,\(inapplicable),inapplicable,None of the codes in the table are applicable.
