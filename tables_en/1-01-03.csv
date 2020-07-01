@@ -9,7 +9,7 @@ notation,path,name,description
 68,\Ocean\Miscellaneous\Carbon species\Dissolved organic carbon,Dissolved organic carbon,
 69,\Ocean\Miscellaneous\Nitrogen species\Dissolved organic nitrogen,Dissolved organic nitrogen,
 70,"\Ocean\Miscellaneous\Diffuse attenuation coefficient (DAC), turbidity","Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation."
-71,\Ocean\Biology\Chlorophyll concentration ,Chlorophyll concentration ,"Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3 ."
+71,\Ocean\Biology\Chlorophyll concentration,Chlorophyll concentration,"Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3 ."
 72,\Ocean\Miscellaneous\Ocean suspended sediments concentration,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3 ). "
 73,\Ocean\Miscellaneous\Oil spill cover,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
 74,\Ocean\Biology\Primary production,Primary production,
@@ -40,13 +40,13 @@ notation,path,name,description
 312,\Ocean\Biology\Nitrogen species\NO3- (nitrate),NO3- (nitrate),Nitrate concentration in sea water.
 399,\Ocean\Biology\Phosporus species\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water.
 400,\Ocean\Biology\Phosporus species\Total organic phosphorus,Total organic phosphorus,
-401,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
-402,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
-403,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
-404,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)."
-405,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
-406,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
-407,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
+401,\Ocean\Cryosphere\Sea ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
+402,\Ocean\Cryosphere\Sea ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
+403,\Ocean\Cryosphere\Sea ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
+404,\Ocean\Cryosphere\Sea ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)."
+405,\Ocean\Cryosphere\Sea ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
+406,\Ocean\Cryosphere\Sea ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
+407,\Ocean\Cryosphere\Sea ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
 408,\Ocean\Transmissivity\CTD\Transmissivity,Transmissivity,
 549,\Ocean\Other Gas\CTD\pO2,pO2,
 731,\Ocean\Basic Physical Properties\Conductivity,Conductivity,Conductivity measured by CTD or MicroCAT
