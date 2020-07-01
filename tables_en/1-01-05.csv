@@ -32,7 +32,6 @@ notation,path,name,description
 563,\Terrestrial\Land surface\Radiation\Fraction of Absorbed PAR (FAPAR),Fraction of Absorbed PAR (FAPAR),Fraction of PAR absorbed by vegetation (land or marine) for photosynthesis processes (generally around the 'red' frequencies).
 564,\Terrestrial\Land surface\Radiation\Photosynthetically Active Radiation (PAR),Photosynthetically Active Radiation (PAR),Flux of downwelling photons of wavelength 400-700 nm.
 596,\Terrestrial\Soil\Temperature\Soil temperature,Soil temperature,"The standard depths for soil temperature measurements are 5, 10, 20, 50 and 100 cm below the surface; additional depths may be included. The site for such measurements should be a level plot of bare ground (about 75 cm^2 ) and typical of the surrounding soil for which information is required."
-610,\Terrestrial\Cryosphere\Glacier\Glacier cover,Glacier cover,Fraction of a land area covered by permanent ice.
 611,\Terrestrial\Cryosphere\Glacier\Glacier motion,Glacier motion,Velocity of the ice measured at the surface of a glacier.
 612,\Terrestrial\Cryosphere\Glacier\Glacier topography,Glacier topography,Map of the height of the glacier surface.
 613,\Terrestrial\Cryosphere\Ice sheet\Ice sheet topography,Ice sheet topography,Map of ice sheet height over land.
