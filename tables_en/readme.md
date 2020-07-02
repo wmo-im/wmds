@@ -58,3 +58,4 @@
 [11-01.csv](./tables_en/11-01.csv) [GeopositioningMethod](http://codes.wmo.int/wmdr/GeopositioningMethod) Coordinates source/service
 [11-02.csv](./tables_en/11-02.csv) [CoordinateReferenceSystem](http://codes.wmo.int/wmdr/CoordinateReferenceSystem) Coordinates reference
 [11-03.csv](./tables_en/11-03.csv) [TimeStampMeaning](http://codes.wmo.int/wmdr/TimeStampMeaning) Meaning of time stamp
+
