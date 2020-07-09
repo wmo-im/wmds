@@ -6,3 +6,4 @@ https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/326,https://codes.wmo.int/w
 https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/325,https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/183
 https://codes.wmo.int/wmdr/ProgramAffiliation/_CryoNet,https://codes.wmo.int/wmdr/ProgramAffiliation/_GCWCryoNet
 https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_610,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12013
+http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_201

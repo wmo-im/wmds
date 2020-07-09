@@ -108,7 +108,6 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 198,\Atmosphere\Radiation\In situ\Sunshine duration,Sunshine duration,
 199,\Atmosphere\Micrometeorology\In situ\Surface chamber,Surface chamber,
 201,"\Atmosphere\Temperature\In situ\Thermocouple, thermopile","Thermocouple, thermopile",
-202,\Atmosphere\Temperature\In situ\Thermometer-Thermoelement,Thermometer-Thermoelement,
 204,\Atmosphere\Precipitation\In situ\Tipping bucket rain gauge (totalizer),Tipping bucket rain gauge (totalizer),
 205,\Atmosphere\Trace gas\In situ\Titration,Titration,
 207,"\Atmosphere\Visual range\Remote-sensing, active\Transmissometer",Transmissometer,
