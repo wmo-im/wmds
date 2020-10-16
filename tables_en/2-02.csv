@@ -187,8 +187,8 @@ EUROARGO,\Co-sponsored\GOOS\Argo\EUROARGO,EUROARGO,European contribution to Argo
 EuroARGORISE,\Co-sponsored\GOOS\Argo\Euro-Argo RISE,Euro-Argo RISE,Euro-Argo Research Infrastructure Sustainability and Enhancement project
 EurositesPlanier,\Co-sponsored\GOOS\DBCP\EUROSITES PLANIER,EUROSITES PLANIER,NA
 FERHRITSU,\Co-sponsored\GOOS\DBCP\FERHRI-TSU,FERHRI-TSU,Far Eastern Regional Hydrometeorological Research Institute Tsunameter Buoys
-GALION,\WIGOS\GAW\GAW Contributing networks\GALION,GALION,GAW Aerosol Lidar Observation Network
-GALIONNDACC,\WIGOS\GAW\GAW Contributing networks\GALION\NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
+GALION (deprecated),\WIGOS\GAW\GAW Contributing networks\GALION (deprecated),GALION (deprecated),GAW Aerosol Lidar Observation Network (deprecated, GALION is a coordination mechanism and is not considered as a program/network)
+GALIONNDACC (deprecated),\WIGOS\GAW\GAW Contributing networks\GALION\NDACC (deprecated),NDACC (deprecated),Network for the Detection of Atmospheric Composition Change (deprecated, some parts of NDACC are coordinated by GALION, but GALION is considered as a program/network)
 gaw,\WIGOS\GAW,GAW,Global Atmosphere Watch
 GAWabos,\WIGOS\GAW\GAW Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
 gawContributing,\WIGOS\GAW\GAW Contributing networks,GAW Contributing networks,Networks contributing to GAW that have signed an agreement with GAW
