@@ -9,6 +9,7 @@ jobs:
     strategy:
       matrix:
         python-version: [3.6]
+        test-mode: [test, prod]
 
     steps:
     - uses: actions/checkout@v2
@@ -24,4 +25,4 @@ jobs:
           pip install testtools
     - name: Test
       run: |
-        tmode=prod python3 -m scripts.check_urls
+        tmode=${{ matrix.test-mode }} python3 -m scripts.check_urls

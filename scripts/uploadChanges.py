@@ -36,17 +36,17 @@ def parse_uploads(uploads):
     return result
 
 def post(session, url, payload):
-    headers={'Content-type':'text/turtle', 'charset':'utf-8'}
+    headers={'Content-type':'text/turtle; charset=UTF-8'}
     response = session.get(url, headers=headers)
     if response.status_code != 200:
-        raise ValueError('Cannot POST to {}, it exists.'.format(url))
-    params = {'status':'Experimental'}
+        raise ValueError('Cannot POST to {}, it does not exist.'.format(url))
+    params = {'status':'experimental'}
     res = session.post(url, headers=headers, data=payload.encode("utf-8"), params=params)
     if res.status_code != 201:
         print('POST failed with {}\n{}'.format(res.status_code, res.reason))
 
 def put(session, url, payload):
-    headers={'Content-type':'text/turtle', 'charset':'utf-8'}
+    headers={'Content-type':'text/turtle; charset=UTF-8'}
     response = session.get(url, headers=headers)
     if response.status_code != 200:
         raise ValueError('Cannot PUT to {}, it does not exist.'.format(url))
@@ -57,7 +57,7 @@ def post_uploads(session, rootURL, uploads):
         with open('.{}'.format(postfile), 'r', encoding="utf-8") as pf:
             pdata = pf.read()
         # post, so remove last part of identity, this is in the payload
-        relID = postfile.rstrip('.ttl')
+        relID = postfile.replace('.ttl', '')
         relID = '/'.join(postfile.split('/')[:-1])
         url = '{}{}'.format(rootURL, relID)
         print(url)
@@ -67,7 +67,7 @@ def put_uploads(session, rootURL, uploads):
     for putfile in uploads:
         with open('.{}'.format(putfile), 'r', encoding="utf-8") as pf:
             pdata = pf.read()
-        relID = putfile.rstrip('.ttl')
+        relID = putfile.replace('.ttl', '')
         url = '{}{}'.format(rootURL, relID)
         print(url)
         put(session, url, pdata)

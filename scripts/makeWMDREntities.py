@@ -4,25 +4,15 @@ import re
 import warnings
 import shutil
 
-cSchemeTemplate = ('@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . \n'
-                   '@prefix dct: <http://purl.org/dc/terms/> . \n'
-                   '@prefix ldp:   <http://www.w3.org/ns/ldp#> .\n'
-                   '@prefix reg:   <http://purl.org/linked-data/registry#> .\n'
-                   '@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .\n\n'
-                   '<{identity}> a reg:Register , skos:ConceptScheme , ldp:Container  ;\n'
-                   '\tldp:isMemberOfRelation skos:inScheme ;\n'
-                   '\trdfs:label "{label}"@en ;\n'
-                   '\tdct:description "{description}"@en .\n')
-
-
-conceptTemplate = ('@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . \n'
-                   '@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .\n'
-                   '@prefix dct: <http://purl.org/dc/terms/> . \n\n'
-                   '<{identity}> a skos:Concept ;\n'
-                   '\trdfs:label "{label}"@en ;\n'
-                   '\tskos:notation "{notation}"@en ;\n'
-                   '\tdct:description "{description}"@en'
-                   '\t.\n')
+collectionTemplate = ('@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . \n'
+                      '@prefix dct: <http://purl.org/dc/terms/> . \n'
+                      '@prefix ldp:   <http://www.w3.org/ns/ldp#> .\n'
+                      '@prefix reg:   <http://purl.org/linked-data/registry#> .\n'
+                      '@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .\n\n'
+                      '<{identity}> a reg:Register , skos:Collection , ldp:Container  ;\n'
+                      '\tldp:hasMemberRelation skos:member ;\n'
+                      '\trdfs:label "{label}" ;\n'
+                      '\tdct:description "{description}" .\n')
 
 conceptTemplate = ('@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . \n'
                    '@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .\n'
@@ -54,7 +44,7 @@ def main():
                 raise ValueError('WMDR Table {} missing from path'.format(wmdrtable[0]))
 
             with open(os.path.join(root_path, 'wmdr', '{}.ttl'.format(identifier)), 'w', encoding='utf-8') as ttlf:
-                ttlf.write(cSchemeTemplate.format(identity=wmdrtable[0], label=clean(wmdrtable[1]),
+                ttlf.write(collectionTemplate.format(identity=identifier, label=clean(wmdrtable[1]),
                                                   description=clean(wmdrtable[1])))
             if not os.path.exists(os.path.join(root_path, 'wmdr', identifier)):
 
