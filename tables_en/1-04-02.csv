@@ -1,0 +1,30 @@
+notation,name,description,path
+totalAtmosphere,Total atmospheric column,Vertical range above Earth  (ca. 0 - 1'000 km altitude),\Atmosphere\totalAtmosphere
+troposphere,Troposphere,Troposphere (ca. 0 - 11 km altitude) (https://www.eoas.ubc.ca/books/Practical_Meteorology/),\Atmosphere\troposphere
+MUS,Middle and upper stratosphere,Middle and upper stratosphe (ca. 25 - 47 km altitude),\Atmosphere\MUS
+UTLS,Upper troposphere / lower stratosphere,Upper troposphere / lower stratosphere range (ca. 9 - 17 km altitude),\Atmosphere\UTLS
+freeTroposphere,Free troposphere,"Atmosphere above the planetary boundary layer, in which the effect of the earth's surface friction on the air motion is negligible (ca. 3 - 11 km altitude)",\Atmosphere\freeTroposphere
+PBL,Planetary boundary layer,"Bottom layer of the troposphere, also called atmospheric boundary layer, that is in contact with the surface of the earth (http://glossary.ametsoc.org/wiki/Atmospheric_boundary_layer). The planetary boundary layer includes the surface boundary layer. (ca. 0 - 3000 meters altitude)",\Atmosphere\PBL
+SBL,Surface boundary layer,Layer of air tens of meters thick adjacent to the ground where mechanical (shear) generation of turbulence exceeds buoyant generation or consumption (http://glossary.ametsoc.org/wiki/Surface_boundary_layer),\Atmosphere\SBL
+cloudTop,Cloud top,"For a given cloud or cloud layer, the highest level in the atmosphere at which the air contains a perceptible quantity of cloud particles (http://glossary.ametsoc.org/wiki/Cloud_top)",\Atmosphere\cloudTop
+TOA,Top of atmosphere,Top of atmosphere (ca. 100 km altitude),\Atmosphere\TOA
+lowThermosphere,Low thermosphere,Low thermosphere (ca. 100 km to 200 km altitude),\Atmosphere\lowThermosphere
+highThermosphere,High thermosphere,High thermosphere (ca. 200 km to 500 km altitude),\Atmosphere\highThermosphere
+mesosphere,Mesosphere,Mesosphere (ca. 47 - 85 km altitude) (https://www.eoas.ubc.ca/books/Practical_Meteorology/),\Atmosphere\mesosphere
+seaSurface,Sea surface,"Surface of the ocean, characterized by a cool skin layer (a few millimeters thick)",\Ocean\seaSurface
+bulkLayer,Bulk layer,"Also called ocean sub-surface or bulk surface, the ocean bulk layer is the mixed layer located below the cool skin layer (a few millimeters - a few tens of meters depth)",\Ocean\bulkLayer
+upperOcean,Upper ocean,Upper part of the ocean including the thermocline (ca. 0 - 1'000 meters depth),\Ocean\upperOcean
+deepOcean,Deep ocean,Lower part of the ocean below the thermocline (below ca. 1'000 meters depth),\Ocean\deepOcean
+landSurface,Land surface,"Surface of the land masses, the lower part of the atmosphere-land interface",\Terrestrial\landSurface
+rootRegion,Root region of the soil,"Upper levels of the soil, where biological activity takes place and plant roots are found (ca. 0 - 1 meter depth)",\Terrestrial\rootRegion
+deepSoil,Deep soil layer,"Lower levels of the soil, below the soil root zone and above the unweathered parent material (ca. 1 - 5 meters depth)",\Terrestrial\deepSoil
+earthInterior,Interior earth,"Sub-surface of the Earth, including the crust, mantle and core and excluding the ocean and other water bodies",\Terrestrial\earthInterior
+ionosphere,Ionosphere,Atmospheric region containing significant concentrations of ions and electrons (ca. 70-80 km altitude and above) (http://glossary.ametsoc.org/wiki/Ionosphere) ,\Outer Space\ionosphere
+L1,Lagrangian point L1,"The L1 point lies on the line defined by the Sun and Earth, and between them about 1,500,000 km from Earth. It is the point where the gravitational attraction of Earth partially cancels the Sun's gravitational attraction. (https://en.wikipedia.org/wiki/Lagrangian_point#L1_point)",\Outer Space\L1
+L4L5,"Lagrangian points L4, L5","The L4 and L5 points lie at the third corners of the two equilateral triangles in the plane of orbit whose common base is the line between the centers of the two masses, such that the point lies behind (L5) or ahead (L4) of the smaller mass with regard to its orbit around the larger mass. (https://en.wikipedia.org/wiki/Lagrangian_point#L4_and_L5_points)",\Outer Space\L4L5
+GEO,Geostationary orbit range,"Altitude range of geostationary orbiting (GEO) objects, 35'786 kilometres above Earth's equator and following the direction of Earth's rotation. (https://en.wikipedia.org/wiki/Geostationary_orbit)",\Outer Space\GEO
+LEO,Low Earth orbit altitude range,"Altitude range of low Earth orbiting (LEO) objects with an altitude of 2'000 km or less (approximately one-third of the radius of Earth), or with at least 11.25 periods per day (an orbital period of 128 minutes or less) and an eccentricity less than 0.25. (https://en.wikipedia.org/wiki/Low_Earth_orbit)",\Outer Space\LEO
+MEO,Medium Earth orbit altitude range,"Altitude range of medium Earth orbiting (MEO) objects above low Earth orbit (altitude of 2,000 km above sea level) and below geosynchronous orbit (altitude of 35,786 km above sea level). (https://en.wikipedia.org/wiki/Medium_Earth_orbit)",\Outer Space\MEO
+heliosphere,Heliosphere,"Vast, bubble-like region of space which surrounds and is created by the Sun. (https://en.wikipedia.org/wiki/Heliosphere)",\Outer Space\heliosphere
+sun,Solar surface and atmosphere,"Surface of the Sun and layers above it, including the photosphere, chromosphere and corona.",\Outer Space\sun
+magnetosphere,Magnetosphere,"Region in which dynamical motions are strongly influenced, or even dominated, by the earth's magnetic field as a result of plasma effects. (http://glossary.ametsoc.org/wiki/Magnetosphere)",\Outer Space\magnetosphere
