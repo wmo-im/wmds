@@ -38,8 +38,8 @@ def parse_uploads(uploads):
 def post(session, url, payload):
     headers={'Content-type':'text/turtle; charset=UTF-8'}
     response = session.get(url, headers=headers)
-    if response.status_code != 200:
-        raise ValueError('Cannot POST to {}, it does not exist.'.format(url))
+    #if response.status_code != 200:
+        #raise ValueError('Cannot POST to {}, it does not exist.'.format(url))
     params = {'status':'experimental'}
     res = session.post(url, headers=headers, data=payload.encode("utf-8"), params=params)
     if res.status_code != 201:

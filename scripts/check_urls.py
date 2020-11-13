@@ -8,7 +8,6 @@ import unittest
 import rdflib
 import rdflib.compare
 import requests
-import testtools
 
 import scripts.makeWMDREntities as makeWMDR
 

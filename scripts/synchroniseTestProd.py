@@ -20,7 +20,8 @@ def post_batch(session, url, payload):
     #     raise ValueError('Cannot POST to {}, it does not exist.'.format(url))
     headers={'Content-type':'text/turtle; charset=UTF-8'}
 
-    params = {'status':'experimental'}
+    params = {'status':'stable'}
+    #next, configure status to match prod status
     url = url + '?batch-managed'
     res = session.post(url, headers=headers, data=payload.encode("utf-8"), params=params)
 
