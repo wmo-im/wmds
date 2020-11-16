@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-_Please consult https://github.com/wmo-im/wmds/wiki/How-to-address-problems-and-suggest-changes-to-the-Codetables and use the following structure for new issues._
+_Please consult the [Guidance](https://github.com/wmo-im/wmds/wiki/How-to-address-problems-and-suggest-changes-to-the-Codetables) and use the following structure for new issues._
 
 **Summary and Purpose**
 [your arguments why the existing situation is not satisfying]
