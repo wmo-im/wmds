@@ -1,0 +1,10 @@
+WIGOS Metadata Standard
+https://library.wmo.int/index.php?lvl=notice_display&id=19925#.X7J1UtNKi3I
+
+Manual on Codes
+International Codes
+Volume I.3
+Annex II to the WMO Technical Regulations
+Part D – Representations derived from data models
+See chapter FM 241: WMDR
+https://library.wmo.int/index.php?lvl=notice_display&id=19508#.X7J48NNKi3J
