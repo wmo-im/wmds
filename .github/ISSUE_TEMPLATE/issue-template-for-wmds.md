@@ -12,6 +12,9 @@ _Please consult https://github.com/wmo-im/wmds/wiki/How-to-address-problems-and-
 **Summary and Purpose**
 [your arguments why the existing situation is not satisfying]
 
+**Stakeholder(s)**
+[include emails or handles as relevant]
+
 **Proposal**
 [your specific proposal to resolve the issue]
 
