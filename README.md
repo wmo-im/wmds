@@ -1,5 +1,5 @@
 # wmds
-WIGOS Metadata Code Tables
+WIGOS Metadata Standard: Semantic standard and code tables
 
 The folder Tables_en contains the up-to-date versions that the TT-WIGOSMD is working on.
 
