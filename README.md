@@ -7,10 +7,9 @@ View mapping of CSV file identifiers to table names and Codes Registry URLs: htt
 Published code tables can be found at WMO Codes Registry for WIGOS Metadata Representation: https://codes.wmo.int/wmdr.
 
 ## Related Publications
-WIGOS Metadata Standard
-https://library.wmo.int/index.php?lvl=notice_display&id=19925#.X7J1UtNKi3I
+[WIGOS Metadata Standard](https://library.wmo.int/index.php?lvl=notice_display&id=19925#.X7J1UtNKi3I)
 
-Manual on Codes, Volume I.3
-Part D – Representations derived from data models
-See chapter FM 241: WMDR
-https://library.wmo.int/index.php?lvl=notice_display&id=19508#.X7J48NNKi3J
+[Manual on Codes, Volume I.3](https://library.wmo.int/index.php?lvl=notice_display&id=19508#.X7J48NNKi3J)
+  Part D – Representations derived from data models
+  See chapter FM 241: WMDR
+
