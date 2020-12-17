@@ -1,6 +1,6 @@
 notation,name,description
-beginning,Beginning,Time stamps indicate the end of a period covering the range up to but excluding the preceding time stamp
-end,End,Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp.
+beginning,Beginning,Time stamps indicate the beginning of a period covering the range up to but excluding the following time stamp.
+end,End,Time stamps indicate the end of a period covering the range back to but excluding the preceding time stamp.
 inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 middle,Middle,Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp.
 unknown,unknown,The beginning and end of the period described by the timestamp are unknown.
