@@ -198,6 +198,7 @@ GAWnonAffiliated,\WIGOS\GAW\GAW Other elements\Non-affiliated,Non-affiliated,Obs
 gawOther,\WIGOS\GAW\GAW Other elements,GAW Other elements,Other international/national networks that provide atmospheric composition observations but are not (yet) affiliated with GAW
 GAWPFR,\WIGOS\GAW\GAW Contributing networks\GAW-PFR,GAW-PFR,GAW Precision Filter Radiometer Network
 GAWregional,\WIGOS\GAW\GAW Regional,GAW Regional,Regional GAW station
+GBON,\WIGOS\GOS\GOS Surface networks\GBON,GBON,Global Basic Observing Network
 GCOS,\Co-sponsored\GCOS,GCOS,Global Climate Observing System
 GCW,\WIGOS\GCW,GCW,Global Cryosphere Watch
 GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
@@ -335,14 +336,15 @@ petrobras,\Co-sponsored\GOOS\DBCP\PETROBRAS,PETROBRAS,NA
 PHOTONS,\WIGOS\GAW\GAW Other elements\AOD\PHOTONS,PHOTONS,"PHOTONS, federated to AERONET"
 PMELMB,\Co-sponsored\GOOS\DBCP\PMEL MB,PMEL MB,PMEL Moored Buoys
 polarAOD,\WIGOS\GAW\GAW Other elements\AOD\PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
-RBCN,\WIGOS\GOS\GOS Surface networks\RBCN,RBCN,Regional Basic Climatological Networks
-RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project,RBON-Pilot Project,Regional Basic Observing Network (pilot project)
-RBSN,\WIGOS\GOS\GOS Surface networks\RBSN,RBSN,GOS Regional Basic Synoptic Networks
-RBSNp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(P),RBSN(P),Regional Basic Synoptic Network upper-air station (PILOT)
-RBSNs,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(S),RBSN(S),Regional Basic Synoptic Network surface station (SYNOP)
-RBSNsp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(SP),RBSN(SP),NA
-RBSNst,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(ST),RBSN(ST),Regional Basic Synoptic Network surface and upper-air station (SYNOP/TEMP)
-RBSNt,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(T),RBSN(T),Regional Basic Synoptic Network upper-air station (TEMP)
+RBCN,\WIGOS\GOS\GOS Surface networks\RBCN (superseded),RBCN (superseded),Regional Basic Climatological Networks (superseded by RBON)
+RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project (superseded),RBON-Pilot Project (superseded),Regional Basic Observing Network (pilot project, superseded by RBON)
+RBON,\WIGOS\GOS\GOS Surface networks\RBON,RBON,Regional Basic Observing Network
+RBSN,\WIGOS\GOS\GOS Surface networks\RBSN,RBSN (superseded),GOS Regional Basic Synoptic Networks (superseded by RBON)
+RBSNp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(P) (superseded),RBSN(P) (superseded),Regional Basic Synoptic Network upper-air station (PILOT) (superseded by RBON)
+RBSNs,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(S) (superseded),RBSN(S) (superseded),Regional Basic Synoptic Network surface station (SYNOP) (superseded by RBON)
+RBSNsp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(SP) (superseded),RBSN(SP) (superseded), (superseded by RBON)
+RBSNst,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(ST) (superseded),RBSN(ST) (superseded),Regional Basic Synoptic Network surface and upper-air station (SYNOP/TEMP) (superseded by RBON)
+RBSNt,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(T) (superseded),RBSN(T) (superseded),Regional Basic Synoptic Network upper-air station (TEMP) (superseded by RBON)
 SAWSDB,\Co-sponsored\GOOS\DBCP\SAWS DB,SAWS DB,South African Weather Service Drifting Buoys programme
 scripps,\Co-sponsored\GOOS\DBCP\SCRIPPS,SCRIPPS,NA
 SHADOZ,\WIGOS\GAW\GAW Other elements\SHADOZ,SHADOZ,Southern Hemisphere ADditional Ozonesondes
