@@ -443,3 +443,5 @@ notation,path,name,description
 310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
 309,"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",Horizontal component of wind as speed and direction.
 307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)", Z component of wind vector  (horizontal and vertical profile)
+unknown, , unknown (retired), The variable is unknown. (retired)
+inapplicable, , inapplicable (retired), None of the codes in the table are applicable in the context of this particular observation. (retired)
