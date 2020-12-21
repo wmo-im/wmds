@@ -133,7 +133,7 @@ CLIMATct,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(CT),CLIMAT(CT),Station for 
 CLIMATt,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(T),CLIMAT(T),Station for which monthly climatological means of upper-air elements are transmitted
 CLN,\WIGOS\GAW\GAW Other elements\CLN,CLN,The NOAA Cooperative Remote Sensing Science and Technology (CREST) Lidar network
 colombiaTSU,\Co-sponsored\GOOS\DBCP\COLOMBIA-TSU,COLOMBIA-TSU,Colombia Tsunameter buoy
-copernicusHRSSTFRM,\Co-sponsored\GOOS\DBCP\COPERNICUS-HRSST-FRM,COPERNICUS-HRSST-FRM,N/A
+copernicusHRSSTFRM,\Co-sponsored\GOOS\DBCP\COPERNICUS-HRSST-FRM,COPERNICUS-HRSST-FRM,COPERNICUS High Resolution SST Framework
 coriolis,\Co-sponsored\GOOS\Argo\CORIOLIS,CORIOLIS,CORIOLIS
 coriolisBioargo,\Co-sponsored\GOOS\Argo\CORIOLIS-BIOARGO,CORIOLIS-BIOARGO,NA
 coriolisCanoa,\Co-sponsored\GOOS\Argo\CORIOLIS-CANOA,CORIOLIS-CANOA,NA
