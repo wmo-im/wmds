@@ -1,6 +1,11 @@
 notation,path,name,description
 37,\Atmosphere\Aerological soundings,Aerological soundings,
 579,"\Atmosphere\Aerosol\Composition\Acidity-Alkalinity, total aerosol","Acidity-Alkalinity, total aerosol",
+,"\Atmosphere\Aerosol\Composition\Total carbon, PM10-PM1, in air", "Total carbon, PM10-PM1, in air", "Mass concentration of total carbon in PM10-PM1 in air"
+,"\Atmosphere\Aerosol\Composition\Total carbon, PM10-PM2.5, in air", "Total carbon, PM10-PM2.5, in air", "Mass concentration of total carbon in PM10-PM2.5 in air"
+,"\Atmosphere\Aerosol\Composition\Total carbon, PM2.5, in air", "Total carbon, PM2.5, in air", "Mass concentration of total carbon in PM 2.5 in air"
+,"\Atmosphere\Aerosol\Composition\Total carbon, corrected, PM2.5, in air", "Total carbon, corrected, PM2.5, in air", "Mass concentration of total carbon corrected in PM2.5 in air"
+,"\Atmosphere\Aerosol\Composition\Total carbon, dry aerosol, in air", "Total carbon, dry aerosol, in air", Mass concentration of total carbon in dry aerosol particles in air
 614,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1","Chloride (Cl-), PM1",
 615,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM10","Chloride (Cl-), PM10",
 616,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Chloride (Cl-), PM2.5",
