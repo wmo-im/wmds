@@ -337,7 +337,7 @@ PHOTONS,\WIGOS\GAW\GAW Other elements\AOD\PHOTONS,PHOTONS,"PHOTONS, federated to
 PMELMB,\Co-sponsored\GOOS\DBCP\PMEL MB,PMEL MB,PMEL Moored Buoys
 polarAOD,\WIGOS\GAW\GAW Other elements\AOD\PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
 RBCN,\WIGOS\GOS\GOS Surface networks\RBCN (superseded),RBCN (superseded),Regional Basic Climatological Networks (superseded by RBON)
-RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project (superseded),RBON-Pilot Project (superseded),Regional Basic Observing Network (pilot project, superseded by RBON)
+RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project (superseded),RBON-Pilot Project (superseded),"Regional Basic Observing Network (pilot project, superseded by RBON)"
 RBON,\WIGOS\GOS\GOS Surface networks\RBON,RBON,Regional Basic Observing Network
 RBSN,\WIGOS\GOS\GOS Surface networks\RBSN,RBSN (superseded),GOS Regional Basic Synoptic Networks (superseded by RBON)
 RBSNp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(P) (superseded),RBSN(P) (superseded),Regional Basic Synoptic Network upper-air station (PILOT) (superseded by RBON)
