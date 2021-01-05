@@ -230,8 +230,8 @@ IABPUW,\Co-sponsored\GOOS\DBCP\IABP-UW,IABP-UW,Intl Arctic Buoy Program (IABP) U
 IAGOS,\WIGOS\GAW\GAW Other elements\ABOS\IAGOS,IAGOS,In-service Aircraft for a Global Observing System
 IBPIO,\Co-sponsored\GOOS\DBCP\IBPIO,IBPIO,International Buoy Programme for the Indian Ocean (IBPIO)
 ICOS,\WIGOS\GAW\GAW Contributing networks\ICOS,ICOS,"Integrated Carbon Observation System, www.icos-cp.eu"
-IDAF,\WIGOS\GAW\GAW Contributing networks\IDAF (superseded by INDAAF),"IDAF,IGAC/DEBITS Africa (superseded by INDAAF)"
-INDAAF, \WIGOS\GAW\GAW Contributing networks\INDAAF, "International Network to study Deposition and Atmospheric composition in Africa, https://indaaf.obs-mip.fr/"
+IDAF,\WIGOS\GAW\GAW Contributing networks\IDAF (superseded by INDAAF),IDAF (superseded by INDAAF),"IDAF,IGAC/DEBITS Africa (superseded by INDAAF)"
+INDAAF, \WIGOS\GAW\GAW Contributing networks\INDAAF,INDAAF, "International Network to study Deposition and Atmospheric composition in Africa, https://indaaf.obs-mip.fr/"
 IMPROVE,\WIGOS\GAW\GAW Contributing networks\IMPROVE,IMPROVE,IMPROVE Optical Aerosol
 inapplicable,\(inapplicable),inapplicable,None of the codes in the table are applicable.
 INCOISTSU,\Co-sponsored\GOOS\DBCP\INCOIS-TSU,INCOIS-TSU,Indian National Centre for Ocean Information Services Tsunameter buoys
