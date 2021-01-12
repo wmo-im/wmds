@@ -2,7 +2,7 @@ notation,path,name,description
 ABOS,\WIGOS\GOS\GOS Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
 ACTRIS,\WIGOS\GAW\GAW Other elements\ACTRIS,ACTRIS,"Aerosol,Clouds and Trace Gases Research Infrastructure, www.actris.eu"
 ADD,\WIGOS\GOS\GOS Other elements\ABOS\ADD,ADD,Aircraft Derived Data (Mode-S/ADS-B)
-ADNet,\WIGOS\GAW\GAW Contributing networks\ADNet (GALION),ADNet (GALION),AD-Net Asian Dust and Lidar Observation Network (coordinated by GALION)
+ADNet,\WIGOS\GAW\GAW Contributing networks\ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 ADSC,\WIGOS\GOS\GOS Other elements\ABOS\ADS-C,ADS-C,Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath.
 AEROCAN,\WIGOS\GAW\GAW Other elements\AOD\AEROCAN,AEROCAN,"AEROCAN, federated to AERONET"
 AERONET,\WIGOS\GAW\GAW Other elements\AOD\AERONET,AERONET,AErosol RObotic NETwork
@@ -136,7 +136,7 @@ CASTNET,\WIGOS\GAW\GAW Contributing networks\CASTNET,CASTNET,Clean Air Status an
 CDIP,\Co-sponsored\GOOS\DBCP\CDIP,CDIP,Coastal Data Information Program (CDIP)
 ceilometers,\WIGOS\GOS\GOS Other elements\Ceilometers,Ceilometers,Elastic lidar (ceilometer) networks
 centennialObservingstations,,Centennial Observing Stations,"Long-term meteorological observations are unique sources of past information about atmospheric parameters, thus are references for climate variability and change assessments. To highlight this importance, WMO has a mechanism to recognize centennial observing stations. By so doing, the Organization promotes sustainable observational standards and best practices that facilitate the generation of high-quality time series data."
-CIS-LiNet,\WIGOS\GAW\GAW Contributing networks\CIS-LiNet (GALION),CIS-LiNet (GALION),Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network (coordinated by GALION)
+CIS-LiNet,\WIGOS\GAW\GAW Contributing networks\CIS-LiNet,CIS-LiNet,Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network
 CLIMATc,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(C),CLIMAT(C),Station for which monthly climatological means of surface elements are transmitted
 CLIMATct,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(CT),CLIMAT(CT),Station for which monthly climatological means of both surface and upper- air elements are transmitted
 CLIMATt,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(T),CLIMAT(T),Station for which monthly climatological means of upper-air elements are transmitted
@@ -171,7 +171,7 @@ DEKOSIM,\Co-sponsored\GOOS\Argo\DEKOSIM,DEKOSIM,DEKOSIM is an interdisciplinary 
 DFODB,\Co-sponsored\GOOS\DBCP\DFO DB,DFO DB,Department of Fisheries and Oceans Drifter Buoys
 eAIMS,\Co-sponsored\GOOS\Argo\E-AIMS,E-AIMS,Euro-Argo Improvements for the GMES Marine Service
 EANET,\WIGOS\GAW\GAW Other elements\EANET,EANET,EANET
-EARLINET,\WIGOS\GAW\GAW Contributing networks\EARLINET (GALION),EARLINET (GALION),European Aerosol Research Lidar Network (coordinated by GALION)
+EARLINET,\WIGOS\GAW\GAW Contributing networks\EARLINET,EARLINET,European Aerosol Research Lidar Network
 eASAP,\Co-sponsored\GOOS\SOT\ASAP\E-ASAP,E-ASAP,European - Automated Shipboard Aerological Program
 ECDB,\Co-sponsored\GOOS\DBCP\EC DB,EC DB,Canada Drifting Buoys
 ECIABP,\Co-sponsored\GOOS\DBCP\EC-IABP,EC-IABP,International Arctic Buoy Program
@@ -187,8 +187,8 @@ EUROARGO,\Co-sponsored\GOOS\Argo\EUROARGO,EUROARGO,European contribution to Argo
 EuroARGORISE,\Co-sponsored\GOOS\Argo\Euro-Argo RISE,Euro-Argo RISE,Euro-Argo Research Infrastructure Sustainability and Enhancement project
 EurositesPlanier,\Co-sponsored\GOOS\DBCP\EUROSITES PLANIER,EUROSITES PLANIER,NA
 FERHRITSU,\Co-sponsored\GOOS\DBCP\FERHRI-TSU,FERHRI-TSU,Far Eastern Regional Hydrometeorological Research Institute Tsunameter Buoys
-GALION (deprecated),\WIGOS\GAW\GAW Contributing networks\GALION (deprecated),GALION (deprecated),GAW Aerosol Lidar Observation Network (deprecated - GALION is a coordination mechanism and is not considered as a program/network)
-GALIONNDACC,\WIGOS\GAW\GAW Other elements\NDACC Lidar (GALION),NDACC Lidar (GALION),Network for the Detection of Atmospheric Composition Change (NDACC Lidar is coordinated by GALION)
+GALION ,\WIGOS\GAW\GAW Contributing networks\GALION (invalid),GALION (invalid),GAW Aerosol Lidar Observation Network (invalid - GALION is a coordination mechanism and is not considered as a program/network)
+GALIONNDACC,\WIGOS\GAW\GAW Contributing networks\GALION\NDACC (invalid),NDACC (invalid),Network for the Detection of Atmospheric Composition Change
 gaw,\WIGOS\GAW,GAW,Global Atmosphere Watch
 GAWabos,\WIGOS\GAW\GAW Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
 gawContributing,\WIGOS\GAW\GAW Contributing networks,GAW Contributing networks,Networks contributing to GAW that have signed an agreement with GAW
@@ -245,7 +245,7 @@ ITPWHOI,\Co-sponsored\GOOS\Argo\ITP-WHOI,ITP-WHOI,NA
 JMADB,\Co-sponsored\GOOS\DBCP\JMA DB,JMA DB,JMA Drifting Buoy
 JMATSU,\Co-sponsored\GOOS\DBCP\JMA-TSU,JMA-TSU,JMA Tsunameter buoys
 KMAMB,\Co-sponsored\GOOS\DBCP\KMA MB,KMA MB,Korea Meteorological Department Moored Buoy programme
-LALINET,\WIGOS\GAW\GAW Contributing networks\LALINET (GALION),LALINET (GALION),LALINET Latin America Lidar Network (coordinated by GALION)
+LALINET,\WIGOS\GAW\GAW Contributing networks\LALINET,LALINET,LALINET Latin America Lidar Network
 lightningDetection,\WIGOS\GOS\GOS Other elements\Lightning detection system,Lightning detection system,Surface-based lightning detection system
 LOCEAN,\Co-sponsored\GOOS\DBCP\LOCEAN,LOCEAN,Laboratory of Oceanography and Climate: Experiments and Digital Approaches
 marlinDB,\Co-sponsored\GOOS\DBCP\MARLIN-DB,MARLIN-DB,NA
@@ -261,7 +261,7 @@ MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Clim
 MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
 MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
 MOZAIC,\WIGOS\GAW\GAW Other elements\ABOS\MOZAIC,MOZAIC,Measurement of Ozone and Water Vapour on Airbus In-service Aircraft.
-MPLNET,\WIGOS\GAW\GAW Contributing networks\MPLNET (GALION),MPLNET (GALION),Micro-Pulse Lidar Network (coordinated by GALION)
+MPLNET,\WIGOS\GAW\GAW Contributing networks\MPLNET,MPLNET,Micro-Pulse Lidar Network
 NADP,\WIGOS\GAW\GAW Contributing networks\NADP,NADP,National Atmospheric Deposition Program
 NAOSfrance,\Co-sponsored\GOOS\Argo\NAOS-FRANCE,NAOS-FRANCE,Novel Argo Ocean Observing System (NOAS) France project
 NAVOCEANODBCP,\Co-sponsored\GOOS\DBCP\NAVOCEANO DBCP,Navoceano DBCP,Naval Oceanographic Office DBCP programme
