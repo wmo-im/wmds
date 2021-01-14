@@ -3,7 +3,7 @@ totalAtmosphere,Total atmospheric column,Vertical range above Earth  (ca. 0 - 1'
 troposphere,Troposphere,Troposphere (ca. 0 - 11 km altitude) (https://www.eoas.ubc.ca/books/Practical_Meteorology/),\Atmosphere\troposphere
 MUS,Middle and upper stratosphere,Middle and upper stratosphe (ca. 25 - 47 km altitude),\Atmosphere\MUS
 UTLS,Upper troposphere / lower stratosphere,Upper troposphere / lower stratosphere range (ca. 9 - 17 km altitude),\Atmosphere\UTLS
-freeTroposphere,Free troposphere,"Atmosphere above the planetary boundary layer, in which the effect of the earth's surface friction on the air motion is negligible (ca. 3 - 11 km altitude)",\Atmosphere\freeTroposphere
+freeTroposphere,Free troposphere,"Atmosphere above the planetary boundary layer, in which the effect of the earth's surface friction on the air motion is negligible (ca. 1 - 11 km altitude)",\Atmosphere\freeTroposphere
 PBL,Planetary boundary layer,"Bottom layer of the troposphere, also called atmospheric boundary layer, that is in contact with the surface of the earth (http://glossary.ametsoc.org/wiki/Atmospheric_boundary_layer). The planetary boundary layer includes the surface boundary layer. (ca. 0 - 3000 meters altitude)",\Atmosphere\PBL
 SBL,Surface boundary layer,Layer of air tens of meters thick adjacent to the ground where mechanical (shear) generation of turbulence exceeds buoyant generation or consumption (http://glossary.ametsoc.org/wiki/Surface_boundary_layer),\Atmosphere\SBL
 cloudTop,Cloud top,"For a given cloud or cloud layer, the highest level in the atmosphere at which the air contains a perceptible quantity of cloud particles (http://glossary.ametsoc.org/wiki/Cloud_top)",\Atmosphere\cloudTop
