@@ -518,30 +518,30 @@ notation,path,name,description
 ,,Iodine [I-125],"IUPAC: n/a, PubChem CID: 104800, CAS Number: 14158-31-7"
 ,,Iodine [I-126],"IUPAC: n/a, PubChem CID: 161029, CAS Number: 14158-32-8"
 ,,Iodine [I-129],"IUPAC: n/a, PubChem CID: 6433622, CAS Number: 15046-84-1"
-,,Iodine [I-129], gaseous,
-,,Iodine [I-129], organic,
+,,"Iodine [I-129], gaseous",
+,,"Iodine [I-129], organic",
 ,,Iodine [I-131],"IUPAC: n/a, PubChem CID: 24855, CAS Number: 10043-66-0"
-,,Iodine [I-131], gaseous,
-,,Iodine [I-131], organic,
-,,Iodine [I-131], gaseous, organic,
+,,"Iodine [I-131], gaseous",
+,,"Iodine [I-131], organic",
+,,"Iodine [I-131], gaseous, organic",
 ,,Iodine [I-131],
 ,,Iodine [I-132],"IUPAC: n/a, PubChem CID: 104966, CAS Number: 14683-16-0"
-,,Iodine [I-132], gaseous,
-,,Iodine [I-132], organic,
-,,Iodine [I-132], gaseous, organic,
+,,"Iodine [I-132], gaseous",
+,,"Iodine [I-132], organic",
+,,"Iodine [I-132], gaseous, organic",
 ,,Iodine [I-132],
 ,,Iodine [I-133],"IUPAC: n/a, PubChem CID: 167176, CAS Number: 14834-67-4"
-,,Iodine [I-133], gaseous,
-,,Iodine [I-133], organic,
-,,Iodine [I-133], gaseous, organic,
+,,"Iodine [I-133], gaseous",
+,,"Iodine [I-133], organic",
+,,"Iodine [I-133], gaseous, organic",
 ,,Iodine [I-133],
 ,,Iodine [I-134],"IUPAC: n/a, PubChem CID: 167194, CAS Number: 14914-27-3"
-,,Iodine [I-134], gaseous,
-,,Iodine [I-134], organic,
+,,"Iodine [I-134], gaseous",
+,,"Iodine [I-134], organic",
 ,,Iodine [I-135],"IUPAC: n/a, PubChem CID: 105175, CAS Number: 14834-68-5"
-,,Iodine [I-135], gaseous,
-,,Iodine [I-135], organic,
-,,Iodine [I-135], gaseous, organic,
+,,"Iodine [I-135], gaseous",
+,,"Iodine [I-135], organic",
+,,"Iodine [I-135], gaseous, organic",
 ,,Iodine [I-135],
 ,,Xenon [Xe-131m],
 ,,Xenon [Xe-133],"IUPAC: xenon-133, PubChem CID: 66376, CAS Number: 14932-42-4"
@@ -550,7 +550,7 @@ notation,path,name,description
 ,,Xenon [Xe-135m],
 ,,Xenon [Xe-137],"IUPAC: xenon-137, PubChem CID: 25087180, CAS Number: 14835-21-3"
 ,,Xenon [Xe-138],"IUPAC: xenon-138, PubChem CID: 25087189, CAS Number: 15751-81-2"
-,,Xenon, sum of all isotopes,
+,,"Xenon, sum of all isotopes",
 ,,Caesium [Cs-131],"IUPAC: cesium-131, PubChem CID: 5492303, CAS Number: 14914-76-2"
 ,,Caesium [Cs-134],"IUPAC: cesium-134, PubChem CID: 6335485, CAS Number: 13967-70-9"
 ,,Caesium [Cs-135],"IUPAC: cesium-135, PubChem CID: 6335805, CAS Number: 15726-30-4"
