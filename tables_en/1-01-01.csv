@@ -391,6 +391,280 @@ notation,path,name,description
 221,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],Krypton (Kr-85 isotope)
 222,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (Pb-210 isotope)
 223,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
+,,Beryllium [Be-10],"IUPAC: beryllium-10, PubChem CID: 6336616, CAS Number: 14390-89-7"
+,,Carbon [C-14],"IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5"
+,,Carbon [C-14], other gases,
+,,Krypton [Kr-85m],
+,,Krypton [Kr-87],"IUPAC: krypton-87, PubChem CID: 25087179, CAS Number: 14809-68-8"
+,,Krypton [Kr-88],"IUPAC: krypton-88, PubChem CID: 25087184, CAS Number: 14995-61-0"
+,,Krypton [Kr-89],"IUPAC: krypton-89, PubChem CID: 177736, CAS Number: 16316-03-3"
+,,Lead [Pb-211],"IUPAC: lead-211, PubChem CID: 6337094, CAS Number: 15816-77-0"
+,,Lead [Pb-212],"IUPAC: lead-212, PubChem CID: 6335491, CAS Number: 15092-94-1"
+,,Lead [Pb-214],"IUPAC: lead-214, PubChem CID: 6328551, CAS Number: 15067-28-4"
+,,Lead [Pb-219],
+,,Lead [Pb-220],
+,,Tritium [H-3],"IUPAC: n/a, PubChem CID: 24824, CAS Number: 10028-17-8"
+,,Tritium [H-3], organic,
+,,Tritium [H-3], inorganic,
+,,Nitrogen [N-13],"IUPAC: nitrogen-13, PubChem CID: 91867648, CAS Number: n/a"
+,,Nitrogen [N-16],"IUPAC: n/a, PubChem CID: 44152206, CAS Number: 13981-62-9"
+,,Fluorine [F-18],"IUPAC: n/a, PubChem CID: 105162, CAS Number: 13981-56-1"
+,,Sodium [Na-22],"IUPAC: sodium-22, PubChem CID: 6328543, CAS Number: 13966-32-0"
+,,PO4--- [P-32],"IUPAC: n/a, PubChem CID: 167704, CAS Number: 18274-25-4"
+,,PO4--- [P-33],
+,,Sulphur [S-35],"IUPAC: n/a, PubChem CID: 61783, CAS Number: 13765-09-8, 15117-53-0"
+,,Chlorine [Cl-36],"IUPAC: n/a, PubChem CID: 105062, CAS Number: 13981-43-6"
+,,Potassium [K-40],"IUPAC: potassium-40, PubChem CID: 6328542, CAS Number: 13966-00-2"
+,,Argon [Ar-41],"IUPAC: argon-41, PubChem CID: 114788, CAS Number: 14163-25-8"
+,,Calcium [Ca-41],"IUPAC: calcium-41, PubChem CID: 6337034, CAS Number: 14092-95-6"
+,,Calcium [Ca-45],"IUPAC: calcium-45, PubChem CID: 6335493, CAS Number: 13966-05-7"
+,,Titanium [Ti-44],"IUPAC: titanium-44, PubChem CID: 167358, CAS Number: 15749-33-4"
+,,Scandium [Sc-46],"IUPAC: scandium-46, PubChem CID: 107673, CAS Number: 13967-63-0"
+,,Vanadium [V-48],"IUPAC: vanadium-48, PubChem CID: 161054, CAS Number: 14331-97-6"
+,,Vanadium [V-49],"IUPAC: vanadium-49, PubChem CID: 177438, CAS Number: 14392-01-9"
+,,Chromium [Cr-51],"IUPAC: chromium-51, PubChem CID: 104786, CAS Number: 14392-02-0"
+,,Manganese [Mn-52],"IUPAC: manganese-52, PubChem CID: 115131, CAS Number: 14092-99-0"
+,,Manganese [Mn-53],"IUPAC: manganese-53, PubChem CID: 167227, CAS Number: 14999-33-8"
+,,Iron [Fe-55],"IUPAC: iron-55, PubChem CID: 26815, CAS Number: 14681-59-5"
+,,Iron [Fe-59],"IUPAC: iron-59, PubChem CID: 104784, CAS Number: 14596-12-4"
+,,Cobalt [Co-56],"IUPAC: cobalt-56, PubChem CID: 166998, CAS Number: 14093-03-9"
+,,Cobalt [Co-57],"IUPAC: cobalt-57, PubChem CID: 104851, CAS Number: 13981-50-5"
+,,Cobalt [Co-58],"IUPAC: cobalt-58, PubChem CID: 104844, CAS Number: 13981-38-9"
+,,Cobalt [Co-60],"IUPAC: cobalt-60, PubChem CID: 61492, CAS Number: 10198-40-0"
+,,Nickel [Ni-59],"IUPAC: nickel-59, PubChem CID: 115032, CAS Number: 14336-70-0"
+,,Nickel [Ni-63],"IUPAC: nickel-63, PubChem CID: 104905, CAS Number: 13981-37-8"
+,,Zinc [Zn-65],"IUPAC: zinc-65, PubChem CID: 91574, CAS Number: 13982-39-3"
+,,Gallium [Ga-67],"IUPAC: gallium-67, PubChem CID: 5464084, CAS Number: 14119-09-6"
+,,Gallium [Ga-68],"IUPAC: gallium-68, PubChem CID: 5488452, CAS Number: 15757-14-9"
+,,Germanium [Ge-68],"IUPAC: germanium-68, PubChem CID: 6337084, CAS Number: 15756-77-1"
+,,Germanium [Ge-69],"IUPAC: germanium-69, PubChem CID: 6337566, CAS Number: 15034-49-8"
+,,Arsenic [As-73],"IUPAC: arsenic-73, PubChem CID: 6336622, CAS Number: 15422-59-0"
+,,Selenium [Se-75],"IUPAC: selenium-75, PubChem CID: 6328176, CAS Number: 14265-71-5"
+,,Selenium [Se-79],"IUPAC: selenium-79, PubChem CID: 6335823, CAS Number: 15758-45-9"
+,,Rubidium [Rb-81],"IUPAC: rubidium-81, PubChem CID: 6337108, CAS Number: 18268-34-3"
+,,Rubidium [Rb-83],"IUPAC: rubidium-83, PubChem CID: 6337102, CAS Number: 17056-36-9"
+,,Rubidium [Rb-84],"IUPAC: rubidium-84, PubChem CID: 6337092, CAS Number: 15765-86-3"
+,,Rubidium [Rb-86],"IUPAC: rubidium-86, PubChem CID: 6335499, CAS Number: 14932-53-7"
+,,Rubidium [Rb-87],"IUPAC: rubidium-87, PubChem CID: 6335802, CAS Number: 13982-13-3"
+,,Rubidium [Rb-88],"IUPAC: rubidium-88, PubChem CID: 6337063, CAS Number: 14928-36-0"
+,,Strontium [Sr-85],"IUPAC: strontium-85, PubChem CID: 5464271, CAS Number: 13967-73-2"
+,,Strontium [Sr-89],"IUPAC: strontium-89, PubChem CID: 5388880, CAS Number: 14158-27-1"
+,,Sum of Strontium [Sr-89] and [Sr-90],
+,,Strontium [Sr-90],"IUPAC: strontium-90, PubChem CID: 5486204, CAS Number: 10098-97-2"
+,,Strontium [Sr-91],"IUPAC: strontium-91, PubChem CID: 6337043, CAS Number: 14331-91-0"
+,,Strontium [Sr-92],"IUPAC: strontium-92, PubChem CID: 6337062, CAS Number: 14928-29-1"
+,,Yttrium [Y-87],"IUPAC: yttrium-87, PubChem CID: 178178, CAS Number: 14274-68-1"
+,,Yttrium [Y-88],"IUPAC: yttrium-88, PubChem CID: 105173, CAS Number: 13982-36-0"
+,,Yttrium [Y-90],"IUPAC: yttrium-90, PubChem CID: 104760, CAS Number: 10098-91-6"
+,,Yttrium [Y-91],"IUPAC: yttrium-91, PubChem CID: 104964, CAS Number: 14234-24-3"
+,,Yttrium [Y-91m],
+,,Yttrium [Y-92],"IUPAC: yttrium-92, PubChem CID: 167364, CAS Number: 15751-59-4"
+,,Yttrium [Y-93],"IUPAC: yttrium-93, PubChem CID: 167219, CAS Number: 14981-70-5"
+,,Zirconium [Zr-89],"IUPAC: zirconium-89, PubChem CID: 178156, CAS Number: 13981-27-6"
+,,Zirconium [Zr-93],"IUPAC: zirconium-93, PubChem CID: 119436, CAS Number: 15751-77-6"
+,,Zirconium [Zr-95],"IUPAC: zirconium-95, PubChem CID: 91573, CAS Number: 13967-71-0"
+,,Zirconium [Zr-97],"IUPAC: zirconium-97, PubChem CID: 167206, CAS Number: 14928-30-4"
+,,Niobium [Nb-93m],
+,,Niobium [Nb-94],"IUPAC: niobium-94, PubChem CID: 115134, CAS Number: 14681-63-1"
+,,Niobium [Nb-95],"IUPAC: niobium-95, PubChem CID: 104776, CAS Number: 13967-76-5"
+,,Niobium [Nb-95m],
+,,Niobium [Nb-97],"IUPAC: niobium-97, PubChem CID: 167723, CAS Number: 18496-04-3"
+,,Niobium [Nb-97m],
+,,Molybdenum  [Mo-93],"IUPAC: molybdenum-93, PubChem CID: 161024, CAS Number: 14119-13-2"
+,,Molybdenum [Mo-99],"IUPAC: molybdenum-99, PubChem CID: 104976, CAS Number: 14119-15-4"
+,,Technetium  [Tc-95m],
+,,Technetium  [Tc-96],"IUPAC: technetium-96, PubChem CID: 167171, CAS Number: 14808-44-7"
+,,Technetium  [Tc-99],"IUPAC: technetium-99, PubChem CID: 26476, CAS Number: 14133-76-7, 154361-49-6"
+,,Technetium  [Tc-99m],
+,,Rhodium [Rh-99],"IUPAC: rhodium-99, PubChem CID: 177676, CAS Number: 15765-79-4"
+,,Rhodium [Rh-101],"IUPAC: rhodium-101, PubChem CID: 178191, CAS Number: 14378-53-1"
+,,Rhodium [Rh-102m],
+,,Rhodium [Rh-103m],
+,,Rhodium [Rh-105],"IUPAC: rhodium-105, PubChem CID: 167192, CAS Number: 14913-89-4"
+,,Rhodium [Rh-106],"IUPAC: rhodium-106, PubChem CID: 105129, CAS Number: 14234-34-5"
+,,Palladium [Pd-100],"IUPAC: palladium-100, PubChem CID: 177617, CAS Number: 15690-69-4"
+,,Palladium [Pd-103],"IUPAC: palladium-103, PubChem CID: 9793711, CAS Number: 14967-68-1"
+,,Palladium [Pd-107],"IUPAC: palladium-107, PubChem CID: 161231, CAS Number: 17637-99-9"
+,,Ruthenium [Ru-103],"IUPAC: ruthenium-103, PubChem CID: 104749, CAS Number: 13968-53-1"
+,,Ruthenium [Ru-105],"IUPAC: ruthenium-105, PubChem CID: 167067, CAS Number: 14331-95-4"
+,,Ruthenium [Ru-106],"IUPAC: ruthenium-106, PubChem CID: 26359, CAS Number: 13967-48-1"
+,,Silver [Ag-108m],
+,,Silver [Ag-110m],
+,,Cadmium [Cd-109],"IUPAC: cadmium-109, PubChem CID: 104782, CAS Number: 14109-32-1"
+,,Cadmium [Cd-113m],
+,,Cadmium [Cd-115m],
+,,Indium [In-114m],
+,,Tin [Sn-113],"IUPAC: tin-113, PubChem CID: 6335514, CAS Number: 13966-06-8"
+,,Tin [Sn-119m],
+,,Tin [Sn-121m],
+,,Tin [Sn-122],"IUPAC: tin-122, PubChem CID: 121233902, CAS Number: 14119-17-6"
+,,Tin [Sn-123],"IUPAC: tin-123, PubChem CID: 6337050, CAS Number: 14683-07-9"
+,,Tin [Sn-126],"IUPAC: tin-126, PubChem CID: 6335914, CAS Number: 15832-50-5"
+,,Antimony [Sb-124],"IUPAC: antimony-124, PubChem CID: 6335510, CAS Number: 14683-10-4"
+,,Antimony [Sb-125],"IUPAC: antimony-125, PubChem CID: 6335317, CAS Number: 14234-35-6"
+,,Antimony [Sb-126],"IUPAC: antimony-126, PubChem CID: 6337080, CAS Number: 15756-32-8"
+,,Antimony [Sb-127],"IUPAC: antimony-127, PubChem CID: 6335314, CAS Number: 13968-50-8"
+,,Antimony [Sb-129],"IUPAC: antimony-129, PubChem CID: 6337042, CAS Number: 14331-88-5"
+,,Tellurium [Te-123m],
+,,Tellurium [Te-125m],
+,,Tellurium [Te-127],"IUPAC: tellurium-127, PubChem CID: 6336606, CAS Number: 13981-49-2"
+,,Tellurium [Te-127m],
+,,Tellurium [Te-129],"IUPAC: tellurium-129, PubChem CID: 6335513, CAS Number: 14269-71-7"
+,,Tellurium [Te-129m],
+,,Tellurium [Te-131m],
+,,Tellurium [Te-132],"IUPAC: tellurium-132, PubChem CID: 6336614, CAS Number: 14234-28-7"
+,,Iodine [I-123],"IUPAC: n/a, PubChem CID: 105140, CAS Number: 15715-08-9"
+,,Iodine [I-124],"IUPAC: n/a, PubChem CID: 178172, CAS Number: 14158-30-6"
+,,Iodine [I-125],"IUPAC: n/a, PubChem CID: 104800, CAS Number: 14158-31-7"
+,,Iodine [I-126],"IUPAC: n/a, PubChem CID: 161029, CAS Number: 14158-32-8"
+,,Iodine [I-129],"IUPAC: n/a, PubChem CID: 6433622, CAS Number: 15046-84-1"
+,,Iodine [I-129], gaseous,
+,,Iodine [I-129], organic,
+,,Iodine [I-131],"IUPAC: n/a, PubChem CID: 24855, CAS Number: 10043-66-0"
+,,Iodine [I-131], gaseous,
+,,Iodine [I-131], organic,
+,,Iodine [I-131], gaseous, organic,
+,,Iodine [I-131],
+,,Iodine [I-132],"IUPAC: n/a, PubChem CID: 104966, CAS Number: 14683-16-0"
+,,Iodine [I-132], gaseous,
+,,Iodine [I-132], organic,
+,,Iodine [I-132], gaseous, organic,
+,,Iodine [I-132],
+,,Iodine [I-133],"IUPAC: n/a, PubChem CID: 167176, CAS Number: 14834-67-4"
+,,Iodine [I-133], gaseous,
+,,Iodine [I-133], organic,
+,,Iodine [I-133], gaseous, organic,
+,,Iodine [I-133],
+,,Iodine [I-134],"IUPAC: n/a, PubChem CID: 167194, CAS Number: 14914-27-3"
+,,Iodine [I-134], gaseous,
+,,Iodine [I-134], organic,
+,,Iodine [I-135],"IUPAC: n/a, PubChem CID: 105175, CAS Number: 14834-68-5"
+,,Iodine [I-135], gaseous,
+,,Iodine [I-135], organic,
+,,Iodine [I-135], gaseous, organic,
+,,Iodine [I-135],
+,,Xenon [Xe-131m],
+,,Xenon [Xe-133],"IUPAC: xenon-133, PubChem CID: 66376, CAS Number: 14932-42-4"
+,,Xenon [Xe-133m],
+,,Xenon [Xe-135],"IUPAC: xenon-135, PubChem CID: 167226, CAS Number: 14834-65-2, 14995-62-1"
+,,Xenon [Xe-135m],
+,,Xenon [Xe-137],"IUPAC: xenon-137, PubChem CID: 25087180, CAS Number: 14835-21-3"
+,,Xenon [Xe-138],"IUPAC: xenon-138, PubChem CID: 25087189, CAS Number: 15751-81-2"
+,,Xenon, sum of all isotopes,
+,,Caesium [Cs-131],"IUPAC: cesium-131, PubChem CID: 5492303, CAS Number: 14914-76-2"
+,,Caesium [Cs-134],"IUPAC: cesium-134, PubChem CID: 6335485, CAS Number: 13967-70-9"
+,,Caesium [Cs-135],"IUPAC: cesium-135, PubChem CID: 6335805, CAS Number: 15726-30-4"
+,,Caesium [Cs-136],"IUPAC: cesium-136, PubChem CID: 6335316, CAS Number: 14234-29-8"
+,,Caesium [Cs-137],"IUPAC: cesium-137, PubChem CID: 5486527, CAS Number: 10045-97-3"
+,,Barium [Ba-133],"IUPAC: barium-133, PubChem CID: 5491664, CAS Number: 13981-41-4"
+,,Barium [Ba-137m],
+,,Barium [Ba-140],"IUPAC: barium-140, PubChem CID: 6335490, CAS Number: 14798-08-4"
+,,Cerium [Ce-139],"IUPAC: cerium-139, PubChem CID: 166969, CAS Number: 13982-30-4"
+,,Cerium [Ce-141],"IUPAC: cerium-141, PubChem CID: 104814, CAS Number: 13967-74-3"
+,,Cerium [Ce-143],"IUPAC: cerium-143, PubChem CID: 161025, CAS Number: 14119-19-8"
+,,Cerium [Ce-144],"IUPAC: cerium-144, PubChem CID: 26874, CAS Number: 14762-78-8"
+,,Lanthanum [La-140],"IUPAC: lanthanum-140, PubChem CID: 104882, CAS Number: 13981-28-7"
+,,Lanthanum [La-141],"IUPAC: lanthanum-141, PubChem CID: 177688, CAS Number: 15816-88-3"
+,,Praseodymium [Pr-143],"IUPAC: praseodymium-143, PubChem CID: 161103, CAS Number: 14981-79-4"
+,,Praseodymium [Pr-144],"IUPAC: praseodymium-144, PubChem CID: 105157, CAS Number: 14119-05-2"
+,,Praseodymium [Pr-144m],
+,,Samarium [Sm-145],"IUPAC: samarium-145, PubChem CID: 177554, CAS Number: 15065-02-8"
+,,Samarium [Sm-147],"IUPAC: samarium-147, PubChem CID: 25087174, CAS Number: 14392-33-7"
+,,Samarium [Sm-151],"IUPAC: samarium-151, PubChem CID: 114939, CAS Number: 15715-94-3"
+,,Neodymium [Nd-147],"IUPAC: neodymium-147, PubChem CID: 114848, CAS Number: 14269-74-0"
+,,Promethium [Pm-146],"IUPAC: promethium-146, PubChem CID: 177486, CAS Number: 14834-74-3"
+,,Promethium [Pm-147],"IUPAC: promethium-147, PubChem CID: 104906, CAS Number: 14380-75-7"
+,,Promethium [Pm-151],"IUPAC: promethium-151, PubChem CID: 177678, CAS Number: 15766-03-7"
+,,Europium [Eu-152],"IUPAC: europium-152, PubChem CID: 104907, CAS Number: 14683-23-9"
+,,Europium [Eu-154],"IUPAC: europium-154, PubChem CID: 105012, CAS Number: 15585-10-1"
+,,Europium [Eu-155],"IUPAC: europium-155, PubChem CID: 105088, CAS Number: 14391-16-3"
+,,Gadolinium [Gd-153],"IUPAC: gadolinium-152, PubChem CID: 44154792, CAS Number: n/a"
+,,Terbium [Tb-160],"IUPAC: terbium-160, PubChem CID: 161008, CAS Number: 13981-29-8"
+,,Holmium [Ho-166m],
+,,Thulium [Tm-170],"IUPAC: thulium-170, PubChem CID: 161009, CAS Number: 13981-30-1"
+,,Ytterbium [Yb-169],"IUPAC: ytterbium-169, PubChem CID: 105164, CAS Number: 14269-78-4"
+,,Hafnium [Hf-175],"IUPAC: hafnium-175, PubChem CID: 167359, CAS Number: 15750-13-7"
+,,Hafnium [Hf-181],"IUPAC: hafnium-181, PubChem CID: 161094, CAS Number: 14900-21-1"
+,,Tantalum [Ta-179],"IUPAC: tantalum-179, PubChem CID: 177430, CAS Number: 14391-27-6"
+,,Tantalum [Ta-182],"IUPAC: tantalum-182, PubChem CID: 161013, CAS Number: 13982-00-8"
+,,Rhenium [Re-184],"IUPAC: rhenium-184, PubChem CID: 177533, CAS Number: 14983-46-1"
+,,Iridium [Ir-192],"IUPAC: iridium-192, PubChem CID: 66373, CAS Number: 14694-69-0"
+,,Mercury [Hg-203],"IUPAC: mercury-203, PubChem CID: 104771, CAS Number: 13982-78-0"
+,,Thallium [Tl-204],"IUPAC: thallium-204, PubChem CID: 6335516, CAS Number: 13968-51-9"
+,,Thallium [Tl-207],"IUPAC: thallium-207, PubChem CID: 25087151, CAS Number: 14133-67-6"
+,,Thallium [Tl-208],"IUPAC: thallium-208, PubChem CID: 6335611, CAS Number: 14913-50-9"
+,,Thallium [Tl-209],"IUPAC: thallium-209, PubChem CID: 6337662, CAS Number: 15690-73-0"
+,,Bismuth [Bi-205],"IUPAC: bismuth-205, PubChem CID: 6337623, CAS Number: 14333-38-1"
+,,Bismuth [Bi-207],"IUPAC: bismuth-207, PubChem CID: 6335818, CAS Number: 13982-38-2"
+,,Bismuth [Bi-210],"IUPAC: bismuth-210, PubChem CID: 6328547, CAS Number: 14331-79-4"
+,,Bismuth [Bi-211],"IUPAC: bismuth-211, PubChem CID: 6337577, CAS Number: 15229-37-5"
+,,Bismuth [Bi-212],"IUPAC: bismuth-212, PubChem CID: 6335500, CAS Number: 14913-49-6"
+,,Bismuth [Bi-213],"IUPAC: bismuth-213, PubChem CID: 6337093, CAS Number: 15776-20-2"
+,,Bismuth [Bi-214],"IUPAC: bismuth-214, PubChem CID: 6328549, CAS Number: 14733-03-0"
+,,Polonium [Po-208],"IUPAC: polonium-208, PubChem CID: 24755506, CAS Number: n/a"
+,,Polonium [Po-210],"IUPAC: polonium-210, PubChem CID: 6328544, CAS Number: 13981-52-7"
+,,Polonium [Po-212],"IUPAC: polonium-212, PubChem CID: 6335822, CAS Number: 15389-34-1"
+,,Polonium [Po-213],"IUPAC: polonium-213, PubChem CID: 6337592, CAS Number: 15756-57-7"
+,,Polonium [Po-214],"IUPAC: polonium-214, PubChem CID: 6328555, CAS Number: 15735-67-8"
+,,Polonium [Po-215],"IUPAC: polonium-215, PubChem CID: 6337584, CAS Number: 15706-52-2"
+,,Polonium [Po-216],"IUPAC: polonium-216, PubChem CID: 6335815, CAS Number: 15756-58-8"
+,,Polonium [Po-218],"IUPAC: polonium-218, PubChem CID: 6328554, CAS Number: 15422-74-9, 93862-53-4"
+,,Astatine [At-217],"IUPAC: astatine-217, PubChem CID: 10443324, CAS Number: 17239-90-6"
+,,Francium [Fr-221],"IUPAC: francium-221, PubChem CID: 10242604, CAS Number: 15756-41-9"
+,,Francium [Fr-223],"IUPAC: francium-223, PubChem CID: 6337087, CAS Number: 15756-98-6"
+,,Radium [Ra-223],"IUPAC: radium-223, PubChem CID: 6335825, CAS Number: 15623-45-7"
+,,Radium [Ra-224],"IUPAC: radium-224, PubChem CID: 6328538, CAS Number: 13233-32-4"
+,,Radium [Ra-225],"IUPAC: radium-225, PubChem CID: 6336607, CAS Number: 13981-53-8"
+,,Radium [Ra-226],"IUPAC: radium-226, PubChem CID: 9877911, CAS Number: 13982-63-3"
+,,Radium [Ra-228],"IUPAC: radium-228, PubChem CID: 6328553, CAS Number: 15262-20-1"
+,,Actinium [Ac-225],"IUPAC: actinium-225, PubChem CID: 167045, CAS Number: 14265-85-1"
+,,Actinium [Ac-227],"IUPAC: actinium-227, PubChem CID: 105152, CAS Number: 14952-40-0"
+,,Actinium [Ac-228],"IUPAC: actinium-228, PubChem CID: 105063, CAS Number: 14331-83-0"
+,,Thorium [Th-227],"IUPAC: thorium-227, PubChem CID: 61806, CAS Number: 15623-47-9"
+,,Thorium [Th-228],"IUPAC: thorium-228, PubChem CID: 61724, CAS Number: 14274-82-9"
+,,Thorium [Th-229],"IUPAC: thorium-229, PubChem CID: 167312, CAS Number: 15594-54-4"
+,,Thorium [Th-230],"IUPAC: thorium-230, PubChem CID: 61723, CAS Number: 14269-63-7"
+,,Thorium [Th-231],"IUPAC: thorium-231, PubChem CID: 167210, CAS Number: 14932-40-2"
+,,Thorium [Th-232],"IUPAC: , PubChem CID: , CAS Number: "
+,,Thorium [Th-234],"IUPAC: thorium-234, PubChem CID: 104875, CAS Number: 15065-10-8"
+,,Protactinium [Pa-231],"IUPAC: protactinium-231, PubChem CID: 105147, CAS Number: 14331-85-2"
+,,Protactinium [Pa-233],"IUPAC: protactinium-233, PubChem CID: 115129, CAS Number: 13981-14-1"
+,,Protactinium [Pa-234],"IUPAC: , PubChem CID: , CAS Number: "
+,,Uranium [U-232],"IUPAC: uranium-232, PubChem CID: 105163, CAS Number: 14158-29-3"
+,,Uranium [U-233],"IUPAC: uranium-233, PubChem CID: 61707, CAS Number: 13968-55-3"
+,,Uranium [U-234],"IUPAC: uranium-234, PubChem CID: 61704, CAS Number: 13966-29-5"
+,,Uranium [U-235],"IUPAC: uranium-235, PubChem CID: 61784, CAS Number: 15117-96-1"
+,,Uranium [U-236],"IUPAC: uranium-236, PubChem CID: 105156, CAS Number: 13982-70-2"
+,,Uranium [U-237],"IUPAC: uranium-237, PubChem CID: 167047, CAS Number: 14269-75-1"
+,,Uranium [U-238],"IUPAC: , PubChem CID: , CAS Number: "
+,,Plutonium [Pu-236],"IUPAC: plutonium-236, PubChem CID: 115138, CAS Number: 15411-92-4"
+,,Plutonium [Pu-238],"IUPAC: plutonium-238, PubChem CID: 61709, CAS Number: 13981-16-3"
+,,Plutonium [Pu-239],"IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3, 19257-39-7"
+,,Plutonium [Pu-240],"IUPAC: plutonium-240, PubChem CID: 104728, CAS Number: 14119-33-6"
+,,Plutonium [Pu-241],"IUPAC: plutonium-241, PubChem CID: 104854, CAS Number: 14119-32-5"
+,,Plutonium [Pu-242],"IUPAC: plutonium-242, PubChem CID: 107659, CAS Number: 13982-10-0"
+,,Plutonium [Pu-244],"IUPAC: plutonium-244, PubChem CID: 167007, CAS Number: 14119-34-7"
+,,Neptunium [Np-237],"IUPAC: neptunium-237, PubChem CID: 104783, CAS Number: 13994-20-2, 86954-34-9"
+,,Neptunium [Np-238],"IUPAC: neptunium-238, PubChem CID: 167422, CAS Number: 15766-25-3"
+,,Neptunium [Np-239],"IUPAC: neptunium-239, PubChem CID: 104958, CAS Number: 13968-59-7"
+,,Americium [Am-241],"IUPAC: americium-241, PubChem CID: 104726, CAS Number: 14596-10-2, 86954-36-1"
+,,Americium [Am-242],"IUPAC: americium-242, PubChem CID: 166958, CAS Number: 13981-54-9"
+,,Americium [Am-242m],
+,,Americium [Am-243],"IUPAC: americium-243, PubChem CID: 105139, CAS Number: 14993-75-0"
+,,Curium [Cm-242],"IUPAC: curium-242, PubChem CID: 107637, CAS Number: 15510-73-3"
+,,Curium [Cm-243],"IUPAC: curium-243, PubChem CID: 105155, CAS Number: 15757-87-6"
+,,Curium [Cm-244],"IUPAC: curium-244, PubChem CID: 104801, CAS Number: 13981-15-2"
+,,Curium [Cm-245],"IUPAC: curium-245, PubChem CID: 167319, CAS Number: 15621-76-8"
+,,Curium [Cm-246],"IUPAC: curium-246, PubChem CID: 167396, CAS Number: 15757-90-1"
+,,Curium [Cm-247],"IUPAC: curium-247, PubChem CID: 167403, CAS Number: 15758-32-4"
+,,Curium [Cm-248],"IUPAC: curium-248, PubChem CID: 167404, CAS Number: 15758-33-5"
+,,Sum of Curium [Cm-243] and [Cm-244],
+,,Sum of Plutonium [Pu-238] and Americum [Am-241],
+,,Sum of Plutonium [Pu-238] and [Pu-240],
+,,Berkelium [Bk-249],"IUPAC: berkelium-249, PubChem CID: 167188, CAS Number: 14900-25-5"
+,,Californium [Cf-249],"IUPAC: californium-249, PubChem CID: 105176, CAS Number: 15237-97-5"
+,,Californium [Cf-250],"IUPAC: californium-250, PubChem CID: 166965, CAS Number: 13982-11-1"
+,,Californium [Cf-251],"IUPAC: californium-251, PubChem CID: 167416, CAS Number: 15765-19-2"
 56,\Atmosphere\Special phenomena,Special phenomena,
 57,\Atmosphere\State of ground,State of ground,
 224,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
