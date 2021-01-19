@@ -393,7 +393,7 @@ notation,path,name,description
 223,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
 ,,Beryllium [Be-10],"IUPAC: beryllium-10, PubChem CID: 6336616, CAS Number: 14390-89-7"
 ,,Carbon [C-14],"IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5"
-,,Carbon [C-14], other gases,
+,,"Carbon [C-14], other gases",
 ,,Krypton [Kr-85m],
 ,,Krypton [Kr-87],"IUPAC: krypton-87, PubChem CID: 25087179, CAS Number: 14809-68-8"
 ,,Krypton [Kr-88],"IUPAC: krypton-88, PubChem CID: 25087184, CAS Number: 14995-61-0"
