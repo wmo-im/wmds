@@ -404,8 +404,8 @@ notation,path,name,description
 ,,Lead [Pb-219],
 ,,Lead [Pb-220],
 ,,Tritium [H-3],"IUPAC: n/a, PubChem CID: 24824, CAS Number: 10028-17-8"
-,,Tritium [H-3], organic,
-,,Tritium [H-3], inorganic,
+,,"Tritium [H-3], organic",
+,,"Tritium [H-3], inorganic",
 ,,Nitrogen [N-13],"IUPAC: nitrogen-13, PubChem CID: 91867648, CAS Number: n/a"
 ,,Nitrogen [N-16],"IUPAC: n/a, PubChem CID: 44152206, CAS Number: 13981-62-9"
 ,,Fluorine [F-18],"IUPAC: n/a, PubChem CID: 105162, CAS Number: 13981-56-1"
