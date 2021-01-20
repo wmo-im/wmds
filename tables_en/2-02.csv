@@ -138,6 +138,7 @@ CLIMATct,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(CT),CLIMAT(CT),Station for 
 CLIMATt,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(T),CLIMAT(T),Station for which monthly climatological means of upper-air elements are transmitted
 CLN,\WIGOS\GAW\GAW Other elements\CLN,CLN,The NOAA Cooperative Remote Sensing Science and Technology (CREST) Lidar network
 colombiaTSU,\Co-sponsored\GOOS\DBCP\COLOMBIA-TSU,COLOMBIA-TSU,Colombia Tsunameter buoy
+copernicusHRSSTFRM,\Co-sponsored\GOOS\DBCP\COPERNICUS-HRSST-FRM,COPERNICUS-HRSST-FRM,COPERNICUS High Resolution SST Framework
 coriolis,\Co-sponsored\GOOS\Argo\CORIOLIS,CORIOLIS,CORIOLIS
 coriolisBioargo,\Co-sponsored\GOOS\Argo\CORIOLIS-BIOARGO,CORIOLIS-BIOARGO,NA
 coriolisCanoa,\Co-sponsored\GOOS\Argo\CORIOLIS-CANOA,CORIOLIS-CANOA,NA
@@ -173,6 +174,7 @@ ECMB,\Co-sponsored\GOOS\DBCP\EC MB,EC MB,Canadian Moored Buoy Programme (MSC)
 EMEP,\WIGOS\GAW\GAW Other elements\EMEP,EMEP,European Monitoring and Evaluation Programme
 ESRLCCG,\WIGOS\GAW\GAW Other elements\ESRLCCG,ESRLCCG,NOAA-ESRL (CCG)
 eSurfmar,\Co-sponsored\GOOS\DBCP\E-SURFMAR,E-SURFMAR,EUMETNET Composite Observing System (EUCOS)Surface Marine Programme
+eSurfmarGDP,\Co-sponsored\GOOS\DBCP\GDP-ESURFMAR,E-SURFMAR GDP,Global Drifter Program drifters with E-SURFMAR barometer upgrades
 eSurfmarIrishIMI,\Co-sponsored\GOOS\DBCP\E-SURFMAR-IRISH IMI,E-SURFMAR-IRISH IMI,EUMETNET Composite Observing System (EUCOS)Surface Marine Programme and IRISH MARINE INSTITUTE (EUROPEAN CONTRIBUTION)
 eSurfmarNOAA,\Co-sponsored\GOOS\DBCP\E-SURFMAR-NOAA,E-SURFMAR-NOAA,NA
 eSurfmarUKFRMB,\Co-sponsored\GOOS\DBCP\E-SURFMAR-UK/FR MB,E-SURFMAR-UK/FR MB,NA
@@ -190,6 +192,7 @@ GAWregional,\WIGOS\GAW\GAW Regional,GAW Regional,Regional GAW station
 GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
 GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
 GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."
+GDPMF,\Co-sponsored\GOOS\DBCP\GDP-MF,GDPMF,Global Drifter Program drifters with Meteo-France barometer upgrades
 germanAODnetwork,\WIGOS\GAW\GAW Other elements\AOD\German AOD network,German AOD network,German Aerosol Optical Depth Network
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY
 GLOSCAL,\Co-sponsored\GOOS\DBCP\GLOSCAL,GLOSCAL,"GLOSCAL is a French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."
@@ -219,10 +222,12 @@ INDIANIO,\Co-sponsored\GOOS\DBCP\INDIA NIO,INDIA NIO,Collection of METOCEAN data
 indiaNIOT,\Co-sponsored\GOOS\DBCP\INDIA-NIOT,INDIA-NIOT,Indian Ocean Observing Program
 indiaNIOTSU,\Co-sponsored\GOOS\DBCP\INDIA NIO-TSU,INDIA NIO-TSU,NIO Tsunameter buoys
 INOCARTSU,\Co-sponsored\GOOS\DBCP\INOCAR-TSU,INOCAR-TSU,Instituto Oceanografico de la Armada Tsunameter buoys
+IPABUS,\Co-sponsored\GOOS\DBCP\IPAB-US,IPABUS,International Programme for Antarctic Buoys - US
 italyDB,\Co-sponsored\GOOS\DBCP\ITALY DB,ITALY DB,Italian Drifting Buoys (EXPARGOS)
 italyOGS,\Co-sponsored\GOOS\DBCP\ITALY-OGS,ITALY-OGS,NA
 ITPdamocles,\Co-sponsored\GOOS\Argo\ITP-DAMOCLES,ITP-DAMOCLES,NA
 ITPWHOI,\Co-sponsored\GOOS\Argo\ITP-WHOI,ITP-WHOI,NA
+JAMSTECDB,\Co-sponsored\GOOS\DBCP\JAMSTEC-DB,JAMSTECDB,Japan Agency for Marine-Earth Science and Technology Drifting Buoy
 JMADB,\Co-sponsored\GOOS\DBCP\JMA DB,JMA DB,JMA Drifting Buoy
 JMATSU,\Co-sponsored\GOOS\DBCP\JMA-TSU,JMA-TSU,JMA Tsunameter buoys
 KMAMB,\Co-sponsored\GOOS\DBCP\KMA MB,KMA MB,Korea Meteorological Department Moored Buoy programme
@@ -315,12 +320,14 @@ petrobras,\Co-sponsored\GOOS\DBCP\PETROBRAS,PETROBRAS,NA
 PHOTONS,\WIGOS\GAW\GAW Other elements\AOD\PHOTONS,PHOTONS,"PHOTONS, federated to AERONET"
 PMELMB,\Co-sponsored\GOOS\DBCP\PMEL MB,PMEL MB,PMEL Moored Buoys
 polarAOD,\WIGOS\GAW\GAW Other elements\AOD\PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
+PortugalMB,\Co-sponsored\GOOS\DBCP\PORTUGAL-MB,PORTUGAL-MB,Portugal - Instituto Hidrografico (IH)
 RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project,RBON-Pilot Project,Regional Basic Observing Network (pilot project)
 RBSNp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(P),RBSN(P),Regional Basic Synoptic Network upper-air station (PILOT)
 RBSNs,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(S),RBSN(S),Regional Basic Synoptic Network surface station (SYNOP)
 RBSNsp,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(SP),RBSN(SP),NA
 RBSNst,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(ST),RBSN(ST),Regional Basic Synoptic Network surface and upper-air station (SYNOP/TEMP)
 RBSNt,\WIGOS\GOS\GOS Surface networks\RBSN\RBSN(T),RBSN(T),Regional Basic Synoptic Network upper-air station (TEMP)
+saildrone,\Co-sponsored\GOOS\DBCP\SAILDRONE,SAILDRONE,N/A
 SAWSDB,\Co-sponsored\GOOS\DBCP\SAWS DB,SAWS DB,South African Weather Service Drifting Buoys programme
 scripps,\Co-sponsored\GOOS\DBCP\SCRIPPS,SCRIPPS,NA
 SHADOZ,\WIGOS\GAW\GAW Other elements\SHADOZ,SHADOZ,Southern Hemisphere ADditional Ozonesondes
@@ -331,6 +338,7 @@ SIODB,\Co-sponsored\GOOS\DBCP\SIO-DB,SIO-DB,Scripps Institution of Oceanography 
 skynet,\WIGOS\GAW\GAW Other elements\AOD\SKYNET,SKYNET,Aerosol-cloud-radiation interaction in the atmosphere project
 SOOP,\Co-sponsored\GOOS\SOT\SOOP,SOOP,Ship Of Opportunity Programme
 SOOPBOM,\Co-sponsored\GOOS\SOT\SOOP-BOM,SOOP-BOM,NA
+SpainIEOMB,\Co-sponsored\GOOS\DBCP\SPAIN-IEO-MB,SPAIN-IEO-MB,N/A
 spainPDEMB,\Co-sponsored\GOOS\DBCP\SPAIN-PDE MB,SPAIN-PDE MB,Puertos del EStado Spain Moored buoy
 stratus,\Co-sponsored\GOOS\DBCP\STRATUS,STRATUS,Woodshole IO OceanSITES
 TAMDAR,\WIGOS\GOS\GOS Other elements\TAMDAR,TAMDAR,"Tropospheric Aircraft Meteorological Data Relay (Commercial/Panasonic). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
