@@ -42,7 +42,6 @@
 [5-03-02.csv](./tables_en/5-03-02.csv) [FrequencyUse](http://codes.wmo.int/wmdr/FrequencyUse) Frequency use of electromagnetic radiation
 [5-03-03.csv](./tables_en/5-03-03.csv) [PurposeOfFrequencyUse](http://codes.wmo.int/wmdr/PurposeOfFrequencyUse)  Purpose of frequency use
 [5-03-04.csv](./tables_en/5-03-04.csv) [TransmissionMode](http://codes.wmo.int/wmdr/TransmissionMode) Mode of energy transmission
-[5-02-05.csv](./tables_en/5-02-05.csv) [ObservingMethodTerrestrial](http://codes.wmo.int/wmdr/ObservingMethodTerrestrial) Measurement/observing method (terresrial)
 [5-04.csv](./tables_en/5-04.csv) [InstrumentOperatingStatus](http://codes.wmo.int/wmdr/InstrumentOperatingStatus) Instrument operating status
 [5-05.csv](./tables_en/5-05.csv) [ReferenceSurfaceType](http://codes.wmo.int/wmdr/ReferenceSurfaceType) Type of reference surface
 [5-08-01.csv](./tables_en/5-08-01.csv) [ControlStandardType](http://codes.wmo.int/wmdr/ControlStandardType) Control standard type
