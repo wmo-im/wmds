@@ -3,7 +3,7 @@ notation,path,name,description
 58,"\Atmosphere\Ozone\Remote-sensing, passive\(Optical) filter Instrument",(Optical) filter Instrument,
 59,\Atmosphere\Precipitation\In situ\(Ruler for) rain gauge,(Ruler for) rain gauge,
 60,\Atmosphere\Wind\In situ\(Ultra)sonic anemometer,(Ultra)sonic anemometer,
-inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 62,\Atmosphere\Radioactivity\In situ\Adsorption - scintillation counting,Adsorption - scintillation counting,
 63,\Atmosphere\Wind\In situ\Aerovane (wind vane with propeller),Aerovane (wind vane with propeller),
 64,\Atmosphere\Radioactivity\In situ\Alpha counting,Alpha counting,
@@ -94,6 +94,7 @@ inapplicable,,(inapplicable),None of the codes in the table are applicable in th
 180,"\Atmosphere\Radiation\In situ\Pyrradiometer (total global, UV+IR)","Pyrradiometer (total global, UV+IR)",
 181,"\Atmosphere\Humidity\Remote-sensing, active\Radio acoustic sounding system (RASS)",Radio acoustic sounding system (RASS),
 182,"\Atmosphere\Temperature\Remote-sensing, active\Radio acoustic sounding system (RASS)",Radio acoustic sounding system (RASS),
+183,"\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)",Radio detection and ranging (Radar),
 184,"\Atmosphere\Wind\Remote-sensing, active\Radio detection and ranging (Radar) profiler",Radio detection and ranging (Radar) profiler,
 185,\Atmosphere\Radioactivity\In situ\Radiochemical Methods [general],Radiochemical Methods [general],
 186,\Atmosphere\Ozone\In situ\Regener Sonde (chemiluminescence),Regener Sonde (chemiluminescence),
@@ -106,8 +107,7 @@ inapplicable,,(inapplicable),None of the codes in the table are applicable in th
 197,\Atmosphere\Radiation\In situ\Sunphotometry-Filter Radiometry,Sunphotometry-Filter Radiometry,
 198,\Atmosphere\Radiation\In situ\Sunshine duration,Sunshine duration,
 199,\Atmosphere\Micrometeorology\In situ\Surface chamber,Surface chamber,
-201,"\Atmosphere\Temperature\In situ\Thermocouple, thermophile","Thermocouple, thermophile",
-202,\Atmosphere\Temperature\In situ\Thermometer-Thermoelement,Thermometer-Thermoelement,
+201,"\Atmosphere\Temperature\In situ\Thermocouple, thermopile","Thermocouple, thermopile",
 204,\Atmosphere\Precipitation\In situ\Tipping bucket rain gauge (totalizer),Tipping bucket rain gauge (totalizer),
 205,\Atmosphere\Trace gas\In situ\Titration,Titration,
 207,"\Atmosphere\Visual range\Remote-sensing, active\Transmissometer",Transmissometer,
@@ -120,7 +120,7 @@ inapplicable,,(inapplicable),None of the codes in the table are applicable in th
 214,\Atmosphere\Wind\In situ\Wind sock (textile tube),Wind sock (textile tube),
 215,\Atmosphere\Wind\In situ\Wind vane (solid blade),Wind vane (solid blade),
 217,\Atmosphere\Aerosol\In situ\Composition\Aerodyne mass spectrometer (AMS),Aerodyne mass spectrometer (AMS),
-218,\Atmosphere\Aerosol\In situ\Composition\EUSAAR protocol ,EUSAAR protocol ,
+218,\Atmosphere\Aerosol\In situ\Composition\EUSAAR protocol,EUSAAR protocol,
 219,"\Atmosphere\Aerosol\In situ\Composition\Filter + beta attenuation (betameter, beta gauge)","Filter + beta attenuation (betameter, beta gauge)",
 220,\Atmosphere\Aerosol\In situ\Optical properties\Filter + light attenuation (aethalometer),Filter + light attenuation (aethalometer),
 221,\Atmosphere\Aerosol\In situ\Composition\Mass Spectrometry (MS) [general],Mass Spectrometry (MS) [general],
@@ -162,9 +162,6 @@ inapplicable,,(inapplicable),None of the codes in the table are applicable in th
 257,\Atmosphere\Humidity\In situ\Hygrometer\UV absorption hygrometer (Lyman-à),UV absorption hygrometer (Lyman-à),
 258,\Atmosphere\Humidity\In situ\Psychrometer\Electrical aspiration (Frankenberger type),Electrical aspiration (Frankenberger type),
 259,\Atmosphere\Humidity\In situ\Psychrometer\Mechanical aspiration,Mechanical aspiration,
-260,\Atmosphere\Precipitation\In situ\Snow\(Ultra)sonic ranger,(Ultra)sonic ranger,
-261,\Atmosphere\Precipitation\In situ\Snow\Gradiated pole,Gradiated pole,
-262,\Atmosphere\Precipitation\In situ\Snow\Snow pillow,Snow pillow,
 263,\Atmosphere\Radiation\In situ\Direct solar\Bimetallic actinograph,Bimetallic actinograph,
 264,"\Atmosphere\Radiation\In situ\Direct solar\Pyrheliometer (direct solar, broadband)","Pyrheliometer (direct solar, broadband)",
 265,"\Atmosphere\Radiation\In situ\Longwave\Pyrgeometer (global, infrared)","Pyrgeometer (global, infrared)",
@@ -227,8 +224,6 @@ inapplicable,,(inapplicable),None of the codes in the table are applicable in th
 322,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\Fourier-transform IR spectroscopy (FTIR)",Fourier-transform IR spectroscopy (FTIR),
 323,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\TCCON Fourier-transform IR spectroscopy (TCCON-FTIR)",TCCON Fourier-transform IR spectroscopy (TCCON-FTIR),
 324,"\Atmosphere\Visual range\Remote-sensing, active\Laser-based methods\Light detection and ranging (Lidar)",Light detection and ranging (Lidar),
-325,"\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)\Magnetron",Magnetron,
-326,"\Atmosphere\Precipitation\Remote-sensing, active\Radio detection and ranging (Radar)\Klystron",Klystron,
 327,\Atmosphere\Radiosonde with NAVAID,Radiosonde with NAVAID,
 328,\Atmosphere\Radiosonde with radar tracking,Radiosonde with radar tracking,
 329,\Atmosphere\Radiosonde with radiotheodolite tracking,Radiosonde with radiotheodolite tracking,
@@ -240,4 +235,4 @@ inapplicable,,(inapplicable),None of the codes in the table are applicable in th
 338,\Atmosphere\Humidity\In situ\Laser-based\Tunable diode lase spectroscopy (TDLS),Tunable diode lase spectroscopy (TDLS),Tunable diode lase spectroscopy (TDLS)
 339,"\Atmosphere\Ozone\Remote-sensing, passive\UV spectroradiometry",UV spectroradiometry,
 340,\Atmosphere\Humidity\In situ\Psychrometer\Wet-bulb thermometer,Wet-bulb thermometer,"A thermometer having a bulb that is kept moistened when humidity determinations are being made with a psychrometer. The wet-bulb temperature is the temperature a parcel of air would have if it were cooled to saturation (100% relative humidity) by the evaporation of water into it, with the latent heat being supplied by the parcel."
-unknown,,(unknown),The measurement/observing method is unknown.
+unknown,,unknown,The measurement/observing method is unknown.

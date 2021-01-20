@@ -1,0 +1,7 @@
+notation,name,description
+lhcp,LHCP,left-hand circular polarization
+rhcp,RHCP,right-hand circular polarization
+linear,linear,linear polarization
+lrhcp,LHCP & RHCP,left- and right-hand circular polarization
+single,single,single polarization
+dual,dual,dual polarization

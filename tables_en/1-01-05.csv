@@ -14,7 +14,7 @@ notation,path,name,description
 243,\Terrestrial\Land surface\Wetland extent,Wetland extent,Fraction of an area flood by water.
 245,\Terrestrial\Soil\Soil heat Flux,Soil heat Flux,
 246,\Terrestrial\Soil\Soil type,Soil type,"Result of the classification of different types of soil within an area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
-354,\Terrestrial\Land surface\Snow-Ice-Glacier\Permafrost,Permafrost,
+354,\Terrestrial\Cryosphere\Permafrost,Permafrost,
 386,\Terrestrial\Land surface\Fire\Fire fractional cover,Fire fractional cover,Fraction of a land area where fire is occurring.
 387,\Terrestrial\Land surface\Fire\Fire radiative power,Fire radiative power,Power radiated by the fire occurring within an area.
 388,\Terrestrial\Land surface\Fire\Fire temperature,Fire temperature,Temperature of the fire occurring within an area.
@@ -27,21 +27,27 @@ notation,path,name,description
 426,\Terrestrial\Land surface\Vegetation\Normalised Difference Vegetation Index (NDVI),Normalised Difference Vegetation Index (NDVI),"Difference between maximum (in NIR) and minimum (around the Red) vegetation reflectance, normalised to the summation. Representative of total biomass, supportive for computing LAI if not directly measured."
 427,\Terrestrial\Land surface\Vegetation\Vegetation type,Vegetation type,"Result of the classification of different types of vegetation within a vegetated area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
 510,\Terrestrial\Land surface\Humidity\Evaporation,Evaporation,Quantity of water evaporated from the soil and plants when the ground is at its natural moisture content.
-527,\Terrestrial\Soil\Humidity\Soil moisture (in the roots region),Soil moisture (in the roots region),Sub-soil 3D field of the fractional content of water in a volume of wet soil.  Typically in a layer from the surface down to approximately 3m.
+527,\Terrestrial\Soil\Humidity\Soil moisture (in the roots region),Soil moisture (in the roots region),Sub-soil 3D field of the fractional content of water in a volume of wet soil. Typically in a layer from the surface down to approximately 3m.
 528,\Terrestrial\Soil\Humidity\Soil moisture at surface,Soil moisture at surface,Fractional content of water in a volume of wet soil. Surface layer (upper few centimetres).
 563,\Terrestrial\Land surface\Radiation\Fraction of Absorbed PAR (FAPAR),Fraction of Absorbed PAR (FAPAR),Fraction of PAR absorbed by vegetation (land or marine) for photosynthesis processes (generally around the 'red' frequencies).
 564,\Terrestrial\Land surface\Radiation\Photosynthetically Active Radiation (PAR),Photosynthetically Active Radiation (PAR),Flux of downwelling photons of wavelength 400-700 nm.
 596,\Terrestrial\Soil\Temperature\Soil temperature,Soil temperature,"The standard depths for soil temperature measurements are 5, 10, 20, 50 and 100 cm below the surface; additional depths may be included. The site for such measurements should be a level plot of bare ground (about 75 cm^2 ) and typical of the surrounding soil for which information is required."
-610,\Terrestrial\Land surface\Snow-Ice-Glacier\Glacier\Glacier cover,Glacier cover,Fraction of a land area covered by permanent ice.
-611,\Terrestrial\Land surface\Snow-Ice-Glacier\Glacier\Glacier motion,Glacier motion,Velocity of the ice measured at the surface of a glacier.
-612,\Terrestrial\Land surface\Snow-Ice-Glacier\Glacier\Glacier topography,Glacier topography,Map of the height of the glacier surface.
-613,\Terrestrial\Land surface\Snow-Ice-Glacier\Ice\Ice sheet topography,Ice sheet topography,Map of ice sheet height over land .
-627,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Depth of fresh snowfall,Depth of fresh snowfall,The vertical depth of freshly fallen snow that has accumulated during a specific period.
-628,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow cover (fraction of area),Snow cover (fraction of area),"The area of snow-covered ground, ice, or firn based on the fractional threshold used to define presence of snow."
-629,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow depth,Snow depth,"Vertical distance from the snow surface to the stated reference level (ground, glacier ice or sea ice)."
-630,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Snow surface state (dry or wet),Snow surface state (dry or wet),Binary product (dry or melting/thawing) expressing the presence of liquid water at the surface of the snow cover - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].
-631,\Terrestrial\Land surface\Snow-Ice-Glacier\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area. Linked to snow depth through the density of the snow layer."
-725,\Terrestrial\Lake\Snow-Ice-Glacier\Ice\Ice thickness,Ice thickness,
-726,\Terrestrial\River\Snow-Ice-Glacier\Ice\Ice thickness,Ice thickness,
-unknown,,(unknown),The variable is unknown.
-inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+611,\Terrestrial\Cryosphere\Glacier\Glacier motion,Glacier motion,Velocity of the ice measured at the surface of a glacier.
+612,\Terrestrial\Cryosphere\Glacier\Glacier topography,Glacier topography,Map of the height of the glacier surface.
+613,\Terrestrial\Cryosphere\Ice sheet\Ice sheet topography,Ice sheet topography,Map of ice sheet height over land.
+627,\Terrestrial\Cryosphere\Snow\Depth of snowfall,Depth of snowfall,The vertical depth of freshly fallen snow that has accumulated during a specific period.
+628,\Terrestrial\Cryosphere\Snow\Snow cover extent,Snow cover extent,"The area of snow-covered ground, ice, or firn based on the fractional threshold used to define presence of snow."
+629,\Terrestrial\Cryosphere\Snow\Snow depth,Snow depth,Vertical distance from the snow surface to a stated reference level.
+630,\Terrestrial\Cryosphere\Snow\Snow surface state,Snow surface state,Binary product (dry or wet) expressing the presence of liquid water at the surface of the snow cover.
+631,\Terrestrial\Cryosphere\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"The Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area."
+725,\Terrestrial\Cryosphere\Lake ice\Ice thickness,Ice thickness,
+726,\Terrestrial\Cryosphere\River ice\Ice thickness,Ice thickness,
+12007,\Terrestrial\Cryosphere\Snow\Presence of snow,Presence of snow,A binary observation of the presence of snow cover at the measurement location.
+12008,\Terrestrial\Cryosphere\Snow\Water equivalent of snowfall,Water equivalent of snowfall,"Vertical depth of the water that would be obtained if the freshly fallen snow melted completely, which equates to the new snow mass per unit area."
+12009,\Terrestrial\Cryosphere\Glacier\Glacier mass balance at a point,Glacier mass balance at a point,"The result of all processes adding and removing mass from the glacier at a point on its surface, expressed over a stated period of time"
+12010,\Terrestrial\Cryosphere\Glacier\Glacier-wide mass balance,Glacier-wide mass balance,"The result of all processes adding and removing mass from the glacier at its surface, expressed over a stated period of time and integrated over the entire glacier area"
+12011,\Terrestrial\Cryosphere\Glacier\Surface accumulation at a point,Surface accumulation at a point,The mass added to the glacier at a point on its surface expressed over a stated period of time.
+12012,\Terrestrial\Cryosphere\Glacier\Surface ablation at a point,Surface ablation at a point,The mass removed from the glacier at a point on its surface expressed over a stated period of time.
+12013,\Terrestrial\Cryosphere\Glacier\Glacier area,Glacier area,Area enclosed by the projection of the glacier outline onto the surface of an ellipsoid approximating the surface of the Earth or onto a planar horizontal approximation to that ellipsoid. The glacier area excludes nunataks but includes debris-covered parts of the glacier. The glacier outline separates the glacier from unglacierized terrain and from contiguous glaciers.
+inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
+unknown,,unknown,The variable is unknown.

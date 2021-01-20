@@ -8,9 +8,9 @@ dataSatIntermittent,Data/satellite/intermittent,Data communications (digital or 
 faxCellular,Fax/cellular,Facsimile using a cellular or similar terrestrial telecommunications  network
 faxLandline,Fax/landline,Facsimile using fixed terrestrial telecommunications network
 faxRadio,Fax/radio,"Facsimile using a direct radio system (such as VHF, HF SSB)"
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 post,Post,"Physical transfer of information by postal, delivery service, courier service or similar"
-unknown,(unknown),The data communication method is unknown for this particular observation.
+unknown,unknown,The data communication method is unknown for this particular observation.
 voiceCellular,Voice/cellular,Voice communications using a cellular or similar terrestrial telecommunications network
 voiceLandline,Voice/landline,Voice communications using a fixed terrestrial telecommunications network
 voiceRadio,Voice/radio,"Voice communications using a direct radio system (such as VHF, HF SSB)"

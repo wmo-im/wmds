@@ -4,19 +4,19 @@ notation,path,name,description
 62,\Ocean\Currents\Ocean Current - Direction,Ocean Current - Direction,
 63,\Ocean\Currents\Ocean Current - Speed,Ocean Current - Speed,Ocean motion measured at various depth levels.
 64,\Ocean\Topography\Ocean dynamic topography (ODT),Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects).
-65,\Ocean\Currents\Ocean surface currents (vector),Ocean surface currents (vector),"Water flow on ocean surface."
+65,\Ocean\Currents\Ocean surface currents (vector),Ocean surface currents (vector),"Water flow on ocean surface, typically in upper 30 m of the ocean."
 67,\Ocean\Miscellaneous\Carbon species\Dissolved inorganic carbon (DIC),Dissolved inorganic carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution."
 68,\Ocean\Miscellaneous\Carbon species\Dissolved organic carbon,Dissolved organic carbon,
 69,\Ocean\Miscellaneous\Nitrogen species\Dissolved organic nitrogen,Dissolved organic nitrogen,
 70,"\Ocean\Miscellaneous\Diffuse attenuation coefficient (DAC), turbidity","Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation."
-71,\Ocean\Biology\Chlorophyll concentration ,Chlorophyll concentration ,"Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3 ."
+71,\Ocean\Biology\Chlorophyll concentration,Chlorophyll concentration,"Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3 ."
 72,\Ocean\Miscellaneous\Ocean suspended sediments concentration,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3 ). "
 73,\Ocean\Miscellaneous\Oil spill cover,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
 74,\Ocean\Biology\Primary production,Primary production,
 75,\Ocean\Miscellaneous\Sea surface Mass Flux,Sea surface Mass Flux,Sea Surface Mass Flux.
 76,\Ocean\Miscellaneous\Sea surface heat flux,Sea surface heat flux,Sea Surface Heat Flux.
 77,\Ocean\Topography\Sea surface height anomaly (SSHA),Sea surface height anomaly (SSHA),Sea surface height anomaly.
-78,\Ocean\Miscellaneous\Total alkalinity (AT),Total alkalinity (AT),The amount of acid necessary to titrate all weak bases in seawater.
+78,\Ocean\Miscellaneous\Total alkalinity (TA),Total alkalinity (TA),The amount of acid necessary to titrate all weak bases in seawater.
 79,\Ocean\Miscellaneous\pH,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity."
 82,\Ocean\Biology\SiO3= (metasilicate),SiO3= (metasilicate),
 84,"\Ocean\Other Gas\N2, Ar, O2 ","N2, Ar, O2 ",
@@ -25,14 +25,14 @@ notation,path,name,description
 87,"\Ocean\Other Gas\Oxygen, dissolved","Oxygen, dissolved",
 89,\Ocean\Radiation\Water-leaving spectral radiance,Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle."
 90,"\Ocean\Reactive Gas\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",
-91,\Ocean\Basic Physical Properties\Ocean salinity,Ocean salinity,"3D field of salinity of the ocean, requested in upper and deep ocean"
-92,\Ocean\Basic Physical Properties\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~ 1 m if observed in MW). In the open ocean the correct term should be “halinity” with reference of the diversity of salts involved.
+91,\Ocean\Basic Physical Properties\Ocean salinity,Ocean salinity,"3D field of salinity of the ocean"
+92,\Ocean\Basic Physical Properties\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW).
 94,\Ocean\Basic Physical Properties\Ocean temperature,Ocean temperature,3D field of temperature of the ocean Requested in upper and deep ocean.
-95,\Ocean\Basic Physical Properties\Sea surface temperature,Sea surface temperature,"Temperature of the sea water at surface. The “bulk” temperature refers to the depth of typically 2 m, the “skin” temperature refers to within the upper 1 mm. "
+95,\Ocean\Basic Physical Properties\Sea surface temperature,Sea surface temperature,"Temperature of the sea water at surface. The ""bulk"" temperature refers to the depth of typically 2 m, the ""skin"" temperature refers to within the upper 1 mm."
 96,\Ocean\Topography\Coastal sea level (tide),Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)."
 98,\Ocean\Waves\Dominant wave direction,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
 99,\Ocean\Waves\Dominant wave period,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
-100,\Ocean\Waves\Significant wave height,Significant wave height,Average amplitude of the highest 30 out of 100 waves.
+100,\Ocean\Waves\Significant wave height,Significant wave height,Average amplitude of the highest 33 out of 100 waves.
 101,\Ocean\Waves\Wave 1D energy frequency spectrum,Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation 
 102,\Ocean\Waves\Wave directional energy frequency spectrum,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g., 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)"
 103,\Ocean\Wind\Wind stress,Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
@@ -40,13 +40,13 @@ notation,path,name,description
 312,\Ocean\Biology\Nitrogen species\NO3- (nitrate),NO3- (nitrate),Nitrate concentration in sea water.
 399,\Ocean\Biology\Phosporus species\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water.
 400,\Ocean\Biology\Phosporus species\Total organic phosphorus,Total organic phosphorus,
-401,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
-402,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
-403,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
-404,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)."
-405,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
-406,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
-407,\Ocean\Snow-Ice-Glacier\Ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
+401,\Ocean\Cryosphere\Sea ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
+402,\Ocean\Cryosphere\Sea ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
+403,\Ocean\Cryosphere\Sea ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
+404,\Ocean\Cryosphere\Sea ice\Sea-ice surface characteristics,Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)."
+405,\Ocean\Cryosphere\Sea ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
+406,\Ocean\Cryosphere\Sea ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
+407,\Ocean\Cryosphere\Sea ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
 408,\Ocean\Transmissivity\CTD\Transmissivity,Transmissivity,
 549,\Ocean\Other Gas\CTD\pO2,pO2,
 731,\Ocean\Basic Physical Properties\Conductivity,Conductivity,Conductivity measured by CTD or MicroCAT
@@ -62,5 +62,5 @@ notation,path,name,description
 744,\Ocean\Waves\Wave period,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
 745,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."
 10080,\Ocean\Tides,Tides,
-unknown,,(unknown),The variable is unknown.
-inapplicable,,(inapplicable),None of the codes in the table are applicable in the context of this particular observation.
+unknown,,unknown,The variable is unknown.
+inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.

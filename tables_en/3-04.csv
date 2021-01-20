@@ -1,7 +1,7 @@
 notation,name,description
 airFixed,Air (fixed),"Airborne station/platform, at fixed position"
 airMobile,Air (mobile),"Airborne station/platform, moving around"
-inapplicable,(inapplicable),None of the codes in the table are applicable in the context of this particular station/platform.
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular station/platform.
 lakeRiverFixed,Lake/River (fixed),"Station/platform at lake/river surface, at fixed position"
 lakeRiverMobile,Lake/River (mobile),"station/platform at lake/river surface, moving around"
 landFixed,Land (fixed) ,"Station/platform on solid terrain, at fixed position"
@@ -13,4 +13,4 @@ seaOnIce,Sea (on ice),"Station/platform on floating ice, moving with the ice"
 spaceBased,Space-based,Satellite platform in orbit
 underwaterFixed,Underwater (fixed),"Station/platform under water, at fixed horizontal position"
 underwaterMobile,Underwater (mobile),"Station/platform under water, moving around also horizontally"
-unknown,(unknown),The station/platform type is unknown.
+unknown,unknown,The station/platform type is unknown.

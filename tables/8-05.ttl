@@ -5,10 +5,10 @@
 
 <Traceability/unknown> a skos:Concept ;
     skos:notation "unknown" ;
-    rdfs:label "(unknown)"@en ,
-    "(inconnue)"@fr ,
-    "(desconocida)"@es ,
-    "(неизвестно)"@ru ;
+    rdfs:label "unknown"@en ,
+    "inconnue"@fr ,
+    "desconocida"@es ,
+    "неизвестно"@ru ;
     dct:description  "The traceability of the observations is unknown."@en ,
     "Traçabilité inconnue"@fr ,
     "Se desconoce la trazabilidad de las observaciones."@es ,
