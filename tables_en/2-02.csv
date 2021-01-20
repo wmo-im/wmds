@@ -11,6 +11,7 @@ AGAGE,\WIGOS\GAW\GAW Other elements\AGAGE,AGAGE,AGAGE/SOGE/NIES
 AIREP,\WIGOS\GOS\GOS Other elements\ABOS\AIREP,AIREP,Aircraft Report (Manual). These are transmitted by the aircraft when a weather event encountered e.g. severe turbulence or icing.
 AMDAR,\WIGOS\GOS\GOS Other elements\ABOS\AMDAR,AMDAR,Aircraft Meteorological DAta Relay
 ANTON,\WIGOS\GOS\GOS Surface networks\ANTON,ANTON,Antarctic Observing Network surface synoptic station (SYNOP/CLIMAT)
+ANTONs,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(S),ANTON(S),Antarctic Observing Network surface station
 ANTONt,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(T),ANTON(T),Antarctic Observing Network upper-air station (TEMP)
 AOML,\Co-sponsored\GOOS\DBCP\AOML,AOML,NA
 AOMLeSurfmar,\Co-sponsored\GOOS\DBCP\AOML-E-SURFMAR,AOML-E-SURFMAR,NA
