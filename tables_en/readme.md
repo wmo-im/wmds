@@ -11,7 +11,6 @@
 [1-01-05.csv](./tables_en/1-01-05.csv) [ObservedVariableTerrestrial](http://codes.wmo.int/wmdr/ObservedVariableTerrestrial) Observed variable - measurand (terrestrial)
 [1-02.csv](./tables_en/1-02.csv) [unit](http://codes.wmo.int/wmdr/unit) Measurement unit
 [1-04.csv](./tables_en/1-04.csv) [Geometry](http://codes.wmo.int/wmdr/Geometry) Geometry
-[1-04-02.csv](./tables_en/1-04-02.csv) [VerticalExtentOfObservation](http://codes.wmo.int/wmdr/VerticalExtentOfObservation) Vertical extent of observation
 [1-05.csv](./tables_en/1-05.csv) [Representativeness](http://codes.wmo.int/wmdr/Representativeness) Representativeness
 [2-01.csv](./tables_en/2-01.csv) [ApplicationArea](http://codes.wmo.int/wmdr/ApplicationArea) Application areas
 [2-02.csv](./tables_en/2-02.csv) [ProgramAffiliation](http://codes.wmo.int/wmdr/ProgramAffiliation) Programme/network affiliation
