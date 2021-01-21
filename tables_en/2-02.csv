@@ -136,7 +136,7 @@ CASTNET,\WIGOS\GAW\GAW Contributing networks\CASTNET,CASTNET,Clean Air Status an
 CDIP,\Co-sponsored\GOOS\DBCP\CDIP,CDIP,Coastal Data Information Program (CDIP)
 ceilometers,\WIGOS\GOS\GOS Other elements\Ceilometers,Ceilometers,Elastic lidar (ceilometer) networks
 centennialObservingstations,,Centennial Observing Stations,"Long-term meteorological observations are unique sources of past information about atmospheric parameters, thus are references for climate variability and change assessments. To highlight this importance, WMO has a mechanism to recognize centennial observing stations. By so doing, the Organization promotes sustainable observational standards and best practices that facilitate the generation of high-quality time series data."
-CIS-LiNet,\WIGOS\GAW\GAW Contributing networks\CIS-LiNet,CIS-LiNet,Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network
+CIS-LiNet,\WIGOS\GAW\GAW Other elements\CIS-LiNet,CIS-LiNet,Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network
 CLIMATc,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(C),CLIMAT(C),Station for which monthly climatological means of surface elements are transmitted
 CLIMATct,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(CT),CLIMAT(CT),Station for which monthly climatological means of both surface and upper- air elements are transmitted
 CLIMATt,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(T),CLIMAT(T),Station for which monthly climatological means of upper-air elements are transmitted
