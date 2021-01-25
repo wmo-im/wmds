@@ -190,7 +190,6 @@ FERHRITSU,\Co-sponsored\GOOS\DBCP\FERHRI-TSU,FERHRI-TSU,Far Eastern Regional Hyd
 GALION,\WIGOS\GAW\GAW Contributing networks\GALION,GALION,GAW Aerosol Lidar Observation Network
 GALIONNDACC,\WIGOS\GAW\GAW Contributing networks\GALION\NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
 gaw,\WIGOS\GAW,GAW,Global Atmosphere Watch
-GAWabos,\WIGOS\GAW\GAW Other elements\ABOS (retired),ABOS (retired),Aircraft-Based Observing Systems (retired)
 gawContributing,\WIGOS\GAW\GAW Contributing networks,GAW Contributing networks,Networks contributing to GAW that have signed an agreement with GAW
 GAWglobal,\WIGOS\GAW\GAW Global,GAW Global,Global GAW station
 GAWlocal,\WIGOS\GAW\GAW Local,GAW Local,Local GAW station
@@ -205,7 +204,6 @@ GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A G
 GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."
 germanAODnetwork,\WIGOS\GAW\GAW Other elements\German AOD network,German AOD network,German Aerosol Optical Depth Network
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY
-globalAOD,\WIGOS\GAW\GAW Other elements\AOD (retired),AOD (retired),Aerosol Optical Depth (retired)
 GLOSCAL,\Co-sponsored\GOOS\DBCP\GLOSCAL,GLOSCAL,"GLOSCAL is a French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."
 GNSSradioOccultation,\WIGOS\GOS\GOS Other elements\GNSS radio-occultation system,GNSS radio-occultation system,NA
 GOOS,\Co-sponsored\GOOS,GOOS,Global Ocean Observing System
@@ -260,7 +258,6 @@ MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and C
 MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo – Italy
 MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
 MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
-MOZAIC,\WIGOS\GAW\GAW Other elements\ABOS\MOZAIC (retired),MOZAIC (retired),Measurement of Ozone and Water Vapour on Airbus In-service Aircraft. (retired)
 MPLNET,\WIGOS\GAW\GAW Contributing networks\MPLNET,MPLNET,Micro-Pulse Lidar Network
 NADP,\WIGOS\GAW\GAW Contributing networks\NADP,NADP,National Atmospheric Deposition Program
 NAOSfrance,\Co-sponsored\GOOS\Argo\NAOS-FRANCE,NAOS-FRANCE,Novel Argo Ocean Observing System (NOAS) France project
