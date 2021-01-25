@@ -102,7 +102,7 @@ notation,path,name,description
 718,"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), total aerosol","Tin (Sn), total aerosol",
 672,"\Atmosphere\Aerosol\Composition\Trace elements\Titanium (Ti), total aerosol","Titanium (Ti), total aerosol",
 719,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), PM2.5","Uranium (U), PM2.5",
-720,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), total aerosol","Uranium (U), total aerosol",
+720,"\Atmosphere\Aerosol\Composition\Trace elements\(U), total aerosol","Uranium (U), total aerosol",
 721,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), PM2.5","Vanadium (V), PM2.5",
 722,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol","Vanadium (V), total aerosol",
 723,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
@@ -636,7 +636,7 @@ notation,path,name,description
 ,Atmosphere\Radionuclide\Uranium [U-235],Uranium [U-235],"IUPAC: uranium-235, PubChem CID: 61784, CAS Number: 15117-96-1"
 ,Atmosphere\Radionuclide\Uranium [U-236],Uranium [U-236],"IUPAC: uranium-236, PubChem CID: 105156, CAS Number: 13982-70-2"
 ,Atmosphere\Radionuclide\Uranium [U-237],Uranium [U-237],"IUPAC: uranium-237, PubChem CID: 167047, CAS Number: 14269-75-1"
-,Atmosphere\Radionuclide\Uranium [U-238],Uranium [U-238],"IUPAC: , PubChem CID: , CAS Number: "
+,Atmosphere\Radionuclide\Uranium [U-238],Uranium [U-238],
 ,Atmosphere\Radionuclide\Plutonium [Pu-236],Plutonium [Pu-236],"IUPAC: plutonium-236, PubChem CID: 115138, CAS Number: 15411-92-4"
 ,Atmosphere\Radionuclide\Plutonium [Pu-238],Plutonium [Pu-238],"IUPAC: plutonium-238, PubChem CID: 61709, CAS Number: 13981-16-3"
 ,Atmosphere\Radionuclide\Plutonium [Pu-239],Plutonium [Pu-239],"IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3, 19257-39-7"
