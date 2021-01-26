@@ -5,4 +5,12 @@ https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/262,https://codes.wmo.int/w
 https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/326,https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/183
 https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/325,https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/183
 https://codes.wmo.int/wmdr/ProgramAffiliation/_CryoNet,https://codes.wmo.int/wmdr/ProgramAffiliation/_GCWCryoNet
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBCN,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBONpilot,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBSN,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNp,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNs,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNsp,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNst,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNt,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_610,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12013
