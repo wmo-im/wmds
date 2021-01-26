@@ -5,7 +5,7 @@
 1-01-05,Observed variable - measurand (terrestrial),http://codes.wmo.int/wmdr/ObservedVariableTerrestrial
 1-02,Measurement unit,http://codes.wmo.int/wmdr/unit
 1-04,Geometry,http://codes.wmo.int/wmdr/Geometry
-1-04-02,Vertical extent of observation,http://codes.wmo.int/wmdr/VerticalExtentOfObservation
+1-04-02,Vertical level of observation,http://codes.wmo.int/wmdr/VerticalLevel
 1-05,Representativeness,http://codes.wmo.int/wmdr/Representativeness
 2-01,Application areas,http://codes.wmo.int/wmdr/ApplicationArea
 2-02,Programme/network affiliation,http://codes.wmo.int/wmdr/ProgramAffiliation
