@@ -4,8 +4,8 @@ ACTRIS,\WIGOS\GAW\GAW Other elements\ACTRIS,ACTRIS,"Aerosol,Clouds and Trace Gas
 ADD,\WIGOS\GOS\GOS Other elements\ABOS\ADD,ADD,Aircraft Derived Data (Mode-S/ADS-B)
 ADNet,\WIGOS\GAW\GAW Contributing networks\ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 ADSC,\WIGOS\GOS\GOS Other elements\ABOS\ADS-C,ADS-C,Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath.
-AEROCAN,\WIGOS\GAW\GAW Other elements\AOD\AEROCAN,AEROCAN,"AEROCAN, federated to AERONET"
-AERONET,\WIGOS\GAW\GAW Other elements\AOD\AERONET,AERONET,AErosol RObotic NETwork
+AEROCAN,\WIGOS\GAW\GAW Other elements\AEROCAN,AEROCAN,"AEROCAN, federated to AERONET"
+AERONET,\WIGOS\GAW\GAW Other elements\AERONET,AERONET,AErosol RObotic NETwork
 AFIRS,\WIGOS\GOS\GOS Other elements\ABOS\AFIRS,AFIRS,"Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
 AGAGE,\WIGOS\GAW\GAW Other elements\AGAGE,AGAGE,AGAGE/SOGE/NIES
 AIREP,\WIGOS\GOS\GOS Other elements\ABOS\AIREP,AIREP,Aircraft Report (Manual). These are transmitted by the aircraft when a weather event encountered e.g. severe turbulence or icing.
@@ -170,7 +170,7 @@ DBCPothers,\Co-sponsored\GOOS\DBCP\DBCP others,DBCP others,NA
 DEKOSIM,\Co-sponsored\GOOS\Argo\DEKOSIM,DEKOSIM,DEKOSIM is an interdisciplinary research project funded by the Turkish Ministry of Development
 DFODB,\Co-sponsored\GOOS\DBCP\DFO DB,DFO DB,Department of Fisheries and Oceans Drifter Buoys
 eAIMS,\Co-sponsored\GOOS\Argo\E-AIMS,E-AIMS,Euro-Argo Improvements for the GMES Marine Service
-EANET,\WIGOS\GAW\GAW Other elements\EANET,EANET,EANET
+EANET,\WIGOS\GAW\GAW Contributing networks\EANET,EANET,EANET
 EARLINET,\WIGOS\GAW\GAW Contributing networks\EARLINET,EARLINET,European Aerosol Research Lidar Network
 eASAP,\Co-sponsored\GOOS\SOT\ASAP\E-ASAP,E-ASAP,European - Automated Shipboard Aerological Program
 ECDB,\Co-sponsored\GOOS\DBCP\EC DB,EC DB,Canada Drifting Buoys
@@ -189,7 +189,6 @@ EurositesPlanier,\Co-sponsored\GOOS\DBCP\EUROSITES PLANIER,EUROSITES PLANIER,NA
 FERHRITSU,\Co-sponsored\GOOS\DBCP\FERHRI-TSU,FERHRI-TSU,Far Eastern Regional Hydrometeorological Research Institute Tsunameter Buoys
 GALION,\WIGOS\GAW\GALION,GALION,GAW Aerosol Lidar Observation Network
 gaw,\WIGOS\GAW,GAW,Global Atmosphere Watch
-GAWabos,\WIGOS\GAW\GAW Other elements\ABOS,ABOS,Aircraft-Based Observing Systems
 gawContributing,\WIGOS\GAW\GAW Contributing networks,GAW Contributing networks,Networks contributing to GAW that have signed an agreement with GAW
 GAWglobal,\WIGOS\GAW\GAW Global,GAW Global,Global GAW station
 GAWlocal,\WIGOS\GAW\GAW Local,GAW Local,Local GAW station
@@ -202,9 +201,8 @@ GCW,\WIGOS\GCW,GCW,Global Cryosphere Watch
 GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
 GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
 GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."
-germanAODnetwork,\WIGOS\GAW\GAW Other elements\AOD\German AOD network,German AOD network,German Aerosol Optical Depth Network
+germanAODnetwork,\WIGOS\GAW\GAW Other elements\German AOD network,German AOD network,German Aerosol Optical Depth Network
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY
-globalAOD,\WIGOS\GAW\GAW Other elements\AOD,AOD,Aerosol Optical Depth
 GLOSCAL,\Co-sponsored\GOOS\DBCP\GLOSCAL,GLOSCAL,"GLOSCAL is a French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."
 GNSSradioOccultation,\WIGOS\GOS\GOS Other elements\GNSS radio-occultation system,GNSS radio-occultation system,NA
 GOOS,\Co-sponsored\GOOS,GOOS,Global Ocean Observing System
@@ -226,7 +224,7 @@ IABPEC,\Co-sponsored\GOOS\DBCP\IABP-EC,IABP-EC,NA
 IABPNIC,\Co-sponsored\GOOS\DBCP\IABP NIC,IABP NIC,NA
 IABPUS,\Co-sponsored\GOOS\DBCP\IABP US,IABP US,Coordination/data management of the Intl Arctic Buoy program
 IABPUW,\Co-sponsored\GOOS\DBCP\IABP-UW,IABP-UW,Intl Arctic Buoy Program (IABP) University of Washington (UW)
-IAGOS,\WIGOS\GAW\GAW Other elements\ABOS\IAGOS,IAGOS,In-service Aircraft for a Global Observing System
+IAGOS,\WIGOS\GAW\GAW Contributing networks\IAGOS,IAGOS,In-service Aircraft for a Global Observing System
 IBPIO,\Co-sponsored\GOOS\DBCP\IBPIO,IBPIO,International Buoy Programme for the Indian Ocean (IBPIO)
 ICOS,\WIGOS\GAW\GAW Contributing networks\ICOS,ICOS,"Integrated Carbon Observation System, www.icos-cp.eu"
 IDAF,\WIGOS\GAW\GAW Contributing networks\IDAF,IDAF,IGAC/DEBITS Africa
@@ -258,7 +256,6 @@ MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and C
 MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo – Italy
 MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
 MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
-MOZAIC,\WIGOS\GAW\GAW Other elements\ABOS\MOZAIC,MOZAIC,Measurement of Ozone and Water Vapour on Airbus In-service Aircraft.
 MPLNET,\WIGOS\GAW\GAW Contributing networks\MPLNET,MPLNET,Micro-Pulse Lidar Network
 NADP,\WIGOS\GAW\GAW Contributing networks\NADP,NADP,National Atmospheric Deposition Program
 NAOSfrance,\Co-sponsored\GOOS\Argo\NAOS-FRANCE,NAOS-FRANCE,Novel Argo Ocean Observing System (NOAS) France project
@@ -330,9 +327,9 @@ OSWHOI,\Co-sponsored\GOOS\OceanSITES\OS-WHOI,OS-WHOI,NA
 OSWHOI-SIO-OSU,\Co-sponsored\GOOS\OceanSITES\OS-WHOI/SIO/OSU,OS-WHOI/SIO/OSU,NA
 pacIOOS,\Co-sponsored\GOOS\DBCP\PACIOOS,PACIOOS,Pacific Islands Ocean Observing System Stations
 petrobras,\Co-sponsored\GOOS\DBCP\PETROBRAS,PETROBRAS,NA
-PHOTONS,\WIGOS\GAW\GAW Other elements\AOD\PHOTONS,PHOTONS,"PHOTONS, federated to AERONET"
+PHOTONS,\WIGOS\GAW\GAW Other elements\PHOTONS,PHOTONS,"PHOTONS, federated to AERONET"
 PMELMB,\Co-sponsored\GOOS\DBCP\PMEL MB,PMEL MB,PMEL Moored Buoys
-polarAOD,\WIGOS\GAW\GAW Other elements\AOD\PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
+polarAOD,\WIGOS\GAW\GAW Other elements\PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
 RBCN,\WIGOS\GOS\GOS Surface networks\RBCN,RBCN,Regional Basic Climatological Networks
 RBONpilot,\WIGOS\GOS\GOS Surface networks\RBON-Pilot Project,RBON-Pilot Project,Regional Basic Observing Network (pilot project)
 RBSN,\WIGOS\GOS\GOS Surface networks\RBSN,RBSN,GOS Regional Basic Synoptic Networks
@@ -346,9 +343,9 @@ scripps,\Co-sponsored\GOOS\DBCP\SCRIPPS,SCRIPPS,NA
 SHADOZ,\WIGOS\GAW\GAW Other elements\SHADOZ,SHADOZ,Southern Hemisphere ADditional Ozonesondes
 shell,\Co-sponsored\GOOS\DBCP\SHELL,SHELL,SHELL Beaufort sea ice movement
 shoaTSU,\Co-sponsored\GOOS\DBCP\SHOA-TSU,SHOA-TSU,Chilean Navy Hydrographic And Oceanographic Service Tsunameter buoys
-sibRad,\WIGOS\GAW\GAW Other elements\AOD\SibRad,SibRad,SibRad
+sibRad,\WIGOS\GAW\GAW Other elements\SibRad,SibRad,SibRad
 SIODB,\Co-sponsored\GOOS\DBCP\SIO-DB,SIO-DB,Scripps Institution of Oceanography Drifter Buoy
-skynet,\WIGOS\GAW\GAW Other elements\AOD\SKYNET,SKYNET,Aerosol-cloud-radiation interaction in the atmosphere project
+skynet,\WIGOS\GAW\GAW Other elements\SKYNET,SKYNET,Aerosol-cloud-radiation interaction in the atmosphere project
 SOOP,\Co-sponsored\GOOS\SOT\SOOP,SOOP,Ship Of Opportunity Programme
 SOOPBOM,\Co-sponsored\GOOS\SOT\SOOP-BOM,SOOP-BOM,NA
 SOT,\Co-sponsored\GOOS\SOT,SOT,NA
