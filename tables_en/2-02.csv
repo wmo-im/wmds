@@ -254,19 +254,19 @@ LALINET,\WIGOS\GAW\GAW Contributing networks\GALION\LALINET,LALINET,LALINET Lati
 lightningDetection,\WIGOS\GOS\GOS Other elements\Lightning detection system,Lightning detection system,Surface-based lightning detection system
 LOCEAN,\Co-sponsored\GOOS\DBCP\LOCEAN,LOCEAN,Laboratory of Oceanography and Climate: Experiments and Digital Approaches
 marlinDB,\Co-sponsored\GOOS\DBCP\MARLIN-DB,MARLIN-DB,NA
-MEDARGO,\Co-sponsored\GOOS\Argo\MEDARGO,MEDARGO,NA
+EDARGO,\Co-sponsored\GOOS\Argo\MEDARGO,MEDARGO,NA
 meridianGoodHope,\Co-sponsored\GOOS\Argo\MERIDIAN GOODHOPE,MERIDIAN GOODHOPE,NA
-MERSEA,\Co-sponsored\GOOS\Argo\MERSEA,MERSEA,NA
-MeteoFranceDB,\Co-sponsored\GOOS\DBCP\METEO FRANCE DB,METEO FRANCE DB,MF Drifters Atlantic and Indian Ocean
-MeteoFranceMB,\Co-sponsored\GOOS\DBCP\METEO FRANCE MB,METEO FRANCE MB,MF Drifters Atlantic and Indian Ocean
-MeteoFranceWB,\Co-sponsored\GOOS\DBCP\METEO FRANCE WB,METEO FRANCE WB,Meteo-France waverider (operational)
-MOCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo – EU
-MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo – Germany
-MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo – Italy
-MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
-MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
-MOZAIC,\WIGOS\GAW\GAW Other elements\ABOS\MOZAIC,MOZAIC,Measurement of Ozone and Water Vapour on Airbus In-service Aircraft.
-MPLNET,\WIGOS\GAW\GAW Contributing networks\GALION\MPLNET,MPLNET,Micro-Pulse Lidar Network
+ERSEA,\Co-sponsored\GOOS\Argo\MERSEA,MERSEA,NA
+eteoFranceDB,\Co-sponsored\GOOS\DBCP\METEO FRANCE DB,METEO FRANCE DB,MF Drifters Atlantic and Indian Ocean
+eteoFranceMB,\Co-sponsored\GOOS\DBCP\METEO FRANCE MB,METEO FRANCE MB,MF Drifters Atlantic and Indian Ocean
+eteoFranceWB,\Co-sponsored\GOOS\DBCP\METEO FRANCE WB,METEO FRANCE WB,Meteo-France waverider (operational)
+OCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo – EU
+OCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo – Germany
+OCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo – Italy
+OCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
+OCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
+OZAIC,\WIGOS\GAW\GAW Other elements\ABOS\MOZAIC,MOZAIC,Measurement of Ozone and Water Vapour on Airbus In-service Aircraft.
+PLNET,\WIGOS\GAW\GAW Contributing networks\GALION\MPLNET,MPLNET,Micro-Pulse Lidar Network
 NADP,\WIGOS\GAW\GAW Contributing networks\NADP,NADP,National Atmospheric Deposition Program
 NAOSfrance,\Co-sponsored\GOOS\Argo\NAOS-FRANCE,NAOS-FRANCE,Novel Argo Ocean Observing System (NOAS) France project
 NAVOCEANODBCP,\Co-sponsored\GOOS\DBCP\NAVOCEANO DBCP,Navoceano DBCP,Naval Oceanographic Office DBCP programme
