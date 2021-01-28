@@ -16,3 +16,4 @@ https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNt,https://codes.wmo.int/wmdr/P
 https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_610,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12013
 https://codes.wmo.int/wmdr/ProgramAffiliation/IDAF,https://codes.wmo.int/wmdr/ProgramAffiliation/INDAAF
 https://codes.wmo.int/wmdr/ProgramAffiliation/ESRLCCG,https://codes.wmo.int/wmdr/ProgramAffiliation/NOAAGML
+http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_201
