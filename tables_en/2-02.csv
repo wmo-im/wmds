@@ -4,7 +4,7 @@ ADD,\WIGOS\GOS\GOS Other elements\ABOS\ADD,ADD,Aircraft Derived Data (Mode-S/ADS
 ADNet,\WIGOS\GAW\GAW Contributing networks\ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 ADSC,\WIGOS\GOS\GOS Other elements\ABOS\ADS-C,ADS-C,Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath.
 AEROCAN,\WIGOS\GAW\GAW Other elements\AEROCAN,AEROCAN,"AEROCAN, federated to AERONET"
-AERONET,\WIGOS\GAW\GAW Other elements\AERONET,AERONET,AErosol RObotic NETwork
+AERONET,\Non-affiliated\AERONET,AERONET,AErosol RObotic NETwork
 AFIRS,\WIGOS\GOS\GOS Other elements\ABOS\AFIRS,AFIRS,"Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
 AGAGE,\WIGOS\GAW\GAW Other elements\AGAGE,AGAGE,AGAGE/SOGE/NIES
 AIREP,\WIGOS\GOS\GOS Other elements\ABOS\AIREP,AIREP,Aircraft Report (Manual). These are transmitted by the aircraft when a weather event encountered e.g. severe turbulence or icing.
