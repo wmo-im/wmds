@@ -189,7 +189,6 @@ notation,path,name,description
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",
 535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",
-536,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)",
 537,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)",
 12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
 554,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)",
@@ -201,6 +200,7 @@ notation,path,name,description
 560,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)",
 561,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)","CH2F2 (difluoromethane, HFC-32)",
 562,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)","CHF3 (trifluoromethane, HFC-23)",
+536,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H3F3 (1,1,1-trifluoroethane, HFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HFC-143a)","IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2"
 201,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,N2O
 419,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)",
 420,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)",
@@ -222,7 +222,7 @@ notation,path,name,description
 280,\Atmosphere\Gas\Reactive Gas\CH3Cl (methylchloride),CH3Cl (methylchloride),
 281,\Atmosphere\Gas\Reactive Gas\CH3I (methyliodide),CH3I (methyliodide),
 282,\Atmosphere\Gas\Reactive Gas\CHBr3 (bromoform),CHBr3 (bromoform),
-283,\Atmosphere\Gas\Reactive Gas\CHCl3 (chloroform),CHCl3 (chloroform),
+283,"\Atmosphere\Gas\Reactive Gas\CHCl3 (trichloromethane, chloroform)","CHCl3 (trichloromethane, chloroform)","IUPAC: chloroform, PubChem CID: 6212, CAS Number: 67-66-3"
 286,\Atmosphere\Gas\Reactive Gas\ClO (chlorine monoxide),ClO (chlorine monoxide),
 284,\Atmosphere\Gas\Reactive Gas\CO,CO,
 285,"\Atmosphere\Gas\Reactive Gas\COF2 (difluoromethanal, carbonyl fluoride)","COF2 (difluoromethanal, carbonyl fluoride)",
@@ -299,7 +299,7 @@ notation,path,name,description
 488,"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,3,5-trimethylbenzene)","C9H12 (1,3,5-trimethylbenzene)",
 495,\Atmosphere\Gas\Reactive Gas\VOC\c-C4H8 (cis-2-butene),c-C4H8 (cis-2-butene),
 496,\Atmosphere\Gas\Reactive Gas\VOC\c-C5H10 (cis-2-pentene),c-C5H10 (cis-2-pentene),
-489,\Atmosphere\Gas\Reactive Gas\VOC\CH2O (formaldehyde),CH2O (formaldehyde),
+489,"\Atmosphere\Gas\Reactive Gas\VOC\CH2O (methanal, formaldehyde)","CH2O (methanal, formaldehyde)","IUPAC: formaldehyde, PubChem CID: 712, CAS Number: 50-00-0"
 490,\Atmosphere\Gas\Reactive Gas\VOC\CH3CH2OH (ethanol),CH3CH2OH (ethanol),
 491,"\Atmosphere\Gas\Reactive Gas\VOC\CH3CHO (acetaldehyde, ethanal)","CH3CHO (acetaldehyde, ethanal)",
 492,\Atmosphere\Gas\Reactive Gas\VOC\CH3CN (acetonitrile),CH3CN (acetonitrile),
