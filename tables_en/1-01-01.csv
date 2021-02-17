@@ -389,7 +389,7 @@ notation,path,name,description
 219,\Atmosphere\Radionuclide\Beryllium [Be-7],Beryllium [Be-7],
 220,\Atmosphere\Radionuclide\CO2 [C-14],CO2 [C-14],CO2 with C-14 isotope
 221,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],Krypton (Kr-85 isotope)
-222,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (Pb-210 isotope)
+222,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (210 isotope)
 223,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
 ,Atmosphere\Radionuclide\Beryllium [Be-10],Beryllium [Be-10],"IUPAC: beryllium-10, PubChem CID: 6336616, CAS Number: 14390-89-7"
 ,Atmosphere\Radionuclide\Carbon [C-14],Carbon [C-14],"IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5"
@@ -398,7 +398,7 @@ notation,path,name,description
 ,Atmosphere\Radionuclide\Krypton [Kr-87],Krypton [Kr-87],"IUPAC: krypton-87, PubChem CID: 25087179, CAS Number: 14809-68-8"
 ,Atmosphere\Radionuclide\Krypton [Kr-88],Krypton [Kr-88],"IUPAC: krypton-88, PubChem CID: 25087184, CAS Number: 14995-61-0"
 ,Atmosphere\Radionuclide\Krypton [Kr-89],Krypton [Kr-89],"IUPAC: krypton-89, PubChem CID: 177736, CAS Number: 16316-03-3"
-,Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-211],"IUPAC: lead-211, PubChem CID: 6337094, CAS Number: 15816-77-0"
+,Atmosphere\Radionuclide\Lead [Pb-211],Lead [Pb-211],"IUPAC: lead-211, PubChem CID: 6337094, CAS Number: 15816-77-0"
 ,Atmosphere\Radionuclide\Lead [Pb-212],Lead [Pb-212],"IUPAC: lead-212, PubChem CID: 6335491, CAS Number: 15092-94-1"
 ,Atmosphere\Radionuclide\Lead [Pb-214],Lead [Pb-214],"IUPAC: lead-214, PubChem CID: 6328551, CAS Number: 15067-28-4"
 ,Atmosphere\Radionuclide\Lead [Pb-219],Lead [Pb-219],
