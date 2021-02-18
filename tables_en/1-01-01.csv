@@ -108,16 +108,16 @@ notation,path,name,description
 723,"\Atmosphere\Particle phase\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
 724,"\Atmosphere\Particle phase\Composition\Trace elements\Zinc (Zn), TSP","Zinc (Zn), TSP",
 314,"\Atmosphere\Particle phase\Optical properties\Particle absorption optical depth","Particle absorption optical depth",Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
-315,"\Atmosphere\Particle phase\Optical properties\Particle light extinction coefficient","Particle light extinction coefficient",3D field of spectral volumetric extinction cross-section of aerosol particles.
-316,"\Atmosphere\Particle phase\Optical properties\Particle light absorption coefficient, PM1","Particle light absorption coefficient, PM1",
-317,"\Atmosphere\Particle phase\Optical properties\Particle light absorption coefficient, PM10","Particle light absorption coefficient, PM10",
-318,"\Atmosphere\Particle phase\Optical properties\Particle light absorption coefficient, TSP","Particle light absorption coefficient, TSP",
-319,"\Atmosphere\Particle phase\Optical properties\Particle light backscattering coefficient, PM1","Particle light backscattering coefficient, PM1",
-320,"\Atmosphere\Particle phase\Optical properties\Particle light backscattering coefficient, PM10","Particle light backscattering coefficient, PM10",
-321,"\Atmosphere\Particle phase\Optical properties\Particle light backscattering coefficient, TSP","Particle light backscattering coefficient, TSP",
-322,"\Atmosphere\Particle phase\Optical properties\Particle light scattering coefficient, PM1","Particle light scattering coefficient, PM1",
-323,"\Atmosphere\Particle phase\Optical properties\Particle light scattering coefficient, PM10","Particle light scattering coefficient, PM10",
-324,"\Atmosphere\Particle phase\Optical properties\Particle light scattering coefficient, TSP","Particle light scattering coefficient, TSP",
+315,"\Atmosphere\Particle phase\Optical properties\Light extinction coefficient","Particle light extinction coefficient",3D field of spectral volumetric extinction cross-section of aerosol particles.
+316,"\Atmosphere\Particle phase\Optical properties\Light absorption coefficient, PM1","Particle light absorption coefficient, PM1",
+317,"\Atmosphere\Particle phase\Optical properties\Light absorption coefficient, PM10","Particle light absorption coefficient, PM10",
+318,"\Atmosphere\Particle phase\Optical properties\Light absorption coefficient, TSP","Particle light absorption coefficient, TSP",
+319,"\Atmosphere\Particle phase\Optical properties\Light backscattering coefficient, PM1","Particle light backscattering coefficient, PM1",
+320,"\Atmosphere\Particle phase\Optical properties\Light backscattering coefficient, PM10","Particle light backscattering coefficient, PM10",
+321,"\Atmosphere\Particle phase\Optical properties\Light backscattering coefficient, TSP","Particle light backscattering coefficient, TSP",
+322,"\Atmosphere\Particle phase\Optical properties\Light scattering coefficient, PM1","Particle light scattering coefficient, PM1",
+323,"\Atmosphere\Particle phase\Optical properties\Light scattering coefficient, PM10","Particle light scattering coefficient, PM10",
+324,"\Atmosphere\Particle phase\Optical properties\Light scattering coefficient, TSP","Particle light scattering coefficient, TSP",
 325,"\Atmosphere\Particle phase\Optical properties\Multiwavelength optical depth, gas + particle phase","Multiwavelength optical depth, gas + particle phase",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
 326,"\Atmosphere\Particle phase\Optical properties\Vertical distribution of properties","Vertical distribution of properties",
 361,"\Atmosphere\Particle phase\Physical properties - primary\Particle column burden (mass density)","Particle column burden (mass density)",2D field of the column burden of condensed particles in the atmosphere 
