@@ -1,5 +1,6 @@
 import argparse
 import json
+import os
 
 import requests
 
@@ -41,7 +42,8 @@ def post(session, url, payload):
     #if response.status_code != 200:
         #raise ValueError('Cannot POST to {}, it does not exist.'.format(url))
     params = {'status':'experimental'}
-    res = session.post(url, headers=headers, data=payload.encode("utf-8"), params=params)
+    res = session.post(url, headers=headers, data=payload.encode("utf-8"),
+                       params=params)
     if res.status_code != 201:
         print('POST failed with {}\n{}'.format(res.status_code, res.reason))
 
@@ -50,7 +52,9 @@ def put(session, url, payload):
     response = session.get(url, headers=headers)
     if response.status_code != 200:
         raise ValueError('Cannot PUT to {}, it does not exist.'.format(url))
-    res = session.put(url, headers=headers, data=payload.encode("utf-8"))
+    params = {'status':'experimental'}
+    res = session.put(url, headers=headers, data=payload.encode("utf-8"),
+                      params=params)
 
 def post_uploads(session, rootURL, uploads):
     for postfile in uploads:
@@ -79,6 +83,14 @@ if __name__ == '__main__':
     parser.add_argument("tmode")
     parser.add_argument('uploads')
     args = parser.parse_args()
+
+    if os.path.exists(args.uploads):
+        with open(args.uploads, 'r') as ups:
+            uploads = ups.read()
+    else:
+        uploads = args.uploads
+    uploads = parse_uploads(uploads)
+    print(uploads)
     if args.tmode not in ['test', 'prod']:
         raise ValueError('test mode must be either "test" or "prod"')
     if args.tmode == 'prod':
@@ -91,7 +103,6 @@ if __name__ == '__main__':
             print('Running upload with respect to {}'.format(rooturl))
 
     session = requests.Session()
-    uploads = parse_uploads(args.uploads)
     session = authenticate(session, rooturl, args.user_id, args.passcode)
     print(uploads)
     post_uploads(session, rooturl, uploads['POST'])
