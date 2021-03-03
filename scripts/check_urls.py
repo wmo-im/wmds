@@ -19,6 +19,9 @@ Test will succeed if the registry exists, and all contents is the same as
 in the repository commit.
 All entities must exist, evaluate to the same content, and no entities may be
 remote that are not in the source tree.
+Environment variables control behaviour:
+'tmode=<test|prod>'  - required - check with respect to test or production register
+'outfile=</path/to/writeable/file>' to return the upload syntax to a file 
 """
 
 uploads = {'PUT': [],
@@ -38,6 +41,15 @@ else:
     raise ValueError('Environment option "tmode" required to be "prod|test", but missing.')
 print('Running test with respect to {}'.format(downloadurl))
 
+outfile = os.environ.get('outfile', None)
+if outfile is not None:
+    if not os.path.exists(os.path.dirname(outfile)):
+        raise ValueError('outfile directory does not exist: {}'.format(outfile))
+    elif not os.access(os.path.dirname(outfile), os.W_OK):
+        raise ValueError('outfile directory is not writeable: {}'.format(outfile))
+    elif os.path.exists and not os.access(outfile, os.W_OK):
+        raise ValueError('outfile is not writeable: {}'.format(outfile))
+    
 
 class TestContentsExistance(unittest.TestCase):
     def test_register(self):
@@ -149,3 +161,6 @@ if __name__ == '__main__':
         raise e
     finally:
         print("uploads:\n'{}'".format(json.dumps(uploads)), flush=True)
+        if outfile is not None:
+            with open(outfile, 'w') as ofh:
+                ofh.write(json.dumps(uploads))
