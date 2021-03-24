@@ -391,8 +391,8 @@ notation,path,name,description
 221,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],Krypton (Kr-85 isotope)
 222,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (Pb-210 isotope)
 223,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
-,\Atmosphere\Bioaerosol\Pollen\Total Pollen, Total pollen,All pollen taxa
-,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Total Pinaceae,Pinaceae, Pine family pollen
+,\Atmosphere\Bioaerosol\Pollen\Total Pollen,Total pollen,All pollen taxa
+,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Total Pinaceae,Pinaceae,Pine family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Abies,Abies,Fir pollen
 ,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Picea,Picea,Spruce pollen
 ,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Larix,Larix,Larch pollen
@@ -404,7 +404,7 @@ notation,path,name,description
 ,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Parietaria,Parietaria,Pellitory pollen
 ,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Urtica,Nettle,Nettle pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Total Fagaceae,Total Fagaceae,Beech family pollen
-,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Castanea, Castanea,Sweet chesnut pollen
+,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Castanea,Castanea,Sweet chesnut pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Fagus,Fagus,Beech pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Quercus,Quercus,Oak pollen
 ,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Total Betulaceae,Total Betulaceae,Birch family pollen
@@ -419,7 +419,7 @@ notation,path,name,description
 ,\Atmosphere\Bioaerosol\Pollen\Salicaceae\Salix,Salix,Willow pollen
 ,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Total Oleaceae,Oleaceae,Olive family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Olea,Olea,Olive pollen
-,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Fraxinus_excelsior,Fraxinus_excelsior,European ash pollen
+,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Fraxinus excelsior,Fraxinus excelsior,European ash pollen
 ,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Total Asteraceae,Total Asteraceae,Aster family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Ambrosia,Ambrosia,Ragweed pollen
 ,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Artemisia,Artemisia,Mugwort pollen
