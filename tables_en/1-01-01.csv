@@ -434,7 +434,7 @@ notation,path,name,description
 ,\Atmosphere\Bioaerosol\Pollen\Brassicaceae\Brassica,Brassica,Brassica pollen
 ,\Atmosphere\Bioaerosol\Pollen\Plantaginaceae\Plantago,Plantago,Plantain pollen
 ,\Atmosphere\Bioaerosol\Pollen\Adoxaceae\Sambucus,Sambucus,Sambucus (elder) pollen
-,\Atmosphere\Bioaerosol\Pollen\Polygonaceae\Rumex,Rumex,Rumex (dock, sorrel) pollen
+,\Atmosphere\Bioaerosol\Pollen\Polygonaceae\Rumex,Rumex,"Rumex (dock, sorrel) pollen"
 ,\Atmosphere\Bioaerosol\Pollen\Malvaceae\Tilia,Tilia,Linden pollen
 ,\Atmosphere\Bioaerosol\Pollen\Cannabaceae\Humulus,Humulus,Hop pollen
 ,\Atmosphere\Bioaerosol\Fungi\Pleosporales\Alternaria,Alternaria,Alternaria spores
