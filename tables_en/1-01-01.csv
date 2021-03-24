@@ -400,9 +400,9 @@ notation,path,name,description
 ,\Atmosphere\Bioaerosol\Pollen\Cupressaceae\Total Cupressaceae,Total Cupressaceae,Cypress family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Taxaceae\Total Taxaceae,Total Taxaceae,Yew family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Arecaceae\Total Arecaceae,Total Arecaceae,Palm family pollen
-,\Atmosphere\Bioaerosol\Pollen\Platanaceae\Platanus,Platanaceae,Plane tree pollen
+,\Atmosphere\Bioaerosol\Pollen\Platanaceae\Platanus,Platanus,Plane tree pollen
 ,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Parietaria,Parietaria,Pellitory pollen
-,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Urtica,Nettle,Nettle pollen
+,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Urtica,Urtica,Nettle pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Total Fagaceae,Total Fagaceae,Beech family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Castanea,Castanea,Sweet chesnut pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Fagus,Fagus,Beech pollen
