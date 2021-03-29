@@ -143,13 +143,13 @@ notation,path,name,description
 418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
 39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,
-180,\Atmosphere\Clouds\Cloud cover,Cloud cover,
-181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"Size distribution of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+180,\Atmosphere\Clouds\Cloud cover,Cloud cover,3D field of fraction of sky filled by clouds.
+181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
 328,\Atmosphere\Clouds\Ice\Cloud ice (total column),Cloud ice (total column),Field of atmospheric water in the solid phase (precipitating or not) as total column.
-329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
+329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,"The area weighted mean radius of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
 330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
 331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
 373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
@@ -159,8 +159,8 @@ notation,path,name,description
 507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
 508,\Atmosphere\Clouds\Optical properties\Optical depth within each layer,Optical depth within each layer,
 509,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
-531,\Atmosphere\Clouds\Position\Height of cloud base,Height of cloud base,
-532,\Atmosphere\Clouds\Position\Height of cloud top,Height of cloud top,
+531,\Atmosphere\Clouds\Position\Cloud Base Height,Cloud Base Height,Height of the bottom surface of the cloud
+532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud Top Height,Height of the top of the cloud (highest cloud in case of multi-layer clouds)
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
 188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
 550,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
