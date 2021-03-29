@@ -17,3 +17,12 @@ https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_610,https://codes.wmo.in
 https://codes.wmo.int/wmdr/ProgramAffiliation/IDAF,https://codes.wmo.int/wmdr/ProgramAffiliation/INDAAF
 https://codes.wmo.int/wmdr/ProgramAffiliation/ESRLCCG,https://codes.wmo.int/wmdr/ProgramAffiliation/NOAAGML
 http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_201
+https://codes.wmo.int/wmdr/unit/mg_N_l-1,https://codes.wmo.int/wmdr/unit/mg.l-1
+https://codes.wmo.int/wmdr/unit/mg_S_l-1,https://codes.wmo.int/wmdr/unit/mg.l-1
+https://codes.wmo.int/wmdr/unit/ug_C_m-3,https://codes.wmo.int/wmdr/unit/ug.m-3
+https://codes.wmo.int/wmdr/unit/ug_Cl_m-3,https://codes.wmo.int/wmdr/unit/ug.m-3
+https://codes.wmo.int/wmdr/unit/ug_N_m-3,https://codes.wmo.int/wmdr/unit/ug.m-3
+https://codes.wmo.int/wmdr/unit/ug_S_m-3,https://codes.wmo.int/wmdr/unit/ug.m-3
+https://codes.wmo.int/wmdr/unit/mg_m-3_25C,https://codes.wmo.int/wmdr/unit/ug.m-3
+https://codes.wmo.int/wmdr/unit/ug_m-3_20C,https://codes.wmo.int/wmdr/unit/ug.m-3
+https://codes.wmo.int/wmdr/unit/ug_m-3_25C,https://codes.wmo.int/wmdr/unit/ug.m-3
