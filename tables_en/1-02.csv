@@ -152,10 +152,10 @@ mGal, milligal, "1 Gal = 0.01 m_s-2"
 E, Eötvös, "1 E = 1 mGal / 10 km"
 t.ha-1, (metric) ton per hectare,
 psu, practical salinity unit, "close to 1, determined by CTD"
-ppmv, parts per million by volume dry air,
-ppbv, parts per billion by volume dry air,
-pptv, parts per trillion by volume dry air,
 nm, nanometer, one billionth of a meter (1e-9 m)
+ppmv, parts per million by volume,
+ppbv, parts per billion by volume,
+pptv, parts per trillion by volume,
 km-1,Per kilometer,
 Mm-1,Per megameter,
 missing,(missing),"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
