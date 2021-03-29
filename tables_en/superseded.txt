@@ -26,3 +26,4 @@ https://codes.wmo.int/wmdr/unit/ug_S_m-3,https://codes.wmo.int/wmdr/unit/ug.m-3
 https://codes.wmo.int/wmdr/unit/mg_m-3_25C,https://codes.wmo.int/wmdr/unit/ug.m-3
 https://codes.wmo.int/wmdr/unit/ug_m-3_20C,https://codes.wmo.int/wmdr/unit/ug.m-3
 https://codes.wmo.int/wmdr/unit/ug_m-3_25C,https://codes.wmo.int/wmdr/unit/ug.m-3
+https://codes.wmo.int/wmdr/unit/degrees_true,https://codes.wmo.int/wmdr/unit/deg
