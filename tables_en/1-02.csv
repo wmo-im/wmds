@@ -21,13 +21,12 @@ S, siemens,
 Wb, weber,
 T, tesla,
 H, henry,
-Cel, degree Celsius,
 lm, lumen,
 lx, lux,
 Bq, becquerel,
 Gy, gray,
 Sv, sievert,
-degree_(angle), degree (angle),
+deg, degree (angle),	plane or phase angle
 ', minute (angle),
 '', second (angle),
 l, litre,
@@ -39,7 +38,7 @@ eV, electron volt,
 u, atomic mass unit,
 AU, astronomic unit,
 pc, parsec,
-nautical_mile, nautical mile,
+nmi, nautical mile,
 kt, knot,
 dB, decibel,
 ha, hectare,
@@ -48,12 +47,11 @@ a, year,
 percent, per cent,
 0.001, parts per thousand,
 okta, eights of sky covered by cloud, "The unit of cloud amount is the okta, which is an eighth of the sky dome covered by cloud."
-degrees_true, degrees true,
-deg_s-1, degrees per second,
-degC, degrees Celsius,
-C_m-1, degrees Celsius per metre,
-C_(100m)-1, degrees Celsius per 100 metres,
-DU, Dobson Unit,
+deg_s-1, degrees per second, plane or phase angle per second
+degC, degrees Celsius (°C),
+degC.m-1, degrees Celsius per metre,
+degC.hm-1, degrees Celsius per 100 metres,
+DU, Dobson Unit,"Equivalent to 2.687×1020 molecules m-2 at standard temperature and pressure (273 K, 1 atm pressure), https://glossary.ametsoc.org/wiki/Dobson_unit"
 mon, month,
 s-1, per second (same as hertz),
 s-2, per second squared,
@@ -61,9 +59,9 @@ kt_km-1, knots per 1000 metres,
 ft, foot,
 in, inch,
 dPa_s-1, decipascals per second (microbar per second),
-cb_s-1, centibars per second,
-cb_-1, centibars per 12 hours,
-daPa, dekapascal,
+cb.s-1, centibars per second,1 centibar is equivalent to SI unit 1 kPa
+cb.(12h)-1, centibars per 12 hours,1 centibar is equivalent to SI unit 1 kPa
+daPa, dekapascal,	dekapascal or decapascal
 hPa, hectopascal,
 hPa_s-1, hectopascals per second,
 hPa_h-1, hectopascals per hour,
@@ -75,7 +73,7 @@ kg_kg-1, kilograms per kilogram,
 kg_kg-1_s-1, kilograms per kilogram per second,
 kg_m-2, kilograms per square metre,
 g, acceleration due to gravity,
-gpm, geopotential metre,
+gpm, geopotential metre,"The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)"
 mm, millimetre,
 mm_s-1, millimetres per second,
 mm_h-1, millimetres per hour,
@@ -107,8 +105,6 @@ m3_s-1, cubic metres per second,
 m3_m-3, cubic metres per cubic metre,
 m4, metres to the fourth power,
 m(2_3)_s-1, metres to the two thirds power per second,
-log_(m-1), logarithm per metre,
-log_(m-2), logarithm per square metre,
 kg_m-1, kilograms per metre,
 kg_m-2_s-1, kilograms per square metre per second,
 kg_m-3, kilograms per cubic metre,
@@ -131,20 +127,20 @@ W_m-2_sr-1_cm, watts per square metre per steradian centimetre,
 W_m-2_sr-1_m, watts per square metre per steradian metre,
 W_m-3_sr-1, watts per cubic metre per steradian,
 S_m-1, siemens per metre,
-deg2, square degrees,
+deg2, square degrees, square of phase or plane angle
 Bq_s_m-3, becquerel seconds per cubic metre,
 dB_m-1, decibels per metre,
 dB_deg-1, decibels per degree,
 pH_unit, pH unit,
-N_units, N units,
-unknown, (unknown),
+N_units, N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n – 1). N is therefore dimensionless but values computed by the formula are by convention described as being in "N units". (WMO Manual on Codes I.2)"
+unknown, (unknown),The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists.
 kHz, kilohertz,
 MHz, megahertz,
 GHz, gigahertz,
 THz, terahertz,
 umol_mol-1, micromoles per mole,
-nmol_mol-1, nanomoles per mole, 
-pmol_mol-1, picomoles per mole, 
+nmol_mol-1, nanomoles per mole, Equivalent to expressing mole fraction in ppb
+pmol_mol-1, picomoles per mole, Equivalent to expressing mole fraction in ppt
 mmol_mol-1, millimoles per mole,
 mBq_m-3, millibecquerels per cubic metre, 
 umol_kg-1, micromoles per kilogram,
@@ -168,3 +164,18 @@ psu, practical salinity unit, "close to 1, determined by CTD"
 ppmv, parts per million by volume dry air,
 ppbv, parts per billion by volume dry air,
 pptv, parts per trillion by volume dry air,
+km-1,Per kilometer,
+Mm-1,Per megameter,
+missing,(missing),"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
+inapplicable,(inapplicable),There is no value (categorical data).
+ug.m-3,micrograms per cubic meter, 
+mg.l-1,milligrams per litre, 
+mg.cm-3,milligrams per cubic centimeter, 
+ng.kg-1,nanograms per kilogram,SI unit for mass mixing ratio, equivalent to pptm or ppt
+ug.kg-1,micrograms per kilogram,SI unit for mass mixing ratio, equivalent to ppbm or ppb
+mg.kg-1,milligrams per kilogram,SI unit for mass mixing ratio, equivalent to ppmm or ppm
+um3.cm-3,cubic micrometres per cubic centimetre,SI unit for volumetric mixing ratio, equivalent to pptv
+mm3.m-3,cubic millimetres per cubic metre,SI unit for volumetric mixing ratio, equivalent to ppbv
+cm3.m-3,cubic centimetres per cubic metre,SI unit for volumetric mixing ratio, equivalent to ppmv
+cm-3,per cubic centimetre,
+m-3,per cubic metre	
