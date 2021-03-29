@@ -132,7 +132,7 @@ Bq.s.m-3, becquerel seconds per cubic metre,
 dB.m-1, decibels per metre,
 dB.deg-1, decibels per degree,
 pH_unit, pH unit,
-N_units,N units,""Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n – 1). N is therefore dimensionless but values computed by the formula are by convention described as being in "N units". (WMO Manual on Codes I.2)""
+N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n – 1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'. (WMO Manual on Codes I.2)"
 unknown, (unknown),The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists.
 kHz, kilohertz,
 MHz, megahertz,
