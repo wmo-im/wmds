@@ -72,7 +72,7 @@ g.kg-1.s-1, grams per kilogram per second,
 kg.kg-1, kilograms per kilogram,
 kg.kg-1.s-1, kilograms per kilogram per second,
 kg.m-2, kilograms per square metre,
-g, acceleration due to gravity,
+g0, acceleration due to gravity,
 gpm, geopotential metre,"The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)"
 mm, millimetre,
 mm.s-1, millimetres per second,
