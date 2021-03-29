@@ -162,11 +162,11 @@ inapplicable,(inapplicable),There is no value (categorical data).
 ug.m-3,micrograms per cubic meter, 
 mg.l-1,milligrams per litre, 
 mg.cm-3,milligrams per cubic centimeter, 
-ng.kg-1,nanograms per kilogram,SI unit for mass mixing ratio, equivalent to pptm or ppt
-ug.kg-1,micrograms per kilogram,SI unit for mass mixing ratio, equivalent to ppbm or ppb
-mg.kg-1,milligrams per kilogram,SI unit for mass mixing ratio, equivalent to ppmm or ppm
-um3.cm-3,cubic micrometres per cubic centimetre,SI unit for volumetric mixing ratio, equivalent to pptv
-mm3.m-3,cubic millimetres per cubic metre,SI unit for volumetric mixing ratio, equivalent to ppbv
-cm3.m-3,cubic centimetres per cubic metre,SI unit for volumetric mixing ratio, equivalent to ppmv
+ng.kg-1,nanograms per kilogram,"SI unit for mass mixing ratio, equivalent to pptm or ppt"
+ug.kg-1,micrograms per kilogram,"SI unit for mass mixing ratio, equivalent to ppbm or ppb"
+mg.kg-1,milligrams per kilogram,"SI unit for mass mixing ratio, equivalent to ppmm or ppm"
+um3.cm-3,cubic micrometres per cubic centimetre,"SI unit for volumetric mixing ratio, equivalent to pptv"
+mm3.m-3,cubic millimetres per cubic metre,"SI unit for volumetric mixing ratio, equivalent to ppbv"
+cm3.m-3,cubic centimetres per cubic metre,"SI unit for volumetric mixing ratio, equivalent to ppmv"
 cm-3,per cubic centimetre,
 m-3,per cubic metre	
