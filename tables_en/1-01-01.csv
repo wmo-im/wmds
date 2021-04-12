@@ -133,6 +133,7 @@ notation,path,name,description
 371,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
 728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
 729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
+,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash,Aerosol volcanic ash,
 411,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
 412,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra,CCN concentration spectra,
 413,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 μm equivalent","Hygroscopic growth factor, 110 μm equivalent",
@@ -148,12 +149,10 @@ notation,path,name,description
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
-328,\Atmosphere\Clouds\Ice\Cloud ice (total column),Cloud ice (total column),Field of atmospheric water in the solid phase (precipitating or not) as total column.
 329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
 330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
 331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
 373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
-374,"\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW, total column)","Cloud liquid water (CLW, total column)",Field of atmospheric water in the liquid phase (precipitating or not).
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
 506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
 507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
@@ -210,9 +209,7 @@ notation,path,name,description
 205,\Atmosphere\Gas\Other Gas\H2,H2,H2
 206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),3D field of mole fraction of H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
 207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
-262,\Atmosphere\Gas\Ozone\Surface ozone,Surface ozone,
-263,\Atmosphere\Gas\Ozone\Total column ozone,Total column ozone,
-264,\Atmosphere\Gas\Ozone\Vertical ozone profile,Vertical ozone profile,
+,\Atmosphere\Gas\O3 (ozone),O3 (ozone),
 274,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),BrO (bromine monoxide),
 275,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),C2Cl4 (tetrachloroethene),
 276,\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene),C2HCl3 (trichloroethene),
@@ -319,7 +316,7 @@ notation,path,name,description
 253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
 254,\Atmosphere\Humidity\Object wetness duration,Object wetness duration,
 255,\Atmosphere\Humidity\Water vapour pressure,Water vapour pressure,
-256,\Atmosphere\Humidity\Watervapor profile,Watervapor profile,
+,\Atmosphere\Humidity\Watervapor,Watervapor,
 44,\Atmosphere\Integrated air samples,Integrated air samples,
 12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
 257,\Atmosphere\Lightning\Lightning discharge energy,Lightning discharge energy,
@@ -368,7 +365,6 @@ notation,path,name,description
 215,\Atmosphere\Precipitation\Type of precipitation,Type of precipitation,
 266,\Atmosphere\Present weather\Present weather,Present weather,
 216,\Atmosphere\Pressure\Atmospheric pressure,Atmospheric pressure,
-12000,\Atmosphere\Pressure\Atmospheric pressure profile,Atmospheric pressure profile,Upper-air atmospheric pressure
 217,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,
 218,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,
 267,\Atmosphere\Radiation\Background luminance,Background luminance,
@@ -396,7 +392,7 @@ notation,path,name,description
 224,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
 225,\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface),Dew-point temperature (at specified distance from reference surface),
 226,"\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)","Extreme temperature (min, max) (at specified distance from reference surface)",
-227,\Atmosphere\Temperature\Temperature profile,Temperature profile,
+,\Atmosphere\Temperature\Temperature,Temperature,
 294,\Atmosphere\Total Atmospheric Deposition\Acidity-Alkalinity,Acidity-Alkalinity,
 295,\Atmosphere\Total Atmospheric Deposition\Electric conductivity,Electric conductivity,
 296,\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH,Hydrogen ion (H+) or pH,
