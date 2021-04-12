@@ -143,7 +143,7 @@ notation,path,name,description
 418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
 39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,"Fraction of the sky covered by clouds of a particular type or combination. It can refer to a genus, species, variety, layer, or a certain combination of clouds. Also, see 'cloud cover'."
-180,\Atmosphere\Clouds\Cloud cover,Cloud cover,3D field of fraction of sky filled by clouds. Also, see 'cloud amount'.
+180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"3D field of fraction of sky filled by clouds. Also, see 'cloud amount'."
 181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
