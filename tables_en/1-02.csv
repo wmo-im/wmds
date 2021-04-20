@@ -155,13 +155,13 @@ psu, practical salinity unit, "close to 1, determined by CTD"
 ppmv, parts per million by volume,
 ppbv, parts per billion by volume,
 pptv, parts per trillion by volume,
-km-1,Per kilometer,
-Mm-1,Per megameter,
+km-1,Per kilometre,
+Mm-1,Per megametre,
 missing,(missing),"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
 inapplicable,(inapplicable),There is no value (categorical data).
-ug.m-3,micrograms per cubic meter, 
+ug.m-3,micrograms per cubic metre, 
 mg.l-1,milligrams per litre, 
-mg.cm-3,milligrams per cubic centimeter, 
+mg.cm-3,milligrams per cubic centimetre, 
 ng.kg-1,nanograms per kilogram,"SI unit for mass mixing ratio, equivalent to pptm or ppt"
 ug.kg-1,micrograms per kilogram,"SI unit for mass mixing ratio, equivalent to ppbm or ppb"
 mg.kg-1,milligrams per kilogram,"SI unit for mass mixing ratio, equivalent to ppmm or ppm"
