@@ -167,7 +167,7 @@ notation,path,name,description
 551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
 552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
 553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
-,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either liquid, ice, or mixed." 
+,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either liquid, ice, or mixed."
 248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
