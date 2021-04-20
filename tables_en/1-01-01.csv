@@ -143,13 +143,13 @@ notation,path,name,description
 418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
 39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,"Fraction of the sky covered by clouds of a particular type or combination. It can refer to a genus, species, variety, layer, or a certain combination of clouds. Also, see 'cloud cover'."
-180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"3D field of fraction of sky filled by clouds. Also, see 'cloud amount'."
-181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"Fraction of sky filled by clouds. Also, see 'cloud amount'."
+181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
 328,\Atmosphere\Clouds\Ice\Cloud ice (total column),Cloud ice (total column),Field of atmospheric water in the solid phase (precipitating or not) as total column.
-329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"The area weighted mean radius of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"The area weighted mean radius of ice particles, assimilated to spheres of the same volume."
 330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
 331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
 373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
@@ -167,7 +167,7 @@ notation,path,name,description
 551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
 552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
 553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
-,\Atmosphere\Clouds\Cloud phase, Cloud phase, 
+,\Atmosphere\Clouds\Cloud phase, Cloud phase,"Aggregate state of cloud particles, either liquid, ice, or mixed." 
 248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
