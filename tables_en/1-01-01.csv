@@ -108,7 +108,7 @@ notation,path,name,description
 723,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
 724,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",
 314,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
-315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
+315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,Spectral volumetric extinction cross-section of aerosol particles.
 316,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
 317,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
 318,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",
@@ -121,7 +121,7 @@ notation,path,name,description
 325,"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
 326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
-362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
+362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"Mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
 727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
 364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
 365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
@@ -131,7 +131,7 @@ notation,path,name,description
 369,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
 370,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",
 371,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
-728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
+728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),Mass mixing ratio of volcanic ash
 729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
 ,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash,Aerosol volcanic ash,
 411,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
@@ -142,17 +142,17 @@ notation,path,name,description
 416,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 μm equivalent","Hygroscopic growth factor, 50 μm equivalent",
 417,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 μm equivalent","Hygroscopic growth factor, 75 μm equivalent",
 418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
-39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
+39,\Atmosphere\Atmospheric density,Atmospheric density,Density of the atmosphere.
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,
 180,\Atmosphere\Clouds\Cloud cover,Cloud cover,
-181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"Size distribution of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"Size distribution of liquid water drops, assimilated to spheres of the same volume."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
-327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
-329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
+327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,Atmospheric water in the solid phase (precipitating or not). 
+329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume."
 330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
-331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
-373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
+331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"Super-cooled liquid water, enabling the formation of ice coating on an object. "
+373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),Atmospheric water in the liquid phase (precipitating or not).
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
 506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
 507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
@@ -161,13 +161,13 @@ notation,path,name,description
 531,\Atmosphere\Clouds\Position\Height of cloud base,Height of cloud base,
 532,\Atmosphere\Clouds\Position\Height of cloud top,Height of cloud top,
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
-188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
+188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
 550,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
 551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
 552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
 553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
 248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
-249,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
+249,\Atmosphere\Dynamics\Turbulence,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
 589,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)","C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)",
 590,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)","C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)",
@@ -207,8 +207,8 @@ notation,path,name,description
 203,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,SF6
 204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride)
 205,\Atmosphere\Gas\Other Gas\H2,H2,H2
-206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),3D field of mole fraction of H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
-207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
+206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
+207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
 ,\Atmosphere\Gas\O3 (ozone),O3 (ozone),
 274,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),BrO (bromine monoxide),
 275,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),C2Cl4 (tetrachloroethene),
