@@ -169,4 +169,6 @@ um3.cm-3,cubic micrometres per cubic centimetre,"SI unit for volumetric mixing r
 mm3.m-3,cubic millimetres per cubic metre,"SI unit for volumetric mixing ratio, equivalent to ppbv"
 cm3.m-3,cubic centimetres per cubic metre,"SI unit for volumetric mixing ratio, equivalent to ppmv"
 cm-3,per cubic centimetre,
-m-3,per cubic metre,	
+m-3,per cubic metre,
+um,micrometre, 
+nm,nanometre, 
