@@ -1,6 +1,6 @@
 notation,path,name,description
 37,\Atmosphere\Aerological soundings,Aerological soundings,
-,\Atmosphere\Height of the top of the PBL,Height of the top of the PBL,Height of the surface separating the PBL (Planetary boundary layer) from the free atmosphere
+,\Atmosphere\Height of the top of the PBL,Height of the surface above ground separating the PBL from the free atmosphere.
 579,"\Atmosphere\Aerosol\Composition\Acidity-Alkalinity, total aerosol","Acidity-Alkalinity, total aerosol",
 614,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1","Chloride (Cl-), PM1",
 615,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM10","Chloride (Cl-), PM10",
