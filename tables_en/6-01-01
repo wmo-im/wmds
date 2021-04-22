@@ -1,0 +1,11 @@
+notation,name,description
+1,PM0.001,Particles with diameter 0.001 µm
+2,nucleation,"PM0.001 - PM0.1, particles with diameter from 0.001 to 0.1 µm (nucleation mode)"
+3,PM0.1,Particles with diameter under 1 µm
+4,accumulation,"PM0.1 - PM1, particles with diameter from 0.1 to 1 µm (accumulation mode)"
+5,fine,"PM1, particles with diameter under 1 µm (fine mode)"
+6,coarse,Particles with diameter greater than 1 µm (coarse mode)
+7,PM2.5,Particles with diameter under 2.5 µm
+8,PM2.5 - PM10,Particles with diameter from 2.5 to 10 µm
+9,PM10,Particles with diameter under 10 µm
+10,total,No distinction in particle size
