@@ -171,7 +171,7 @@ notation,path,name,description
 249,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
 notation,path,name,description
-589,\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114),C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114),"IUPAC: 1,2-dichloro-1,1,2,2-tetrafluoroethane, PubChem CID: 6429, CAS Number: 76-14-2"
+589,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)","C2Cl2F4 (1,2-dichlorotetrafluoroethane", CFC-114),"IUPAC: 1,2-dichloro-1,1,2,2-tetrafluoroethane, PubChem CID: 6429, CAS Number: 76-14-2"
 590,\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113),C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113),"IUPAC: 1,1,2-trichloro-1,2,2-trifluoroethane, PubChem CID: 6428, CAS Number: 76-13-1"
 591,\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115),C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115),"IUPAC: 1-chloro-1,1,2,2,2-pentafluoroethane, PubChem CID: 6430, CAS Number: 76-15-3"
 592,\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12),CCl2F2 (dichlorodifluoromethane, CFC-12),"IUPAC: dichloro(difluoro)methane, PubChem CID: 6391, CAS Number: 75-71-8"
