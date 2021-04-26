@@ -11,3 +11,7 @@ name,description,notation
 "Sieving","Sample is sieved before analysis","sieving"
 "(other)","Other sample treatment","other"
 "(unknown)","unknown","unknown"
+"Filtering","Sample is filtered before analysis to remove particles","filtering"
+"Chemical denudation","Sample is stripped from its matrix by chemical denudation","denudation"
+"Chemical conversion","Sample is chemically converted before analysis","conversion"
+"Thermal decomposition","Sample is thermally decomposed before analysis","decomposition"
