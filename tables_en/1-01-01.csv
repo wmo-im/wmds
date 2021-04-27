@@ -175,7 +175,9 @@ notation,path,name,description
 591,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)",
 592,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)","CCl2F2 (dichlorodifluoromethane, CFC-12)",
 593,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)","CCl3F (trichlorofluoromethane, CFC-11)",
-192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"1D variable colloquially referred to as ""wave spectrum"". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation "
+,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CClF3 (chlorotrifluoromethane, CFC-13)","CClF3 (chlorotrifluoromethane, CFC-13)","IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9"
+,"\Atmosphere\Gas\Greenhouse Gas\CH3D (deuterated methane, methane-d)","CH3D (deuterated methane, methane-d)","IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3"
+192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8"
 193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
 194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
 195,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],CO2 with C-13 isotope
@@ -184,6 +186,7 @@ notation,path,name,description
 595,"\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CH3CCl3 (1,1,1-trichloroethane)","CH3CCl3 (1,1,1-trichloroethane)",
 332,\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211),CBrClF2 (Halon 1211),
 333,"\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)","CBrF3 (bromotrifluoromethane, Halon 1301)",
+,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)","C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)","IUPAC: 2-chloro-1,1,1,2-tetrafluoroethane, PubChem CID: 17822, CAS Number: 2837-89-0"
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",
 535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",
 536,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)",
@@ -191,16 +194,19 @@ notation,path,name,description
 554,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)",
 555,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)",
 556,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)",
-557,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)","C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)",
+557,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236ea)","C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236ea)","IUPAC: 1,1,1,2,3,3-hexafluoropropane, PubChem CID: 79009, CAS Number: 431-63-0"
 558,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)","C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)",
 559,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)","C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)",
 560,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)",
+,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C5H2F10 (1,1,1,2,2,3,4,5,5,5-decafluoropentane, HFC-43-10-mee)","C5H2F10 (1,1,1,2,2,3,4,5,5,5-decafluoropentane, HFC-43-10-mee)","IUPAC: 1,1,1,2,2,3,4,5,5,5-decafluoropentane, PubChem CID: 86240, CAS Number: 138495-42-8"
 561,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)","CH2F2 (difluoromethane, HFC-32)",
 562,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)","CHF3 (trifluoromethane, HFC-23)",
 201,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,N2O
+,\Atmosphere\Gas\Greenhouse Gas\NF3 (nitrogen trifluoride),NF3 (nitrogen trifluoride),"IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2"
 419,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)",
 420,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)",
 421,"\Atmosphere\Gas\Greenhouse Gas\PFCs\CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)","CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)",
+,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C4F8 (octafluorocyclobutane, PFC-318)","C4F8 (octafluorocyclobutane, PFC-318)","IUPAC: 1,1,2,2,3,3,4,4-octafluorocyclobutane, PubChem CID: 8263, CAS Number: 115-25-3"
 203,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,SF6
 204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride)
 205,\Atmosphere\Gas\Other Gas\H2,H2,H2
