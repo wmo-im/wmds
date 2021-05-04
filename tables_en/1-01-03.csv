@@ -19,7 +19,7 @@ notation,path,name,description
 78,\Ocean\Miscellaneous\Total alkalinity (TA),Total alkalinity (TA),The amount of acid necessary to titrate all weak bases in seawater.
 79,\Ocean\Miscellaneous\pH,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity."
 82,\Ocean\Biology\SiO3= (metasilicate),SiO3= (metasilicate),
-84,"\Ocean\Other Gas\N2, Ar, O2 ","N2, Ar, O2 ",
+84,"\Ocean\Other Gas\N2, Ar, O2 ",N2, Ar, O2 ,
 85,\Ocean\Other Gas\O2-Ar ratio,O2-Ar ratio,
 86,\Ocean\Other Gas\Ocean subsurface dissolved oxygen concentration,Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen.
 87,"\Ocean\Other Gas\Oxygen, dissolved","Oxygen, dissolved",
