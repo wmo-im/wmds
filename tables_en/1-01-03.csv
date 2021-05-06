@@ -20,10 +20,10 @@ notation,path,name,description
 79,\Ocean\Biogeochemistry\Inorganic Carbon,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity."
 82,\Ocean\Biogeochemistry\SiO3= (metasilicate),SiO3= (metasilicate),Concentration of dissolved metasilicate.
 85,\Ocean\Biogeochemistry\O2-Ar ratio,O2-Ar ratio,Ratio of O2/Ar concentrations.
-86,\Ocean\Biogeochemistry\Oxygen,Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen.
-87,\Ocean\Biogeochemistry\Oxygen,Disolved Oxygen,Concentration of dissolved oxygen (O2) in the water column.
-89,\Ocean\Physical\Radiation,Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area ,per wavelength and per solid angle."
-90,\Ocean\Biogeochemistry\Volatile liquid,C2H6S (dimethylsulfide, DMS),Concentration of DMS.
+86,\Ocean\Biogeochemistry\Oxygen\Ocean subsurface dissolved oxygen concentration,Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen.
+87,\Ocean\Biogeochemistry\Oxygen\Disolved Oxygen,Disolved Oxygen,Concentration of dissolved oxygen (O2) in the water column.
+89,\Ocean\Physical\Radiation\Water-leaving spectral radiance,Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area ,per wavelength and per solid angle."
+90,"\Ocean\Biogeochemistry\Volatile liquid\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",Concentration of DMS.
 91,\Ocean\Physical\Subsurface Salinity,Subsurface Salinity,Salinity of seawater with depth.
 92,\Ocean\Physical\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW).
 94,\Ocean\Physical\Subsurface Temperature,Subsurface temperature,Seawater temperature measured with depth (degrees celsius/kelvin).
@@ -35,9 +35,9 @@ notation,path,name,description
 101,\Ocean\Physical\Sea State,Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
 102,\Ocean\Physical\Sea State,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."
 103,\Ocean\Physical\Ocean Surface Stress,Wind Stress,The shear force per unit area exerted by wind blowing over the sea surface.
-311,\Ocean\Biogeochemistry\Nutrients,Nitrite (NO2 - ),Nitrite concentration in sea water.
-312,\Ocean\Biogeochemistry\Nutrients,Nitrate (NO3 - ),Nitrate concentration in sea water.
-399,\Ocean\Biogeochemistry\Nutrients,Phosphate (PO4),Concentration of phosphate in sea water.
+311,\Ocean\Biogeochemistry\Nutrients\NO2- (nitrite),NO2- (nitrite),Nitrite concentration in sea water.
+312,\Ocean\Biogeochemistry\Nutrients\NO3- (nitrate),NO3- (nitrate),Nitrate concentration in sea water.
+399,\Ocean\Biogeochemistry\Nutrients\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water.
 400,\Ocean\Biogeochemistry\Phosporus species,Total organic phosphorus,Concentration of dissolved organic phosphorous.
 401,\Ocean\Cryosphere\Sea ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
 402,\Ocean\Cryosphere\Sea ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
@@ -51,16 +51,16 @@ notation,path,name,description
 731,\Ocean\Physical\Conductivity,Conductivity,Conductivity measured by CTD or MicroCAT.
 732,\Ocean\Physical\Density,Density,Density measured by CTD.
 733,\Ocean\Biology\Zooplankton (size and-or development stage),Zooplankton (size and-or development stage),"Aggregate of animal or animal-like organisms in plankton, as protozoans."
-735,\Ocean\Biogeochemistry\Inorganic Carbon,pCO2,Partial pressure of CO2.
-736,\Ocean\Biogeochemistry\Inorganic Carbon,pCO2 air-sea flux,Flux of CO2 from the ocean into the atmosphere.
+735,\Ocean\Biogeochemistry\Inorganic Carbon\pCO2,pCO2,Partial pressure of CO2.
+736,\Ocean\Biogeochemistry\Inorganic Carbon\pCO2 air-sea flux,pCO2 air-sea flux,Flux of CO2 from the ocean into the atmosphere.
 739,\Ocean\Physical\Fluorescence (DOM),Fluorescence (DOM),Flurometric coloured dissolved Organic matter concentration.
-740,\Ocean\Physical\Sea Surface height,Mean dynamic topography (MDT),
-741,\Ocean\Physical\Sea Surface height,Mean sea surface (MSS),
-742,\Ocean\Physical\Sea Surface height,Sea surface height (SSH, OST),
-743,\Ocean\Physical\Sea State,Wave height,Average of height (trough to crest) of the waves sampled over a specified time period.
-744,\Ocean\Physical\Sea State,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
-745,\Ocean\Physical\Sea State,Directional waves,Waves measured in X,Y,Z directions.
-10080,\Ocean\Physical\Sea Surface height,Tides,
+740,\Ocean\Physical\Sea Surface height\Mean dynamic topography (MDT),Mean dynamic topography (MDT),
+741,\Ocean\Physical\Sea Surface height\Mean sea surface (MSS),Mean sea surface (MSS),
+742,\Ocean\Physical\Sea Surface height\Sea surface height (SSH, OST),Sea surface height (SSH, OST),
+743,\Ocean\Physical\Sea State\Wave height,Wave height,Average of height (trough to crest) of the waves sampled over a specified time period.
+744,\Ocean\Physical\Sea State\Wave period,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
+745,\Ocean\Physical\Sea State\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."
+10080,\Ocean\Physical\Sea Surface height\Tides,Tides,
 ,"\Ocean\Biogeochemistry\Other Gas\N2, Ar","N2, Ar",Concentration of dissolved N2 and Ar.
 ,\Ocean\Biology\Plankton\Zooplankton biomass and diversity,Zooplankton biomass and diversity,Diversity: # species per unit sample Biomass: weight by volume (mg/l).
 unknown,,unknown,The variable is unknown.
