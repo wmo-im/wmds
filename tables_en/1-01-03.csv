@@ -28,7 +28,7 @@ notation,path,name,description
 92,\Ocean\Physical\Sea surface salinity,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW).
 94,\Ocean\Physical\Subsurface Temperature,Subsurface temperature,Seawater temperature measured with depth (degrees celsius/kelvin).
 95,\Ocean\Physical\Sea Surface Temperature,Sea Surface Temperature,"Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm."
-96,\Ocean\Physical\Sea Surface height,Coastal sea level (tide),Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced).
+96,\Ocean\Physical\Sea Surface height\Coastal sea level (tide),Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)."
 98,\Ocean\Physical\Sea State,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
 99,\Ocean\Physical\Sea State,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
 100,\Ocean\Physical\Sea State,Significant wave height,Average amplitude of the highest 33 out of 100 waves.
