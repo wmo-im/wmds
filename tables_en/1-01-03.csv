@@ -8,7 +8,7 @@ notation,path,name,description
 67,\Ocean\Biogeochemistry\Inorganic Carbon,Dissolved Inorganic Carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution."
 68,\Ocean\Biogeochemistry\Dissolved Organic Carbon,Dissolved organic carbon,Concentration of dissolved organic carbon.
 69,\Ocean\Biogeochemistry\Nitrogen species,Dissolved organic nitrogen,Concentration of dissolved organic nitrogen.
-70,\Ocean\Physical\Diffuse attenuation coefficient (DAC), turbidity,Diffuse attenuation coefficient (DAC), turbidity,Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation.
+70,"\Ocean\Physical\Diffuse attenuation coefficient (DAC), turbidity","Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation."
 71,\Ocean\Biogeochemistry\Inorganic Carbon,Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
 72,\Ocean\Biogeochemistry\Particulate Matter,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3)."
 73,\Ocean\Biogeochemistry\Oil spill cover,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
