@@ -3,21 +3,21 @@ notation,path,name,description
 18,\Ocean\Physical\Pressure,Pressure,Pressure(depth) measured by CTD.
 62,\Ocean\Currents\Ocean Current - Direction,Ocean Current - Direction,
 63,\Ocean\Currents\Ocean Current - Speed,Ocean Current - Speed,Ocean motion measured at various depth levels.
-64,\Ocean\Physical\Sea Surface height,Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects).
+64,\Ocean\Physical\Sea Surface height\Ocean dynamic topography (ODT),Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects).
 65,\Ocean\Physical\Surface Currents,Surface Currents,Ocean Vector motion measured at or near the surface (at stated depth).
-67,\Ocean\Biogeochemistry\Inorganic Carbon,Dissolved Inorganic Carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution."
+67,\Ocean\Biogeochemistry\Inorganic Carbon\Dissolved Inorganic Carbon (DIC),Dissolved Inorganic Carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution."
 68,\Ocean\Biogeochemistry\Dissolved Organic Carbon,Dissolved organic carbon,Concentration of dissolved organic carbon.
-69,\Ocean\Biogeochemistry\Nitrogen species,Dissolved organic nitrogen,Concentration of dissolved organic nitrogen.
+69,\Ocean\Biogeochemistry\Nitrogen species\Dissolved organic nitrogen,Dissolved organic nitrogen,Concentration of dissolved organic nitrogen.
 70,"\Ocean\Physical\Diffuse attenuation coefficient (DAC), turbidity","Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation."
-71,\Ocean\Biogeochemistry\Inorganic Carbon,Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
-72,\Ocean\Biogeochemistry\Particulate Matter,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3)."
+71,\Ocean\Biogeochemistry\Inorganic Carbon\Chlorophyll a concentration,Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
+72,\Ocean\Biogeochemistry\Particulate Matter\Ocean suspended sediments concentration,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3)."
 73,\Ocean\Biogeochemistry\Oil spill cover,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
 74,\Ocean\Biology\Primary Production,Primary production,
 75,\Ocean\Physical\Sea surface Mass Flux,Sea surface Mass Flux,Sea surface Mass Flux.
 76,\Ocean\Physical\Ocean Surface Heat Flux,Ocean Surface heat flux,"The  exchange of heat, per unit area, crossing the surface between the ocean and the atmosphere.  It consists of the turbulent (latent and sensible) and the radiative (short wave and long wave) components."
 77,\Ocean\Physical\Sea Surface height,Sea surface height anomaly (SSHA),Sea surface height anomaly.
-78,\Ocean\Biogeochemistry\Inorganic Carbon,Total alkalinity (TA),The amount of acid necessary to titrate all weak bases in seawater.
-79,\Ocean\Biogeochemistry\Inorganic Carbon,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity."
+78,\Ocean\Biogeochemistry\Inorganic Carbon\Total alkalinity (TA),Total alkalinity (TA),The amount of acid necessary to titrate all weak bases in seawater.
+79,\Ocean\Biogeochemistry\Inorganic Carbon\pH,pH,"The hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity."
 82,\Ocean\Biogeochemistry\SiO3= (metasilicate),SiO3= (metasilicate),Concentration of dissolved metasilicate.
 85,\Ocean\Biogeochemistry\O2-Ar ratio,O2-Ar ratio,Ratio of O2/Ar concentrations.
 86,\Ocean\Biogeochemistry\Oxygen\Ocean subsurface dissolved oxygen concentration,Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen.
@@ -29,16 +29,16 @@ notation,path,name,description
 94,\Ocean\Physical\Subsurface Temperature,Subsurface temperature,Seawater temperature measured with depth (degrees celsius/kelvin).
 95,\Ocean\Physical\Sea Surface Temperature,Sea Surface Temperature,"Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm."
 96,\Ocean\Physical\Sea Surface height\Coastal sea level (tide),Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)."
-98,\Ocean\Physical\Sea State,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
-99,\Ocean\Physical\Sea State,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
-100,\Ocean\Physical\Sea State,Significant wave height,Average amplitude of the highest 33 out of 100 waves.
-101,\Ocean\Physical\Sea State,Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
-102,\Ocean\Physical\Sea State,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."
-103,\Ocean\Physical\Ocean Surface Stress,Wind Stress,The shear force per unit area exerted by wind blowing over the sea surface.
+98,\Ocean\Physical\Sea State\Dominant wave direction,Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
+99,\Ocean\Physical\Sea State\Dominant wave period,Dominant wave period,The period of the most energetic wave in the ocean wave spectrum.
+100,\Ocean\Physical\Sea State\Significant wave height,Significant wave height,Average amplitude of the highest 33 out of 100 waves.
+101,\Ocean\Physical\Sea State\Wave 1D energy frequency spectrum,Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
+102,\Ocean\Physical\Sea State\Wave directional energy frequency spectrum,Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."
+103,\Ocean\Physical\Ocean Surface Stress\Wind Stress,Wind Stress,The shear force per unit area exerted by wind blowing over the sea surface.
 311,\Ocean\Biogeochemistry\Nutrients\NO2- (nitrite),NO2- (nitrite),Nitrite concentration in sea water.
 312,\Ocean\Biogeochemistry\Nutrients\NO3- (nitrate),NO3- (nitrate),Nitrate concentration in sea water.
 399,\Ocean\Biogeochemistry\Nutrients\PO4= (phosphate),PO4= (phosphate),Phosphate concentration in sea water.
-400,\Ocean\Biogeochemistry\Phosporus species,Total organic phosphorus,Concentration of dissolved organic phosphorous.
+400,\Ocean\Biogeochemistry\Phosporus species\Total organic phosphorus,Total organic phosphorus,Concentration of dissolved organic phosphorous.
 401,\Ocean\Cryosphere\Sea ice\Sea-ice cover,Sea-ice cover,Fraction of an ocean area where ice is present.
 402,\Ocean\Cryosphere\Sea ice\Sea-ice elevation,Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level.
 403,\Ocean\Cryosphere\Sea ice\Sea-ice motion,Sea-ice motion,Sea-ice motion.
@@ -46,8 +46,8 @@ notation,path,name,description
 405,\Ocean\Cryosphere\Sea ice\Sea-ice surface temperature,Sea-ice surface temperature,Temperature of the surface of sea-ice.
 406,\Ocean\Cryosphere\Sea ice\Sea-ice thickness,Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density
 407,\Ocean\Cryosphere\Sea ice\Sea-ice type,Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.) - Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
-408,\Ocean\Physical\CTD,Transmissivity,
-549,\Ocean\Biogeochemistry\CTD ,pO2,partial pressure of O2.
+408,\Ocean\Physical\CTD\Transmissivity,Transmissivity,
+549,\Ocean\Biogeochemistry\CTD\pO2,pO2,partial pressure of O2.
 731,\Ocean\Physical\Conductivity,Conductivity,Conductivity measured by CTD or MicroCAT.
 732,\Ocean\Physical\Density,Density,Density measured by CTD.
 733,\Ocean\Biology\Zooplankton (size and-or development stage),Zooplankton (size and-or development stage),"Aggregate of animal or animal-like organisms in plankton, as protozoans."
