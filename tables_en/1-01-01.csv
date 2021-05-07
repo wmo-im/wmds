@@ -143,7 +143,7 @@ notation,path,name,description
 418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
 39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,"Fraction of the sky covered by clouds of a particular type or combination. It can refer to a genus, species, variety, layer, or a certain combination of clouds. Also, see 'cloud cover'."
-180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"Fraction of sky filled by clouds. Also, see 'cloud amount'."
+180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"The amount of sky estimated to be covered by a specified cloud type (partial cloud amount), or by all cloud types (total cloud amount). In either case, the estimate is made to the nearest okta (eighth) and is reported on a scale which is essentially one of the nearest eighth, except that figures 0 and 8 on the scale signify a completely clear and cloudy sky, respectively, with consequent adjustment to the adjacent 1 and 7 okta intervals."
 181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
@@ -157,17 +157,17 @@ notation,path,name,description
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
 506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
 507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
-508,\Atmosphere\Clouds\Optical properties\Optical depth within each layer,Optical depth within each layer,
+508,\Atmosphere\Clouds\Optical properties\Optical depth within each cloud layer,Optical depth within each cloud layer,
 509,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
-531,\Atmosphere\Clouds\Position\Cloud Base Height,Cloud Base Height,Height of the bottom surface of the cloud above ground
-532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud Top Height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above ground
+531,\Atmosphere\Clouds\Position\Cloud Base Height,Cloud Base Height,"For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."
+532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud Top Height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above mean sea level.
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
 188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
 550,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
 551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
 552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
 553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
-,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either liquid, ice, or mixed."
+,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
 248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
