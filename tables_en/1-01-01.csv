@@ -25,7 +25,7 @@ new id,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorgani
 new id,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components,Other chemical components,
 663,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate), in aerosol",
 662,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1","C2H3O2- (CH3COO-, acetate), PM1",
-new id,\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate),C2O4= (oxalate, ethanedioate),"IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5"
+new id,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate)","C2O4= (oxalate, ethanedioate)","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5"
 new id,\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate),CH3O3S- (methanesulphonate),"IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0"
 669,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), in aerosol",
 new id,\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous-organic materia,Carbonaceous-organic material,
