@@ -60,7 +60,7 @@ new id,\Atmosphere\Aerosol\Composition\Trace elements\Zn (Zinc),Zn (Zinc),
 314,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
 315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
 new id,\Atmosphere\Aerosol\Optical properties\Light absorption coefficient,Light absorption coefficient,
-new id,\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient,Light backscattering coefficient,322,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1","Light scattering coefficient, PM1",
+new id,\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient,Light backscattering coefficient,
 new id,\Atmosphere\Aerosol\Optical properties\Light scattering coefficient,Light scattering coefficient,
 new id,\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth,Multiwavelength optical depth,
 326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
