@@ -63,5 +63,6 @@ notation,path,name,description
 10080,\Ocean\Physical\Sea Surface height\Tides,Tides,
 ,"\Ocean\Biogeochemistry\Other Gas\N2, Ar","N2, Ar",Concentration of dissolved N2 and Ar.
 ,\Ocean\Biology\Plankton\Zooplankton biomass and diversity,Zooplankton biomass and diversity,Diversity: # species per unit sample Biomass: weight by volume (mg/l).
+,\Ocean\Biogeochemistry\Ocean subsurface tracers,Ocean subsurface tracers,Concentration of trace molecules such as tritium and CFCs
 unknown,,unknown,The variable is unknown.
 inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
