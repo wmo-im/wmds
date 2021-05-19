@@ -321,7 +321,7 @@ new id, ,C3H8O (2-propanol),"IUPAC: Propan-2-ol, PubChem CID: 3776, CAS Number: 
 new id, ,C4H4O (furan),"IUPAC: Furan, PubChem CID: 8029, CAS Number: 110-00-9"
 new id, ,C5H6O (2-methylfuran),"IUPAC: 2-Methylfuran, PubChem CID: 10797, CAS Number: 534-22-5"
 new id, ,C5H6O (3-methylfuran),"IUPAC: 3-Methylfuran, PubChem CID: 13587, CAS Number: 930-27-8"
-new id, ,C3H3N (2-propenenitrile, acrylonitrile),"IUPAC: Prop-2-enenitrile, PubChem CID: 7855, CAS Number: 107-13-1"
+new id, ,"C3H3N (2-propenenitrile, acrylonitrile)","IUPAC: Prop-2-enenitrile, PubChem CID: 7855, CAS Number: 107-13-1"
 new id, ,C3H5N (propanenitrile),"IUPAC: Propanenitrile, PubChem CID: 7854, CAS Number: 107-12-0"
 new id, ,"C4H5N (2-methyl-2-propenenitrile, methylacrylonitrile)","IUPAC: 2-Methylprop-2-enenitrile, PubChem CID: 31368, CAS Number: 126-98-7"
 new id, ,CH3NO3 (methyl nitrate),"IUPAC: Methyl nitrate, PubChem CID: 11724,  CAS Number: 598-58-3"
