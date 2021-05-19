@@ -316,6 +316,33 @@ notation,path,name,description
 494,\Atmosphere\Gas\Reactive Gas\VOC\NMHC,NMHC,
 504,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),
 505,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),
+new id, ,C3H8O (1-propanol),"IUPAC: Propan-1-ol, PubChem CID: 1031, CAS Number: 71-23-8"
+new id, ,C3H8O (2-propanol),"IUPAC: Propan-2-ol, PubChem CID: 3776, CAS Number: 67-63-0"
+new id, ,C4H4O (furan),"IUPAC: Furan, PubChem CID: 8029, CAS Number: 110-00-9"
+new id, ,C5H6O (2-methylfuran),"IUPAC: 2-Methylfuran, PubChem CID: 10797, CAS Number: 534-22-5"
+new id, ,C5H6O (3-methylfuran),"IUPAC: 3-Methylfuran, PubChem CID: 13587, CAS Number: 930-27-8"
+new id, ,C3H3N (2-propenenitrile acrylonitrile),"IUPAC: Prop-2-enenitrile, PubChem CID: 7855, CAS Number: 107-13-1"
+new id, ,C3H5N (propanenitrile),"IUPAC: Propanenitrile, PubChem CID: 7854, CAS Number: 107-12-0"
+new id, ,"C4H5N (2-methyl-2-propenenitrile, methylacrylonitrile)","IUPAC: 2-Methylprop-2-enenitrile, PubChem CID: 31368, CAS Number: 126-98-7"
+new id, ,CH3NO3 (methyl nitrate),"IUPAC: Methyl nitrate, PubChem CID: 11724,  CAS Number: 598-58-3"
+new id, ,C2H5NO3 (ethyl nitrate),"IUPAC: Ethyl nitrate, PubChem CID: 12259, CAS Number: 625-58-1"
+new id, ,C3H7NO3 (isopropyl nitrate),"IUPAC: Propan-2-yl nitrate, PubChem CID: 15575, CAS Number: 1712-64-7"
+new id, ,C4H9NO3 (n-butyl nitrate),"IUPAC: Butyl nitrate, PubChem CID: 13567, CAS Number: 928-45-0"
+new id, ,C4H9NO3 (isobutyl nitrate),"IUPAC: 2-Methylpropyl nitrate, PubChem CID: 10974, CAS Number: 928-45-0"
+new id, ,C4H9NO3 (t-butyl nitrate),"IUPAC: tert-Butyl nitrite, PubChem CID: 10906, CAS Number: 540-80-7"
+new id, ,"C4H9NO3 (2-butyl nitrate, sec-butyl nitrate)","IUPAC: Butan-2-yl nitrite, PubChem CID: 13544, CAS Number: 924-43-6"
+new id, ,C5H10O (2-methyl-3-buten-2-ol),"IUPAC: 2-Methylbut-3-en-2-ol, PubChem CID: 8257, CAS Number: 115-18-4"
+new id, ,C8H18 (n-octane),"IUPAC: Octane, PubChem CID: 356, CAS Number: 111-65-9"
+new id, ,"C8H18 (2,2,4-trimethylpentane)","IUPAC: 2,2,4-Trimethylpentane, PubChem CID: 10907, CAS Number: 540-84-1"
+new id, ,"C4H6O ((E)-crotonaldehyde, trans-2-butenal)","IUPAC: (2E)-but-2-enal, PubChem CID: 447466,  CAS Number: 123-73-9"
+new id, ,"C4H6O ((Z)-crotonaldehyde, cis-2-butenal)","IUPAC: (Z)-but-2-enal, PubChem CID: 673950, CAS Number: 15798-64-8"
+new id, ,"C4H6O (crotonaldehyde, 2-butenal)","IUPAC: But-2-enal, PubChem CID: 20138, CAS Number: 4170-30-3"
+new id, ,"C2H2Cl2 (1,1-dichloroethene)","IUPAC: 1,1-Dichloroethene, PubChem CID: 6366, CAS Number: 75-35-4"
+new id, ,"C2H2Cl2 ((Z)-1,2-dichloroethene, cis-1,2-dichloroethene)","IUPAC: (Z)-1,2-dichloroethene, PubChem CID: 643833, CAS Number: 156-59-2"
+new id, ,"C2H2Cl2 ((E)-1,2-dichloroethene, trans-1,2-dichloroethene)","IUPAC: (E)-1,2-dichloroethene, PubChem CID: 638186,  CAS Number: 156-60-5"
+new id, ,"C2H2Cl2 ((E/Z)-1,2-dichloroethene)","IUPAC: 1,2-dichloroethene, PubChem CID: 10900, CAS Number: 540-9-0"
+new id, ,"C2H4Cl2 (1,1-dichloroethane)","IUPAC: 1,1-Dichloroethane, PubChem CID: 6365, CAS Number: 75-34-3"
+new id, ,"C2H4Cl2 (1,2-dichloroethane)","IUPAC: 1,2-Dichloroethane, PubChem CID: 11, CAS Number: 107-06-2"
 251,\Atmosphere\Humidity\Humidity  (at specified distance from reference surface),Humidity  (at specified distance from reference surface),
 252,\Atmosphere\Humidity\Integrated water vapour,Integrated water vapour,
 253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
