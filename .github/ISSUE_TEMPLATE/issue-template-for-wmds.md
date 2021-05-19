@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-_Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/How-to-address-problems-and-suggest-changes-to-the-Codetables) _and use the following structure for new issues._
+_Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-Codetables) _and use the following structure for new issues._
 
 # **Branch**
 
