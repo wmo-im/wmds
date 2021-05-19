@@ -175,7 +175,7 @@ notation,path,name,description
 591,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)",
 592,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)","CCl2F2 (dichlorodifluoromethane, CFC-12)",
 593,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)","CCl3F (trichlorofluoromethane, CFC-11)",
-12016, "Atmosphere\Gas\Greenhouse Gas\CFCs\Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)", "Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)", "IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5"
+12016,"Atmosphere\Gas\Greenhouse Gas\CFCs\Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5"
 192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"1D variable colloquially referred to as ""wave spectrum"". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation "
 193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
 194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
@@ -185,13 +185,13 @@ notation,path,name,description
 595,"\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CH3CCl3 (1,1,1-trichloroethane)","CH3CCl3 (1,1,1-trichloroethane)",
 332,\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211),CBrClF2 (Halon 1211),
 333,"\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)","CBrF3 (bromotrifluoromethane, Halon 1301)",
-12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)", "CBr2F2 (dibromodifluoromethane, Halon 1202)", "IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
-12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)", "C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)", "IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
+12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
+12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",
 535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",
 536,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)",
 537,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)",
-12019, "Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)", "C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)", "IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
+12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
 554,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)",
 555,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)",
 556,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)",
@@ -446,4 +446,4 @@ notation,path,name,description
 12006,\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface
 310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
 309,"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",Horizontal component of wind as speed and direction.
-307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)", Z component of wind vector  (horizontal and vertical profile)
+307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)",Z component of wind vector  (horizontal and vertical profile)
