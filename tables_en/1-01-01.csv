@@ -175,7 +175,7 @@ notation,path,name,description
 591,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)",
 592,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)","CCl2F2 (dichlorodifluoromethane, CFC-12)",
 593,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)","CCl3F (trichlorofluoromethane, CFC-11)",
-192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8"
+192,\Atmosphere\Gas\Greenhouse Gas\CH4 (methane),CH4 (methane),"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8"
 193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
 194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
 195,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],CO2 with C-13 isotope
