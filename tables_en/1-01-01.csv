@@ -311,7 +311,7 @@ notation,path,name,description
 504,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),
 505,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),
 new id, ,"CClF3 (chlorotrifluoromethane, CFC-13)","IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9"
-new id, ,"CH3D (deuterated methane, methane-d)","IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3"
+new id, ,"CH3D (mondeuterated methane, methane-d1)","IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3"
 new id, ,"C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)","IUPAC: 2-chloro-1,1,1,2-tetrafluoroethane, PubChem CID: 17822, CAS Number: 2837-89-0"
 new id, ,"C5H2F10 (1,1,1,2,2,3,4,5,5,5-decafluoropentane, HFC-43-10-mee)","IUPAC: 1,1,1,2,2,3,4,5,5,5-decafluoropentane, PubChem CID: 86240, CAS Number: 138495-42-8"
 new id, ,	NF3 (nitrogen trifluoride),"IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2"
