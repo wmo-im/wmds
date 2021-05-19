@@ -1,25 +1,29 @@
 ---
-name: Issue Template for WMDS
-about: generic template for any type of issue
-title: ''
-labels: ''
+
+name: Issue Template for WMDS  
+about: generic template for any type of issue  
+title: 'enter table # and brief summary'  
+labels: ''  
 assignees: ''
 
 ---
 
-_Please consult the [Guidance](https://github.com/wmo-im/wmds/wiki/How-to-address-problems-and-suggest-changes-to-the-Codetables) and use the following structure for new issues._
+_Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/How-to-address-problems-and-suggest-changes-to-the-Codetables) _and use the following structure for new issues._
 
-**Branch**
-[add when created]
+# **Branch**
 
-**Summary and Purpose**
-[your arguments why the existing situation is not satisfying]
+\[add branch when created\]
 
-**Stakeholder(s)**
-[include emails or handles as relevant]
+# **Summary and Purpose**
 
-**Proposal**
-[your specific proposal to resolve the issue]
+# **Stakeholder(s)**
 
-**Reason**
-[your reasoning why the proposal resolves the issue]
+\[include emails or handles as relevant\]
+
+# **Proposal**
+
+\[your specific proposal to resolve the issue - update when decision on proposal is finalized\]
+
+# **Reason**
+
+\[your reasoning why the proposal resolves the issue\]
