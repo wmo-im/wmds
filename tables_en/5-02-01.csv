@@ -108,7 +108,6 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 198,\Atmosphere\Radiation\In situ\Sunshine duration,Sunshine duration,
 199,\Atmosphere\Micrometeorology\In situ\Surface chamber,Surface chamber,
 201,"\Atmosphere\Temperature\In situ\Thermocouple, thermopile","Thermocouple, thermopile",
-202,\Atmosphere\Temperature\In situ\Thermometer-Thermoelement,Thermometer-Thermoelement,
 204,\Atmosphere\Precipitation\In situ\Tipping bucket rain gauge (totalizer),Tipping bucket rain gauge (totalizer),
 205,\Atmosphere\Trace gas\In situ\Titration,Titration,
 207,"\Atmosphere\Visual range\Remote-sensing, active\Transmissometer",Transmissometer,
@@ -160,7 +159,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 254,\Atmosphere\Humidity\In situ\Hygrometer\Hygrometer [general],Hygrometer [general],
 255,\Atmosphere\Humidity\In situ\Hygrometer\IR absorption hygrometer,IR absorption hygrometer,
 256,\Atmosphere\Humidity\In situ\Hygrometer\Optical hygrometer,Optical hygrometer,
-257,\Atmosphere\Humidity\In situ\Hygrometer\UV absorption hygrometer (Lyman-à),UV absorption hygrometer (Lyman-à),
+257,\Atmosphere\Humidity\In situ\Hygrometer\UV fluorescence-based hygrometer (Lyman-α),UV fluorescence-based hygrometer (Lyman-α),Detection of UV fluorescence signal emitted by the excited OH radical produced from H2O after dissociation using UV light.
 258,\Atmosphere\Humidity\In situ\Psychrometer\Electrical aspiration (Frankenberger type),Electrical aspiration (Frankenberger type),
 259,\Atmosphere\Humidity\In situ\Psychrometer\Mechanical aspiration,Mechanical aspiration,
 263,\Atmosphere\Radiation\In situ\Direct solar\Bimetallic actinograph,Bimetallic actinograph,
