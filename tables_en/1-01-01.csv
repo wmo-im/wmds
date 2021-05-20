@@ -545,7 +545,7 @@ new id,,Xenon [Xe-135],"IUPAC: xenon-135, PubChem CID: 167226, CAS Number: 14834
 new id,,Xenon [Xe-135m],
 new id,,Xenon [Xe-137],"IUPAC: xenon-137, PubChem CID: 25087180, CAS Number: 14835-21-3"
 new id,,Xenon [Xe-138],"IUPAC: xenon-138, PubChem CID: 25087189, CAS Number: 15751-81-2"
-new id,,Xenon, sum of all isotopes,
+new id,,"Xenon, sum of all isotopes",
 new id,,Caesium [Cs-131],"IUPAC: cesium-131, PubChem CID: 5492303, CAS Number: 14914-76-2"
 new id,,Caesium [Cs-134],"IUPAC: cesium-134, PubChem CID: 6335485, CAS Number: 13967-70-9"
 new id,,Caesium [Cs-135],"IUPAC: cesium-135, PubChem CID: 6335805, CAS Number: 15726-30-4"
