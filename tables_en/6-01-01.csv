@@ -1,11 +1,12 @@
 notation,name,description
-1,PM0.001,Particles with diameter 0.001 µm
-2,nucleation,"PM0.001 - PM0.1, particles with diameter from 0.001 to 0.1 µm (nucleation mode)"
-3,PM0.1,Particles with diameter under 1 µm
-4,accumulation,"PM0.1 - PM1, particles with diameter from 0.1 to 1 µm (accumulation mode)"
-5,fine,"PM1, particles with diameter under 1 µm (fine mode)"
-6,coarse,Particles with diameter greater than 1 µm (coarse mode)
-7,PM2.5,Particles with diameter under 2.5 µm
-8,PM2.5 - PM10,Particles with diameter from 2.5 to 10 µm
-9,PM10,Particles with diameter under 10 µm
-10,total,No distinction in particle size
+10,nucleation mode,"Particles with diameter from 0.001 to 0.01 µm (nucleation mode),sizing method defined separately or by context."
+20,Aitken mode,"Particles with diameter from 0.01 to 0.1 µm (Aitken mode), sizing method defined separately or by context."
+30,PM0.1,Particles with aerodynamic diameter smaller than 0.1 µm.
+40,accumulation mode, "Particles with diameter from 0.1 to 1 µm (accumulation mode), sizing method defined separately or by context."
+50,fine mode	particles with diameter smaller than 1 µm (fine mode), sizing method defined separately or by context.
+60,PM1,Particles with aerodynamic diameter smaller than 1 µm.
+70,coarse mode,"Particles with diameter greater than 1 µm (coarse mode), sizing method defined separately or by context."
+80,PM2.5	Particles with aerodynamic diameter smaller than 2.5 µm.
+90,PM2.5 - PM10,Particles with aerodynamic diameter from 2.5 to 10 µm.
+100,PM10,Particles with aerodynamic diameter smaller than 10 µm.
+200,total suspended particles,No size cut-off.
