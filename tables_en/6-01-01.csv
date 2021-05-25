@@ -6,7 +6,7 @@ notation,name,description
 50,fine mode	particles with diameter smaller than 1 µm (fine mode), sizing method defined separately or by context.
 60,PM1,Particles with aerodynamic diameter smaller than 1 µm.
 70,coarse mode,"Particles with diameter greater than 1 µm (coarse mode), sizing method defined separately or by context."
-80,PM2.5	Particles with aerodynamic diameter smaller than 2.5 µm.
+80,PM2.5,Particles with aerodynamic diameter smaller than 2.5 µm.
 90,PM2.5 - PM10,Particles with aerodynamic diameter from 2.5 to 10 µm.
 100,PM10,Particles with aerodynamic diameter smaller than 10 µm.
 200,total suspended particles,No size cut-off.
