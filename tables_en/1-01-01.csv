@@ -112,15 +112,22 @@ notation,path,name,description
 316,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
 317,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
 318,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",
-319,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM1","Light backscattering coefficient, PM1",
-320,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM10","Light backscattering coefficient, PM10",
-321,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, total aerosol","Light backscattering coefficient, total aerosol",
+new id,,"Hemispheric particle light backscatter coefficient, TSP","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
+new id,,"Hemispheric particle light backscatter coefficient, PM10","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
+new id,,"Hemispheric particle light backscatter coefficient, PM1","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
+new id,,"Particle light backscatter coefficient, TSP|The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
+new id,,"Particle light backscatter coefficient, PM10|The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
+new id,,"Particle light backscatter coefficient, PM1|The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
+new id,,"Hemispheric particle light forward scattering coefficient, TSP","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
+new id,,"Hemispheric  particle light forward scattering coefficient, PM10","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
+new id,,"Hemispheric  particle light forward scattering coefficient, PM1","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
 322,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1","Light scattering coefficient, PM1",
 323,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM10","Light scattering coefficient, PM10",
 324,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",
-325,"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
+325,"\Atmosphere\Aerosol\Optical properties\Aerosol optical depth, TSP","Aerosol optical depth, TSP","The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km]."
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
-362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,The area weighted mean radius of the aerosol particles.
+362,\Atmosphere\Aerosol\Physical properties - primary\Particle effective radius,Particle effective radius,The area weighted mean radius of the aerosol particles.
+new id,,Particle effective diameter,
 727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
 364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
 365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
