@@ -109,15 +109,15 @@ notation,path,name,description
 724,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",
 314,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
 315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
-316,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
-317,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
-318,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",
+316,"\Atmosphere\Aerosol\Optical properties\Particle light absorption coefficient, PM1","Particle light absorption coefficient, PM1",
+317,"\Atmosphere\Aerosol\Optical properties\Particle light absorption coefficient, PM10","Particle light absorption coefficient, PM10",
+318,"\Atmosphere\Aerosol\Optical properties\Particle light absorption coefficient, TSP","Particle light absorption coefficient, TSP",
 319,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM1","Light backscattering coefficient, PM1",
 320,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM10","Light backscattering coefficient, PM10",
 321,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, total aerosol","Light backscattering coefficient, total aerosol",
-322,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1","Light scattering coefficient, PM1",
-323,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM10","Light scattering coefficient, PM10",
-324,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",
+322,"\Atmosphere\Aerosol\Optical properties\Particle light scattering coefficient, PM1","Particle light scattering coefficient, PM1",
+323,"\Atmosphere\Aerosol\Optical properties\Particle light scattering coefficient, PM10","Particle light scattering coefficient, PM10",
+324,"\Atmosphere\Aerosol\Optical properties\Particle light scattering coefficient, TSP","Particle light scattering coefficient, TSP",
 325,"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
 326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
 new id,,Particle light extinction coefficient,A measure of light attenuation due to scattering and absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance.
@@ -130,14 +130,14 @@ new id,,Ångström exponent  for aerosol absorption optical depth,A measure of d
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
 727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
-364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
-365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
-366,"\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5","Mass concentration (medium), PM2.5",
+364,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, coarse mode","Particle mass concentration, coarse mode",
+365,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration", fine mode","Particle mass concentration, fine mode",
+366,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, PM2.5","Particle mass concentration, PM2.5",
 367,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated),Mass concentration (size fractionated),
-368,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (total aerosol) or Mass TSP,Mass concentration (total aerosol) or Mass TSP,
+368,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, TSP","Particle mass concentration, TSP",
 369,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
-370,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",
-371,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
+370,"\Atmosphere\Aerosol\Physical properties - primary\Particle Number size distribution, PM10",Particle Number size distribution, PM10",
+371,"\Atmosphere\Aerosol\Physical properties - primary\Particle Number size distribution, TSP","Particle Number size distribution, TSP",
 728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
 729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
 411,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
