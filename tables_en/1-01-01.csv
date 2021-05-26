@@ -115,9 +115,9 @@ notation,path,name,description
 new id,,"Hemispheric particle light backscatter coefficient, TSP","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
 new id,,"Hemispheric particle light backscatter coefficient, PM10","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
 new id,,"Hemispheric particle light backscatter coefficient, PM1","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
-new id,,"Particle light backscatter coefficient, TSP","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
-new id,,"Particle light backscatter coefficient, PM10","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
-new id,,"Particle light backscatter coefficient, PM1","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
+new id,,"Particle light backscatter coefficient, TSP","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles."
+new id,,"Particle light backscatter coefficient, PM10","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles."
+new id,,"Particle light backscatter coefficient, PM1","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles."
 new id,,"Hemispheric particle light forward scattering coefficient, TSP","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
 new id,,"Hemispheric  particle light forward scattering coefficient, PM10","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
 new id,,"Hemispheric  particle light forward scattering coefficient, PM1","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
