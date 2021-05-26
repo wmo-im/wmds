@@ -127,7 +127,7 @@ new id,,"Hemispheric  particle light forward scattering coefficient, PM1","Incid
 325,"\Atmosphere\Aerosol\Optical properties\Aerosol optical depth, TSP","Aerosol optical depth, TSP","The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km]."
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,\Atmosphere\Aerosol\Physical properties - primary\Particle effective radius,Particle effective radius,The area weighted mean radius of the aerosol particles.
-new id,,Particle effective diameter,
+new id,,Particle effective diameter,The area weighted mean diameter of the aerosol particles.
 727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
 364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
 365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
