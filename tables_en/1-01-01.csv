@@ -120,6 +120,13 @@ notation,path,name,description
 324,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",
 325,"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
 326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
+new id,,Particle light extinction coefficient,A measure of light attenuation due to scattering and absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance.
+new id,,Particle single scattering albedo,Ratio of particle scattering coefficient to particle extinction coefficient or sum of particle absorption and scattering coefficients.
+new id,,Ångström exponent for particle light extinction,A measure of dependence of the particle light extinction coefficient on wavelength expressed in power law relationship.
+new id,,Ångström exponent for particle light scattering,A measure of dependence of the particle light scattering coefficient on wavelength expressed in power law relationship.
+new id,,Ångström exponent for particle light absorption,A measure of dependence of the particle light absorption coefficient on wavelength expressed in power law relationship.
+new id,,Ångström exponent for aerosol optical depth,A measure of dependence of the aerosol optical depth on wavelength expressed in power law relationship.
+new id,,Ångström exponent  for aerosol absorption optical depth,A measure of dependence of the aerosol absorption optical depth on wavelength expressed in power law relationship.
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
 727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
@@ -141,6 +148,12 @@ notation,path,name,description
 416,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 μm equivalent","Hygroscopic growth factor, 50 μm equivalent",
 417,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 μm equivalent","Hygroscopic growth factor, 75 μm equivalent",
 418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
+new id,,Particle Surface Area Size Distribution,"Particle surface area concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,,Particle Volume Density Size Distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,,Particle Mass Size Distribution,"Particle mass concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,,Hygroscopic particle size growth factor,A scaling factor describing the particle equivalent spherical size change as a function of relative humidity due to absorbing or evaporating water.
+new id,,Hygroscopic particle light scattering growth factor,A scaling factor describing the particle scattering coefficient change as a function of relative humidity due to absorbing or evaporating water.
+new id,,Hygroscopic particle light extinction growth factor,A scaling factor describing the particle extinction coefficient change as a function of relative humidity due to absorbing or evaporating water.
 39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,
 180,\Atmosphere\Clouds\Cloud cover,Cloud cover,
