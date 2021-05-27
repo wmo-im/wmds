@@ -398,12 +398,10 @@ notation,path,name,description
 ,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Larix,Larix,Larch pollen
 ,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Pinus,Pinus,Pine pollen
 ,\Atmosphere\Bioaerosol\Pollen\Cupressaceae\Total Cupressaceae,Total Cupressaceae,Cypress family pollen
-,\Atmosphere\Bioaerosol\Pollen\Taxaceae\Total Taxaceae,Total Taxaceae,Yew family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Arecaceae\Total Arecaceae,Total Arecaceae,Palm family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Platanaceae\Platanus,Platanus,Plane tree pollen
 ,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Parietaria,Parietaria,Pellitory pollen
 ,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Urtica,Urtica,Nettle pollen
-,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Total Fagaceae,Total Fagaceae,Beech family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Castanea,Castanea,Sweet chestnut pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Fagus,Fagus,Beech pollen
 ,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Quercus,Quercus,Oak pollen
@@ -414,12 +412,11 @@ notation,path,name,description
 ,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Corylus,Corylus,Hazel pollen
 ,\Atmosphere\Bioaerosol\Pollen\Amaranthaceae\Total Amaranthaceae,Total Amaranthaceae,Amaranth family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Amaranthaceae\Chenopodium,Chenopodium,Chenopodium (goosefoot) pollen
-,\Atmosphere\Bioaerosol\Pollen\Salicaceae\Total Salicaceae,Total Salicaceae,Willow family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Salicaceae\Populus,Populus,Poplar pollen
 ,\Atmosphere\Bioaerosol\Pollen\Salicaceae\Salix,Salix,Willow pollen
 ,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Total Oleaceae,Oleaceae,Olive family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Olea,Olea,Olive pollen
-,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Fraxinus excelsior,Fraxinus excelsior,European ash pollen
+,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Fraxinus,Fraxinus,Ash pollen
 ,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Total Asteraceae,Total Asteraceae,Aster family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Ambrosia,Ambrosia,Ragweed pollen
 ,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Artemisia,Artemisia,Mugwort pollen
@@ -449,7 +446,6 @@ notation,path,name,description
 ,\Atmosphere\Bioaerosol\Pollen\Ranunculaceae\Total Ranunculaceae,Total Ranunculaceae,Buttercup family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Umbelliferae\Total Umbelliferae,Total Umbelliferae,"Celery, carrot or parsley family pollen"
 ,\Atmosphere\Bioaerosol\Pollen\Brassicaceae\Total Brassicaceae,Total Brassicaceae,"Cabbage family (mustards, crucifers) pollen"
-,\Atmosphere\Bioaerosol\Pollen\Rosaceae\Filipendula,Filipendula,Filipendula pollen
 ,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Ostrya,Ostrya,Hophornbeam pollen
 ,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Cedrus,Cedrus,Cedar family pollen
 ,\Atmosphere\Bioaerosol\Pollen\Buxaceae\Buxus,Buxus,Box pollen
