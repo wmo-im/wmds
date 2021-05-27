@@ -14,4 +14,4 @@ name,description,notation
 "Chemical denudation","Sample is extracted from its matrix by chemical denudation","denudation"
 "Chemical conversion","Sample is chemically converted before analysis","conversion"
 "Thermal decomposition","Sample is thermally decomposed before analysis","decomposition"
-"Particle removal","Particles are removed from the ssmaple before analysis by a filtering, cyclones, impactors, and electrostatic or diffusional removal","particleRemoval"
+"Particle removal","Particles are removed from the sample before analysis by a filtering, cyclones, impactors, and electrostatic or diffusional removal","particleRemoval"
