@@ -1,163 +1,163 @@
 notation,name,description
-m, metre,
-kg, kilogram,
-s, second,
-A, ampere,
-K, kelvin,
-mol, mole,
-cd, candela,
-rad, radian,
-sr, steradian,
-Hz, hertz,
-N, newton,
-Pa, pascal,
-J, joule,
-W, watt,
-C, coulomb,
-V, volt,
-F, farad,
-Ohm, ohm,
-S, siemens,
-Wb, weber,
-T, tesla,
-H, henry,
-lm, lumen,
-lx, lux,
-Bq, becquerel,
-Gy, gray,
-Sv, sievert,
-deg, degree (angle),	plane or phase angle
-', minute (angle),
-'', second (angle),
-l, litre,
-min, minute (time),
-h, hour,
-d, day,
-t, tonne,
-eV, electron volt,
-u, atomic mass unit,
-AU, astronomic unit,
-pc, parsec,
-nmi, nautical mile,
-kt, knot,
-dB, decibel,
-ha, hectare,
-week, week,
-a, year,
-percent, per cent,
-0.001, parts per thousand,
-okta, eights of sky covered by cloud, "The unit of cloud amount is the okta, which is an eighth of the sky dome covered by cloud."
-deg.s-1, degrees per second, plane or phase angle per second
-degC, degrees Celsius (°C),
-degC.m-1, degrees Celsius per metre,
-degC.hm-1, degrees Celsius per 100 metres,
-DU, Dobson Unit,"Equivalent to 2.687×1020 molecules m-2 at standard temperature and pressure (273 K, 1 atm pressure), https://glossary.ametsoc.org/wiki/Dobson_unit"
-mon, month,
-s-1, per second (same as hertz),
-s-2, per second squared,
-kt.km-1, knots per 1000 metres,
-ft, foot,
-in, inch,
-dPa.s-1, decipascals per second (microbar per second),
-cb.s-1, centibars per second,1 centibar is equivalent to SI unit 1 kPa
-cb.(12h)-1, centibars per 12 hours,1 centibar is equivalent to SI unit 1 kPa
-daPa, dekapascal,	dekapascal or decapascal
-hPa, hectopascal,
-hPa.s-1, hectopascals per second,
-hPa.h-1, hectopascals per hour,
-hPa.-1, hectopascals per 3 hours,
-nbar, nanobar = hPa 10^6,
-g.kg-1, grams per kilogram,
-g.kg-1.s-1, grams per kilogram per second,
-kg.kg-1, kilograms per kilogram,
-kg.kg-1.s-1, kilograms per kilogram per second,
-kg.m-2, kilograms per square metre,
-g0, standard acceleration due to gravity,
-gpm, geopotential metre,"The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)"
-mm, millimetre,
-mm.s-1, millimetres per second,
-mm.h-1, millimetres per hour,
-mm6.m-3, millimetres to the sixth power per cubic metre,
-cm, centimetre,
-cm.s-1, centimetres per second,
-cm.h-1, centimetres per hour,
-dm, decimetre,
-m.s-1, metres per second,
-m.s-1.m-1, metres per second per metre,
-m.s-1.km-1, metres per second per 1000 metres,
-m2, square metres,
-m2.s-1, square metres per second,
-km, kilometre,
-km.h-1, kilometres per hour,
-km.d-1, kilometres per day,
-m-1, per metre,
-Bq.l-1, becquerels per litre,
-Bq.m-2, becquerels per square metre,
-Bq.m-3, becquerels per cubic metre,
-mSv, millisievert,
-m.s-2, metres per second squared,
-m2.s, square metres second,
-m2.s-2, square metres per second squared,
-m2.rad-1.s, square metres per radian second,
-m2.Hz-1, square metres per hertz,
-m3, cubic metres,
-m3.s-1, cubic metres per second,
-m3.m-3, cubic metres per cubic metre,
-m4, metres to the fourth power,
-m(2.3-1).s-1, metres to the two thirds power per second,
-kg.m-1, kilograms per metre,
-kg.m-2.s-1, kilograms per square metre per second,
-kg.m-3, kilograms per cubic metre,
-kg-2.s-1, per square kilogram per second,
-s.m-1, seconds per metre,
-K.m.s-1, kelvin metres per second,
-K.m-1, kelvins per metre,
-K.m2.kg-1.s-1, kelvin square metres per kilogram per second,
-mol.mol-1, moles per mole,
-rad.m-1, radians per metre,
-N.m-2, newtons per square metre,
-Pa.s-1, pascals per second,
-kPa, kilopascal,
-J.m-2, joules per square metre,
-J.kg-1, joules per kilogram,
-W.m-1.sr-1, watts per metre per steradian,
-W.m-2, watts per square metre,
-W.m-2.sr-1, watts per square metre per steradian,
-W.m-2.sr-1.cm, watts per square metre per steradian centimetre,
-W.m-2.sr-1.m, watts per square metre per steradian metre,
-W.m-3.sr-1, watts per cubic metre per steradian,
-S.m-1, siemens per metre,
-deg2, square degrees, square of phase or plane angle
-Bq.s.m-3, becquerel seconds per cubic metre,
-dB.m-1, decibels per metre,
-dB.deg-1, decibels per degree,
-pH_unit, pH unit,
+m,metre,SI base unit of length
+kg,kilogram,SI base unit of mass
+s,second,SI base unit of time
+A,ampere,SI base unit of electric current
+K,kelvin,SI base unit of thermodynamic temperature
+mol,mole,SI base unit of amount of substance
+cd,candela,SI base unit of luminous intensity
+rad,radian,"SI derived unit of angle, SI base unit equivalent: 1"
+sr,steradian,"SI derived unit of solid angle, SI base unit equivalent: 1"
+Hz,hertz,"SI derived unit of frequency, SI base unit equivalent: s-1"
+N,newton,"SI derived unit of force, weight, SI base unit equivalent: kg.m.s-2"
+Pa,pascal,"SI derived unit of pressure, stress, SI base unit equivalent: kg.m-1.s-2"
+J,joule,"SI derived unit of energy, work, heat, SI base unit equivalent: kg.m2.s-2"
+W,watt,"SI derived unit of power, radiant flux, SI base unit equivalent: kg.m2.s-3"
+C,coulomb,"SI derived unit of electric charge, SI base unit equivalent: s.A"
+V,volt,"SI derived unit of voltage, electrical potential difference, electromotive force, SI base unit equivalent: kg.m2.s-3.A-1"
+F,farad,"SI derived unit of electrical capacitance, SI base unit equivalent: kg-1.m-2.s4.A2"
+Ohm,ohm,"SI derived unit of electrical resistance, impedance, reactance, SI base unit equivalent: kg.m2.s-3.A-2"
+S,siemens,"SI derived unit of electrical conductance, SI base unit equivalent: kg-1.m-2.s3.A2"
+Wb,weber,"SI derived unit of magnetic flux, SI base unit equivalent: kg.m2.s-2.A-1"
+T,tesla,"SI derived unit of magnetic induction, magnetic flux density, SI base unit equivalent: kg.s-2.A-1"
+H,henry,"SI derived unit of electrical inductance, SI base unit equivalent: kg.m2.s-2⋅A-2"
+lm,lumen,"SI derived unit of luminous flux, SI base unit equivalent: cd"
+lx,lux,"SI derived unit of illuminance, SI base unit equivalent: cd.m-2"
+Bq,becquerel,"SI derived unit of radioactivity, SI base unit equivalent: s-1"
+Gy,gray,"SI derived unit of absorbed dose (of ionizing radiation), SI base unit equivalent: m2.s-2"
+Sv,sievert,"SI derived unit of equivalent dose (of ionizing radiation), SI base unit equivalent: m2.s-2"
+deg,degree (angle),Plane or phase angle
+',minute (angle),
+'',second (angle),
+l,litre,Unit of volume
+min,minute (time),
+h,hour,
+d,day,
+t,tonne,"Unit of mass, equal to 1000 kilograms"
+eV,electron volt,
+u,unified atomic mass unit,"Physical constant u or Da (Dalton), unit of mass"
+AU,astronomical unit,"Unit of length, roughly the distance from Earth to the Sun"
+pc,parsec,Astronomical unit of length/distance
+nmi,nautical mile,
+kt,knot,Unit of speed equal to one nautical mile per hour
+dB,decibel,
+ha,hectare,
+week,week,
+a,year,
+percent,per cent (%),"Dimensionless number, expressed as a fraction of 100"
+0.001,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
+okta,eights of sky covered by cloud,"The unit of cloud amount is the okta, which is an eighth of the sky dome covered by cloud."
+deg.s-1,degrees per second,Plane or phase angle per second
+degC,degrees Celsius (°C),"SI derived unit of temperature, SI base unit equivalent: K"
+degC.m-1,degrees Celsius per metre,
+degC.hm-1,degrees Celsius per 100 metres,
+DU,Dobson Unit,"Equivalent to 2.687×1020 molecules m-2 at standard temperature and pressure (273 K, 1 atm pressure), https://glossary.ametsoc.org/wiki/Dobson_unit"
+mon,month,
+s-1,per second ,per second (same as hertz)
+s-2,per second squared,
+kt.km-1,knots per 1000 metres,
+ft,foot,"Imperial/US unit of length, equal to 30.48 centimetres"
+in,inch,"Imperial/US unit of length, equal to 25.4 millimetres"
+dPa.s-1,decipascals per second (microbar per second),
+cb.s-1,centibars per second,1 centibar is equivalent to SI unit 1 kPa
+cb.(12h)-1,centibars per 12 hours,1 centibar is equivalent to SI unit 1 kPa
+daPa,dekapascal,"Unit of pressure, stress, equal to 10 Pa"
+hPa,hectopascal,"Unit of pressure, stress, equal to 100 Pa"
+hPa.s-1,hectopascals per second,
+hPa.h-1,hectopascals per hour,
+hPa.-1,hectopascals per 3 hours,
+nbar,nanobar,"Unit of pressure, equal to one billionth of a bar (1 bar = 100kPa)"
+g.kg-1,grams per kilogram,
+g.kg-1.s-1,grams per kilogram per second,
+kg.kg-1,kilograms per kilogram,
+kg.kg-1.s-1,kilograms per kilogram per second,
+kg.m-2,kilograms per square metre,Mechanical SI derived unit of area density
+g0,standard acceleration due to gravity,
+gpm,geopotential metre,The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)
+mm,millimetre,"Unit of length, equal to one thousandth of a metre (1e-3 m)"
+mm.s-1,millimetres per second,
+mm.h-1,millimetres per hour,
+mm6.m-3,millimetres to the sixth power per cubic metre,
+cm,centimetre,"Unit of length, equal to one hundredth of a metre (1e-2 m)"
+cm.s-1,centimetres per second,
+cm.h-1,centimetres per hour,
+dm,decimetre,"Unit of length, equal to one tenth of a metre (1e-1 m)"
+m.s-1,metres per second,"Kinematic SI derived unit of speed, velocity"
+m.s-1.m-1,metres per second per metre,
+m.s-1.km-1,metres per second per 1000 metres,
+m2,square metres,Mechanical SI derived unit of area
+m2.s-1,square metres per second,"Mechanical SI derived unit of kinematic viscosity, thermal diffusivity, diffusion coefficient"
+km,kilometre,"Unit of length, equal to 1000 metres"
+km.h-1,kilometres per hour,
+km.d-1,kilometres per day,
+m-1,per metre,"Mechanical derived SI unit of wavenumber, optical power, curvature, spatial frequency"
+Bq.l-1,becquerels per litre,
+Bq.m-2,becquerels per square metre,
+Bq.m-3,becquerels per cubic metre,
+mSv,millisievert,
+m.s-2,metres per second squared,Kinematic SI derived unit of acceleration
+m2.s,square metres second,
+m2.s-2,square metres per second squared,
+m2.rad-1.s,square metres per radian second,
+m2.Hz-1,square metres per hertz,
+m3,cubic metres,Mechanical SI derived unit of volume
+m3.s-1,cubic metres per second,
+m3.m-3,cubic metres per cubic metre,
+m4,metres to the fourth power,
+m(2.3-1).s-1,metres to the two thirds power per second,
+kg.m-1,kilograms per metre,Mechanical SI derived unit of linear mass density
+kg.m-2.s-1,kilograms per square metre per second,
+kg.m-3,kilograms per cubic metre,"Mechanical SI derived unit of density, mass density"
+kg-2.s-1,per square kilogram per second,
+s.m-1,seconds per metre,
+K.m.s-1,kelvin metres per second,
+K.m-1,kelvins per metre,
+K.m2.kg-1.s-1,kelvin square metres per kilogram per second,
+mol.mol-1,moles per mole,
+rad.m-1,radians per metre,
+N.m-2,newtons per square metre,
+Pa.s-1,pascals per second,
+kPa,kilopascal,"Unit of pressure, stress, equal to 1000 Pa"
+J.m-2,joules per square metre,Mechanical SI derived unit of radiant exposure
+J.kg-1,joules per kilogram,Mechanical SI derived unit of specific energy
+W.m-1.sr-1,watts per steradian metre,Mechanical SI derived unit of spectral intensity
+W.m-2,watts per square metre,"Mechanical SI derived unit of heat flux density, irradiance"
+W.m-2.sr-1,watts per steradian square metre,Mechanical SI derived unit of radiance
+W.m-2.sr-1.cm,watts per square metre per steradian centimetre,
+W.m-2.sr-1.m,watts per square metre per steradian metre,
+W.m-3.sr-1,watts per steradian cubic metre,Mechanical SI derived unit of spectral radiance
+S.m-1,siemens per metre,
+deg2,square degrees,Square of phase or plane angle
+Bq.s.m-3,becquerel seconds per cubic metre,
+dB.m-1,decibels per metre,
+dB.deg-1,decibels per degree,
+pH_unit,pH unit,
 N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n – 1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'. (WMO Manual on Codes I.2)"
-unknown, (unknown),"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
-kHz, kilohertz,
-MHz, megahertz,
-GHz, gigahertz,
-THz, terahertz,
-umol.mol-1, micromoles per mole,
-nmol.mol-1, nanomoles per mole, Equivalent to expressing mole fraction in ppb
-pmol.mol-1, picomoles per mole, Equivalent to expressing mole fraction in ppt
-mmol.mol-1, millimoles per mole,
-mBq.m-3, millibecquerels per cubic metre, 
-umol.kg-1, micromoles per kilogram,
-umol.l-1, micromoles per litre,
-ng_m-3, nanograms per cubic metre,
-1, dimensionless,
-rad.s-1, radian per second, 
-mGal, milligal, "1 Gal = 0.01 m s-2"
-E, Eötvös, "1 E = 1 mGal / 10 km"
-t.ha-1, (metric) ton per hectare,
-psu, practical salinity unit, "close to 1, determined by CTD"
-nm, nanometre, one billionth of a meter (1e-9 m)
-ppmv, parts per million by volume,
-ppbv, parts per billion by volume,
-pptv, parts per trillion by volume,
-km-1,Per kilometre,
-Mm-1,Per megametre,
+unknown,(unknown),"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
+kHz,kilohertz,"Unit of frequency, equal to 1000 Hz"
+MHz,megahertz,"Unit of frequency, equal to 1e6 Hz"
+GHz,gigahertz,"Unit of frequency, equal to 1e9 Hz"
+THz,terahertz,"Unit of frequency, equal to 1e12 Hz"
+umol.mol-1,micromoles per mole,
+nmol.mol-1,nanomoles per mole,Equivalent to expressing mole fraction in ppb
+pmol.mol-1,picomoles per mole,Equivalent to expressing mole fraction in ppt
+mmol.mol-1,millimoles per mole,
+mBq.m-3,millibecquerels per cubic metre, 
+umol.kg-1,micromoles per kilogram,
+umol.l-1,micromoles per litre,
+ng_m-3,nanograms per cubic metre,
+1,dimensionless,dimensionless
+rad.s-1,radian per second, 
+mGal,milligal,"CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m s-2)"
+E,Eötvös,"Unit of acceleration divided by distance, 1 E = 1 mGal / 10 km"
+t.ha-1,(metric) ton per hectare,
+psu,practical salinity unit,"Close to 1, determined by CTD"
+nm,nanometre,"Unit of length, equal to one billionth of a meter (1e-9 m)"
+ppmv,parts per million by volume,
+ppbv,parts per billion by volume,
+pptv,parts per trillion by volume,
+km-1,per kilometre,
+Mm-1,per megametre,
 missing,(missing),"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
 inapplicable,(inapplicable),There is no value (categorical data).
 ug.m-3,micrograms per cubic metre, 
@@ -171,4 +171,4 @@ mm3.m-3,cubic millimetres per cubic metre,"SI unit for volumetric mixing ratio, 
 cm3.m-3,cubic centimetres per cubic metre,"SI unit for volumetric mixing ratio, equivalent to ppmv"
 cm-3,per cubic centimetre,
 m-3,per cubic metre,
-um,micrometre, 
+um,micrometre,"Unit of length, equal to one millionth of a metre (1e-6 m)"
