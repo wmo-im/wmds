@@ -152,7 +152,7 @@ mGal, milligal, "1 Gal = 0.01 m s-2"
 E, Eötvös, "1 E = 1 mGal / 10 km"
 t.ha-1, (metric) ton per hectare,
 psu, practical salinity unit, "close to 1, determined by CTD"
-nm, nanometer, one billionth of a meter (1e-9 m)
+nm, nanometre, one billionth of a meter (1e-9 m)
 ppmv, parts per million by volume,
 ppbv, parts per billion by volume,
 pptv, parts per trillion by volume,
@@ -172,4 +172,3 @@ cm3.m-3,cubic centimetres per cubic metre,"SI unit for volumetric mixing ratio, 
 cm-3,per cubic centimetre,
 m-3,per cubic metre,
 um,micrometre, 
-nm,nanometre, 
