@@ -29,7 +29,7 @@ Sv,sievert,"SI derived unit of equivalent dose (of ionizing radiation), SI base 
 deg,degree (angle),"Unit of plane or phase angle, accepted for use with SI: 1 deg = (pi/180) rad"
 ',minute (angle),"Unit of plane or phase angle, accepted for use with SI: 1 = (pi/10800) rad"
 '',second (angle),"Unit of plane or phase angle, accepted for use with SI: 1 = (pi/648000) rad"
-l,litre,SI derived unit of volume
+l,litre,"SI derived unit of volume, equal to 1e-3 m3"
 min,minute (time),"Unit of time, accepted for use with SI: 1 min = 60 s"
 h,hour,"Unit of time, accepted for use with SI: 1 h = 3600 s"
 d,day,"Unit of time, accepted for use with SI: 1 d = 86400 s"
@@ -53,7 +53,6 @@ degC.m-1,degrees Celsius per metre,Unit of spatial gradient of temperature per m
 degC.hm-1,degrees Celsius per 100 metres,Unit of spatial gradient of temperature per metres
 DU,Dobson Unit,"Unit of column abundance of ozone in the atmosphere. One Dobson unit is equivalent of 2.69E16 molecules of ozone per square centimeter. Alternatively, 1 Dobson unit corresponds to a layer of ozone 1E-5 m thick, if the ozone were held at standard temperature and pressure (273 K, 1 atm pressure). [https://glossary.ametsoc.org/wiki/Dobson_unit]"
 mon,month,"Unit of time, equivalent to 28-31 days"
-
 s-2,per second squared,Unit of second order time derivative
 kt.km-1,knots per 1000 metres,Unit of spatial rate of speed change
 ft,foot,"Imperial/US unit of length, equal to 30.48 centimetres"
@@ -93,6 +92,7 @@ km.d-1,kilometres per day,Unit of speed (24 km.d-1 = 1 km.h-1)
 m-1,per metre,"SI derived unit of wavenumber, optical power, curvature, spatial frequency"
 Bq.l-1,becquerels per litre,"Unit of volumetric radioactivity concentration, equal to 1000 Bq.m-3"
 Bq.m-2,becquerels per square metre,Unit of volumetric radioactivity concentration
+#BEZUG!
 mSv,millisievert,"SI derived unit of equivalent dose (of ionizing radiation), equal to 0.001 Sv"
 m.s-2,metres per second squared,SI derived unit of acceleration
 m2.s,square metres second,
@@ -145,8 +145,8 @@ mBq.m-3,millibecquerels per cubic metre,"Unit of volumetric radioactivity concen
 umol.kg-1,micromoles per kilogram,Unit of molar mass concentration
 umol.l-1,micromoles per litre,Unit of molar volumetric concentration
 ng.m-3,nanograms per cubic metre,Unit of mass concentration
-1,dimensionless,dimensionless
-rad.s-1,radian per second,unit of angular velocity
+1,dimensionless,Dimensionless
+rad.s-1,radian per second,Unit of angular velocity
 mGal,milligal,"CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m s-2)"
 E,Eötvös,"Unit of acceleration divided by distance, 1 E = 1 mGal / 10 km"
 t.ha-1,(metric) ton per hectare,Unit of area density
@@ -155,19 +155,19 @@ nm,nanometre,"Unit of length, equal to one billionth of a meter (1e-9 m)"
 ppmv,parts per million by volume,"Unit of volume fraction, equivelent to SI derived unit: cm3.m-3"
 ppbv,parts per billion by volume,"Unit of volume fraction, equivelent to SI derived unit: mm3.m-3"
 pptv,parts per trillion by volume,"Unit of volume fraction, equivelent to SI derived unit: um3.cm-3"
-km-1,per kilometre,Unit of inverse length
-Mm-1,per megametre,Unit of inverse length
+km-1,per kilometre,"Unit of inverse length, equal to 1e-4 m-1"
+Mm-1,per megametre,"Unit of inverse length, equal to 1e-6 m-1"
 missing,(missing),"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
 inapplicable,(inapplicable),There is no value (categorical data).
-ug.m-3,micrograms per cubic metre,Unit of mass concentration
-mg.l-1,milligrams per litre,Unit of mass concentration
-mg.cm-3,milligrams per cubic centimetre,Unit of mass concentration
+ug.m-3,micrograms per cubic metre,"Unit of mass concentration, equal to  equal to 1e-6 g.m-3"
+mg.l-1,milligrams per litre,"Unit of mass concentration, equal to  equal to 1 g.m-3"
+mg.cm-3,milligrams per cubic centimetre,"Unit of mass concentration, equal to 1e3 g.m-3"
 ng.kg-1,nanograms per kilogram,"SI derived unit for mass mixing ratio, equivalent to pptm or ppt"
 ug.kg-1,micrograms per kilogram,"SI derived unit for mass mixing ratio, equivalent to ppbm or ppb"
 mg.kg-1,milligrams per kilogram,"SI derived unit for mass mixing ratio, equivalent to ppmm or ppm"
 um3.cm-3,cubic micrometres per cubic centimetre,"SI derived unit for volumetric mixing ratio, equivalent to pptv"
 mm3.m-3,cubic millimetres per cubic metre,"SI derived unit for volumetric mixing ratio, equivalent to ppbv"
 cm3.m-3,cubic centimetres per cubic metre,"SI derived unit for volumetric mixing ratio, equivalent to ppmv"
-cm-3,per cubic centimetre,SI derived unit of per volume
-m-3,per cubic metre,SI derived unit of per volume
+cm-3,per cubic centimetre,"SI derived unit of inverse volume, equal to 1e-6 m-3"
+m-3,per cubic metre,SI derived unit of inverse volume
 um,micrometre,"Unit of length, equal to one millionth of a metre (1e-6 m)"
