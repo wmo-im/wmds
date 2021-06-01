@@ -27,8 +27,8 @@ Bq,becquerel,"SI derived unit of radioactivity, SI base unit equivalent: s-1"
 Gy,gray,"SI derived unit of absorbed dose (of ionizing radiation), SI base unit equivalent: m2.s-2"
 Sv,sievert,"SI derived unit of equivalent dose (of ionizing radiation), SI base unit equivalent: m2.s-2"
 deg,degree (angle),"Unit of plane or phase angle, accepted for use with SI: 1 deg = (pi/180) rad"
-',minute (angle),"Unit of plane or phase angle, accepted for use with SI: 1 = (pi/10800) rad"
-'',second (angle),"Unit of plane or phase angle, accepted for use with SI: 1 = (pi/648000) rad"
+',minute (angle),"Unit of plane or phase angle, accepted for use with SI: 1 ' = (pi/10800) rad"
+'',second (angle),"Unit of plane or phase angle, accepted for use with SI: 1 '' = (pi/648000) rad"
 l,litre,"SI derived unit of volume, equal to 1e-3 m3"
 min,minute (time),"Unit of time, accepted for use with SI: 1 min = 60 s"
 h,hour,"Unit of time, accepted for use with SI: 1 h = 3600 s"
@@ -91,8 +91,8 @@ km.h-1,kilometres per hour,Unit of speed (3.6 km.h-1 = 1 m.s-1)
 km.d-1,kilometres per day,Unit of speed (24 km.d-1 = 1 km.h-1)
 m-1,per metre,"SI derived unit of wavenumber, optical power, curvature, spatial frequency"
 Bq.l-1,becquerels per litre,"Unit of volumetric radioactivity concentration, equal to 1000 Bq.m-3"
-Bq.m-2,becquerels per square metre,Unit of volumetric radioactivity concentration
-#BEZUG!
+Bq.m-2,becquerels per square metre,Unit of area-related radioactivity
+Bq.m-3,becquerels per cubic metre,Unit of volumetric radioactivity concentration
 mSv,millisievert,"SI derived unit of equivalent dose (of ionizing radiation), equal to 0.001 Sv"
 m.s-2,metres per second squared,SI derived unit of acceleration
 m2.s,square metres second,
