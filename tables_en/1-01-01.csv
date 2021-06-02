@@ -130,8 +130,8 @@ new id,,Ångström exponent  for aerosol absorption optical depth,A measure of d
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
 727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
-364,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, coarse mode","Particle mass concentration, coarse mode",
-365,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, fine mode","Particle mass concentration, fine mode",
+364,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, PM10","Particle mass concentration, PM10",
+365,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, PM1","Particle mass concentration, PM1",
 366,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, PM2.5","Particle mass concentration, PM2.5",
 367,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated),Mass concentration (size fractionated),
 368,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, TSP","Particle mass concentration, TSP",
