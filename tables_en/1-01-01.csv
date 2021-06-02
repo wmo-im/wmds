@@ -370,7 +370,7 @@ notation,path,name,description
 216,\Atmosphere\Pressure\Atmospheric pressure,Atmospheric pressure,
 12000,\Atmosphere\Pressure\Atmospheric pressure profile,Atmospheric pressure profile,Upper-air atmospheric pressure
 217,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,"The pressure characteristic is an indication of how the pressure has changed during that period of time, for example, decreasing then increasing, or increasing and then increasing more rapidly."
-218,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,"Pressure tendency is the character and amount of atmospheric pressure change for a three-hour or other specified period ending at the time of observation. Pressure tendency is composed of two parts, namely the pressure change and the pressure characteristic."
+218,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,"Pressure tendency is the character and amount of atmospheric pressure change for a three-hour or other specified period ending at the time of observation. Pressure tendency is composed of two parts, namely the characteristic of pressure tendency and amount of pressure tendency."
 267,\Atmosphere\Radiation\Background luminance,Background luminance,
 565,\Atmosphere\Radiation\IR\Long-wave radiation (direction unspecified),Long-wave radiation (direction unspecified),
 566,\Atmosphere\Radiation\IR\Long-wave radiation (downwelling),Long-wave radiation (downwelling),
