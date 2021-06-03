@@ -37,46 +37,47 @@ t,tonne,"Unit of mass, equal to 1000 kilograms"
 eV,electron Volt,"Unit of energy, accepted for use with SI: 1eV = 1.60218 x 10-19 J, approximately"
 u,unified atomic mass unit,"Physical constant u or Da (Dalton), unit of mass"
 AU,astronomical unit,"Unit of length, roughly the distance from Earth to the Sun (149597871000 metres)"
-pc,parsec,Astronomical unit of length/distance
+pc,parsec,"Astronomical unit of length, distance: 1 pc = 149597871000 m"
 nmi,nautical mile,"Unit of Length, accepted for use with SI: 1 nmi = 1852 m"
 kt,knot,"Unit of speed, accepted for use with SI: 1 kt = 1 nmi/h = (1852/3600) m.s-1"
 dB,decibel,"Unit of sound intensity, accepted for use with SI"
-ha,hectare,"Unit of area, accepted for use with SI: 1 ha = 100 m2"
-week,week,"Unit of time, equivelent to 604800 s"
-a,year,"Unit of time, equivelent to 31536000 s"
+ha,hectare,"Unit of area, accepted for use with SI: 1 ha = 10000 m2"
+week,week,"Unit of time, equivalent to 604800 s"
+a,year,"Unit of time, equivalent to 31536000 s"
 percent,per cent (%),"Dimensionless number, expressed as a fraction of 100"
-permille,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
+permil,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
 okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds"
-deg.s-1,degrees per second,Plane or phase angle per second
+deg.s-1,degrees per second,"Unit of angular speed, equal to 1 degree per second"
 degC,degrees Celsius (°C),"SI derived unit of temperature, SI base unit equivalent: K"
 degC.m-1,degrees Celsius per metre,Unit of spatial gradient of temperature per metre
-degC.hm-1,degrees Celsius per 100 metres,Unit of spatial gradient of temperature per metres
+degC.hm-1,degrees Celsius per 100 metres,Unit of spatial gradient of temperature per 100 metres
 DU,Dobson Unit,"Unit of column abundance of ozone in the atmosphere. One Dobson unit is equivalent of 2.69E16 molecules of ozone per square centimeter. Alternatively, 1 Dobson unit corresponds to a layer of ozone 1E-5 m thick, if the ozone were held at standard temperature and pressure (273 K, 1 atm pressure). [https://glossary.ametsoc.org/wiki/Dobson_unit]"
 mon,month,"Unit of time, equivalent to 28-31 days"
+
 s-2,per second squared,Unit of second order time derivative
 kt.km-1,knots per 1000 metres,Unit of spatial rate of speed change
 ft,foot,"Imperial/US unit of length, equal to 30.48 centimetres"
 in,inch,"Imperial/US unit of length, equal to 25.4 millimetres"
-dPa.s-1,decipascals per second (microbar per second),"Unit of temporal derivative of pressure, pressure tendency, equal to 1E-1 Pa.s-1"
-cb.s-1,centibars per second,"Unit of temporal derivative of pressure, pressure tendency, equal to 1 kPa per second"
-cb.(12h)-1,centibars per 12 hours,"Unit of temporal derivative of pressure, pressure tendency, equal to 1 kPa per 12 hours"
+dPa.s-1,decipascals per second (microbar per second),"Unit of time derivative of pressure, pressure tendency, equal to 1E-1 Pa.s-1"
+cb.s-1,centibars per second,"Unit of time derivative of pressure, pressure tendency, equal to 1 kPa per second"
+cb.(12h)-1,centibars per 12 hours,"Unit of time derivative of pressure, pressure tendency, equal to 1 kPa per 12 hours"
 daPa,dekapascal,"Unit of pressure, stress, equal to 10 Pa"
 hPa,hectopascal,"Unit of pressure, stress, equal to 100 Pa"
-hPa.s-1,hectopascals per second,"Unit of temporal derivative of pressure, equal to 100 Pa per second"
-hPa.h-1,hectopascals per hour,"Unit of temporal derivative of pressure, equal to 100 Pa per hour"
-hPa.(3h)-1,hectopascals per 3 hours,"Unit of temporal derivative of pressure, equal to 100 Pa per 3 hours"
-nbar,nanobar,"Unit of pressure, equal to one billionth of a bar (1 bar = 100kPa), equal to 1E-4 Pa"
+hPa.s-1,hectopascals per second,"Unit of time derivative of pressure, equal to 100 Pa per second"
+hPa.h-1,hectopascals per hour,"Unit of time derivative of pressure, equal to 100 Pa per hour"
+hPa.(3h)-1,hectopascals per 3 hours,"Unit of time derivative of pressure, equal to 100 Pa per 3 hours"
+nbar,nanobar,"Unit of pressure, equal to 1E-4 Pa"
 g.kg-1,grams per kilogram,"Unit of mass fraction, dimensionless, equal to 0.001"
-g.kg-1.s-1,grams per kilogram per second,"Unit of mass fraction change per time, equal to 0.001 per second"
+g.kg-1.s-1,grams per kilogram per second,"Unit of time derivative of mass fraction, equal to 0.001 per second"
 kg.kg-1,kilograms per kilogram,"Unit of mass fraction, dimensionless, equal to 1"
-kg.kg-1.s-1,kilograms per kilogram per second,"Unit of mass fraction change per time, equal to s-1"
+kg.kg-1.s-1,kilograms per kilogram per second,"Unit of time derivative of mass fraction, equal to 1 per second"
 kg.m-2,kilograms per square metre,SI derived unit of area density
 g0,standard acceleration due to gravity,"g0 = 9.80665 m.s-2, approxiamtely"
 gpm,geopotential metre,The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)
-mm,millimetre,"Unit of length, equal to one thousandth of a metre (1e-3 m)"
+mm,millimetre,"Unit of length, equal to 0.001 m"
 mm.s-1,millimetres per second,"Unit of speed, equal to 0.001 metres per second"
 mm.h-1,millimetres per hour,"Unit of speed, equal to (0.001/3600 ) metres per second"
-mm6.m-3,millimetres to the sixth power per cubic metre,
+mm6.m-3,millimetres to the sixth power per cubic metre,"Unit of quantity with dimension of L3, 1E-9 m3"
 cm,centimetre,"Unit of length, equal to one hundredth of a metre (1e-2 m)"
 cm.s-1,centimetres per second,"Unit of speed, equal to 0.01 metres per second"
 cm.h-1,centimetres per hour,"Unit of speed, equal to (0.01/3600) metres per second"
@@ -87,33 +88,33 @@ m.s-1.km-1,metres per second per 1000 metres,"Unit of spatial gradient of speed,
 m2,square metres,SI derived unit of area
 m2.s-1,square metres per second,"SI derived unit of kinematic viscosity, thermal diffusivity, diffusion coefficient"
 km,kilometre,"Unit of length, equal to 1000 metres"
-km.h-1,kilometres per hour,Unit of speed (3.6 km.h-1 = 1 m.s-1)
-km.d-1,kilometres per day,Unit of speed (24 km.d-1 = 1 km.h-1)
-m-1,per metre,"SI derived unit of wavenumber, optical power, curvature, spatial frequency"
-Bq.l-1,becquerels per litre,"Unit of volumetric radioactivity concentration, equal to 1000 Bq.m-3"
-Bq.m-2,becquerels per square metre,Unit of area-related radioactivity
-Bq.m-3,becquerels per cubic metre,Unit of volumetric radioactivity concentration
-mSv,millisievert,"SI derived unit of equivalent dose (of ionizing radiation), equal to 0.001 Sv"
+km.h-1,kilometres per hour,"Unit of speed, equal to (1000/3600) metres per second"
+km.d-1,kilometres per day,"Unit of speed, equal to (1000/86400) metres per second"
+m-1,per metre,"SI derived unit of quantiy with dimension of reciprocal length, e.g., wavenumber, optical power, curvature, spatial frequency"
+Bq.l-1,becquerels per litre,"Unit of radioactivity concentration, equal to 0.001 Bq/m3"
+Bq.m-2,becquerels per square metre,SI derived unit of radioactivity area concentration
+Bq.m-3,becquerels per cubic metre,SI derived unit of radioactivity concentration
+mSv,millisievert,"SI derived unit of equivalent dose (of ionizing radiation), SI base unit equivalent: 0.001 m2.s-2"
 m.s-2,metres per second squared,SI derived unit of acceleration
-m2.s,square metres second,
-m2.s-2,square metres per square second,
+m2.s,square metres second,SI derived unit of quantity with dimension of L2 T
+m2.s-2,square metres per square second,SI derived quantity with dimension of squared speed
 m2.rad-1.s,square metres per radian second,
 m2.Hz-1,square metres per hertz,
 m3,cubic metres,SI derived unit of volume
-m3.s-1,cubic metres per second,SI derived unit of volumetric flow rate
-m3.m-3,cubic metres per cubic metre,
+m3.s-1,cubic metres per second,SI derived unit of volume flow rate or time derivative of volume
+m3.m-3,cubic metres per cubic metre,SI derived unit of volume fraction
 m4,metres to the fourth power,"SI derived unit of the second moment of area, area moment of inertia"
 m(2.3-1).s-1,metres to the two thirds power per second,
 kg.m-1,kilograms per metre,SI derived unit of linear mass density
-kg.m-2.s-1,kilograms per square metre per second,
+kg.m-2.s-1,kilograms per square metre per second,Unit of time derivative of mass area density
 kg.m-3,kilograms per cubic metre,"SI derived unit of density, mass density"
-kg-2.s-1,per square kilogram per second,
-s.m-1,seconds per metre,
-K.m.s-1,kelvin metres per second,Unit of temperature derivative of velocity
-K.m-1,kelvins per metre,Unit of spatial gradient of temperature
+kg-2.s-1,per square kilogram per second,SI derived unit of quantity with dimension of M-2.T-1
+s.m-1,seconds per metre,SI derived unit of quantity with dimension of T. L-1
+K.m.s-1,kelvin metres per second,SI derived Unit of time derivative of spatial graduent of temperature
+K.m-1,kelvins per metre,SI derived unit of spatial gradient of temperature
 K.m2.kg-1.s-1,kelvin square metres per kilogram per second,
 mol.mol-1,moles per mole,SI derived unit of mole fraction
-rad.m-1,radians per metre,SI derived unit of angular wavenumber
+rad.m-1,radians per metre,SI derived unit of spatial gradient of plane angle
 N.m-2,newtons per square metre,Unit of pressure or equivalent quantity
 Pa.s-1,pascals per second,Unit of temopral derivative of pressure
 kPa,kilopascal,"Unit of pressure, stress, equal to 1000 Pa"
@@ -126,8 +127,8 @@ W.m-2.sr-1.cm,watts per square metre per steradian centimetre,
 W.m-2.sr-1.m,watts per square metre per steradian metre,
 W.m-3.sr-1,watts per steradian cubic metre,SI derived unit of spectral radiance
 S.m-1,siemens per metre,Unit of spatial gradient of lectric conductance
-deg2,square degrees,Square of phase or plane angle
-Bq.s.m-3,becquerel seconds per cubic metre,Unit of temporal derivative of volumetric radioactivity concentration
+deg2,square degrees,Unit of square of phase or plane angle
+Bq.s.m-3,becquerel seconds per cubic metre,SI derived unit of time integrated radioactivity concentration
 dB.m-1,decibels per metre,Unit of spatial gradient of sound intensity
 dB.deg-1,decibels per degree,Unit of angular gradient of sound intensity
 pH_unit,pH unit,
@@ -146,7 +147,7 @@ umol.kg-1,micromoles per kilogram,Unit of molar mass concentration
 umol.l-1,micromoles per litre,Unit of molar volumetric concentration
 ng.m-3,nanograms per cubic metre,Unit of mass concentration
 1,dimensionless,Dimensionless
-rad.s-1,radian per second,Unit of angular velocity
+rad.s-1,radian per second,SI derived unit of angular velocity
 mGal,milligal,"CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m s-2)"
 E,Eötvös,"Unit of acceleration divided by distance, 1 E = 1 mGal / 10 km"
 t.ha-1,(metric) ton per hectare,Unit of area density
@@ -155,19 +156,19 @@ nm,nanometre,"Unit of length, equal to one billionth of a meter (1e-9 m)"
 ppmv,parts per million by volume,"Unit of volume fraction, equivelent to SI derived unit: cm3.m-3"
 ppbv,parts per billion by volume,"Unit of volume fraction, equivelent to SI derived unit: mm3.m-3"
 pptv,parts per trillion by volume,"Unit of volume fraction, equivelent to SI derived unit: um3.cm-3"
-km-1,per kilometre,"Unit of inverse length, equal to 1e-4 m-1"
-Mm-1,per megametre,"Unit of inverse length, equal to 1e-6 m-1"
+km-1,per kilometre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients, equal to 0.001 m-1"
+Mm-1,per megametre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients, equal to 1E-6 m-1"
 missing,(missing),"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
 inapplicable,(inapplicable),There is no value (categorical data).
-ug.m-3,micrograms per cubic metre,"Unit of mass concentration, equal to  equal to 1e-6 g.m-3"
-mg.l-1,milligrams per litre,"Unit of mass concentration, equal to  equal to 1 g.m-3"
-mg.cm-3,milligrams per cubic centimetre,"Unit of mass concentration, equal to 1e3 g.m-3"
+ug.m-3,micrograms per cubic metre,"SI derived unit of mass concentration, equal to 1E-9 kg/m3"
+mg.l-1,milligrams per litre,"SI derived unit of mass concentration, equal to 0.001 kg/m3"
+mg.cm-3,milligrams per cubic centimetre,"SI derivd unit of mass concentration, equal to 1 kg/m3"
 ng.kg-1,nanograms per kilogram,"SI derived unit for mass mixing ratio, equivalent to pptm or ppt"
 ug.kg-1,micrograms per kilogram,"SI derived unit for mass mixing ratio, equivalent to ppbm or ppb"
 mg.kg-1,milligrams per kilogram,"SI derived unit for mass mixing ratio, equivalent to ppmm or ppm"
 um3.cm-3,cubic micrometres per cubic centimetre,"SI derived unit for volumetric mixing ratio, equivalent to pptv"
 mm3.m-3,cubic millimetres per cubic metre,"SI derived unit for volumetric mixing ratio, equivalent to ppbv"
 cm3.m-3,cubic centimetres per cubic metre,"SI derived unit for volumetric mixing ratio, equivalent to ppmv"
-cm-3,per cubic centimetre,"SI derived unit of inverse volume, equal to 1e-6 m-3"
-m-3,per cubic metre,SI derived unit of inverse volume
+cm-3,per cubic centimetre,"SI derived unit of specific volume, equal to 1E-6 m-3"
+m-3,per cubic metre,SI derived unit of specific volume
 um,micrometre,"Unit of length, equal to one millionth of a metre (1e-6 m)"
