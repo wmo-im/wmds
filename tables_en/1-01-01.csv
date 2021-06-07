@@ -315,7 +315,7 @@ notation,path,name,description
 253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
 254,\Atmosphere\Humidity\Object wetness duration,Object wetness duration,
 255,\Atmosphere\Humidity\Water vapour pressure,Water vapour pressure,
-,\Atmosphere\Humidity\Watervapor,Watervapor,
+,\Atmosphere\Humidity\Water vapour,Water vapour,
 44,\Atmosphere\Integrated air samples,Integrated air samples,
 12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
 257,\Atmosphere\Lightning\Lightning discharge energy,Lightning discharge energy,
