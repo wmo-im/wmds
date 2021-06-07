@@ -55,7 +55,7 @@ https://codes.wmo.int/wmdr/unit/m_s-2,https://codes.wmo.int/wmdr/unit/m.s-2
 https://codes.wmo.int/wmdr/unit/m2_s,https://codes.wmo.int/wmdr/unit/m2.s
 https://codes.wmo.int/wmdr/unit/m2_s-2,https://codes.wmo.int/wmdr/unit/m2.s-2
 https://codes.wmo.int/wmdr/unit/m2_rad-1_s,https://codes.wmo.int/wmdr/unit/m2.rad-1.s
-https://codes.wmo.int/wmdr/unit/m2_Hz-1,https://codes.wmo.int/wmdr/unit/m2.Hz-1
+https://codes.wmo.int/wmdr/unit/m2_Hz-1,https://codes.wmo.int/wmdr/unit/m2.s
 https://codes.wmo.int/wmdr/unit/m3_s-1,https://codes.wmo.int/wmdr/unit/m3.s-1
 https://codes.wmo.int/wmdr/unit/m3_m-3,https://codes.wmo.int/wmdr/unit/m3.m-3
 https://codes.wmo.int/wmdr/unit/m(2_3)_s-1,https://codes.wmo.int/wmdr/unit/m(2.3-1).s-1
