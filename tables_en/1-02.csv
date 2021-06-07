@@ -131,7 +131,7 @@ deg2,square degrees,Unit of square of phase or plane angle
 Bq.s.m-3,becquerel seconds per cubic metre,SI derived unit of time integrated radioactivity concentration
 dB.m-1,decibels per metre,Unit of spatial gradient of sound intensity
 dB.deg-1,decibels per degree,Unit of angular gradient of sound intensity
-pH_unit,pH unit,
+pH_unit,pH unit,"Negative decimal logarithm of the hydrogen ion activity ("effective" concentration) specified in moles per litre"
 N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n – 1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'. (WMO Manual on Codes I.2)"
 unknown,(unknown),"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
 kHz,kilohertz,"Unit of frequency, equal to 1000 Hz"
