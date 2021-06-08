@@ -53,7 +53,6 @@ degC.m-1,degrees Celsius per metre,Unit of spatial gradient of temperature per m
 degC.hm-1,degrees Celsius per 100 metres,Unit of spatial gradient of temperature per 100 metres
 DU,Dobson Unit,"Unit of column abundance of ozone in the atmosphere. One Dobson unit is equivalent of 2.69E16 molecules of ozone per square centimeter. Alternatively, 1 Dobson unit corresponds to a layer of ozone 1E-5 m thick, if the ozone were held at standard temperature and pressure (273 K, 1 atm pressure). [https://glossary.ametsoc.org/wiki/Dobson_unit]"
 mon,month,"Unit of time, equivalent to 28-31 days"
-
 s-2,per second squared,Unit of second order time derivative
 kt.km-1,knots per 1000 metres,Unit of spatial rate of speed change
 ft,foot,"Imperial/US unit of length, equal to 30.48 centimetres"
@@ -119,18 +118,18 @@ Pa.s-1,pascals per second,Unit of temopral derivative of pressure
 kPa,kilopascal,"Unit of pressure, stress, equal to 1000 Pa"
 J.m-2,joules per square metre,SI derived unit of radiant exposure
 J.kg-1,joules per kilogram,SI derived unit of specific energy
-W.m-1.sr-1,watts per steradian metre,SI derived unit of spectral intensity
-W.m-2,watts per square metre,"SI derived unit of heat flux density, irradiance"
-W.m-2.sr-1,watts per steradian square metre,SI derived unit of radiance
-W.m-2.sr-1.cm,watts per square metre per steradian centimetre,
 W.m-2.sr-1.m,watts per square metre per steradian metre,
-W.m-3.sr-1,watts per steradian cubic metre,SI derived unit of spectral radiance
+W.m-2,watts per square metre,"SI derived unit of heat flux density, irradiance"
+W.m-2.sr-1.cm,watts per square metre per steradian centimetre,
+W.m-1.sr-1,watts per metre per steradian,SI derived unit of spectral intensity
+W.m-2.sr-1,watts per square metre per steradian,SI derived unit of radiance
+W.m-3.sr-1,watts per cubic metre per steradian,SI derived unit of spectral radiance
 S.m-1,siemens per metre,Unit of spatial gradient of lectric conductance
 deg2,square degrees,Unit of square of phase or plane angle
 Bq.s.m-3,becquerel seconds per cubic metre,SI derived unit of time integrated radioactivity concentration
 dB.m-1,decibels per metre,Unit of spatial gradient of sound intensity
 dB.deg-1,decibels per degree,Unit of angular gradient of sound intensity
-pH_unit,pH unit,"Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre"
+pH_unit,pH unit,Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre
 N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n – 1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'. (WMO Manual on Codes I.2)"
 unknown,(unknown),"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
 kHz,kilohertz,"Unit of frequency, equal to 1000 Hz"
@@ -171,3 +170,15 @@ cm3.m-3,cubic centimetres per cubic metre,"SI derived unit for volumetric mixing
 cm-3,per cubic centimetre,"SI derived unit of specific volume, equal to 1E-6 m-3"
 m-3,per cubic metre,SI derived unit of specific volume
 um,micrometre,"Unit of length, equal to one millionth of a metre (1e-6 m)"
+ug.l-1,micrograms per litre,"SI derived unit of mass concentration, equivalent to milligrams per cubir metre, equal to 1e-3 g.m-3"
+cm2,square centimetre,"SI derived unit of area, equal to 1e-4 m2"
+HU,Hazen units,Unit of color according to the Platinum/Cobalt or Apha/Hazen scale
+uS.cm-1,microsiemens per centimetre,"SI derived unit of spatial gradient of electrical conductance, equal to 1e-4 S.m-1"
+g.cm-3,grams per cubic centimetre,"SI derived unit of density, equivalent to kilograms per litre, equal to one thousand kilograms per cubic metre (1e+3 kg.m-3)"
+mV,millivolt,"SI derived unit of voltage, electrical potential difference, electromotive force, equal one thousandth of a volt (1e-3 V)"
+mbar,millibar,"SI derived unit of pressure, equal to one thousandth of a bar (1e-3 bar)"
+mmHg,millimetre of mercury,"Unit of pressure, equal to 133.322387415 pascals"
+kcal.cm-2,kilocalories per square centimetre,"Unit of radiant exposure, equal to 4.184e+7 J.m-2"
+NTU,nephelometric turbidity units,Units of turbidity from a calibrated nephelometer
+MPN.ml-1,most probable number index number in 1 millilitre,An MPN index number represents the MPN of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate.
+CFU.ml-1,colony-forming units per millilitre,A colony-forming unit (CFU) is a unit used to estimate the number of viable bacteria or fungal cells in a sample as a result of a plate count test.
