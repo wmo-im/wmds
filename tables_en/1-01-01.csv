@@ -133,7 +133,7 @@ new id,,Ångström exponent  for aerosol absorption optical depth,A measure of d
 364,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, PM10","Particle mass concentration, PM10",
 365,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, PM1","Particle mass concentration, PM1",
 366,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, PM2.5","Particle mass concentration, PM2.5",
-367,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated),Mass concentration (size fractionated),
+367,\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration (size fractionated),Particle mass concentration (size fractionated),
 368,"\Atmosphere\Aerosol\Physical properties - primary\Particle mass concentration, TSP","Particle mass concentration, TSP",
 369,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
 370,"\Atmosphere\Aerosol\Physical properties - primary\Particle Number size distribution, PM10","Particle Number size distribution, PM10",
