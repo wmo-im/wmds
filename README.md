@@ -13,20 +13,3 @@ Published code tables can be found at WMO Codes Registry for WIGOS Metadata Repr
   Part D – Representations derived from data models
   See chapter FM 241: WMDR
 
-## Testing and management
-
-./scripts provides tools written in Python to check content consistency with the published test and prod registers and to upload changes.
-
-example usage:
-
-consistency check
-
-```
-tmode=test outfile=</path/to/writeable/file> python3 -m scripts.check_urls
-```
-
-upload change
-
-```
-python3 -m scripts.uploadChanges <uname> <temporaryKey> test </path/to/a/readable/file>
-```
