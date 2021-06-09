@@ -11,8 +11,10 @@ This script uploads content to the defined register
 This reqires an authentication token and userID and structured
 content.
 
-The structured content is taken from the command line argument which
-shall consist of a dictionary with the keys:
+The structured content is taken from the command line positional argument
+uploads
+which may either consist of a path to a JSON encoded file or an explicit JSON string
+The JSON payload shall be a dictionary with the keys:
   'PUT', 'POST'
 and each key shall provide a list of .ttl files to upload to prodRegister
 based on the relative path of the .ttl file.
@@ -37,6 +39,7 @@ def parse_uploads(uploads):
     return result
 
 def post(session, url, payload):
+    # POST new content to the intended parent register
     headers={'Content-type':'text/turtle; charset=UTF-8'}
     response = session.get(url, headers=headers)
     #if response.status_code != 200:
@@ -48,6 +51,7 @@ def post(session, url, payload):
         print('POST failed with {}\n{}'.format(res.status_code, res.reason))
 
 def put(session, url, payload):
+    # PUT updated content to the entity already registered
     headers={'Content-type':'text/turtle; charset=UTF-8'}
     response = session.get(url, headers=headers)
     if response.status_code != 200:
