@@ -23,7 +23,7 @@ T,tesla,"SI derived unit of magnetic induction, magnetic flux density, SI base u
 H,henry,"SI derived unit of electrical inductance, SI base unit equivalent: kg.m2.s-2⋅A-2"
 lm,lumen,"SI derived unit of luminous flux, SI base unit equivalent: cd"
 lx,lux,"SI derived unit of illuminance, SI base unit equivalent: cd.m-2"
-Bq,becquerel,"SI derived unit of radioactivity, SI base unit equivalent: s-1"
+Bq,becquerel,"SI derived unit of radioactivity, SI base unit equivalent: s-1"
 Gy,gray,"SI derived unit of absorbed dose (of ionizing radiation), SI base unit equivalent: m2.s-2"
 Sv,sievert,"SI derived unit of equivalent dose (of ionizing radiation), SI base unit equivalent: m2.s-2"
 deg,degree (angle),"Unit of plane or phase angle, accepted for use with SI: 1 deg = (pi/180) rad"
@@ -36,16 +36,16 @@ d,day,"Unit of time, accepted for use with SI: 1 d = 86400 s"
 t,tonne,"Unit of mass, equal to 1000 kilograms"
 eV,electron Volt,"Unit of energy, accepted for use with SI: 1eV = 1.60218 x 10-19 J, approximately"
 u,unified atomic mass unit,"Physical constant u or Da (Dalton), unit of mass"
-AU,astronomical unit,"Unit of length, roughly the distance from Earth to the Sun (149597871000 metres)"
+AU,astronomical unit,"Unit of length, roughly the distance from Earth to the Sun (149597871000 metres)"
 pc,parsec,"Astronomical unit of length, distance: 1 pc = 149597871000 m"
 nmi,nautical mile,"Unit of Length, accepted for use with SI: 1 nmi = 1852 m"
-kt,knot,"Unit of speed, accepted for use with SI: 1 kt = 1 nmi/h = (1852/3600) m.s-1"
+kt,knot,"Unit of speed, accepted for use with SI: 1 kt = 1 nmi/h = (1852/3600) m.s-1"
 dB,decibel,"Unit of sound intensity, accepted for use with SI"
 ha,hectare,"Unit of area, accepted for use with SI: 1 ha = 10000 m2"
 week,week,"Unit of time, equivalent to 604800 s"
 a,year,"Unit of time, equivalent to 31536000 s"
-percent,per cent (%),"Dimensionless number, expressed as a fraction of 100"
-permil,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
+percent,per cent (%),"Dimensionless number, expressed as a fraction of 100"
+permil,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
 okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds"
 deg.s-1,degrees per second,"SI derived unit of angular speed, equal to 1 degree per second"
 degC,degrees Celsius (°C),"SI derived unit of temperature, SI base unit equivalent: K"
@@ -55,8 +55,8 @@ DU,Dobson Unit,"Unit of column abundance of ozone in the atmosphere. One Dobson 
 mon,month,"Unit of time, equivalent to 28-31 days"
 s-2,per second squared,SI derived unit of second order time derivative
 kt.km-1,knots per 1000 metres,"SI derived unit of spatial derivative of speed, equal to 0.51444 s-1, approximately"
-ft,foot,"Imperial/US unit of length, equal to 30.48 centimetres"
-in,inch,"Imperial/US unit of length, equal to 25.4 millimetres"
+ft,foot,"Imperial/US unit of length, equal to 30.48 centimetres"
+in,inch,"Imperial/US unit of length, equal to 25.4 millimetres"
 dPa.s-1,decipascals per second (microbar per second),"Unit of time derivative of pressure, pressure tendency, equal to 0.1 Pa.s-1"
 cb.s-1,centibars per second,"Unit of time derivative of pressure, pressure tendency, equal to 1 kPa per second"
 cb.(12h)-1,centibars per 12 hours,"Unit of time derivative of pressure, pressure tendency, equal to 1 kPa per 12 hours"
@@ -71,7 +71,7 @@ g.kg-1.s-1,grams per kilogram per second,"Unit of time derivative of mass fracti
 kg.kg-1,kilograms per kilogram,"Unit of mass fraction, dimensionless, equal to 1"
 kg.kg-1.s-1,kilograms per kilogram per second,"Unit of time derivative of mass fraction, equal to 1 per second"
 kg.m-2,kilograms per square metre,SI derived unit of area density
-g0,standard acceleration due to gravity,"g0 = 9.80665 m.s-2, approxiamtely"
+g0,standard acceleration due to gravity,"g0 = 9.80665 m.s-2, approximately"
 gpm,geopotential metre,The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)
 mm,millimetre,"SI derived unit of length, equal to 0.001 m"
 mm.s-1,millimetres per second,"SI derived unit of speed, equal to 0.001 metres per second"
@@ -118,9 +118,9 @@ Pa.s-1,pascals per second,Unit of temopral derivative of pressure
 kPa,kilopascal,"Unit of pressure, stress, equal to 1000 Pa"
 J.m-2,joules per square metre,SI derived unit of radiant exposure
 J.kg-1,joules per kilogram,SI derived unit of specific energy
-W.m-2.sr-1.m,watts per square metre per steradian metre,SI derived unit of spectral radiance per wave number
+W.m-2.sr-1.m,watts per square metre per steradian per inverse metre,SI derived unit of spectral radiance per wave number
 W.m-2,watts per square metre,"SI derived unit of heat flux density, irradiance"
-W.m-2.sr-1.cm,watts per square metre per steradian centimetre,"SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1"
+W.m-2.sr-1.cm,watts per square metre per steradian centimetre per inverse centimetre,"SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1"
 W.m-1.sr-1,watts per metre per steradian,SI derived unit of spectral intensity
 W.m-2.sr-1,watts per square metre per steradian,SI derived unit of radiance
 W.m-3.sr-1,watts per cubic metre per steradian,SI derived unit of spectral radiance
