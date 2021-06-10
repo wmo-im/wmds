@@ -96,7 +96,7 @@ Bq.m-3,becquerels per cubic metre,SI derived unit of radioactivity concentration
 mSv,millisievert,"SI derived unit of equivalent dose (of ionizing radiation), SI base unit equivalent: 0.001 m2.s-2"
 m.s-2,metres per second squared,SI derived unit of acceleration
 m2.s,square metres second,SI derived unit of sea surface wave variance spectral density
-m2.s-2,square metres per square second,SI derived quantity with dimension of squared speed
+m2.s-2,square metres per square second,SI derived unit of product of wind speed or geopotential
 m2.s.rad-1,square metres per radian second,SI derived unit of sea surface wave directional variance spectral density
 m3,cubic metres,SI derived unit of volume
 m3.s-1,cubic metres per second,SI derived unit of volume flow rate or time derivative of volume
@@ -107,7 +107,7 @@ kg.m-1,kilograms per metre,SI derived unit of linear mass density
 kg.m-2.s-1,kilograms per square metre per second,Unit of time derivative of mass area density
 kg.m-3,kilograms per cubic metre,"SI derived unit of density, mass density"
 kg-2.s-1,per square kilogram per second,SI derived unit of quantity with dimension of M-2 T-1
-s.m-1,seconds per metre,SI derived unit of quantity with dimension of T  L-1
+s.m-1,seconds per metre,SI derived unit of aerodynamic resistance
 K.m.s-1,kelvin metres per second,SI derived unit of covariance of wind speed and temperature or the product of wind speed and temperature
 K.m-1,kelvins per metre,SI derived unit of spatial gradient of temperature
 K.m2.kg-1.s-1,kelvin square metres per kilogram per second,SI derived unit of potential vorticity
