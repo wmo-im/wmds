@@ -115,6 +115,7 @@ https://codes.wmo.int/wmdr/unit/ng_m-3,https://codes.wmo.int/wmdr/unit/ng.m-3
 https://codes.wmo.int/wmdr/unit/rad_s-1,https://codes.wmo.int/wmdr/unit/rad.s-1
 https://codes.wmo.int/wmdr/unit/t_ha-1,https://codes.wmo.int/wmdr/unit/t.ha-1
 https://codes.wmo.int/wmdr/unit/Cel,https://codes.wmo.int/wmdr/unit/degC
+https://codes.wmo.int/wmdr/unit/deg_true,https://codes.wmo.int/wmdr/unit/deg
 https://codes.wmo.int/wmdr/unit/s-1,https://codes.wmo.int/wmdr/unit/Hz
 https://codes.wmo.int/wmdr/unit/m2_Hz-1,https://codes.wmo.int/wmdr/unit/m2.s
 https://codes.wmo.int/wmdr/unit/ug_m-3_20C,https://codes.wmo.int/wmdr/unit/ug.m-3
