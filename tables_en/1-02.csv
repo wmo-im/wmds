@@ -6,7 +6,7 @@ A,ampere,SI base unit of electric current
 K,kelvin,SI base unit of thermodynamic temperature
 mol,mole,SI base unit of amount of substance
 cd,candela,SI base unit of luminous intensity
-rad,radian,"SI derived unit of angle, SI base unit equivalent: 1"
+rad,radian,"SI derived unit of plane angle, SI base unit equivalent: 1"
 sr,steradian,"SI derived unit of solid angle, SI base unit equivalent: 1"
 Hz,hertz,"SI derived unit of frequency, SI base unit equivalent: s-1"
 N,newton,"SI derived unit of force, weight, SI base unit equivalent: kg.m.s-2"
@@ -34,7 +34,7 @@ min,minute (time),"Unit of time, accepted for use with SI: 1 min = 60 s"
 h,hour,"Unit of time, accepted for use with SI: 1 h = 3600 s"
 d,day,"Unit of time, accepted for use with SI: 1 d = 86400 s"
 t,tonne,"Unit of mass, equal to 1000 kilograms"
-eV,electron Volt,"Unit of energy, accepted for use with SI: 1eV = 1.60218 x 10-19 J, approximately"
+eV,electron Volt,"Unit of energy, accepted for use with SI: 1eV = 1.60218 x 1e-19 J, approximately"
 u,unified atomic mass unit,"Physical constant u or Da (Dalton), unit of mass"
 AU,astronomical unit,"Unit of length, roughly the distance from Earth to the Sun (149597871000 metres)"
 pc,parsec,"Astronomical unit of length, distance: 1 pc = 149597871000 m"
@@ -47,7 +47,7 @@ a,year,"Unit of time, equivalent to 31536000 s"
 percent,per cent (%),"Dimensionless number, expressed as a fraction of 100"
 permil,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
 okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds"
-deg.s-1,degrees per second,"SI derived unit of angular speed, equal to 1 degree per second"
+deg.s-1,degrees (angle) per second,"SI derived unit of angular speed, equal to 1 degree per second"
 degC,degrees Celsius (°C),"SI derived unit of temperature, SI base unit equivalent: K"
 degC.m-1,degrees Celsius per metre,SI derived unit of spatial gradient of temperature per metre
 degC.hm-1,degrees Celsius per hectometres,SI derived unit of spatial gradient of temperature per 100 metres
