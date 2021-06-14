@@ -1,4 +1,4 @@
-notation,path,name,description
+notation,path/tags,name,description
 37,\Atmosphere\Aerological soundings,Aerological soundings,
 579,"\Atmosphere\Aerosol\Composition\Acidity-Alkalinity, total aerosol","Acidity-Alkalinity, total aerosol",
 614,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1","Chloride (Cl-), PM1",
