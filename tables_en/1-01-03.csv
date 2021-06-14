@@ -12,7 +12,7 @@ notation,path,name,description
 71,\Ocean\Biogeochemistry\Inorganic Carbon\Chlorophyll a concentration,Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
 72,\Ocean\Biogeochemistry\Particulate Matter\Ocean suspended sediments concentration,Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3)."
 73,\Ocean\Biogeochemistry\Oil spill cover,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately."
-74,\Ocean\Biology\Primary Production,Primary production,"Production of organic matter by "phytoplankton," microscopic plant-like photosynthetic organisms that live in the water"
+74,\Ocean\Biology\Primary Production,Primary production,"Production of organic matter by 'phytoplankton', microscopic plant-like photosynthetic organisms that live in the water"
 75,\Ocean\Physical\Sea surface Mass Flux,Sea surface Mass Flux,Sea surface Mass Flux.
 76,\Ocean\Physical\Ocean Surface Heat Flux,Ocean Surface heat flux,"The  exchange of heat, per unit area, crossing the surface between the ocean and the atmosphere.  It consists of the turbulent (latent and sensible) and the radiative (short wave and long wave) components."
 77,\Ocean\Physical\Sea Surface height,Sea surface height anomaly (SSHA),Sea surface height anomaly.
