@@ -1,6 +1,6 @@
 notation,path,name,description
 13,\Ocean\Topography\Bathymetry,Bathymetry,
-18,\Ocean\Physical\Pressure,Pressure,Pressure(depth) measured by CTD.
+18,\Ocean\Physical\Pressure,Pressure,Pressure (depth) measured by CTD.
 62,\Ocean\Currents\Ocean Current - Direction,Ocean Current - Direction,
 63,\Ocean\Currents\Ocean Current - Speed,Ocean Current - Speed,Ocean motion measured at various depth levels.
 64,\Ocean\Physical\Sea Surface height\Ocean dynamic topography (ODT),Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects).
