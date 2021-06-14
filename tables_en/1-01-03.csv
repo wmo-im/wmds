@@ -1,5 +1,5 @@
 notation,tags,name,description
-13,topography,Bathymetry,
+13,topography,Bathymetry,Bathymetry
 18,physical properties,Pressure,Pressure (depth) measured by CTD.
 62,currents,Ocean Current - Direction,
 63,currents,Ocean Current - Speed,Ocean motion measured at various depth levels.
