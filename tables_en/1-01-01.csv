@@ -107,47 +107,47 @@ notation,path,name,description
 722,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol","Vanadium (V), total aerosol",
 723,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
 724,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",
-314,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
-315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
-316,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
-317,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
-318,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",
-new id,,"Hemispheric particle light backscatter coefficient, TSP","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
-new id,,"Hemispheric particle light backscatter coefficient, PM10","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
-new id,,"Hemispheric particle light backscatter coefficient, PM1","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles."
-new id,,"Particle light backscatter coefficient, TSP","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles."
-new id,,"Particle light backscatter coefficient, PM10","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles."
-new id,,"Particle light backscatter coefficient, PM1","The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles."
-new id,,"Hemispheric particle light forward scattering coefficient, TSP","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
-new id,,"Hemispheric  particle light forward scattering coefficient, PM10","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
-new id,,"Hemispheric  particle light forward scattering coefficient, PM1","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles."
-322,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1","Light scattering coefficient, PM1",
-323,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM10","Light scattering coefficient, PM10",
-324,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",
-325,"\Atmosphere\Aerosol\Optical properties\Aerosol optical depth, TSP","Aerosol optical depth, TSP","The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km]."
-361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
-362,\Atmosphere\Aerosol\Physical properties - primary\Particle effective radius,Particle effective radius,The area weighted mean radius of the aerosol particles.
-new id,,Particle effective diameter,The area weighted mean diameter of the aerosol particles.
-727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
-364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
-365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
-366,"\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5","Mass concentration (medium), PM2.5",
-367,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated),Mass concentration (size fractionated),
-368,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (total aerosol) or Mass TSP,Mass concentration (total aerosol) or Mass TSP,
-369,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
-370,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",
-371,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
-728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
-729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
-new id,,Aerosol Layer Height,Height of vertically localized aerosol layer above sea level.
-411,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
-412,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra,CCN concentration spectra,
-413,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 μm equivalent","Hygroscopic growth factor, 110 μm equivalent",
-414,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 μm equivalent","Hygroscopic growth factor, 165 μm equivalent",
-415,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 μm equivalent","Hygroscopic growth factor, 35 μm equivalent",
-416,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 μm equivalent","Hygroscopic growth factor, 50 μm equivalent",
-417,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 μm equivalent","Hygroscopic growth factor, 75 μm equivalent",
-418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
+314,particle phase, optical properties,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
+315,particle phase, optical properties,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
+316,particle phase, optical properties,Light absorption coefficient, PM1,
+317,particle phase, optical properties,Light absorption coefficient, PM10,
+318,particle phase, optical properties,Light absorption coefficient, total aerosol,
+new id,particle phase, optical properties,Hemispheric particle light backscatter coefficient, TSP,The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles.
+new id,particle phase, optical properties,Hemispheric particle light backscatter coefficient, PM10,The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles.
+new id,particle phase, optical properties,Hemispheric particle light backscatter coefficient, PM1,The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians, by total aerosol particles.
+new id,particle phase, optical properties,Particle light backscatter coefficient, TSP,The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
+new id,particle phase, optical properties,Particle light backscatter coefficient, PM10,The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
+new id,particle phase, optical properties,Particle light backscatter coefficient, PM1,The fraction of incident radiative flux scattered backward at 180 degrees by total aerosol particles.
+new id,particle phase, optical properties,Hemispheric particle light forward scattering coefficient, TSP,Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles.
+new id,particle phase, optical properties,Hemispheric  particle light forward scattering coefficient, PM10,Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles.
+new id,particle phase, optical properties,Hemispheric  particle light forward scattering coefficient, PM1,Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians, by total aerosol particles.
+322,particle phase, optical properties,Light scattering coefficient, PM1,
+323,particle phase, optical properties,Light scattering coefficient, PM10,
+324,particle phase, optical properties,Light scattering coefficient, total aerosol,
+325,particle phase, optical properties,Aerosol optical depth, TSP,The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km].
+361,particle phase, physical properties,Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
+362,particle phase, physical properties,Particle effective radius,The area weighted mean radius of the aerosol particles.
+new id,particle phase, physical properties,Particle effective diameter,The area weighted mean diameter of the aerosol particles.
+727,particle phase, physical properties,Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
+364,particle phase, physical properties,Mass concentration (coarse) or Mass PM10,
+365,particle phase, physical properties,Mass concentration (fine) or Mass PM1,
+366,particle phase, physical properties,Mass concentration (medium), PM2.5,
+367,particle phase, physical properties,Mass concentration (size fractionated),
+368,particle phase, physical properties,Mass concentration (total aerosol) or Mass TSP,
+369,particle phase, physical properties,Number concentration,
+370,particle phase, physical properties,Number size distribution, PM10,
+371,particle phase, physical properties,Number size distribution, total aerosol,
+728,particle phase, physical properties,Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
+729,particle phase, physical properties,Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
+new id,particle phase, physical properties,Aerosol Layer Height,Height of vertically localized aerosol layer above sea level.
+411,particle phase, physical properties,CCN concentration at single supersaturation,
+412,particle phase, physical properties,CCN concentration spectra,
+413,particle phase, physical properties,Hygroscopic growth factor, 110 μm equivalent,
+414,particle phase, physical properties,Hygroscopic growth factor, 165 μm equivalent,
+415,particle phase, physical properties,Hygroscopic growth factor, 35 μm equivalent,
+416,particle phase, physical properties,Hygroscopic growth factor, 50 μm equivalent,
+417,particle phase, physical properties,Hygroscopic growth factor, 75 μm equivalent,
+418,particle phase, physical properties,Hygroscopic growth factor, total aerosol,
 39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,
 180,\Atmosphere\Clouds\Cloud cover,Cloud cover,
