@@ -180,8 +180,8 @@ mbar,millibar,"SI derived unit of pressure, equal to one thousandth of a bar (1E
 mmHg,millimetre of mercury,"Unit of pressure, equal to 133.322387415 pascals"
 kcal.cm-2,kilocalories per square centimetre,"Unit of radiant exposure, equal to 4.184E7 J.m-2"
 NTU,nephelometric turbidity units,Units of turbidity from a calibrated nephelometer
-MPN.ml-1,most probable number index number in 1 millilitre,An MPN index number represents the MPN of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate.
-CFU.ml-1,colony-forming units per millilitre,A colony-forming unit (CFU) is a unit used to estimate the number of viable bacteria or fungal cells in a sample as a result of a plate count test.
+MPN.ml-1,most probable number index number in 1 millilitre,Unit of expected number concentration of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate
+CFU.ml-1,colony-forming units per millilitre,Unit of number concentration of viable bacteria or fungal cells in a sample as a result of a plate count test
 km-1.sr-1,per kilometre per steradian,"SI derived unit of the scattering coefficient at a given direction, equal to 1E-3 m-1.sr-1"
 m-1.sr-1,per metre per steradian,SI derived unit of the scattering coefficient at a given direction
 Mm-1.sr-1,per megametre per steradian,"SI derived unit of the scattering coefficient at a given direction, equal to 1E-6 m-1.sr-1"
