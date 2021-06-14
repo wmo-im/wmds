@@ -149,7 +149,7 @@ new id,"particle phase, optical properties",Ångström exponent  for aerosol abs
 417,"particle phase, physical properties","Hygroscopic growth factor, 75 μm equivalent",
 418,"particle phase, physical properties","Hygroscopic growth factor, total aerosol",
 new id,"particle phase, physical properties",Particle Surface Area Size Distribution,"Particle surface area concentration as a function of size, typically equivalent spherical radius or diameter."
-new id,"particle phase, physical properties",Particle Volume Density Size Distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle Volume Size Distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
 new id,"particle phase, physical properties",Particle Mass Size Distribution,"Particle mass concentration as a function of size, typically equivalent spherical radius or diameter."
 new id,"particle phase, physical properties",Hygroscopic particle size growth factor,A scaling factor describing the particle equivalent spherical size change as a function of relative humidity due to absorbing or evaporating water.
 new id,"particle phase, physical properties",Hygroscopic particle light scattering growth factor,A scaling factor describing the particle scattering coefficient change as a function of relative humidity due to absorbing or evaporating water.
