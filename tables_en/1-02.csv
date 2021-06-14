@@ -174,11 +174,11 @@ ug.l-1,micrograms per litre,"SI derived unit of mass concentration, equivalent t
 cm2,square centimetre,"SI derived unit of area, equal to 1E-4 m2"
 HU,Hazen units,Unit of color according to the Platinum/Cobalt or Apha/Hazen scale
 uS.cm-1,microsiemens per centimetre,"SI derived unit of spatial gradient of electrical conductance, equal to 1E-4 S.m-1"
-g.cm-3,grams per cubic centimetre,"SI derived unit of density, equivalent to kilograms per litre, equal to one thousand kilograms per cubic metre (1E+3 kg.m-3)"
+g.cm-3,grams per cubic centimetre,"SI derived unit of density, equivalent to kilograms per litre, equal to one thousand kilograms per cubic metre (1E3 kg.m-3)"
 mV,millivolt,"SI derived unit of voltage, electrical potential difference, electromotive force, equal one thousandth of a volt (1E-3 V)"
 mbar,millibar,"SI derived unit of pressure, equal to one thousandth of a bar (1E-3 bar)"
 mmHg,millimetre of mercury,"Unit of pressure, equal to 133.322387415 pascals"
-kcal.cm-2,kilocalories per square centimetre,"Unit of radiant exposure, equal to 4.184e+7 J.m-2"
+kcal.cm-2,kilocalories per square centimetre,"Unit of radiant exposure, equal to 4.184E7 J.m-2"
 NTU,nephelometric turbidity units,Units of turbidity from a calibrated nephelometer
 MPN.ml-1,most probable number index number in 1 millilitre,An MPN index number represents the MPN of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate.
 CFU.ml-1,colony-forming units per millilitre,A colony-forming unit (CFU) is a unit used to estimate the number of viable bacteria or fungal cells in a sample as a result of a plate count test.
