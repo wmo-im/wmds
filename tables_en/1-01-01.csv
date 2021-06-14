@@ -446,5 +446,4 @@ notation,path,name,description
 12006,\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface
 310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
 307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)",Z component of wind vector  (horizontal and vertical profile)
-unknown,,unknown,The variable is unknown.
-inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
+
