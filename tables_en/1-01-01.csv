@@ -394,10 +394,10 @@ notation,path,name,description
 new id,radionuclide,Tritium [H-3],"IUPAC: n/a, PubChem CID: 24824, CAS Number: 10028-17-8"
 new id,radionuclide,Carbon [C-14],"IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5"
 new id,radionuclide,Sodium [Na-22],"IUPAC: sodium-22, PubChem CID: 6328543, CAS Number: 13966-32-0"
-new id,radionuclide,Sodium [Na-24],IUPAC: sodium-24, PubChem CID: 6335498, CAS Number: 13982-04-2
-new id,radionuclide,Chlorine [Cl-38],IUPAC: n/a, PubChem CID: 167013, CAS Number: 14158-34-0
+new id,radionuclide,Sodium [Na-24],"IUPAC: sodium-24, PubChem CID: 6335498, CAS Number: 13982-04-2"
+new id,radionuclide,Chlorine [Cl-38],"IUPAC: n/a, PubChem CID: 167013, CAS Number: 14158-34-0"
 new id,radionuclide,Potassium [K-40],"IUPAC: potassium-40, PubChem CID: 6328542, CAS Number: 13966-00-2"
-new id,radionuclide,Potassium [K-42],IUPAC: potassium-42, PubChem CID: 11607897, CAS Number: 14378-21-3
+new id,radionuclide,Potassium [K-42],"IUPAC: potassium-42, PubChem CID: 11607897, CAS Number: 14378-21-3"
 new id,radionuclide,Scandium [Sc-46],"IUPAC: scandium-46, PubChem CID: 107673, CAS Number: 13967-63-0"
 new id,radionuclide,Chromium [Cr-51],"IUPAC: chromium-51, PubChem CID: 104786, CAS Number: 14392-02-0"
 new id,radionuclide,Manganese [Mn-53],"IUPAC: manganese-53, PubChem CID: 167227, CAS Number: 14999-33-8"
