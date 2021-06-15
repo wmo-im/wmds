@@ -138,7 +138,7 @@ new id,"particle phase, optical properties",Ångström exponent  for aerosol abs
 369,"particle phase, physical properties",Particle number concentration,Amount of particles per unit volume of air
 370,"particle phase, physical properties","Particle number size distribution, PM10","Particle number concentration as a function of size, typically equivalent spherical radius or diameter. Size range: TSP"
 371,"particle phase, physical properties","Particle number size distribution, TSP","Particle number concentration as a function of size, typically equivalent spherical radius or diameter. Size range: PM10"
-728,"particle phase, physical properties",Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
+728,"particle phase, physical properties",Volcanic ash particle mass concentration,3D field of mass mixing ratio of volcanic ash
 729,"particle phase, physical properties",Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
 411,"particle phase, physical properties",CCN concentration at single supersaturation,
 412,"particle phase, physical properties",CCN concentration spectra,
