@@ -11,7 +11,7 @@ name,description,notation
 "Sieving","Sample is sieved before analysis","sieving"
 "(other)","Other sample treatment","other"
 "(unknown)","unknown","unknown"
-"Chemical denudation","Sample is extracted from its matrix by chemical denudation","denudation"
+"Chemical denuding","Process to remove certain gas phase species from sample before analysis","denuding"
 "Chemical conversion","Sample is chemically converted before analysis","conversion"
 "Thermal decomposition","Sample is thermally decomposed before analysis","decomposition"
 "Particle removal","Particles are removed from the sample before analysis by a filtering, cyclones, impactors, and electrostatic or diffusional removal","particleRemoval"
