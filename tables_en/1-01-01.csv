@@ -415,15 +415,15 @@ new id,radionuclide,Strontium [Sr-89],"IUPAC: strontium-89, PubChem CID: 5388880
 new id,radionuclide,Strontium [Sr-90],"IUPAC: strontium-90, PubChem CID: 5486204, CAS Number: 10098-97-2"
 new id,radionuclide,Strontium [Sr-91],"IUPAC: strontium-91, PubChem CID: 6337043, CAS Number: 14331-91-0"
 new id,radionuclide,Yttrium [Y-88],"IUPAC: yttrium-88, PubChem CID: 105173, CAS Number: 13982-36-0"
-new id,radionuclide,Yttrium [Y-90m],"Metastable (excited) state of yttrium-90 isotope with a specific half-life for de-excitation, IUPAC: yttrium-90, PubChem CID: 104760, CAS Number: 10098-91-6"
+new id,radionuclide,Yttrium [Y-90m],"Metastable (excited) state of yttrium-90 isotope, IUPAC: yttrium-90, PubChem CID: 104760, CAS Number: 10098-91-6"
 new id,radionuclide,Zirconium [Zr-95],"IUPAC: zirconium-95, PubChem CID: 91573, CAS Number: 13967-71-0"
 new id,radionuclide,Niobium [Nb-95],"IUPAC: niobium-95, PubChem CID: 104776, CAS Number: 13967-76-5"
 new id,radionuclide,Molybdenum [Mo-99],"IUPAC: molybdenum-99, PubChem CID: 104976, CAS Number: 14119-15-4"
-new id,radionuclide,Technetium  [Tc-99m],
+new id,radionuclide,Technetium  [Tc-99m],"Metastable (excited) state of technetium-99 isotope, IUPAC: technetium-99, PubChem CID: 26476, CAS Number: 14133-76-7"
 new id,radionuclide,Ruthenium [Ru-103],"IUPAC: ruthenium-103, PubChem CID: 104749, CAS Number: 13968-53-1"
 new id,radionuclide,Ruthenium [Ru-106],"IUPAC: ruthenium-106, PubChem CID: 26359, CAS Number: 13967-48-1"
-new id,radionuclide,Silver [Ag-108m],
-new id,radionuclide,Silver [Ag-110m],
+new id,radionuclide,Silver [Ag-108m],"Metastable (excited) state of silver-108 isotope, IUPAC: silver-108, PubChem CID: 167088, CAS Number: 14391-65-2"
+new id,radionuclide,Silver [Ag-110m],"Metastable (excited) state of silver-110 isotope, IUPAC: silver-110, PubChem CID: 104828, CAS Number: 14391-76-5"
 new id,radionuclide,Indium [In-111],"IUPAC: indium-111, PubChem CID: 5462099, CAS Number: 15750-15-9"
 new id,radionuclide,Tin [Sn-113],"IUPAC: tin-113, PubChem CID: 6335514, CAS Number: 13966-06-8"
 new id,radionuclide,Antimony [Sb-122],"IUPAC: antimony-122, PubChem CID: 6335836, CAS Number: 14374-79-9"
@@ -462,7 +462,7 @@ new id,radionuclide,Uranium [U-238],"IUPAC: uranium-238, PubChem CID: n/a, CAS N
 new id,radionuclide,Plutonium [Pu-238],"IUPAC: plutonium-238, PubChem CID: 61709, CAS Number: 13981-16-3"
 new id,radionuclide,Neptunium [Np-239],"IUPAC: neptunium-239, PubChem CID: 104958, CAS Number: 13968-59-7"
 new id,radionuclide,Americium [Am-241],"IUPAC: americium-241, PubChem CID: 104726, CAS Number: 14596-10-2"
-new id,radionuclide,Sum of Plutonium [Pu-239] and [Pu-240],
+new id,radionuclide,Sum of Plutonium [Pu-239] and [Pu-240],"Sum of Plutonium isotopes: Pu-239 and Pu-240, IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3 and IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3"
 new id,radionuclide,Gold [Au-198],"IUPAC: gold-198, PubChem CID: 66274, CAS Number: 10043-49-9"
 56,\Atmosphere\Special phenomena,Special phenomena,
 57,\Atmosphere\State of ground,State of ground,
