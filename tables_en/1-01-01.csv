@@ -133,7 +133,7 @@ new id,"particle phase, physical properties",Particle effective diameter,The are
 371,"particle phase, physical properties","Number size distribution, total aerosol",
 728,"particle phase, physical properties",Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
 729,"particle phase, physical properties",Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
-new id,"particle phase, physical properties",Aerosol Layer Height,Height of vertically localized aerosol layer above sea level.
+new id,aerosol,Aerosol Layer Height,Height of vertically localized aerosol layer above sea level.
 411,"particle phase, physical properties",CCN concentration at single supersaturation,
 412,"particle phase, physical properties",CCN concentration spectra,
 413,"particle phase, physical properties","Hygroscopic growth factor, 110 μm equivalent",
