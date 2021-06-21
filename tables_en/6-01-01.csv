@@ -1,12 +1,12 @@
 notation,name,description
-10,nucleation mode,"Particles with diameter from 0.001 to 0.01 µm (nucleation mode), sizing method defined separately or by context."
-20,Aitken mode,"Particles with diameter from 0.01 to 0.1 µm (Aitken mode), sizing method defined separately or by context."
-30,PM0.1,Particles with aerodynamic diameter smaller than 0.1 µm.
-40,accumulation mode, "Particles with diameter from 0.1 to 1 µm (accumulation mode), sizing method defined separately or by context."
-50,fine mode,"Particles with diameter up to 1 µm (fine mode), sizing method defined separately or by context."
-60,PM1,Particles with aerodynamic diameter up to 1 µm.
-70,coarse mode,"Particles with diameter greater than 1 µm (coarse mode), sizing method defined separately or by context."
-80,PM2.5,Particles with aerodynamic diameter up to 2.5 µm.
-90,PM2.5 - PM10,Particles with aerodynamic diameter from 2.5 to 10 µm.
-100,PM10,Particles with aerodynamic diameter up to 10 µm.
-200,total suspended particles,Not size-resolved
+10,nucleation mode,"Particles with diameter from 0.001 to 0.01 µm (nucleation mode), sizing method defined separately or by context"
+20,Aitken mode,"Particles with diameter from 0.01 to 0.1 µm (Aitken mode), sizing method defined separately or by context"
+30,PM0.1,Particles with aerodynamic diameter smaller than 0.1 µm
+40,accumulation mode, "Particles with diameter from 0.1 to 1 µm (accumulation mode), sizing method defined separately or by context"
+50,fine mode,"Particles with diameter up to 1 µm (fine mode), sizing method defined separately or by context"
+60,PM1,Particles with aerodynamic diameter up to 1 µm
+70,PM2.5,Particles with aerodynamic diameter up to 2.5 µm
+80,PM2.5 - PM10,Particles with aerodynamic diameter from 2.5 to 10 µm
+90,coarse mode,"Particles with diameter greater than 1 µm (coarse mode), sizing method defined separately or by context"
+100,PM10,Particles with aerodynamic diameter up to 10 µm
+200,total suspended particles (TSP),Not size-resolved
