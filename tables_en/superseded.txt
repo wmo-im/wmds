@@ -17,7 +17,6 @@ https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_610,https://codes.wmo.in
 https://codes.wmo.int/wmdr/ProgramAffiliation/IDAF,https://codes.wmo.int/wmdr/ProgramAffiliation/INDAAF
 https://codes.wmo.int/wmdr/ProgramAffiliation/ESRLCCG,https://codes.wmo.int/wmdr/ProgramAffiliation/NOAAGML
 http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_201
-https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/729,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
 https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/328,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/327
 https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/374,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/373
 https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/263,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
