@@ -150,7 +150,7 @@ notation,path,name,description
 327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,Atmospheric water in the solid phase (precipitating or not). 
 329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume."
 330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
-331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
+331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object."
 373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),Atmospheric water in the liquid phase (precipitating or not).
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
 506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
