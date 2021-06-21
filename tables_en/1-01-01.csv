@@ -131,8 +131,8 @@ notation,path,name,description
 369,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
 370,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",
 371,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
-728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),Mass mixing ratio of volcanic ash
-,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash,Aerosol volcanic ash,
+728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
+729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
 411,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
 412,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra,CCN concentration spectra,
 413,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 μm equivalent","Hygroscopic growth factor, 110 μm equivalent",
