@@ -415,7 +415,7 @@ new id,radionuclide,Strontium [Sr-89],"IUPAC: strontium-89, PubChem CID: 5388880
 new id,radionuclide,Strontium [Sr-90],"IUPAC: strontium-90, PubChem CID: 5486204, CAS Number: 10098-97-2"
 new id,radionuclide,Strontium [Sr-91],"IUPAC: strontium-91, PubChem CID: 6337043, CAS Number: 14331-91-0"
 new id,radionuclide,Yttrium [Y-88],"IUPAC: yttrium-88, PubChem CID: 105173, CAS Number: 13982-36-0"
-new id,radionuclide,Yttrium [Y-90m],
+new id,radionuclide,Yttrium [Y-90m],"Metastable (excited) state of yttrium-90 isotope with a specific half-life for de-excitation, IUPAC: yttrium-90, PubChem CID: 104760, CAS Number: 10098-91-6"
 new id,radionuclide,Zirconium [Zr-95],"IUPAC: zirconium-95, PubChem CID: 91573, CAS Number: 13967-71-0"
 new id,radionuclide,Niobium [Nb-95],"IUPAC: niobium-95, PubChem CID: 104776, CAS Number: 13967-76-5"
 new id,radionuclide,Molybdenum [Mo-99],"IUPAC: molybdenum-99, PubChem CID: 104976, CAS Number: 14119-15-4"
