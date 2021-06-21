@@ -391,70 +391,70 @@ notation,path,name,description
 221,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],Krypton (Kr-85 isotope)
 222,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (Pb-210 isotope)
 223,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
-,\Atmosphere\Bioaerosol\Pollen\Total Pollen,Total pollen,All pollen taxa
-,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Total Pinaceae,Pinaceae,Pine family pollen
-,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Abies,Abies,Fir pollen
-,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Picea,Picea,Spruce pollen
-,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Larix,Larix,Larch pollen
-,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Pinus,Pinus,Pine pollen
-,\Atmosphere\Bioaerosol\Pollen\Cupressaceae\Total Cupressaceae,Total Cupressaceae,Cypress family pollen
-,\Atmosphere\Bioaerosol\Pollen\Arecaceae\Total Arecaceae,Total Arecaceae,Palm family pollen
-,\Atmosphere\Bioaerosol\Pollen\Platanaceae\Platanus,Platanus,Plane tree pollen
-,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Parietaria,Parietaria,Pellitory pollen
-,\Atmosphere\Bioaerosol\Pollen\Urticaceae\Urtica,Urtica,Nettle pollen
-,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Castanea,Castanea,Sweet chestnut pollen
-,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Fagus,Fagus,Beech pollen
-,\Atmosphere\Bioaerosol\Pollen\Fagaceae\Quercus,Quercus,Oak pollen
-,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Total Betulaceae,Total Betulaceae,Birch family pollen
-,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Alnus,Alnus,Alder pollen
-,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Betula,Betula,Birch pollen
-,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Carpinus,Carpinus,Hornbeam pollen
-,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Corylus,Corylus,Hazel pollen
-,\Atmosphere\Bioaerosol\Pollen\Amaranthaceae\Total Amaranthaceae,Total Amaranthaceae,Amaranth family pollen
-,\Atmosphere\Bioaerosol\Pollen\Amaranthaceae\Chenopodium,Chenopodium,Chenopodium (goosefoot) pollen
-,\Atmosphere\Bioaerosol\Pollen\Salicaceae\Populus,Populus,Poplar pollen
-,\Atmosphere\Bioaerosol\Pollen\Salicaceae\Salix,Salix,Willow pollen
-,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Total Oleaceae,Oleaceae,Olive family pollen
-,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Olea,Olea,Olive pollen
-,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Fraxinus,Fraxinus,Ash pollen
-,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Total Asteraceae,Total Asteraceae,Aster family pollen
-,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Ambrosia,Ambrosia,Ragweed pollen
-,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Artemisia,Artemisia,Mugwort pollen
-,\Atmosphere\Bioaerosol\Pollen\Asteraceae\Solidago,Solidago,Solidago (goldenrod) pollen
-,\Atmosphere\Bioaerosol\Pollen\Poaceae\Total Poaceae,Total Poaceae,Grasses pollen
-,\Atmosphere\Bioaerosol\Pollen\Poaceae\Secale,Secale,Secale pollen
-,\Atmosphere\Bioaerosol\Pollen\Poaceae\Zea mays,Zea mays,Maize pollen
-,\Atmosphere\Bioaerosol\Pollen\Juglandaceae\Juglans,Juglans,Walnut tree pollen
-,\Atmosphere\Bioaerosol\Pollen\Ulmaceae\Ulmus,Ulmus,Elm pollen
-,\Atmosphere\Bioaerosol\Pollen\Sapindaceae\Acer,Acer,Maple pollen
-,\Atmosphere\Bioaerosol\Pollen\Sapindaceae\Aesculus,Aesculus,Aesculus pollen
-,\Atmosphere\Bioaerosol\Pollen\Brassicaceae\Brassica,Brassica,Brassica pollen
-,\Atmosphere\Bioaerosol\Pollen\Plantaginaceae\Plantago,Plantago,Plantain pollen
-,\Atmosphere\Bioaerosol\Pollen\Adoxaceae\Sambucus,Sambucus,Sambucus (elder) pollen
-,\Atmosphere\Bioaerosol\Pollen\Polygonaceae\Rumex,Rumex,"Rumex (dock, sorrel) pollen"
-,\Atmosphere\Bioaerosol\Pollen\Malvaceae\Tilia,Tilia,Linden pollen
-,\Atmosphere\Bioaerosol\Pollen\Cannabaceae\Humulus,Humulus,Hop pollen
-,\Atmosphere\Bioaerosol\Pollen\Taxaceae\Taxus,Taxus,Yew pollen
-,\Atmosphere\Bioaerosol\Pollen\Elaeagnaceae\Hippophae,Hippophae,Sea-buckthorn pollen
-,\Atmosphere\Bioaerosol\Pollen\Aquifoliaceae\Ilex,Ilex,Holly pollen
-,\Atmosphere\Bioaerosol\Pollen\Oleaceae\Ligustrum,Ligustrum,Privet pollen
-,\Atmosphere\Bioaerosol\Pollen\Juncaceae\Total Juncaceae,Total Juncaceae,Rush family pollen
-,\Atmosphere\Bioaerosol\Pollen\Cyperaceae\Total Cyperaceae,Total Cyperaceae,Sedge family pollen
-,\Atmosphere\Bioaerosol\Pollen\Ericaceae\Total Ericaceae,Total Ericaceae,Heather family pollen
-,\Atmosphere\Bioaerosol\Pollen\Rosaceae\Total Rosaceae,Total Rosaceae,Rose family pollen
-,\Atmosphere\Bioaerosol\Pollen\Caryophyllaceae\Silene,Silene,Melandrium pollen
-,\Atmosphere\Bioaerosol\Pollen\Ranunculaceae\Total Ranunculaceae,Total Ranunculaceae,Buttercup family pollen
-,\Atmosphere\Bioaerosol\Pollen\Umbelliferae\Total Umbelliferae,Total Umbelliferae,"Celery, carrot or parsley family pollen"
-,\Atmosphere\Bioaerosol\Pollen\Brassicaceae\Total Brassicaceae,Total Brassicaceae,"Cabbage family (mustards, crucifers) pollen"
-,\Atmosphere\Bioaerosol\Pollen\Betulaceae\Ostrya,Ostrya,Hophornbeam pollen
-,\Atmosphere\Bioaerosol\Pollen\Pinaceae\Cedrus,Cedrus,Cedar family pollen
-,\Atmosphere\Bioaerosol\Pollen\Buxaceae\Buxus,Buxus,Box pollen
-,\Atmosphere\Bioaerosol\Pollen\Ginkgoaceae\Ginkgo,Ginkgo,Ginkgo pollen
-,\Atmosphere\Bioaerosol\Pollen\Altingiaceae\Liquidambar,Liquidambar,Sweetgum pollen
-,\Atmosphere\Bioaerosol\Pollen\Euphorbiaceae\Mercurialis,Mercurialis,Mercuries pollen
-,\Atmosphere\Bioaerosol\Pollen\Moraceae\Total Moraceae,Total Moraceae,Mulberry family pollen
-,\Atmosphere\Bioaerosol\Fungi\Pleosporales\Alternaria,Alternaria,Alternaria spores
-,\Atmosphere\Bioaerosol\Fungi\Capnodiales\Cladosporium,Cladosporium,Cladosporium spores
+new id,"bioaerosol, pollen",Total pollen,All pollen taxa
+new id,"bioaerosol, pollen, pinaceae",Total Pinaceae,Pine family pollen
+new id,"bioaerosol, pollen, pinaceae",Abies,Fir pollen
+new id,"bioaerosol, pollen, pinaceae",Picea,Spruce pollen
+new id,"bioaerosol, pollen, pinaceae",Larix,Larch pollen
+new id,"bioaerosol, pollen, pinaceae",Pinus,Pine pollen
+new id,"bioaerosol, pollen, cupressaceae",Total Cupressaceae,Cypress family pollen
+new id,"bioaerosol, pollen, arecaceae",Total Arecaceae,Palm family pollen
+new id,"bioaerosol, pollen, platanaceae",Platanus,Plane tree pollen
+new id,"bioaerosol, pollen, urticaceae",Parietaria,Pellitory pollen
+new id,"bioaerosol, pollen, urticaceae",Urtica,Nettle pollen
+new id,"bioaerosol, pollen, fagaceae",Castanea,Sweet chestnut pollen
+new id,"bioaerosol, pollen, fagaceae",Fagus,Beech pollen
+new id,"bioaerosol, pollen, fagaceae",Quercus,Oak pollen
+new id,"bioaerosol, pollen, betulaceae",Total Betulaceae,Birch family pollen
+new id,"bioaerosol, pollen, betulaceae",Alnus,Alder pollen
+new id,"bioaerosol, pollen, betulaceae",Betula,Birch pollen
+new id,"bioaerosol, pollen, betulaceae",Carpinus,Hornbeam pollen
+new id,"bioaerosol, pollen, betulaceae",Corylus,Hazel pollen
+new id,"bioaerosol, pollen, amaranthaceae",Total Amaranthaceae,Amaranth family pollen
+new id,"bioaerosol, pollen, amaranthaceae",Chenopodium,Chenopodium (goosefoot) pollen
+new id,"bioaerosol, pollen, salicaceae",Populus,Poplar pollen
+new id,"bioaerosol, pollen, salicaceae",Salix,Willow pollen
+new id,"bioaerosol, pollen, oleaceae",Total Oleaceae,Olive family pollen
+new id,"bioaerosol, pollen, oleaceae",Olea,Olive pollen
+new id,"bioaerosol, pollen, oleaceae",Fraxinus,Ash pollen
+new id,"bioaerosol, pollen, asteraceae",Total Asteraceae,Aster family pollen
+new id,"bioaerosol, pollen, asteraceae",Ambrosia,Ragweed pollen
+new id,"bioaerosol, pollen, asteraceae",Artemisia,Mugwort pollen
+new id,"bioaerosol, pollen, asteraceae",Solidago,Solidago (goldenrod) pollen
+new id,"bioaerosol, pollen, poaceae",Total Poaceae,Grasses pollen
+new id,"bioaerosol, pollen, poaceae",Secale,Secale pollen
+new id,"bioaerosol, pollen, poaceae",Zea mays,Maize pollen
+new id,"bioaerosol, pollen, juglandaceae",Juglans,Walnut tree pollen
+new id,"bioaerosol, pollen, ulmaceae",Ulmus,Elm pollen
+new id,"bioaerosol, pollen, sapindaceae",Acer,Maple pollen
+new id,"bioaerosol, pollen, sapindaceae",Aesculus,Aesculus pollen
+new id,"bioaerosol, pollen, brassicaceae",Brassica,Brassica pollen
+new id,"bioaerosol, pollen, plantaginaceae",Plantago,Plantain pollen
+new id,"bioaerosol, pollen, adoxaceae",Sambucus,Sambucus (elder) pollen
+new id,"bioaerosol, pollen, polygonaceae",Rumex,Rumex (dock, sorrel) pollen
+new id,"bioaerosol, pollen, malvaceae",Tilia,Linden pollen
+new id,"bioaerosol, pollen, cannabaceae",Humulus,Hop pollen
+new id,"bioaerosol, pollen, taxaceae",Taxus,Yew pollen
+new id,"bioaerosol, pollen, elaeagnaceae",Hippophae,Sea-buckthorn pollen
+new id,"bioaerosol, pollen, aquifoliaceae",Ilex,Holly pollen
+new id,"bioaerosol, pollen, oleaceae",Ligustrum,Privet pollen
+new id,"bioaerosol, pollen, juncaceae",Total Juncaceae,Rush family pollen
+new id,"bioaerosol, pollen, cyperaceae",Total Cyperaceae,Sedge family pollen
+new id,"bioaerosol, pollen, ericaceae",Total Ericaceae,Heather family pollen
+new id,"bioaerosol, pollen, rosaceae",Total Rosaceae,Rose family pollen
+new id,"bioaerosol, pollen, caryophyllaceae",Silene,Melandrium pollen
+new id,"bioaerosol, pollen, ranunculaceae",Total Ranunculaceae,Buttercup family pollen
+new id,"bioaerosol, pollen, umbelliferae",Total Umbelliferae,Celery, carrot or parsley family pollen
+new id,"bioaerosol, pollen, brassicaceae",Total Brassicaceae,Cabbage family (mustards, crucifers) pollen
+new id,"bioaerosol, pollen, betulaceae",Ostrya,Hophornbeam pollen
+new id,"bioaerosol, pollen, pinaceae",Cedrus,Cedar family pollen
+new id,"bioaerosol, pollen, buxaceae",Buxus,Box pollen
+new id,"bioaerosol, pollen, ginkgoaceae",Ginkgo,Ginkgo pollen
+new id,"bioaerosol, pollen, altingiaceae",Liquidambar,Sweetgum pollen
+new id,"bioaerosol, pollen, euphorbiaceae",Mercurialis,Mercuries pollen
+new id,"bioaerosol, pollen, moraceae",Total Moraceae,Mulberry family pollen
+new id,"bioaerosol, fungi, pleosporales",Alternaria,Alternaria spores
+new id,"bioaerosol, fungi, capnodiales",Cladosporium,Cladosporium spores
 56,\Atmosphere\Special phenomena,Special phenomena,
 57,\Atmosphere\State of ground,State of ground,
 224,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
