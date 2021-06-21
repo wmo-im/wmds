@@ -122,7 +122,7 @@ notation,path,name,description
 326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,\Atmosphere\Aerosol\Physical properties - primary\Particle effective radius,Particle effective radius,The area weighted mean radius of the aerosol particles.
-727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),Concentration of dust or sand in the atmosphere
+727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Dust mass concentration,Dust mass concentration,Concentration of dust or sand in the atmosphere
 364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
 365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
 366,"\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5","Mass concentration (medium), PM2.5",
