@@ -208,8 +208,7 @@ notation,path,name,description
 205,\Atmosphere\Gas\Other Gas\H2,H2,H2
 206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
 207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
-,\Atmosphere\Gas\O3 (ozone),O3 (ozone),
-262,\Atmosphere\Gas\Surface ozone,Surface ozone,
+,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
 274,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),BrO (bromine monoxide),
 275,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),C2Cl4 (tetrachloroethene),
 276,\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene),C2HCl3 (trichloroethene),
