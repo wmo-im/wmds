@@ -64,7 +64,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 135,\Atmosphere\Ozone\In situ\Indian Sonde,Indian Sonde,
 136,\Atmosphere\Micrometeorology\In situ\Interferential method,Interferential method,
 137,\Atmosphere\Total atmospheric deposition\In situ\Ion Chromatography (IC) [general],Ion Chromatography (IC) [general],
-142,"\Atmosphere\Wind\Remote-sensing, active\Light detection and ranging (LIDAR) profiler",Light detection and ranging (LIDAR) profiler,Light detection and ranging (Lidar) profiler for wind observations
+142,"\Atmosphere\Wind\Remote-sensing, active\Light detection and ranging (Lidar) profiler",Light detection and ranging (LIDAR) profiler,Light detection and ranging (Lidar) profiler for wind observations
 143,"\Atmosphere\Humidity\Remote-sensing, active\Light detection and ranging (Lidar)",Light detection and ranging (Lidar),Light detection and ranging (Lidar) for humidity measurements
 144,\Atmosphere\Temperature\In situ\Liquid-in-glass thermometer (mercury-free),Liquid-in-glass thermometer (mercury-free),
 146,\Atmosphere\Evaporation\In situ\Lysimeter,Lysimeter,
