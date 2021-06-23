@@ -112,9 +112,9 @@ notation,path/tags,name,description
 316,"particle phase, optical properties","Light absorption coefficient, PM1",
 317,"particle phase, optical properties","Light absorption coefficient, PM10",
 318,"particle phase, optical properties","Light absorption coefficient, total aerosol",
-new id,"particle phase, optical properties","Hemispheric particle light backscatter coefficient","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians."
+new id,"particle phase, optical properties","Particle light hemispheric backscatter coefficient","The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians."
 new id,"particle phase, optical properties","Particle light backscatter coefficient",The fraction of incident radiative flux scattered backward at 180 degrees.
-new id,"particle phase, optical properties","Hemispheric particle light forward scattering coefficient","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians."
+new id,"particle phase, optical properties","Particle light hemispheric forward scattering coefficient","Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians."
 322,"particle phase, optical properties","Light scattering coefficient, PM1",
 323,"particle phase, optical properties","Light scattering coefficient, PM10",
 324,"particle phase, optical properties","Light scattering coefficient, total aerosol",
