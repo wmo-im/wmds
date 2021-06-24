@@ -155,8 +155,8 @@ notation,path,name,description
 373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
 374,"\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW, total column)","Cloud liquid water (CLW, total column)",Field of atmospheric water in the liquid phase (precipitating or not).
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
-506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD =  exp(-K.Δz), where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree
-to which the cloud prevents light from passing through it.'
+506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,"Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD =  exp(-K.Δz), where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree
+to which the cloud prevents light from passing through it.'",
 507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
 508,\Atmosphere\Clouds\Optical properties\Optical depth within each cloud layer,Optical depth within each cloud layer,
 509,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
