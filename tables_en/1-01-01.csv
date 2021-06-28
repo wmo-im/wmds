@@ -4,9 +4,9 @@ notation,path,name,description
 44,\Atmosphere\Integrated air samples,Integrated air samples,
 56,\Atmosphere\Special phenomena,Special phenomena,
 57,\Atmosphere\State of ground,State of ground,
-179,\Atmosphere\Clouds\Cloud amount,Cloud amount,
-180,\Atmosphere\Clouds\Cloud cover,Cloud cover,
-181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"Size distribution of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+179,\Atmosphere\Clouds\Cloud amount,Cloud amount,"Fraction of the sky covered by clouds of a particular type or combination. It can refer to a genus, species, variety, layer, or a certain combination of clouds. Also, see 'cloud cover'."
+180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"The amount of sky estimated to be covered by a specified cloud type (partial cloud amount), or by all cloud types (total cloud amount). In either case, the estimate is made to the nearest okta (eighth) and is reported on a scale which is essentially one of the nearest eighth, except that figures 0 and 8 on the scale signify a completely clear and cloudy sky, respectively, with consequent adjustment to the adjacent 1 and 7 okta intervals."
+181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
@@ -104,7 +104,7 @@ notation,path,name,description
 326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
 327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
 328,\Atmosphere\Clouds\Ice\Cloud ice (total column),Cloud ice (total column),Field of atmospheric water in the solid phase (precipitating or not) as total column.
-329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
+329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"The area weighted mean radius of ice particles, assimilated to spheres of the same volume."
 330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
 331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
 332,\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211),CBrClF2 (Halon 1211),
@@ -252,9 +252,10 @@ notation,path,name,description
 503,\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane),n-C7H16 (n-heptane),
 504,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),
 505,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),
-506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
+506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,"Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD =  exp(-K.Δz), where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree
+to which the cloud prevents light from passing through it.'"
 507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
-508,\Atmosphere\Clouds\Optical properties\Optical depth within each layer,Optical depth within each layer,
+508,\Atmosphere\Clouds\Optical properties\Optical depth within each cloud layer,Optical depth within each cloud layer,
 509,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
 521,\Atmosphere\Visibility\Obscurations\Extinction coefficient,Extinction coefficient,
 522,\Atmosphere\Visibility\Obscurations\Hydrometeor radius,Hydrometeor radius,
@@ -263,8 +264,8 @@ notation,path,name,description
 525,\Atmosphere\Visibility\Obscurations\Meteorological Optical Range,Meteorological Optical Range,
 526,\Atmosphere\Visibility\Obscurations\Obscuration type,Obscuration type,
 529,\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids,Strong acids,
-531,\Atmosphere\Clouds\Position\Height of cloud base,Height of cloud base,
-532,\Atmosphere\Clouds\Position\Height of cloud top,Height of cloud top,
+531,\Atmosphere\Clouds\Position\Cloud Base Height,Cloud Base Height,"For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."
+532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud Top Height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above mean sea level.
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",
 535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",
@@ -446,6 +447,7 @@ notation,path,name,description
 12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
 12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
+newID,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
 new id,\Atmosphere\Height of the top of the PBL,Height of the top of the PBL,Height of the surface above ground separating the planetary boudary layer (PBL) from the free atmosphere.
 newID,\Atmosphere\Particle Phase\Aerosol type, Aerosol type,"Selection, out of a pre-defined set of aerosol classes, that best fits an input data set (observed or modeled). The pre-defined set of aerosol classes includes specification of the particle composition, mixing state, complex refractive index, and shape as a function of particle size. The definition of aerosol type includes specification of all the classes as well as the algorithm used to choose the best fit to the input data."
 new id,radionuclide,Tritium [H-3],"IUPAC: n/a, PubChem CID: 24824, CAS Number: 10028-17-8"
