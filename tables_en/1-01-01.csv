@@ -39,7 +39,6 @@ notation,path,name,description
 224,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
 225,\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface),Dew-point temperature (at specified distance from reference surface),
 226,"\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)","Extreme temperature (min, max) (at specified distance from reference surface)",
-227,\Atmosphere\Temperature\Temperature profile,Temperature profile,
 229,\Atmosphere\Visibility\Runway visual range,Runway visual range,
 230,\Atmosphere\Visibility\Visibility,Visibility,
 248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
