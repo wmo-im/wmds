@@ -4,7 +4,7 @@ https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/261,https://codes.wmo.int/w
 https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/262,https://codes.wmo.int/wmdr/ObservingMethodTerrestial/262
 https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/326,https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/183
 https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/325,https://codes.wmo.int/wmdr/ObservingMethodAtmosphere/183
-https://codes.wmo.int/wmdr/ProgramAffiliation/_CryoNet,https://codes.wmo.int/wmdr/ProgramAffiliation/_GCWCryoNet
+https://codes.wmo.int/wmdr/ProgramAffiliation/CryoNet,https://codes.wmo.int/wmdr/ProgramAffiliation/GCWCryoNet
 https://codes.wmo.int/wmdr/ProgramAffiliation/RBCN,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 https://codes.wmo.int/wmdr/ProgramAffiliation/RBONpilot,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 https://codes.wmo.int/wmdr/ProgramAffiliation/RBSN,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
@@ -13,7 +13,15 @@ https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNs,https://codes.wmo.int/wmdr/P
 https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNsp,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNst,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 https://codes.wmo.int/wmdr/ProgramAffiliation/RBSNt,https://codes.wmo.int/wmdr/ProgramAffiliation/RBON
-https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_610,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/_12013
+https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/610,https://codes.wmo.int/wmdr/ObservedVariableTerrestrial/12013
 https://codes.wmo.int/wmdr/ProgramAffiliation/IDAF,https://codes.wmo.int/wmdr/ProgramAffiliation/INDAAF
 https://codes.wmo.int/wmdr/ProgramAffiliation/ESRLCCG,https://codes.wmo.int/wmdr/ProgramAffiliation/NOAAGML
-http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_201
+http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/201
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/328,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/327
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/374,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/373
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/262,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/263,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/264,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/227,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/256,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12000,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/216
