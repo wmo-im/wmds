@@ -447,6 +447,7 @@ notation,path,name,description
 12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
 12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
+newID,\Atmosphere\Particle Phase\Aerosol type, Aerosol type,"Selection, out of a pre-defined set of aerosol classes, that best fits an input data set (observed or modeled). The pre-defined set of aerosol classes includes specification of the particle composition, mixing state, complex refractive index, and shape as a function of particle size. The definition of aerosol type includes specification of all the classes as well as the algorithm used to choose the best fit to the input data."
 new id,radionuclide,Tritium [H-3],"IUPAC: n/a, PubChem CID: 24824, CAS Number: 10028-17-8"
 new id,radionuclide,Carbon [C-14],"IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5"
 new id,radionuclide,Sodium [Na-22],"IUPAC: sodium-22, PubChem CID: 6328543, CAS Number: 13966-32-0"
