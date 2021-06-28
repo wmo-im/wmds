@@ -29,8 +29,8 @@ notation,path,name,description
 214,\Atmosphere\Precipitation\Rate of ice accretion,Rate of ice accretion,
 215,\Atmosphere\Precipitation\Type of precipitation,Type of precipitation,
 216,\Atmosphere\Pressure\Atmospheric pressure,Atmospheric pressure,
-217,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,
-218,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,
+217,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,"The pressure characteristic is an indication of how the pressure has changed during that period of time, for example, decreasing then increasing, or increasing and then increasing more rapidly."
+218,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,"Pressure tendency is the character and amount of atmospheric pressure change for a three-hour or other specified period ending at the time of observation. Pressure tendency is composed of two parts, namely the characteristic of pressure tendency and amount of pressure tendency."
 219,radionuclide,Beryllium [Be-7],"IUPAC: beryllium-7, PubChem CID: 6335489, CAS Number: 13966-02-4"
 220,radionuclide,CO2 [C-14],CO2 with C-14 isotope
 221,radionuclide,Krypton [Kr-85],"IUPAC: krypton-85, PubChem CID: 104816, CAS Number: 13983-27-2"
