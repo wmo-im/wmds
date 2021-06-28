@@ -86,12 +86,12 @@ notation,path/tags,name,description
 310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
 314,"particle phase, optical properties",Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
 315,"particle phase, optical properties",Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
-316,"particle phase, optical properties","Light absorption coefficient, PM1",
-317,"particle phase, optical properties","Light absorption coefficient, PM10",
-318,"particle phase, optical properties","Light absorption coefficient, total aerosol",
-322,"particle phase, optical properties","Light scattering coefficient, PM1",
-323,"particle phase, optical properties","Light scattering coefficient, PM10",
-324,"particle phase, optical properties","Light scattering coefficient, total aerosol",
+316,"particle phase, optical properties","Particle light absorption coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
+317,"particle phase, optical properties","Particle light absorption coefficient, PM10",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM10
+318,"particle phase, optical properties","Particle light absorption coefficient, TSP",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: TSP
+322,"particle phase, optical properties","Particle light scattering coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
+323,"particle phase, optical properties","Particle light scattering coefficient, PM10",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM10
+324,"particle phase, optical properties","Particle light scattering coefficient, TSP",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: TSP
 325,"particle phase, optical properties","Aerosol optical depth, TSP","The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km]."
 327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,Atmospheric water in the solid phase (precipitating or not). 
 329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume."
@@ -123,14 +123,14 @@ notation,path/tags,name,description
 359,\Atmosphere\Radiation\UV\UV Spectral,UV Spectral,
 361,"particle phase, physical properties",Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,"particle phase, physical properties",Particle effective radius,The area weighted mean radius of the aerosol particles.
-364,"particle phase, physical properties",Mass concentration (coarse) or Mass PM10,
-365,"particle phase, physical properties",Mass concentration (fine) or Mass PM1,
-366,"particle phase, physical properties","Mass concentration (medium), PM2.5",
-367,"particle phase, physical properties",Mass concentration (size fractionated),
-368,"particle phase, physical properties",Mass concentration (total aerosol) or Mass TSP,
-369,"particle phase, physical properties",Number concentration,
-370,"particle phase, physical properties","Number size distribution, PM10",
-371,"particle phase, physical properties","Number size distribution, total aerosol",
+364,"particle phase, physical properties","Particle mass concentration, PM10","Mass of particles per unit volume of air, size range: PM10"
+365,"particle phase, physical properties","Particle mass concentration, PM1","Mass of particles per unit volume of air, size range: PM1"
+366,"particle phase, physical properties","Particle mass concentration, PM2.5","Mass of particles per unit volume of air, size range: PM2.5"
+367,"particle phase, physical properties",Particle mass concentration (size fractionated),"Mass of particles per unit volume of air, size fractionated"
+368,"particle phase, physical properties","Particle mass concentration, TSP","Mass of particles per unit volume of air, size range: TSP"
+369,"particle phase, physical properties",Particle number concentration,Amount of particles per unit volume of air
+370,"particle phase, physical properties","Particle number size distribution, PM10","Particle number concentration as a function of size, typically equivalent spherical radius or diameter. Size range: TSP"
+371,"particle phase, physical properties","Particle number size distribution, TSP","Particle number concentration as a function of size, typically equivalent spherical radius or diameter. Size range: PM10"
 373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),Atmospheric water in the liquid phase (precipitating or not).
 375,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in aerosol","C12H8Cl6 (aldrin), in aerosol",
 376,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air","C12H8Cl6 (aldrin), in air",
@@ -424,7 +424,7 @@ to which the cloud prevents light from passing through it.'"
 723,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
 724,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",
 727,"particle phase, physical properties",Dust mass concentration,Concentration of dust or sand in the atmosphere
-728,"particle phase, physical properties",Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
+728,"particle phase, physical properties",Volcanic ash particle mass concentration,3D field of mass mixing ratio of volcanic ash
 729,"particle phase, physical properties",Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
 12001,\Atmosphere\Lightning\Total lightning density,Total lightning density,
 12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
@@ -434,6 +434,19 @@ to which the cloud prevents light from passing through it.'"
 12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
 12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
+new id,"particle phase, optical properties",Particle light extinction coefficient,A measure of light attenuation due to scattering and absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance.
+new id,"particle phase, optical properties",Particle single scattering albedo,Ratio of particle scattering coefficient to particle extinction coefficient or sum of particle absorption and scattering coefficients.
+new id,"particle phase, optical properties",Ångström exponent for particle light extinction,A measure of dependence of the particle light extinction coefficient on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent for particle light scattering,A measure of dependence of the particle light scattering coefficient on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent for particle light absorption,A measure of dependence of the particle light absorption coefficient on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent for aerosol optical depth,A measure of dependence of the aerosol optical depth on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent  for aerosol absorption optical depth,A measure of dependence of the aerosol absorption optical depth on wavelength expressed in power law relationship.
+new id,"particle phase, physical properties",Particle Surface Area Size Distribution,"Particle surface area concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle Volume Size Distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle Mass Size Distribution,"Particle mass concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Hygroscopic particle size growth factor,A scaling factor describing the particle equivalent spherical size change as a function of relative humidity due to absorbing or evaporating water.
+new id,"particle phase, physical properties",Hygroscopic particle light scattering growth factor,A scaling factor describing the particle scattering coefficient change as a function of relative humidity due to absorbing or evaporating water.
+new id,"particle phase, physical properties",Hygroscopic particle light extinction growth factor,A scaling factor describing the particle extinction coefficient change as a function of relative humidity due to absorbing or evaporating water.
 new id,"particle phase, optical properties",Particle light hemispheric backscatter coefficient,"The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians."
 new id,"particle phase, optical properties",Particle light backscatter coefficient,The fraction of incident radiative flux scattered backward at 180 degrees.
 new id,"particle phase, optical properties",Particle light hemispheric forward scattering coefficient,"Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians."
