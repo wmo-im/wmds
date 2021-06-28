@@ -1,16 +1,16 @@
 notation,path,name,description
 37,\Atmosphere\Aerological soundings,Aerological soundings,
-39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
+39,\Atmosphere\Atmospheric density,Atmospheric density,Density of the atmosphere.
 44,\Atmosphere\Integrated air samples,Integrated air samples,
 56,\Atmosphere\Special phenomena,Special phenomena,
 57,\Atmosphere\State of ground,State of ground,
 179,\Atmosphere\Clouds\Cloud amount,Cloud amount,"Fraction of the sky covered by clouds of a particular type or combination. It can refer to a genus, species, variety, layer, or a certain combination of clouds. Also, see 'cloud cover'."
 180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"The amount of sky estimated to be covered by a specified cloud type (partial cloud amount), or by all cloud types (total cloud amount). In either case, the estimate is made to the nearest okta (eighth) and is reported on a scale which is essentially one of the nearest eighth, except that figures 0 and 8 on the scale signify a completely clear and cloudy sky, respectively, with consequent adjustment to the adjacent 1 and 7 okta intervals."
-181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume."
+181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"Size distribution of liquid water drops, assimilated to spheres of the same volume."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
-188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
+188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
 192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"1D variable colloquially referred to as ""wave spectrum"". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation "
 193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
 194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
@@ -20,8 +20,8 @@ notation,path,name,description
 203,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,SF6
 204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride)
 205,\Atmosphere\Gas\Other Gas\H2,H2,H2
-206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),3D field of mole fraction of H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
-207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
+206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
+207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
 210,\Atmosphere\Precipitation\Amount of precipitation,Amount of precipitation,
 211,\Atmosphere\Precipitation\Duration of precipitation,Duration of precipitation,
 212,\Atmosphere\Precipitation\Intensity of precipitation,Intensity of precipitation,
@@ -43,21 +43,17 @@ notation,path,name,description
 229,\Atmosphere\Visibility\Runway visual range,Runway visual range,
 230,\Atmosphere\Visibility\Visibility,Visibility,
 248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
-249,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
+249,\Atmosphere\Dynamics\Turbulence,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
 251,\Atmosphere\Humidity\Humidity  (at specified distance from reference surface),Humidity  (at specified distance from reference surface),
 252,\Atmosphere\Humidity\Integrated water vapour,Integrated water vapour,
 253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
 254,\Atmosphere\Humidity\Object wetness duration,Object wetness duration,
 255,\Atmosphere\Humidity\Water vapour pressure,Water vapour pressure,
-256,\Atmosphere\Humidity\Watervapor profile,Watervapor profile,
 257,\Atmosphere\Lightning\Lightning discharge energy,Lightning discharge energy,
 258,\Atmosphere\Lightning\Lightning discharge polarity,Lightning discharge polarity,
 259,\Atmosphere\Lightning\Lightning discharge rates,Lightning discharge rates,
 260,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)","Lightning discharge type (cloud to cloud, cloud to surface)",
-262,\Atmosphere\Gas\Ozone\Surface ozone,Surface ozone,
-263,\Atmosphere\Gas\Ozone\Total column ozone,Total column ozone,
-264,\Atmosphere\Gas\Ozone\Vertical ozone profile,Vertical ozone profile,
 265,\Atmosphere\Past weather\Past weather,Past weather,
 266,\Atmosphere\Present weather\Present weather,Present weather,
 267,\Atmosphere\Radiation\Background luminance,Background luminance,
@@ -90,7 +86,7 @@ notation,path,name,description
 307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)",Z component of wind vector  (horizontal and vertical profile)
 310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
 314,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
-315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
+315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,Spectral volumetric extinction cross-section of aerosol particles.
 316,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
 317,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
 318,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",
@@ -102,11 +98,10 @@ notation,path,name,description
 324,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",
 325,"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
 326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
-327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
-328,\Atmosphere\Clouds\Ice\Cloud ice (total column),Cloud ice (total column),Field of atmospheric water in the solid phase (precipitating or not) as total column.
-329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"The area weighted mean radius of ice particles, assimilated to spheres of the same volume."
+327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,Atmospheric water in the solid phase (precipitating or not). 
+329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume."
 330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
-331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
+331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object."
 332,\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211),CBrClF2 (Halon 1211),
 333,"\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)","CBrF3 (bromotrifluoromethane, Halon 1301)",
 334,"\Atmosphere\POPs\PAH\C13H10 (9H-fluorene, fluorene), in air","C13H10 (9H-fluorene, fluorene), in air",
@@ -132,7 +127,7 @@ notation,path,name,description
 358,\Atmosphere\Radiation\UV\UV Multiband,UV Multiband,
 359,\Atmosphere\Radiation\UV\UV Spectral,UV Spectral,
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
-362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
+362,\Atmosphere\Aerosol\Physical properties - primary\Particle effective radius,Particle effective radius,The area weighted mean radius of the aerosol particles.
 364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
 365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
 366,"\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5","Mass concentration (medium), PM2.5",
@@ -141,8 +136,7 @@ notation,path,name,description
 369,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
 370,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",
 371,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
-373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
-374,"\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW, total column)","Cloud liquid water (CLW, total column)",Field of atmospheric water in the liquid phase (precipitating or not).
+373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),Atmospheric water in the liquid phase (precipitating or not).
 375,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in aerosol","C12H8Cl6 (aldrin), in aerosol",
 376,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air","C12H8Cl6 (aldrin), in air",
 377,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air and aerosol","C12H8Cl6 (aldrin), in air and aerosol",
@@ -264,7 +258,6 @@ to which the cloud prevents light from passing through it.'"
 525,\Atmosphere\Visibility\Obscurations\Meteorological Optical Range,Meteorological Optical Range,
 526,\Atmosphere\Visibility\Obscurations\Obscuration type,Obscuration type,
 529,\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids,Strong acids,
-531,\Atmosphere\Clouds\Position\Cloud Base Height,Cloud Base Height,"For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."
 532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud Top Height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above mean sea level.
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",
@@ -435,10 +428,9 @@ to which the cloud prevents light from passing through it.'"
 722,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol","Vanadium (V), total aerosol",
 723,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
 724,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",
-727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
+727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Dust mass concentration,Dust mass concentration,Concentration of dust or sand in the atmosphere
 728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
 729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
-12000,\Atmosphere\Pressure\Atmospheric pressure profile,Atmospheric pressure profile,Upper-air atmospheric pressure
 12001,\Atmosphere\Lightning\Total lightning density,Total lightning density,
 12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
 12005,\Atmosphere\Wind\Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface
@@ -447,6 +439,9 @@ to which the cloud prevents light from passing through it.'"
 12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
 12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
+newID,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
+newID,\Atmosphere\Humidity\Water vapour,Water vapour,
+newID,\Atmosphere\Temperature\Temperature,Temperature,
 newID,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
 new id,\Atmosphere\Height of the top of the PBL,Height of the top of the PBL,Height of the surface above ground separating the planetary boudary layer (PBL) from the free atmosphere.
 newID,\Atmosphere\Particle Phase\Aerosol type, Aerosol type,"Selection, out of a pre-defined set of aerosol classes, that best fits an input data set (observed or modeled). The pre-defined set of aerosol classes includes specification of the particle composition, mixing state, complex refractive index, and shape as a function of particle size. The definition of aerosol type includes specification of all the classes as well as the algorithm used to choose the best fit to the input data."
