@@ -434,6 +434,70 @@ to which the cloud prevents light from passing through it.'"
 12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
 12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
+new id,"bioaerosol, pollen",Total pollen,All pollen taxa
+new id,"bioaerosol, pollen, pinaceae",Total Pinaceae,Pine family pollen
+new id,"bioaerosol, pollen, pinaceae",Abies,Fir pollen
+new id,"bioaerosol, pollen, pinaceae",Picea,Spruce pollen
+new id,"bioaerosol, pollen, pinaceae",Larix,Larch pollen
+new id,"bioaerosol, pollen, pinaceae",Pinus,Pine pollen
+new id,"bioaerosol, pollen, cupressaceae",Total Cupressaceae,Cypress family pollen
+new id,"bioaerosol, pollen, arecaceae",Total Arecaceae,Palm family pollen
+new id,"bioaerosol, pollen, platanaceae",Platanus,Plane tree pollen
+new id,"bioaerosol, pollen, urticaceae",Parietaria,Pellitory pollen
+new id,"bioaerosol, pollen, urticaceae",Urtica,Nettle pollen
+new id,"bioaerosol, pollen, fagaceae",Castanea,Sweet chestnut pollen
+new id,"bioaerosol, pollen, fagaceae",Fagus,Beech pollen
+new id,"bioaerosol, pollen, fagaceae",Quercus,Oak pollen
+new id,"bioaerosol, pollen, betulaceae",Total Betulaceae,Birch family pollen
+new id,"bioaerosol, pollen, betulaceae",Alnus,Alder pollen
+new id,"bioaerosol, pollen, betulaceae",Betula,Birch pollen
+new id,"bioaerosol, pollen, betulaceae",Carpinus,Hornbeam pollen
+new id,"bioaerosol, pollen, betulaceae",Corylus,Hazel pollen
+new id,"bioaerosol, pollen, amaranthaceae",Total Amaranthaceae,Amaranth family pollen
+new id,"bioaerosol, pollen, amaranthaceae",Chenopodium,Chenopodium (goosefoot) pollen
+new id,"bioaerosol, pollen, salicaceae",Populus,Poplar pollen
+new id,"bioaerosol, pollen, salicaceae",Salix,Willow pollen
+new id,"bioaerosol, pollen, oleaceae",Total Oleaceae,Olive family pollen
+new id,"bioaerosol, pollen, oleaceae",Olea,Olive pollen
+new id,"bioaerosol, pollen, oleaceae",Fraxinus,Ash pollen
+new id,"bioaerosol, pollen, asteraceae",Total Asteraceae,Aster family pollen
+new id,"bioaerosol, pollen, asteraceae",Ambrosia,Ragweed pollen
+new id,"bioaerosol, pollen, asteraceae",Artemisia,Mugwort pollen
+new id,"bioaerosol, pollen, asteraceae",Solidago,Solidago (goldenrod) pollen
+new id,"bioaerosol, pollen, poaceae",Total Poaceae,Grasses pollen
+new id,"bioaerosol, pollen, poaceae",Secale,Secale pollen
+new id,"bioaerosol, pollen, poaceae",Zea mays,Maize pollen
+new id,"bioaerosol, pollen, juglandaceae",Juglans,Walnut tree pollen
+new id,"bioaerosol, pollen, ulmaceae",Ulmus,Elm pollen
+new id,"bioaerosol, pollen, sapindaceae",Acer,Maple pollen
+new id,"bioaerosol, pollen, sapindaceae",Aesculus,Aesculus pollen
+new id,"bioaerosol, pollen, brassicaceae",Brassica,Brassica pollen
+new id,"bioaerosol, pollen, plantaginaceae",Plantago,Plantain pollen
+new id,"bioaerosol, pollen, adoxaceae",Sambucus,Sambucus (elder) pollen
+new id,"bioaerosol, pollen, polygonaceae",Rumex,"Rumex (dock, sorrel) pollen"
+new id,"bioaerosol, pollen, malvaceae",Tilia,Linden pollen
+new id,"bioaerosol, pollen, cannabaceae",Humulus,Hop pollen
+new id,"bioaerosol, pollen, taxaceae",Taxus,Yew pollen
+new id,"bioaerosol, pollen, elaeagnaceae",Hippophae,Sea-buckthorn pollen
+new id,"bioaerosol, pollen, aquifoliaceae",Ilex,Holly pollen
+new id,"bioaerosol, pollen, oleaceae",Ligustrum,Privet pollen
+new id,"bioaerosol, pollen, juncaceae",Total Juncaceae,Rush family pollen
+new id,"bioaerosol, pollen, cyperaceae",Total Cyperaceae,Sedge family pollen
+new id,"bioaerosol, pollen, ericaceae",Total Ericaceae,Heather family pollen
+new id,"bioaerosol, pollen, rosaceae",Total Rosaceae,Rose family pollen
+new id,"bioaerosol, pollen, caryophyllaceae",Silene,Melandrium pollen
+new id,"bioaerosol, pollen, ranunculaceae",Total Ranunculaceae,Buttercup family pollen
+new id,"bioaerosol, pollen, umbelliferae",Total Umbelliferae,"Celery, carrot or parsley family pollen"
+new id,"bioaerosol, pollen, brassicaceae",Total Brassicaceae,"Cabbage family (mustards, crucifers) pollen"
+new id,"bioaerosol, pollen, betulaceae",Ostrya,Hophornbeam pollen
+new id,"bioaerosol, pollen, pinaceae",Cedrus,Cedar family pollen
+new id,"bioaerosol, pollen, buxaceae",Buxus,Box pollen
+new id,"bioaerosol, pollen, ginkgoaceae",Ginkgo,Ginkgo pollen
+new id,"bioaerosol, pollen, altingiaceae",Liquidambar,Sweetgum pollen
+new id,"bioaerosol, pollen, euphorbiaceae",Mercurialis,Mercuries pollen
+new id,"bioaerosol, pollen, moraceae",Total Moraceae,Mulberry family pollen
+new id,"bioaerosol, fungi, pleosporales",Alternaria,Alternaria spores
+new id,"bioaerosol, fungi, capnodiales",Cladosporium,Cladosporium spores
 new id,"gas phase, greenhouse gas, inorganic, N species",NF3 (nitrogen trifluoride),"IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2 , in gas phase"
 new id,"gas phase, greenhouse gas, organic, isotopologue","CH3D (monodeuterated methane, methane-d1)","IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3 , in gas phase"
 new id,"gas phase, greenhouse gas, CFCs, organic, halocarbon ","CClF3 (chlorotrifluoromethane, CFC-13)","IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9 , in gas phase"
