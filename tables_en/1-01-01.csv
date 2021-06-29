@@ -166,11 +166,11 @@ notation,path,name,description
 398,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy,NOy,
 411,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
 412,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra,CCN concentration spectra,
-413,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 Î¼m equivalent","Hygroscopic growth factor, 110 μm equivalent",
-414,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 Î¼m equivalent","Hygroscopic growth factor, 165 μm equivalent",
-415,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 Î¼m equivalent","Hygroscopic growth factor, 35 μm equivalent",
-416,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 Î¼m equivalent","Hygroscopic growth factor, 50 μm equivalent",
-417,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 Î¼m equivalent","Hygroscopic growth factor, 75 μm equivalent",
+413,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 μm equivalent","Hygroscopic growth factor, 110 μm equivalent",
+414,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 μm equivalent","Hygroscopic growth factor, 165 μm equivalent",
+415,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 μm equivalent","Hygroscopic growth factor, 35 μm equivalent",
+416,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 μm equivalent","Hygroscopic growth factor, 50 μm equivalent",
+417,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 μm equivalent","Hygroscopic growth factor, 75 μm equivalent",
 418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
 419,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)","IUPAC: 1,1,1,2,2,2-hexafluoroethane, PubChem CID: 6431, CAS Number: 76-16-4, in gas phase"
 420,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)","IUPAC: 1,1,1,2,2,3,3,3-octafluoropropane, PubChem CID: 6432, CAS Number: 76-19-7, in gas phase"
