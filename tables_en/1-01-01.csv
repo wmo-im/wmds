@@ -314,6 +314,7 @@ notation,path,name,description
 494,\Atmosphere\Gas\Reactive Gas\VOC\NMHC,NMHC,
 504,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),
 505,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),
+new id,gas phase,O2/N2 ratio,Atmospheric O2/N2 ratio
 251,\Atmosphere\Humidity\Humidity  (at specified distance from reference surface),Humidity  (at specified distance from reference surface),
 252,\Atmosphere\Humidity\Integrated water vapour,Integrated water vapour,
 253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
