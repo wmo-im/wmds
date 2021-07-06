@@ -62,5 +62,3 @@ notation,path,name,description
 744,\Ocean\Waves\Wave period,Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
 745,\Ocean\Waves\Directional waves,Directional waves,"Waves measured in X,Y,Z directions."
 10080,\Ocean\Tides,Tides,
-unknown,,unknown,The variable is unknown.
-inapplicable,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
