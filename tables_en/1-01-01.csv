@@ -1,450 +1,658 @@
-notation,path,name,description
+notation,path/tags,name,description
 37,\Atmosphere\Aerological soundings,Aerological soundings,
-579,"\Atmosphere\Aerosol\Composition\Acidity-Alkalinity, total aerosol","Acidity-Alkalinity, total aerosol",
-614,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1","Chloride (Cl-), PM1",
-615,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM10","Chloride (Cl-), PM10",
-616,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Chloride (Cl-), PM2.5",
-617,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Chloride (Cl-), total aerosol",
-618,"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","Fluoride (F-), total aerosol",
-619,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), corrected","Sulphate (SO4=), corrected",
-620,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total","Sulphate (SO4=), total",
-621,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM10","Sulphate (SO4=), total, PM10",
-622,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM2.5","Sulphate (SO4=), total, PM2.5",
-623,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon (coarse), PM10","Elemental carbon (coarse), PM10",
-624,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM1","Elemental carbon, PM1",
-625,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM2.5","Elemental carbon, PM2.5",
-626,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Total carbon (coarse), PM10","Total carbon (coarse), PM10",
-632,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM10","Calcium (Ca++), PM10",
-633,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM2.5","Calcium (Ca++), PM2.5",
-634,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), total aerosol","Calcium (Ca++), total aerosol",
-635,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10","Magnesium (Mg++), PM10",
-636,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM2.5","Magnesium (Mg++), PM2.5",
-637,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), total aerosol","Magnesium (Mg++), total aerosol",
-638,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM10","Potassium (K+), PM10",
-639,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM2.5","Potassium (K+), PM2.5",
-640,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), total aerosol","Potassium (K+), total aerosol",
-641,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM10","Sodium (Na+), PM10",
-642,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM2.5","Sodium (Na+), PM2.5",
-643,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), total aerosol","Sodium (Na+), total aerosol",
-644,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonia (NH3), PM2.5","Ammonia (NH3), PM2.5",
-645,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM10","Ammonium (NH4+), PM10",
-646,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM2.5","Ammonium (NH4+), PM2.5",
-647,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), total aerosol","Ammonium (NH4+), total aerosol",
-649,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), PM1","Ammonium nitrate (NH4NO3), PM1",
-648,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), total aerosol","Ammonium nitrate (NH4NO3), total aerosol",
-650,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM10","Nitrate (NO3-), PM10",
-651,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM2.5","Nitrate (NO3-), PM2.5",
-652,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), total aerosol","Nitrate (NO3-), total aerosol",
-653,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrite (NO2-), total aerosol","Nitrite (NO2-), total aerosol",
-654,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol","Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",
-655,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol","Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol",
-656,\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated),Major chemical components (size fractionated),
-658,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (coarse),Major inorganic components (coarse),
-659,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (fine),Major inorganic components (fine),
-657,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP),Major inorganic components (TSP),
-660,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse),Other chemical components (coarse),
-661,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine),Other chemical components (fine),
-663,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate), in aerosol",
-662,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1","C2H3O2- (CH3COO-, acetate), PM1",
-664,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1",
-665,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10","C2O4= (oxalate, ethanedioate), PM10",
-666,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol","C2O4= (oxalate, ethanedioate), total aerosol",
-667,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), PM1","CH3O3S- (methanesulphonate), PM1",
-668,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), total aerosol","CH3O3S- (methanesulphonate), total aerosol",
-669,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), in aerosol",
-670,"\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous-organic material (coarse), PM10","Carbonaceous-organic material (coarse), PM10",
-671,\Atmosphere\Aerosol\Composition\Organic carbonaceous-Carbonaceous-organic material (fine),Carbonaceous-organic material (fine),
-673,"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), PM2.5","Aluminium (Al), PM2.5",
-674,"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), total aerosol","Aluminium (Al), total aerosol",
-675,"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), PM2.5","Antimony (Sb), PM2.5",
-676,"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), total aerosol","Antimony (Sb), total aerosol",
-677,"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), PM10","Arsenic (As), PM10",
-678,"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), total aerosol","Arsenic (As), total aerosol",
-679,"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), PM2.5","Barium (Ba), PM2.5",
-680,"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), total aerosol","Barium (Ba), total aerosol",
-681,"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), PM2.5","Bismuth (Bi), PM2.5",
-682,"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), total aerosol","Bismuth (Bi), total aerosol",
-683,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM1","Cadmium (Cd), PM1",
-684,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM10","Cadmium (Cd), PM10",
-685,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5","Cadmium (Cd), PM2.5",
-686,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5 thru PM10","Cadmium (Cd), PM2.5 thru PM10",
-687,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), total aerosol","Cadmium (Cd), total aerosol",
-688,"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), PM2.5","Cerium (Ce), PM2.5",
-689,"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), total aerosol","Cerium (Ce), total aerosol",
-690,"\Atmosphere\Aerosol\Composition\Trace elements\Chromium (Cr), total aerosol","Chromium (Cr), total aerosol",
-691,"\Atmosphere\Aerosol\Composition\Trace elements\Cobalt (Co), total aerosol","Cobalt (Co), total aerosol",
-692,"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), PM10","Copper (Cu), PM10",
-693,"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), total aerosol","Copper (Cu), total aerosol",
-694,"\Atmosphere\Aerosol\Composition\Trace elements\Iron (Fe), total aerosol","Iron (Fe), total aerosol",
-695,"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), PM2.5","Lanthanum (La), PM2.5",
-696,"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), total aerosol","Lanthanum (La), total aerosol",
-697,"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), PM10","Lead (Pb), PM10",
-698,"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), total aerosol","Lead (Pb), total aerosol",
-699,"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), PM2.5","Lithium (Li), PM2.5",
-700,"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), total aerosol","Lithium (Li), total aerosol",
-701,"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), PM10","Manganese (Mn), PM10",
-702,"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), total aerosol","Manganese (Mn), total aerosol",
-703,"\Atmosphere\Aerosol\Composition\Trace elements\Mercury (Hg), total aerosol","Mercury (Hg), total aerosol",
-704,"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), PM10","Nickel (Ni), PM10",
-705,"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), total aerosol","Nickel (Ni), total aerosol",
-706,"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), PM2.5","Phosphorous (P), PM2.5",
-707,"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), total aerosol","Phosphorous (P), total aerosol",
-708,"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), PM2.5","Rubidium (Rb), PM2.5",
-709,"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), total aerosol","Rubidium (Rb), total aerosol",
-710,"\Atmosphere\Aerosol\Composition\Trace elements\Selenium (Se), total aerosol","Selenium (Se), total aerosol",
-711,"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), PM2.5","Strontium (Sr), PM2.5",
-712,"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), total aerosol","Strontium (Sr), total aerosol",
-713,"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), PM2.5","Thallium (Tl), PM2.5",
-714,"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), total aerosol","Thallium (Tl), total aerosol",
-715,"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), PM2.5","Thorium (Th), PM2.5",
-716,"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), total aerosol","Thorium (Th), total aerosol",
-717,"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), PM2.5","Tin (Sn), PM2.5",
-718,"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), total aerosol","Tin (Sn), total aerosol",
-672,"\Atmosphere\Aerosol\Composition\Trace elements\Titanium (Ti), total aerosol","Titanium (Ti), total aerosol",
-719,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), PM2.5","Uranium (U), PM2.5",
-720,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), total aerosol","Uranium (U), total aerosol",
-721,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), PM2.5","Vanadium (V), PM2.5",
-722,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol","Vanadium (V), total aerosol",
-723,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zinc (Zn), PM2.5",
-724,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zinc (Zn), total aerosol",
-314,\Atmosphere\Aerosol\Optical properties\Aerosol Absorption Optical Depth,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
-315,\Atmosphere\Aerosol\Optical properties\Aerosol Extinction Coefficient,Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
-316,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM1","Light absorption coefficient, PM1",
-317,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, PM10","Light absorption coefficient, PM10",
-318,"\Atmosphere\Aerosol\Optical properties\Light absorption coefficient, total aerosol","Light absorption coefficient, total aerosol",
-319,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM1","Light backscattering coefficient, PM1",
-320,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, PM10","Light backscattering coefficient, PM10",
-321,"\Atmosphere\Aerosol\Optical properties\Light backscattering coefficient, total aerosol","Light backscattering coefficient, total aerosol",
-322,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM1","Light scattering coefficient, PM1",
-323,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, PM10","Light scattering coefficient, PM10",
-324,"\Atmosphere\Aerosol\Optical properties\Light scattering coefficient, total aerosol","Light scattering coefficient, total aerosol",
-325,"\Atmosphere\Aerosol\Optical properties\Multiwavelength optical depth, total aerosol","Multiwavelength optical depth, total aerosol",Aerosol optical depth of the atmospheric column determined at multiple wavelengths
-326,\Atmosphere\Aerosol\Optical properties\Vertical distribution of properties,Vertical distribution of properties,
-361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
-362,\Atmosphere\Aerosol\Physical properties - primary\Aerosol effective radius,Aerosol effective radius,"3D field of mean aerosol particle size, defined as the ratio of the third and second moments of the number size distribution of aerosol particles. Requested in the troposphere (assumed height: 12 km) and as columnar average."
-727,\Atmosphere\Aerosol\Physical properties - primary\Dust\Aerosol dust concentration (mass),Aerosol dust concentration (mass),3-D field of concentration of dust or sand in the atmosphere
-364,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (coarse) or Mass PM10,Mass concentration (coarse) or Mass PM10,
-365,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (fine) or Mass PM1,Mass concentration (fine) or Mass PM1,
-366,"\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (medium), PM2.5","Mass concentration (medium), PM2.5",
-367,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (size fractionated),Mass concentration (size fractionated),
-368,\Atmosphere\Aerosol\Physical properties - primary\Mass concentration (total aerosol) or Mass TSP,Mass concentration (total aerosol) or Mass TSP,
-369,\Atmosphere\Aerosol\Physical properties - primary\Number concentration,Number concentration,
-370,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, PM10","Number size distribution, PM10",
-371,"\Atmosphere\Aerosol\Physical properties - primary\Number size distribution, total aerosol","Number size distribution, total aerosol",
-728,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (mass concentration),Aerosol volcanic ash (mass concentration),3D field of mass mixing ratio of volcanic ash
-729,\Atmosphere\Aerosol\Physical properties - primary\Volcanic ash\Aerosol volcanic ash (Total column),Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
-411,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration at single supersaturation,CCN concentration at single supersaturation,
-412,\Atmosphere\Aerosol\Physical properties - secondary\CCN concentration spectra,CCN concentration spectra,
-413,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 110 μm equivalent","Hygroscopic growth factor, 110 μm equivalent",
-414,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 165 μm equivalent","Hygroscopic growth factor, 165 μm equivalent",
-415,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 35 μm equivalent","Hygroscopic growth factor, 35 μm equivalent",
-416,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 50 μm equivalent","Hygroscopic growth factor, 50 μm equivalent",
-417,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, 75 μm equivalent","Hygroscopic growth factor, 75 μm equivalent",
-418,"\Atmosphere\Aerosol\Physical properties - secondary\Hygroscopic growth factor, total aerosol","Hygroscopic growth factor, total aerosol",
-39,\Atmosphere\Atmospheric density,Atmospheric density,3D field of density of the atmosphere.
-179,\Atmosphere\Clouds\Cloud amount,Cloud amount,
-180,\Atmosphere\Clouds\Cloud cover,Cloud cover,
-181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"Size distribution of liquid water drops, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface."
+39,\Atmosphere\Atmospheric density,Atmospheric density,Density of the atmosphere.
+44,\Atmosphere\Integrated air samples,Integrated air samples,
+56,\Atmosphere\Special phenomena,Special phenomena,
+57,\Atmosphere\State of ground,State of ground,
+179,\Atmosphere\Clouds\Cloud amount,Cloud amount,"Fraction of the sky covered by clouds of a particular type or combination. It can refer to a genus, species, variety, layer, or a certain combination of clouds. Also, see 'cloud cover'."
+180,\Atmosphere\Clouds\Cloud cover,Cloud cover,"The amount of sky estimated to be covered by a specified cloud type (partial cloud amount), or by all cloud types (total cloud amount). In either case, the estimate is made to the nearest okta (eighth) and is reported on a scale which is essentially one of the nearest eighth, except that figures 0 and 8 on the scale signify a completely clear and cloudy sky, respectively, with consequent adjustment to the adjacent 1 and 7 okta intervals."
+181,\Atmosphere\Clouds\Cloud drop effective radius,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume."
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
-327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,3D field of atmospheric water in the solid phase (precipitating or not). 
-328,\Atmosphere\Clouds\Ice\Cloud ice (total column),Cloud ice (total column),Field of atmospheric water in the solid phase (precipitating or not) as total column.
-329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"Size distribution of ice particles, assimilated to spheres of the same volume. Considered as both a 3D field throughout the troposphere and a 2D field at the top of cloud surface"
-330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
-331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object. "
-373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),3D field of atmospheric water in the liquid phase (precipitating or not).
-374,"\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW, total column)","Cloud liquid water (CLW, total column)",Field of atmospheric water in the liquid phase (precipitating or not).
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
-506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
-507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
-508,\Atmosphere\Clouds\Optical properties\Optical depth within each layer,Optical depth within each layer,
-509,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
-531,\Atmosphere\Clouds\Position\Height of cloud base,Height of cloud base,
-532,\Atmosphere\Clouds\Position\Height of cloud top,Height of cloud top,
-533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
-188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,3D field of Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
-550,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
-551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
-552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
-553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
-248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
-249,\Atmosphere\Dynamics\Turbulence,Turbulence,3D field of kinetic energy density of turbulent motion of the air
-250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
-589,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)","C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)",
-590,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)","C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)",
-591,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)",
-592,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)","CCl2F2 (dichlorodifluoromethane, CFC-12)",
-593,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)","CCl3F (trichlorofluoromethane, CFC-11)",
-12016,"Atmosphere\Gas\Greenhouse Gas\CFCs\Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5"
-192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"1D variable colloquially referred to as ""wave spectrum"". Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation "
-193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],CH4 with C-13 isotope
-194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,CO2
-195,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],CO2 with C-13 isotope
+188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
+192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8, in gas phase"
+193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],"IUPAC: carbane, PubChem CID: 105026, CAS Number: 14762-74-4, in gas phase"
+194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,"IUPAC: carbon dioxide, PubChem CID: 280, CAS Number: 124-38-9, in gas phase"
+195,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],"IUPAC: n/a, PubChem CID: 10129882, CAS Number: 1111-72-4, in gas phase"
 196,\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18],CO2 [O-18],CO2 with O-18 isotope
-594,\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CCl4 (carbon tetrachloride),CCl4 (carbon tetrachloride),
-595,"\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CH3CCl3 (1,1,1-trichloroethane)","CH3CCl3 (1,1,1-trichloroethane)",
-332,\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211),CBrClF2 (Halon 1211),
-333,"\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)","CBrF3 (bromotrifluoromethane, Halon 1301)",
-12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6"
-12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2 (1,2-isomer), 25497-30-7 (1,1-isomer)"
-534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",
-535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",
-536,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)",
-537,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)",
-12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, 25167-88-8"
-554,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)",
-555,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)",
-556,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)",
-557,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)","C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236fa)",
-558,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)","C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)",
-559,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)","C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)",
-560,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)",
-561,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)","CH2F2 (difluoromethane, HFC-32)",
-562,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)","CHF3 (trifluoromethane, HFC-23)",
-201,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,N2O
-419,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)",
-420,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)",
-421,"\Atmosphere\Gas\Greenhouse Gas\PFCs\CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)","CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)",
-203,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,SF6
-204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride)
-205,\Atmosphere\Gas\Other Gas\H2,H2,H2
-206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),3D field of mole fraction of H2O = Water vapour (intended as a chemical species relevant for atmospheric chemistry).
-207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),3D field of mole fraction of HDO = Water vapour (with one hydrogen nucleus replaced by its deuterium isotope) 
-262,\Atmosphere\Gas\Ozone\Surface ozone,Surface ozone,
-263,\Atmosphere\Gas\Ozone\Total column ozone,Total column ozone,
-264,\Atmosphere\Gas\Ozone\Vertical ozone profile,Vertical ozone profile,
-274,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),BrO (bromine monoxide),
-275,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),C2Cl4 (tetrachloroethene),
-276,\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene),C2HCl3 (trichloroethene),
-277,\Atmosphere\Gas\Reactive Gas\CH2Br2 (dibromomethane),CH2Br2 (dibromomethane),
-278,\Atmosphere\Gas\Reactive Gas\CH2Cl2 (dichloromethane),CH2Cl2 (dichloromethane),
-279,\Atmosphere\Gas\Reactive Gas\CH3Br (methylbromide),CH3Br (methylbromide),
-280,\Atmosphere\Gas\Reactive Gas\CH3Cl (methylchloride),CH3Cl (methylchloride),
-281,\Atmosphere\Gas\Reactive Gas\CH3I (methyliodide),CH3I (methyliodide),
-282,\Atmosphere\Gas\Reactive Gas\CHBr3 (bromoform),CHBr3 (bromoform),
-283,\Atmosphere\Gas\Reactive Gas\CHCl3 (chloroform),CHCl3 (chloroform),
-286,\Atmosphere\Gas\Reactive Gas\ClO (chlorine monoxide),ClO (chlorine monoxide),
-284,\Atmosphere\Gas\Reactive Gas\CO,CO,
-285,"\Atmosphere\Gas\Reactive Gas\COF2 (difluoromethanal, carbonyl fluoride)","COF2 (difluoromethanal, carbonyl fluoride)",
-287,\Atmosphere\Gas\Reactive Gas\H2O2 (hydrogen peroxide),H2O2 (hydrogen peroxide),
-288,\Atmosphere\Gas\Reactive Gas\HCl (hydrochloric acid),HCl (hydrochloric acid),
-289,\Atmosphere\Gas\Reactive Gas\HF (hydrofluoric acid),HF (hydrofluoric acid),
-390,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\Ammonia (NH3),Ammonia (NH3),
-391,"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\C2H3O5N (peroxyacetylnitrate, PAN)","C2H3O5N (peroxyacetylnitrate, PAN)",
-392,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\ClONO2 (chlorine nitrate),ClONO2 (chlorine nitrate),
-393,"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HCN (formonitrile, hydrogen cyanide)","HCN (formonitrile, hydrogen cyanide)",
-394,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HNO3 (nitric acid),HNO3 (nitric acid),
-395,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO,NO,
-396,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO2,NO2,
-397,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOx,NOx,
-398,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy,NOy,
-291,\Atmosphere\Gas\Reactive Gas\ROOH,ROOH,
-428,"\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\COS (OCS, carbon oxide sulfide, carbonyl sulfide)","COS (OCS, carbon oxide sulfide, carbonyl sulfide)",
-429,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\CS2 (Carbon disulfide),CS2 (Carbon disulfide),
-430,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\SO2,SO2,
-434,"\Atmosphere\Gas\Reactive Gas\VOC\C2H2 (ethyne, acetylene)","C2H2 (ethyne, acetylene)",
-435,"\Atmosphere\Gas\Reactive Gas\VOC\C2H2O2 (oxaldehyde, ethanedial)","C2H2O2 (oxaldehyde, ethanedial)",
-436,\Atmosphere\Gas\Reactive Gas\VOC\C2H4 (ethene),C2H4 (ethene),
-437,\Atmosphere\Gas\Reactive Gas\VOC\C2H6 (ethane),C2H6 (ethane),
-438,"\Atmosphere\Gas\Reactive Gas\VOC\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)",
-439,\Atmosphere\Gas\Reactive Gas\VOC\C3H4 (propyne),C3H4 (propyne),
-440,"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O (prop-2-enal, acrolein)","C3H4O (prop-2-enal, acrolein)",
-441,"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O2 (2-oxopropanal, methylglyoxal)","C3H4O2 (2-oxopropanal, methylglyoxal)",
-442,\Atmosphere\Gas\Reactive Gas\VOC\C3H6 (propene),C3H6 (propene),
-443,"\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (acetone, propanone)","C3H6O (acetone, propanone)",
-444,\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (propanal),C3H6O (propanal),
-445,\Atmosphere\Gas\Reactive Gas\VOC\C3H8 (propane),C3H8 (propane),
-446,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6 (1,3-butadiene, butadiene)","C4H6 (1,3-butadiene, butadiene)",
-447,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (2-methylprop-2-enal, methacrolein)","C4H6O (2-methylprop-2-enal, methacrolein)",
-448,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (but-3-en-2-one, methylvinylketone)","C4H6O (but-3-en-2-one, methylvinylketone)",
-449,\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (1-butene),C4H8 (1-butene),
-450,\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (sum of butenes),C4H8 (sum of butenes),
-451,"\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butan-2-one, methylethylketone)","C4H8O (butan-2-one, methylethylketone)",
-452,\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butanal isomers),C4H8O (butanal isomers),
-453,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (1-pentene),C5H10 (1-pentene),
-454,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-1-butene),C5H10 (2-methyl-1-butene),
-455,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-2-butene),C5H10 (2-methyl-2-butene),
-456,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (3-methyl-1-butene),C5H10 (3-methyl-1-butene),
-457,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (cyclopentane),C5H10 (cyclopentane),
-458,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of 1-pentene & 2-methyl-2-butene),C5H10 (sum of 1-pentene & 2-methyl-2-butene),
-459,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of pentenes),C5H10 (sum of pentenes),
-460,"\Atmosphere\Gas\Reactive Gas\VOC\C5H10O (pentanal, valeraldehyde)","C5H10O (pentanal, valeraldehyde)",
-461,"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)","C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)",
-462,"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 (2,2-dimethylpropane)","C5H12 (2,2-dimethylpropane)",
-463,"\Atmosphere\Gas\Reactive Gas\VOC\C5H14 (2,3-dimethylbutane)","C5H14 (2,3-dimethylbutane)",
-464,"\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (2-methyl-1,3-butadiene, isoprene)","C5H8 (2-methyl-1,3-butadiene, isoprene)",
-465,\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (cyclopentene),C5H8 (cyclopentene),
-466,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)","C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)",
-467,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)","C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)",
-468,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (cyclohexane),C6H12 (cyclohexane),
-469,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (methylcyclopentane),C6H12 (methylcyclopentane),
-470,\Atmosphere\Gas\Reactive Gas\VOC\C6H12O (hexanal isomers),C6H12O (hexanal isomers),
-471,"\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2,2-dimethylbutane)","C6H14 (2,2-dimethylbutane)",
-472,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2-methylpentane),C6H14 (2-methylpentane),
-473,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (3-methylpentane),C6H14 (3-methylpentane),
-474,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (n-hexane),C6H14 (n-hexane),
-475,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (sum of methylpentanes),C6H14 (sum of methylpentanes),
-476,\Atmosphere\Gas\Reactive Gas\VOC\C6H6 (benzene),C6H6 (benzene),
-478,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane","C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane",
-479,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane","C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane",
-477,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)","C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)",
-480,\Atmosphere\Gas\Reactive Gas\VOC\C7H16 (sum of methylhexanes),C7H16 (sum of methylhexanes),
-481,\Atmosphere\Gas\Reactive Gas\VOC\C7H6O (benzene carbaldehyde),C7H6O (benzene carbaldehyde),
-482,\Atmosphere\Gas\Reactive Gas\VOC\C7H8 (toluene),C7H8 (toluene),
-483,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (ethylbenzene),C8H10 (ethylbenzene),
-484,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (m-xylene),C8H10 (m-xylene),
-485,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (o-xylene),C8H10 (o-xylene),
-486,"\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (p,m-xylene)","C8H10 (p,m-xylene)",
-487,"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,2,4-trimethylbenzene)","C9H12 (1,2,4-trimethylbenzene)",
-488,"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,3,5-trimethylbenzene)","C9H12 (1,3,5-trimethylbenzene)",
-495,\Atmosphere\Gas\Reactive Gas\VOC\c-C4H8 (cis-2-butene),c-C4H8 (cis-2-butene),
-496,\Atmosphere\Gas\Reactive Gas\VOC\c-C5H10 (cis-2-pentene),c-C5H10 (cis-2-pentene),
-489,\Atmosphere\Gas\Reactive Gas\VOC\CH2O (formaldehyde),CH2O (formaldehyde),
-490,\Atmosphere\Gas\Reactive Gas\VOC\CH3CH2OH (ethanol),CH3CH2OH (ethanol),
-491,"\Atmosphere\Gas\Reactive Gas\VOC\CH3CHO (acetaldehyde, ethanal)","CH3CHO (acetaldehyde, ethanal)",
-492,\Atmosphere\Gas\Reactive Gas\VOC\CH3CN (acetonitrile),CH3CN (acetonitrile),
-493,\Atmosphere\Gas\Reactive Gas\VOC\CH3OH (methanol),CH3OH (methanol),
-497,"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H10 (2-methylpropane, iso-butane)","i-C4H10 (2-methylpropane, iso-butane)",
-498,"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H8 (2-methylpropene, iso-butene)","i-C4H8 (2-methylpropene, iso-butene)",
-499,"\Atmosphere\Gas\Reactive Gas\VOC\i-C5H12 (2-methylbutane, iso-pentane)","i-C5H12 (2-methylbutane, iso-pentane)",
-500,"\Atmosphere\Gas\Reactive Gas\VOC\i-C7H16 (2-methylhexane, isoheptane)","i-C7H16 (2-methylhexane, isoheptane)",
-501,\Atmosphere\Gas\Reactive Gas\VOC\n-C4H10 (n-butane),n-C4H10 (n-butane),
-502,\Atmosphere\Gas\Reactive Gas\VOC\n-C5H12 (n-pentane),n-C5H12 (n-pentane),
-503,\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane),n-C7H16 (n-heptane),
-494,\Atmosphere\Gas\Reactive Gas\VOC\NMHC,NMHC,
-504,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),
-505,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),
-new id,gas phase,O2/N2 ratio,Atmospheric O2/N2 ratio
-251,\Atmosphere\Humidity\Humidity  (at specified distance from reference surface),Humidity  (at specified distance from reference surface),
-252,\Atmosphere\Humidity\Integrated water vapour,Integrated water vapour,
-253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
-254,\Atmosphere\Humidity\Object wetness duration,Object wetness duration,
-255,\Atmosphere\Humidity\Water vapour pressure,Water vapour pressure,
-256,\Atmosphere\Humidity\Watervapor profile,Watervapor profile,
-44,\Atmosphere\Integrated air samples,Integrated air samples,
-12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
-257,\Atmosphere\Lightning\Lightning discharge energy,Lightning discharge energy,
-258,\Atmosphere\Lightning\Lightning discharge polarity,Lightning discharge polarity,
-259,\Atmosphere\Lightning\Lightning discharge rates,Lightning discharge rates,
-260,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)","Lightning discharge type (cloud to cloud, cloud to surface)",
-431,\Atmosphere\Lightning\Position\Lightning detection (time and location),Lightning detection (time and location),"Detection of the time and location (latitude, longitude) of lightning events. Accuracy expressed in terms of Hit Rate and False Alarm Rate, which requires predetermination of a specific distance and time tolerance."
-432,\Atmosphere\Lightning\Position\Lightning direction from station,Lightning direction from station,
-433,\Atmosphere\Lightning\Position\Lightning distance from station,Lightning distance from station,
-12001,\Atmosphere\Lightning\Total lightning density,Total lightning density,
-265,\Atmosphere\Past weather\Past weather,Past weather,
-334,"\Atmosphere\POPs\PAH\C13H10 (9H-fluorene, fluorene), in air","C13H10 (9H-fluorene, fluorene), in air",
-336,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in aerosol","C14H10 (anthracene), in aerosol",
-338,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air","C14H10 (anthracene), in air",
-337,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air and aerosol","C14H10 (anthracene), in air and aerosol",
-335,"\Atmosphere\POPs\PAH\C14H10 (anthracene), PM10","C14H10 (anthracene), PM10",
-340,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in aerosol","C14H10 (phenanthrene), in aerosol",
-341,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air","C14H10 (phenanthrene), in air",
-342,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air and aerosol","C14H10 (phenanthrene), in air and aerosol",
-344,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in total precipitation","C14H10 (phenanthrene), in total precipitation",
-343,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in wet deposition","C14H10 (phenanthrene), in wet deposition",
-339,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), PM10","C14H10 (phenanthrene), PM10",
-345,"\Atmosphere\POPs\PAH\C16H10 (pyrene), in air and aerosol","C16H10 (pyrene), in air and aerosol",
-347,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in aerosol","C18H12 (Benz(a)anthracene), in aerosol",
-348,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air","C18H12 (Benz(a)anthracene), in air",
-349,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air and aerosol","C18H12 (Benz(a)anthracene), in air and aerosol",
-350,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in precipitation","C18H12 (Benz(a)anthracene), in precipitation",
-351,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in total precipitation","C18H12 (Benz(a)anthracene), in total precipitation",
-346,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), PM10","C18H12 (Benz(a)anthracene), PM10",
-375,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in aerosol","C12H8Cl6 (aldrin), in aerosol",
-376,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air","C12H8Cl6 (aldrin), in air",
-377,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air and aerosol","C12H8Cl6 (aldrin), in air and aerosol",
-378,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in total precipitation","C12H8Cl6 (aldrin), in total precipitation",
-379,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in wet precipitation","C12H8Cl6 (aldrin), in wet precipitation",
-380,"\Atmosphere\POPs\POP\C6Cl6 (hexachlorobenzene, HCB), in air","C6Cl6 (hexachlorobenzene, HCB), in air",
-381,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol",
-382,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air",
-383,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation",
-384,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air",
-385,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation",
+201,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, in gas phase"
+203,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,"IUPAC: hexafluoro-λ6-sulfane, PubChem CID: 17358, CAS Number: 2551-62-4, in gas phase"
+204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),"IUPAC: sulfuryl difluoride, PubChem CID: 17607, CAS Number: 2699-79-8, in gas phase"
+205,\Atmosphere\Gas\Other Gas\H2,H2,"IUPAC: molecular hydrogen, PubChem CID: 783, CAS Number: 1333-74-0 , in gas phase"
+206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),"IUPAC: oxidane, PubChem CID: 962, CAS Number: 7732-18-5, in gas phase"
+207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),"IUPAC: n/a, PubChem CID: 139859, CAS Number: 14940-63-7, in gas phase"
 210,\Atmosphere\Precipitation\Amount of precipitation,Amount of precipitation,
 211,\Atmosphere\Precipitation\Duration of precipitation,Duration of precipitation,
 212,\Atmosphere\Precipitation\Intensity of precipitation,Intensity of precipitation,
 213,\Atmosphere\Precipitation\Occurrence of precipitation during last period (yes-no),Occurrence of precipitation during last period (yes/no),
 214,\Atmosphere\Precipitation\Rate of ice accretion,Rate of ice accretion,
 215,\Atmosphere\Precipitation\Type of precipitation,Type of precipitation,
-266,\Atmosphere\Present weather\Present weather,Present weather,
 216,\Atmosphere\Pressure\Atmospheric pressure,Atmospheric pressure,
-12000,\Atmosphere\Pressure\Atmospheric pressure profile,Atmospheric pressure profile,Upper-air atmospheric pressure
-217,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,
-218,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,
+217,\Atmosphere\Pressure\Characteristic of pressure tendency,Characteristic of pressure tendency,"The pressure characteristic is an indication of how the pressure has changed during that period of time, for example, decreasing then increasing, or increasing and then increasing more rapidly."
+218,\Atmosphere\Pressure\Pressure tendency,Pressure tendency,"Pressure tendency is the character and amount of atmospheric pressure change for a three-hour or other specified period ending at the time of observation. Pressure tendency is composed of two parts, namely the characteristic of pressure tendency and amount of pressure tendency."
+219,\Atmosphere\Radionuclide\Beryllium [Be-7],Beryllium [Be-7],"IUPAC: beryllium-7, PubChem CID: 6335489, CAS Number: 13966-02-4"
+220,\Atmosphere\Radionuclide\CO2 [C-14],CO2 [C-14],CO2 with C-14 isotope
+221,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],"IUPAC: krypton-85, PubChem CID: 104816, CAS Number: 13983-27-2"
+222,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],"IUPAC: lead-210, PubChem CID: 6328175, CAS Number: 14255-04-0"
+223,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],"IUPAC: radon-222, PubChem CID: 61773, CAS Number: 14859-67-7"
+224,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
+225,\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface),Dew-point temperature (at specified distance from reference surface),
+226,"\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)","Extreme temperature (min, max) (at specified distance from reference surface)",
+229,\Atmosphere\Visibility\Runway visual range,Runway visual range,
+230,\Atmosphere\Visibility\Visibility,Visibility,
+248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
+249,\Atmosphere\Dynamics\Turbulence,Turbulence,Kinetic energy density of turbulent motion of the air
+250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
+251,\Atmosphere\Humidity\Humidity  (at specified distance from reference surface),Humidity  (at specified distance from reference surface),
+252,\Atmosphere\Humidity\Integrated water vapour,Integrated water vapour,
+253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
+254,\Atmosphere\Humidity\Object wetness duration,Object wetness duration,
+255,\Atmosphere\Humidity\Water vapour pressure,Water vapour pressure,
+257,\Atmosphere\Lightning\Lightning discharge energy,Lightning discharge energy,
+258,\Atmosphere\Lightning\Lightning discharge polarity,Lightning discharge polarity,
+259,\Atmosphere\Lightning\Lightning discharge rates,Lightning discharge rates,
+260,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)","Lightning discharge type (cloud to cloud, cloud to surface)",
+265,\Atmosphere\Past weather\Past weather,Past weather,
+266,\Atmosphere\Present weather\Present weather,Present weather,
 267,\Atmosphere\Radiation\Background luminance,Background luminance,
-565,\Atmosphere\Radiation\IR\Long-wave radiation (direction unspecified),Long-wave radiation (direction unspecified),
-566,\Atmosphere\Radiation\IR\Long-wave radiation (downwelling),Long-wave radiation (downwelling),
-567,\Atmosphere\Radiation\IR\Long-wave radiation (upwelling),Long-wave radiation (upwelling),
-571,\Atmosphere\Radiation\Solar\Diffuse solar radiation,Diffuse solar radiation,
-572,\Atmosphere\Radiation\Solar\Direct solar radiation,Direct solar radiation,
-573,\Atmosphere\Radiation\Solar\Global solar radiation (downwelling),Global solar radiation (downwelling),
-574,\Atmosphere\Radiation\Solar\Global solar radiation (upwelling),Global solar radiation (upwelling),
 270,\Atmosphere\Radiation\Sunshine duration,Sunshine duration,
 271,\Atmosphere\Radiation\Surface albedo,Surface albedo,
+273,\Atmosphere\Radiation\UV\UV-B radiation,UV-B radiation,
+274,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),BrO (bromine monoxide),"IUPAC: n/a, PubChem CID: 5460627, CAS Number: 15656-19-6, in gas phase"
+275,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),C2Cl4 (tetrachloroethene),"IUPAC: 1,1,2,2-tetrachloroethene, PubChem CID: 31373, CAS Number: 127-18-4, in gas phase"
+276,\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene),C2HCl3 (trichloroethene),"IUPAC: 1,1,2-trichloroethene, PubChem CID: 6575, CAS Number: 79-01-6, in gas phase"
+277,\Atmosphere\Gas\Reactive Gas\CH2Br2 (dibromomethane),CH2Br2 (dibromomethane),"IUPAC: dibromomethane, PubChem CID: 3024, CAS Number: 74-95-3, in gas phase"
+278,\Atmosphere\Gas\Reactive Gas\CH2Cl2 (dichloromethane),CH2Cl2 (dichloromethane),"IUPAC: dichloromethane, PubChem CID: 6344, CAS Number: 75-09-2, in gas phase"
+279,\Atmosphere\Gas\Reactive Gas\CH3Br (bromomethane),CH3Br (bromomethane),"IUPAC: bromomethane, PubChem CID: 6323, CAS Number: 74-83-9, in gas phase"
+280,\Atmosphere\Gas\Reactive Gas\CH3Cl (chloromethane),CH3Cl (chloromethane),"IUPAC: chloromethane, PubChem CID: 6327, CAS Number: 74-87-3, in gas phase"
+281,\Atmosphere\Gas\Reactive Gas\CH3I (iodomethane),CH3I (iodomethane),"IUPAC: iodomethane, PubChem CID: 6328, CAS Number: 74-88-4, in gas phase"
+282,\Atmosphere\Gas\Reactive Gas\CHBr3 (bromoform),CHBr3 (bromoform),"IUPAC: bromoform, PubChem CID: 5558, CAS Number: 75-25-2, in gas phase"
+283,"\Atmosphere\Gas\Reactive Gas\CHCl3 (trichloromethane, chloroform)","CHCl3 (trichloromethane, chloroform)","IUPAC: chloroform, PubChem CID: 6212, CAS Number: 67-66-3, in gas phase"
+284,\Atmosphere\Gas\Reactive Gas\CO,CO,"IUPAC: carbon monoxide, PubChem CID: 281, CAS Number: 630-08-0, in gas phase"
+285,"\Atmosphere\Gas\Reactive Gas\COF2 (difluoromethanal, carbonyl fluoride)","COF2 (difluoromethanal, carbonyl fluoride)","IUPAC: carbonyl difluoride, PubChem CID: 9623, CAS Number: 353-50-4, in gas phase"
+286,\Atmosphere\Gas\Reactive Gas\ClO (chlorine monoxide),ClO (chlorine monoxide),"IUPAC: n/a, PubChem CID: 166686, CAS Number: 14989-30-1, in gas phase"
+287,\Atmosphere\Gas\Reactive Gas\H2O2 (hydrogen peroxide),H2O2 (hydrogen peroxide),"IUPAC: hydrogen peroxide, PubChem CID: 784, CAS Number: 7722-84-1, in gas phase"
+288,\Atmosphere\Gas\Reactive Gas\HCl (hydrochloric acid),HCl (hydrochloric acid),"IUPAC: chlorane, PubChem CID: 313, CAS Number: 7647-01-0, in gas phase"
+289,\Atmosphere\Gas\Reactive Gas\HF (hydrofluoric acid),HF (hydrofluoric acid),"IUPAC: fluorane, PubChem CID: 14917, CAS Number: 7664-39-3, in gas phase"
+291,\Atmosphere\Gas\Reactive Gas\ROOH,ROOH,
+294,\Atmosphere\Total Atmospheric Deposition\Acidity-Alkalinity,Acidity-Alkalinity,
+295,\Atmosphere\Total Atmospheric Deposition\Electric conductivity,Electric conductivity,
+296,\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH,Hydrogen ion (H+) or pH,
+302,\Atmosphere\Total Atmospheric Deposition\Sulphur (S),S (sulphur),"IUPAC: sulfur, PubChem CID: n/a, CAS Number: 7704-34-9, in total deposition"
+304,\Atmosphere\Wind\Direction of cloud movement,Direction of cloud movement,
+305,\Atmosphere\Wind\Gust Speed,Gust Speed,
+307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)",Z component of wind vector  (horizontal and vertical profile)
+310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
+314,"particle phase, optical properties",Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
+315,"particle phase, optical properties",Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
+316,"particle phase, optical properties","Particle light absorption coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
+317,"particle phase, optical properties","Particle light absorption coefficient, PM10",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM10
+318,"particle phase, optical properties","Particle light absorption coefficient, TSP",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: TSP
+322,"particle phase, optical properties","Particle light scattering coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
+323,"particle phase, optical properties","Particle light scattering coefficient, PM10",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM10
+324,"particle phase, optical properties","Particle light scattering coefficient, TSP",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: TSP
+325,"particle phase, optical properties","Aerosol optical depth, TSP","The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km]."
+327,\Atmosphere\Clouds\Ice\Cloud ice,Cloud ice,Atmospheric water in the solid phase (precipitating or not). 
+329,\Atmosphere\Clouds\Ice\Cloud ice effective radius,Cloud ice effective radius,"The area weighted mean radius of ice particles, assimilated to spheres of the same volume."
+330,\Atmosphere\Clouds\Ice\Freezing level height in clouds,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
+331,\Atmosphere\Clouds\Ice\Icing potential,Icing potential,"3D field of super-cooled liquid water, enabling the formation of ice coating on an object."
+332,\Atmosphere\Gas\Greenhouse Gas\Halon\CBrClF2 (Halon 1211),CBrClF2 (Halon 1211),"IUPAC: bromo-chloro-difluoromethane, PubChem CID: 9625, CAS Number: 353-59-3, in gas phase"
+333,"\Atmosphere\Gas\Greenhouse Gas\Halon\CBrF3 (bromotrifluoromethane, Halon 1301)","CBrF3 (bromotrifluoromethane, Halon 1301)","IUPAC: bromo(trifluoro)methane, PubChem CID: 6384, CAS Number: 75-63-8, in gas phase"
+334,"\Atmosphere\POPs\PAH\C13H10 (9H-fluorene, fluorene), in air","C13H10 (9H-fluorene, fluorene), in air","IUPAC: 9H-fluorene, PubChem CID: 6853, CAS Number: 86-73-7, in gas phase"
+335,"\Atmosphere\POPs\PAH\C14H10 (anthracene), PM10","C14H10 (anthracene), PM10","IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in particle phase, PM10"
+336,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in aerosol","C14H10 (anthracene), in aerosol","IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in particle phase"
+337,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air and aerosol","C14H10 (anthracene), in air and aerosol","IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in aerosol"
+338,"\Atmosphere\POPs\PAH\C14H10 (anthracene), in air","C14H10 (anthracene), in air","IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in gas phase"
+339,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), PM10","C14H10 (phenanthrene), PM10","IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in particle phase, PM10"
+340,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in aerosol","C14H10 (phenanthrene), in aerosol","IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in particle phase"
+341,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air","C14H10 (phenanthrene), in air","IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in gas phase"
+342,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in air and aerosol","C14H10 (phenanthrene), in air and aerosol","IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in aerosol"
+343,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in wet deposition","C14H10 (phenanthrene), in wet deposition","IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in wet deposition"
+344,"\Atmosphere\POPs\PAH\C14H10 (phenanthrene), in total precipitation","C14H10 (phenanthrene), in total precipitation","IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in total precipitation"
+345,"\Atmosphere\POPs\PAH\C16H10 (pyrene), in air and aerosol","C16H10 (pyrene), in air and aerosol","IUPAC: pyrene, PubChem CID: 31423, CAS Number: 129-00-0, in aerosol"
+346,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), PM10","C18H12 (Benz(a)anthracene), PM10","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in particle phase, PM10"
+347,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in aerosol","C18H12 (Benz(a)anthracene), in aerosol","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in particle phase"
+348,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air","C18H12 (Benz(a)anthracene), in air","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in gas phase"
+349,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air and aerosol","C18H12 (Benz(a)anthracene), in air and aerosol","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in aerosol"
+350,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in precipitation","C18H12 (Benz(a)anthracene), in precipitation","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in precipitation"
+351,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in total precipitation","C18H12 (Benz(a)anthracene), in total precipitation","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in total precipitation"
 356,\Atmosphere\Radiation\UV\UV Broadband,UV Broadband,
 357,\Atmosphere\Radiation\UV\UV Erythemally weighted,UV Erythemally weighted,
 358,\Atmosphere\Radiation\UV\UV Multiband,UV Multiband,
 359,\Atmosphere\Radiation\UV\UV Spectral,UV Spectral,
-273,\Atmosphere\Radiation\UV\UV-B radiation,UV-B radiation,
-219,\Atmosphere\Radionuclide\Beryllium [Be-7],Beryllium [Be-7],
-220,\Atmosphere\Radionuclide\CO2 [C-14],CO2 [C-14],CO2 with C-14 isotope
-221,\Atmosphere\Radionuclide\Krypton [Kr-85],Krypton [Kr-85],Krypton (Kr-85 isotope)
-222,\Atmosphere\Radionuclide\Lead [Pb-210],Lead [Pb-210],Lead (Pb-210 isotope)
-223,\Atmosphere\Radionuclide\Radon [Rn-222],Radon [Rn-222],Radon (Rn-222 isotope)
-56,\Atmosphere\Special phenomena,Special phenomena,
-57,\Atmosphere\State of ground,State of ground,
-224,\Atmosphere\Temperature\Air temperature (at specified distance from reference surface),Air temperature (at specified distance from reference surface),
-225,\Atmosphere\Temperature\Dew-point temperature (at specified distance from reference surface),Dew-point temperature (at specified distance from reference surface),
-226,"\Atmosphere\Temperature\Extreme temperature (min, max) (at specified distance from reference surface)","Extreme temperature (min, max) (at specified distance from reference surface)",
-227,\Atmosphere\Temperature\Temperature profile,Temperature profile,
-294,\Atmosphere\Total Atmospheric Deposition\Acidity-Alkalinity,Acidity-Alkalinity,
-295,\Atmosphere\Total Atmospheric Deposition\Electric conductivity,Electric conductivity,
-296,\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH,Hydrogen ion (H+) or pH,
-529,\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids,Strong acids,
-538,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Bromide (Br-),Bromide (Br-),
-539,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Chloride (Cl-),Chloride (Cl-),
-540,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Fluoride (F-),Fluoride (F-),
-541,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Iodide (I-),Iodide (I-),
-542,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Phosphate (PO4---),Phosphate (PO4---),
-543,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), corrected","Sulphate (SO4=), corrected",
-544,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), total","Sulphate (SO4=), total",
-545,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Calcium (Ca++),Calcium (Ca++),
-546,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Magnesium (Mg++),Magnesium (Mg++),
-547,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+),Potassium (K+),
-548,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Sodium (Na+),Sodium (Na+),
-568,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Ammonium (NH4+),Ammonium (NH4+),
-569,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrate (NO3-),Nitrate (NO3-),
-570,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrite (NO2-),Nitrite (NO2-),
-576,\Atmosphere\Total Atmospheric Deposition\Organic acid\Acetate (CH3COO-),Acetate (CH3COO-),
-577,\Atmosphere\Total Atmospheric Deposition\Organic acid\Formate (HCOO-),Formate (HCOO-),
-578,\Atmosphere\Total Atmospheric Deposition\Organic acid\Propionate (C2H5COO-),Propionate (C2H5COO-),
-302,\Atmosphere\Total Atmospheric Deposition\Sulphur (S),Sulphur (S),
-597,\Atmosphere\Total Atmospheric Deposition\Trace elements\Aluminium (Al),Aluminium (Al),
-598,\Atmosphere\Total Atmospheric Deposition\Trace elements\Arsenic (As),Arsenic (As),
-599,\Atmosphere\Total Atmospheric Deposition\Trace elements\Cadmium (Cd),Cadmium (Cd),
-600,\Atmosphere\Total Atmospheric Deposition\Trace elements\Chromium (Cr),Chromium (Cr),
-601,\Atmosphere\Total Atmospheric Deposition\Trace elements\Cobalt (Co),Cobalt (Co),
-602,\Atmosphere\Total Atmospheric Deposition\Trace elements\Copper (Cu),Copper (Cu),
-603,\Atmosphere\Total Atmospheric Deposition\Trace elements\Iron (Fe),Iron (Fe),
-604,\Atmosphere\Total Atmospheric Deposition\Trace elements\Lead (Pb),Lead (Pb),
-605,\Atmosphere\Total Atmospheric Deposition\Trace elements\Manganese (Mn),Manganese (Mn),
-606,\Atmosphere\Total Atmospheric Deposition\Trace elements\Mercury (Hg),Mercury (Hg),
-607,\Atmosphere\Total Atmospheric Deposition\Trace elements\Nickel (Ni),Nickel (Ni),
-608,\Atmosphere\Total Atmospheric Deposition\Trace elements\Vanadium (V),Vanadium (V),
-609,\Atmosphere\Total Atmospheric Deposition\Trace elements\Zinc (Zn),Zinc (Zn),
+361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
+362,"particle phase, physical properties",Particle effective radius,The area weighted mean radius of the aerosol particles.
+364,"particle phase, physical properties","Particle mass concentration, PM10","Mass of particles per unit volume of air, size range: PM10"
+365,"particle phase, physical properties","Particle mass concentration, PM1","Mass of particles per unit volume of air, size range: PM1"
+366,"particle phase, physical properties","Particle mass concentration, PM2.5","Mass of particles per unit volume of air, size range: PM2.5"
+367,"particle phase, physical properties",Particle mass concentration (size fractionated),"Mass of particles per unit volume of air, size fractionated"
+368,"particle phase, physical properties","Particle mass concentration, TSP","Mass of particles per unit volume of air, size range: TSP"
+369,"particle phase, physical properties",Particle number concentration,Amount of particles per unit volume of air
+370,"particle phase, physical properties","Particle number size distribution, PM10","Particle number concentration as a function of size, typically equivalent spherical radius or diameter. Size range: TSP"
+371,"particle phase, physical properties","Particle number size distribution, TSP","Particle number concentration as a function of size, typically equivalent spherical radius or diameter. Size range: PM10"
+373,\Atmosphere\Clouds\Liquid water\Cloud liquid water (CLW),Cloud liquid water (CLW),Atmospheric water in the liquid phase (precipitating or not).
+375,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in aerosol","C12H8Cl6 (aldrin), in aerosol","IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in particle phase"
+376,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air","C12H8Cl6 (aldrin), in air","IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in gas phase"
+377,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in air and aerosol","C12H8Cl6 (aldrin), in air and aerosol","IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in aerosol"
+378,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in total precipitation","C12H8Cl6 (aldrin), in total precipitation","IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in total precipitation"
+379,"\Atmosphere\POPs\POP\C12H8Cl6 (aldrin), in wet precipitation","C12H8Cl6 (aldrin), in wet precipitation","IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in wet precipitation"
+380,"\Atmosphere\POPs\POP\C6Cl6 (hexachlorobenzene, HCB), in air","C6Cl6 (hexachlorobenzene, HCB), in air","IUPAC: 1,2,3,4,5,6-hexachlorobenzene, PubChem CID: 8370, CAS Number: 118-74-1, in gas phase"
+381,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol","IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in particle phase"
+382,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air","IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in gas phase"
+383,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation","IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in wet deposition"
+384,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air","IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in gas phase"
+385,"\Atmosphere\POPs\POP\C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation","IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in wet deposition"
+390,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\Ammonia (NH3),NH3 (Ammonia),"IUPAC: azane, PubChem CID: 222, CAS Number: 7664-41-7, in gas phase"
+391,"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\C2H3O5N (peroxyacetylnitrate, PAN)","C2H3O5N (peroxyacetylnitrate, PAN)","IUPAC: nitro ethaneperoxoate, PubChem CID: 16782, CAS Number: 2278-22-0, in gas phase"
+392,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\ClONO2 (chlorine nitrate),ClONO2 (chlorine nitrate),"IUPAC: chloro nitrate, PubChem CID: 114934, CAS Number: 14545-72-3, in gas phase"
+393,"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HCN (formonitrile, hydrogen cyanide)","HCN (formonitrile, hydrogen cyanide)","IUPAC: formonitrile, PubChem CID: 768, CAS Number: 74-90-8, in gas phase"
+394,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HNO3 (nitric acid),HNO3 (nitric acid),"IUPAC: nitric acid, PubChem CID: 944, CAS Number: 7697-37-2, in gas phase"
+395,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO,NO,"IUPAC: nitric oxide, PubChem CID: 145068, CAS Number: 10102-43-9, in gas phase"
+396,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO2,NO2,"IUPAC: n/a, PubChem CID: 3032552, CAS Number: 10102-44-0, in gas phase"
+397,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOx,NOx,
+398,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy,NOy,
+411,"particle phase, physical properties",CCN concentration at single supersaturation,
+412,"particle phase, physical properties",CCN concentration spectra,
+413,"particle phase, physical properties","Hygroscopic growth factor, 110 μm equivalent",
+414,"particle phase, physical properties","Hygroscopic growth factor, 165 μm equivalent",
+415,"particle phase, physical properties","Hygroscopic growth factor, 35 μm equivalent",
+416,"particle phase, physical properties","Hygroscopic growth factor, 50 μm equivalent",
+417,"particle phase, physical properties","Hygroscopic growth factor, 75 μm equivalent",
+418,"particle phase, physical properties","Hygroscopic growth factor, total aerosol",
+419,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C2F6 (hexafluoroethane, PFC-116)","C2F6 (hexafluoroethane, PFC-116)","IUPAC: 1,1,1,2,2,2-hexafluoroethane, PubChem CID: 6431, CAS Number: 76-16-4, in gas phase"
+420,"\Atmosphere\Gas\Greenhouse Gas\PFCs\C3F8 (octafluoropropane, PFC-218)","C3F8 (octafluoropropane, PFC-218)","IUPAC: 1,1,1,2,2,3,3,3-octafluoropropane, PubChem CID: 6432, CAS Number: 76-19-7, in gas phase"
+421,"\Atmosphere\Gas\Greenhouse Gas\PFCs\CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)","CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)","IUPAC: tetrafluoromethane, PubChem CID: 6393, CAS Number: 75-73-0, in gas phase"
+428,"\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\COS (OCS, carbon oxide sulfide, carbonyl sulfide)","COS (OCS, carbon oxide sulfide, carbonyl sulfide)","IUPAC: carbonyl sulfide, PubChem CID: 10039, CAS Number: 463-58-1, in gas phase"
+429,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\CS2 (Carbon disulfide),CS2 (Carbon disulfide),"IUPAC: methanedithione, PubChem CID: 6348, CAS Number: 75-15-0, in gas phase"
+430,\Atmosphere\Gas\Reactive Gas\Sulfur containing compounds\SO2,SO2,"IUPAC: sulfur dioxide, PubChem CID: 1119, CAS Number: 7446 09-5, in gas phase"
+431,\Atmosphere\Lightning\Position\Lightning detection (time and location),Lightning detection (time and location),"Detection of the time and location (latitude, longitude) of lightning events. Accuracy expressed in terms of Hit Rate and False Alarm Rate, which requires predetermination of a specific distance and time tolerance."
+432,\Atmosphere\Lightning\Position\Lightning direction from station,Lightning direction from station,
+433,\Atmosphere\Lightning\Position\Lightning distance from station,Lightning distance from station,
+434,"\Atmosphere\Gas\Reactive Gas\VOC\C2H2 (ethyne, acetylene)","C2H2 (ethyne, acetylene)","IUPAC: acetylene, PubChem CID: 6326, CAS Number: 74-86-2, in gas phase"
+435,"\Atmosphere\Gas\Reactive Gas\VOC\C2H2O2 (oxaldehyde, ethanedial)","C2H2O2 (oxaldehyde, ethanedial)","IUPAC: oxaldehyde, PubChem CID: 7860, CAS Number: 107-22-2, in gas phase"
+436,\Atmosphere\Gas\Reactive Gas\VOC\C2H4 (ethene),C2H4 (ethene),"IUPAC: ethene, PubChem CID: 6325, CAS Number: 74-85-1, in gas phase"
+437,\Atmosphere\Gas\Reactive Gas\VOC\C2H6 (ethane),C2H6 (ethane),"IUPAC: ethane, PubChem CID: 6324, CAS Number: 74-84-0, in gas phase"
+438,"\Atmosphere\Gas\Reactive Gas\VOC\C2H6S (dimethylsulfide, DMS)","C2H6S (dimethylsulfide, DMS)","IUPAC: methylsulfanylmethane, PubChem CID: 1068, CAS Number: 75-18-3, in gas phase"
+439,\Atmosphere\Gas\Reactive Gas\VOC\C3H4 (propyne),C3H4 (propyne),"IUPAC: prop-1-yne, PubChem CID: 6335, CAS Number: 74-99-7, in gas phase"
+440,"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O (prop-2-enal, acrolein)","C3H4O (prop-2-enal, acrolein)","IUPAC: prop-2-enal, PubChem CID: 7847, CAS Number: 107-02-8, in gas phase"
+441,"\Atmosphere\Gas\Reactive Gas\VOC\C3H4O2 (2-oxopropanal, methylglyoxal)","C3H4O2 (2-oxopropanal, methylglyoxal)","IUPAC: 2-oxopropanal, PubChem CID: 880, CAS Number: 78-98-8, in gas phase"
+442,\Atmosphere\Gas\Reactive Gas\VOC\C3H6 (propene),C3H6 (propene),"IUPAC: prop-1-ene, PubChem CID: 8252, CAS Number: 115-07-1, in gas phase"
+443,"\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (acetone, propanone)","C3H6O (acetone, propanone)","IUPAC: propan-2-one, PubChem CID: 180, CAS Number: 67-64-1, in gas phase"
+444,\Atmosphere\Gas\Reactive Gas\VOC\C3H6O (propanal),C3H6O (propanal),"IUPAC: propanal, PubChem CID: 527, CAS Number: 123-38-6, in gas phase"
+445,\Atmosphere\Gas\Reactive Gas\VOC\C3H8 (propane),C3H8 (propane),"IUPAC: propane, PubChem CID: 6334, CAS Number: 74-98-6, in gas phase"
+446,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6 (1,3-butadiene, butadiene)","C4H6 (1,3-butadiene, butadiene)","IUPAC: buta-1,3-diene, PubChem CID: 7845, CAS Number: 106-99-0, in gas phase"
+447,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (2-methylprop-2-enal, methacrolein)","C4H6O (2-methylprop-2-enal, methacrolein)","IUPAC: 2-methylprop-2-enal, PubChem CID: 6562, CAS Number: 78-85-3, in gas phase"
+448,"\Atmosphere\Gas\Reactive Gas\VOC\C4H6O (but-3-en-2-one, methylvinylketone)","C4H6O (but-3-en-2-one, methylvinylketone)","IUPAC: but-3-en-2-one, PubChem CID: 6570, CAS Number: 78-94-4, in gas phase"
+449,\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (1-butene),C4H8 (1-butene),"IUPAC: but-1-ene, PubChem CID: 7844, CAS Number: 106-98-9, in gas phase"
+450,\Atmosphere\Gas\Reactive Gas\VOC\C4H8 (sum of butenes),C4H8 (sum of butenes),
+451,"\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butan-2-one, methylethylketone)","C4H8O (butan-2-one, methylethylketone)","IUPAC: butan-2-one, PubChem CID: 6569, CAS Number: 78-93-3, in gas phase"
+452,\Atmosphere\Gas\Reactive Gas\VOC\C4H8O (butanal isomers),C4H8O (butanal isomers),
+453,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (1-pentene),C5H10 (1-pentene),"IUPAC: pent-1-ene, PubChem CID: 8004, CAS Number: 109-67-1, in gas phase"
+454,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-1-butene),C5H10 (2-methyl-1-butene),"IUPAC: 2-methylbut-1-ene, PubChem CID: 11240, CAS Number: 563-46-2, in gas phase"
+455,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-2-butene),C5H10 (2-methyl-2-butene),"IUPAC: 2-methylbut-2-ene, PubChem CID: 10553, CAS Number: 513-35-9, in gas phase"
+456,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (3-methyl-1-butene),C5H10 (3-methyl-1-butene),"IUPAC: 3-methylbut-1-ene, PubChem CID: 11239, CAS Number: 563-45-1, in gas phase"
+457,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (cyclopentane),C5H10 (cyclopentane),"IUPAC: cyclopentane, PubChem CID: 9253, CAS Number: 287-92-3, in gas phase"
+458,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of 1-pentene & 2-methyl-2-butene),C5H10 (sum of 1-pentene and 2-methyl-2-butene),
+459,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of pentenes),C5H10 (sum of pentenes),
+460,"\Atmosphere\Gas\Reactive Gas\VOC\C5H10O (pentanal, valeraldehyde)","C5H10O (pentanal, valeraldehyde)","IUPAC: pentanal, PubChem CID: 8063, CAS Number: 110-62-3, in gas phase"
+461,"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)","C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)",
+462,"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 (2,2-dimethylpropane)","C5H12 (2,2-dimethylpropane)","IUPAC: 2,2-dimethylpropane, PubChem CID: 10041, CAS Number: 463-82-1, in gas phase"
+463,"\Atmosphere\Gas\Reactive Gas\VOC\C5H14 (2,3-dimethylbutane)","C5H14 (2,3-dimethylbutane)","IUPAC: 2,3-dimethylbutane, PubChem CID: 6589, CAS Number: 79-29-8, in gas phase"
+464,"\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (2-methyl-1,3-butadiene, isoprene)","C5H8 (2-methyl-1,3-butadiene, isoprene)","IUPAC: 2-methylbuta-1,3-diene, PubChem CID: 6557, CAS Number: 78-79-5, in gas phase"
+465,\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (cyclopentene),C5H8 (cyclopentene),"IUPAC: cyclopentene, PubChem CID: 8882, CAS Number: 142-29-0, in gas phase"
+466,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)","C5Hn, n={10, 8} (sum of 3-methyl-1-butene and cyclopentene)",
+467,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)","C5Hn, n={10, 8} (sum of n-pentane and cyclopentane)",
+468,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (cyclohexane),C6H12 (cyclohexane),"IUPAC: cyclohexane, PubChem CID: 8078, CAS Number: 110-82-7, in gas phase"
+469,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (methylcyclopentane),C6H12 (methylcyclopentane),"IUPAC: methylcyclopentane, PubChem CID: 7296, CAS Number: 96-37-7, in gas phase"
+470,\Atmosphere\Gas\Reactive Gas\VOC\C6H12O (hexanal isomers),C6H12O (hexanal isomers),
+471,"\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2,2-dimethylbutane)","C6H14 (2,2-dimethylbutane)",
+472,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (2-methylpentane),C6H14 (2-methylpentane),"IUPAC: 2-methylpentane, PubChem CID: 7892, CAS Number: 107-83-5, in gas phase"
+473,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (3-methylpentane),C6H14 (3-methylpentane),"IUPAC: 3-methylpentane, PubChem CID: 7282, CAS Number: 96-14-0, in gas phase"
+474,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (n-hexane),C6H14 (n-hexane),"IUPAC: hexane, PubChem CID: 8058, CAS Number: 110-54-3, in gas phase"
+475,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (sum of methylpentanes),C6H14 (sum of methylpentanes),
+476,\Atmosphere\Gas\Reactive Gas\VOC\C6H6 (benzene),C6H6 (benzene),"IUPAC: benzene, PubChem CID: 241, CAS Number: 71-43-2, in gas phase"
+477,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)","C6Hn, n={14, 12} (sum of 3-methylpentane and cyclohexane)",
+478,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane","C6Hn, n={14, 12} (sum of 2,2-dimethylbutane and methylcyclopentane)",
+479,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane","C6Hn, n={14, 12} (sum of 2,3-dimethylbutane and methylcyclopentane)",
+480,\Atmosphere\Gas\Reactive Gas\VOC\C7H16 (sum of methylhexanes),C7H16 (sum of methylhexanes),
+481,\Atmosphere\Gas\Reactive Gas\VOC\C7H6O (benzene carbaldehyde),C7H6O (benzene carbaldehyde),
+482,\Atmosphere\Gas\Reactive Gas\VOC\C7H8 (toluene),C7H8 (toluene),"IUPAC: toluene, PubChem CID: 1140, CAS Number: 108-88-3, in gas phase"
+483,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (ethylbenzene),C8H10 (ethylbenzene),"IUPAC: ethylbenzene, PubChem CID: 7500, CAS Number: 100-41-4, in gas phase"
+484,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (m-xylene),C8H10 (m-xylene),"IUPAC: 1,3-xylene, PubChem CID: 7929, CAS Number: 108-38-3, in gas phase"
+485,\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (o-xylene),C8H10 (o-xylene),"IUPAC: 1,2-xylene, PubChem CID: 7237, CAS Number: 95-47-6, in gas phase"
+486,"\Atmosphere\Gas\Reactive Gas\VOC\C8H10 (Sum of p-xylene and m-xylene, 1,3- and 1,4-dimethylbenzene)","C8H10 (Sum of p-xylene and m-xylene, 1,3- and 1,4-dimethylbenzene)",
+487,"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,2,4-trimethylbenzene)","C9H12 (1,2,4-trimethylbenzene)","IUPAC: 1,2,4-trimethylbenzene, PubChem CID: 7247, CAS Number: 95-36-3, in gas phase"
+488,"\Atmosphere\Gas\Reactive Gas\VOC\C9H12 (1,3,5-trimethylbenzene)","C9H12 (1,3,5-trimethylbenzene)","IUPAC: 1,3,5-trimethylbenzene, PubChem CID: 7947, CAS Number: 108-67-8, in gas phase"
+489,"\Atmosphere\Gas\Reactive Gas\VOC\CH2O (methanal, formaldehyde)","CH2O (methanal, formaldehyde)","IUPAC: formaldehyde, PubChem CID: 712, CAS Number: 50-00-0, in gas phase"
+490,\Atmosphere\Gas\Reactive Gas\VOC\CH3CH2OH (ethanol),CH3CH2OH (ethanol),"IUPAC: ethanol, PubChem CID: 702, CAS Number: 64-17-5, in gas phase"
+491,"\Atmosphere\Gas\Reactive Gas\VOC\CH3CHO (acetaldehyde, ethanal)","CH3CHO (acetaldehyde, ethanal)","IUPAC: acetaldehyde, PubChem CID: 177, CAS Number: 75-07-0, in gas phase"
+492,\Atmosphere\Gas\Reactive Gas\VOC\CH3CN (acetonitrile),CH3CN (acetonitrile),"IUPAC: acetonitrile, PubChem CID: 6342, CAS Number: 75-05-8, in gas phase"
+493,\Atmosphere\Gas\Reactive Gas\VOC\CH3OH (methanol),CH3OH (methanol),"IUPAC: methanol, PubChem CID: 887, CAS Number: 67-56-1, in gas phase"
+494,\Atmosphere\Gas\Reactive Gas\VOC\NMHC,NMHC,
+495,\Atmosphere\Gas\Reactive Gas\VOC\c-C4H8 (cis-2-butene),c-C4H8 (cis-2-butene),"IUPAC: (Z)-but-2-ene, PubChem CID: 5287573, CAS Number: 590-18-1, in gas phase"
+496,\Atmosphere\Gas\Reactive Gas\VOC\c-C5H10 (cis-2-pentene),c-C5H10 (cis-2-pentene),"IUPAC: (Z)-pent-2-ene, PubChem CID: 5326160, CAS Number: 627-20-3, in gas phase"
+497,"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H10 (2-methylpropane, iso-butane)","i-C4H10 (2-methylpropane, iso-butane)","IUPAC: 2-methylpropane, PubChem CID: 6360, CAS Number: 75-28-5, in gas phase"
+498,"\Atmosphere\Gas\Reactive Gas\VOC\i-C4H8 (2-methylpropene, iso-butene)","i-C4H8 (2-methylpropene, iso-butene)","IUPAC: 2-methylprop-1-ene, PubChem CID: 8255, CAS Number: 115-11-7, in gas phase"
+499,"\Atmosphere\Gas\Reactive Gas\VOC\i-C5H12 (2-methylbutane, iso-pentane)","i-C5H12 (2-methylbutane, iso-pentane)","IUPAC: 2-methylbutane, PubChem CID: 6556, CAS Number: 78-78-4, in gas phase"
+500,"\Atmosphere\Gas\Reactive Gas\VOC\i-C7H16 (2-methylhexane, isoheptane)","i-C7H16 (2-methylhexane, isoheptane)","IUPAC: 2-methylhexane, PubChem CID: 11582, CAS Number: 591-76-4, in gas phase"
+501,\Atmosphere\Gas\Reactive Gas\VOC\n-C4H10 (n-butane),n-C4H10 (n-butane),"IUPAC: butane, PubChem CID: 7843, CAS Number: 106-97-8, in gas phase"
+502,\Atmosphere\Gas\Reactive Gas\VOC\n-C5H12 (n-pentane),n-C5H12 (n-pentane),"IUPAC: pentane, PubChem CID: 8003, CAS Number: 109-66-0, in gas phase"
+503,\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane),n-C7H16 (n-heptane),"IUPAC: heptane, PubChem CID: 8900, CAS Number: 142-82-5, in gas phase"
+504,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),"IUPAC: (E)-but-2-ene, PubChem CID: 62695, CAS Number: 107-01-7, in gas phase"
+505,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),"IUPAC: (E)-pent-2-ene, PubChem CID: 5326161, CAS Number: 109-68-2, in gas phase"
+506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
+507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
+508,\Atmosphere\Clouds\Optical properties\Optical depth within each cloud layer,Optical depth within each cloud layer,
+509,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
 521,\Atmosphere\Visibility\Obscurations\Extinction coefficient,Extinction coefficient,
 522,\Atmosphere\Visibility\Obscurations\Hydrometeor radius,Hydrometeor radius,
 523,\Atmosphere\Visibility\Obscurations\Hydrometeor type,Hydrometeor type,
 524,\Atmosphere\Visibility\Obscurations\Lithometeor type,Lithometeor type,
 525,\Atmosphere\Visibility\Obscurations\Meteorological Optical Range,Meteorological Optical Range,
 526,\Atmosphere\Visibility\Obscurations\Obscuration type,Obscuration type,
-229,\Atmosphere\Visibility\Runway visual range,Runway visual range,
-230,\Atmosphere\Visibility\Visibility,Visibility,
-304,\Atmosphere\Wind\Direction of cloud movement,Direction of cloud movement,
-305,\Atmosphere\Wind\Gust Speed,Gust Speed,
+529,\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids,Strong acids,
+531,\Atmosphere\Clouds\Position\Cloud Base Height,Cloud Base Height,"For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."
+532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud Top Height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above mean sea level.
+533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
+534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","IUPAC: 1,1-dichloro-1-fluoroethane, PubChem CID: 15586, CAS Number: 1717-00-6, in gas phase"
+535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","IUPAC: 1-chloro-1,1-difluoroethane, PubChem CID: 6388, CAS Number: 75-68-3, in gas phase"
+536,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase"
+537,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)","IUPAC: chloro(difluoro)methane, PubChem CID: 6372, CAS Number: 75-45-6, in gas phase"
+538,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Bromide (Br-),Br- (bromide),"IUPAC: bromide, PubChem CID: 259, CAS Number: 24959-67-9, in total deposition"
+539,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Chloride (Cl-),Cl- (chloride),"IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in total deposition"
+540,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Fluoride (F-),F- (fluoride),"IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in total deposition"
+541,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Iodide (I-),I- (iodide),"IUPAC: iodide, PubChem CID: 30165, CAS Number: 20461-54-5, in total deposition"
+542,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Phosphate (PO4---),PO4--- (phosphate),"IUPAC: phosphate, PubChem CID: 1061, CAS Number: 14265-44-2, in total deposition"
+543,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), corrected","SO4= (sulphate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition"
+544,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), total",SO4= (sulphate),"IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition"
+545,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Calcium (Ca++),Ca++ (calcium),"IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in total deposition"
+546,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Magnesium (Mg++),Mg++ (magnesium),"IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in total deposition"
+547,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+),K+ (potassium),"IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in total deposition"
+548,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Sodium (Na+),Na+ (sodium),"IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in total deposition"
+550,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
+551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
+552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
+553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
+554,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","IUPAC: 1,1,1,2-tetrafluoroethane, PubChem CID: 13129, CAS Number: 811-97-2, in gas phase"
+555,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)","IUPAC: 1,1-difluoroethane, PubChem CID: 6368, CAS Number: 75-37-6, in gas phase"
+556,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)","IUPAC: 1,1,1,2,2-pentafluoroethane, PubChem CID: 9633, CAS Number: 354-33-6, in gas phase"
+557,"gas phase, greenhouse gas, HFC","C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236ea)","IUPAC: 1,1,1,2,3,3-hexafluoropropane, PubChem CID: 79009, CAS Number: 431-63-0, in gas phase"
+558,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)","C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)","IUPAC: 1,1,1,3,3-pentafluoropropane, PubChem CID: 68030, CAS Number: 460-73-1, in gas phase"
+559,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)","C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)","IUPAC: 1,1,1,2,3,3,3-heptafluoropropane, PubChem CID: 67940, CAS Number: 431-89-0, in gas phase"
+560,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","IUPAC: 1,1,1,3,3-pentafluorobutane, PubChem CID: 67884, CAS Number: 406-58-6, in gas phase"
+561,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)","CH2F2 (difluoromethane, HFC-32)","IUPAC: difluoromethane, PubChem CID: 6345, CAS Number: 75-10-5, in gas phase"
+562,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)","CHF3 (trifluoromethane, HFC-23)","IUPAC: fluoroform, PubChem CID: 6373, CAS Number: 75-46-7, in gas phase"
+565,\Atmosphere\Radiation\IR\Long-wave radiation (direction unspecified),Long-wave radiation (direction unspecified),
+566,\Atmosphere\Radiation\IR\Long-wave radiation (downwelling),Long-wave radiation (downwelling),
+567,\Atmosphere\Radiation\IR\Long-wave radiation (upwelling),Long-wave radiation (upwelling),
+568,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Ammonium (NH4+),NH4+ (ammonium),"IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in total deposition"
+569,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrate (NO3-),NO3- (nitrate),"IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in total deposition"
+570,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrite (NO2-),NO2- (nitrite),"IUPAC: nitrite, PubChem CID: 946, CAS Number: 14797-65-0, in total deposition"
+571,\Atmosphere\Radiation\Solar\Diffuse solar radiation,Diffuse solar radiation,
+572,\Atmosphere\Radiation\Solar\Direct solar radiation,Direct solar radiation,
+573,\Atmosphere\Radiation\Solar\Global solar radiation (downwelling),Global solar radiation (downwelling),
+574,\Atmosphere\Radiation\Solar\Global solar radiation (upwelling),Global solar radiation (upwelling),
+576,\Atmosphere\Total Atmospheric Deposition\Organic acid\Acetate (CH3COO-),CH3COO- (acetate),"IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-1, in total deposition"
+577,\Atmosphere\Total Atmospheric Deposition\Organic acid\Formate (HCOO-),HCOO- (formate),"IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in total deposition"
+578,\Atmosphere\Total Atmospheric Deposition\Organic acid\Propionate (C2H5COO-),C2H5COO- (propionate),"IUPAC: propanoate, PubChem CID: 104745, CAS Number: 72-03-7, in total deposition"
+579,"\Atmosphere\Aerosol\Composition\Acidity-Alkalinity, total aerosol","Acidity-Alkalinity, TSP",
+589,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)","C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)","IUPAC: 1,2-dichloro-1,1,2,2-tetrafluoroethane, PubChem CID: 6429, CAS Number: 76-14-2"
+590,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)","C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)","IUPAC: 1,1,2-trichloro-1,2,2-trifluoroethane, PubChem CID: 6428, CAS Number: 76-13-1, in gas phase"
+591,"\Atmosphere\Gas\Greenhouse Gas\CFCs\C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)","IUPAC: 1-chloro-1,1,2,2,2-pentafluoroethane, PubChem CID: 6430, CAS Number: 76-15-3, in gas phase"
+592,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl2F2 (dichlorodifluoromethane, CFC-12)","CCl2F2 (dichlorodifluoromethane, CFC-12)","IUPAC: dichloro(difluoro)methane, PubChem CID: 6391, CAS Number: 75-71-8, in gas phase"
+593,"\Atmosphere\Gas\Greenhouse Gas\CFCs\CCl3F (trichlorofluoromethane, CFC-11)","CCl3F (trichlorofluoromethane, CFC-11)","IUPAC: trichloro(fluoro)methane, PubChem CID: 6389, CAS Number: 75-69-4, in gas phase"
+594,"\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CCl4 (tetrachloromethane, carbon tetrachloride)","CCl4 (tetrachloromethane, carbon tetrachloride)","IUPAC: tetrachloromethane, PubChem CID: 5943, CAS Number: 56-23-5, in gas phase"
+595,"\Atmosphere\Gas\Greenhouse Gas\Halocarbons\CH3CCl3 (1,1,1-trichloroethane, methyl chloroform)","CH3CCl3 (1,1,1-trichloroethane, methyl chloroform)","IUPAC: 1,1,1-trichloroethane, PubChem CID: 6278, CAS Number: 71-55-6, in gas phase"
+597,\Atmosphere\Total Atmospheric Deposition\Trace elements\Aluminium (Al),Al (aluminium),"IUPAC: aluminium, PubChem CID: 5359268, CAS Number: 7429-90-5, in total deposition"
+598,\Atmosphere\Total Atmospheric Deposition\Trace elements\Arsenic (As),As (arsenic),"IUPAC: arsenic, PubChem CID: 5359596, CAS Number: 7440-38-2, in total deposition"
+599,\Atmosphere\Total Atmospheric Deposition\Trace elements\Cadmium (Cd),Cd (cadmium),"IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in total deposition"
+600,\Atmosphere\Total Atmospheric Deposition\Trace elements\Chromium (Cr),Cr (chromium),"IUPAC: chromium, PubChem CID: 23976, CAS Number: 7440-47-3, in total deposition"
+601,\Atmosphere\Total Atmospheric Deposition\Trace elements\Cobalt (Co),Co (cobalt),"IUPAC: cobalt, PubChem CID: 104730, CAS Number: 7440-48-4, in total deposition"
+602,\Atmosphere\Total Atmospheric Deposition\Trace elements\Copper (Cu),Cu (copper),"IUPAC: copper, PubChem CID: 23978, CAS Number: 7440-50-8, in total deposition"
+603,\Atmosphere\Total Atmospheric Deposition\Trace elements\Iron (Fe),Fe (iron),"IUPAC: iron, PubChem CID: 23925, CAS Number: 7439-89-6, in total deposition"
+604,\Atmosphere\Total Atmospheric Deposition\Trace elements\Lead (Pb),Pb (lead),"IUPAC: lead, PubChem CID: 5352425, CAS Number: 7439-92-1, in total deposition"
+605,\Atmosphere\Total Atmospheric Deposition\Trace elements\Manganese (Mn),Mn (manganese),"IUPAC: manganese, PubChem CID: 23930, CAS Number: 7439-96-5, in total deposition"
+606,\Atmosphere\Total Atmospheric Deposition\Trace elements\Mercury (Hg),Hg (mercury),"IUPAC: mercury, PubChem CID: 23931, CAS Number: 7439-97-6, in total deposition"
+607,\Atmosphere\Total Atmospheric Deposition\Trace elements\Nickel (Ni),Ni (nickel),"IUPAC: nickel, PubChem CID: 936, CAS Number: 7440-02-1, in total deposition"
+608,\Atmosphere\Total Atmospheric Deposition\Trace elements\Vanadium (V),V (vanadium),"IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in total deposition"
+609,\Atmosphere\Total Atmospheric Deposition\Trace elements\Zinc (Zn),Zn (zinc),"IUPAC: zinc, PubChem CID: 23994, CAS Number: 7440-66-6, in total deposition"
+614,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM1","Cl- (chloride), PM1","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM1"
+615,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM10","Cl- (chloride), PM10","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM10"
+616,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Cl- (chloride), PM2.5","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM2.5"
+617,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Cl- (chloride), TSP","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, TSP"
+618,"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","F- (fluoride), TSP","IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in particle phase, TSP"
+619,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), corrected","SO4= (sulphate), ","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, "
+620,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total","SO4= (sulphate), TSP","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, TSP"
+621,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM10","SO4= (sulphate), PM10","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM10"
+622,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM2.5","SO4= (sulphate), PM2.5","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM2.5"
+623,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM10","Elemental carbon, PM10",Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and nonvolatile under atmospheric conditions and insoluble in any solvent. Size range: PM10
+624,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM1","Elemental carbon, PM1",Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and nonvolatile under atmospheric conditions and insoluble in any solvent. Size range: PM1
+625,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM2.5","Elemental carbon, PM2.5",Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and nonvolatile under atmospheric conditions and insoluble in any solvent. Size range: PM2.5
+626,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Total carbon, PM10","Total carbon, PM10","Sum of elemental and organic carbon. Includes inorganic carbon, which is operationally distributed between elemental and organic carbon. Size range: PM10"
+632,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM10","Ca++ (calcium), PM10","IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in particle phase, PM10"
+633,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), PM2.5","Ca++ (calcium), PM2.5","IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in particle phase, PM2.5"
+634,"\Atmosphere\Aerosol\Composition\Inorganic cations\Calcium (Ca++), total aerosol","Ca++ (calcium), TSP","IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in particle phase, TSP"
+635,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM10","Mg++ (magnesium), PM10","IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in particle phase, PM10"
+636,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), PM2.5","Mg++ (magnesium), PM2.5","IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in particle phase, PM2.5"
+637,"\Atmosphere\Aerosol\Composition\Inorganic cations\Magnesium (Mg++), total aerosol","Mg++ (magnesium), TSP","IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in particle phase, TSP"
+638,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM10","K+ (potassium), PM10","IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in particle phase, PM10"
+639,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), PM2.5","K+ (potassium), PM2.5","IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in particle phase, PM2.5"
+640,"\Atmosphere\Aerosol\Composition\Inorganic cations\Potassium (K+), total aerosol","K+ (potassium), TSP","IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in particle phase, TSP"
+641,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM10","Na+ (sodium), PM10","IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, PM10"
+642,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), PM2.5","Na+ (sodium), PM2.5","IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, PM2.5"
+643,"\Atmosphere\Aerosol\Composition\Inorganic cations\Sodium (Na+), total aerosol","Na+ (sodium), TSP","IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, TSP"
+644,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonia (NH3), PM2.5","NH3 (ammonia), PM2.5","IUPAC: azane, PubChem CID: 222, CAS Number: 7664-41-7, in particle phase, PM2.5"
+645,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM10","NH4+ (ammonium), PM10","IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, PM10"
+646,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), PM2.5","NH4+ (ammonia), PM2.5","IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, PM2.5"
+647,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium (NH4+), total aerosol","NH4+ (ammonium), TSP","IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, TSP"
+648,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), total aerosol","NH4NO4 (ammonium nitrate), TSP","IUPAC: ammonium nitrate, PubChem CID: 22985, CAS Number: 6484-52-2, in particle phase, TSP"
+649,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Ammonium nitrate (NH4NO3), PM1","NH4NO3 (ammonium nitrate), PM1","IUPAC: ammonium nitrate, PubChem CID: 22985, CAS Number: 6484-52-2, in particle phase, PM1"
+650,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM10","NO3- (nitrate), PM10","IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, PM10"
+651,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM2.5","NO3- (nitrate), PM2.5","IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, PM2.5"
+652,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), total aerosol","NO3- (nitrate), TSP","IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, TSP"
+653,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrite (NO2-), total aerosol","NO2- (nitrite), TSP","IUPAC: nitrite, PubChem CID: 946, CAS Number: 14797-65-0, in particle phase, TSP"
+654,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",Sum of NH3 (ammonia) and NH4+ (ammonium),
+655,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol",Sum of HNO3 (nitric acid) and NO3- (nitrate),
+656,\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated),"Major chemical components, ",
+657,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP),"Major inorganic components, TSP",
+658,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (coarse),"Major inorganic components, coarse",
+659,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (fine),"Major inorganic components, fine",
+660,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse),"Other chemical components, coarse",
+661,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine),"Other chemical components, fine",
+662,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1","C2H3O2- (CH3COO-, acetate), PM1","IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, PM1"
+663,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate), ","IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, "
+664,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM1"
+665,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10","C2O4= (oxalate, ethanedioate), PM10","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM10"
+666,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol","C2O4= (oxalate, ethanedioate), TSP","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, TSP"
+667,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), PM1","CH3O3S- (methanesulphonate), PM1","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, PM1"
+668,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), total aerosol","CH3O3S- (methanesulphonate), TSP","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, TSP"
+669,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), ","IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in particle phase, "
+670,"\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous-organic material (coarse), PM10","Carbonaceous-organic material, PM10",
+671,\Atmosphere\Aerosol\Composition\Organic carbonaceous-Carbonaceous-organic material (fine),"Carbonaceous-organic material, fine",
+672,"\Atmosphere\Aerosol\Composition\Trace elements\Titanium (Ti), total aerosol","Ti (Titanium), TSP","IUPAC: titanium, PubChem CID: 23963, CAS Number: 7440-32-6, in particle phase, TSP"
+673,"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), PM2.5","Al (Aluminium), PM2.5","IUPAC: aluminium, PubChem CID: 5359268, CAS Number: 7429-90-5, in particle phase, PM2.5"
+674,"\Atmosphere\Aerosol\Composition\Trace elements\Aluminium (Al), total aerosol","Al (Aluminium), TSP","IUPAC: aluminium, PubChem CID: 5359268, CAS Number: 7429-90-5, in particle phase, TSP"
+675,"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), PM2.5","Sb (Antimony), PM2.5","IUPAC: antimony, PubChem CID: 5354495, CAS Number: 7440-36-0, in particle phase, PM2.5"
+676,"\Atmosphere\Aerosol\Composition\Trace elements\Antimony (Sb), total aerosol","Sb (Antimony), TSP","IUPAC: antimony, PubChem CID: 5354495, CAS Number: 7440-36-0, in particle phase, TSP"
+677,"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), PM10","As (Arsenic), PM10","IUPAC: arsenic, PubChem CID: 5359596, CAS Number: 7440-38-2, in particle phase, PM10"
+678,"\Atmosphere\Aerosol\Composition\Trace elements\Arsenic (As), total aerosol","As (Arsenic), TSP","IUPAC: arsenic, PubChem CID: 5359596, CAS Number: 7440-38-2, in particle phase, TSP"
+679,"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), PM2.5","Ba (Barium), PM2.5","IUPAC: barium, PubChem CID: 5355457, CAS Number: 7440-39-3, in particle phase, PM2.5"
+680,"\Atmosphere\Aerosol\Composition\Trace elements\Barium (Ba), total aerosol","Ba (Barium), TSP","IUPAC: barium, PubChem CID: 5355457, CAS Number: 7440-39-3, in particle phase, TSP"
+681,"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), PM2.5","Bi (Bismuth), PM2.5","IUPAC: bismuth, PubChem CID: 5359367, CAS Number: 7440-69-9, in particle phase, PM2.5"
+682,"\Atmosphere\Aerosol\Composition\Trace elements\Bismuth (Bi), total aerosol","Bi (Bismuth), TSP","IUPAC: bismuth, PubChem CID: 5359367, CAS Number: 7440-69-9, in particle phase, TSP"
+683,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM1","Cd (Cadmium), PM1","IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM1"
+684,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM10","Cd (Cadmium), PM10","IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM10"
+685,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5","Cd (Cadmium), PM2.5","IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM2.5"
+686,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), PM2.5 thru PM10","Cd (Cadmium), PM2.5 - PM10","IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM2.5 - PM10"
+687,"\Atmosphere\Aerosol\Composition\Trace elements\Cadmium (Cd), total aerosol","Cd (Cadmium), TSP","IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, TSP"
+688,"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), PM2.5","Ce (Cerium), PM2.5","IUPAC: cerium, PubChem CID: 23974, CAS Number: 7440-45-1, in particle phase, PM2.5"
+689,"\Atmosphere\Aerosol\Composition\Trace elements\Cerium (Ce), total aerosol","Ce (Cerium), TSP","IUPAC: cerium, PubChem CID: 23974, CAS Number: 7440-45-1, in particle phase, TSP"
+690,"\Atmosphere\Aerosol\Composition\Trace elements\Chromium (Cr), total aerosol","Cr (Chromium), TSP","IUPAC: chromium, PubChem CID: 23976, CAS Number: 7440-47-3, in particle phase, TSP"
+691,"\Atmosphere\Aerosol\Composition\Trace elements\Cobalt (Co), total aerosol","Co (Cobalt), TSP","IUPAC: cobalt, PubChem CID: 104730, CAS Number: 7440-48-4, in particle phase, TSP"
+692,"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), PM10","Cu (Copper), PM10","IUPAC: copper, PubChem CID: 23978, CAS Number: 7440-50-8, in particle phase, PM10"
+693,"\Atmosphere\Aerosol\Composition\Trace elements\Copper (Cu), total aerosol","Cu (Copper), TSP","IUPAC: copper, PubChem CID: 23978, CAS Number: 7440-50-8, in particle phase, TSP"
+694,"\Atmosphere\Aerosol\Composition\Trace elements\Iron (Fe), total aerosol","Fe (Iron), TSP","IUPAC: iron, PubChem CID: 23925, CAS Number: 7439-89-6, in particle phase, TSP"
+695,"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), PM2.5","La (Lanthanum), PM2.5","IUPAC: lanthanum, PubChem CID: 23926, CAS Number: 7439-91-0, in particle phase, PM2.5"
+696,"\Atmosphere\Aerosol\Composition\Trace elements\Lanthanum (La), total aerosol","La (Lanthanum), TSP","IUPAC: lanthanum, PubChem CID: 23926, CAS Number: 7439-91-0, in particle phase, TSP"
+697,"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), PM10","Pb (Lead), PM10","IUPAC: lead, PubChem CID: 5352425, CAS Number: 7439-92-1, in particle phase, PM10"
+698,"\Atmosphere\Aerosol\Composition\Trace elements\Lead (Pb), total aerosol","Pb (Lead), TSP","IUPAC: lead, PubChem CID: 5352425, CAS Number: 7439-92-1, in particle phase, TSP"
+699,"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), PM2.5","Li (Lithium), PM2.5","IUPAC: lithium, PubChem CID: 3028194, CAS Number: 7439-93-2, in particle phase, PM2.5"
+700,"\Atmosphere\Aerosol\Composition\Trace elements\Lithium (Li), total aerosol","Li (Lithium), TSP","IUPAC: lithium, PubChem CID: 3028194, CAS Number: 7439-93-2, in particle phase, TSP"
+701,"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), PM10","Mn (Manganese), PM10","IUPAC: manganese, PubChem CID: 23930, CAS Number: 7439-96-5, in particle phase, PM10"
+702,"\Atmosphere\Aerosol\Composition\Trace elements\Manganese (Mn), total aerosol","Mn (Manganese), TSP","IUPAC: manganese, PubChem CID: 23930, CAS Number: 7439-96-5, in particle phase, TSP"
+703,"\Atmosphere\Aerosol\Composition\Trace elements\Mercury (Hg), total aerosol","Hg (Mercury), TSP","IUPAC: mercury, PubChem CID: 23931, CAS Number: 7439-97-6, in particle phase, TSP"
+704,"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), PM10","Ni (Nickel), PM10","IUPAC: nickel, PubChem CID: 935, CAS Number: 7440-02-0, in particle phase, PM10"
+705,"\Atmosphere\Aerosol\Composition\Trace elements\Nickel (Ni), total aerosol","Ni (Nickel), TSP","IUPAC: nickel, PubChem CID: 935, CAS Number: 7440-02-0, in particle phase, TSP"
+706,"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), PM2.5","P (Phosphorous), PM2.5","IUPAC: phosphorus, PubChem CID: 5462309, CAS Number: 7723-14-0, in particle phase, PM2.5"
+707,"\Atmosphere\Aerosol\Composition\Trace elements\Phosphorous (P), total aerosol","P (Phosphorous), TSP","IUPAC: phosphorus, PubChem CID: 5462309, CAS Number: 7723-14-0, in particle phase, TSP"
+708,"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), PM2.5","Rb (Rubidium), PM2.5","IUPAC: rubidium, PubChem CID: 5357696, CAS Number: 7440-17-7, in particle phase, PM2.5"
+709,"\Atmosphere\Aerosol\Composition\Trace elements\Rubidium (Rb), total aerosol","Rb (Rubidium), TSP","IUPAC: rubidium, PubChem CID: 5357696, CAS Number: 7440-17-7, in particle phase, TSP"
+710,"\Atmosphere\Aerosol\Composition\Trace elements\Selenium (Se), total aerosol","Se (Selenium), TSP","IUPAC: selenium, PubChem CID: 6326970, CAS Number: 7782-49-2, in particle phase, TSP"
+711,"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), PM2.5","Sr (Strontium), PM2.5","IUPAC: strontium, PubChem CID: 5359327, CAS Number: 7440-24-6, in particle phase, PM2.5"
+712,"\Atmosphere\Aerosol\Composition\Trace elements\Strontium (Sr), total aerosol","Sr (Strontium), TSP","IUPAC: strontium, PubChem CID: 5359327, CAS Number: 7440-24-6, in particle phase, TSP"
+713,"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), PM2.5","Tl (Thallium), PM2.5","IUPAC: thallium, PubChem CID: 5359464, CAS Number: 7440-28-0, in particle phase, PM2.5"
+714,"\Atmosphere\Aerosol\Composition\Trace elements\Thallium (Tl), total aerosol","Tl (Thallium), TSP","IUPAC: thallium, PubChem CID: 5359464, CAS Number: 7440-28-0, in particle phase, TSP"
+715,"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), PM2.5","Th (Thorium), PM2.5","IUPAC: thorium, PubChem CID: 23960, CAS Number: 7440-29-1, in particle phase, PM2.5"
+716,"\Atmosphere\Aerosol\Composition\Trace elements\Thorium (Th), total aerosol","Th (Thorium), TSP","IUPAC: thorium, PubChem CID: 23960, CAS Number: 7440-29-1, in particle phase, TSP"
+717,"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), PM2.5","Sn (Tin), PM2.5","IUPAC: tin, PubChem CID: 5352426, CAS Number: 7440-31-5, in particle phase, PM2.5"
+718,"\Atmosphere\Aerosol\Composition\Trace elements\Tin (Sn), total aerosol","Sn (Tin), TSP","IUPAC: tin, PubChem CID: 5352426, CAS Number: 7440-31-5, in particle phase, TSP"
+719,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), PM2.5","U (Uranium), PM2.5","IUPAC: uranium, PubChem CID: 23989, CAS Number: 7440-61-1, in particle phase, PM2.5"
+720,"\Atmosphere\Aerosol\Composition\Trace elements\Uranium (U), total aerosol","U (Uranium), TSP","IUPAC: uranium, PubChem CID: 23989, CAS Number: 7440-61-1, in particle phase, TSP"
+721,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), PM2.5","V (Vanadium), PM2.5","IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in particle phase, PM2.5"
+722,"\Atmosphere\Aerosol\Composition\Trace elements\Vanadium (V), total aerosol","V (Vanadium), TSP","IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in particle phase, TSP"
+723,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), PM2.5","Zn (Zinc), PM2.5","IUPAC: zinc, PubChem CID: 23994, CAS Number: 7440-66-6, in particle phase, PM2.5"
+724,"\Atmosphere\Aerosol\Composition\Trace elements\Zinc (Zn), total aerosol","Zn (Zinc), TSP","IUPAC: zinc, PubChem CID: 23994, CAS Number: 7440-66-6, in particle phase, TSP"
+727,"particle phase, physical properties",Dust mass concentration,Concentration of dust or sand in the atmosphere
+728,"particle phase, physical properties",Volcanic ash particle mass concentration,3D field of mass mixing ratio of volcanic ash
+729,"particle phase, physical properties",Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
+12001,\Atmosphere\Lightning\Total lightning density,Total lightning density,
+12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,Lightning density cloud-to-ground,
 12005,\Atmosphere\Wind\Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface
 12006,\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface
-310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
-309,"\Atmosphere\Wind\Wind (surface wind direction and speed, horizontal) - deprecated","Wind (surface wind direction and speed, horizontal) - deprecated",Horizontal component of wind as speed and direction.
-307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)",Z component of wind vector  (horizontal and vertical profile)
+12016,"Atmosphere\Gas\Greenhouse Gas\CFCs\Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase"
+12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)","CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6, in gas phase"
+12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2, in gas phase"
+12019,"Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, in gas phase"
+new id,gas phase,O2/N2 ratio,Atmospheric O2/N2 ratio
+new id,"bioaerosol, pollen",Total pollen,All pollen taxa
+new id,"bioaerosol, pollen, pinaceae",Total Pinaceae,Pine family pollen
+new id,"bioaerosol, pollen, pinaceae",Abies,Fir pollen
+new id,"bioaerosol, pollen, pinaceae",Picea,Spruce pollen
+new id,"bioaerosol, pollen, pinaceae",Larix,Larch pollen
+new id,"bioaerosol, pollen, pinaceae",Pinus,Pine pollen
+new id,"bioaerosol, pollen, cupressaceae",Total Cupressaceae,Cypress family pollen
+new id,"bioaerosol, pollen, arecaceae",Total Arecaceae,Palm family pollen
+new id,"bioaerosol, pollen, platanaceae",Platanus,Plane tree pollen
+new id,"bioaerosol, pollen, urticaceae",Parietaria,Pellitory pollen
+new id,"bioaerosol, pollen, urticaceae",Urtica,Nettle pollen
+new id,"bioaerosol, pollen, fagaceae",Castanea,Sweet chestnut pollen
+new id,"bioaerosol, pollen, fagaceae",Fagus,Beech pollen
+new id,"bioaerosol, pollen, fagaceae",Quercus,Oak pollen
+new id,"bioaerosol, pollen, betulaceae",Total Betulaceae,Birch family pollen
+new id,"bioaerosol, pollen, betulaceae",Alnus,Alder pollen
+new id,"bioaerosol, pollen, betulaceae",Betula,Birch pollen
+new id,"bioaerosol, pollen, betulaceae",Carpinus,Hornbeam pollen
+new id,"bioaerosol, pollen, betulaceae",Corylus,Hazel pollen
+new id,"bioaerosol, pollen, amaranthaceae",Total Amaranthaceae,Amaranth family pollen
+new id,"bioaerosol, pollen, amaranthaceae",Chenopodium,Chenopodium (goosefoot) pollen
+new id,"bioaerosol, pollen, salicaceae",Populus,Poplar pollen
+new id,"bioaerosol, pollen, salicaceae",Salix,Willow pollen
+new id,"bioaerosol, pollen, oleaceae",Total Oleaceae,Olive family pollen
+new id,"bioaerosol, pollen, oleaceae",Olea,Olive pollen
+new id,"bioaerosol, pollen, oleaceae",Fraxinus,Ash pollen
+new id,"bioaerosol, pollen, asteraceae",Total Asteraceae,Aster family pollen
+new id,"bioaerosol, pollen, asteraceae",Ambrosia,Ragweed pollen
+new id,"bioaerosol, pollen, asteraceae",Artemisia,Mugwort pollen
+new id,"bioaerosol, pollen, asteraceae",Solidago,Solidago (goldenrod) pollen
+new id,"bioaerosol, pollen, poaceae",Total Poaceae,Grasses pollen
+new id,"bioaerosol, pollen, poaceae",Secale,Secale pollen
+new id,"bioaerosol, pollen, poaceae",Zea mays,Maize pollen
+new id,"bioaerosol, pollen, juglandaceae",Juglans,Walnut tree pollen
+new id,"bioaerosol, pollen, ulmaceae",Ulmus,Elm pollen
+new id,"bioaerosol, pollen, sapindaceae",Acer,Maple pollen
+new id,"bioaerosol, pollen, sapindaceae",Aesculus,Aesculus pollen
+new id,"bioaerosol, pollen, brassicaceae",Brassica,Brassica pollen
+new id,"bioaerosol, pollen, plantaginaceae",Plantago,Plantain pollen
+new id,"bioaerosol, pollen, adoxaceae",Sambucus,Sambucus (elder) pollen
+new id,"bioaerosol, pollen, polygonaceae",Rumex,"Rumex (dock, sorrel) pollen"
+new id,"bioaerosol, pollen, malvaceae",Tilia,Linden pollen
+new id,"bioaerosol, pollen, cannabaceae",Humulus,Hop pollen
+new id,"bioaerosol, pollen, taxaceae",Taxus,Yew pollen
+new id,"bioaerosol, pollen, elaeagnaceae",Hippophae,Sea-buckthorn pollen
+new id,"bioaerosol, pollen, aquifoliaceae",Ilex,Holly pollen
+new id,"bioaerosol, pollen, oleaceae",Ligustrum,Privet pollen
+new id,"bioaerosol, pollen, juncaceae",Total Juncaceae,Rush family pollen
+new id,"bioaerosol, pollen, cyperaceae",Total Cyperaceae,Sedge family pollen
+new id,"bioaerosol, pollen, ericaceae",Total Ericaceae,Heather family pollen
+new id,"bioaerosol, pollen, rosaceae",Total Rosaceae,Rose family pollen
+new id,"bioaerosol, pollen, caryophyllaceae",Silene,Melandrium pollen
+new id,"bioaerosol, pollen, ranunculaceae",Total Ranunculaceae,Buttercup family pollen
+new id,"bioaerosol, pollen, umbelliferae",Total Umbelliferae,"Celery, carrot or parsley family pollen"
+new id,"bioaerosol, pollen, brassicaceae",Total Brassicaceae,"Cabbage family (mustards, crucifers) pollen"
+new id,"bioaerosol, pollen, betulaceae",Ostrya,Hophornbeam pollen
+new id,"bioaerosol, pollen, pinaceae",Cedrus,Cedar family pollen
+new id,"bioaerosol, pollen, buxaceae",Buxus,Box pollen
+new id,"bioaerosol, pollen, ginkgoaceae",Ginkgo,Ginkgo pollen
+new id,"bioaerosol, pollen, altingiaceae",Liquidambar,Sweetgum pollen
+new id,"bioaerosol, pollen, euphorbiaceae",Mercurialis,Mercuries pollen
+new id,"bioaerosol, pollen, moraceae",Total Moraceae,Mulberry family pollen
+new id,"bioaerosol, fungi, pleosporales",Alternaria,Alternaria spores
+new id,"bioaerosol, fungi, capnodiales",Cladosporium,Cladosporium spores
+new id,"gas phase, greenhouse gas, inorganic, N species",NF3 (nitrogen trifluoride),"IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2 , in gas phase"
+new id,"gas phase, greenhouse gas, organic, isotopologue","CH3D (monodeuterated methane, methane-d1)","IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3 , in gas phase"
+new id,"gas phase, greenhouse gas, CFCs, organic, halocarbon ","CClF3 (chlorotrifluoromethane, CFC-13)","IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9 , in gas phase"
+new id,"gas phase, greenhouse gas, HCFCs, organic, halocarbon ","C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)","IUPAC: 2-chloro-1,1,1,2-tetrafluoroethane, PubChem CID: 17822, CAS Number: 2837-89-0 , in gas phase"
+new id,"gas phase, Greenhouse Gas, HFCs, organic, halocarbon ","C5H2F10 (1,1,1,2,2,3,4,5,5,5-decafluoropentane, HFC-43-10-mee)","IUPAC: 1,1,1,2,2,3,4,5,5,5-decafluoropentane, PubChem CID: 86240, CAS Number: 138495-42-8, in gas phase"
+new id,"gas phase, greenhouse gas, PFCs, organic, halocarbon ","C4F8 (octafluorocyclobutane, PFC-318)","IUPAC: 1,1,2,2,3,3,4,4-octafluorocyclobutane, PubChem CID: 8263, CAS Number: 115-25-3, in gas phase"
+new id,"gas phase, organic, alcohol",C3H8O (1-propanol),"IUPAC: Propan-1-ol, PubChem CID: 1031, CAS Number: 71-23-8, in gas phase"
+new id,"gas phase, organic, alcohol",C3H8O (2-propanol),"IUPAC: Propan-2-ol, PubChem CID: 3776, CAS Number: 67-63-0, in gas phase"
+new id,"gas phase, organic, OVOC, aromatic",C4H4O (furan),"IUPAC: Furan, PubChem CID: 8029, CAS Number: 110-00-9, in gas phase"
+new id,"gas phase, organic, OVOC, aromatic",C5H6O (2-methylfuran),"IUPAC: 2-Methylfuran, PubChem CID: 10797, CAS Number: 534-22-5, in gas phase"
+new id,"gas phase, organic, OVOC, aromatic",C5H6O (3-methylfuran),"IUPAC: 3-Methylfuran, PubChem CID: 13587, CAS Number: 930-27-8, in gas phase"
+new id,"gas phase, organic, N species, nitrile","C3H3N (2-propenenitrile, acrylonitrile)","IUPAC: Prop-2-enenitrile, PubChem CID: 7855, CAS Number: 107-13-1, in gas phase"
+new id,"gas phase, organic, N species, nitrile",C3H5N (propanenitrile),"IUPAC: Propanenitrile, PubChem CID: 7854, CAS Number: 107-12-0, in gas phase"
+new id,"gas phase, organic, N species, nitrile","C4H5N (2-methyl-2-propenenitrile, methylacrylonitrile)","IUPAC: 2-Methylprop-2-enenitrile, PubChem CID: 31368, CAS Number: 126-98-7, in gas phase"
+new id,"gas phase, organic, N species, nitrate",CH3NO3 (methyl nitrate),"IUPAC: Methyl nitrate, PubChem CID: 11724, CAS Number: 598-58-3, in gas phase"
+new id,"gas phase, organic, N species, nitrate",C2H5NO3 (ethyl nitrate),"IUPAC: Ethyl nitrate, PubChem CID: 12259, CAS Number: 625-58-1, in gas phase"
+new id,"gas phase, organic, N species, nitrate",C3H7NO3 (isopropyl nitrate),"IUPAC: Propan-2-yl nitrate, PubChem CID: 15575, CAS Number: 1712-64-7, in gas phase"
+new id,"gas phase, organic, N species, nitrate",C4H9NO3 (n-butyl nitrate),"IUPAC: Butyl nitrate, PubChem CID: 13567, CAS Number: 928-45-0, in gas phase"
+new id,"gas phase, organic, N species, nitrate",C4H9NO3 (isobutyl nitrate),"IUPAC: 2-Methylpropyl nitrate, PubChem CID: 10974, CAS Number: 928-45-0, in gas phase"
+new id,"gas phase, organic, N species, nitrate",C4H9NO3 (t-butyl nitrate),"IUPAC: tert-Butyl nitrite, PubChem CID: 10906, CAS Number: 540-80-7, in gas phase"
+new id,"gas phase, organic, N species, nitrate","C4H9NO3 (2-butyl nitrate, sec-butyl nitrate)","IUPAC: Butan-2-yl nitrite, PubChem CID: 13544, CAS Number: 924-43-6, in gas phase"
+new id,"gas phase, organic, OVOC, BVOC, alcohol",C5H10O (2-methyl-3-buten-2-ol),"IUPAC: 2-Methylbut-3-en-2-ol, PubChem CID: 8257, CAS Number: 115-18-4, in gas phase"
+new id,"gas phase, organic, alkane",C8H18 (n-octane),"IUPAC: Octane, PubChem CID: 356, CAS Number: 111-65-9, in gas phase"
+new id,"gas phase, organic, alkane","C8H18 (2,2,4-trimethylpentane)","IUPAC: 2,2,4-Trimethylpentane, PubChem CID: 10907, CAS Number: 540-84-1, in gas phase"
+new id,"gas phase, organic, aldehyde, alkene, OVOC, specified stereoisomer","C4H6O ((E)-crotonaldehyde, trans-2-butenal)","IUPAC: (2E)-but-2-enal, PubChem CID: 447466, CAS Number: 123-73-9, in gas phase"
+new id,"gas phase, organic, aldehyde, alkene, OVOC, specified stereoisomer","C4H6O ((Z)-crotonaldehyde, cis-2-butenal)","IUPAC: (Z)-but-2-enal, PubChem CID: 673950, CAS Number: 15798-64-8, in gas phase"
+new id,"gas phase, organic, aldehyde, alkene, OVOC, mixed stereoisomers","C4H6O (crotonaldehyde, 2-butenal)","IUPAC: But-2-enal, PubChem CID: 20138, CAS Number: 4170-30-3, in gas phase"
+new id,"gas phase, organic, halocarbon, Cl species","C2H2Cl2 (1,1-dichloroethene)","IUPAC: 1,1-Dichloroethene, PubChem CID: 6366, CAS Number: 75-35-4, in gas phase"
+new id,"gas phase, organic, halocarbon, Cl species, specified stereoisomer","C2H2Cl2 ((Z)-1,2-dichloroethene, cis-1,2-dichloroethene)","IUPAC: (Z)-1,2-dichloroethene, PubChem CID: 643833, CAS Number: 156-59-2, in gas phase"
+new id,"gas phase, organic, halocarbon, Cl species, specified stereoisomer","C2H2Cl2 ((E)-1,2-dichloroethene, trans-1,2-dichloroethene)","IUPAC: (E)-1,2-dichloroethene, PubChem CID: 638186, CAS Number: 156-60-5, in gas phase"
+new id,"gas phase, organic, halocarbon, Cl species, mixed stereoisomers","C2H2Cl2 (1,2-dichloroethene)","IUPAC: 1,2-dichloroethene, PubChem CID: 10900, CAS Number: 540-9-0, in gas phase"
+new id,"gas phase, organic, halocarbon, Cl species","C2H4Cl2 (1,1-dichloroethane)","IUPAC: 1,1-Dichloroethane, PubChem CID: 6365, CAS Number: 75-34-3, in gas phase"
+new id,"gas phase, organic, halocarbon, Cl species","C2H4Cl2 (1,2-dichloroethane)","IUPAC: 1,2-Dichloroethane, PubChem CID: 11, CAS Number: 107-06-2, in gas phase"
+new id,"gas phase, organic, halocarbon",CHBr2Cl (dibromochloromethane),"IUPAC: dibromo(chloro)methane, PubChem CID: 31296, CAS Number: 124-48-1, in gas phase"
+new id,"gas phase, organic, halocarbon",CHBrCl2 (bromodichloromethane),"IUPAC: bromo(dichloro)methane, PubChem CID: 6359, CAS Number: 75-27-4, in gas phase"
+new id,"gas phase, organic, halocarbon",CH2ClI (chloroiodomethane),"IUPAC: chloro(iodo)methane, PubChem CID: 11644, CAS Number: 593-71-5, in gas phase"
+new id,"gas phase, organic, halocarbon",CH2I2 (diiodomethane),"IUPAC: diiodomethane, PubChem CID: 6346, CAS Number: 75-11-6, in gas phase"
+new id,"gas phase, organic, OVOC, aromatic",C5H4O2 (furfural),"IUPAC: furan-2-carbaldehyde, PubChem CID: 7362, CAS Number: 98-01-1, in gas phase"
+new id,"gas phase, organic, OVOC, aromatic",C5H4O2 (3-furaldehyde),"IUPAC: furan-3-carbaldehyde, PubChem CID: 10351, CAS Number: 498-60-2, in gas phase"
+new id,"gas phase, organic, aromatic",C8H8 (styrene),"IUPAC: styrene, PubChem CID: 7501, CAS Number: 100-42-5, in gas phase"
+new id,"gas phase, organic, aromatic",C8H6 (ethynylbenzene),"IUPAC: ethynylbenzene, PubChem CID: 10821, CAS Number: 536-74-3, in gas phase"
+new id,"gas phase, organic, aromatic, halocarbon",C6H5Cl (chlorobenzene),"IUPAC: chlorobenzene, PubChem CID: 7964, CAS Number: 108-90-7, in gas phase"
+new id,"gas phase, organic, terpene",C10H16 (tricyclene),"IUPAC: 1,7,7-trimethyltricyclo[2.2.1.02,6]heptane, PubChem CID: 79035, CAS Number: 508-32-7, in gas phase"
+new id,"gas phase, organic, terpene",C10H16 (alpha-pinene),"IUPAC: 2,6,6-trimethylbicyclo[3.1.1]hept-2-ene, PubChem CID: 6654, CAS Number: 80-56-8, in gas phase"
+new id,"gas phase, organic, terpene",C10H16 (beta-pinene),"IUPAC: 6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane, PubChem CID: 14896, CAS Number: 127-91-3, in gas phase"
+new id,"gas phase, organic, terpene",C10H16 (myrcene),"IUPAC: 7-methyl-3-methylideneocta-1, PubChem CID: 31253, CAS Number: 123-35-3, in gas phase"
+new id,"gas phase, organic, terpene",C10H16 (camphene),"IUPAC: 2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane, PubChem CID: 6616, CAS Number: 79-92-5, in gas phase"
+new id,"gas phase, organic, terpene",C10H16 (D-limonene),"IUPAC: (4R)-1-methyl-4-prop-1-en-2-ylcyclohexene, PubChem CID: 440917, CAS Number: 5989-27-5, in gas phase"
+new id,"gas phase, organic, terpene",C10H16 (3-carene),"IUPAC: 3,7,7-trimethylbicyclo[4.1.0]hept-3-ene, PubChem CID: 26049, CAS Number: 13466-78-9, in gas phase"
+new id,"gas phase, organic, OVOC, aldehyde",C2H2O2 (glyoxal),"IUPAC: oxaldehyde, PubChem CID: 7860, CAS Number: 107-22-2, in gas phase"
+new id,"gas phase, organic, OVOC, ester",C2H4O2 (methyl formate),"IUPAC: methyl formate, PubChem CID: 7865, CAS Number: 107-31-3, in gas phase"
+new id,"gas phase, organic, OVOC, aldehyde",C2H4O2 (glycolaldehyde),"IUPAC: 2-hydroxyacetaldehyde, PubChem CID: 756, CAS Number: 141-46-8, in gas phase"
+new id,"gas phase, organic, OVOC, ester",C3H6O2 (methyl acetate),"IUPAC: methyl acetate, PubChem CID: 6584, CAS Number: 79-20-9, in gas phase"
+new id,"gas phase, organic, OVOC, ester",C3H6O2 (ethyl formate),"IUPAC: ethyl formate, PubChem CID: 8025, CAS Number: 109-94-4, in gas phase"
+new id,"gas phase, organic, OVOC, ketone",C3H6O2 (hydroxyacetone),"IUPAC: 1-hydroxypropan-2-one, PubChem CID: 8299, CAS Number: 116-09-6, in gas phase"
+new id,"gas phase, organic, OVOC","C3H6O2 (1,3-dioxolane)","IUPAC: 1,3-dioxolane, PubChem CID: 12586, CAS Number: 646-06-0, in gas phase"
+new id,"gas phase, organic, OVOC, ester",C4H8O2 (ethyl acetate),"IUPAC: ethyl acetate, PubChem CID: 8857, CAS Number: 141-78-6, in gas phase"
+new id,"gas phase, organic, OVOC, ester",C4H8O2 (methyl propionate),"IUPAC: methyl propanoate, PubChem CID: 11124, CAS Number: 554-12-1, in gas phase"
+new id,"gas phase, organic, aromatic",C8H10 (p-xylene),"IUPAC: 1,4-xylene, PubChem CID: 7809, CAS Number: 106-42-3, in gas phase"
+new id,"particle phase, optical properties",Particle light extinction coefficient,A measure of light attenuation due to scattering and absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance.
+new id,"particle phase, optical properties",Particle single scattering albedo,Ratio of particle scattering coefficient to particle extinction coefficient or sum of particle absorption and scattering coefficients.
+new id,"particle phase, optical properties",Ångström exponent for particle light extinction,A measure of dependence of the particle light extinction coefficient on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent for particle light scattering,A measure of dependence of the particle light scattering coefficient on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent for particle light absorption,A measure of dependence of the particle light absorption coefficient on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent for aerosol optical depth,A measure of dependence of the aerosol optical depth on wavelength expressed in power law relationship.
+new id,"particle phase, optical properties",Ångström exponent  for aerosol absorption optical depth,A measure of dependence of the aerosol absorption optical depth on wavelength expressed in power law relationship.
+new id,"particle phase, physical properties",Particle Surface Area Size Distribution,"Particle surface area concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle Volume Size Distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle Mass Size Distribution,"Particle mass concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Hygroscopic particle size growth factor,A scaling factor describing the particle equivalent spherical size change as a function of relative humidity due to absorbing or evaporating water.
+new id,"particle phase, physical properties",Hygroscopic particle light scattering growth factor,A scaling factor describing the particle scattering coefficient change as a function of relative humidity due to absorbing or evaporating water.
+new id,"particle phase, physical properties",Hygroscopic particle light extinction growth factor,A scaling factor describing the particle extinction coefficient change as a function of relative humidity due to absorbing or evaporating water.
+new id,"particle phase, optical properties",Particle light hemispheric backscatter coefficient,"The fraction of incident radiative flux scattered into all backward angles, ie scattering_angle exceeding pi/2 radians."
+new id,"particle phase, optical properties",Particle light backscatter coefficient,The fraction of incident radiative flux scattered backward at 180 degrees.
+new id,"particle phase, optical properties",Particle light hemispheric forward scattering coefficient,"Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians."
+new id,"particle phase, physical properties",Particle effective diameter,The area weighted mean diameter of the aerosol particles.
+new id,aerosol,Aerosol Layer Height,Height of vertically localized aerosol layer above sea level
+new id,dynamics,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
+newID,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
+newID,\Atmosphere\Humidity\Water vapour,Water vapour,
+newID,\Atmosphere\Temperature\Temperature,Temperature,
+newID,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
+new id,\Atmosphere\Height of the top of the PBL,Height of the top of the PBL,Height of the surface above ground separating the planetary boudary layer (PBL) from the free atmosphere.
+newID,\Atmosphere\Particle Phase\Aerosol type, Aerosol type,"Selection, out of a pre-defined set of aerosol classes, that best fits an input data set (observed or modeled). The pre-defined set of aerosol classes includes specification of the particle composition, mixing state, complex refractive index, and shape as a function of particle size. The definition of aerosol type includes specification of all the classes as well as the algorithm used to choose the best fit to the input data."
+new id,radionuclide,Tritium [H-3],"IUPAC: n/a, PubChem CID: 24824, CAS Number: 10028-17-8"
+new id,radionuclide,Carbon [C-14],"IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5"
+new id,radionuclide,Sodium [Na-22],"IUPAC: sodium-22, PubChem CID: 6328543, CAS Number: 13966-32-0"
+new id,radionuclide,Sodium [Na-24],"IUPAC: sodium-24, PubChem CID: 6335498, CAS Number: 13982-04-2"
+new id,radionuclide,Chlorine [Cl-38],"IUPAC: n/a, PubChem CID: 167013, CAS Number: 14158-34-0"
+new id,radionuclide,Potassium [K-40],"IUPAC: potassium-40, PubChem CID: 6328542, CAS Number: 13966-00-2"
+new id,radionuclide,Potassium [K-42],"IUPAC: potassium-42, PubChem CID: 11607897, CAS Number: 14378-21-3"
+new id,radionuclide,Scandium [Sc-46],"IUPAC: scandium-46, PubChem CID: 107673, CAS Number: 13967-63-0"
+new id,radionuclide,Chromium [Cr-51],"IUPAC: chromium-51, PubChem CID: 104786, CAS Number: 14392-02-0"
+new id,radionuclide,Manganese [Mn-53],"IUPAC: manganese-53, PubChem CID: 167227, CAS Number: 14999-33-8"
+new id,radionuclide,Manganese [Mn-56],"IUPAC: manganese-56, PubChem CID: 114694, CAS Number: 14681-52-8"
+new id,radionuclide,Iron [Fe-59],"IUPAC: iron-59, PubChem CID: 104784, CAS Number: 14596-12-4"
+new id,radionuclide,Cobalt [Co-56],"IUPAC: cobalt-56, PubChem CID: 166998, CAS Number: 14093-03-9"
+new id,radionuclide,Cobalt [Co-57],"IUPAC: cobalt-57, PubChem CID: 104851, CAS Number: 13981-50-5"
+new id,radionuclide,Cobalt [Co-58],"IUPAC: cobalt-58, PubChem CID: 104844, CAS Number: 13981-38-9"
+new id,radionuclide,Cobalt [Co-60],"IUPAC: cobalt-60, PubChem CID: 61492, CAS Number: 10198-40-0"
+new id,radionuclide,Zinc [Zn-65],"IUPAC: zinc-65, PubChem CID: 91574, CAS Number: 13982-39-3"
+new id,radionuclide,Gallium [Ga-67],"IUPAC: gallium-67, PubChem CID: 5464084, CAS Number: 14119-09-6"
+new id,radionuclide,Selenium [Se-75],"IUPAC: selenium-75, PubChem CID: 6328176, CAS Number: 14265-71-5"
+new id,radionuclide,Strontium [Sr-85],"IUPAC: strontium-85, PubChem CID: 5464271, CAS Number: 13967-73-2"
+new id,radionuclide,Strontium [Sr-89],"IUPAC: strontium-89, PubChem CID: 5388880, CAS Number: 14158-27-1"
+new id,radionuclide,Strontium [Sr-90],"IUPAC: strontium-90, PubChem CID: 5486204, CAS Number: 10098-97-2"
+new id,radionuclide,Strontium [Sr-91],"IUPAC: strontium-91, PubChem CID: 6337043, CAS Number: 14331-91-0"
+new id,radionuclide,Yttrium [Y-88],"IUPAC: yttrium-88, PubChem CID: 105173, CAS Number: 13982-36-0"
+new id,radionuclide,Yttrium [Y-90m],"Metastable (excited) state of yttrium-90 isotope, IUPAC: yttrium-90, PubChem CID: 104760, CAS Number: 10098-91-6"
+new id,radionuclide,Zirconium [Zr-95],"IUPAC: zirconium-95, PubChem CID: 91573, CAS Number: 13967-71-0"
+new id,radionuclide,Niobium [Nb-95],"IUPAC: niobium-95, PubChem CID: 104776, CAS Number: 13967-76-5"
+new id,radionuclide,Molybdenum [Mo-99],"IUPAC: molybdenum-99, PubChem CID: 104976, CAS Number: 14119-15-4"
+new id,radionuclide,Technetium  [Tc-99m],"Metastable (excited) state of technetium-99 isotope, IUPAC: technetium-99, PubChem CID: 26476, CAS Number: 14133-76-7"
+new id,radionuclide,Ruthenium [Ru-103],"IUPAC: ruthenium-103, PubChem CID: 104749, CAS Number: 13968-53-1"
+new id,radionuclide,Ruthenium [Ru-106],"IUPAC: ruthenium-106, PubChem CID: 26359, CAS Number: 13967-48-1"
+new id,radionuclide,Silver [Ag-108m],"Metastable (excited) state of silver-108 isotope, IUPAC: silver-108, PubChem CID: 167088, CAS Number: 14391-65-2"
+new id,radionuclide,Silver [Ag-110m],"Metastable (excited) state of silver-110 isotope, IUPAC: silver-110, PubChem CID: 104828, CAS Number: 14391-76-5"
+new id,radionuclide,Indium [In-111],"IUPAC: indium-111, PubChem CID: 5462099, CAS Number: 15750-15-9"
+new id,radionuclide,Tin [Sn-113],"IUPAC: tin-113, PubChem CID: 6335514, CAS Number: 13966-06-8"
+new id,radionuclide,Antimony [Sb-122],"IUPAC: antimony-122, PubChem CID: 6335836, CAS Number: 14374-79-9"
+new id,radionuclide,Antimony [Sb-124],"IUPAC: antimony-124, PubChem CID: 6335510, CAS Number: 14683-10-4"
+new id,radionuclide,Antimony [Sb-125],"IUPAC: antimony-125, PubChem CID: 6335317, CAS Number: 14234-35-6"
+new id,radionuclide,Tellurium [Te-132],"IUPAC: tellurium-132, PubChem CID: 6336614, CAS Number: 14234-28-7"
+new id,radionuclide,"Iodine [I-126], elementary","IUPAC: n/a, PubChem CID: 161029, CAS Number: 14158-32-8"
+new id,radionuclide,"Iodine [I-131], elementary","IUPAC: n/a, PubChem CID: 24855, CAS Number: 10043-66-0"
+new id,radionuclide,"Iodine [I-132], elementary","IUPAC: n/a, PubChem CID: 104966, CAS Number: 14683-16-0"
+new id,radionuclide,"Iodine [I-133], elementary","IUPAC: n/a, PubChem CID: 167176, CAS Number: 14834-67-4"
+new id,radionuclide,Xenon [Xe-133],"IUPAC: xenon-133, PubChem CID: 66376, CAS Number: 14932-42-4"
+new id,radionuclide,Caesium [Cs-134],"IUPAC: cesium-134, PubChem CID: 6335485, CAS Number: 13967-70-9"
+new id,radionuclide,Caesium [Cs-136],"IUPAC: cesium-136, PubChem CID: 6335316, CAS Number: 14234-29-8"
+new id,radionuclide,Caesium [Cs-137],"IUPAC: cesium-137, PubChem CID: 5486527, CAS Number: 10045-97-3"
+new id,radionuclide,Barium [Ba-133],"IUPAC: barium-133, PubChem CID: 5491664, CAS Number: 13981-41-4"
+new id,radionuclide,Barium [Ba-140],"IUPAC: barium-140, PubChem CID: 6335490, CAS Number: 14798-08-4"
+new id,radionuclide,Cerium [Ce-139],"IUPAC: cerium-139, PubChem CID: 166969, CAS Number: 13982-30-4"
+new id,radionuclide,Cerium [Ce-141],"IUPAC: cerium-141, PubChem CID: 104814, CAS Number: 13967-74-3"
+new id,radionuclide,Cerium [Ce-144],"IUPAC: cerium-144, PubChem CID: 26874, CAS Number: 14762-78-8"
+new id,radionuclide,Lanthanum [La-140],"IUPAC: lanthanum-140, PubChem CID: 104882, CAS Number: 13981-28-7"
+new id,radionuclide,Neodymium [Nd-147],"IUPAC: neodymium-147, PubChem CID: 114848, CAS Number: 14269-74-0"
+new id,radionuclide,Europium [Eu-152],"IUPAC: europium-152, PubChem CID: 104907, CAS Number: 14683-23-9"
+new id,radionuclide,Tantalum [Ta-182],"IUPAC: tantalum-182, PubChem CID: 161013, CAS Number: 13982-00-8"
+new id,radionuclide,Iridium [Ir-192],"IUPAC: iridium-192, PubChem CID: 66373, CAS Number: 14694-69-0"
+new id,radionuclide,Mercury [Hg-203],"IUPAC: mercury-203, PubChem CID: 104771, CAS Number: 13982-78-0"
+new id,radionuclide,Bismuth [Bi-212],"IUPAC: bismuth-212, PubChem CID: 6335500, CAS Number: 14913-49-6"
+new id,radionuclide,Bismuth [Bi-213],"IUPAC: bismuth-213, PubChem CID: 6337093, CAS Number: 15776-20-2"
+new id,radionuclide,Lead [Pb-212],"IUPAC: lead-212, PubChem CID: 6335491, CAS Number: 15092-94-1"
+new id,radionuclide,Lead [Pb-214],"IUPAC: lead-214, PubChem CID: 6328551, CAS Number: 15067-28-4"
+new id,radionuclide,Radium [Ra-226],"IUPAC: radium-226, PubChem CID: 9877911, CAS Number: 13982-63-3"
+new id,radionuclide,Actinium [Ac-228],"IUPAC: actinium-228, PubChem CID: 105063, CAS Number: 14331-83-0"
+new id,radionuclide,Thorium [Th-232],"IUPAC: thorium-232, PubChem CID: 11817119, CAS Number: n/a"
+new id,radionuclide,Uranium [U-234],"IUPAC: uranium-234, PubChem CID: 61704, CAS Number: 13966-29-5"
+new id,radionuclide,Uranium [U-235],"IUPAC: uranium-235, PubChem CID: 61784, CAS Number: 15117-96-1"
+new id,radionuclide,Uranium [U-238],"IUPAC: uranium-238, PubChem CID: n/a, CAS Number: n/a"
+new id,radionuclide,Plutonium [Pu-238],"IUPAC: plutonium-238, PubChem CID: 61709, CAS Number: 13981-16-3"
+new id,radionuclide,Neptunium [Np-239],"IUPAC: neptunium-239, PubChem CID: 104958, CAS Number: 13968-59-7"
+new id,radionuclide,Americium [Am-241],"IUPAC: americium-241, PubChem CID: 104726, CAS Number: 14596-10-2"
+new id,radionuclide,Sum of Plutonium [Pu-239] and [Pu-240],"Sum of Plutonium isotopes: Pu-239 and Pu-240, IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3 and IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3"
+new id,radionuclide,Gold [Au-198],"IUPAC: gold-198, PubChem CID: 66274, CAS Number: 10043-49-9"
