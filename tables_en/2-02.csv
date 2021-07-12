@@ -293,6 +293,19 @@ eAIMS,\Co-sponsored\GOOS\Argo\E-AIMS,E-AIMS,Euro-Argo Improvements for the GMES 
 EANET,\WIGOS\GAW\GAW Contributing networks\EANET,EANET,EANET
 EARLINET,\WIGOS\GAW\GAW Contributing networks\EARLINET,EARLINET,European Aerosol Research Lidar Network
 eASAP,\Co-sponsored\GOOS\SOT\ASAP\E-ASAP,E-ASAP,European - Automated Shipboard Aerological Program
+ASAPMPI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-MPI,ASAP-MPI,ASAP on MPI operated RVs like German RV Sonne
+ASAPUS,\Co-sponsored\GOOS\SOT\ASAP\ASAP-US,ASAP-US,US ASAP program led by NOAA
+SOOPFVPBDC,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-BDC,SOOP-FVP-BDC,"SOOP-FVP-Beering Data Collective. Collaborative data collection as a service, using S/T probes on fishing equipment"
+SOOPFVPCatchingData,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-Catching Data,"SOOP-FVP-Catching Data,Collection of T/S data from fishing equipment, developed by the Fishing Vessel Industry in Netherland"
+SOOPFPVRECOPESCA,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-RECOPESCA,SOOP-FVP-RECOPESCA,"Réseau de mesure de l’activité de pêche spatialisé (effort et captures) et de données environnementales à usage scientifique."
+SOOPFVPVistools,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-Vistools,SOOP-FVP-Vistools,ILVO fishing Vessel Observation Activities
+SOOPIFREMERTSG,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IFREMER-TSG,SOOP-IFREMER-TSG,T/S underway data collection program from Ifremer operated TSG and similar instruments
+SOOPIRDTSG,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IRD-TSG,SOOP-IRD-TSG,T/S underway data collection program from IRD operated TSG and similar instruments
+SOOPIRDXBT,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IRD-XBT,SOOP-IRD-XBT,XBT program from IRD institute
+VOSDK,\Co-sponsored\GOOS\SOT\ASAP\VOS-DK,VOS-DK,Danish VOS program
+VOSTH,\Co-sponsored\GOOS\SOT\ASAP\VOS-TH,VOS-TH,Thai VOS program
+ASAPJP,\Co-sponsored\GOOS\SOT\ASAP\ASAP-JP,ASAP-JP,Japanese ASAP program
+ASAPKR,\Co-sponsored\GOOS\SOT\ASAP\ASAP-KR,ASAP-KR,Korean ASAP program
 ECDB,\Co-sponsored\GOOS\DBCP\EC DB,EC DB,Canada Drifting Buoys
 ECIABP,\Co-sponsored\GOOS\DBCP\EC-IABP,EC-IABP,International Arctic Buoy Program
 ECMB,\Co-sponsored\GOOS\DBCP\EC MB,EC MB,Canadian Moored Buoy Programme (MSC)
