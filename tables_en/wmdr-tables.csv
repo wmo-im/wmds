@@ -44,6 +44,8 @@
 5-08-03,Instrument control result,http://codes.wmo.int/wmdr/InstrumentControlResult
 5-14,Status of observation,http://codes.wmo.int/wmdr/ObservationStatus
 5-15,Exposure of instrument,http://codes.wmo.int/wmdr/Exposure
+6-01-01,Particle size range,http://codes.wmo.int/wmdr/ParticleSizeRange
+6-02,Sample treatment,http://codes.wmo.int/wmdr/SampleTreatment
 6-03,Sampling strategy,http://codes.wmo.int/wmdr/SamplingStrategy
 7-06,Level of data,http://codes.wmo.int/wmdr/LevelOfData
 7-07,Data format,http://codes.wmo.int/wmdr/DataFormat
