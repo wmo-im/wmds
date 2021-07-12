@@ -565,9 +565,9 @@ new id,"particle phase, optical properties",Ångström exponent for particle lig
 new id,"particle phase, optical properties",Ångström exponent for particle light absorption,A measure of dependence of the particle light absorption coefficient on wavelength expressed in power law relationship.
 new id,"particle phase, optical properties",Ångström exponent for aerosol optical depth,A measure of dependence of the aerosol optical depth on wavelength expressed in power law relationship.
 new id,"particle phase, optical properties",Ångström exponent  for aerosol absorption optical depth,A measure of dependence of the aerosol absorption optical depth on wavelength expressed in power law relationship.
-new id,"particle phase, physical properties",Particle Surface Area Size Distribution,"Particle surface area concentration as a function of size, typically equivalent spherical radius or diameter."
-new id,"particle phase, physical properties",Particle Volume Size Distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
-new id,"particle phase, physical properties",Particle Mass Size Distribution,"Particle mass concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle surface area size distribution,"Particle surface area concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle volume size distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
+new id,"particle phase, physical properties",Particle mass size distribution,"Particle mass concentration as a function of size, typically equivalent spherical radius or diameter."
 new id,"particle phase, physical properties",Hygroscopic particle size growth factor,A scaling factor describing the particle equivalent spherical size change as a function of relative humidity due to absorbing or evaporating water.
 new id,"particle phase, physical properties",Hygroscopic particle light scattering growth factor,A scaling factor describing the particle scattering coefficient change as a function of relative humidity due to absorbing or evaporating water.
 new id,"particle phase, physical properties",Hygroscopic particle light extinction growth factor,A scaling factor describing the particle extinction coefficient change as a function of relative humidity due to absorbing or evaporating water.
@@ -575,7 +575,7 @@ new id,"particle phase, optical properties",Particle light hemispheric backscatt
 new id,"particle phase, optical properties",Particle light backscatter coefficient,The fraction of incident radiative flux scattered backward at 180 degrees.
 new id,"particle phase, optical properties",Particle light hemispheric forward scattering coefficient,"Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians."
 new id,"particle phase, physical properties",Particle effective diameter,The area weighted mean diameter of the aerosol particles.
-new id,aerosol,Aerosol Layer Height,Height of vertically localized aerosol layer above sea level
+new id,aerosol,Aerosol layer height,Height of vertically localized aerosol layer above sea level
 new id,dynamics,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
 newID,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
 newID,\Atmosphere\Humidity\Water vapour,Water vapour,
