@@ -143,8 +143,8 @@ argoCanadaEq,\Co-sponsored\GOOS\Argo\Argo CANADA eq.,Argo CANADA eq.,Canadian Ar
 NAOSCanada,\Co-sponsored\GOOS\Argo\NAOS-Canada,NAOS-Canada,Canadian contribution to NAOS program
 argoIndonesia,\Co-sponsored\GOOS\Argo\Argo INDONESIA,Argo INDONESIA,Indonesian Argo program
 soclim,\Co-sponsored\GOOS\Argo\SOCLIM,SOCLIM,"The SOCLIM (Southern Ocean Climate: Field studies with innovative Tools) aims at (1) Quantify air-sea fluxes of heat, freshwater and carbon (2) Describe processes that drive the carbon sequestration (3) Address the bio-optical anomaly of surface waters and (4) Understand the role of small-scale ocean dynamics."
-ASAPAWI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-AWI,ASAP-AWI,NA
-ASAPZA,\Co-sponsored\GOOS\SOT\ASAP-ZA,ASAP-ZA,NA
+ASAPAWI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-AWI,ASAP-AWI,AWI ASAP program
+ASAPZA,\Co-sponsored\GOOS\SOT\ASAP\ASAP-ZA,ASAP-ZA,South African ASAP program
 AtlantOSH2020,\Co-sponsored\GOOS\Argo\AtlantOS_H2020,AtlantOS_H2020,Atlantic Ocean Observing System Horizon 2020 Argo project
 AWIDB,\Co-sponsored\GOOS\DBCP\AWI-DB,AWI-DB,Alfred Wagner Institute Drifter Buoy program
 BOMDB,\Co-sponsored\GOOS\DBCP\BOM DB,BOM DB,Bureau of Meteorology (BOM) Drifting Buoy program
@@ -292,7 +292,7 @@ DFODB,\Co-sponsored\GOOS\DBCP\DFO DB,DFO DB,Department of Fisheries and Oceans D
 eAIMS,\Co-sponsored\GOOS\Argo\E-AIMS,E-AIMS,Euro-Argo Improvements for the GMES Marine Service
 EANET,\WIGOS\GAW\GAW Contributing networks\EANET,EANET,EANET
 EARLINET,\WIGOS\GAW\GAW Contributing networks\EARLINET,EARLINET,European Aerosol Research Lidar Network
-eASAP,\Co-sponsored\GOOS\SOT\ASAP\E-ASAP,E-ASAP,European - Automated Shipboard Aerological Program
+eASAP,\Co-sponsored\GOOS\SOT\ASAP\E-ASAP,E-ASAP,Eumetnet - Automated Shipboard Aerological Program
 ASAPMPI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-MPI,ASAP-MPI,ASAP on MPI operated RVs like German RV Sonne
 ASAPUS,\Co-sponsored\GOOS\SOT\ASAP\ASAP-US,ASAP-US,US ASAP program led by NOAA
 SOOPFVPBDC,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-BDC,SOOP-FVP-BDC,"SOOP-FVP-Beering Data Collective. Collaborative data collection as a service, using S/T probes on fishing equipment"
@@ -510,7 +510,7 @@ VOSMY,\Co-sponsored\GOOS\SOT\VOS\VOS-MY,VOS-MY,NA
 VOSNL,\Co-sponsored\GOOS\SOT\VOS\VOS-NL,VOS-NL,NA
 VOSNO,\Co-sponsored\GOOS\SOT\VOS\VOS-NO,VOS-NO,NA
 VOSNZ,\Co-sponsored\GOOS\SOT\VOS\VOS-NZ,VOS-NZ,NA
-VOSPL,\Co-sponsored\GOOS\SOT\VOS-PL,VOS-PL,NA
+VOSPL,\Co-sponsored\GOOS\SOT\VOS\VOS-PL,VOS-PL,Polish VOS program
 VOSRU,\Co-sponsored\GOOS\SOT\VOS\VOS-RU,VOS-RU,NA
 VOSSE,\Co-sponsored\GOOS\SOT\VOS\VOS-SE,VOS-SE,NA
 VOSSHIPMASK,\Co-sponsored\GOOS\SOT\VOS\VOS-SHIP-MASK,VOS-SHIP-MASK,"Program created for platforms transmitting under ""SHIP"" GTS identifier"
