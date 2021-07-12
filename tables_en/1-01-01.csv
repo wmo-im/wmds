@@ -10,8 +10,8 @@ notation,path/tags,name,description
 182,\Atmosphere\Clouds\Cloud hydrometeor concentration,Cloud hydrometeor concentration,
 183,\Atmosphere\Clouds\Effective radius of cloud hydrometeors,Effective radius of cloud hydrometeors,
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
-188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [ HR ] and False Alarm Rate [ FAR ].Simplified: [ FAR/HR] 
-192,\Atmosphere\Gas\Greenhouse Gas\CH4,CH4,"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8, in gas phase"
+188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [HR] and False Alarm Rate [FAR]. Simplified: [FAR/HR] 
+192,\Atmosphere\Gas\Greenhouse Gas\CH4 (methane),CH4 (methane),"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8, in gas phase"
 193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],"IUPAC: carbane, PubChem CID: 105026, CAS Number: 14762-74-4, in gas phase"
 194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,"IUPAC: carbon dioxide, PubChem CID: 280, CAS Number: 124-38-9, in gas phase"
 195,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],"IUPAC: n/a, PubChem CID: 10129882, CAS Number: 1111-72-4, in gas phase"
@@ -85,7 +85,7 @@ notation,path/tags,name,description
 307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)",Z component of wind vector  (horizontal and vertical profile)
 310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)","Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
 314,"particle phase, optical properties",Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
-315,"particle phase, optical properties",Aerosol Extinction Coefficient,3D field of spectral volumetric extinction cross-section of aerosol particles.
+315,"particle phase, optical properties",Aerosol Extinction Coefficient,Spectral volumetric extinction cross-section of aerosol particles.
 316,"particle phase, optical properties","Particle light absorption coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
 317,"particle phase, optical properties","Particle light absorption coefficient, PM10",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM10
 318,"particle phase, optical properties","Particle light absorption coefficient, TSP",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: TSP
@@ -241,7 +241,7 @@ notation,path/tags,name,description
 503,\Atmosphere\Gas\Reactive Gas\VOC\n-C7H16 (n-heptane),n-C7H16 (n-heptane),"IUPAC: heptane, PubChem CID: 8900, CAS Number: 142-82-5, in gas phase"
 504,\Atmosphere\Gas\Reactive Gas\VOC\t-C4H8 (trans-2-butene),t-C4H8 (trans-2-butene),"IUPAC: (E)-but-2-ene, PubChem CID: 62695, CAS Number: 107-01-7, in gas phase"
 505,\Atmosphere\Gas\Reactive Gas\VOC\t-C5H10 (trans-2-pentene),t-C5H10 (trans-2-pentene),"IUPAC: (E)-pent-2-ene, PubChem CID: 5326161, CAS Number: 109-68-2, in gas phase"
-506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,Effective depth of a cloud from the viewpoint of radiation propagation. OD =  exp(-K.Δz) where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud
+506,\Atmosphere\Clouds\Optical properties\Cloud optical depth,Cloud optical depth,"Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD = exp(-K.Δz), where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree to which the cloud prevents light from passing through it.'"
 507,\Atmosphere\Clouds\Optical properties\Optical depth of fog,Optical depth of fog,
 508,\Atmosphere\Clouds\Optical properties\Optical depth within each cloud layer,Optical depth within each cloud layer,
 509,\Atmosphere\Clouds\Optical properties\Short-wave cloud reflectance,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
