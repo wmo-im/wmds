@@ -27,7 +27,7 @@ notation,tags,name,description
 91,physical properties,Subsurface salinity,Salinity of seawater with depth
 92,physical properties,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW)
 94,"physical properties, subsurface temperature",Subsurface temperature,Seawater temperature measured with depth (degrees celsius/kelvin)
-95,physical properties,sea surface temperature,"Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm"
+95,physical properties,Sea surface temperature,"Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm"
 96,"physical properties, sea surface height",Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)"
 98,"physical properties, sea state",Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
 99,"physical properties, sea state",Dominant wave period,The period of the most energetic wave in the ocean wave spectrum
