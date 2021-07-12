@@ -5,7 +5,7 @@ notation,tags,name,description
 63,currents,Ocean current speed,Velocity of ocean motion measured at various depth levels
 64,physical properties,Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects)
 65,physical properties,Surface currents,Ocean Vector motion measured at or near the surface (at stated depth)
-67,"biogeochemistry, inorganic carbon",Dissolved Inorganic Carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution"
+67,"biogeochemistry, inorganic carbon",Dissolved inorganic carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution"
 68,"biogeochemistry, dissolved organic carbon",Dissolved organic carbon,Concentration of dissolved organic carbon
 69,"biogeochemistry, nitrogen species",Dissolved organic nitrogen,Concentration of dissolved organic nitrogen
 70,physical properties,"Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation"
@@ -21,7 +21,7 @@ notation,tags,name,description
 82,biogeochemistry,SiO3= (metasilicate),Concentration of dissolved metasilicate
 85,biogeochemistry,O2-Ar ratio,Ratio of O2/Ar concentrations
 86,"biogeochemistry, oxygen",Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen
-87,"biogeochemistry, oxygen",Disolved Oxygen,Concentration of dissolved oxygen (O2) in the water column
+87,"biogeochemistry, oxygen",Dissolved oxygen,Concentration of dissolved oxygen (O2) in the water column
 89,"physical properties, radiation",Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area ,per wavelength and per solid angle"
 90,"biogeochemistry, volatile organic compound","C2H6S (dimethylsulfide, DMS)",Concentration of DMS
 91,physical properties,Subsurface salinity,Salinity of seawater with depth
@@ -34,7 +34,7 @@ notation,tags,name,description
 100,"physical properties, sea state",Significant wave height,Average amplitude of the highest 33 out of 100 waves
 101,"physical properties, sea state",Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
 102,"physical properties, sea state",Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."
-103,"physical properties, ocean surface stress",Wind Stress,The shear force per unit area exerted by wind blowing over the sea surface.
+103,"physical properties, ocean surface stress",Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
 311,"biogeochemistry, nutrients",NO2- (nitrite),Nitrite concentration in sea water.
 312,"biogeochemistry, nutrients",NO3- (nitrate),Nitrate concentration in sea water.
 399,"biogeochemistry, nutrients",PO4= (phosphate),Phosphate concentration in sea water.
