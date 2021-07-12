@@ -252,8 +252,8 @@ notation,path/tags,name,description
 525,\Atmosphere\Visibility\Obscurations\Meteorological Optical Range,Meteorological Optical Range,
 526,\Atmosphere\Visibility\Obscurations\Obscuration type,Obscuration type,
 529,\Atmosphere\Total Atmospheric Deposition\Inorganic acid\Strong acids,Strong acids,
-531,\Atmosphere\Clouds\Position\Cloud Base Height,Cloud Base Height,"For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."
-532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud Top Height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above mean sea level.
+531,\Atmosphere\Clouds\Position\Cloud base height,Cloud base height,"For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."
+532,\Atmosphere\Clouds\Position\Cloud Top Height,Cloud top height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above mean sea level.
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","IUPAC: 1,1-dichloro-1-fluoroethane, PubChem CID: 15586, CAS Number: 1717-00-6, in gas phase"
 535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","IUPAC: 1-chloro-1,1-difluoroethane, PubChem CID: 6388, CAS Number: 75-68-3, in gas phase"
