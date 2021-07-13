@@ -322,7 +322,7 @@ notation,path/tags,name,description
 616,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Cl- (chloride), PM2.5","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM2.5"
 617,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Cl- (chloride), TSP","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, TSP"
 618,"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","F- (fluoride), TSP","IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in particle phase, TSP"
-619,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), corrected","Sulphate (SO4=), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, "
+619,"\Atmosphere\Aerosol\Composition\Inorganic anions\SO4= (sulphate), corrected","SO4= (sulphate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, "
 620,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total","SO4= (sulphate), TSP","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, TSP"
 621,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM10","SO4= (sulphate), PM10","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM10"
 622,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM2.5","SO4= (sulphate), PM2.5","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM2.5"
