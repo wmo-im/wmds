@@ -18,7 +18,7 @@ notation,path/tags,name,description
 196,\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18],CO2 [O-18],CO2 with O-18 isotope
 201,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, in gas phase"
 203,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,"IUPAC: hexafluoro-λ6-sulfane, PubChem CID: 17358, CAS Number: 2551-62-4, in gas phase"
-204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulphuryl fluoride),SO2F2 (sulphuryl fluoride),"IUPAC: sulfuryl difluoride, PubChem CID: 17607, CAS Number: 2699-79-8, in gas phase"
+204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulfuryl fluoride),SO2F2 (sulfuryl fluoride),"IUPAC: sulfuryl difluoride, PubChem CID: 17607, CAS Number: 2699-79-8, in gas phase"
 205,\Atmosphere\Gas\Other Gas\H2,H2,"IUPAC: molecular hydrogen, PubChem CID: 783, CAS Number: 1333-74-0 , in gas phase"
 206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),"IUPAC: oxidane, PubChem CID: 962, CAS Number: 7732-18-5, in gas phase"
 207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),"IUPAC: n/a, PubChem CID: 139859, CAS Number: 14940-63-7, in gas phase"
@@ -79,7 +79,7 @@ notation,path/tags,name,description
 294,\Atmosphere\Total Atmospheric Deposition\Acidity-Alkalinity,Acidity-Alkalinity,
 295,\Atmosphere\Total Atmospheric Deposition\Electric conductivity,Electric conductivity,
 296,\Atmosphere\Total Atmospheric Deposition\Hydrogen ion (H+) or pH,Hydrogen ion (H+) or pH,
-302,\Atmosphere\Total Atmospheric Deposition\Sulphur (S),S (sulphur),"IUPAC: sulfur, PubChem CID: n/a, CAS Number: 7704-34-9, in total deposition"
+302,\Atmosphere\Total Atmospheric Deposition\Sulfur (S),S (sulfur),"IUPAC: sulfur, PubChem CID: n/a, CAS Number: 7704-34-9, in total deposition"
 304,\Atmosphere\Wind\Direction of cloud movement,Direction of cloud movement,
 305,\Atmosphere\Wind\Gust Speed,Gust Speed,
 307,"\Atmosphere\Wind\Wind (Z component, vertical)","Wind (Z component, vertical)",Z component of wind vector  (horizontal and vertical profile)
@@ -264,8 +264,8 @@ notation,path/tags,name,description
 540,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Fluoride (F-),F- (fluoride),"IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in total deposition"
 541,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Iodide (I-),I- (iodide),"IUPAC: iodide, PubChem CID: 30165, CAS Number: 20461-54-5, in total deposition"
 542,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Phosphate (PO4---),PO4--- (phosphate),"IUPAC: phosphate, PubChem CID: 1061, CAS Number: 14265-44-2, in total deposition"
-543,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), corrected","SO4= (sulphate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition"
-544,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulphate (SO4=), total",SO4= (sulphate),"IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition"
+543,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulfate (SO4=), corrected","SO4= (sulfate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition"
+544,"\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Sulfate (SO4=), total",SO4= (sulfate),"IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition"
 545,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Calcium (Ca++),Ca++ (calcium),"IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in total deposition"
 546,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Magnesium (Mg++),Mg++ (magnesium),"IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in total deposition"
 547,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+),K+ (potassium),"IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in total deposition"
@@ -322,10 +322,10 @@ notation,path/tags,name,description
 616,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Cl- (chloride), PM2.5","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM2.5"
 617,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Cl- (chloride), TSP","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, TSP"
 618,"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","F- (fluoride), TSP","IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in particle phase, TSP"
-619,"\Atmosphere\Aerosol\Composition\Inorganic anions\SO4= (sulphate), corrected","SO4= (sulphate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, "
-620,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total","SO4= (sulphate), TSP","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, TSP"
-621,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM10","SO4= (sulphate), PM10","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM10"
-622,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulphate (SO4=), total, PM2.5","SO4= (sulphate), PM2.5","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM2.5"
+619,"\Atmosphere\Aerosol\Composition\Inorganic anions\SO4= (sulfate), corrected","SO4= (sulfate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, "
+620,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total","SO4= (sulfate), TSP","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, TSP"
+621,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM10","SO4= (sulfate), PM10","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM10"
+622,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM2.5","SO4= (sulfate), PM2.5","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM2.5"
 623,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM10","Elemental carbon, PM10",Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and nonvolatile under atmospheric conditions and insoluble in any solvent. Size range: PM10
 624,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM1","Elemental carbon, PM1",Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and nonvolatile under atmospheric conditions and insoluble in any solvent. Size range: PM1
 625,"\Atmosphere\Aerosol\Composition\Inorganic carbonaceous\Elemental carbon, PM2.5","Elemental carbon, PM2.5",Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and nonvolatile under atmospheric conditions and insoluble in any solvent. Size range: PM2.5
@@ -365,8 +365,8 @@ notation,path/tags,name,description
 664,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM1"
 665,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10","C2O4= (oxalate, ethanedioate), PM10","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM10"
 666,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol","C2O4= (oxalate, ethanedioate), TSP","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, TSP"
-667,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), PM1","CH3O3S- (methanesulphonate), PM1","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, PM1"
-668,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulphonate), total aerosol","CH3O3S- (methanesulphonate), TSP","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, TSP"
+667,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), PM1","CH3O3S- (methanesulfonate), PM1","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, PM1"
+668,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), total aerosol","CH3O3S- (methanesulfonate), TSP","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, TSP"
 669,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), ","IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in particle phase, "
 670,"\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous-organic material (coarse), PM10","Carbonaceous-organic material, PM10",
 671,\Atmosphere\Aerosol\Composition\Organic carbonaceous-Carbonaceous-organic material (fine),"Carbonaceous-organic material, fine",
