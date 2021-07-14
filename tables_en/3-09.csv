@@ -1,6 +1,5 @@
 notation,name,description
 closed,Closed,The station has been declared as closed by the responsible supervising organization.
-inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular station/platform.
 nonReporting,Non-reporting,"The station is considered non-operational/non-reporting temporarily, but is expected to resume its operations/reporting after the temporary suspension."
 operational,Operational,The station fully complies with the reporting obligations of the observation programme/network concerned.
 partlyOperational,Partly operational,The station partially complies with the reporting obligations of the observation programme/network concerned.
