@@ -12,14 +12,14 @@ notation,path/tags,name,description
 186,\Atmosphere\Clouds\Melting layer depth in clouds,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other
 188,\Atmosphere\Clouds\PSC occurrence,PSC occurrence,Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [HR] and False Alarm Rate [FAR]. Simplified: [FAR/HR] 
 192,\Atmosphere\Gas\Greenhouse Gas\CH4 (methane),CH4 (methane),"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8, in gas phase"
-193,\Atmosphere\Gas\Greenhouse Gas\CH4 [C-13],CH4 [C-13],"IUPAC: methane C-13, PubChem CID: 105026, CAS Number: 14762-74-4, in gas phase"
-194,\Atmosphere\Gas\Greenhouse Gas\CO2,CO2,"IUPAC: carbon dioxide, PubChem CID: 280, CAS Number: 124-38-9, in gas phase"
-195,\Atmosphere\Gas\Greenhouse Gas\CO2 [C-13],CO2 [C-13],"IUPAC: n/a, PubChem CID: 10129882, CAS Number: 1111-72-4, in gas phase"
+193,"\Atmosphere\Gas\Greenhouse Gas\CH4 (methane, C-13)","CH4 (methane, C-13)","IUPAC: methane C-13, PubChem CID: 105026, CAS Number: 14762-74-4, in gas phase"
+194,\Atmosphere\Gas\Greenhouse Gas\CO2 (carbon dioxide),CO2 (carbon dioxide),"IUPAC: carbon dioxide, PubChem CID: 280, CAS Number: 124-38-9, in gas phase"
+195,"\Atmosphere\Gas\Greenhouse Gas\CO2 (carbon dioxide, C-13)","CO2 (carbon dioxide, C-13)","IUPAC: n/a, PubChem CID: 10129882, CAS Number: 1111-72-4, in gas phase"
 196,\Atmosphere\Gas\Greenhouse Gas\CO2 [O-18],CO2 [O-18],CO2 with O-18 isotope
-201,\Atmosphere\Gas\Greenhouse Gas\N2O,N2O,"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, in gas phase"
-203,\Atmosphere\Gas\Greenhouse Gas\SF6,SF6,"IUPAC: hexafluoro-λ6-sulfane, PubChem CID: 17358, CAS Number: 2551-62-4, in gas phase"
+201,\Atmosphere\Gas\Greenhouse Gas\N2O (nitrous oxide),N2O (nitrous oxide),"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, in gas phase"
+203,\Atmosphere\Gas\Greenhouse Gas\SF6 (sulfur hexafluoride),SF6 (sulfur hexafluoride),"IUPAC: hexafluoro-λ6-sulfane, PubChem CID: 17358, CAS Number: 2551-62-4, in gas phase"
 204,\Atmosphere\Gas\Greenhouse Gas\SO2F2 (sulfuryl fluoride),SO2F2 (sulfuryl fluoride),"IUPAC: sulfuryl difluoride, PubChem CID: 17607, CAS Number: 2699-79-8, in gas phase"
-205,\Atmosphere\Gas\Other Gas\H2,H2,"IUPAC: molecular hydrogen, PubChem CID: 783, CAS Number: 1333-74-0 , in gas phase"
+205,\Atmosphere\Gas\Other Gas\H2 (hydrogen molecule),H2 (hydrogen molecule),"IUPAC: molecular hydrogen, PubChem CID: 783, CAS Number: 1333-74-0 , in gas phase"
 206,\Atmosphere\Gas\Other Gas\H2O (as a chemical species),H2O (as a chemical species),"IUPAC: oxidane, PubChem CID: 962, CAS Number: 7732-18-5, in gas phase"
 207,\Atmosphere\Gas\Other Gas\HDO (as a chemical species),HDO (as a chemical species),"IUPAC: n/a, PubChem CID: 139859, CAS Number: 14940-63-7, in gas phase"
 210,\Atmosphere\Precipitation\Amount of precipitation,Amount of precipitation,
@@ -148,8 +148,8 @@ notation,path/tags,name,description
 392,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\ClONO2 (chlorine nitrate),ClONO2 (chlorine nitrate),"IUPAC: chloro nitrate, PubChem CID: 114934, CAS Number: 14545-72-3, in gas phase"
 393,"\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HCN (formonitrile, hydrogen cyanide)","HCN (formonitrile, hydrogen cyanide)","IUPAC: formonitrile, PubChem CID: 768, CAS Number: 74-90-8, in gas phase"
 394,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\HNO3 (nitric acid),HNO3 (nitric acid),"IUPAC: nitric acid, PubChem CID: 944, CAS Number: 7697-37-2, in gas phase"
-395,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO,NO,"IUPAC: nitric oxide, PubChem CID: 145068, CAS Number: 10102-43-9, in gas phase"
-396,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO2,NO2,"IUPAC: n/a, PubChem CID: 3032552, CAS Number: 10102-44-0, in gas phase"
+395,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO (nitrogen monoxide),NO (nitrogen monoxide),"IUPAC: nitric oxide, PubChem CID: 145068, CAS Number: 10102-43-9, in gas phase"
+396,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NO2 (nitrogen dioxide),NO2 (nitrogen dioxide),"IUPAC: n/a, PubChem CID: 3032552, CAS Number: 10102-44-0, in gas phase"
 397,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOx,NOx,
 398,\Atmosphere\Gas\Reactive Gas\Nitrogen containing compounds\NOy,NOy,
 411,"particle phase, physical properties",CCN concentration at single supersaturation,
@@ -193,7 +193,7 @@ notation,path/tags,name,description
 455,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (2-methyl-2-butene),C5H10 (2-methyl-2-butene),"IUPAC: 2-methylbut-2-ene, PubChem CID: 10553, CAS Number: 513-35-9, in gas phase"
 456,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (3-methyl-1-butene),C5H10 (3-methyl-1-butene),"IUPAC: 3-methylbut-1-ene, PubChem CID: 11239, CAS Number: 563-45-1, in gas phase"
 457,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (cyclopentane),C5H10 (cyclopentane),"IUPAC: cyclopentane, PubChem CID: 9253, CAS Number: 287-92-3, in gas phase"
-458,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of 1-pentene & 2-methyl-2-butene),C5H10 (sum of 1-pentene and 2-methyl-2-butene),
+458,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of 1-pentene and 2-methyl-2-butene),C5H10 (sum of 1-pentene and 2-methyl-2-butene),
 459,\Atmosphere\Gas\Reactive Gas\VOC\C5H10 (sum of pentenes),C5H10 (sum of pentenes),
 460,"\Atmosphere\Gas\Reactive Gas\VOC\C5H10O (pentanal, valeraldehyde)","C5H10O (pentanal, valeraldehyde)","IUPAC: pentanal, PubChem CID: 8063, CAS Number: 110-62-3, in gas phase"
 461,"\Atmosphere\Gas\Reactive Gas\VOC\C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)","C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)",
@@ -201,8 +201,8 @@ notation,path/tags,name,description
 463,"\Atmosphere\Gas\Reactive Gas\VOC\C5H14 (2,3-dimethylbutane)","C5H14 (2,3-dimethylbutane)","IUPAC: 2,3-dimethylbutane, PubChem CID: 6589, CAS Number: 79-29-8, in gas phase"
 464,"\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (2-methyl-1,3-butadiene, isoprene)","C5H8 (2-methyl-1,3-butadiene, isoprene)","IUPAC: 2-methylbuta-1,3-diene, PubChem CID: 6557, CAS Number: 78-79-5, in gas phase"
 465,\Atmosphere\Gas\Reactive Gas\VOC\C5H8 (cyclopentene),C5H8 (cyclopentene),"IUPAC: cyclopentene, PubChem CID: 8882, CAS Number: 142-29-0, in gas phase"
-466,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={10, 8}; sum of 3-methyl-1-butene & cyclopentene)","C5Hn, n={10, 8} (sum of 3-methyl-1-butene and cyclopentene)",
-467,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={12, 10}; sum of n-pentane & cyclopentane)","C5Hn, n={10, 8} (sum of n-pentane and cyclopentane)",
+466,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn, n=10 (sum of 3-methyl-1-butene and cyclopentene)","C5Hn, n=10 (sum of 3-methyl-1-butene and cyclopentene)","Sum of 3-methyl-1-butene and cyclopentane, in gas phase"
+467,"\Atmosphere\Gas\Reactive Gas\VOC\C5Hn (n={12, 10}; sum of n-pentane and cyclopentane)","C5Hn, n={12, 10} (sum of n-pentane and cyclopentane)","Sum of n-pentane and cyclopentane, in gas phase"
 468,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (cyclohexane),C6H12 (cyclohexane),"IUPAC: cyclohexane, PubChem CID: 8078, CAS Number: 110-82-7, in gas phase"
 469,\Atmosphere\Gas\Reactive Gas\VOC\C6H12 (methylcyclopentane),C6H12 (methylcyclopentane),"IUPAC: methylcyclopentane, PubChem CID: 7296, CAS Number: 96-37-7, in gas phase"
 470,\Atmosphere\Gas\Reactive Gas\VOC\C6H12O (hexanal isomers),C6H12O (hexanal isomers),
@@ -212,9 +212,9 @@ notation,path/tags,name,description
 474,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (n-hexane),C6H14 (n-hexane),"IUPAC: hexane, PubChem CID: 8058, CAS Number: 110-54-3, in gas phase"
 475,\Atmosphere\Gas\Reactive Gas\VOC\C6H14 (sum of methylpentanes),C6H14 (sum of methylpentanes),
 476,\Atmosphere\Gas\Reactive Gas\VOC\C6H6 (benzene),C6H6 (benzene),"IUPAC: benzene, PubChem CID: 241, CAS Number: 71-43-2, in gas phase"
-477,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 3-methylpentane & cyclohexane)","C6Hn, n={14, 12} (sum of 3-methylpentane and cyclohexane)",
-478,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,2-dimethylbutane & methylcyclopentane","C6Hn, n={14, 12} (sum of 2,2-dimethylbutane and methylcyclopentane)",
-479,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,3-dimethylbutane & methylcyclopentane","C6Hn, n={14, 12} (sum of 2,3-dimethylbutane and methylcyclopentane)",
+477,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 3-methylpentane and cyclohexane)","C6Hn, n={14, 12} (sum of 3-methylpentane and cyclohexane)","sum of 3-methylpentane and cyclohexane, in gas phase"
+478,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,2-dimethylbutane and methylcyclopentane","C6Hn, n={14, 12} (sum of 2,2-dimethylbutane and methylcyclopentane)","sum of 2,2-dimethylbutane and methylcyclopentane, in gas phase"
+479,"\Atmosphere\Gas\Reactive Gas\VOC\C6Hn (n={14, 12}; sum of 2,3-dimethylbutane and methylcyclopentane","C6Hn, n={14, 12} (sum of 2,3-dimethylbutane and methylcyclopentane)","sum of 2,3-dimethylbutane and methylcyclopentane, in gas phase"
 480,\Atmosphere\Gas\Reactive Gas\VOC\C7H16 (sum of methylhexanes),C7H16 (sum of methylhexanes),
 481,\Atmosphere\Gas\Reactive Gas\VOC\C7H6O (benzene carbaldehyde),C7H6O (benzene carbaldehyde),
 482,\Atmosphere\Gas\Reactive Gas\VOC\C7H8 (toluene),C7H8 (toluene),"IUPAC: toluene, PubChem CID: 1140, CAS Number: 108-88-3, in gas phase"
@@ -352,14 +352,14 @@ notation,path/tags,name,description
 651,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM2.5","NO3- (nitrate), PM2.5","IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, PM2.5"
 652,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), total aerosol","NO3- (nitrate), TSP","IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, TSP"
 653,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrite (NO2-), total aerosol","NO2- (nitrite), TSP","IUPAC: nitrite, PubChem CID: 946, CAS Number: 14797-65-0, in particle phase, TSP"
-654,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",Sum of NH3 (ammonia) and NH4+ (ammonium),
-655,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol",Sum of HNO3 (nitric acid) and NO3- (nitrate),
-656,\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated),"Major chemical components, ",
-657,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP),"Major inorganic components, TSP",
-658,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (coarse),"Major inorganic components, coarse",
-659,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (fine),"Major inorganic components, fine",
-660,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse),"Other chemical components, coarse",
-661,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine),"Other chemical components, fine",
+654,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",Sum of NH3 (ammonia) and NH4+ (ammonium),Sum of ammonia (NH3) and ammonium (NH4+)
+655,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol",Sum of HNO3 (nitric acid) and NO3- (nitrate),Sum of HNO3 (nitric acid) and NO3- (nitrate)
+656,\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated),"Major chemical components",Major chemical components
+657,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP),"Major inorganic components, TSP","Major inorganic components, TSP"
+658,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (coarse),"Major inorganic components, coarse","Major inorganic components, coarse"
+659,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (fine),"Major inorganic components, fine","Major inorganic components, fine"
+660,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse),"Other chemical components, coarse","Other chemical components, coarse"
+661,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine),"Other chemical components, fine","Other chemical components, fine"
 662,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1","C2H3O2- (CH3COO-, acetate), PM1","IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, PM1"
 663,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate), ","IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, "
 664,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM1"

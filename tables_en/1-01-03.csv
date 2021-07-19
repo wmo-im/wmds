@@ -24,7 +24,7 @@ notation,tags,name,description
 87,"biogeochemistry, oxygen",Dissolved oxygen,Concentration of dissolved oxygen (O2) in the water column
 89,"physical properties, radiation",Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area ,per wavelength and per solid angle"
 90,"biogeochemistry, volatile organic compound","C2H6S (dimethylsulfide, DMS)",Concentration of DMS
-91,physical properties,Subsurface salinity,Salinity of seawater with depth
+91,physical properties,Subsurface salinity,Salinity of seawater
 92,physical properties,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW)
 94,"physical properties, subsurface temperature",Subsurface temperature,Seawater temperature measured with depth (degrees celsius/kelvin)
 95,physical properties,Sea surface temperature,"Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm"
