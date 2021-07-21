@@ -352,7 +352,7 @@ notation,path/tags,name,description
 651,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), PM2.5","NO3- (nitrate), PM2.5","IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, PM2.5"
 652,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrate (NO3-), total aerosol","NO3- (nitrate), TSP","IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, TSP"
 653,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Nitrite (NO2-), total aerosol","NO2- (nitrite), TSP","IUPAC: nitrite, PubChem CID: 946, CAS Number: 14797-65-0, in particle phase, TSP"
-654,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",Sum of NH3 (ammonia) and NH4+ (ammonium),Sum of ammonia (NH3) and ammonium (NH4+)
+654,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of ammonia (NH3) and ammonium (NH4+), in air and aerosol",Sum of NH3 (ammonia) and NH4+ (ammonium),Sum of NH3 (ammonia) and NH4+ (ammonium)
 655,"\Atmosphere\Aerosol\Composition\Inorganic nitrogen species\Sum of nitric acid (HNO3) and nitrate (NO3-), in air and aerosol",Sum of HNO3 (nitric acid) and NO3- (nitrate),Sum of HNO3 (nitric acid) and NO3- (nitrate)
 656,\Atmosphere\Aerosol\Composition\Major inorganic components\Major chemical components (size fractionated),"Major chemical components",Major chemical components
 657,\Atmosphere\Aerosol\Composition\Major inorganic components\Major inorganic components (TSP),"Major inorganic components, TSP","Major inorganic components, TSP"
