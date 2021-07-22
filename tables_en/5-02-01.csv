@@ -64,8 +64,8 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 135,\Atmosphere\Ozone\In situ\Indian Sonde,Indian Sonde,
 136,\Atmosphere\Micrometeorology\In situ\Interferential method,Interferential method,
 137,\Atmosphere\Total atmospheric deposition\In situ\Ion Chromatography (IC) [general],Ion Chromatography (IC) [general],
-142,"\Atmosphere\Wind\Remote-sensing, active\Light detection and ranging (Lidar) profiler",Light detection and ranging (LIDAR) profiler,Light detection and ranging (Lidar) profiler for wind observations
-143,"\Atmosphere\Humidity\Remote-sensing, active\Light detection and ranging (Lidar)",Light detection and ranging (Lidar),Light detection and ranging (Lidar) for humidity measurements
+142,"\Atmosphere\Wind\Remote-sensing, active\Lidar for wind",Lidar for wind,Light detection and ranging (Lidar) profiler for wind observations
+143,"\Atmosphere\Humidity\Remote-sensing, active\Lidar for humidity",Lidar for humidity,Light detection and ranging (Lidar) for humidity measurements
 144,\Atmosphere\Temperature\In situ\Liquid-in-glass thermometer (mercury-free),Liquid-in-glass thermometer (mercury-free),
 146,\Atmosphere\Evaporation\In situ\Lysimeter,Lysimeter,
 147,\Atmosphere\Micrometeorology\In situ\Mass balance method,Mass balance method,
@@ -145,7 +145,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 240,\Atmosphere\Aerosol\In situ\Physical properties\Optical particle counter (OPC),Optical particle counter (OPC),
 241,\Atmosphere\Aerosol\In situ\Physical properties\Scanning mobility particle sizer (SMPS),Scanning mobility particle sizer (SMPS),
 242,\Atmosphere\Aerosol\In situ\Physical properties\Twomey static thermal diffusion chamber,Twomey static thermal diffusion chamber,
-243,"\Atmosphere\Aerosol\Remote-sensing, active\Optical properties\Light detection and ranging (Lidar) profiler",Light detection and ranging (Lidar) profiler,Light detection and ranging (Lidar) profiler for aerosol observations
+243,"\Atmosphere\Aerosol\Remote-sensing, active\Optical properties\Lidar for aerosol observations",Lidar for aerosol observations,Light detection and ranging (Lidar) profiler for aerosol observations
 244,"\Atmosphere\Aerosol\Remote-sensing, passive\Optical properties\Sun-tracking photometry",Sun-tracking photometry,
 245,"\Atmosphere\Clouds\Remote-sensing, active\Laser-based methods\Ceilometer",Ceilometer,
 246,\Atmosphere\Dynamics\Numerical model\Dispersion\Flexpart (dispersion modeling),Flexpart (dispersion modeling),
@@ -168,7 +168,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 266,"\Atmosphere\Radiation\In situ\Shortwave\Pyranometer (global solar, broadband)","Pyranometer (global solar, broadband)",
 267,\Atmosphere\Radiation\In situ\Shortwave\Spectral pyranometer,Spectral pyranometer,
 268,\Atmosphere\Radiation\In situ\Shortwave\UV-vis spectrometry-radiometry,UV-vis spectrometry-radiometry,
-269,"\Atmosphere\Temperature\Remote-sensing, active\Light detection and ranging (Lidar) profiler",Light detection and ranging (Lidar) profiler,Light detection and ranging (Lidar) profiler for temperature measurements
+269,"\Atmosphere\Temperature\Remote-sensing, active\Lidar for temperature observations",Lidar for temperature observations,Light detection and ranging (Lidar) profiler for temperature measurements
 270,\Atmosphere\Total atmospheric deposition\In situ\Chemiluminescence\Tetrachloromercurate (TCM) absorption - CL,Tetrachloromercurate (TCM) absorption - CL,
 271,\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (ANSA),Colorimetry (ANSA),
 272,\Atmosphere\Total atmospheric deposition\In situ\Colorimetry\Colorimetry (Griess),Colorimetry (Griess),
@@ -219,18 +219,18 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 317,\Atmosphere\Trace gas\In situ\Optical spectrometry\Non-dispersive IR (NDIR) absorption,Non-dispersive IR (NDIR) absorption,
 318,\Atmosphere\Trace gas\In situ\Optical spectrometry\Non-dispersive UV (NDUV),Non-dispersive UV (NDUV),
 319,\Atmosphere\Trace gas\In situ\Optical spectrometry\UV absorption spectrometry-radiometry,UV absorption spectrometry-radiometry,
-320,"\Atmosphere\Trace gas\Remote-sensing, active\Laser-based methods\Differential absorption Lidar (DIAL)",Differential absorption Lidar (DIAL),Differential absorption Lidar (DIAL) for trace gas observations
+320,"\Atmosphere\Trace gas\Remote-sensing, active\Laser-based methods\DIAL for trace gas observations",DIAL for trace gas observations,Differential absorption Lidar (DIAL) for trace gas observations
 321,"\Atmosphere\Trace gas\Remote-sensing, active\Optical spectrometry\Differential optical absorption (DOAS)",Differential optical absorption (DOAS),
 322,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\Fourier-transform IR spectroscopy (FTIR)",Fourier-transform IR spectroscopy (FTIR),
 323,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\TCCON Fourier-transform IR spectroscopy (TCCON-FTIR)",TCCON Fourier-transform IR spectroscopy (TCCON-FTIR),
-324,"\Atmosphere\Visual range\Remote-sensing, active\Laser-based methods\Light detection and ranging (Lidar)",Light detection and ranging (Lidar),Light detection and ranging (Lidar) for observations of visibility and optical range
+324,"\Atmosphere\Visual range\Remote-sensing, active\Laser-based methods\Lidar for visibility and optical range",Lidar for visibility and optical range,Light detection and ranging (Lidar) for observations of visibility and optical range
 327,\Atmosphere\Radiosonde with NAVAID,Radiosonde with NAVAID,
 328,\Atmosphere\Radiosonde with radar tracking,Radiosonde with radar tracking,
 329,\Atmosphere\Radiosonde with radiotheodolite tracking,Radiosonde with radiotheodolite tracking,
 330,\Atmosphere\Radiosonde with composite method tracking,Radiosonde with composite method tracking,
 331,\Atmosphere\Wind\Radiosonde (tracking unspecified),Radiosonde (tracking unspecified),
 332,\Atmosphere\Wind\Pilot balloon with optical tracking),Pilot balloon with optical tracking),
-335,"\Atmosphere\Ozone\Remote-sensing, active\Laser-based methods\Differential absorption Lidar (DIAL)",Differential absorption Lidar (DIAL),Differential absorption Lidar (DIAL) for ozone measurements
+335,"\Atmosphere\Ozone\Remote-sensing, active\Laser-based methods\DIAL for ozone observations",DIAL for ozone observations,Differential absorption Lidar (DIAL) for ozone measurements
 336,"\Atmosphere\Trace gas\Remote-sensing, passive\Microwave radiometry",Microwave radiometry,
 338,\Atmosphere\Humidity\In situ\Laser-based\Tunable diode lase spectroscopy (TDLS),Tunable diode lase spectroscopy (TDLS),Tunable diode lase spectroscopy (TDLS)
 339,"\Atmosphere\Ozone\Remote-sensing, passive\UV spectroradiometry",UV spectroradiometry,
