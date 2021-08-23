@@ -16,13 +16,15 @@ _Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-C
 
 # **Summary and Purpose**
 
+\[add brief overview\]
+
 # **Stakeholder(s)**
 
 \[include emails or handles as relevant\]
 
 # **Proposal**
 
-\[your specific proposal to resolve the issue - update when decision on proposal is finalized\]
+\[your specific proposal to resolve the issue - update when decision on proposal is finalised\]
 
 # **Reason**
 
