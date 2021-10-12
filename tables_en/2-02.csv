@@ -198,6 +198,7 @@ germanAODnetwork,\WIGOS\GAW\GAW Other elements\German AOD network,German AOD net
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY
 GLOSCAL,\Co-sponsored\GOOS\DBCP\GLOSCAL,GLOSCAL,"GLOSCAL is a French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."
 GNSSradioOccultation,\WIGOS\GOS\GOS Other elements\GNSS radio-occultation system,GNSS radio-occultation system,NA
+GOSGeneral,\WIGOS\GOS\GOS Surface networks\GOS General,GOS General,No affiliation to other GOS Surface networks
 GOship,\Co-sponsored\GOOS\SOT\GO-SHIP,GO-SHIP,Global Ocean Ship-Based Hydrographic Investigations Programme
 greeceMB,\Co-sponsored\GOOS\DBCP\GREECE MB,GREECE MB,Moored buoys in the Greek Poseiden Network
 GRUAN,\Co-sponsored\GCOS\GRUAN,GRUAN,GCOS Reference Upper-Air Network
