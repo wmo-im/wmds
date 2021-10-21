@@ -19,11 +19,11 @@ https://codes.wmo.int/wmdr/ProgramAffiliation/ESRLCCG,https://codes.wmo.int/wmdr
 http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/201
 https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/328,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/327
 https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/374,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/373
-https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/262,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
-https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/263,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
-https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/264,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
-https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/227,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
-https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/256,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/_
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/262,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12164
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/263,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12164
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/264,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12164
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/227,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12166
+https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/256,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12165
 https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12000,https://codes.wmo.int/wmdr/ObservedVariableAtmosphere/216
 http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_202,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/_201
 https://codes.wmo.int/wmdr/unit/degree_(angle),https://codes.wmo.int/wmdr/unit/deg
