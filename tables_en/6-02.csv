@@ -1,5 +1,5 @@
 notation,name,description
-"inapplicable","(inapplicable)","Inapplicable or no sample treatment"
+"inapplicable","inapplicable","Inapplicable or no sample treatment"
 "drying","Drying","Sample is dried before analysis"
 "evaporation","Evaporation","Sample is evaporated before analysis"
 "freezing","Freezing","Sample is frozen before analysis"
@@ -9,8 +9,8 @@ notation,name,description
 "milling","Milling","Sample is milled before analysis"
 "mixing","Mixing","Sample is mixed before analysis"
 "sieving","Sieving","Sample is sieved before analysis"
-"other","(other)","Other sample treatment"
-"unknown","(unknown)","unknown"
+"other","other","Other sample treatment"
+"unknown","unknown","unknown"
 "denuding","Chemical denuding","Process to remove certain gas phase species from sample before analysis"
 "conversion","Chemical conversion","Sample is chemically converted before analysis"
 "decomposition","Thermal decomposition","Sample is thermally decomposed before analysis"
