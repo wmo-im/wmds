@@ -156,8 +156,8 @@ ppbv,parts per billion by volume,"Unit of volume fraction, equivelent to SI deri
 pptv,parts per trillion by volume,"Unit of volume fraction, equivelent to SI derived unit: um3.cm-3"
 km-1,per kilometre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients, equal to 0.001 m-1"
 Mm-1,per megametre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients, equal to 1E-6 m-1"
-missing,(missing),"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
-inapplicable,(inapplicable),There is no value (categorical data).
+missing,missing,"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
+inapplicable,inapplicable,There is no value (categorical data).
 ug.m-3,micrograms per cubic metre,"SI derived unit of mass concentration, equal to 1E-9 kg/m3"
 mg.l-1,milligrams per litre,"SI derived unit of mass concentration, equal to 0.001 kg/m3"
 mg.cm-3,milligrams per cubic centimetre,"SI derivd unit of mass concentration, equal to 1 kg/m3"
