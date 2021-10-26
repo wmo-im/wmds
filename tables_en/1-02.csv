@@ -71,7 +71,7 @@ g.kg-1.s-1,grams per kilogram per second,"SI derived unit of time derivative of 
 kg.kg-1,kilograms per kilogram,"SI derived  unit of mass fraction, dimensionless, equal to 1"
 kg.kg-1.s-1,kilograms per kilogram per second,"SI derived unit of time derivative of mass fraction, equal to 1 per second"
 kg.m-2,kilograms per square metre,SI derived unit of area density
-g0,standard acceleration due to gravity,"g0 = 9.80665 m.s-2, approxiamtely"
+g0,standard acceleration due to gravity,"g0 = 9.80665 m.s-2, approximately"
 gpm,geopotential metre,The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)
 mm,millimetre,"Unit of length, equal to 0.001 m"
 mm.s-1,millimetres per second,"Unit of speed, equal to 0.001 metres per second"
@@ -89,7 +89,7 @@ m2.s-1,square metres per second,"SI derived unit of kinematic viscosity, thermal
 km,kilometre,"SI derived unit of length, equal to 1000 metres"
 km.h-1,kilometres per hour,"Unit of speed, equal to (1000/3600) metres per second"
 km.d-1,kilometres per day,"Unit of speed, equal to (1000/86400) metres per second"
-m-1,per metre,"SI derived unit of quantiy with dimension of reciprocal length, e.g., wavenumber, optical power, curvature, spatial frequency"
+m-1,per metre,"SI derived unit of quantity with dimension of reciprocal length, e.g., wave number, optical power, curvature, spatial frequency"
 Bq.l-1,becquerels per litre,"Unit of radioactivity concentration, equal to 0.001 Bq/m3"
 Bq.m-2,becquerels per square metre,SI derived unit of radioactivity area concentration
 Bq.m-3,becquerels per cubic metre,SI derived unit of radioactivity concentration
@@ -102,7 +102,7 @@ m3,cubic metres,SI derived unit of volume
 m3.s-1,cubic metres per second,SI derived unit of volume flow rate or time derivative of volume
 m3.m-3,cubic metres per cubic metre,SI derived unit of volume fraction
 m4,metres to the fourth power,"SI derived unit of the second moment of area, area moment of inertia"
-m(2.3-1).s-1,metres to the two thirds power per second,SI derived unit of the quantiy with dimension of L^(2/3) T-1
+m(2.3-1).s-1,metres to the two thirds power per second,SI derived unit of the quantity with dimension of L^(2/3) T-1
 kg.m-1,kilograms per metre,SI derived unit of linear mass density or quantity with dimension of M L-1
 kg.m-2.s-1,kilograms per square metre per second,Unit of time derivative of mass area density
 kg.m-3,kilograms per cubic metre,"SI derived unit of density, mass density"
@@ -124,7 +124,7 @@ W.m-2.sr-1,watts per square metre per steradian,SI derived unit of radiance
 W.m-2.sr-1.cm,watts per square metre per steradian per inverse centimetre,"SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1"
 W.m-2.sr-1.m,watts per square metre per steradian per inverse metre,SI derived unit of spectral radiance per wave number
 W.m-3.sr-1,watts per cubic metre per steradian,SI derived unit of spectral radiance
-S.m-1,siemens per metre,Unit of spatial gradient of lectric conductance
+S.m-1,siemens per metre,Unit of spatial gradient of electric conductance
 deg2,square degrees (angle),Unit of square of phase or plane angle
 Bq.s.m-3,becquerel seconds per cubic metre,SI derived unit of time integrated radioactivity concentration
 dB.m-1,decibels per metre,Unit of spatial gradient of sound intensity
@@ -151,16 +151,16 @@ E,Eötvös,"Unit of acceleration divided by distance, 1 E = 1 mGal / 10 km"
 t.ha-1,(metric) ton per hectare,"SI derived unit of area density, equal to 0.1 kg.m-2"
 psu,practical salinity unit,"Close to 1, determined by CTD"
 nm,nanometre,"Unit of length, equal to one billionth of a meter (1E-9 m)"
-ppmv,parts per million by volume,"Unit of volume fraction, equivelent to SI derived unit: cm3.m-3"
-ppbv,parts per billion by volume,"Unit of volume fraction, equivelent to SI derived unit: mm3.m-3"
-pptv,parts per trillion by volume,"Unit of volume fraction, equivelent to SI derived unit: um3.cm-3"
+ppmv,parts per million by volume,"Unit of volume fraction, equivalent to SI derived unit: cm3.m-3"
+ppbv,parts per billion by volume,"Unit of volume fraction, equivalent to SI derived unit: mm3.m-3"
+pptv,parts per trillion by volume,"Unit of volume fraction, equivalent to SI derived unit: um3.cm-3"
 km-1,per kilometre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients, equal to 0.001 m-1"
 Mm-1,per megametre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients, equal to 1E-6 m-1"
 missing,missing,"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."
 inapplicable,inapplicable,There is no value (categorical data).
 ug.m-3,micrograms per cubic metre,"SI derived unit of mass concentration, equal to 1E-9 kg/m3"
 mg.l-1,milligrams per litre,"SI derived unit of mass concentration, equal to 0.001 kg/m3"
-mg.cm-3,milligrams per cubic centimetre,"SI derivd unit of mass concentration, equal to 1 kg/m3"
+mg.cm-3,milligrams per cubic centimetre,"SI derived unit of mass concentration, equal to 1 kg/m3"
 ng.kg-1,nanograms per kilogram,"SI derived unit for mass mixing ratio, equivalent to pptm or ppt"
 ug.kg-1,micrograms per kilogram,"SI derived unit for mass mixing ratio, equivalent to ppbm or ppb"
 mg.kg-1,milligrams per kilogram,"SI derived unit for mass mixing ratio, equivalent to ppmm or ppm"
