@@ -44,14 +44,14 @@ dB,decibel,"Unit of sound intensity, accepted for use with SI"
 ha,hectare,"Unit of area, accepted for use with SI: 1 ha = 10000 m2"
 week,week,"Unit of time, equivalent to 604800 s"
 a,year,"Unit of time, equivalent to 31536000 s"
-percent,per cent (%),"Dimensionless number, expressed as a fraction of 100"
-permil,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
+percent,per cent (%),"Dimensionless number, expressed as a fraction of 100"
+permil,parts per thousand,"Dimensionless number, expressed as a fraction of 1000"
 okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds"
 deg.s-1,degrees (angle) per second,"Unit of angular speed, equal to 1 degree per second"
 degC,degrees Celsius (°C),"SI derived unit of temperature, SI base unit equivalent: K"
 degC.m-1,degrees Celsius per metre,Unit of spatial gradient of temperature per metre
 degC.hm-1,degrees Celsius per 100 metres,Unit of spatial gradient of temperature per 100 metres
-DU,Dobson Unit,"Unit of column abundance of ozone in the atmosphere. One Dobson unit is equivalent of 2.69E16 molecules of ozone per square centimeter. Alternatively, 1 Dobson unit corresponds to a layer of ozone 1E-5 m thick, if the ozone were held at standard temperature and pressure (273 K, 1 atm pressure). [https://glossary.ametsoc.org/wiki/Dobson_unit]"
+DU,Dobson Unit,"Unit of column abundance of ozone in the atmosphere. One Dobson unit is equivalent of 2.69E16 molecules of ozone per square centimetre. Alternatively, 1 Dobson unit corresponds to a layer of ozone 1E-5 m thick, if the ozone were held at standard temperature and pressure (273 K, 1 atm pressure). [https://glossary.ametsoc.org/wiki/Dobson_unit]"
 mon,month,"Unit of time, equivalent to 28-31 days"
 s-2,per second squared,Unit of second order time derivative
 kt.km-1,knots per 1000 metres,"Unit of spatial derivative of speed, equal to 0.51444 s-1, approximately"
@@ -114,7 +114,7 @@ K.m2.kg-1.s-1,kelvin square metres per kilogram per second,SI derived unit of po
 mol.mol-1,moles per mole,SI derived unit of mole fraction
 rad.m-1,radians per metre,SI derived unit of spatial gradient of plane angle
 N.m-2,newtons per square metre,Unit of pressure or equivalent quantity
-Pa.s-1,pascals per second,Unit of temopral derivative of pressure
+Pa.s-1,pascals per second,Unit of temporal derivative of pressure
 kPa,kilopascal,"SI derived  unit of pressure, stress, equal to 1000 Pa"
 J.m-2,joules per square metre,SI derived unit of radiant exposure
 J.kg-1,joules per kilogram,SI derived unit of specific energy or specific potential enthalpy
@@ -130,7 +130,7 @@ Bq.s.m-3,becquerel seconds per cubic metre,SI derived unit of time integrated ra
 dB.m-1,decibels per metre,Unit of spatial gradient of sound intensity
 dB.deg-1,decibels per degree (angle),Unit of angular gradient of sound intensity
 pH_unit,pH unit,Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre
-N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n-1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'. (WMO Manual on Codes I.2)"
+N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n-1). N is therefore dimensionless, but values computed by the formula are by convention described as being in 'N units'. (WMO Manual on Codes I.2)"
 unknown,unknown,"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
 kHz,kilohertz,"SI derived unit of frequency, equal to 1000 Hz"
 MHz,megahertz,"SI derived unit of frequency, equal to 1E6 Hz"
