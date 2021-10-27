@@ -3,11 +3,11 @@ notation,path,name,description
 105,\Outer Space\Energetic particles-solar wind \Electrostatic charge,Electrostatic charge,Measurement of the electrostatic charge of a satellite accumulated because of the environmental situation.
 106,\Outer Space\Energetic particles-solar wind \Heavy ion angular flux energy and mass spectrum,Heavy ion angular flux energy and mass spectrum,"Flux density energy and mass spectrum of heavy ions ranging from Helium to Iron, per unit solid angle."
 107,\Outer Space\Energetic particles-solar wind \Heavy ion flux energy and mass spectrum,Heavy ion flux energy and mass spectrum,Flux density energy and mass spectrum of heavy ions ranging from Helium to Iron.
-108,\Outer Space\Energetic particles-solar wind \Interplanetary magnetic field,Interplanetary magnetic field,Vector magnetic field (3D) in the solar wind.The reference frame is Cartesian or Cylindrical with many different axis orientations. Important in Space Weather to monitor magnetic disturbances of the near earth environment.
+108,\Outer Space\Energetic particles-solar wind \Interplanetary magnetic field,Interplanetary magnetic field,Vector magnetic field (3D) in the solar wind. The reference frame is Cartesian or Cylindrical with many different axis orientations. Important in Space Weather to monitor magnetic disturbances of the near earth environment.
 111,\Outer Space\Energetic particles-solar wind \Radiation Dose Rate,Radiation Dose Rate,3D field of the dose rate of energetic particles
 112,\Outer Space\Energetic particles-solar wind \Solar wind temperature,Solar wind temperature,Temperature of solar wind protons.
 113,\Outer Space\Energetic particles-solar wind \Solar wind velocity,Solar wind velocity,Vector velocity of solar wind plasma.
-114,\Outer Space\Ionospheric disturbances\Aurora,Aurora,Occurence of fluorescence of the upper atmosphere through ionization by energetic charged particles accelerated by the Earth's magnetic field.
+114,\Outer Space\Ionospheric disturbances\Aurora,Aurora,Occurrence of fluorescence of the upper atmosphere through ionization by energetic charged particles accelerated by the Earth's magnetic field.
 115,\Outer Space\Ionospheric disturbances\Electric Field,Electric Field,Magnitude and direction of the Earth's electric field.
 116,\Outer Space\Ionospheric disturbances\Electron Density,Electron Density,3-D field of the electron density in the ionosphere.
 117,\Outer Space\Ionospheric disturbances\Ionospheric Radio Absorption,Ionospheric Radio Absorption,Attenuation of a radio wave passing through the lower ionosphere.
@@ -25,7 +25,7 @@ notation,path,name,description
 129,\Outer Space\Solar monitoring\EUV sky image,EUV sky image,Extreme Ultra-Violet (EUV) image of the sky.
 130,\Outer Space\Solar monitoring\Gamma-ray flux,Gamma-ray flux,Radiative flux integrated over the gamma-ray domain.
 131,\Outer Space\Solar monitoring\Gamma-ray flux spectrum,Gamma-ray flux spectrum,Energy spectrum of the radiative flux measured in the gamma-ray domain.
-132,\Outer Space\Solar monitoring\Heliospheric image,Heliospheric image,Image of the interplanetary space between the Sun and Earth
+132,\Outer Space\Solar monitoring\Heliospheric image,Heliospheric image,Image of the interplanetary space between the Sun and Earth.
 133,\Outer Space\Solar monitoring\Radio-waves,Radio-waves,"Travelling radio-waves of solar, galactic and extragalactic origin, entering the Earth's environment."
 134,\Outer Space\Solar monitoring\Solar Ca II-K image,Solar Ca II-K image,Image of the Sun in the K-line of Ca-II(393.4 nm).
 135,\Outer Space\Solar monitoring\Solar EUV flux,Solar EUV flux,Integrated Extreme Ultra-Violet (EUV) flux over the solar disk.
@@ -60,9 +60,9 @@ notation,path,name,description
 164,\Outer Space\Solar monitoring\X-ray sky image,X-ray sky image,X-ray image of the sky.
 409,\Outer Space\Energetic particles-solar wind \Particle density\Solar wind density,Solar wind density,Density of solar wind plasma.
 511,\Outer Space\Energetic particles-solar wind \Particle flux\Alpha particles differential directional flux,Alpha particles differential directional flux,
-512,\Outer Space\Energetic particles-solar wind \Particle flux\Alpha particles integral directional flux,Alpha particles integral directional flux,"An alpha particle has positive charge and consists of two protons and two neutrons (the nucleus of a helium atom). Flux is the rate of flow through a reference surface, measured in particles per unit area.The directional flux is the flux limited to a certain solid angle as a function of the direction (pitch angle)."
+512,\Outer Space\Energetic particles-solar wind \Particle flux\Alpha particles integral directional flux,Alpha particles integral directional flux,"An alpha particle has positive charge and consists of two protons and two neutrons (the nucleus of a helium atom). Flux is the rate of flow through a reference surface, measured in particles per unit area. The directional flux is the flux limited to a certain solid angle as a function of the direction (pitch angle)."
 513,\Outer Space\Energetic particles-solar wind \Particle flux\Cosmic ray neutron flux spectrum,Cosmic ray neutron flux spectrum,Flux density energy spectrum of neutrons from the Sun or as component of the cosmic radiation.
-514,\Outer Space\Energetic particles-solar wind \Particle flux\Electron differential directional flux,Electron differential directional flux,"Flux density energy spectrum of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle"
+514,\Outer Space\Energetic particles-solar wind \Particle flux\Electron differential directional flux,Electron differential directional flux,"Flux density energy spectrum of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
 515,\Outer Space\Energetic particles-solar wind \Particle flux\Electron flux density,Electron flux density,"Flux density of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium."
 516,\Outer Space\Energetic particles-solar wind \Particle flux\Electron integral directional flux,Electron integral directional flux,"Flux density of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
 517,\Outer Space\Energetic particles-solar wind \Particle flux\Heavy ion differential directional flux,Heavy ion differential directional flux,Flux density of heavy ions (heavier than Helium) per unit solid angle.
