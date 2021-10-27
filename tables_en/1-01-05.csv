@@ -39,7 +39,7 @@ notation,path,name,description
 628,\Terrestrial\Cryosphere\Snow\Snow cover extent,Snow cover extent,"The area of snow-covered ground, ice, or firn based on the fractional threshold used to define presence of snow."
 629,\Terrestrial\Cryosphere\Snow\Snow depth,Snow depth,Vertical distance from the snow surface to a stated reference level.
 630,\Terrestrial\Cryosphere\Snow\Snow surface state,Snow surface state,Binary product (dry or wet) expressing the presence of liquid water at the surface of the snow cover.
-631,\Terrestrial\Cryosphere\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"The Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area."
+631,\Terrestrial\Cryosphere\Snow\Water equivalent of snow cover,Water equivalent of snow cover,"The vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area."
 725,\Terrestrial\Cryosphere\Lake ice\Ice thickness,Ice thickness,
 726,\Terrestrial\Cryosphere\River ice\Ice thickness,Ice thickness,
 12007,\Terrestrial\Cryosphere\Snow\Presence of snow,Presence of snow,A binary observation of the presence of snow cover at the measurement location.
