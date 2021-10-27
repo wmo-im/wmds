@@ -7,7 +7,7 @@ notation,path,name,description
 172,\Terrestrial\River\River stage (level above reference),River stage (level above reference),
 174,\Terrestrial\Well\Well discharge,Well discharge,
 231,\Terrestrial\Land surface\Breaking action-friction coefficient,Breaking action-friction coefficient,
-232,\Terrestrial\Land surface\Coastlines,Coastlines,Location of coastlines (Lat/Long)
+232,\Terrestrial\Land surface\Coastlines,Coastlines,Location of coastlines (Lat/Long).
 236,\Terrestrial\Land surface\Land cover,Land cover,"Processed from land surface imagery by assigning identified cluster(s) within a given area to specific classes of objects - Accuracy expressed as number of classes. Actually [ classes-1 ] is used, so that smaller figure corresponds to better performance, as usual."
 237,\Terrestrial\Land surface\Land surface topography,Land surface topography,Map of land surface heights.
 239,\Terrestrial\Land surface\Runway conditions,Runway conditions,
