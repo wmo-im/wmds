@@ -31,7 +31,7 @@ jobs:
           pip install testtools
       - name: Test - then commit results if successful
         run: |
-          tmode=prod python3 -m scripts.check_urls
+          python3 -m scripts.makeWMDREntities
           git status
           git checkout master
           git add ./\*.ttl
