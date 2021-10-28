@@ -1,5 +1,5 @@
 notation, name, description
-4,Space,"Spatial extent above the Atmosphere around Earth"
+4,Space,"Spatial extent above the Atmosphere around Earth above the Kármán line at 100 km altitude"
 1,Atmosphere,"Spatial extent from the Earth surface towards but excluding space"
 3,Marine,"Continuous saline, non-cryosphere part of the hydrosphere"
 5,Terrestrial,"Spatial extent comprised of land masses, normally not covered by the Ocean or other water bodies and excluding cryosphere"
