@@ -1,8 +1,8 @@
 notation, name, description
-4,Space,Spatial extent above the Atmosphere around Earth
+4,Space,"Spatial extent above the Atmosphere around Earth"
 1,Atmosphere,"Spatial extent from the Earth surface towards but excluding space"
 3,Marine,"Continuous saline, non-cryosphere part of the hydrosphere"
 5,Terrestrial,"Spatial extent comprised of land masses, normally not covered by the Ocean or other water bodies and excluding cryosphere"
-6,Cryosphere,"Frozen part of the terrestrial and ocean domains at and below the surface, including snow cover, glaciers, ice sheets, ice shelves, icebergs, sea ice, lake ice, river ice, permafrost, and seasonally frozen ground"
+6,Cryosphere,"Frozen part of the terrestrial and ocean domains at and below the surface, including snow, glaciers, ice sheets, ice shelves, icebergs, sea ice, lake ice, river ice, permafrost, and seasonally frozen ground"
 7,Hydrological,"Non-saline, non-atmosphere, non-cryosphere part of the hydrosphere, including lakes, rivers, groundwater"
-2,Solid Earth,Spatial extent of the Earth from the solid surface inwards
+2,Solid Earth,"Spatial extent of the Earth from the solid surface inwards"
