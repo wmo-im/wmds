@@ -38,6 +38,8 @@ jobs:
           if [ -z "$(git status --porcelain)" ]; 
               then echo 'nothing to commit'
           else 
+              git config --global user.email "no-response.github@wmo.int"
+              git config --global user.name "Github WMO-IM Actor"
               git commit -am 'Github Action Commit'
               git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
               git push
