@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<590> a skos:Concept ;
+	rdfs:label "C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)" ;
+	skos:notation "590" ;
+	dct:description "IUPAC: 1,1,2-trichloro-1,2,2-trifluoroethane, PubChem CID: 6428, CAS Number: 76-13-1, in gas phase"@en	.

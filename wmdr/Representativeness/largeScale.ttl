@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<largeScale> a skos:Concept ;
+	rdfs:label "large scale (100 km .. < 3000 km)" ;
+	skos:notation "largeScale" ;
+	dct:description "An area or volume of 100 km to 3000 km horizontal extent (for example, fronts, various cyclones, cloud clusters)."@en	.

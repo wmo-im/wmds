@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<323> a skos:Concept ;
+	rdfs:label "TCCON Fourier-transform IR spectroscopy (TCCON-FTIR)" ;
+	skos:notation "323" ;
+	dct:description ""@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<GCWaffiliated> a skos:Concept ;
+	rdfs:label "GCW affiliated station" ;
+	skos:notation "GCWaffiliated" ;
+	dct:description "A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."@en	.

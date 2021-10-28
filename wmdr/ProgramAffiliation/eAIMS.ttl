@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<eAIMS> a skos:Concept ;
+	rdfs:label "E-AIMS" ;
+	skos:notation "eAIMS" ;
+	dct:description "Euro-Argo Improvements for the GMES Marine Service"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<80> a skos:Concept ;
+	rdfs:label "PM2.5 - PM10" ;
+	skos:notation "80" ;
+	dct:description "Particles with aerodynamic diameter from 2.5 to 10 µm"@en	.

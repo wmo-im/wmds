@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<95> a skos:Concept ;
+	rdfs:label "Sea surface temperature" ;
+	skos:notation "95" ;
+	dct:description "Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm"@en	.

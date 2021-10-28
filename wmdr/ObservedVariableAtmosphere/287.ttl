@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<287> a skos:Concept ;
+	rdfs:label "H2O2 (hydrogen peroxide)" ;
+	skos:notation "287" ;
+	dct:description "IUPAC: hydrogen peroxide, PubChem CID: 784, CAS Number: 7722-84-1, in gas phase"@en	.

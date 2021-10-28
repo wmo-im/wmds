@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12158> a skos:Concept ;
+	rdfs:label "Particle light hemispheric backscatter coefficient" ;
+	skos:notation "12158" ;
+	dct:description "The fraction of incident radiative flux scattered into all backward angles, i.e. scattering_angle exceeding pi/2 radians."@en	.

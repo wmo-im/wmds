@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<centennialObservingstations> a skos:Concept ;
+	rdfs:label "Centennial Observing Stations" ;
+	skos:notation "centennialObservingstations" ;
+	dct:description "Long-term meteorological observations are unique sources of past information about atmospheric parameters, thus are references for climate variability and change assessments. To highlight this importance, WMO has a mechanism to recognize centennial observing stations. By so doing, the Organization promotes sustainable observational standards and best practices that facilitate the generation of high-quality time series data."@en	.

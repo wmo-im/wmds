@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<366> a skos:Concept ;
+	rdfs:label "Natural gamma radiation survey, ground" ;
+	skos:notation "366" ;
+	dct:description "The method of gamma radiation snow surveying is based on attenuation by snow of gamma radiation emanating from natural radioactive elements in the ground. The greater the water equivalent of the snow, the more the radiation is attenuated. A hand-carried detector provides a means of measurement of the averaged water equivalent for a band width of approximately 8 m for the length of the course. Water equivalents from 10 to 300 mm may be measured (WMO, Guide to Hydrological Practices, 2008)."@en	.

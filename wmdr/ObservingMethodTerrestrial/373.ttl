@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<373> a skos:Concept ;
+	rdfs:label "Snow evaporimeter" ;
+	skos:notation "373" ;
+	dct:description "Evaporimeters made of polyethylene or colourless plastic are used in many countries for measuring evaporation from, or condensation on, snow cover. Snow evaporimeters should have an area of at least 200 cm^2 and a depth of 10 cm. A sample of snow is cut to fill the evaporimeter,the total weight is measured and the evaporimeter is set flush with the snow surface. Care should be taken that surface characteristics of the sample in the evaporimeter are similar to those of the snow cover in which it is placed. At the end of the measurement period, the evaporimeter is removed from the snow cover, the outside is wiped dry and a second measurement of weight is made. The difference between initial and final weights is converted to evaporation or condensation in centimetres. Measurements during periods of snowfall or blowing snow are not valid. During melt, the evaporimeters should be weighed and new samples should be cut at more frequent intervals as the snow cover will be settling, exposing the edge of the evaporimeter and altering airflow over the sample (WMO Guide to Hydrological Practices, 2008)."@en	.

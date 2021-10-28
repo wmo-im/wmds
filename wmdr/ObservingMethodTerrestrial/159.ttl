@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<159> a skos:Concept ;
+	rdfs:label "Neutron probe" ;
+	skos:notation "159" ;
+	dct:description "A neutron probe is a device used to measure the quantity of water present in soil. A typical neutron probe contains a pellet of americium-241 and beryllium. The alpha particles emitted by the decay of the americium collide with the light beryllium nuclei, producing fast neutrons. When these fast neutrons collide with hydrogen nuclei present in the soil being studied, they lose much of their energy. The detection of slow neutrons returning to the probe allows an estimate of the amount of hydrogen present. Since water contains two atoms of hydrogen per molecule, this therefore gives a measure of soil moisture (https://en.wikipedia.org/wiki/Neutron_probe, 2021)."@en	.

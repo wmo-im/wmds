@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<593> a skos:Concept ;
+	rdfs:label "CCl3F (trichlorofluoromethane, CFC-11)" ;
+	skos:notation "593" ;
+	dct:description "IUPAC: trichloro(fluoro)methane, PubChem CID: 6389, CAS Number: 75-69-4, in gas phase"@en	.

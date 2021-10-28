@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12137> a skos:Concept ;
+	rdfs:label "C2H4O2 (glycolaldehyde)" ;
+	skos:notation "12137" ;
+	dct:description "IUPAC: 2-hydroxyacetaldehyde, PubChem CID: 756, CAS Number: 141-46-8, in gas phase"@en	.

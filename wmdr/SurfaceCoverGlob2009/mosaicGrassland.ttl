@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mosaicGrassland> a skos:Concept ;
+	rdfs:label "Mosaic grassland (50-70%) / forest or shrubland (20-50%)" ;
+	skos:notation "mosaicGrassland" ;
+	dct:description "NA"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<laifpar> a skos:Concept ;
+	rdfs:label "Surface cover types (LAI/fPAR)" ;
+	skos:notation "laifpar" ;
+	dct:description "Leaf Area Index (LAI) and Fractional Photosynthetically Active Radiation (FPAR). FPAR/LAI is the Fraction of Absorbed Photosynthetically Active radiation that a plant canopy absorbs for photosynthesis and growth in the 0.4 - 0.7nm spectral range."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<basins> a skos:Concept ;
+	rdfs:label "within basins" ;
+	skos:notation "basins" ;
+	dct:description "A depression of the sea floor more or less equidimensional in form and of very variable extent"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<roughlyOpen> a skos:Concept ;
+	rdfs:label "Roughly open (Low crops; occasional large obstacles, x/H > 20)" ;
+	skos:notation "roughlyOpen" ;
+	dct:description "Cultivated area with regular cover of low crops, or moderately open country with occasional obstacles (e.g. low hedges, single rows of trees, isolated farms) at relative horizontal distances of at least 20 obstacle heights. (zo 0.10)"@en	.

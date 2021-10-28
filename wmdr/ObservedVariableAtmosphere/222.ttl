@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<222> a skos:Concept ;
+	rdfs:label "Lead [Pb-210]" ;
+	skos:notation "222" ;
+	dct:description "IUPAC: lead-210, PubChem CID: 6328175, CAS Number: 14255-04-0"@en	.

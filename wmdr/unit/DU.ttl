@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<DU> a skos:Concept ;
+	rdfs:label "Dobson Unit" ;
+	skos:notation "DU" ;
+	dct:description "Unit of column abundance of ozone in the atmosphere. One Dobson unit is equivalent of 2.69E16 molecules of ozone per square centimeter. Alternatively, 1 Dobson unit corresponds to a layer of ozone 1E-5 m thick, if the ozone were held at standard temperature and pressure (273 K, 1 atm pressure). [https://glossary.ametsoc.org/wiki/Dobson_unit]"@en	.

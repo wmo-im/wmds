@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<chaotic> a skos:Concept ;
+	rdfs:label "Chaotic (City centre with high and low-rise buildings)" ;
+	skos:notation "chaotic" ;
+	dct:description "Centres of large towns with mixture of low-rise and high-rise buildings. Also irregular large forests with many clearings. (zo ≥ 2)"@en	.

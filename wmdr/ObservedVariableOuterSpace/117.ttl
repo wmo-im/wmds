@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<117> a skos:Concept ;
+	rdfs:label "Ionospheric Radio Absorption" ;
+	skos:notation "117" ;
+	dct:description "Attenuation of a radio wave passing through the lower ionosphere."@en	.

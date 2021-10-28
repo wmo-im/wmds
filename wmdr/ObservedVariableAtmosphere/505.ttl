@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<505> a skos:Concept ;
+	rdfs:label "t-C5H10 (trans-2-pentene)" ;
+	skos:notation "505" ;
+	dct:description "IUPAC: (E)-pent-2-ene, PubChem CID: 5326161, CAS Number: 109-68-2, in gas phase"@en	.

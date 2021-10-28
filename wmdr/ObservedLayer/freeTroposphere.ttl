@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<freeTroposphere> a skos:Concept ;
+	rdfs:label "Free troposphere" ;
+	skos:notation "freeTroposphere" ;
+	dct:description "Atmosphere above the planetary boundary layer, in which the effect of the earth's surface friction on the air motion is negligible (ca. 1 - 11 km altitude)"@en	.

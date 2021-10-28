@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<437> a skos:Concept ;
+	rdfs:label "Grab sampling" ;
+	skos:notation "437" ;
+	dct:description "A discrete grab (or spot) sample is taken at a selected location and depth. A depth- integrated grab sample is collected over the depth of the water column at a selected location and time (WMO Guide to Hydrological Practices, 2008)."@en	.

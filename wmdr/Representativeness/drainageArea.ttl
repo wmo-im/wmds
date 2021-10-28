@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<drainageArea> a skos:Concept ;
+	rdfs:label "drainage area" ;
+	skos:notation "drainageArea" ;
+	dct:description "An area (also known as 'catchment') having a common outlet for its surface runoff, in km2."@en	.

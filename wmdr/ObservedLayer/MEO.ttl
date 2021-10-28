@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<MEO> a skos:Concept ;
+	rdfs:label "Medium Earth orbit altitude range" ;
+	skos:notation "MEO" ;
+	dct:description "Altitude range of medium Earth orbiting (MEO) objects above low Earth orbit (altitude of 2,000 km above sea level) and below geosynchronous orbit (altitude of 35,786 km above sea level). (https://en.wikipedia.org/wiki/Medium_Earth_orbit)"@en	.

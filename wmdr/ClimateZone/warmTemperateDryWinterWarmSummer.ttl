@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<warmTemperateDryWinterWarmSummer> a skos:Concept ;
+	rdfs:label "Cwb" ;
+	skos:notation "warmTemperateDryWinterWarmSummer" ;
+	dct:description "Warm Temperate - Dry winter - Warm summer"@en	.

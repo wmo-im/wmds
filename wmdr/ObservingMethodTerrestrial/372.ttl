@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<372> a skos:Concept ;
+	rdfs:label "Estimation by energy budget" ;
+	skos:notation "372" ;
+	dct:description "The energy-budget method illustrates an application of the continuity equation written in terms of energy. The equation accounts for incoming and outgoing energy balanced by the amount of energy stored in the system (WMO Guide to Hydrological Practices, 2008)."@en	.

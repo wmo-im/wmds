@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12160> a skos:Concept ;
+	rdfs:label "Particle light hemispheric forward scattering coefficient" ;
+	skos:notation "12160" ;
+	dct:description "Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians."@en	.

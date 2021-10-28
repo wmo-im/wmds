@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<221> a skos:Concept ;
+	rdfs:label "Krypton [Kr-85]" ;
+	skos:notation "221" ;
+	dct:description "IUPAC: krypton-85, PubChem CID: 104816, CAS Number: 13983-27-2"@en	.

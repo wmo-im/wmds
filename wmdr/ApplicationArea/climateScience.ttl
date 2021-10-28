@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<climateScience> a skos:Concept ;
+	rdfs:label "Climate Science" ;
+	skos:notation "climateScience" ;
+	dct:description "This application area aims at coordinating international research to improve the understanding, analysis and prediction of the Earth System"@en	.

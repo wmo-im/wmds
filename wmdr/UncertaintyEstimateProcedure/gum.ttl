@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<gum> a skos:Concept ;
+	rdfs:label "GUM" ;
+	skos:notation "gum" ;
+	dct:description "Guide for the Expression of Uncertainty in Measurement (JCGM 100:2008)"@en	.

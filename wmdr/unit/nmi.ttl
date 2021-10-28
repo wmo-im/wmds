@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<nmi> a skos:Concept ;
+	rdfs:label "nautical mile" ;
+	skos:notation "nmi" ;
+	dct:description "Unit of Length, accepted for use with SI: 1 nmi = 1852 m"@en	.

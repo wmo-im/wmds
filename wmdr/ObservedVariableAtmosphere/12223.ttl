@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12223> a skos:Concept ;
+	rdfs:label "Neodymium [Nd-147]" ;
+	skos:notation "12223" ;
+	dct:description "IUPAC: neodymium-147, PubChem CID: 114848, CAS Number: 14269-74-0"@en	.

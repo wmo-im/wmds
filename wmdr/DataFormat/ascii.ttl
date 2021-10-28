@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ascii> a skos:Concept ;
+	rdfs:label "ASCII" ;
+	skos:notation "ascii" ;
+	dct:description "ASCII (American Standard Code for Information Interchange) is a character-encoding scheme used for text files. Plain text files are often called 'ASCII' files."@en	.

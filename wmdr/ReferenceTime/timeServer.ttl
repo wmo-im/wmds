@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<timeServer> a skos:Concept ;
+	rdfs:label "Time server (internet based)" ;
+	skos:notation "timeServer" ;
+	dct:description "A server computer that reads the actual time from a reference/atomic clock and distributes this information to its clients using a computer network. The time server may be a local network time server or an internet time server."@en	.

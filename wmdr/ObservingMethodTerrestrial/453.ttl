@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<453> a skos:Concept ;
+	rdfs:label "Electrical conductivity meter (EC meter)" ;
+	skos:notation "453" ;
+	dct:description "Typically, electrical conductivity meters have four electrodes made of platinum metal. An alternating current is applied to the outer pair of the electrodes. The potential between the inner pair is measured. Conductivity could in principle be determined using the distance between the electrodes and their surface area using Ohm's law but generally, for accuracy, a calibration is employed using electrolytes of well-known conductivity."@en	.

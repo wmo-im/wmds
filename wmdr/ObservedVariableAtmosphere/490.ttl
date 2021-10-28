@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<490> a skos:Concept ;
+	rdfs:label "CH3CH2OH (ethanol)" ;
+	skos:notation "490" ;
+	dct:description "IUPAC: ethanol, PubChem CID: 702, CAS Number: 64-17-5, in gas phase"@en	.

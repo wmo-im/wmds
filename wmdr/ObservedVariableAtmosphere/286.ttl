@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<286> a skos:Concept ;
+	rdfs:label "ClO (chlorine monoxide)" ;
+	skos:notation "286" ;
+	dct:description "IUPAC: n/a, PubChem CID: 166686, CAS Number: 14989-30-1, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12011> a skos:Concept ;
+	rdfs:label "Surface accumulation at a point" ;
+	skos:notation "12011" ;
+	dct:description "The mass added to the glacier at a point on its surface expressed over a stated period of time."@en	.

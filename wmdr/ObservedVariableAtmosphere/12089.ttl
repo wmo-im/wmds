@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12089> a skos:Concept ;
+	rdfs:label "C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)" ;
+	skos:notation "12089" ;
+	dct:description "IUPAC: 2-chloro-1,1,1,2-tetrafluoroethane, PubChem CID: 17822, CAS Number: 2837-89-0 , in gas phase"@en	.

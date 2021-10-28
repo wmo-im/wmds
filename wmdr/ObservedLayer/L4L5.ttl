@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<L4L5> a skos:Concept ;
+	rdfs:label "Lagrangian points L4, L5" ;
+	skos:notation "L4L5" ;
+	dct:description "The L4 and L5 points lie at the third corners of the two equilateral triangles in the plane of orbit whose common base is the line between the centers of the two masses, such that the point lies behind (L5) or ahead (L4) of the smaller mass with regard to its orbit around the larger mass. (https://en.wikipedia.org/wiki/Lagrangian_point#L4_and_L5_points)"@en	.

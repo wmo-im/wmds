@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<344> a skos:Concept ;
+	rdfs:label "Laser ranging" ;
+	skos:notation "344" ;
+	dct:description "Emission of a modulated beam of light in the visible spectrum to determine the distance to a target by comparing the phase information from the reflected beam."@en	.

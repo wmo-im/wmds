@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<bufr033020> a skos:Concept ;
+	rdfs:label "WMO BUFR table 0 33 020" ;
+	skos:notation "bufr033020" ;
+	dct:description "Quality flags are specified according to BUFR table 0 33 020 (quality flag URL: http://codes.wmo.int/bufr4/codeflag/0-33-020)"@en	.

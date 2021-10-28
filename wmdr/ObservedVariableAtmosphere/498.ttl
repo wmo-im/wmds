@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<498> a skos:Concept ;
+	rdfs:label "i-C4H8 (2-methylpropene, iso-butene)" ;
+	skos:notation "498" ;
+	dct:description "IUPAC: 2-methylprop-1-ene, PubChem CID: 8255, CAS Number: 115-11-7, in gas phase"@en	.

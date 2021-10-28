@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<middle> a skos:Concept ;
+	rdfs:label "Middle" ;
+	skos:notation "middle" ;
+	dct:description "Time stamps indicate the middle of a period beginning at the middle of the range described by this and the preceding time stamp and ending right before the middle of the range described by this and the following time stamp."@en	.

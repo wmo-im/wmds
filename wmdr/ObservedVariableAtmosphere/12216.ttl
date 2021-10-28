@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12216> a skos:Concept ;
+	rdfs:label "Caesium [Cs-137]" ;
+	skos:notation "12216" ;
+	dct:description "IUPAC: cesium-137, PubChem CID: 5486527, CAS Number: 10045-97-3"@en	.

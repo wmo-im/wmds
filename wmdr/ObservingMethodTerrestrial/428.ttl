@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<428> a skos:Concept ;
+	rdfs:label "Hydrostratigraphic correlation" ;
+	skos:notation "428" ;
+	dct:description "The integration of hydrogeological information collected from a network of individual wells, surface geophysical transects and geologic outcrops to formulate a large-scale, comprehensive understanding of the lateral extent and vertical nature of aquifers and confining beds in an area, referred to as the hydrogeological framework, relies on the process of correlating those data from different locations. Correlation, in this sense, can be defined as the demonstration of equivalency of units observed at different locations (WMO Guide to Hydrological Practices, 2008)."@en	.

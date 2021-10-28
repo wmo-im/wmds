@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<500> a skos:Concept ;
+	rdfs:label "i-C7H16 (2-methylhexane, isoheptane)" ;
+	skos:notation "500" ;
+	dct:description "IUPAC: 2-methylhexane, PubChem CID: 11582, CAS Number: 591-76-4, in gas phase"@en	.

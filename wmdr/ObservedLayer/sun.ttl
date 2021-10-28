@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<sun> a skos:Concept ;
+	rdfs:label "Solar surface and atmosphere" ;
+	skos:notation "sun" ;
+	dct:description "Surface of the Sun and layers above it, including the photosphere, chromosphere and corona."@en	.

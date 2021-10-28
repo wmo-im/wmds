@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<124> a skos:Concept ;
+	rdfs:label "foF2" ;
+	skos:notation "124" ;
+	dct:description "Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm-3): f=9*10^-3*sqrt(Ne)."@en	.

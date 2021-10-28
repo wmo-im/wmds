@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<argosKalman> a skos:Concept ;
+	rdfs:label "ARGOS Kalman" ;
+	skos:notation "argosKalman" ;
+	dct:description "Location determined using the Kalman filtering technique and the ARGOS communications satellite service. http://www.argos-system.org/web/en/393-faq-kalman.php."@en	.

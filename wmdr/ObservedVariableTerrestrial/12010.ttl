@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12010> a skos:Concept ;
+	rdfs:label "Glacier-wide mass balance" ;
+	skos:notation "12010" ;
+	dct:description "The result of all processes adding and removing mass from the glacier at its surface, expressed over a stated period of time and integrated over the entire glacier area"@en	.

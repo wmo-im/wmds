@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<CLIMATc> a skos:Concept ;
+	rdfs:label "CLIMAT(C)" ;
+	skos:notation "CLIMATc" ;
+	dct:description "Station for which monthly climatological means of surface elements are transmitted"@en	.

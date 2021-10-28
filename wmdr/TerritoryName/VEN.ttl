@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<VEN> a skos:Concept ;
+	rdfs:label "Venezuela, Bolivarian Republic of" ;
+	skos:notation "VEN" ;
+	dct:description "Venezuela, Bolivarian Republic of"@en	.

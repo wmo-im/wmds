@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12149> a skos:Concept ;
+	rdfs:label "Ångström exponent for particle light absorption" ;
+	skos:notation "12149" ;
+	dct:description "A measure of dependence of the particle light absorption coefficient on wavelength expressed in power law relationship."@en	.

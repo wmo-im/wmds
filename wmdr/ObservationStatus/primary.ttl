@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<primary> a skos:Concept ;
+	rdfs:label "Primary" ;
+	skos:notation "primary" ;
+	dct:description "The primary or official observation of the observed variable"@en	.

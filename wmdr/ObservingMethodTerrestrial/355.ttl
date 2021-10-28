@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<355> a skos:Concept ;
+	rdfs:label "Float gauge" ;
+	skos:notation "355" ;
+	dct:description "In this type of instrument, the rainfall is fed into a float chamber containing a light float. As the level of the water rises, the vertical movement of the float is transmitted by a suitable mechanism into the movement of the pen on the chart. By suitably adjusting the dimensions of the receiving funnel and the float chamber, any desired scale on the chart can be obtained (WMO, Guide to Hydrological Practices, 2008)."@en	.

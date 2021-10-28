@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<465> a skos:Concept ;
+	rdfs:label "C5H8 (cyclopentene)" ;
+	skos:notation "465" ;
+	dct:description "IUPAC: cyclopentene, PubChem CID: 8882, CAS Number: 142-29-0, in gas phase"@en	.

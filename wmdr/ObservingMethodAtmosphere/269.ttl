@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<269> a skos:Concept ;
+	rdfs:label "Lidar for temperature observations" ;
+	skos:notation "269" ;
+	dct:description "Light detection and ranging (Lidar) profiler for temperature measurements"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<atmosphericCompositionMonitoring> a skos:Concept ;
+	rdfs:label "Monitoring atmospheric composition" ;
+	skos:notation "atmosphericCompositionMonitoring" ;
+	dct:description "Applications related to evaluating and analysing changes (temporally and spatially) in atmospheric composition regionally and globally to support treaty monitoring, climatologies and re-analyses, assessing trends in composition and emissions/ fluxes, and to better understand processes, using data of controlled quality (and with less stringent time requirements (not needed in NRT)), and used in products such as Ozone and Greenhouse Gas Bulletins, and State/Health of the Atmosphere reports [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@en	.

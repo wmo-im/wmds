@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<385> a skos:Concept ;
+	rdfs:label "Graduated vertical or inclined staff gauge" ;
+	skos:notation "385" ;
+	dct:description "A staff (head) gauge is calibrated scale which is used to provide a visual indication of liquid level. When used on an inclined or sloped surface, a staff gauge is usually calibrated so that the indicated level is the true vertical level (Wikipedia, 2021)."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<greatDepth> a skos:Concept ;
+	rdfs:label "of great depth" ;
+	skos:notation "greatDepth" ;
+	dct:description "Between 1000 and 3000 m below mean sea level"@en	.

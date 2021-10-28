@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<trenches> a skos:Concept ;
+	rdfs:label "within trenches" ;
+	skos:notation "trenches" ;
+	dct:description "A long, narrow and deep depression of the sea floor with relatively steep sides"@en	.

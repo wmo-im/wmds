@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<11> a skos:Concept ;
+	rdfs:label "Gravity field" ;
+	skos:notation "11" ;
+	dct:description "Indicative of the statics and dynamics of the lithosphere and the mantle - Physical unit: [ mGal ] where : 1 Gal = 0.01 m s-2."@en	.

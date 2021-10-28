@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12120> a skos:Concept ;
+	rdfs:label "CHBrCl2 (bromodichloromethane)" ;
+	skos:notation "12120" ;
+	dct:description "IUPAC: bromo(dichloro)methane, PubChem CID: 6359, CAS Number: 75-27-4, in gas phase"@en	.

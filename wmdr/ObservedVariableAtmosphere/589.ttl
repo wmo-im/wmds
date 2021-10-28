@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<589> a skos:Concept ;
+	rdfs:label "C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)" ;
+	skos:notation "589" ;
+	dct:description "IUPAC: 1,2-dichloro-1,1,2,2-tetrafluoroethane, PubChem CID: 6429, CAS Number: 76-14-2"@en	.

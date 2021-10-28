@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<447> a skos:Concept ;
+	rdfs:label "C4H6O (2-methylprop-2-enal, methacrolein)" ;
+	skos:notation "447" ;
+	dct:description "IUPAC: 2-methylprop-2-enal, PubChem CID: 6562, CAS Number: 78-85-3, in gas phase"@en	.

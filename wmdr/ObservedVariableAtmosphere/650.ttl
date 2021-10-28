@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<650> a skos:Concept ;
+	rdfs:label "NO3- (nitrate), PM10" ;
+	skos:notation "650" ;
+	dct:description "IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, PM10"@en	.

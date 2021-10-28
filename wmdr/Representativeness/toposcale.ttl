@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<toposcale> a skos:Concept ;
+	rdfs:label "toposcale, local scale (100 m .. < 3 km)" ;
+	skos:notation "toposcale" ;
+	dct:description "An area or volume of 100 m to 3 km horizontal extent (for example, air pollution, tornadoes)."@en	.

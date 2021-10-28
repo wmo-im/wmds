@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12019> a skos:Concept ;
+	rdfs:label "C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)" ;
+	skos:notation "12019" ;
+	dct:description "IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, in gas phase"@en	.

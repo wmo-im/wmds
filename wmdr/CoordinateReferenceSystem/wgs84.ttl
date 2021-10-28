@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<wgs84> a skos:Concept ;
+	rdfs:label "WGS84" ;
+	skos:notation "wgs84" ;
+	dct:description "An Earth-centered, Earth-fixed terrestrial reference system and geodetic datum. Currently, WGS84 uses the EGM96 (Earth Gravitational Model 1996) geoid, revised in 2004."@en	.

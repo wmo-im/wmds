@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<518> a skos:Concept ;
+	rdfs:label "Heavy ion integral directional flux" ;
+	skos:notation "518" ;
+	dct:description "Flux density of heavy ions ranging from Helium to Iron."@en	.

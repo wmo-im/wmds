@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<441> a skos:Concept ;
+	rdfs:label "C3H4O2 (2-oxopropanal, methylglyoxal)" ;
+	skos:notation "441" ;
+	dct:description "IUPAC: 2-oxopropanal, PubChem CID: 880, CAS Number: 78-98-8, in gas phase"@en	.

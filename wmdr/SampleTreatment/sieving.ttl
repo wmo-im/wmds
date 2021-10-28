@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<sieving> a skos:Concept ;
+	rdfs:label "Sieving" ;
+	skos:notation "sieving" ;
+	dct:description "Sample is sieved before analysis"@en	.

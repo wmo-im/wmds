@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<537> a skos:Concept ;
+	rdfs:label "CHClF2 (chlorodifluoromethane, HCFC-22)" ;
+	skos:notation "537" ;
+	dct:description "IUPAC: chloro(difluoro)methane, PubChem CID: 6372, CAS Number: 75-45-6, in gas phase"@en	.

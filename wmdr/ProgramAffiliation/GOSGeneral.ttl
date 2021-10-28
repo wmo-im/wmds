@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<GOSGeneral> a skos:Concept ;
+	rdfs:label "GOS General" ;
+	skos:notation "GOSGeneral" ;
+	dct:description "No affiliation to other GOS Surface networks"@en	.

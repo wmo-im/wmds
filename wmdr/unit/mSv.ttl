@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mSv> a skos:Concept ;
+	rdfs:label "millisievert" ;
+	skos:notation "mSv" ;
+	dct:description "SI derived unit of equivalent dose (of ionizing radiation), SI base unit equivalent: 0.001 m2.s-2"@en	.

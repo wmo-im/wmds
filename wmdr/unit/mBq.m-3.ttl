@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mBq.m-3> a skos:Concept ;
+	rdfs:label "millibecquerels per cubic metre" ;
+	skos:notation "mBq.m-3" ;
+	dct:description "SI derived unit of volumetric radioactivity concentration, equal to 0.001 Bq.m-3"@en	.

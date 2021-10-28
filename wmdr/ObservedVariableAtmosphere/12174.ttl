@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12174> a skos:Concept ;
+	rdfs:label "Chlorine [Cl-38]" ;
+	skos:notation "12174" ;
+	dct:description "IUPAC: n/a, PubChem CID: 167013, CAS Number: 14158-34-0"@en	.

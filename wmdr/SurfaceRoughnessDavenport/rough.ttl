@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<rough> a skos:Concept ;
+	rdfs:label "Rough (High crops; scattered obstacles, 15 < x/H < 20)" ;
+	skos:notation "rough" ;
+	dct:description "Recently-developed 'young' landscape with high crops or crops of varying height, and scattered obstacles (e.g. dense shelterbelts, vineyards) at relative distances of about 15 obstacle heights. (zo 0.25)"@en	.

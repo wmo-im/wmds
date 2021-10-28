@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<452> a skos:Concept ;
+	rdfs:label "pH indicator" ;
+	skos:notation "452" ;
+	dct:description "A pH indicator is a halochromic chemical compound added in small amounts to a solution so the pH of the solution can be determined visually. Normally, the indicator causes the color of the solution to change depending on the pH (Wikipedia, 2021)."@en	.

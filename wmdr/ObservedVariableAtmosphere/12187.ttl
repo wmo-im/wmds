@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12187> a skos:Concept ;
+	rdfs:label "Gallium [Ga-67]" ;
+	skos:notation "12187" ;
+	dct:description "IUPAC: gallium-67, PubChem CID: 5464084, CAS Number: 14119-09-6"@en	.

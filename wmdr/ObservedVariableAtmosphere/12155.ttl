@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12155> a skos:Concept ;
+	rdfs:label "Hygroscopic particle size growth factor" ;
+	skos:notation "12155" ;
+	dct:description "A scaling factor describing the particle equivalent spherical size change as a function of relative humidity due to absorbing or evaporating water."@en	.

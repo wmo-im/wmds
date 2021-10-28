@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<628> a skos:Concept ;
+	rdfs:label "Snow cover extent" ;
+	skos:notation "628" ;
+	dct:description "The area of snow-covered ground, ice, or firn based on the fractional threshold used to define presence of snow."@en	.

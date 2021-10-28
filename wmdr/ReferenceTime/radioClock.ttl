@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<radioClock> a skos:Concept ;
+	rdfs:label "Radio clock" ;
+	skos:notation "radioClock" ;
+	dct:description "A radio controlled clock, which receives a radio signal that comes from a reference/atomic clock."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12018> a skos:Concept ;
+	rdfs:label "C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)" ;
+	skos:notation "12018" ;
+	dct:description "IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2, in gas phase"@en	.

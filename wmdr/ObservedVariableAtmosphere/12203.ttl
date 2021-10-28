@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12203> a skos:Concept ;
+	rdfs:label "Indium [In-111]" ;
+	skos:notation "12203" ;
+	dct:description "IUPAC: indium-111, PubChem CID: 5462099, CAS Number: 15750-15-9"@en	.

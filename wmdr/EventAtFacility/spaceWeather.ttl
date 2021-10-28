@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<spaceWeather> a skos:Concept ;
+	rdfs:label "Space weather" ;
+	skos:notation "spaceWeather" ;
+	dct:description "An event in outer space that has (or may have) impacted the observations"@en	.

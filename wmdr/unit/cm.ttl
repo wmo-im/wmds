@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<cm> a skos:Concept ;
+	rdfs:label "centimetre" ;
+	skos:notation "cm" ;
+	dct:description "Unit of length, equal to one hundredth of a metre (1E-2 m)"@en	.

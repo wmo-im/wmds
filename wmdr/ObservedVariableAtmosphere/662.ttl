@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<662> a skos:Concept ;
+	rdfs:label "C2H3O2- (CH3COO-, acetate), PM1" ;
+	skos:notation "662" ;
+	dct:description "IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, PM1"@en	.

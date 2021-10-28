@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12245> a skos:Concept ;
+	rdfs:label "Zooplankton biomass and diversity" ;
+	skos:notation "12245" ;
+	dct:description "Biomass expressed as weight by volume; and diversity of biomass expressed as number of species per unit sample."@en	.

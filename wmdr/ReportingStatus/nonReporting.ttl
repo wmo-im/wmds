@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<nonReporting> a skos:Concept ;
+	rdfs:label "Non-reporting" ;
+	skos:notation "nonReporting" ;
+	dct:description "The station is considered non-operational/non-reporting temporarily, but is expected to resume its operations/reporting after the temporary suspension."@en	.

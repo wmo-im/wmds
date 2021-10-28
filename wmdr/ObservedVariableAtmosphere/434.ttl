@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<434> a skos:Concept ;
+	rdfs:label "C2H2 (ethyne, acetylene)" ;
+	skos:notation "434" ;
+	dct:description "IUPAC: acetylene, PubChem CID: 6326, CAS Number: 74-86-2, in gas phase"@en	.

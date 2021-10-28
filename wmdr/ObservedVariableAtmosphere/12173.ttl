@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12173> a skos:Concept ;
+	rdfs:label "Sodium [Na-24]" ;
+	skos:notation "12173" ;
+	dct:description "IUPAC: sodium-24, PubChem CID: 6335498, CAS Number: 13982-04-2"@en	.

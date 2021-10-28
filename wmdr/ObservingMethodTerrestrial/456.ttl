@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<456> a skos:Concept ;
+	rdfs:label "Nephelometry, integrating" ;
+	skos:notation "456" ;
+	dct:description "The propensity of particles to scatter a light beam focused on them is used as a measure of turbidity in water. Turbidity measured this way uses an instrument called a nephelometer with the detector set up to the side of the light beam. More light reaches the detector if there are many small particles scattering the source beam than if there are few. The units of turbidity from a calibrated nephelometer are called Nephelometric Turbidity Units (NTU) (Wikipedia, 2021)."@en	.

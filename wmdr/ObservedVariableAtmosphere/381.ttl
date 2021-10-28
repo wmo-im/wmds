@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<381> a skos:Concept ;
+	rdfs:label "C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol" ;
+	skos:notation "381" ;
+	dct:description "IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in particle phase"@en	.

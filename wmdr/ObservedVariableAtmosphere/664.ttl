@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<664> a skos:Concept ;
+	rdfs:label "C2O4= (oxalate, ethanedioate), PM1" ;
+	skos:notation "664" ;
+	dct:description "IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM1"@en	.

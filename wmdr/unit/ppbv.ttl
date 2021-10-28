@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ppbv> a skos:Concept ;
+	rdfs:label "parts per billion by volume" ;
+	skos:notation "ppbv" ;
+	dct:description "Unit of volume fraction, equivalent to SI derived unit: mm3.m-3"@en	.

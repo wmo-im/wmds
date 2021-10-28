@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<512> a skos:Concept ;
+	rdfs:label "Alpha particles integral directional flux" ;
+	skos:notation "512" ;
+	dct:description "An alpha particle has positive charge and consists of two protons and two neutrons (the nucleus of a helium atom). Flux is the rate of flow through a reference surface, measured in particles per unit area. The directional flux is the flux limited to a certain solid angle as a function of the direction (pitch angle)."@en	.

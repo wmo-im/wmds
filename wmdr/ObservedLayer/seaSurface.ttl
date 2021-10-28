@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<seaSurface> a skos:Concept ;
+	rdfs:label "Sea surface" ;
+	skos:notation "seaSurface" ;
+	dct:description "Surface of the ocean, characterized by a cool skin layer (a few millimeters thick)"@en	.

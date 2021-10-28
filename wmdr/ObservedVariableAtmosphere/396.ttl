@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<396> a skos:Concept ;
+	rdfs:label "NO2 (nitrogen dioxide)" ;
+	skos:notation "396" ;
+	dct:description "IUPAC: n/a, PubChem CID: 3032552, CAS Number: 10102-44-0, in gas phase"@en	.

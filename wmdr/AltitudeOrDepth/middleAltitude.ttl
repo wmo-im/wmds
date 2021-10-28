@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<middleAltitude> a skos:Concept ;
+	rdfs:label "of middle altitude" ;
+	skos:notation "middleAltitude" ;
+	dct:description "Between 300 and 1000 m above mean sea level"@en	.

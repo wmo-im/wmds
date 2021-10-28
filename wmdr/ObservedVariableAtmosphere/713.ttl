@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<713> a skos:Concept ;
+	rdfs:label "Tl (Thallium), PM2.5" ;
+	skos:notation "713" ;
+	dct:description "IUPAC: thallium, PubChem CID: 5359464, CAS Number: 7440-28-0, in particle phase, PM2.5"@en	.

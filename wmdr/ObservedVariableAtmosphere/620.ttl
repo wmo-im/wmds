@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<620> a skos:Concept ;
+	rdfs:label "SO4= (sulfate), TSP" ;
+	skos:notation "620" ;
+	dct:description "IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, TSP"@en	.

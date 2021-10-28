@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mmHg> a skos:Concept ;
+	rdfs:label "millimetre of mercury" ;
+	skos:notation "mmHg" ;
+	dct:description "Unit of pressure, equal to 133.322387415 pascals"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<discrete> a skos:Concept ;
+	rdfs:label "Discrete" ;
+	skos:notation "discrete" ;
+	dct:description "Sampling is done at regular time intervals for certain sampling periods that are smaller than the time interval. Sampling is not integrating, i.e., parts of the medium escape observation."@en	.

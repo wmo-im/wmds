@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<534> a skos:Concept ;
+	rdfs:label "C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)" ;
+	skos:notation "534" ;
+	dct:description "IUPAC: 1,1-dichloro-1-fluoroethane, PubChem CID: 15586, CAS Number: 1717-00-6, in gas phase"@en	.

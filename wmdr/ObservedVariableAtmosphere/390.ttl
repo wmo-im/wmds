@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<390> a skos:Concept ;
+	rdfs:label "NH3 (Ammonia)" ;
+	skos:notation "390" ;
+	dct:description "IUPAC: azane, PubChem CID: 222, CAS Number: 7664-41-7, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12102> a skos:Concept ;
+	rdfs:label "C3H7NO3 (isopropyl nitrate)" ;
+	skos:notation "12102" ;
+	dct:description "IUPAC: Propan-2-yl nitrate, PubChem CID: 15575, CAS Number: 1712-64-7, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<728> a skos:Concept ;
+	rdfs:label "Volcanic ash particle mass concentration" ;
+	skos:notation "728" ;
+	dct:description "3D field of mass mixing ratio of volcanic ash"@en	.

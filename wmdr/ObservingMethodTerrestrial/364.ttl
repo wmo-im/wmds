@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<364> a skos:Concept ;
+	rdfs:label "Vertical radioisotope snow gauge" ;
+	skos:notation "364" ;
+	dct:description "A high energy source of gamma radiation (cobalt-60 is frequently used for this purpose because of its high gamma energy and long half-life of 5.25 years), contained in a lead shield, is placed so that the upper surface of the shield is on the same level as the ground surface, and the beams of gamma rays are directed on the radiation detector above the snow. The detector is a Geiger–Müller or scintillation counter. The impulses from the counter are transmitted to a scalar or, in the case of continuous recording, to an integrator and recorder (WMO, Guide to Hydrological Practices, 2008)."@en	.

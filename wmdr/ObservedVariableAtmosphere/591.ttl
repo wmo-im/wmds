@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<591> a skos:Concept ;
+	rdfs:label "C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)" ;
+	skos:notation "591" ;
+	dct:description "IUPAC: 1-chloro-1,1,2,2,2-pentafluoroethane, PubChem CID: 6430, CAS Number: 76-15-3, in gas phase"@en	.

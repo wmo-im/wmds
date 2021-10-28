@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<kt> a skos:Concept ;
+	rdfs:label "knot" ;
+	skos:notation "kt" ;
+	dct:description "Unit of speed, accepted for use with SI: 1 kt = 1 nmi/h = (1852/3600) m.s-1"@en	.

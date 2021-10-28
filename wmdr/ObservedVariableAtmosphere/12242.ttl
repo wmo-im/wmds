@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12242> a skos:Concept ;
+	rdfs:label "Gold [Au-198]" ;
+	skos:notation "12242" ;
+	dct:description "IUPAC: gold-198, PubChem CID: 66274, CAS Number: 10043-49-9"@en	.

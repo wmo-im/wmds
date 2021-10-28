@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<638> a skos:Concept ;
+	rdfs:label "K+ (potassium), PM10" ;
+	skos:notation "638" ;
+	dct:description "IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in particle phase, PM10"@en	.

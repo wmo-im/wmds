@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<330> a skos:Concept ;
+	rdfs:label "Freezing level height in clouds" ;
+	skos:notation "330" ;
+	dct:description "Height of the atmospheric layer in cloud where liquid-solid states transform into each other"@en	.

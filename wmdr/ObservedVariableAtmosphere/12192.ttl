@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12192> a skos:Concept ;
+	rdfs:label "Strontium [Sr-91]" ;
+	skos:notation "12192" ;
+	dct:description "IUPAC: strontium-91, PubChem CID: 6337043, CAS Number: 14331-91-0"@en	.

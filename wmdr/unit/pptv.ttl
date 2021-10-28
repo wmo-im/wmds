@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<pptv> a skos:Concept ;
+	rdfs:label "parts per trillion by volume" ;
+	skos:notation "pptv" ;
+	dct:description "Unit of volume fraction, equivalent to SI derived unit: um3.cm-3"@en	.

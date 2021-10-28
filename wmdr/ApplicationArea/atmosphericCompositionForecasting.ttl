@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<atmosphericCompositionForecasting> a skos:Concept ;
+	rdfs:label "Forecasting atmospheric composition" ;
+	skos:notation "atmosphericCompositionForecasting" ;
+	dct:description "Applications from global to regional scales (with horizontal resolutions similar to global NWP (~10 km and coarser) with stringent timeliness requirements (NRT) to support operations such as sand and dust storm and chemical weather forecasts [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf]"@en	.

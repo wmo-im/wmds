@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<level0> a skos:Concept ;
+	rdfs:label "Level 0" ;
+	skos:notation "level0" ;
+	dct:description "CIMO: Analogue/digital electric signals. CEOS: Physical information: Reconstructed unprocessed instrument data at full space time resolution with all available supplemental information to be used in subsequent processing (e.g. ephemeris, health and safety) appended."@en	.

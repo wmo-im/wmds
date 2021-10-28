@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<440> a skos:Concept ;
+	rdfs:label "C3H4O (prop-2-enal, acrolein)" ;
+	skos:notation "440" ;
+	dct:description "IUPAC: prop-2-enal, PubChem CID: 7847, CAS Number: 107-02-8, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<dPa.s-1> a skos:Concept ;
+	rdfs:label "decipascals per second (microbar per second)" ;
+	skos:notation "dPa.s-1" ;
+	dct:description "SI derived unit of time derivative of pressure, pressure tendency, equal to 0.1 Pa.s-1"@en	.

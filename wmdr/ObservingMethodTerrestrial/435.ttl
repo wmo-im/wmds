@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<435> a skos:Concept ;
+	rdfs:label "Orifice discharge measurement" ;
+	skos:notation "435" ;
+	dct:description "An orifice is an opening in a plate of specified diameter and beveled-edge confi guration that is fixed, usually by a flange, over the end of a horizontal discharge pipe (Figure I.6.8). The diameter of the orifice should be smaller than the diameter of the pipe. The water flowing through the discharge pipe is allowed to freely exit through the orifice. As the orifice somewhat restricts the flow, a back pressure results that is proportional to the flow. This pressure is measured, usually by direct measurement of a manometer tube, located about three pipe diameters upstream of the orifice and at the centre line of the pipe. The measured pressure value, the discharge pipe diameter and the orifice diameter are used to enter an “orifice table” to determine the flow. These tables and the specific requirements for the design of the discharge pipe and orifice can be found in ISO 5167-2 (2003) (WMO Guide to Hydrological Practices, 2008)."@en	.

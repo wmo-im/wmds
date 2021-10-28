@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<541> a skos:Concept ;
+	rdfs:label "I- (iodide)" ;
+	skos:notation "541" ;
+	dct:description "IUPAC: iodide, PubChem CID: 30165, CAS Number: 20461-54-5, in total deposition"@en	.

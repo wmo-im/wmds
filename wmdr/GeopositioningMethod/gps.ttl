@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<gps> a skos:Concept ;
+	rdfs:label "GPS" ;
+	skos:notation "gps" ;
+	dct:description "Location determined using the Global Positioning System. http://www.gps.gov/"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<gpm> a skos:Concept ;
+	rdfs:label "geopotential metre" ;
+	skos:notation "gpm" ;
+	dct:description "The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)"@en	.

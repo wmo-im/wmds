@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<t.ha-1> a skos:Concept ;
+	rdfs:label "(metric) ton per hectare" ;
+	skos:notation "t.ha-1" ;
+	dct:description "SI derived unit of area density, equal to 0.1 kg.m-2"@en	.

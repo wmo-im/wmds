@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<96> a skos:Concept ;
+	rdfs:label "Coastal sea level (tide)" ;
+	skos:notation "96" ;
+	dct:description "Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)"@en	.

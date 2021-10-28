@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<325> a skos:Concept ;
+	rdfs:label "Aerosol optical depth, TSP" ;
+	skos:notation "325" ;
+	dct:description "The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km]."@en	.

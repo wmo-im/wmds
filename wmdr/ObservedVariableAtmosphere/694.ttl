@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<694> a skos:Concept ;
+	rdfs:label "Fe (Iron), TSP" ;
+	skos:notation "694" ;
+	dct:description "IUPAC: iron, PubChem CID: 23925, CAS Number: 7439-89-6, in particle phase, TSP"@en	.

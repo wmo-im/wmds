@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<158> a skos:Concept ;
+	rdfs:label "Solar velocity fields" ;
+	skos:notation "158" ;
+	dct:description "Map of 3D velocity of particles of the Solar atmosphere, significant of the Sun interior."@en	.

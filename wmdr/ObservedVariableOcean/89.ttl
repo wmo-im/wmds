@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<89> a skos:Concept ;
+	rdfs:label "Water-leaving spectral radiance" ;
+	skos:notation "89" ;
+	dct:description "Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area ,per wavelength and per solid angle"@en	.

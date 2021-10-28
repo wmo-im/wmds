@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<133> a skos:Concept ;
+	rdfs:label "Radio-waves" ;
+	skos:notation "133" ;
+	dct:description "Travelling radio-waves of solar, galactic and extragalactic origin, entering the Earth's environment."@en	.

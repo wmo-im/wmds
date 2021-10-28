@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<674> a skos:Concept ;
+	rdfs:label "Al (Aluminium), TSP" ;
+	skos:notation "674" ;
+	dct:description "IUPAC: aluminium, PubChem CID: 5359268, CAS Number: 7429-90-5, in particle phase, TSP"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<668> a skos:Concept ;
+	rdfs:label "CH3O3S- (methanesulfonate), TSP" ;
+	skos:notation "668" ;
+	dct:description "IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, TSP"@en	.

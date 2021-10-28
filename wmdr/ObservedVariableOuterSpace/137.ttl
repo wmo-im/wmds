@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<137> a skos:Concept ;
+	rdfs:label "Solar EUV image" ;
+	skos:notation "137" ;
+	dct:description "Images of the Sun in the Extreme Ultra-Violet (EUV) wavelengths in order to identify features such as filaments, active regions and coronal holes."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mon> a skos:Concept ;
+	rdfs:label "month" ;
+	skos:notation "mon" ;
+	dct:description "Unit of time, equivalent to 28-31 days"@en	.

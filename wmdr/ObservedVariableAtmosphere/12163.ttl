@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12163> a skos:Concept ;
+	rdfs:label "Mixed layer height" ;
+	skos:notation "12163" ;
+	dct:description "Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<413> a skos:Concept ;
+	rdfs:label "Evaporation method" ;
+	skos:notation "413" ;
+	dct:description "Sediment is allowed to settle for 2-3 days, then the water is carefully drained off and the remaining sediment is oven-dried at 110°C and weighted (WMO Manual to Hydrological Practices, 2008)"@en	.

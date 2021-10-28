@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<seaMounts> a skos:Concept ;
+	rdfs:label "within sea mounts" ;
+	skos:notation "seaMounts" ;
+	dct:description "An isolated or comparatively isolated elevation rising 1 000 meters or more from the sea floor and of limited extent across the summit"@en	.

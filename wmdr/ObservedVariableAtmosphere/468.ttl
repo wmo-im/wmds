@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<468> a skos:Concept ;
+	rdfs:label "C6H12 (cyclohexane)" ;
+	skos:notation "468" ;
+	dct:description "IUPAC: cyclohexane, PubChem CID: 8078, CAS Number: 110-82-7, in gas phase"@en	.

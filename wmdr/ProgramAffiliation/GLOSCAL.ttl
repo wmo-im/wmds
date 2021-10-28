@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<GLOSCAL> a skos:Concept ;
+	rdfs:label "GLOSCAL" ;
+	skos:notation "GLOSCAL" ;
+	dct:description "GLOSCAL is a French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."@en	.

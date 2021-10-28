@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<PBL> a skos:Concept ;
+	rdfs:label "Planetary boundary layer" ;
+	skos:notation "PBL" ;
+	dct:description "Bottom layer of the troposphere, also called atmospheric boundary layer, that is in contact with the surface of the earth (http://glossary.ametsoc.org/wiki/Atmospheric_boundary_layer). The planetary boundary layer includes the surface boundary layer. (ca. 0 - 3000 meters altitude)"@en	.

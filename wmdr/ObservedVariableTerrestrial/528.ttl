@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<528> a skos:Concept ;
+	rdfs:label "Soil moisture at surface" ;
+	skos:notation "528" ;
+	dct:description "Fractional content of water in a volume of wet soil. Surface layer (upper few centimetres)."@en	.

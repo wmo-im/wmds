@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<dm> a skos:Concept ;
+	rdfs:label "decimetre" ;
+	skos:notation "dm" ;
+	dct:description "SI derived Unit of length, equal to one tenth of a metre (1E-1 m)"@en	.

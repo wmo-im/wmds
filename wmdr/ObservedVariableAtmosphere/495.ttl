@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<495> a skos:Concept ;
+	rdfs:label "c-C4H8 (cis-2-butene)" ;
+	skos:notation "495" ;
+	dct:description "IUPAC: (Z)-but-2-ene, PubChem CID: 5287573, CAS Number: 590-18-1, in gas phase"@en	.

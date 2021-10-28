@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<galileo> a skos:Concept ;
+	rdfs:label "GALILEO" ;
+	skos:notation "galileo" ;
+	dct:description "Location determined using the European GALILEO global navigation satellite system. http://galileognss.eu/"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12115> a skos:Concept ;
+	rdfs:label "C2H2Cl2 ((E)-1,2-dichloroethene, trans-1,2-dichloroethene)" ;
+	skos:notation "12115" ;
+	dct:description "IUPAC: (E)-1,2-dichloroethene, PubChem CID: 638186, CAS Number: 156-60-5, in gas phase"@en	.

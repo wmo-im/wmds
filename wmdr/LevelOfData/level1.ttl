@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<level1> a skos:Concept ;
+	rdfs:label "Level I" ;
+	skos:notation "level1" ;
+	dct:description "CIMO: Level I data (Primary Data): in general, are instrument readings expressed in appropriate physical units, and referred to Earth geographical coordinates. They require conversion to the normal meteorological variables (identified in Part I, Chapter 1). Level I data themselves are in many cases obtained from the processing of electrical signals such as voltages, referred to as raw data. Examples of these data are satellite radiances and water-vapour pressure, positions of constant-level balloons, etc. but not raw telemetry signals. Level I data still require conversion to the meteorological parameters specified in the data requirements. CEOS: Physical information: Unpacked, reformatted level 0 data, with all supplemental information to be used in subsequent processing appended. Optional radiometric and geometric correction applied to produce parameters in physical units. Data generally presented as full time/space resolution. A wide variety of sub level products are possible."@en	.

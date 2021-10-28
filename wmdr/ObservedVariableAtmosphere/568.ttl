@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<568> a skos:Concept ;
+	rdfs:label "NH4+ (ammonium)" ;
+	skos:notation "568" ;
+	dct:description "IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in total deposition"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<562> a skos:Concept ;
+	rdfs:label "CHF3 (trifluoromethane, HFC-23)" ;
+	skos:notation "562" ;
+	dct:description "IUPAC: fluoroform, PubChem CID: 6373, CAS Number: 75-46-7, in gas phase"@en	.

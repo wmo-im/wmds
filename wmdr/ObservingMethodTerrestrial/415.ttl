@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<415> a skos:Concept ;
+	rdfs:label "Displacement method" ;
+	skos:notation "415" ;
+	dct:description "The displacement method involves determining the difference in weight between a sample of sediment and water and an equal volume of clear water. The dry weight of sediment is computed by the following formula: W_s = k (W_ws - W_w), where k = q_s/(q-q_s), in which W_s is the weight of sediment to be determined in grams; W_ws is the weight of the specific gravity flask plus the weight of sediment water mixture in grams; W_w is the weight of the specific gravity flask plus the weight of clear water with volume and temperature equal to that of the sediment-water mixture; during weighing the water temperature should be constant; q_s is density of sediment particles; q is density of water; during weighing the water temperature should be constant (WMO Manual on Operational Methods for the Measurement of Sediment Transport, 1989, WMO No. 686)."@en	.

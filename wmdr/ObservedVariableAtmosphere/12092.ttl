@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12092> a skos:Concept ;
+	rdfs:label "C3H8O (1-propanol)" ;
+	skos:notation "12092" ;
+	dct:description "IUPAC: Propan-1-ol, PubChem CID: 1031, CAS Number: 71-23-8, in gas phase"@en	.

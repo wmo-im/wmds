@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<333> a skos:Concept ;
+	rdfs:label "CBrF3 (bromotrifluoromethane, Halon 1301)" ;
+	skos:notation "333" ;
+	dct:description "IUPAC: bromo(trifluoro)methane, PubChem CID: 6384, CAS Number: 75-63-8, in gas phase"@en	.

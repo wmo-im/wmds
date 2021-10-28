@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<369> a skos:Concept ;
+	rdfs:label "Blotting technique" ;
+	skos:notation "369" ;
+	dct:description "A number of filter papers are weighed both before and after being thoroughly pressed against leaves (WMO, Guide to Hydrological Practices, 2008)."@en	.

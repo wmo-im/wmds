@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<358> a skos:Concept ;
+	rdfs:label "Fixed container snow gauge" ;
+	skos:notation "358" ;
+	dct:description "The depth of snow is measured in a fixed container of uniform cross-section after the snow has been levelled without being compressed. The container should be well above the average snow level (WMO, Guide to Hydrological Practices, 2008)."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<277> a skos:Concept ;
+	rdfs:label "Colorimetry (sodium salicylate method for nitrate)" ;
+	skos:notation "277" ;
+	dct:description ""@en	.

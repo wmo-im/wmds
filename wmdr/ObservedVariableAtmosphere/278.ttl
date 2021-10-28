@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<278> a skos:Concept ;
+	rdfs:label "CH2Cl2 (dichloromethane)" ;
+	skos:notation "278" ;
+	dct:description "IUPAC: dichloromethane, PubChem CID: 6344, CAS Number: 75-09-2, in gas phase"@en	.

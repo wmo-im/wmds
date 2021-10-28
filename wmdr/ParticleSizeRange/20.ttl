@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<20> a skos:Concept ;
+	rdfs:label "Aitken mode" ;
+	skos:notation "20" ;
+	dct:description "Particles with diameter from 0.01 to 0.1 µm (Aitken mode), sizing method defined separately or by context"@en	.

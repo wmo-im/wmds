@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<481> a skos:Concept ;
+	rdfs:label "C7H6O (benzene carbaldehyde)" ;
+	skos:notation "481" ;
+	dct:description ""@en	.

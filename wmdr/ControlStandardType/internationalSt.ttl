@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<internationalSt> a skos:Concept ;
+	rdfs:label "International Standard" ;
+	skos:notation "internationalSt" ;
+	dct:description "Measurement standard recognized by signatories to an international agreement and intended to serve worldwide. https://www.wmo.int/pages/prog/www/IMOP/publications/CIMO-Guide/Prelim_2018_ed/8_I_1_en_MR_clean.pdf"@en	.

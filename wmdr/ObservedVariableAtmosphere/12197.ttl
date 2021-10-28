@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12197> a skos:Concept ;
+	rdfs:label "Molybdenum [Mo-99]" ;
+	skos:notation "12197" ;
+	dct:description "IUPAC: molybdenum-99, PubChem CID: 104976, CAS Number: 14119-15-4"@en	.

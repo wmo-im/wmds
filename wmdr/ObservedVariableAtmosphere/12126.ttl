@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12126> a skos:Concept ;
+	rdfs:label "C8H6 (ethynylbenzene)" ;
+	skos:notation "12126" ;
+	dct:description "IUPAC: ethynylbenzene, PubChem CID: 10821, CAS Number: 536-74-3, in gas phase"@en	.

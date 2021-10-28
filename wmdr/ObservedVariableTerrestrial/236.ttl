@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<236> a skos:Concept ;
+	rdfs:label "Land cover" ;
+	skos:notation "236" ;
+	dct:description "Processed from land surface imagery by assigning identified cluster(s) within a given area to specific classes of objects - Accuracy expressed as number of classes. Actually [ classes-1 ] is used, so that smaller figure corresponds to better performance, as usual."@en	.

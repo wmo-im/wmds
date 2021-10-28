@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<443> a skos:Concept ;
+	rdfs:label "C3H6O (acetone, propanone)" ;
+	skos:notation "443" ;
+	dct:description "IUPAC: propan-2-one, PubChem CID: 180, CAS Number: 67-64-1, in gas phase"@en	.

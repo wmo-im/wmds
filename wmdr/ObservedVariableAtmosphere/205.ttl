@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<205> a skos:Concept ;
+	rdfs:label "H2 (hydrogen molecule)" ;
+	skos:notation "205" ;
+	dct:description "IUPAC: molecular hydrogen, PubChem CID: 783, CAS Number: 1333-74-0, in gas phase"@en	.

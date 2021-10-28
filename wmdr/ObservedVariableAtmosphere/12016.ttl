@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12016> a skos:Concept ;
+	rdfs:label "Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)" ;
+	skos:notation "12016" ;
+	dct:description "IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase"@en	.

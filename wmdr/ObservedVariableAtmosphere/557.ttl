@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<557> a skos:Concept ;
+	rdfs:label "C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236ea)" ;
+	skos:notation "557" ;
+	dct:description "IUPAC: 1,1,1,2,3,3-hexafluoropropane, PubChem CID: 79009, CAS Number: 431-63-0, in gas phase"@en	.

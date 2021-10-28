@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<445> a skos:Concept ;
+	rdfs:label "C3H8 (propane)" ;
+	skos:notation "445" ;
+	dct:description "IUPAC: propane, PubChem CID: 6334, CAS Number: 74-98-6, in gas phase"@en	.

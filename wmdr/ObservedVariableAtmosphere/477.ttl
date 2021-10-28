@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<477> a skos:Concept ;
+	rdfs:label "C6Hn, n={14, 12} (sum of 3-methylpentane and cyclohexane)" ;
+	skos:notation "477" ;
+	dct:description "sum of 3-methylpentane and cyclohexane, in gas phase"@en	.

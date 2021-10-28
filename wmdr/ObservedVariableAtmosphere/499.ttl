@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<499> a skos:Concept ;
+	rdfs:label "i-C5H12 (2-methylbutane, iso-pentane)" ;
+	skos:notation "499" ;
+	dct:description "IUPAC: 2-methylbutane, PubChem CID: 6556, CAS Number: 78-78-4, in gas phase"@en	.

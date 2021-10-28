@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12178> a skos:Concept ;
+	rdfs:label "Chromium [Cr-51]" ;
+	skos:notation "12178" ;
+	dct:description "IUPAC: chromium-51, PubChem CID: 104786, CAS Number: 14392-02-0"@en	.

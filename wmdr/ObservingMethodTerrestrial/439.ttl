@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<439> a skos:Concept ;
+	rdfs:label "Flow-proportional sampling" ;
+	skos:notation "439" ;
+	dct:description "A flow-proportional composite is obtained by continuous pumping at a rate proportional to the flow, mixing equal volumes of water collected at time intervals that are inversely proportional to the rate of fl ow, or by mixing volumes of water proportional to the flow collected at regular time intervals (WMO Guide to Hydrological Practices, 2008)."@en	.

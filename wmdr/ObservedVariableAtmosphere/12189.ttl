@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12189> a skos:Concept ;
+	rdfs:label "Strontium [Sr-85]" ;
+	skos:notation "12189" ;
+	dct:description "IUPAC: strontium-85, PubChem CID: 5464271, CAS Number: 13967-73-2"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<193> a skos:Concept ;
+	rdfs:label "CH4 (methane, C-13)" ;
+	skos:notation "193" ;
+	dct:description "IUPAC: methane C-13, PubChem CID: 105026, CAS Number: 14762-74-4, in gas phase"@en	.

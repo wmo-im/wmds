@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12093> a skos:Concept ;
+	rdfs:label "C3H8O (2-propanol)" ;
+	skos:notation "12093" ;
+	dct:description "IUPAC: Propan-2-ol, PubChem CID: 3776, CAS Number: 67-63-0, in gas phase"@en	.

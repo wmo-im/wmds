@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<10> a skos:Concept ;
+	rdfs:label "Geomagnetic field" ;
+	skos:notation "10" ;
+	dct:description "Magnitude and direction of the 3D magnetic field on the surface of Earth and within the magnetosphere (i.e., in low-Earth orbit and in geosynchronous orbit)."@en	.

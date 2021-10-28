@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<MOCCAGER> a skos:Concept ;
+	rdfs:label "MOCCA-GER" ;
+	skos:notation "MOCCAGER" ;
+	dct:description "Monitoring the Oceans and Climate Change with Argo – Germany"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12114> a skos:Concept ;
+	rdfs:label "C2H2Cl2 ((Z)-1,2-dichloroethene, cis-1,2-dichloroethene)" ;
+	skos:notation "12114" ;
+	dct:description "IUPAC: (Z)-1,2-dichloroethene, PubChem CID: 643833, CAS Number: 156-59-2, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<92> a skos:Concept ;
+	rdfs:label "Sea surface salinity" ;
+	skos:notation "92" ;
+	dct:description "Salinity of sea water in the surface layer (upper ~1 m if observed in MW)"@en	.

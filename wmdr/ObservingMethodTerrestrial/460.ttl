@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<460> a skos:Concept ;
+	rdfs:label "BOD test, dilution method" ;
+	skos:notation "460" ;
+	dct:description "A sample is pipetted into a BOD bottle containing aerated dilution water. The dissolved oxygen (DO) content is determined and recorded and the bottle is incubated in the dark for five days at 20°C. At the end of five days, the final DO content is determined and the difference between the final DO reading and the initial DO reading is calculated. The decrease in DO is corrected for sample dilution, and represents the biochemical oxygen demand of the sample (www.watereducation.org, 2021)."@en	.

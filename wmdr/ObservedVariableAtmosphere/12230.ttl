@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12230> a skos:Concept ;
+	rdfs:label "Lead [Pb-212]" ;
+	skos:notation "12230" ;
+	dct:description "IUPAC: lead-212, PubChem CID: 6335491, CAS Number: 15092-94-1"@en	.

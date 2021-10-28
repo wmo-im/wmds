@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<334> a skos:Concept ;
+	rdfs:label "C13H10 (9H-fluorene, fluorene), in air" ;
+	skos:notation "334" ;
+	dct:description "IUPAC: 9H-fluorene, PubChem CID: 6853, CAS Number: 86-73-7, in gas phase"@en	.

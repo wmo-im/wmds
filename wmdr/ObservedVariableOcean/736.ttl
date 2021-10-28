@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<736> a skos:Concept ;
+	rdfs:label "pCO2 air-sea flux" ;
+	skos:notation "736" ;
+	dct:description "Flux of CO2 from the ocean into the atmosphere"@en	.

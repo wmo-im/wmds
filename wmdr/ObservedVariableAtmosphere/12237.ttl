@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12237> a skos:Concept ;
+	rdfs:label "Uranium [U-238]" ;
+	skos:notation "12237" ;
+	dct:description "IUPAC: uranium-238, PubChem CID: n/a, CAS Number: n/a"@en	.

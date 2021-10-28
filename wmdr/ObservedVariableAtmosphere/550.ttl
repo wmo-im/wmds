@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<550> a skos:Concept ;
+	rdfs:label "Type of cloud" ;
+	skos:notation "550" ;
+	dct:description "Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."@en	.

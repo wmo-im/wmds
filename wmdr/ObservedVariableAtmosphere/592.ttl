@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<592> a skos:Concept ;
+	rdfs:label "CCl2F2 (dichlorodifluoromethane, CFC-12)" ;
+	skos:notation "592" ;
+	dct:description "IUPAC: dichloro(difluoro)methane, PubChem CID: 6391, CAS Number: 75-71-8, in gas phase"@en	.

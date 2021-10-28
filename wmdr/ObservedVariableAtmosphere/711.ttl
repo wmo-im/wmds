@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<711> a skos:Concept ;
+	rdfs:label "Sr (Strontium), PM2.5" ;
+	skos:notation "711" ;
+	dct:description "IUPAC: strontium, PubChem CID: 5359327, CAS Number: 7440-24-6, in particle phase, PM2.5"@en	.

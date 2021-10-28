@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12123> a skos:Concept ;
+	rdfs:label "C5H4O2 (furfural)" ;
+	skos:notation "12123" ;
+	dct:description "IUPAC: furan-2-carbaldehyde, PubChem CID: 7362, CAS Number: 98-01-1, in gas phase"@en	.

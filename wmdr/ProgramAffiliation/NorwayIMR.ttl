@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<NorwayIMR> a skos:Concept ;
+	rdfs:label "NORWAY-IMR" ;
+	skos:notation "NorwayIMR" ;
+	dct:description "Institute of Marine Research Drifting Buoy Program"@en	.

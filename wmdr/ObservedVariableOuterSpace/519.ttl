@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<519> a skos:Concept ;
+	rdfs:label "Proton differential directional flux" ;
+	skos:notation "519" ;
+	dct:description "Flux density energy spectrum of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."@en	.

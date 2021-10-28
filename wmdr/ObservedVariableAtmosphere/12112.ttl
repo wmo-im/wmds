@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12112> a skos:Concept ;
+	rdfs:label "C4H6O (crotonaldehyde, 2-butenal)" ;
+	skos:notation "12112" ;
+	dct:description "IUPAC: But-2-enal, PubChem CID: 20138, CAS Number: 4170-30-3, in gas phase"@en	.

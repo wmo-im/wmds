@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<288> a skos:Concept ;
+	rdfs:label "HCl (hydrochloric acid)" ;
+	skos:notation "288" ;
+	dct:description "IUPAC: chlorane, PubChem CID: 313, CAS Number: 7647-01-0, in gas phase"@en	.

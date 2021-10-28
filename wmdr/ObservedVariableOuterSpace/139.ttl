@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<139> a skos:Concept ;
+	rdfs:label "Solar Lyman-alpha flux" ;
+	skos:notation "139" ;
+	dct:description "Solar flux in the Hydrogen Lyman-alpha transition wavelength (121.6 nm)."@en	.

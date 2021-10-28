@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<352> a skos:Concept ;
+	rdfs:label "Single-beam echo sounder" ;
+	skos:notation "352" ;
+	dct:description "Single-beam bathymetry measures the water depth directly under the boat. Single-beam surveys are generally used for smaller water bodies (USGS.gov, 2021)."@en	.

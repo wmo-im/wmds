@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<421> a skos:Concept ;
+	rdfs:label "CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)" ;
+	skos:notation "421" ;
+	dct:description "IUPAC: tetrafluoromethane, PubChem CID: 6393, CAS Number: 75-73-0, in gas phase"@en	.

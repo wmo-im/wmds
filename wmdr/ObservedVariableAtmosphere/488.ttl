@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<488> a skos:Concept ;
+	rdfs:label "C9H12 (1,3,5-trimethylbenzene)" ;
+	skos:notation "488" ;
+	dct:description "IUPAC: 1,3,5-trimethylbenzene, PubChem CID: 7947, CAS Number: 108-67-8, in gas phase"@en	.

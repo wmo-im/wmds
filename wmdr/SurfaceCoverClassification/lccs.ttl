@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<lccs> a skos:Concept ;
+	rdfs:label "Surface cover types (LCCS)" ;
+	skos:notation "lccs" ;
+	dct:description "FAO/UNEP land cover classification scheme (LCCS), a comprehensive, standardized a priori classification system, independent of the scale or means used to map. The system can be used for any land cover classification initiative anywhere in the world, using a set of independent diagnostic criteria that allow correlation with existing classifications and legends."@en	.

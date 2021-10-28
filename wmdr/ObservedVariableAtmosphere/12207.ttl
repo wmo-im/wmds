@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12207> a skos:Concept ;
+	rdfs:label "Antimony [Sb-125]" ;
+	skos:notation "12207" ;
+	dct:description "IUPAC: antimony-125, PubChem CID: 6335317, CAS Number: 14234-35-6"@en	.

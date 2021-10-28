@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<448> a skos:Concept ;
+	rdfs:label "Multiple sampler" ;
+	skos:notation "448" ;
+	dct:description "A multiple sampler permits the simultaneous collection of several samples of equal or different volumes at a site. Each sample is collected in an individual bottle. When the samples are of equal volume, information concerning the instantaneous variability between the replicate samples can be obtained. The sampler may be altered to accommodate different sizes and numbers of bottles according to the requirements of specific programmes. This may be done by changing cup sizes, length of cup sleeves and the configuration and size of openings in the clear acrylic top (WMO Guide to Hydrological Practices, 2008)."@en	.

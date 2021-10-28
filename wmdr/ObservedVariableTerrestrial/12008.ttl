@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12008> a skos:Concept ;
+	rdfs:label "Water equivalent of snowfall" ;
+	skos:notation "12008" ;
+	dct:description "Vertical depth of the water that would be obtained if the freshly fallen snow melted completely, which equates to the new snow mass per unit area."@en	.

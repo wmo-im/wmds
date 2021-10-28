@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12121> a skos:Concept ;
+	rdfs:label "CH2ClI (chloroiodomethane)" ;
+	skos:notation "12121" ;
+	dct:description "IUPAC: chloro(iodo)methane, PubChem CID: 11644, CAS Number: 593-71-5, in gas phase"@en	.

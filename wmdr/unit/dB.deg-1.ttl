@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<dB.deg-1> a skos:Concept ;
+	rdfs:label "decibels per degree (angle)" ;
+	skos:notation "dB.deg-1" ;
+	dct:description "Unit of angular gradient of sound intensity"@en	.

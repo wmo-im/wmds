@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<578> a skos:Concept ;
+	rdfs:label "C2H5COO- (propionate)" ;
+	skos:notation "578" ;
+	dct:description "IUPAC: propanoate, PubChem CID: 104745, CAS Number: 72-03-7, in total deposition"@en	.

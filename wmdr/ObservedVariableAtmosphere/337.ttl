@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<337> a skos:Concept ;
+	rdfs:label "C14H10 (anthracene), in air and aerosol" ;
+	skos:notation "337" ;
+	dct:description "IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in aerosol"@en	.

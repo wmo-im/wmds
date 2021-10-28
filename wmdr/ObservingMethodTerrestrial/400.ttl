@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<400> a skos:Concept ;
+	rdfs:label "Computation using head-discharge relationship on culvert, width contractions, weirs, dams and highway embankments" ;
+	skos:notation "400" ;
+	dct:description "High-water marks that define the headwater and tailwater elevations, geometry and slopes of the structure, and cross-sections that define approach conditions are measured. The head-discharge relationships of different structures have been defined by laboratory investigations and field verification. Peak discharge is determined by the application of continuity and energy equations between the approach section and a section within or below the structure (WMO Guide to Hydrological Practices, 2008)."@en	.

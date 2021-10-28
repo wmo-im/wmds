@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<L1> a skos:Concept ;
+	rdfs:label "Lagrangian point L1" ;
+	skos:notation "L1" ;
+	dct:description "The L1 point lies on the line defined by the Sun and Earth, and between them about 1,500,000 km from Earth. It is the point where the gravitational attraction of Earth partially cancels the Sun's gravitational attraction. (https://en.wikipedia.org/wiki/Lagrangian_point#L1_point)"@en	.

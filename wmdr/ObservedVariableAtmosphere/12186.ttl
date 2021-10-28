@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12186> a skos:Concept ;
+	rdfs:label "Zinc [Zn-65]" ;
+	skos:notation "12186" ;
+	dct:description "IUPAC: zinc-65, PubChem CID: 91574, CAS Number: 13982-39-3"@en	.

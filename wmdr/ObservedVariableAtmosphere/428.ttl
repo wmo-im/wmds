@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<428> a skos:Concept ;
+	rdfs:label "COS (OCS, carbon oxide sulfide, carbonyl sulfide)" ;
+	skos:notation "428" ;
+	dct:description "IUPAC: carbonyl sulfide, PubChem CID: 10039, CAS Number: 463-58-1, in gas phase"@en	.

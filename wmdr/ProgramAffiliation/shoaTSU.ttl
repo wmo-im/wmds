@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<shoaTSU> a skos:Concept ;
+	rdfs:label "SHOA-TSU" ;
+	skos:notation "shoaTSU" ;
+	dct:description "Chilean Navy Hydrographic And Oceanographic Service Tsunameter buoys"@en	.

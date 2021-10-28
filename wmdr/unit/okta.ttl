@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<okta> a skos:Concept ;
+	rdfs:label "eights of sky covered by cloud" ;
+	skos:notation "okta" ;
+	dct:description "Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<554> a skos:Concept ;
+	rdfs:label "C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)" ;
+	skos:notation "554" ;
+	dct:description "IUPAC: 1,1,1,2-tetrafluoroethane, PubChem CID: 13129, CAS Number: 811-97-2, in gas phase"@en	.

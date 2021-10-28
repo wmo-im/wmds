@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<527> a skos:Concept ;
+	rdfs:label "Soil moisture (in the roots region)" ;
+	skos:notation "527" ;
+	dct:description "Sub-soil 3D field of the fractional content of water in a volume of wet soil. Typically in a layer from the surface down to approximately 3m."@en	.

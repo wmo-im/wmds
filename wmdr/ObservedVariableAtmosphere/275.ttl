@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<275> a skos:Concept ;
+	rdfs:label "C2Cl4 (tetrachloroethene)" ;
+	skos:notation "275" ;
+	dct:description "IUPAC: 1,1,2,2-tetrachloroethene, PubChem CID: 31373, CAS Number: 127-18-4, in gas phase"@en	.

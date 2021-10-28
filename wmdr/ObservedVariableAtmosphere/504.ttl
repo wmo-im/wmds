@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<504> a skos:Concept ;
+	rdfs:label "t-C4H8 (trans-2-butene)" ;
+	skos:notation "504" ;
+	dct:description "IUPAC: (E)-but-2-ene, PubChem CID: 62695, CAS Number: 107-01-7, in gas phase"@en	.

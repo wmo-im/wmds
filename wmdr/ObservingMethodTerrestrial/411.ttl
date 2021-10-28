@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<411> a skos:Concept ;
+	rdfs:label "Equal discharge increment (EDI) method" ;
+	skos:notation "411" ;
+	dct:description "The cross-section is divided into 3 to 10 subsections of about equal discharge. A depth-integrated sample is taken at each vertical in the centroid of each subsection by lowering the sampler from the stream surface to the bed and back at a uniform transit rate. This gives a discharge-weighted sample for each centroid (WMO Guide to Hydrological Practices, 2008)."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<425> a skos:Concept ;
+	rdfs:label "Electrical resistivity surface geophysical method" ;
+	skos:notation "425" ;
+	dct:description "Direct or low frequency alternating current is sent through the ground between two metal electrodes. The current and resulting potential at other electrodes are measured. For depth soundings, the electrodes are moved farther and farther apart. As a result of these increasing distances, the current penetrates progressively deeper. The resistivity of a constantly increasing volume of earth is measured and a resistivity versus electrode spacing plot is obtained (WMO Guide to Hydrological Practices, 2008)."@en	.

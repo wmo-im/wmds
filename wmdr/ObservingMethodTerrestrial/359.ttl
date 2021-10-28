@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<359> a skos:Concept ;
+	rdfs:label "Snow weighing or melting" ;
+	skos:notation "359" ;
+	dct:description "Cylindrical samples of fresh snow are taken with a suitable snow sampler and either weighed (the column of snow is known as a snow pillar) or melted (WMO, Guide to Hydrological Practices, 2008)."@en	.

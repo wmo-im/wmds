@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<718> a skos:Concept ;
+	rdfs:label "Sn (Tin), TSP" ;
+	skos:notation "718" ;
+	dct:description "IUPAC: tin, PubChem CID: 5352426, CAS Number: 7440-31-5, in particle phase, TSP"@en	.

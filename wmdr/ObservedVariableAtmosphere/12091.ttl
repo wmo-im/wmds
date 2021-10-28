@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12091> a skos:Concept ;
+	rdfs:label "C4F8 (octafluorocyclobutane, PFC-318)" ;
+	skos:notation "12091" ;
+	dct:description "IUPAC: 1,1,2,2,3,3,4,4-octafluorocyclobutane, PubChem CID: 8263, CAS Number: 115-25-3, in gas phase"@en	.

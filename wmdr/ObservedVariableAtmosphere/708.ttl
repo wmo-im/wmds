@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<708> a skos:Concept ;
+	rdfs:label "Rb (Rubidium), PM2.5" ;
+	skos:notation "708" ;
+	dct:description "IUPAC: rubidium, PubChem CID: 5357696, CAS Number: 7440-17-7, in particle phase, PM2.5"@en	.

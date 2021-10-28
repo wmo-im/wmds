@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ICOS> a skos:Concept ;
+	rdfs:label "ICOS" ;
+	skos:notation "ICOS" ;
+	dct:description "Integrated Carbon Observation System, www.icos-cp.eu"@en	.

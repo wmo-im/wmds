@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<456> a skos:Concept ;
+	rdfs:label "C5H10 (3-methyl-1-butene)" ;
+	skos:notation "456" ;
+	dct:description "IUPAC: 3-methylbut-1-ene, PubChem CID: 11239, CAS Number: 563-45-1, in gas phase"@en	.

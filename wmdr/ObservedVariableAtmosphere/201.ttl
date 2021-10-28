@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<201> a skos:Concept ;
+	rdfs:label "N2O (nitrous oxide)" ;
+	skos:notation "201" ;
+	dct:description "IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<401> a skos:Concept ;
+	rdfs:label "Portable or permanently installed flume" ;
+	skos:notation "401" ;
+	dct:description "By this method, a portable or permanently installed engineered structure is set on the stream bed which generates a stable stage-discharge relationship for stream section by restricting the flow of water in various ways."@en	.

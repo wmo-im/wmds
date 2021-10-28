@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<Wb> a skos:Concept ;
+	rdfs:label "weber" ;
+	skos:notation "Wb" ;
+	dct:description "SI derived unit of magnetic flux, SI base unit equivalent: kg.m2.s-2.A-1"@en	.

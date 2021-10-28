@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<''> a skos:Concept ;
+	rdfs:label "second (angle)" ;
+	skos:notation "''" ;
+	dct:description "Unit of plane or phase angle, accepted for use with SI: 1 '' = (pi/648000) rad"@en	.

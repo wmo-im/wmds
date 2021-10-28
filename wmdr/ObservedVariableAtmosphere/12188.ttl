@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12188> a skos:Concept ;
+	rdfs:label "Selenium [Se-75]" ;
+	skos:notation "12188" ;
+	dct:description "IUPAC: selenium-75, PubChem CID: 6328176, CAS Number: 14265-71-5"@en	.

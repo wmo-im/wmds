@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<437> a skos:Concept ;
+	rdfs:label "C2H6 (ethane)" ;
+	skos:notation "437" ;
+	dct:description "IUPAC: ethane, PubChem CID: 6324, CAS Number: 74-84-0, in gas phase"@en	.

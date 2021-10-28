@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<181> a skos:Concept ;
+	rdfs:label "Cloud drop effective radius" ;
+	skos:notation "181" ;
+	dct:description "The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume."@en	.

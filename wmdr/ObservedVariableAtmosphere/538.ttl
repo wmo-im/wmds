@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<538> a skos:Concept ;
+	rdfs:label "Br- (bromide)" ;
+	skos:notation "538" ;
+	dct:description "IUPAC: bromide, PubChem CID: 259, CAS Number: 24959-67-9, in total deposition"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<outOfCalibration> a skos:Concept ;
+	rdfs:label "no changes (out of calibration)" ;
+	skos:notation "outOfCalibration" ;
+	dct:description "Instrument checked and found to be out of calibration; no changes to calibration function"@en	.

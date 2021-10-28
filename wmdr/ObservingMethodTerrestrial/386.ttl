@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<386> a skos:Concept ;
+	rdfs:label "Wire-weight gauge" ;
+	skos:notation "386" ;
+	dct:description "A wire weight gauge is a device that can be bolted to a bridge or railing or other appurtenance over a body of water to obtain water surface gauge heights. It is manually read by opening the protective cover and cranking down a weight until the weight touches the water (https://rickly.com, 2021)."@en	.

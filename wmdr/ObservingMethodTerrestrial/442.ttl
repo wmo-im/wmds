@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<442> a skos:Concept ;
+	rdfs:label "Equal-width-increment method sampling" ;
+	skos:notation "442" ;
+	dct:description "Samples are taken at verticals that are spaced at equal intervals across the stream (WMO Guide to Hydrological Practices, 2008)."@en	.

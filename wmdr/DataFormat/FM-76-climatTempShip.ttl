@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<FM-76-climatTempShip> a skos:Concept ;
+	rdfs:label "FM 76 - CLIMAT TEMP SHIP" ;
+	skos:notation "FM-76-climatTempShip" ;
+	dct:description "Report of monthly aerological means form an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en	.

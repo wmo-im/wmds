@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<501> a skos:Concept ;
+	rdfs:label "n-C4H10 (n-butane)" ;
+	skos:notation "501" ;
+	dct:description "IUPAC: butane, PubChem CID: 7843, CAS Number: 106-97-8, in gas phase"@en	.

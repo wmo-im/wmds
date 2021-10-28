@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<531> a skos:Concept ;
+	rdfs:label "Cloud base height" ;
+	skos:notation "531" ;
+	dct:description "For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."@en	.

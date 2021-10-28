@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12128> a skos:Concept ;
+	rdfs:label "C10H16 (tricyclene)" ;
+	skos:notation "12128" ;
+	dct:description "IUPAC: 1,7,7-trimethyltricyclo[2.2.1.02,6]heptane, PubChem CID: 79035, CAS Number: 508-32-7, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12145> a skos:Concept ;
+	rdfs:label "Particle light extinction coefficient" ;
+	skos:notation "12145" ;
+	dct:description "A measure of light attenuation due to scattering and absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance."@en	.

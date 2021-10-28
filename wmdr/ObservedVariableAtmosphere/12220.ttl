@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12220> a skos:Concept ;
+	rdfs:label "Cerium [Ce-141]" ;
+	skos:notation "12220" ;
+	dct:description "IUPAC: cerium-141, PubChem CID: 104814, CAS Number: 13967-74-3"@en	.

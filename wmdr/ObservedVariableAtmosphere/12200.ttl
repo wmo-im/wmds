@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12200> a skos:Concept ;
+	rdfs:label "Ruthenium [Ru-106]" ;
+	skos:notation "12200" ;
+	dct:description "IUPAC: ruthenium-106, PubChem CID: 26359, CAS Number: 13967-48-1"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<595> a skos:Concept ;
+	rdfs:label "CH3CCl3 (1,1,1-trichloroethane, methyl chloroform)" ;
+	skos:notation "595" ;
+	dct:description "IUPAC: 1,1,1-trichloroethane, PubChem CID: 6278, CAS Number: 71-55-6, in gas phase"@en	.

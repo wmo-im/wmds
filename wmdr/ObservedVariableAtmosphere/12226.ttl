@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12226> a skos:Concept ;
+	rdfs:label "Iridium [Ir-192]" ;
+	skos:notation "12226" ;
+	dct:description "IUPAC: iridium-192, PubChem CID: 66373, CAS Number: 14694-69-0"@en	.

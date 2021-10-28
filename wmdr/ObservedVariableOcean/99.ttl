@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<99> a skos:Concept ;
+	rdfs:label "Dominant wave period" ;
+	skos:notation "99" ;
+	dct:description "The period of the most energetic wave in the ocean wave spectrum"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<217> a skos:Concept ;
+	rdfs:label "Characteristic of pressure tendency" ;
+	skos:notation "217" ;
+	dct:description "The pressure characteristic is an indication of how the pressure has changed during that period of time, for example, decreasing then increasing, or increasing and then increasing more rapidly."@en	.

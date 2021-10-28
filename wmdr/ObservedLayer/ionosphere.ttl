@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ionosphere> a skos:Concept ;
+	rdfs:label "Ionosphere" ;
+	skos:notation "ionosphere" ;
+	dct:description "Atmospheric region containing significant concentrations of ions and electrons (ca. 70-80 km altitude and above) (http://glossary.ametsoc.org/wiki/Ionosphere)"@en	.

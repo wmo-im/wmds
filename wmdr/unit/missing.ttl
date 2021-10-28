@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<missing> a skos:Concept ;
+	rdfs:label "missing" ;
+	skos:notation "missing" ;
+	dct:description "The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."@en	.

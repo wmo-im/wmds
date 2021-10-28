@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<397> a skos:Concept ;
+	rdfs:label "Tracer constant-rate or sudden-injection dilution method" ;
+	skos:notation "397" ;
+	dct:description "The measurement of discharge by this method depends on determining the degree of dilution by the flowing water of an added tracer solution. A solution of a stable tracer is injected into the stream at either a constant rate or all at once. Computation of the stream discharge requires knowledge of the rate of injection (or total amount injected), the concentration of the tracer in the injected solution and the calibrated relationship between tracer concentration and the recorded property (for example, conductivity, colour and radioactivity) at the measuring site after it has been well mixed laterally. The site for measuring must be selected so that adequate mixing in a short length of channel is obtained. Many different tracer elements and detection equipment may be used. The computation of discharge is done by equations based on the principle of continuity of the tracer: Q = Q_tr c_i/c_s (continuous injection), Q = c_i V / ∫_0^∞ c_s d t (sudden injection) where Q_tr is the rate of injection, c_i is the concentration of injection solution, c_s is the concentration in the stream at the sampling section, V is the volume of injected solution and t is time (WMO Guide to Hydrological Practices, 2008)."@en	.

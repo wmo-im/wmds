@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<m-1> a skos:Concept ;
+	rdfs:label "per metre" ;
+	skos:notation "m-1" ;
+	dct:description "SI derived unit of quantity with dimension of reciprocal length, e.g., wave number, optical power, curvature, spatial frequency"@en	.

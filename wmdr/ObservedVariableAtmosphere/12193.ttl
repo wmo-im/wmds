@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12193> a skos:Concept ;
+	rdfs:label "Yttrium [Y-88]" ;
+	skos:notation "12193" ;
+	dct:description "IUPAC: yttrium-88, PubChem CID: 105173, CAS Number: 13982-36-0"@en	.

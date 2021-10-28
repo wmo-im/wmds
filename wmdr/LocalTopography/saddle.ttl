@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<saddle> a skos:Concept ;
+	rdfs:label "A saddle" ;
+	skos:notation "saddle" ;
+	dct:description "A depression located along the axial trend of an anticline; an area confined on two sides by downward slopes and on two sides by upward slopes."@en	.

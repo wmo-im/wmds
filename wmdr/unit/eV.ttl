@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<eV> a skos:Concept ;
+	rdfs:label "electron volt" ;
+	skos:notation "eV" ;
+	dct:description "Unit of energy, accepted for use with SI: 1eV = 1.60218 x 1E-19 J, approximately"@en	.

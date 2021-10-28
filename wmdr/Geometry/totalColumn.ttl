@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<totalColumn> a skos:Concept ;
+	rdfs:label "Total column" ;
+	skos:notation "totalColumn" ;
+	dct:description "the integral of the vertical distribution of a feature"@en	.

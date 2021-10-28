@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<558> a skos:Concept ;
+	rdfs:label "C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)" ;
+	skos:notation "558" ;
+	dct:description "IUPAC: 1,1,1,3,3-pentafluoropropane, PubChem CID: 68030, CAS Number: 460-73-1, in gas phase"@en	.

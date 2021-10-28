@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<576> a skos:Concept ;
+	rdfs:label "CH3COO- (acetate)" ;
+	skos:notation "576" ;
+	dct:description "IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-1, in total deposition"@en	.

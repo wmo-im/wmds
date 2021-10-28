@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<506> a skos:Concept ;
+	rdfs:label "Cloud optical depth" ;
+	skos:notation "506" ;
+	dct:description "Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD = exp(-K.Δz), where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree to which the cloud prevents light from passing through it.'"@en	.

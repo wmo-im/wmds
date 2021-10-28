@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<421> a skos:Concept ;
+	rdfs:label "Water discharge-bed-material rating curve" ;
+	skos:notation "421" ;
+	dct:description "Measurements of bed-material discharge are made at various stream discharges so that a rating may be prepared showing the relationship between stream discharge and bed-material discharge (WMO Guide to Hydrological Practices, 2008)."@en	.

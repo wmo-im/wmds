@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<spainPDEMB> a skos:Concept ;
+	rdfs:label "SPAIN-PDE MB" ;
+	skos:notation "spainPDEMB" ;
+	dct:description "Puertos del EStado Spain Moored buoy"@en	.

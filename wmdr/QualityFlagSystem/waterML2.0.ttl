@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<waterML2.0> a skos:Concept ;
+	rdfs:label "WaterML2" ;
+	skos:notation "waterML2.0" ;
+	dct:description "Quality flags are specified according to WaterML2 (quality flag URL: http://www.opengis.net/def/waterml/2.0/quality/)"@en	.

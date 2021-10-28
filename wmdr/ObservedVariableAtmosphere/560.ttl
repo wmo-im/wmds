@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<560> a skos:Concept ;
+	rdfs:label "C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)" ;
+	skos:notation "560" ;
+	dct:description "IUPAC: 1,1,1,3,3-pentafluorobutane, PubChem CID: 67884, CAS Number: 406-58-6, in gas phase"@en	.

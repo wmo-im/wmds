@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<deg.s-1> a skos:Concept ;
+	rdfs:label "degrees (angle) per second" ;
+	skos:notation "deg.s-1" ;
+	dct:description "Unit of angular speed, equal to 1 degree per second"@en	.

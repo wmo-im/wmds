@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12136> a skos:Concept ;
+	rdfs:label "C2H4O2 (methyl formate)" ;
+	skos:notation "12136" ;
+	dct:description "IUPAC: methyl formate, PubChem CID: 7865, CAS Number: 107-31-3, in gas phase"@en	.

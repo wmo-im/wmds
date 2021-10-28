@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12144> a skos:Concept ;
+	rdfs:label "C8H10 (p-xylene)" ;
+	skos:notation "12144" ;
+	dct:description "IUPAC: 1,4-xylene, PubChem CID: 7809, CAS Number: 106-42-3, in gas phase"@en	.

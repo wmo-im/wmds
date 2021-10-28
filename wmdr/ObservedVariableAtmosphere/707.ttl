@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<707> a skos:Concept ;
+	rdfs:label "P (Phosphorous), TSP" ;
+	skos:notation "707" ;
+	dct:description "IUPAC: phosphorus, PubChem CID: 5462309, CAS Number: 7723-14-0, in particle phase, TSP"@en	.

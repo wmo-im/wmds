@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<intervention> a skos:Concept ;
+	rdfs:label "Intervention" ;
+	skos:notation "intervention" ;
+	dct:description "Human activity that has (or may have) impacted the observations"@en	.

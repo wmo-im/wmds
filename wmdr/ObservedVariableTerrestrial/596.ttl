@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<596> a skos:Concept ;
+	rdfs:label "Soil temperature" ;
+	skos:notation "596" ;
+	dct:description "The standard depths for soil temperature measurements are 5, 10, 20, 50 and 100 cm below the surface; additional depths may be included. The site for such measurements should be a level plot of bare ground (about 75 cm^2 ) and typical of the surrounding soil for which information is required."@en	.

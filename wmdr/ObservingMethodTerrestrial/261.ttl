@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<261> a skos:Concept ;
+	rdfs:label "Graduated device" ;
+	skos:notation "261" ;
+	dct:description "Manual measurement or observation made with a graduated fixed stake, a sturdy ruler, or an extendable graduated rod."@en	.

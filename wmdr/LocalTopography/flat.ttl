@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<flat> a skos:Concept ;
+	rdfs:label "A flat" ;
+	skos:notation "flat" ;
+	dct:description "Slope less than 3 degrees and not a hilltop, ridge, valley bottom or depression."@en	.

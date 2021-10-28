@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12094> a skos:Concept ;
+	rdfs:label "C4H4O (furan)" ;
+	skos:notation "12094" ;
+	dct:description "IUPAC: Furan, PubChem CID: 8029, CAS Number: 110-00-9, in gas phase"@en	.

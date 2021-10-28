@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<354> a skos:Concept ;
+	rdfs:label "Storage rain gauge" ;
+	skos:notation "354" ;
+	dct:description "Storage raingauges are used to measure total seasonal precipitation in remote, sparsely inhabited areas. These gauges consist of a collector above a funnel, leading into a receiver large enough to store the seasonal catch (WMO, Guide to Hydrological Practices, 2008)."@en	.

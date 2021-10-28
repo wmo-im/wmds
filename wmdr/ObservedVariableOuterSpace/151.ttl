@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<151> a skos:Concept ;
+	rdfs:label "Solar electric field" ;
+	skos:notation "151" ;
+	dct:description "Map of magnitude and direction of the electric field at the solar surface (photosphere)."@en	.

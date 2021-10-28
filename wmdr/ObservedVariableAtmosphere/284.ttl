@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<284> a skos:Concept ;
+	rdfs:label "CO" ;
+	skos:notation "284" ;
+	dct:description "IUPAC: carbon monoxide, PubChem CID: 281, CAS Number: 630-08-0, in gas phase"@en	.

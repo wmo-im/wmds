@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ANTONs> a skos:Concept ;
+	rdfs:label "ANTON(S)" ;
+	skos:notation "ANTONs" ;
+	dct:description "Antarctic Observing Network surface station"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<455> a skos:Concept ;
+	rdfs:label "C5H10 (2-methyl-2-butene)" ;
+	skos:notation "455" ;
+	dct:description "IUPAC: 2-methylbut-2-ene, PubChem CID: 10553, CAS Number: 513-35-9, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12106> a skos:Concept ;
+	rdfs:label "C4H9NO3 (2-butyl nitrate, sec-butyl nitrate)" ;
+	skos:notation "12106" ;
+	dct:description "IUPAC: Butan-2-yl nitrite, PubChem CID: 13544, CAS Number: 924-43-6, in gas phase"@en	.

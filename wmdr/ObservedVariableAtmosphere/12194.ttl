@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12194> a skos:Concept ;
+	rdfs:label "Yttrium [Y-90m]" ;
+	skos:notation "12194" ;
+	dct:description "Metastable (excited) state of yttrium-90 isotope, IUPAC: yttrium-90, PubChem CID: 104760, CAS Number: 10098-91-6"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<407> a skos:Concept ;
+	rdfs:label "Sea-ice type" ;
+	skos:notation "407" ;
+	dct:description "Variable convolving several factors (age, roughness, density, etc.). Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."@en	.

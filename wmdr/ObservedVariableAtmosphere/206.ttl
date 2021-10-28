@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<206> a skos:Concept ;
+	rdfs:label "H2O (as a chemical species)" ;
+	skos:notation "206" ;
+	dct:description "IUPAC: oxidane, PubChem CID: 962, CAS Number: 7732-18-5, in gas phase"@en	.

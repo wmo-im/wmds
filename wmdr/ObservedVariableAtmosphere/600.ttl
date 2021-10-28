@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<600> a skos:Concept ;
+	rdfs:label "Cr (chromium)" ;
+	skos:notation "600" ;
+	dct:description "IUPAC: chromium, PubChem CID: 23976, CAS Number: 7440-47-3, in total deposition"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<406> a skos:Concept ;
+	rdfs:label "Sea-ice thickness" ;
+	skos:notation "406" ;
+	dct:description "Thickness of the ice sheet. It is related to sea-ice elevation and ice density."@en	.

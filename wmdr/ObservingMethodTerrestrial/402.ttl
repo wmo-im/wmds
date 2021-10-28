@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<402> a skos:Concept ;
+	rdfs:label "Stage-discharge relationship on gauging or artificial section" ;
+	skos:notation "402" ;
+	dct:description "The stage-discharge relationship is defined by plotting the measured discharges as the abscissa and the corresponding stage as the ordinate. The stage-discharge relationship can readily be expressed by a mathematical equation derived from the available measurements. This equation can be determined by graphical methods or regression methods. The equation is then used to obtain the discharge value given a stage measurement (WMO Guide to Hydrological Practices, 2008)."@en	.

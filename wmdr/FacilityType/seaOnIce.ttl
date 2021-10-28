@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<seaOnIce> a skos:Concept ;
+	rdfs:label "Sea (on ice)" ;
+	skos:notation "seaOnIce" ;
+	dct:description "Station/platform on floating ice, moving with the ice"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<435> a skos:Concept ;
+	rdfs:label "C2H2O2 (oxaldehyde, ethanedial)" ;
+	skos:notation "435" ;
+	dct:description "IUPAC: oxaldehyde, PubChem CID: 7860, CAS Number: 107-22-2, in gas phase"@en	.

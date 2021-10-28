@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<GCWCryoNet> a skos:Concept ;
+	rdfs:label "GCW CryoNet station" ;
+	skos:notation "GCWCryoNet" ;
+	dct:description "A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."@en	.

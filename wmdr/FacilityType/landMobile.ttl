@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<landMobile> a skos:Concept ;
+	rdfs:label "Land (mobile)" ;
+	skos:notation "landMobile" ;
+	dct:description "Station/platform on solid terrain, moving around"@en	.

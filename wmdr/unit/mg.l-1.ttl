@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mg.l-1> a skos:Concept ;
+	rdfs:label "milligrams per litre" ;
+	skos:notation "mg.l-1" ;
+	dct:description "SI derived unit of mass concentration, equal to 0.001 kg/m3"@en	.

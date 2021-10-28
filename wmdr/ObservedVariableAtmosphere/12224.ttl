@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12224> a skos:Concept ;
+	rdfs:label "Europium [Eu-152]" ;
+	skos:notation "12224" ;
+	dct:description "IUPAC: europium-152, PubChem CID: 104907, CAS Number: 14683-23-9"@en	.

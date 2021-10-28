@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<saildrone> a skos:Concept ;
+	rdfs:label "SAILDRONE" ;
+	skos:notation "saildrone" ;
+	dct:description "Autonomous Surface Vehicles deployed by NOAA as pilot"@en	.

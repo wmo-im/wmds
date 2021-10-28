@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<earthInterior> a skos:Concept ;
+	rdfs:label "Interior earth" ;
+	skos:notation "earthInterior" ;
+	dct:description "Sub-surface of the Earth, including the crust, mantle and core and excluding the ocean and other water bodies"@en	.

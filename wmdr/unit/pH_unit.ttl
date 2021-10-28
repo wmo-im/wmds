@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<pH_unit> a skos:Concept ;
+	rdfs:label "pH unit" ;
+	skos:notation "pH_unit" ;
+	dct:description "Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre"@en	.

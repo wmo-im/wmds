@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<71> a skos:Concept ;
+	rdfs:label "Chlorophyll a concentration" ;
+	skos:notation "71" ;
+	dct:description "Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."@en	.

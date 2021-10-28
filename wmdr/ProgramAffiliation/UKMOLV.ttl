@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<UKMOLV> a skos:Concept ;
+	rdfs:label "UK-MO LV" ;
+	skos:notation "UKMOLV" ;
+	dct:description "UK Metoffice Light Vessel"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12233> a skos:Concept ;
+	rdfs:label "Actinium [Ac-228]" ;
+	skos:notation "12233" ;
+	dct:description "IUPAC: actinium-228, PubChem CID: 105063, CAS Number: 14331-83-0"@en	.

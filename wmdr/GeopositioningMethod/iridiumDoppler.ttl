@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<iridiumDoppler> a skos:Concept ;
+	rdfs:label "IRIDIUM DOPPLER" ;
+	skos:notation "iridiumDoppler" ;
+	dct:description "Location determined using the frequency shift of transmissions to the Iridium communications satellite constellation. https://www.iridium.com/"@en	.

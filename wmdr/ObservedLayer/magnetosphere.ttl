@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<magnetosphere> a skos:Concept ;
+	rdfs:label "Magnetosphere" ;
+	skos:notation "magnetosphere" ;
+	dct:description "Region in which dynamical motions are strongly influenced, or even dominated, by the earth's magnetic field as a result of plasma effects. (http://glossary.ametsoc.org/wiki/Magnetosphere)"@en	.

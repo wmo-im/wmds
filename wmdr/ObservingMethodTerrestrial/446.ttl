@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<446> a skos:Concept ;
+	rdfs:label "Kemmerer sampler" ;
+	skos:notation "446" ;
+	dct:description "It is a type of messenger-operated vertical sampler. It is commonly used in water bodies with a depth of 1 m or greater. The Kemmerer sampler is available in volumes ranging from 0.5 to 8 l (WMO Guide to Hydrological Practices, 2008)."@en	.

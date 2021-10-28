@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<deepOcean> a skos:Concept ;
+	rdfs:label "Deep ocean" ;
+	skos:notation "deepOcean" ;
+	dct:description "Lower part of the ocean below the thermocline (below ca. 1'000 meters depth)"@en	.

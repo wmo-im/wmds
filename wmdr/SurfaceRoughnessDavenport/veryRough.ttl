@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<veryRough> a skos:Concept ;
+	rdfs:label "Very rough (Parkland, bushes; numerous obstacles, x/H ~ 10)" ;
+	skos:notation "veryRough" ;
+	dct:description "'Old' cultivated landscape with many rather large obstacle groups (large farms, clumps of forest) separated by open spaces of about 10 obstacle heights. Also low large vegetation with small interspaces, such as bushland, orchards, young densely-planted forest. (zo 0.5)"@en	.

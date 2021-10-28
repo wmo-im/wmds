@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<446> a skos:Concept ;
+	rdfs:label "C4H6 (1,3-butadiene, butadiene)" ;
+	skos:notation "446" ;
+	dct:description "IUPAC: buta-1,3-diene, PubChem CID: 7845, CAS Number: 106-99-0, in gas phase"@en	.

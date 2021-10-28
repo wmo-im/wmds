@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<degC.hm-1> a skos:Concept ;
+	rdfs:label "degrees Celsius per 100 metres" ;
+	skos:notation "degC.hm-1" ;
+	dct:description "Unit of spatial gradient of temperature per 100 metres"@en	.

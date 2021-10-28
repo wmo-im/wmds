@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<403> a skos:Concept ;
+	rdfs:label "Rotor current meter" ;
+	skos:notation "403" ;
+	dct:description "Velocity of flow at a point is measured by counting revolutions of a current meter rotor during a short-time period measured with a stopwatch (International Organization for Standardization, 1979: Liquid Flow Measurement in Open Channels: Velocity-area Methods. Second edition, ISO 748, Geneva)."@en	.

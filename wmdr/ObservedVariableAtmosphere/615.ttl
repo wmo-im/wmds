@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<615> a skos:Concept ;
+	rdfs:label "Cl- (chloride), PM10" ;
+	skos:notation "615" ;
+	dct:description "IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM10"@en	.

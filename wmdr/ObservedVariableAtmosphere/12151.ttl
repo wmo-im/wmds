@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12151> a skos:Concept ;
+	rdfs:label "Ångström exponent  for aerosol absorption optical depth" ;
+	skos:notation "12151" ;
+	dct:description "A measure of dependence of the aerosol absorption optical depth on wavelength expressed in power law relationship."@en	.

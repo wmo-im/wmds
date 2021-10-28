@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<closed> a skos:Concept ;
+	rdfs:label "Closed (Regular large obstacle COVER (suburb, forest))" ;
+	skos:notation "closed" ;
+	dct:description "Landscape totally and quite regularly covered with similar size large obstacles, with open spaces comparable to the obstacle heights; e.g. mature regular forests, homogeneous cities or villages. (zo 1.0)"@en	.

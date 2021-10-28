@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<432> a skos:Concept ;
+	rdfs:label "Capacitance sensor" ;
+	skos:notation "432" ;
+	dct:description "The key property of dielectric materials is the dielectric constant or relative permittivity. This property is the amount of charge the liquid can absorb. As the liquid is introduced near the electrodes of the capacitor, the capacitance changes progressively and liquid level can be determined. To measure variations in capacitance, electric energy flowing into and out of the electrodes is measured as the circuit potential is varied. A regular flow of energy is established by connecting the electrodes to an alternating current measurement circuit. The more energy flow to the electrodes, the greater the capacitance, meaning more liquid between the electrodes. This technique is frequently referred to as RF for the radio frequency signals applied to the capacitance circuit (https://www.levelsensorsolutions.com/capacitive-level-sensor, 2021 and WMO Guide to Hydrological Practices, 2008)."@en	.

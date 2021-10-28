@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<cm.s-1> a skos:Concept ;
+	rdfs:label "centimetres per second" ;
+	skos:notation "cm.s-1" ;
+	dct:description "SI derived Unit of speed, equal to 0.01 metres per second"@en	.

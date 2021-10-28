@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<420> a skos:Concept ;
+	rdfs:label "Bed-material pressure-difference sampler" ;
+	skos:notation "420" ;
+	dct:description "Pressure-difference samplers are designed to produce a pressure drop at the exit of the sampler which is sufficient to overcome energy losses and to ensure an entrance velocity equal to that of the undisturbed stream. A perforated diaphragm within the sampler forces the flow to drop its sediment into the retaining chamber and to leave through the upper exit (WMO Guide to Hydrological Practices, 2008)."@en	.

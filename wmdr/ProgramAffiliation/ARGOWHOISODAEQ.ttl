@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ARGOWHOISODAEQ> a skos:Concept ;
+	rdfs:label "Argo WHOI-SODA eq." ;
+	skos:notation "ARGOWHOISODAEQ" ;
+	dct:description "Woods Hole Oceanographic Institution - Stratified Ocean Dynamics of the Arctic Argo equivalent programme"@en	.

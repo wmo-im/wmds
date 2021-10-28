@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<GEO> a skos:Concept ;
+	rdfs:label "Geostationary orbit range" ;
+	skos:notation "GEO" ;
+	dct:description "Altitude range of geostationary orbiting (GEO) objects, 35'786 kilometres above Earth's equator and following the direction of Earth's rotation. (https://en.wikipedia.org/wiki/Geostationary_orbit)"@en	.

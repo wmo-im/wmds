@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<globCover2009> a skos:Concept ;
+	rdfs:label "Surface cover types (GlobCover2009)" ;
+	skos:notation "globCover2009" ;
+	dct:description "GlobCover 2009 land cover map is derived by an automatic and regionally-tuned classification of a time series of global MERIS FR mosaics for the year 2009. The global land cover map counts 22 land cover classes defined with the United Nations (UN) Land Cover Classification System (LCCS)."@en	.

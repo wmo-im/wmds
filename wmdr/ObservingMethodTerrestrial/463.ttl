@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<463> a skos:Concept ;
+	rdfs:label "Double-beam spectrophotometer" ;
+	skos:notation "463" ;
+	dct:description "The color of a filtered sample is expressed in terms that describe the sensation realized when viewing the sample. The hue (red, green, yellow, etc.) is designated by the term 'dominant wavelength', the degree of brightness by 'luminance', and the saturation (pale, pastel, etc.) by 'purity'. These values are best determined from the light transmission characteristics of the filtered sample by means of a spectrophotometer (https://law.resource.org/pub/us/cfr/ibr/002/apha.method.2120.1992.html). A spectrophotometer is a photometer that can measure the intensity of a light beam at different wavelengths. A double beam spectrophotometer[13] compares the light intensity between two light paths, one path containing a reference sample and the other the test sample (Wikipedia, 2021)."@en	.

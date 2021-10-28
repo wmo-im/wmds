@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<F> a skos:Concept ;
+	rdfs:label "farad" ;
+	skos:notation "F" ;
+	dct:description "SI derived unit of electrical capacitance, SI base unit equivalent: kg-1.m-2.s4.A2"@en	.

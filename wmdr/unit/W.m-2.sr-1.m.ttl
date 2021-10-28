@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<W.m-2.sr-1.m> a skos:Concept ;
+	rdfs:label "watts per square metre per steradian per inverse metre" ;
+	skos:notation "W.m-2.sr-1.m" ;
+	dct:description "SI derived unit of spectral radiance per wave number"@en	.

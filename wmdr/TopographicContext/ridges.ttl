@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ridges> a skos:Concept ;
+	rdfs:label "within ridges" ;
+	skos:notation "ridges" ;
+	dct:description "A long, narrow elevation with steep sides; or: A long, narrow elevation often separating ocean basins; or: The major oceanic mountain systems of global extent"@en	.

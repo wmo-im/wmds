@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12175> a skos:Concept ;
+	rdfs:label "Potassium [K-40]" ;
+	skos:notation "12175" ;
+	dct:description "IUPAC: potassium-40, PubChem CID: 6328542, CAS Number: 13966-00-2"@en	.

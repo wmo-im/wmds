@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<417> a skos:Concept ;
+	rdfs:label "Visible and infra-red radiometry" ;
+	skos:notation "417" ;
+	dct:description "The determination of the amount of sediment in water is based on the reflectance of radiation in the visible and IR parts of EMS (WMO Guide to Hydrological Practices, 2008)."@en	.

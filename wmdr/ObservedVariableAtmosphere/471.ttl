@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<471> a skos:Concept ;
+	rdfs:label "C6H14 (2,2-dimethylbutane)" ;
+	skos:notation "471" ;
+	dct:description ""@en	.

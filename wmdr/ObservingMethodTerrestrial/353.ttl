@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<353> a skos:Concept ;
+	rdfs:label "Standard rain gauge" ;
+	skos:notation "353" ;
+	dct:description "The ordinary raingauge used for daily readings usually takes the form of a collector above a funnel leading into a receiver (WMO, Guide to Hydrological Practices, 2008)."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<719> a skos:Concept ;
+	rdfs:label "U (Uranium), PM2.5" ;
+	skos:notation "719" ;
+	dct:description "IUPAC: uranium, PubChem CID: 23989, CAS Number: 7440-61-1, in particle phase, PM2.5"@en	.

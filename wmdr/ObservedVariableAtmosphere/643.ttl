@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<643> a skos:Concept ;
+	rdfs:label "Na+ (sodium), TSP" ;
+	skos:notation "643" ;
+	dct:description "IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, TSP"@en	.

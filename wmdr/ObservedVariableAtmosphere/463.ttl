@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<463> a skos:Concept ;
+	rdfs:label "C5H14 (2,3-dimethylbutane)" ;
+	skos:notation "463" ;
+	dct:description "IUPAC: 2,3-dimethylbutane, PubChem CID: 6589, CAS Number: 79-29-8, in gas phase"@en	.

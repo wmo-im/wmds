@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<418> a skos:Concept ;
+	rdfs:label "Bed-material basket sampler" ;
+	skos:notation "418" ;
+	dct:description "Basket samplers are generally made of mesh material with an opening on the upstream end, through which the water-sediment mixture passes. The mesh should pass the suspended material but retain the sediment moving along the bed (WMO Guide to Hydrological Practices, 2008)."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<453> a skos:Concept ;
+	rdfs:label "C5H10 (1-pentene)" ;
+	skos:notation "453" ;
+	dct:description "IUPAC: pent-1-ene, PubChem CID: 8004, CAS Number: 109-67-1, in gas phase"@en	.

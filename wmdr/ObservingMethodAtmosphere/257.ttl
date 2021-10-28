@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<257> a skos:Concept ;
+	rdfs:label "UV fluorescence-based hygrometer (Lyman-α)" ;
+	skos:notation "257" ;
+	dct:description "Detection of UV fluorescence signal emitted by the excited OH radical produced from H2O after dissociation using UV light."@en	.

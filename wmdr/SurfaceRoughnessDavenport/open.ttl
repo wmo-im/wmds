@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<open> a skos:Concept ;
+	rdfs:label "Open (Open flat terrain; grass, few isolated obstacles)" ;
+	skos:notation "open" ;
+	dct:description "Level country with low vegetation (e.g. grass) and isolated obstacles with separations of at least 50 obstacle heights; e.g. grazing land without windbreaks, heather, moor and tundra, runway area of airports. (zo 0.03)"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<672> a skos:Concept ;
+	rdfs:label "Ti (Titanium), TSP" ;
+	skos:notation "672" ;
+	dct:description "IUPAC: titanium, PubChem CID: 23963, CAS Number: 7440-32-6, in particle phase, TSP"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<438> a skos:Concept ;
+	rdfs:label "Sequential sampling" ;
+	skos:notation "438" ;
+	dct:description "A composite sample is obtained by mixing several samples to obtain an average value of water qual- ity over the sampling period. Discrete or continuous sampling can be used and the mixing proportion is calculated on a time or discharge basis. A portion of the composite sample is then analysed. A sequential composite is constituted by continuous, constant sample pumping, or by mixing equal water volumes collected at regular time intervals. (WMO Guide to Hydrological Practices, 2008)."@en	.

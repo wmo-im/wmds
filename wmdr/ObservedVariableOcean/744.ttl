@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<744> a skos:Concept ;
+	rdfs:label "Wave period" ;
+	skos:notation "744" ;
+	dct:description "The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<10> a skos:Concept ;
+	rdfs:label "nucleation mode" ;
+	skos:notation "10" ;
+	dct:description "Particles with diameter from 0.001 to 0.01 µm (nucleation mode), sizing method defined separately or by context"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<496> a skos:Concept ;
+	rdfs:label "c-C5H10 (cis-2-pentene)" ;
+	skos:notation "496" ;
+	dct:description "IUPAC: (Z)-pent-2-ene, PubChem CID: 5326160, CAS Number: 627-20-3, in gas phase"@en	.

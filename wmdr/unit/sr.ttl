@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<sr> a skos:Concept ;
+	rdfs:label "steradian" ;
+	skos:notation "sr" ;
+	dct:description "SI derived unit of solid angle, SI base unit equivalent: 1"@en	.

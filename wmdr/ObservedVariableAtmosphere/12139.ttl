@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12139> a skos:Concept ;
+	rdfs:label "C3H6O2 (ethyl formate)" ;
+	skos:notation "12139" ;
+	dct:description "IUPAC: ethyl formate, PubChem CID: 8025, CAS Number: 109-94-4, in gas phase"@en	.

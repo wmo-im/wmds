@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<393> a skos:Concept ;
+	rdfs:label "Auger and ruler" ;
+	skos:notation "393" ;
+	dct:description "The thickness of ice is measured by means of an auger and a ruler at representative sites. To minimize errors caused by spatial variability in ice thickness, measurements should be made at a minimum of three points spaced over a distance of at least 5 m, and the measurements should be averaged. The depth of any snow on top of the ice should also be measured (WMO Guide to Hydrological Practices, 2008)."@en	.

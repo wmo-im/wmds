@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<380> a skos:Concept ;
+	rdfs:label "Estimation by penman-monteith method" ;
+	skos:notation "380" ;
+	dct:description "The Penman-Monteith method (Monteith, 1965) introduces aerodynamic and surface resistances into the combination equation of the energy budget at the land surface and the transfer of water vapour and heat between the surface and the atmosphere. It is expressed as: λE = (ΔΔ + C_p ρD / r_aa ) / (Δ + γ + γ (r_cs / r_aa )) where r_aa is the aerodynamic resistance above the canopy, and r_cs is stomatal resistance of the canopy (WMO Guide to Hydrological Practices, 2008)."@en	.

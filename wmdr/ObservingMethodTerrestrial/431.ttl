@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<431> a skos:Concept ;
+	rdfs:label "(Ultra)sonic distance meter" ;
+	skos:notation "431" ;
+	dct:description "It emits acoustic waves that are reflected back to and detected by the emitting transducer (Wikipedia, 2021)."@en	.

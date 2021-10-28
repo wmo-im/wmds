@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<188> a skos:Concept ;
+	rdfs:label "PSC occurrence" ;
+	skos:notation "188" ;
+	dct:description "Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [HR] and False Alarm Rate [FAR]. Simplified: [FAR/HR]"@en	.

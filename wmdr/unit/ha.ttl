@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ha> a skos:Concept ;
+	rdfs:label "hectare" ;
+	skos:notation "ha" ;
+	dct:description "Unit of area, accepted for use with SI: 1 ha = 10000 m2"@en	.

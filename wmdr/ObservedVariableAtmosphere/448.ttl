@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<448> a skos:Concept ;
+	rdfs:label "C4H6O (but-3-en-2-one, methylvinylketone)" ;
+	skos:notation "448" ;
+	dct:description "IUPAC: but-3-en-2-one, PubChem CID: 6570, CAS Number: 78-94-4, in gas phase"@en	.

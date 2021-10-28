@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<nasaAmes> a skos:Concept ;
+	rdfs:label "NASA AMES" ;
+	skos:notation "nasaAmes" ;
+	dct:description "The NASA AMES format is a set of nine ASCII-based file formats that comply with an overall common structure but make provision of different features adapted to various cases. It consists of a header and a data part."@en	.

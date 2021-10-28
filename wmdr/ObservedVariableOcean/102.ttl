@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<102> a skos:Concept ;
+	rdfs:label "Wave directional energy frequency spectrum" ;
+	skos:notation "102" ;
+	dct:description "2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."@en	.

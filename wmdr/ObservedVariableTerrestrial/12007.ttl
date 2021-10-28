@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12007> a skos:Concept ;
+	rdfs:label "Presence of snow" ;
+	skos:notation "12007" ;
+	dct:description "A binary observation of the presence of snow cover at the measurement location."@en	.

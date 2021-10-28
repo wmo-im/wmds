@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12213> a skos:Concept ;
+	rdfs:label "Xenon [Xe-133]" ;
+	skos:notation "12213" ;
+	dct:description "IUPAC: xenon-133, PubChem CID: 66376, CAS Number: 14932-42-4"@en	.

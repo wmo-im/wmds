@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<482> a skos:Concept ;
+	rdfs:label "C7H8 (toluene)" ;
+	skos:notation "482" ;
+	dct:description "IUPAC: toluene, PubChem CID: 1140, CAS Number: 108-88-3, in gas phase"@en	.

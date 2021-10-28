@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12100> a skos:Concept ;
+	rdfs:label "CH3NO3 (methyl nitrate)" ;
+	skos:notation "12100" ;
+	dct:description "IUPAC: Methyl nitrate, PubChem CID: 11724, CAS Number: 598-58-3, in gas phase"@en	.

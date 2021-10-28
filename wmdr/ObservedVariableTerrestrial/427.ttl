@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<427> a skos:Concept ;
+	rdfs:label "Vegetation type" ;
+	skos:notation "427" ;
+	dct:description "Result of the classification of different types of vegetation within a vegetated area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."@en	.

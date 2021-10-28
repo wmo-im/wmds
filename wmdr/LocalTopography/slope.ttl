@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<slope> a skos:Concept ;
+	rdfs:label "A slope" ;
+	skos:notation "slope" ;
+	dct:description "Neither crest nor depression or valley bottom, and with slope more than 3 degrees."@en	.

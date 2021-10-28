@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<brazilPNBOIAINPE> a skos:Concept ;
+	rdfs:label "BRAZIL PNBOIA-INPE" ;
+	skos:notation "brazilPNBOIAINPE" ;
+	dct:description "Programa Nacional de Boias (PNBOIA) is the brazilian contribution to the Global Ocean Observation System (GOOS). Instituto Nacional de Pesquisas Espacias (INPE)"@en	.

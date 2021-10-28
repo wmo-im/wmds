@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<argosDoppler> a skos:Concept ;
+	rdfs:label "ARGOS DOPPLER" ;
+	skos:notation "argosDoppler" ;
+	dct:description "Location determined using the frequency shift of transmissions to the ARGOS communications satellite service. http://www.argos-system.org/web/en/333-why-choose-argos.php"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12131> a skos:Concept ;
+	rdfs:label "C10H16 (myrcene)" ;
+	skos:notation "12131" ;
+	dct:description "IUPAC: 7-methyl-3-methylideneocta-1, PubChem CID: 31253, CAS Number: 123-35-3, in gas phase"@en	.

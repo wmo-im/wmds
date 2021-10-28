@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<623> a skos:Concept ;
+	rdfs:label "Elemental carbon, PM10" ;
+	skos:notation "623" ;
+	dct:description "Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and non-volatile under atmospheric conditions and insoluble in any solvent. Size range: PM10"@en	.

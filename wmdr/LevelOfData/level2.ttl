@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<level2> a skos:Concept ;
+	rdfs:label "Level II" ;
+	skos:notation "level2" ;
+	dct:description "CIMO: Level II data (Meteorological parameters). They may be obtained directly from many kinds of simple instruments, or derived from Level I data. For example, a sensor cannot measure visibility, which is a Level II quantity; instead, sensors measure the extinction coefficient, which is a Level I quantity. NOTE: Data exchanged internationally are Level II or Level III data. CEOS: Geophysical information. Retrieved environmental variables (e.g., ocean wave height, soil moisture, ice concentration) at the same resolution and location as the level 1 source data."@en	.

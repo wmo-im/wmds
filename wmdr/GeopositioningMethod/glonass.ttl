@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<glonass> a skos:Concept ;
+	rdfs:label "GLONASS" ;
+	skos:notation "glonass" ;
+	dct:description "Location determined using the Russian GLONASS (Globalnaya Navigazionnaya Sputnikovaya Sistema) global navigation satellite system. https://www.glonass-iac.ru/en/"@en	.

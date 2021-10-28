@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<FM-34-pilotMobil> a skos:Concept ;
+	rdfs:label "FM 34 - PILOT MOBIL" ;
+	skos:notation "FM-34-pilotMobil" ;
+	dct:description "Upper wind report from a mobile land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en	.

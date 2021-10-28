@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12171> a skos:Concept ;
+	rdfs:label "Carbon [C-14]" ;
+	skos:notation "12171" ;
+	dct:description "IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5"@en	.

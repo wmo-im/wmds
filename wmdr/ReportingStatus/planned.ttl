@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<planned> a skos:Concept ;
+	rdfs:label "Planned" ;
+	skos:notation "planned" ;
+	dct:description "The station is planned to be deployed sometime in the future, and all information provided is indicative only. No observations are taken."@en	.

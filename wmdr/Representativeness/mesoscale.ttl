@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mesoscale> a skos:Concept ;
+	rdfs:label "mesoscale (3 km .. < 100 km)" ;
+	skos:notation "mesoscale" ;
+	dct:description "An area or volume of 3 km to 100 km horizontal extent (for example, thunderstorms, sea and mountain breezes)."@en	.

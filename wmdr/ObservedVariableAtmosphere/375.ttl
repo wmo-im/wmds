@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<375> a skos:Concept ;
+	rdfs:label "C12H8Cl6 (aldrin), in aerosol" ;
+	skos:notation "375" ;
+	dct:description "IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in particle phase"@en	.

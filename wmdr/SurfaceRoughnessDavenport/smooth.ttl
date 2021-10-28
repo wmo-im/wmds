@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<smooth> a skos:Concept ;
+	rdfs:label "Smooth (Mud flats, snow; no vegetation, no obstacles)" ;
+	skos:notation "smooth" ;
+	dct:description "Featureless land surface without any noticeable obstacles and with negligible vegetation; e.g. beaches, pack ice without large ridges, morass, and snow-covered or fallow open country. (zo 0.005)"@en	.

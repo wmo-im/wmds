@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<698> a skos:Concept ;
+	rdfs:label "Pb (Lead), TSP" ;
+	skos:notation "698" ;
+	dct:description "IUPAC: lead, PubChem CID: 5352425, CAS Number: 7439-92-1, in particle phase, TSP"@en	.

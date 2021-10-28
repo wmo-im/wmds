@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<taoPirataUS> a skos:Concept ;
+	rdfs:label "TAO PIRATA US" ;
+	skos:notation "taoPirataUS" ;
+	dct:description "NA"@en	.

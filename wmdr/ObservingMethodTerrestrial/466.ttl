@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<466> a skos:Concept ;
+	rdfs:label "Plate count" ;
+	skos:notation "466" ;
+	dct:description "The plate count method relies on bacteria growing a colony on a nutrient medium so that the colony becomes visible to the naked eye and the number of colonies on a plate can be counted."@en	.

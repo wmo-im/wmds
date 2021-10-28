@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<459> a skos:Concept ;
+	rdfs:label "Secchi disc method" ;
+	skos:notation "459" ;
+	dct:description "A Secchi disk is a black and white disk that is lowered into the water until it can no longer be seen; the depth (Secchi depth) is then recorded as a measure of the transparency of the water (inversely related to turbidity) (Wikipedia, 2021)."@en	.

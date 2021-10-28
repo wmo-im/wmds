@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<438> a skos:Concept ;
+	rdfs:label "C2H6S (dimethylsulfide, DMS)" ;
+	skos:notation "438" ;
+	dct:description "IUPAC: methylsulfanylmethane, PubChem CID: 1068, CAS Number: 75-18-3, in gas phase"@en	.

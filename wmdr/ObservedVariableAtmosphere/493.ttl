@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<493> a skos:Concept ;
+	rdfs:label "CH3OH (methanol)" ;
+	skos:notation "493" ;
+	dct:description "IUPAC: methanol, PubChem CID: 887, CAS Number: 67-56-1, in gas phase"@en	.

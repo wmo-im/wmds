@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<542> a skos:Concept ;
+	rdfs:label "PO4--- (phosphate)" ;
+	skos:notation "542" ;
+	dct:description "IUPAC: phosphate, PubChem CID: 1061, CAS Number: 14265-44-2, in total deposition"@en	.

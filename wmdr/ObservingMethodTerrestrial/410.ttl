@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<410> a skos:Concept ;
+	rdfs:label "Optical or nuclear suspended-sediment gauge" ;
+	skos:notation "410" ;
+	dct:description "The working principle of these instruments is that a visible light of X-ray emitted by a source with constant intensity is scattered and/or absorbed by the suspended-sediment particles. The decrease of intensity measured by a photoelectric or nuclear detector situated at constant distance from the source is proportional to the sediment concentration, if other relevant characteristics of water and sediment (chemical, mineral composition, etc.) remain unchanged (WMO Guide to Hydrological Practices, 2008)."@en	.

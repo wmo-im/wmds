@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<um> a skos:Concept ;
+	rdfs:label "micrometre" ;
+	skos:notation "um" ;
+	dct:description "Unit of length, equal to one millionth of a metre (1E-6 m)"@en	.

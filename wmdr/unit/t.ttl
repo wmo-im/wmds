@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<t> a skos:Concept ;
+	rdfs:label "tonne" ;
+	skos:notation "t" ;
+	dct:description "Unit of mass, equal to 1000 kilograms"@en	.

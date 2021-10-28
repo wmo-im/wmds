@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<509> a skos:Concept ;
+	rdfs:label "Short-wave cloud reflectance" ;
+	skos:notation "509" ;
+	dct:description "Reflectance of the solar radiation from clouds"@en	.

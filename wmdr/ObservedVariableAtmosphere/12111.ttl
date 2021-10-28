@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12111> a skos:Concept ;
+	rdfs:label "C4H6O ((Z)-crotonaldehyde, cis-2-butenal)" ;
+	skos:notation "12111" ;
+	dct:description "IUPAC: (Z)-but-2-enal, PubChem CID: 673950, CAS Number: 15798-64-8, in gas phase"@en	.

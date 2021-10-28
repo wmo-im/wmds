@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<netcdf> a skos:Concept ;
+	rdfs:label "NetCDF" ;
+	skos:notation "netcdf" ;
+	dct:description "A set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data. http://www.unidata.ucar.edu/software/netcdf/"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<argoUWSpursEq> a skos:Concept ;
+	rdfs:label "ARGO UW-SPURS EQ." ;
+	skos:notation "argoUWSpursEq" ;
+	dct:description "ARGO UW-SPURS EQ."@en	.

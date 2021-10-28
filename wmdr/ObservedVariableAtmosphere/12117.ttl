@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12117> a skos:Concept ;
+	rdfs:label "C2H4Cl2 (1,1-dichloroethane)" ;
+	skos:notation "12117" ;
+	dct:description "IUPAC: 1,1-Dichloroethane, PubChem CID: 6365, CAS Number: 75-34-3, in gas phase"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12132> a skos:Concept ;
+	rdfs:label "C10H16 (camphene)" ;
+	skos:notation "12132" ;
+	dct:description "IUPAC: 2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane, PubChem CID: 6616, CAS Number: 79-92-5, in gas phase"@en	.

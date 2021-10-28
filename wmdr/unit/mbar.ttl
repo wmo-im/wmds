@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<mbar> a skos:Concept ;
+	rdfs:label "millibar" ;
+	skos:notation "mbar" ;
+	dct:description "SI derived unit of pressure, equal to one thousandth of a bar (1E-3 bar)"@en	.

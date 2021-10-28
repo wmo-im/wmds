@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<deg> a skos:Concept ;
+	rdfs:label "degree (angle)" ;
+	skos:notation "deg" ;
+	dct:description "Unit of plane or phase angle, accepted for use with SI: 1 deg = (pi/180) rad"@en	.

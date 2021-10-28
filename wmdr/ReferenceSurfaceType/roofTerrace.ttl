@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<roofTerrace> a skos:Concept ;
+	rdfs:label "roof or terrace" ;
+	skos:notation "roofTerrace" ;
+	dct:description "The roof or terrace of a building, elevated with respect to the surrounding local ground"@en	.

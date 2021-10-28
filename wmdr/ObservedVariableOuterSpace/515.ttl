@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<515> a skos:Concept ;
+	rdfs:label "Electron flux density" ;
+	skos:notation "515" ;
+	dct:description "Flux density of low-, medium-, and high-energy electrons from the magnetosphere, the radiation belts or the interplanetary medium."@en	.

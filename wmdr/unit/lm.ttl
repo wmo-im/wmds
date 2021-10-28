@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<lm> a skos:Concept ;
+	rdfs:label "lumen" ;
+	skos:notation "lm" ;
+	dct:description "SI derived unit of luminous flux, SI base unit equivalent: cd"@en	.

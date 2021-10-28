@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<487> a skos:Concept ;
+	rdfs:label "C9H12 (1,2,4-trimethylbenzene)" ;
+	skos:notation "487" ;
+	dct:description "IUPAC: 1,2,4-trimethylbenzene, PubChem CID: 7247, CAS Number: 95-36-3, in gas phase"@en	.

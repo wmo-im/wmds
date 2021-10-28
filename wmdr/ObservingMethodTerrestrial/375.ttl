@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<375> a skos:Concept ;
+	rdfs:label "Soil evaporimeter, weight based" ;
+	skos:notation "375" ;
+	dct:description "Weight based soil evaporimeters use mechanical scales to account for changes in water content (WMO Guide to Hydrological Practices, 2008)."@en	.

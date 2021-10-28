@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<285> a skos:Concept ;
+	rdfs:label "COF2 (difluoromethanal, carbonyl fluoride)" ;
+	skos:notation "285" ;
+	dct:description "IUPAC: carbonyl difluoride, PubChem CID: 9623, CAS Number: 353-50-4, in gas phase"@en	.

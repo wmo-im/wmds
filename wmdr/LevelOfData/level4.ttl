@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<level4> a skos:Concept ;
+	rdfs:label "Level IV" ;
+	skos:notation "level4" ;
+	dct:description "CEOS: Thematic information. Model output or results from analyses of lower level data (i.e., variables that are not directly measured by the instruments, but are derived from these measurements)."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12013> a skos:Concept ;
+	rdfs:label "Glacier area" ;
+	skos:notation "12013" ;
+	dct:description "Area enclosed by the projection of the glacier outline onto the surface of an ellipsoid approximating the surface of the Earth or onto a planar horizontal approximation to that ellipsoid. The glacier area excludes nunataks but includes debris-covered parts of the glacier. The glacier outline separates the glacier from unglacierized terrain and from contiguous glaciers."@en	.

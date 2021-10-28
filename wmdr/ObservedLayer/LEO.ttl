@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<LEO> a skos:Concept ;
+	rdfs:label "Low Earth orbit altitude range" ;
+	skos:notation "LEO" ;
+	dct:description "Altitude range of low Earth orbiting (LEO) objects with an altitude of 2'000 km or less (approximately one-third of the radius of Earth), or with at least 11.25 periods per day (an orbital period of 128 minutes or less) and an eccentricity less than 0.25. (https://en.wikipedia.org/wiki/Low_Earth_orbit)"@en	.

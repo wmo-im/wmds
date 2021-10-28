@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<Ohm> a skos:Concept ;
+	rdfs:label "ohm" ;
+	skos:notation "Ohm" ;
+	dct:description "SI derived unit of electrical resistance, impedance, reactance, SI base unit equivalent: kg.m2.s-3.A-2"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<517> a skos:Concept ;
+	rdfs:label "Heavy ion differential directional flux" ;
+	skos:notation "517" ;
+	dct:description "Flux density of heavy ions (heavier than Helium) per unit solid angle."@en	.

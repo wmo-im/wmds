@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<guyots> a skos:Concept ;
+	rdfs:label "within guyots" ;
+	skos:notation "guyots" ;
+	dct:description "An undersea mountain having a comparatively smooth flat top. Also called a table mount"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12097> a skos:Concept ;
+	rdfs:label "C3H3N (2-propenenitrile, acrylonitrile)" ;
+	skos:notation "12097" ;
+	dct:description "IUPAC: Prop-2-enenitrile, PubChem CID: 7855, CAS Number: 107-13-1, in gas phase"@en	.

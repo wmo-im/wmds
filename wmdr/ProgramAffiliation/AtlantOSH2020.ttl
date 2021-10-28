@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<AtlantOSH2020> a skos:Concept ;
+	rdfs:label "AtlantOS_H2020" ;
+	skos:notation "AtlantOSH2020" ;
+	dct:description "Atlantic Ocean Observing System Horizon 2020 Argo project"@en	.

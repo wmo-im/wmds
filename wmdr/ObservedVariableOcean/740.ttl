@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<740> a skos:Concept ;
+	rdfs:label "Mean dynamic topography (MDT)" ;
+	skos:notation "740" ;
+	dct:description "Time-mean (over a prescribed time period) of the sea surface height above the geoid"@en	.

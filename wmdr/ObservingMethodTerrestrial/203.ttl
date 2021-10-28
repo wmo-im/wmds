@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<203> a skos:Concept ;
+	rdfs:label "Time domain reflectometry (tdr)" ;
+	skos:notation "203" ;
+	dct:description "An indirect measure of soil water content based on the travel time of a high frequency electromagnetic pulse through the soil; this travel time is used to calculate the permittivity (dielectric constant) of the material (https://labmodules.soilweb.ca/time-domain-reflectometry/, 2021)."@en	.

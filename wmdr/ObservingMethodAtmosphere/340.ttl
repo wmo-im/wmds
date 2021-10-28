@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<340> a skos:Concept ;
+	rdfs:label "Wet-bulb thermometer" ;
+	skos:notation "340" ;
+	dct:description "A thermometer having a bulb that is kept moistened when humidity determinations are being made with a psychrometer. The wet-bulb temperature is the temperature a parcel of air would have if it were cooled to saturation (100% relative humidity) by the evaporation of water into it, with the latent heat being supplied by the parcel."@en	.

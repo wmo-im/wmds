@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12204> a skos:Concept ;
+	rdfs:label "Tin [Sn-113]" ;
+	skos:notation "12204" ;
+	dct:description "IUPAC: tin-113, PubChem CID: 6335514, CAS Number: 13966-06-8"@en	.

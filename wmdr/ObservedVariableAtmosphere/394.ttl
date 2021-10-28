@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<394> a skos:Concept ;
+	rdfs:label "HNO3 (nitric acid)" ;
+	skos:notation "394" ;
+	dct:description "IUPAC: nitric acid, PubChem CID: 944, CAS Number: 7697-37-2, in gas phase"@en	.

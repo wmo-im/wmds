@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<649> a skos:Concept ;
+	rdfs:label "NH4NO3 (ammonium nitrate), PM1" ;
+	skos:notation "649" ;
+	dct:description "IUPAC: ammonium nitrate, PubChem CID: 22985, CAS Number: 6484-52-2, in particle phase, PM1"@en	.

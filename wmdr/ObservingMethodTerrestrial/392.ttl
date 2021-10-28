@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<392> a skos:Concept ;
+	rdfs:label "Human observation" ;
+	skos:notation "392" ;
+	dct:description "The elements of interest are evaluated subjectively and recorded in descriptive language by well trained observers following prepared instructions (WMO Guide to Hydrological Practices, 2008)."@en	.

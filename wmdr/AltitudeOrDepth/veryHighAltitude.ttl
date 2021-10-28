@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<veryHighAltitude> a skos:Concept ;
+	rdfs:label "of very high altitude" ;
+	skos:notation "veryHighAltitude" ;
+	dct:description "Higher than 3000 m above mean sea level"@en	.

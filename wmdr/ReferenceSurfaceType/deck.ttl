@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<deck> a skos:Concept ;
+	rdfs:label "deck" ;
+	skos:notation "deck" ;
+	dct:description "A permanent covering over a compartment or the body of a fixed or mobile platform (ship). Also the horizontal structure that forms the roof of the hull, elevated with respect to the surrounding sea surface"@en	.

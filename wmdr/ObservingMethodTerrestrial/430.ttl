@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<430> a skos:Concept ;
+	rdfs:label "Electrochemical probe" ;
+	skos:notation "430" ;
+	dct:description "The electrochemical effect of two dissimilar metals immersed in water can be applied to manual measuring devices. This results in no battery being required for an electrical current supply. Measurable current flow can be produced by the immersion in most groundwaters either of two electrodes (for example, magnesium and brass) incorporated into a single unit, or of a single electrode (magnesium) with a steel earth pin at the surface. Because of the small currents generated, a microammeter is required as an indicator. The single-electrode system can be incorporated into a graduated steel tape or into a plastic-coated tape with a single conductor cable assembly. The accuracy of measurement depends upon the graduations on the tape, but readings to within 0.5 cm can be readily achieved."@en	.

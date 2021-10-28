@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<UKMOfixed> a skos:Concept ;
+	rdfs:label "UK-MO FIXED" ;
+	skos:notation "UKMOfixed" ;
+	dct:description "UK Metoffice Fixed station"@en	.

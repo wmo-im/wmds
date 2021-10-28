@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<502> a skos:Concept ;
+	rdfs:label "n-C5H12 (n-pentane)" ;
+	skos:notation "502" ;
+	dct:description "IUPAC: pentane, PubChem CID: 8003, CAS Number: 109-66-0, in gas phase"@en	.

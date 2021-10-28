@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12107> a skos:Concept ;
+	rdfs:label "C5H10O (2-methyl-3-buten-2-ol)" ;
+	skos:notation "12107" ;
+	dct:description "IUPAC: 2-Methylbut-3-en-2-ol, PubChem CID: 8257, CAS Number: 115-18-4, in gas phase"@en	.

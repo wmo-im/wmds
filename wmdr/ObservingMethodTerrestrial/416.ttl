@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<416> a skos:Concept ;
+	rdfs:label "Water discharge-sediment discharge rating curve" ;
+	skos:notation "416" ;
+	dct:description "A continuous record of suspended-sediment discharge is computed from a record of stream discharges and systematic samples of suspended-sediment concentration. The samples should be taken daily during periods of low and mean flow and more frequently during floods (WMO Guide to Hydrological Practices, 2008)."@en	.

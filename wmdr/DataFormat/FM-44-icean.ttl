@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<FM-44-icean> a skos:Concept ;
+	rdfs:label "FM 44 - ICEAN" ;
+	skos:notation "FM-44-icean" ;
+	dct:description "Ice analysis. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en	.

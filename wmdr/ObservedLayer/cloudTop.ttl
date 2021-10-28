@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<cloudTop> a skos:Concept ;
+	rdfs:label "Cloud top" ;
+	skos:notation "cloudTop" ;
+	dct:description "For a given cloud or cloud layer, the highest level in the atmosphere at which the air contains a perceptible quantity of cloud particles (http://glossary.ametsoc.org/wiki/Cloud_top)"@en	.

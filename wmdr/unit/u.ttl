@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<u> a skos:Concept ;
+	rdfs:label "unified atomic mass unit" ;
+	skos:notation "u" ;
+	dct:description "Physical constant u or Da (Dalton), unit of mass"@en	.

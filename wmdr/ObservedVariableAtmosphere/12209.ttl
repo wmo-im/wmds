@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12209> a skos:Concept ;
+	rdfs:label "Iodine [I-126], elementary" ;
+	skos:notation "12209" ;
+	dct:description "IUPAC: n/a, PubChem CID: 161029, CAS Number: 14158-32-8"@en	.

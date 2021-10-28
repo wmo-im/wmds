@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<594> a skos:Concept ;
+	rdfs:label "CCl4 (tetrachloromethane, carbon tetrachloride)" ;
+	skos:notation "594" ;
+	dct:description "IUPAC: tetrachloromethane, PubChem CID: 5943, CAS Number: 56-23-5, in gas phase"@en	.

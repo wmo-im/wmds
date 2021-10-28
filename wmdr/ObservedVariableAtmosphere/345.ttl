@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<345> a skos:Concept ;
+	rdfs:label "C16H10 (pyrene), in air and aerosol" ;
+	skos:notation "345" ;
+	dct:description "IUPAC: pyrene, PubChem CID: 31423, CAS Number: 129-00-0, in aerosol"@en	.

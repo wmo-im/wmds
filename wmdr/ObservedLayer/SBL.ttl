@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<SBL> a skos:Concept ;
+	rdfs:label "Surface boundary layer" ;
+	skos:notation "SBL" ;
+	dct:description "Layer of air tens of meters thick adjacent to the ground where mechanical (shear) generation of turbulence exceeds buoyant generation or consumption (http://glossary.ametsoc.org/wiki/Surface_boundary_layer)"@en	.

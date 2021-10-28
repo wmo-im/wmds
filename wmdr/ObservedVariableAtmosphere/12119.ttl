@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12119> a skos:Concept ;
+	rdfs:label "CHBr2Cl (dibromochloromethane)" ;
+	skos:notation "12119" ;
+	dct:description "IUPAC: dibromo(chloro)methane, PubChem CID: 31296, CAS Number: 124-48-1, in gas phase"@en	.

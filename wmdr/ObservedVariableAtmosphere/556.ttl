@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<556> a skos:Concept ;
+	rdfs:label "C2HF5 (pentafluoroethane, HFC-125)" ;
+	skos:notation "556" ;
+	dct:description "IUPAC: 1,1,1,2,2-pentafluoroethane, PubChem CID: 9633, CAS Number: 354-33-6, in gas phase"@en	.

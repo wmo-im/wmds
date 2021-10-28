@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12133> a skos:Concept ;
+	rdfs:label "C10H16 (D-limonene)" ;
+	skos:notation "12133" ;
+	dct:description "IUPAC: (4R)-1-methyl-4-prop-1-en-2-ylcyclohexene, PubChem CID: 440917, CAS Number: 5989-27-5, in gas phase"@en	.

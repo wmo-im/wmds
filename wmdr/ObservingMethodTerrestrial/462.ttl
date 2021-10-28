@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<462> a skos:Concept ;
+	rdfs:label "Winkler titration" ;
+	skos:notation "462" ;
+	dct:description "In the Winkler method the addition of reagents (Mn++ solution and basic iodure solution) in the sample at the moment of its grab permits its oxygen fixation. Analysis will then be performed in the laboratory on a sample preserved by light (WMO Guide to Hydrological Practices, 2008)."@en	.

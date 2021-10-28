@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<planetaryScale> a skos:Concept ;
+	rdfs:label "planetary scale (> 3000 km)" ;
+	skos:notation "planetaryScale" ;
+	dct:description "An area or volume of more than 3000 km horizontal extent (for example, long upper tropospheric waves)."@en	.

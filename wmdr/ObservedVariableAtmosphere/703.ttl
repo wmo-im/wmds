@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<703> a skos:Concept ;
+	rdfs:label "Hg (Mercury), TSP" ;
+	skos:notation "703" ;
+	dct:description "IUPAC: mercury, PubChem CID: 23931, CAS Number: 7439-97-6, in particle phase, TSP"@en	.
