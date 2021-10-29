@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<409> a skos:Concept ;
-	rdfs:label "Pumping sampler" ;
-	skos:notation "409" ;
-	dct:description "The pumping sampler sucks the water-sediment mixture through a pipe or hose, the intake of which is placed at the sampling point. By regulating the intake velocity, the operator can obtain a sample that is representative of the sediment concentration at the point of measurement (WMO Guide to Hydrological Practices, 2008)."@en	.

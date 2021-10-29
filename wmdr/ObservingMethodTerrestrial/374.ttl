@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<374> a skos:Concept ;
-	rdfs:label "Estimation by turbulent-diffusion method" ;
-	skos:notation "374" ;
-	dct:description "If at a fixed point near the ground we use the symbols p, w, q to denote density, vertical velocity and specific humidity as functions of time, the rate of evaporation per unit area is given by E = pwq where the bar denotes the average over the time interval considered (Thechnical Note No. 24, Turbulent Diffusion in the Atmosphere, WMO-No.77.TP.31, 1958)."@en	.

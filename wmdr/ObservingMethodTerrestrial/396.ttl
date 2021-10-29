@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<396> a skos:Concept ;
-	rdfs:label "Float method" ;
-	skos:notation "396" ;
-	dct:description "This method consists of measuring the surface velocity the water with a floating object. Float observations must be uniformly distributed over the width of the stream. The velocity is thus obtained, and the discharge may be calculated by multiplying the velocity by the width and the average depth of the stream."@en	.

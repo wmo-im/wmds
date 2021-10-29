@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<419> a skos:Concept ;
-	rdfs:label "Bed-material pan sampler" ;
-	skos:notation "419" ;
-	dct:description "Pan samplers are usually wedge-shaped in longitudinal section and are located so that the point of the wedge cuts the current. The pan contains baffles and slots to catch the moving material (WMO Guide to Hydrological Practices, 2008)."@en	.

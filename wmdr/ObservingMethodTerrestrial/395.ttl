@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<395> a skos:Concept ;
-	rdfs:label "Velocity area method using a current meter" ;
-	skos:notation "395" ;
-	dct:description "The depth of flow in the cross-section is measured at verticals with a rod or sounding line. As the depth is measured, observations of velocity are obtained with a current meter at one or more points in the vertical. The measured widths, depths and velocities permit computation of discharge for each segment of the cross-section. The summation of these segment discharges is the total discharge (International Organization for Standardization, 1979: Liquid Flow Measurement in Open Channels: Velocity-area Methods. Second edition, ISO 748, Geneva)."@en	.

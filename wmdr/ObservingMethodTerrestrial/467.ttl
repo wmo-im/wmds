@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<467> a skos:Concept ;
-	rdfs:label "ATP testing" ;
-	skos:notation "467" ;
-	dct:description "An ATP test is the process of rapidly measuring active microorganisms in water through detection adenosine triphosphate (ATP). It gives a direct measure of biological concentration and health."@en	.

@@ -5,4 +5,4 @@
 <194> a skos:Concept ;
 	rdfs:label "Soil thermometer" ;
 	skos:notation "194" ;
-	dct:description "A thermometer specifically designed to measure temperature of the soil"@en	.
+	dct:description ""@en	.

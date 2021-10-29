@@ -5,4 +5,4 @@
 <128> a skos:Concept ;
 	rdfs:label "Heat flux plate" ;
 	skos:notation "128" ;
-	dct:description "A heat flux sensor is a transducer that generates an electrical signal proportional to the total heat rate applied to the surface of the sensor. The measured heat rate is divided by the surface area of the sensor to determine the heat flux (https://en.wikipedia.org/wiki/Heat_flux_sensor, 2021)."@en	.
+	dct:description ""@en	.

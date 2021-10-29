@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<434> a skos:Concept ;
-	rdfs:label "Flow meter" ;
-	skos:notation "434" ;
-	dct:description "A mechanical, electrical or electronic meter used to measure fluid flow inside a pipe (WMO Guide to Hydrological Practices, 2008)."@en	.

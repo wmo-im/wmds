@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<412> a skos:Concept ;
-	rdfs:label "Equal transit rate (ETR) method" ;
-	skos:notation "412" ;
-	dct:description "The stream width is divided into 6 to 10 equal distances separated by the verticals and one depth-integrated sample is taken at each vertical at a constant transit rate. In the latter case, all samples can be composited into a single representative discharge-weighted sample (WMO Guide to Hydrological Practices, 2008)."@en	.

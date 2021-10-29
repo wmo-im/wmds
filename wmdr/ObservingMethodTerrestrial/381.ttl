@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<381> a skos:Concept ;
-	rdfs:label "Estimation by priestley-taylor (radiation) method" ;
-	skos:notation "381" ;
-	dct:description "The method of Priestley and Taylor (Priestley and Taylor, 1972) is based on the argument that, for large, wet areas, radiation controls of evaporation must dominate rather than advective controls. If the atmosphere remains saturated when in contact with the wet surface, then the latent-heat transfer (evaporation) may be expressed by: λE = ( ε / ( ε + 1 ))(Q* − G ), where Q* is the available net radiation, G is the soil-heat flux, and ε equals sλ/c_p , with s equal to the slope of the saturation specific humidity curve, λ is the latent heat of vaporization, and c_p is the specific heat of water. For equilibrium evaporation, it is proposed that: λE = α (ε / ( ε + 1 ))(Q* − G ), with α = 1.26, an empirical constant. This expression is used as an estimate of potential evaporation in the absence of local advection. It also gives good estimates for evaporation from well-watered but not wet vegetation in much smaller regions (WMO Guide to Hydrological Practices, 2008)."@en	.

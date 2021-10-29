@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<389> a skos:Concept ;
-	rdfs:label "Recording gauge" ;
-	skos:notation "389" ;
-	dct:description "Many different types of continuously recording stage gauges are in use, which may be classified according to both mode of actuation and mode of recording (WMO Guide to Hydrological Practices, 2008)."@en	.

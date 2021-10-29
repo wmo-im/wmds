@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<433> a skos:Concept ;
-	rdfs:label "Timed fill of a calibrated volume" ;
-	skos:notation "433" ;
-	dct:description "The time the pumped discharge takes to fill a calibrated volume is measured. Dividing that volume by the time yields the unit pumping rate (WMO Guide to Hydrological Practices, 2008)."@en	.

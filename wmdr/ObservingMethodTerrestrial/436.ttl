@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<436> a skos:Concept ;
-	rdfs:label "Aquifer pumping test" ;
-	skos:notation "436" ;
-	dct:description "The general aim of an aquifer test is to determine hydraulic parameters where pumping is controlled and generally held constant and water levels in the pumped well and nearby observation wells are measured. Several (normally three) observation wells are located at various radii from the pumped well. The pumping, of known discharge, causes a cone of depression in the aquifers potentiometric (piezometric) surface to form which results in a drawdown, which is the difference between the initial head, and the pumping head, h. Water-level data in each well including the pumping well are collected prior to the start of pumping to establish the pre-test static water level, and thereafter throughout the test. The pump discharge is also monitored (WMO Guide to Hydrological Practices, 2008)."@en	.

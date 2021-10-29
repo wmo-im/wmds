@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <187> a skos:Concept ;
-	rdfs:label "Electrical resistance blocks (porous blocks)" ;
+	rdfs:label "Resistance block tensiometer" ;
 	skos:notation "187" ;
-	dct:description "Porous blocks are made of gypsum, glass/gypsum matrix, ceramic, nylon and fibreglass. They are buried at the depth of measurement desired. Over time, the blocks come to equilibrium with the moisture content in the surrounding soil. Therefore, the subsequent measurement is related to soil water tension. In the case of electrical resistance blocks, two electrodes are buried inside the block with a cable extending to the surface. The electrical resistance is measured between the two electrodes using a meter attached to the cable. Higher resistance readings mean lower block water content and higher soilwater tension (WMO Guide to Hydrological Practices, 2008)."@en	.
+	dct:description ""@en	.

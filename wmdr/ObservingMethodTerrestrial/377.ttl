@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<377> a skos:Concept ;
-	rdfs:label "Soil evaporimeter, volumetric based" ;
-	skos:notation "377" ;
-	dct:description "In volumetric soil evaporimeters water content is kept constant and evapotranspiration is measured by the amount of water added or removed (WMO Guide to Hydrological Practices, 2008)."@en	.

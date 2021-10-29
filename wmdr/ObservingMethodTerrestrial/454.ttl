@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<454> a skos:Concept ;
-	rdfs:label "Polarographic probe" ;
-	skos:notation "454" ;
-	dct:description "A polarographic sensor is commonly used to determine the dissolved oxygen concentration in a liquid. The dissolved oxygen will be reduced at the surface of a noble metal electrode, the working electrode, acting as a cathode: O₂ + 2 H₂O + 4 e– → 4 OH–. A silver/silver chloride counter electrode, the anode, releases the required electrons: 4 Ag → 4 Ag+ + 4 e–. This electron flow from the anode to the cathode represents the measuring signal which is proportional to the partial pressure of oxygen in the measured solution (https://www.hamiltoncompany.com/, 2021)."@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<408> a skos:Concept ;
-	rdfs:label "Trap sampler" ;
-	skos:notation "408" ;
-	dct:description "It consists of a horizontal cylinder equipped with end valves that can be closed suddenly to trap a sample at any desired time and depth (WMO Guide to Hydrological Practices, 2008)."@en	.

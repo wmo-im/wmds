@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<429> a skos:Concept ;
-	rdfs:label "Double-electrode system" ;
-	skos:notation "429" ;
-	dct:description "The double-electrode system employs two small adjacent electrodes incorporated into a single unit of 10 to 20 cm in length at the end of the cable. The system also includes a battery and an electrical current meter. Current flows through the system when the electrodes are immersed in water. The cable must have negligible stretch and plastic-coated cables are preferred to rubber sheathed cables. The cable is calibrated with adhesive tape or markers at fixed intervals of 1 or 2 m. The exact depth-to-water level is measured by steel rule to the nearest marker on the cable (WMO Guide to Hydrological Practices, 2008)."@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<378> a skos:Concept ;
-	rdfs:label "Estimation by mass-transfer method" ;
-	skos:notation "378" ;
-	dct:description "The mass-transfer approach is based on the determination of the mass of water vapour transferred from the water surface to the atmosphere. It uses the Dalton’s aerodynamic law giving the relationship between evaporation and vapour pressure as:E = k (e_s – e_a ), where E = direct evaporation, k = a coefficient depending on the wind velocity, atmospheric pressure and other factors, e_s and e_a = saturation vapour pressure corresponding to the water-surface temperature and the vapour pressure of the air, respectively. Mean daily temperature and relative humidity may be used in determining mean vapour pressure e_a and mean saturation deficit (e_s – e_a ) (originally proposed by Harbeck and Meyers, 1970, WMO Guide to Hydrological Practices, 2008)."@en	.

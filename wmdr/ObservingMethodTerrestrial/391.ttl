@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<391> a skos:Concept ;
-	rdfs:label "Pressure-actuated recording gauge" ;
-	skos:notation "391" ;
-	dct:description "Various pressure-actuated recording gauges in common use operate on the principle that static pressure at a fixed point in the stream is directly proportional to the head of liquid above the point. This relation is described by the following equation: Water level = (P_static – P_atm ) C, where P_static is the pressure in bar on a fixed spot in the water column, P_atm is the atmospheric pressure in bar on the surface of the water column, and C is a factor of the water’s net weight (C = 10.2 for freshwater at 20°C), which changes with the temperature and salinity of the water (WMO Guide to Hydrological Practices, 2008)."@en	.

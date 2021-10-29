@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<451> a skos:Concept ;
-	rdfs:label "Potentiometry (pH meter)" ;
-	skos:notation "451" ;
-	dct:description "A pH meter is a scientific instrument that measures the hydrogen-ion activity in water-based solutions, indicating its acidity or alkalinity expressed as pH. The pH meter measures the difference in electrical potential between a pH electrode and a reference electrode. The difference in electrical potential relates to the acidity or pH of the solution (Wikipedia, 2021)"@en	.

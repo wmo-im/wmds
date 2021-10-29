@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<445> a skos:Concept ;
-	rdfs:label "Van Dorn bottle" ;
-	skos:notation "445" ;
-	dct:description "The Van Dorn bottle is designed for sampling at a depth of 2 m. Its horizontal configuration should be used when samples are taken at the bottom, at the sediment-water interface (WMO Guide to Hydrological Practices, 2008)."@en	.

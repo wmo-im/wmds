@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<360> a skos:Concept ;
-	rdfs:label "Standard rain gauge, with melting" ;
-	skos:notation "360" ;
-	dct:description "Snow collected in a non-recording raingauge is be melted immediately and measured by means of an ordinary measuring cylinder graduated for rainfall (WMO, Guide to Hydrological Practices, 2008)."@en	.

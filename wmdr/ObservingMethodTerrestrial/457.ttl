@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<457> a skos:Concept ;
-	rdfs:label "Visual comparison with standard glass colour discs or plates" ;
-	skos:notation "457" ;
-	dct:description "The water color ir compared visually with a standard color scale."@en	.

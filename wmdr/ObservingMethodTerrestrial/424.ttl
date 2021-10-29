@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<424> a skos:Concept ;
-	rdfs:label "Seismic surface geophysical method" ;
-	skos:notation "424" ;
-	dct:description "Sound waves are artificially generated using mechanical means such as blows from a hammer or small explosive charges. Seismic waves radiate from the point source, some travel through the surface layers, some are reflected from the surfaces of underlying materials having different physical properties, and others are refracted as they pass through the various layers. Different approaches are used for reflection and refractions data (WMO Guide to Hydrological Practices, 2008)."@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<368> a skos:Concept ;
-	rdfs:label "Estimation of rainfall from catchment water balance" ;
-	skos:notation "368" ;
-	dct:description "The amount of water percolating into the soil is related to the effective rainfall, that is, the difference between the rainfall reaching the ground and that evaporated from the surface and vegetation. A simple input-storage-output hydrological model of the catchment may be used to relate the measured river hydrograph to the effective rainfall (WMO, Guide to Hydrological Practices, 2008)."@en	.

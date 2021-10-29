@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<458> a skos:Concept ;
-	rdfs:label "Tristimulus Filter Method" ;
-	skos:notation "458" ;
-	dct:description "Three special tristimulus light filters, combined with a specific light source and photoelectric cell in a filter photometer, may be used to obtain color data suitable for routine control purposes. The percentage of tristimulus light transmitted by the solution is determined for each of the three filters. The transmittance values then are converted to trichromatic coefficients and color characteristic values (https://law.resource.org/pub/us/cfr/ibr/002/apha.method.2120.1992.html, 2021)."@en	.

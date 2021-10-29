@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<423> a skos:Concept ;
-	rdfs:label "Borehole geophysical logging" ;
-	skos:notation "423" ;
-	dct:description "A sonde is lowered by cable into a well or uncased borehole. As it is lowered or raised, a sensor on the sonde makes a measurement of a particular property or suite of properties (WMO Guide to Hydrological Practices, 2008)."@en	.

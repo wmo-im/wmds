@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<371> a skos:Concept ;
-	rdfs:label "Estimation by water budget" ;
-	skos:notation "371" ;
-	dct:description "The method is based on the continuity equation and can be utilized for the purpose of computing evaporation as: E = I – O – ΔS, where E = evaporation, I = inflow, O = outflow and ΔS = change in storage (WMO Guide to Hydrological Practices, 2008)."@en	.

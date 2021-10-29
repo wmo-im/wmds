@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<405> a skos:Concept ;
-	rdfs:label "Electromagnetic flow meter" ;
-	skos:notation "405" ;
-	dct:description "The motion of water flowing in a river cuts the vertical component of the Earth’s magnetic field, and an electromotive force (emf) is induced in the water that can be measured by two electrodes. This emf, which is directly proportional to the average velocity in the river, is induced along each traverse filament of water as the water cuts the line of the Earth’s vertical magnetic field. In an electromagnetic gauging station the coil is placed in the bed to generate a vertical magnetic field across the full channel width. Electrodes, set into opposite banks of the channel, sense the potential induced by the water flowing through the magnetic field. Control equipment drives en electric current through the coil and measures the induced potential which is proportional to the average velocity of the water. This is combined with a measurement of the river's cros sectional area to give discharge (Herschy and Newman, 1974: The Measurement of open channel flow by the electromagnetic gauge. In Advances in Hydrometry, IAHS Publ. no. 134)."@en	.

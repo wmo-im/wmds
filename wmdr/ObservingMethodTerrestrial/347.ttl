@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<347> a skos:Concept ;
-	rdfs:label "Liquid-in-glass thermometer (mercury-free)" ;
-	skos:notation "347" ;
-	dct:description "In the LIG thermometer the thermally sensitive element is a liquid contained in a graduated glass envelope. The principle used to measure temperature is that of the apparent thermal expansion of the liquid (http://automationwiki.com/index.php/Liquid-In-Glass_Thermometers, 2021)."@en	.

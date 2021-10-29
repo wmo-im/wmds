@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<363> a skos:Concept ;
-	rdfs:label "Horizontal radioisotope snow gauge" ;
-	skos:notation "363" ;
-	dct:description "The measuring element consists of two vertical tubes of the same length, at a distance of 0.5 to 0.7 m from each other. One tube contains a source of gamma-radiation (Caesium-137 with a half-life of 30 years and activity of 10 or 30 mCi), while the other contains a detector (Geiger–Müller counter or scintillation crystal with photo-multiplier). In the process of obtaining a profile, a special motor, synchronous with the detector, moves the radioactive source upwards and downwards in the tube. (WMO, Guide to Hydrological Practices, 2008)."@en	.

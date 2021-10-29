@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<404> a skos:Concept ;
-	rdfs:label "Ultrasonic (acoustic) flow meter" ;
-	skos:notation "404" ;
-	dct:description "The principle of the ultrasonic method is to measure the velocity of flow at a certain depth by simultaneously transmitting sound pulses through the water from transducers located on either side of the river. The transducers, which are designed both to transmit and receive sound pulses, are located on opposite banks, so that the angle between the pulse path and the direction of flow is between 30° and 60°. The difference between the time of travel of the pulses crossing the river in an upstream direction and those travelling downstream is directly related to the average velocity of the water at the depth of the transducers. This velocity can be related to the average velocity of flow of the whole cross-section. The incorporation of an area computation into the electronic processor allows the system to output discharge (WMO Guide to Hydrological Practices, 2008)."@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<362> a skos:Concept ;
-	rdfs:label "Snow-sampling" ;
-	skos:notation "362" ;
-	dct:description "Snow-sampling equipment commonly consists of a metal or plastic tube with a snow cutter fixed at its lower end and with a length scale stamped on its exterior surface throughout its length, a spring or level balance for determining the weight of the snowcores, a wire cradle for supporting the tube while it is being weighed and tools for operating the snow sampler (WMO, Guide to Hydrological Practices, 2008)."@en	.

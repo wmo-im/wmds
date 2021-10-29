@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<406> a skos:Concept ;
-	rdfs:label "Acoustic doppler current profiler (adcp)" ;
-	skos:notation "406" ;
-	dct:description "ADCP instruments can be mounted on a moving vessel, such as an inflatable boat. The instrument uses an acoustic doppler transducer to measure water velocity, depth and vessel path simultaneously to compute discharge. As an ADCP instrument processes the signal reflected off the particles in the water, it divides the water column into a number of discrete segments stacked in the vertical. These segments are called depth cells. An ADCP instrument determines the velocity and direction of each depth cell. At the same time the signal from the bottom, called bottom-track, measures the speed and direction of the boat. Once the profile is finished the ADCP calculates the total discharge. At least four transects are recommended to calculate the discharge at a site. The actual river discharge estimate will then be the average of the N individual transects discharge values (WMO Guide to Hydrological Practices, 2008)."@en	.

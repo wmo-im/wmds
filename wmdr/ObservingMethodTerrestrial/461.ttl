@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<461> a skos:Concept ;
-	rdfs:label "BOD test, manometric method" ;
-	skos:notation "461" ;
-	dct:description "The manometric method for BOD-determination is based on the fact that the oxygen which is converted to carbon dioxide is removed from the gas phase of the sample by the use of potassium hydroxide. Therefore, in the closed system BOD-flask/BOD-sensor, a drop in pressure occurs, which is proportional to the amount of oxygen consumed (http://dl.aqualytic.de/studies/determination_aqua_gb.pdf, 2021)."@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<427> a skos:Concept ;
-	rdfs:label "Magnetic surface geophysical method" ;
-	skos:notation "427" ;
-	dct:description "The magnetic properties of rocks affect the Earth’s magnetic field; for example, many basalts are more magnetic than sediments or acid igneous rocks. The strength and vertical component of the Earth’s magnetic field is measured and plotted. Analysis of the results may indicate qualitatively the depth to bedrock and presence of buried dykes, sills and similar phenomena (WMO Guide to Hydrological Practices, 2008)."@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<440> a skos:Concept ;
-	rdfs:label "Depth integrated sampling" ;
-	skos:notation "440" ;
-	dct:description "The collection of depth-integrated samples in a single vertical at a specific depth (WMO Guide to Hydrological Practices, 2008)."@en	.

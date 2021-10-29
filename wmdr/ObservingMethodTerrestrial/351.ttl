@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<351> a skos:Concept ;
-	rdfs:label "Multi-beam echo sounder" ;
-	skos:notation "351" ;
-	dct:description "A multibeam echo sounder attached to a boat sends out a wide array of beams across a 'swath' of the waterbody floor. As the beams are bounced back from the waterbody floor, the data is collected and processed (USGS.gov, 2021)."@en	.

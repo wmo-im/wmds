@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<399> a skos:Concept ;
-	rdfs:label "Computation using slope-area measurements" ;
-	skos:notation "399" ;
-	dct:description "Discharge is computed on the basis of a uniform flow equation, such as the Manning equation, involving channel characteristics, water-surface profiles and roughness coefficients (WMO Guide to Hydrological Practices, 2008)."@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<348> a skos:Concept ;
-	rdfs:label "Aerial photography" ;
-	skos:notation "348" ;
-	dct:description "The acquisition of surface geometric models through overlapping either aerial or ground-based photographs (René Booysen, ... Paul A.M. Nex, in Encyclopedia of Geology, Second Edition, 2021)"@en	.

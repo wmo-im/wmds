@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<449> a skos:Concept ;
-	rdfs:label "Dissolved-oxygen sampler" ;
-	skos:notation "449" ;
-	dct:description "A dissolved-oxygen sampler usually consist of a cylindrical nickel plated body containing a BOD bottle. The body is lowered into the water by a rope carrying a messenger. When the messenger is dropped at the required depth a trip mechanism allows water to enter through a fill pipe into the BOD bottle."@en	.

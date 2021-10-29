@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<390> a skos:Concept ;
-	rdfs:label "Wire-float recording gauge (hydrograph)" ;
-	skos:notation "390" ;
-	dct:description "Usually the installation consists of a stilling well connected to the stream by pipes and a float in the stilling well connected to a wheel on a recorder by a beaded wire or perforated tape. The recorder can either be mechanical or electronic (WMO Guide to Hydrological Practices, 2008)."@en	.

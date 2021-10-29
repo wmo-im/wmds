@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<398> a skos:Concept ;
-	rdfs:label "Computation using hydraulic factors from field survey" ;
-	skos:notation "398" ;
-	dct:description "A detailed survey is made to define channel geometry adjacent to and within the selected reach, the channel cross-sections, the dimensions and details of culverts, bridges, dams, roadways or other artificial structures, and the positions and locations of high-water marks left by the flood. All factors that affect channel roughness are noted and roughness coefficients are selected. From the field survey notes, drawings are made showing the plan, the profiles of the channel bottom and high-water surface on both banks, the cross-sectional areas and details of any artificial structures. Computations are made of hydraulic factors and the discharge is computed(WMO Guide to Hydrological Practices, 2008)."@en	.

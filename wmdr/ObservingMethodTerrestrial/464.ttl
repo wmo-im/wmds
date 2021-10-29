@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<464> a skos:Concept ;
-	rdfs:label "Most probable number" ;
-	skos:notation "464" ;
-	dct:description "The most probable number (MPN) is a statistical method used to estimate the viable numbers of bacteria in a sample by inoculating broth in 10-fold dilutions and is based on the principle of extinction dilution."@en	.

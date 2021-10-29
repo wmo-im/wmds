@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<383> a skos:Concept ;
-	rdfs:label "Gamma-ray attenuation" ;
-	skos:notation "383" ;
-	dct:description "The method consists of concurrently lowering a gamma-ray source (generally Caesium 137) and a gamma-ray detector (scintillator-photomultiplier) down a pair of parallel access tubes that have been installed in the soil. At each measurement level, the signal can be translated into the apparent wet density of the soil or, if the apparent dry bulk density of the soil is known, the signal can be converted into a measure of the volumetric soil-moisture content (WMO Guide to Hydrological Practices, 2008)."@en	.

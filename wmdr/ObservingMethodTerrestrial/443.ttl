@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<443> a skos:Concept ;
-	rdfs:label "Equal-discharge-increment method sampling" ;
-	skos:notation "443" ;
-	dct:description "The equal-discharge-increment method requires detailed knowledge of the streamflow distribution in the cross-section to subdivide the cross-section into verticals spaced in proportion to the incremental discharges (WMO Guide to Hydrological Practices, 2008)."@en	.

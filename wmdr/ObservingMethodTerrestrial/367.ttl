@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<367> a skos:Concept ;
-	rdfs:label "Hail pad" ;
-	skos:notation "367" ;
-	dct:description "Direct measurements of the size distribution of hail are made using, for example, a 1 m x 1 m square of material such as polystyrene on to which hail stones fall leaving an indentation the size of which is measured (WMO, Guide to Hydrological Practices, 2008)."@en	.

@@ -5,4 +5,4 @@
 <200> a skos:Concept ;
 	rdfs:label "Tensiometer" ;
 	skos:notation "200" ;
-	dct:description "A tensiometer in soil science is a measuring instrument used to determine the matric water potential (soil moisture tension) in the vadose zone. This device typically consists of a glass or plastic tube with a porous ceramic cup and is filled with water. The top of the tube has either a built-in vacuum gauge or a rubber cap used with a portable puncture tensiometer instrument, which uses a hypodermic needle to measure the pressure inside the tensiometer (https://en.wikipedia.org/wiki/Tensiometer_(soil_science), 2021)."@en	.
+	dct:description ""@en	.
