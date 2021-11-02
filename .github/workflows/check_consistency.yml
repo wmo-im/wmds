@@ -1,6 +1,11 @@
 name: check_consistency
 
-on: pull_request
+on:
+  # Trigger the workflow on push
+  # but only for the master branch
+  push:
+    branches:
+      - master
 
 jobs:
   build:
