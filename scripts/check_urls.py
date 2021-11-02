@@ -85,16 +85,6 @@ class TestContentsConsistency(unittest.TestCase):
                          lbe + inexp.serialize(format='n3').decode("utf-8")))
 
 
-# Clean all .ttl files from the source tree
-
-for f in glob.glob('wmdr/**/*.ttl', recursive=True):
-    os.remove(f)
-
-# Ensure that all TTL content is built from the input tables.
-
-makeWMDR.main()
-
-print('made ttl')
 # Build test cases based on the TTL files within the repository,
 # one test case per file.
 for f in glob.glob('wmdr/**/*.ttl', recursive=True):
