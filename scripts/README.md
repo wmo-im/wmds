@@ -2,15 +2,15 @@
 
 there are two github workflows configured for this repository
 
+### pre commit hook
+
+pre commit hook runs on the pull request.  it creates all `ttl` files from the csv source, then uses git to evaluate which files have changed content.  any files which have changed are then placed into a new 1github action commit` and added to the pull request for review.
+
 ### check consistency
 
 check_consistency runs only when a pull request is merged or the master branch is changed directly
 This checks that the contents on the 'test' and 'prod' registers is consistent with the repository
 tests can be rerun following managed uppload through the github actions tab
-
-### pre commit hook
-
-pre commit hook runs on the pull request.  it creates all `ttl` files from the csv source, then uses git to evaluate which files have changed content.  any files which have changed are then placed into a new 1github action commit` and added to the pull request for review.
 
 ## Testing and management
 
