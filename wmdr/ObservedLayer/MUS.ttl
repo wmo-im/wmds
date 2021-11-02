@@ -5,4 +5,4 @@
 <MUS> a skos:Concept ;
 	rdfs:label "Middle and upper stratosphere" ;
 	skos:notation "MUS" ;
-	dct:description "Middle and upper stratosphe (ca. 25 - 47 km altitude)"@en	.
+	dct:description "Middle and upper stratosphere (ca. 25 - 47 km altitude)"@en	.
