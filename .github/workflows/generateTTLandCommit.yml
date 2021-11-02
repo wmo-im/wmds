@@ -1,4 +1,4 @@
-name: pre-commit
+name: generate-ttl-and-commit
 
 on: pull_request
 
