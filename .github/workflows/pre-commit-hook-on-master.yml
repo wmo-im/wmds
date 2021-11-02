@@ -1,11 +1,6 @@
 name: pre-commit
 
-on:
-  # Trigger the workflow on push
-  # but only for the master branch
-  push:
-    branches:
-      - master
+on: pull_request
 
 jobs:
   build:
@@ -16,9 +11,11 @@ jobs:
         python-version: [3.6]
 
     steps:
-      - uses: actions/checkout@v1
+      - name: Checkout
+        uses: actions/checkout@v2
         with:
-          ref: ${{ github.head_ref }}
+          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.sha }} 
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v1
         with:
@@ -29,18 +26,16 @@ jobs:
           pip install rdflib
           pip install requests
           pip install testtools
-      - name: Test - then commit results if successful
+      - name: Generate and commit ttl to PR branch
         run: |
           python3 -m scripts.makeWMDREntities
           git status
-          git checkout master
           git add ./\*.ttl
           if [ -z "$(git status --porcelain)" ]; 
               then echo 'nothing to commit'
           else 
-              git config --global user.email "no-response.github@wmo.int"
-              git config --global user.name "Github WMO-IM Actor"
+              git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+              git config --global user.name "${{ github.actor }}"
               git commit -am 'Github Action Commit'
-              git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-              git push
+              git push origin HEAD:${{ github.head_ref }}
           fi
