@@ -18,10 +18,6 @@ _Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-C
 
 \[add brief overview\]
 
-# **Stakeholder(s)**
-
-\[include emails or handles as relevant\]
-
 # **Proposal**
 
 \[your specific proposal to resolve the issue - update when decision on proposal is finalised\]
@@ -29,3 +25,13 @@ _Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-C
 # **Reason**
 
 \[your reasoning why the proposal resolves the issue\]
+
+# **Stakeholder(s)**
+
+\[include names and emails or handles of individuals or groups that introduced the proposal\]
+
+# Consultations
+
+\[include references to manuals or guides that are reviewed to ensure alignment. If proposal differs then document how and why\]
+
+\[include names and emails or handles of individuals or groups that reviewed the proposal\]
