@@ -38,4 +38,4 @@ _Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-C
 
 # Expected Impact of Change
 
-\[enter low (editorial changes to existing codes), medium (new codes) or high (deprecated and superseded codes\]
+\[enter **low** (for editorial changes to existing codes), **medium** (for new codes) or **high** (for deprecated and superseded codes\]
