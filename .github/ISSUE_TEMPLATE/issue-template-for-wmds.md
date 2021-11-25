@@ -35,3 +35,7 @@ _Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-C
 \[include references to manuals or guides that are reviewed to ensure alignment. If proposal differs then document how and why\]
 
 \[include names and emails or handles of individuals or groups that reviewed the proposal\]
+
+# Expected Impact of Change
+
+\[enter low (editorial changes to existing codes), medium (new codes) or high (deprecated and superseded codes\]
