@@ -12,7 +12,7 @@ _Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-C
 
 # **Branch**
 
-\[add branch when created\]
+ \[branch will be added later\]
 
 # **Summary and Purpose**
 
