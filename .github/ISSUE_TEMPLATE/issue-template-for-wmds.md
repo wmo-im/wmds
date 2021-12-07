@@ -14,32 +14,32 @@ _Please consult the_ [_Guidance_](https://github.com/wmo-im/wmds/wiki/Changing-C
 
 ## **Branch**
 
- \[branch will be added later\]
+ _\[branch will be added later\]_
 
 ## **Summary and Purpose**
 
-\[add brief overview\]
+_\[add brief overview\]_
 
 ## **Proposal**
 
-\[your specific proposal to resolve the issue - update when decision on proposal is finalised\]
+_\[your specific proposal to resolve the issue - update when decision on proposal is finalised\]_
 
 ## **Reason**
 
-\[your reasoning why the proposal resolves the issue\]
+_\[your reasoning why the proposal resolves the issue\]_
 
 ## **Stakeholder(s)**
 
-\[include names and emails or handles of individuals or groups that introduced the proposal\]
+_\[include names and emails or handles of individuals or groups that introduced the proposal\]_
 
 ## Consultations
 
-\[include names and emails or handles of individuals or groups that reviewed the proposal\]
+_\[include names and emails or handles of individuals or groups that reviewed the proposal\]_
 
 ## Context
 
-\[include references to manuals or guides that are reviewed to ensure alignment, if proposal differs then document how and why\]
+_\[include references to manuals or guides that are reviewed to ensure alignment, if proposal differs then document how and why\]_
 
 ## Expected Impact of Change
 
-\[enter **low** (for editorial changes to existing codes), **medium** (for new codes) or **high** (for deprecated and superseded codes\]
+\[enter **LOW** (for editorial changes to existing codes), **MEDIUM** (for new codes) or **HIGH** (for deprecated and superseded codes\]
