@@ -42,4 +42,4 @@ _\[include references to manuals or guides that are reviewed to ensure alignment
 
 ## Expected Impact of Change
 
-\[enter **LOW** (for editorial changes to existing codes), **MEDIUM** (for new codes) or **HIGH** (for deprecated and superseded codes\]
+_\[enter **LOW** (for editorial changes to existing codes), **MEDIUM** (for new codes) or **HIGH** (for deprecated and superseded codes\]_
