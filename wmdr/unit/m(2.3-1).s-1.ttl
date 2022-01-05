@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <m(2.3-1).s-1> a skos:Concept ;
-	rdfs:label "metres to the two thirds power per second" ;
+	rdfs:label "metre to the two thirds power per second" ;
 	skos:notation "m(2.3-1).s-1" ;
 	dct:description "SI derived unit of the quantity with dimension of L^(2/3) T-1"@en	.

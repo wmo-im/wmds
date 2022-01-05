@@ -5,4 +5,4 @@
 <ppbv> a skos:Concept ;
 	rdfs:label "parts per billion by volume" ;
 	skos:notation "ppbv" ;
-	dct:description "Unit of volume fraction, equivalent to SI derived unit: mm3.m-3"@en	.
+	dct:description "Unit of volume fraction, equivalent to SI derived unit: 1E-9"@en	.

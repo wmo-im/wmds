@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <m.s-2> a skos:Concept ;
-	rdfs:label "metres per second squared" ;
+	rdfs:label "metre per second squared" ;
 	skos:notation "m.s-2" ;
 	dct:description "SI derived unit of acceleration"@en	.

@@ -5,4 +5,4 @@
 <t.ha-1> a skos:Concept ;
 	rdfs:label "(metric) ton per hectare" ;
 	skos:notation "t.ha-1" ;
-	dct:description "SI derived unit of area density, equal to 0.1 kg.m-2"@en	.
+	dct:description "Unit of area density, equal to 0.1 kg.m-2"@en	.

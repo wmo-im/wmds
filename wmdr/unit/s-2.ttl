@@ -5,4 +5,4 @@
 <s-2> a skos:Concept ;
 	rdfs:label "per second squared" ;
 	skos:notation "s-2" ;
-	dct:description "Unit of second order time derivative"@en	.
+	dct:description "SI derived unit of second order time derivative"@en	.

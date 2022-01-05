@@ -5,4 +5,4 @@
 <rad.s-1> a skos:Concept ;
 	rdfs:label "radian per second" ;
 	skos:notation "rad.s-1" ;
-	dct:description "SI derived unit of angular velocity"@en	.
+	dct:description "SI derived unit of angular velocity, SI base unit equivalent: s-1"@en	.

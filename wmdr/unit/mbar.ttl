@@ -5,4 +5,4 @@
 <mbar> a skos:Concept ;
 	rdfs:label "millibar" ;
 	skos:notation "mbar" ;
-	dct:description "SI derived unit of pressure, equal to one thousandth of a bar (1E-3 bar)"@en	.
+	dct:description "Unit of pressure, equal to one thousandth of a bar (0.001 bar), accepted for use with the SI"@en	.

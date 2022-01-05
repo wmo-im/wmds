@@ -5,4 +5,4 @@
 <percent> a skos:Concept ;
 	rdfs:label "per cent (%)" ;
 	skos:notation "percent" ;
-	dct:description "Dimensionless number, expressed as a fraction of 100"@en	.
+	dct:description "Dimensionless number, expressed as a fraction of 100"@en	.

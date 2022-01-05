@@ -5,4 +5,4 @@
 <kt> a skos:Concept ;
 	rdfs:label "knot" ;
 	skos:notation "kt" ;
-	dct:description "Unit of speed, accepted for use with SI: 1 kt = 1 nmi/h = (1852/3600) m.s-1"@en	.
+	dct:description "Unit of speed, accepted for use with SI: 1 kt = 1 nmi/h = (1852/3600) m.s-1"@en	.

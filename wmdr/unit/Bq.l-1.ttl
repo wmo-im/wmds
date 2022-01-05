@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <Bq.l-1> a skos:Concept ;
-	rdfs:label "becquerels per litre" ;
+	rdfs:label "becquerel per litre" ;
 	skos:notation "Bq.l-1" ;
-	dct:description "Unit of radioactivity concentration, equal to 0.001 Bq/m3"@en	.
+	dct:description "Unit of radioactivity concentration, SI base unit equivalent:  0.001 s-1.m-3"@en	.
