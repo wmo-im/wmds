@@ -100,12 +100,12 @@ argoUKEq,\Co-sponsored\GOOS\Argo\ARGO UK EQ.,ARGO UK EQ.,ARGO UK EQ.
 argoUW,\Co-sponsored\GOOS\Argo\ARGO UW,ARGO UW,ARGO UW
 argoUWAplEq,\Co-sponsored\GOOS\Argo\ARGO UW-APL EQ.,ARGO UW-APL EQ.,ARGO UW-APL EQ.
 argoUWEq,\Co-sponsored\GOOS\Argo\ARGO UW EQ.,ARGO UW EQ.,ARGO UW EQ.
-ARGOUWMBARI,\Co-sponsored\GOOS\Argo\Argo UW-MBARI,Argo UW-MBARI,University of Washington – Monterey Bay Aquarium Research Institute Argo programme
+ARGOUWMBARI,\Co-sponsored\GOOS\Argo\Argo UW-MBARI,Argo UW-MBARI,University of Washington ‚Äì Monterey Bay Aquarium Research Institute Argo programme
 argoUWMbariEq,\Co-sponsored\GOOS\Argo\ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.
 ARGOUWSOCCOM,\Co-sponsored\GOOS\Argo\Argo UW-SOCCOM,Argo UW-SOCCOM,University of Washington - Southern Ocean Carbon and Climate Observations and Modelling Argo programme
 argoUWSoccomEq,\Co-sponsored\GOOS\Argo\ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.
 argoUWSpursEq,\Co-sponsored\GOOS\Argo\ARGO UW-SPURS EQ.,ARGO UW-SPURS EQ.,ARGO UW-SPURS EQ.
-ARGOUWTPOSEQ,\Co-sponsored\GOOS\Argo\Argo UW-TPOS eq.,Argo UW-TPOS eq.,University of Washington – Tropical Pacific Observing System Argo equivalent programme
+ARGOUWTPOSEQ,\Co-sponsored\GOOS\Argo\Argo UW-TPOS eq.,Argo UW-TPOS eq.,University of Washington ‚Äì Tropical Pacific Observing System Argo equivalent programme
 argoUWUAEq,\Co-sponsored\GOOS\Argo\ARGO UW-UA EQ.,ARGO UW-UA EQ.,ARGO UW-UA EQ.
 argoWHOI,\Co-sponsored\GOOS\Argo\ARGO WHOI,ARGO WHOI,ARGO WHOI
 argoWHOIEqIR,\Co-sponsored\GOOS\Argo\ARGO WHOI EQ. IR,ARGO WHOI EQ. IR,ARGO WHOI EQ. IR
@@ -125,7 +125,7 @@ BSHDWDMB,\Co-sponsored\GOOS\DBCP\BSH-DWD-MB,BSH-DWD-MB,NA
 BSHMB,\Co-sponsored\GOOS\DBCP\BSH-MB,BSH-MB,NA
 BSRN,\Co-sponsored\GCOS\BSRN,BSRN,Baseline Surface Radiation Network
 BULARGO,\Co-sponsored\GOOS\Argo\BULARGO,BULARGO,NA
-CANDHIS,\Co-sponsored\GOOS\DBCP\CANDHIS,CANDHIS,CANDHIS Wave buoys (CETMEF/Meteo France - (Centre d'Archivage National de Données de Houle In-Situ) )
+CANDHIS,\Co-sponsored\GOOS\DBCP\CANDHIS,CANDHIS,CANDHIS Wave buoys (CETMEF/Meteo France - (Centre d'Archivage National de Donn√©es de Houle In-Situ) )
 CAPMoN,\WIGOS\GAW\GAW Other elements\CAPMoN,CAPMoN,Canadian Air and Precipitation Monitoring Network
 CARICOOS,\Co-sponsored\GOOS\DBCP\CARICOOS,CARICOOS,CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
 CARIOCA,\Co-sponsored\GOOS\DBCP\CARIOCA,CARIOCA,CARIOCA SOUTHERN OCEAN
@@ -190,9 +190,9 @@ GAWnonAffiliated,\WIGOS\GAW\GAW Other elements\Non-affiliated,Non-affiliated,Obs
 GAWPFR,\WIGOS\GAW\GAW Contributing networks\GAW-PFR,GAW-PFR,GAW Precision Filter Radiometer Network
 GAWregional,\WIGOS\GAW\GAW Regional,GAW Regional,Regional GAW station
 GBON,\WIGOS\GOS\GOS Surface networks\GBON,GBON,Global Basic Observing Network
-GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
-GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
 GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."
+GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
+GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
 GDPMF,\Co-sponsored\GOOS\DBCP\GDP-MF,GDPMF,Global Drifter Program drifters with Meteo-France barometer upgrades
 germanAODnetwork,\WIGOS\GAW\GAW Other elements\German AOD network,German AOD network,German Aerosol Optical Depth Network
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY
@@ -216,9 +216,9 @@ IABPUW,\Co-sponsored\GOOS\DBCP\IABP-UW,IABP-UW,Intl Arctic Buoy Program (IABP) U
 IAGOS,\WIGOS\GAW\GAW Contributing networks\IAGOS,IAGOS,In-service Aircraft for a Global Observing System
 IBPIO,\Co-sponsored\GOOS\DBCP\IBPIO,IBPIO,International Buoy Programme for the Indian Ocean (IBPIO)
 ICOS,\WIGOS\GAW\GAW Contributing networks\ICOS,ICOS,"Integrated Carbon Observation System, www.icos-cp.eu"
-INDAAF, \WIGOS\GAW\GAW Contributing networks\INDAAF,INDAAF, "International Network to study Deposition and Atmospheric composition in Africa, https://indaaf.obs-mip.fr/"
 IMPROVE,\WIGOS\GAW\GAW Contributing networks\IMPROVE,IMPROVE,IMPROVE Optical Aerosol
 INCOISTSU,\Co-sponsored\GOOS\DBCP\INCOIS-TSU,INCOIS-TSU,Indian National Centre for Ocean Information Services Tsunameter buoys
+INDAAF,\WIGOS\GAW\GAW Contributing networks\INDAAF,INDAAF,"International Network to study Deposition and Atmospheric composition in Africa, https://indaaf.obs-mip.fr/"
 INDIANIO,\Co-sponsored\GOOS\DBCP\INDIA NIO,INDIA NIO,Collection of METOCEAN data in India Ocean
 indiaNIOT,\Co-sponsored\GOOS\DBCP\INDIA-NIOT,INDIA-NIOT,Indian Ocean Observing Program
 indiaNIOTSU,\Co-sponsored\GOOS\DBCP\INDIA NIO-TSU,INDIA NIO-TSU,NIO Tsunameter buoys
@@ -242,11 +242,11 @@ MERSEA,\Co-sponsored\GOOS\Argo\MERSEA,MERSEA,NA
 MeteoFranceDB,\Co-sponsored\GOOS\DBCP\METEO FRANCE DB,METEO FRANCE DB,MF Drifters Atlantic and Indian Ocean
 MeteoFranceMB,\Co-sponsored\GOOS\DBCP\METEO FRANCE MB,METEO FRANCE MB,MF Drifters Atlantic and Indian Ocean
 MeteoFranceWB,\Co-sponsored\GOOS\DBCP\METEO FRANCE WB,METEO FRANCE WB,Meteo-France waverider (operational)
-MOCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo – EU
-MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo – Germany
-MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo – Italy
-MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo – Netherlands
-MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo – Poland
+MOCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo ‚Äì EU
+MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo ‚Äì Germany
+MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo ‚Äì Italy
+MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo ‚Äì Netherlands
+MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo ‚Äì Poland
 MPLNET,\WIGOS\GAW\GAW Contributing networks\MPLNET,MPLNET,Micro-Pulse Lidar Network
 NADP,\WIGOS\GAW\GAW Contributing networks\NADP,NADP,National Atmospheric Deposition Program
 NAOSfrance,\Co-sponsored\GOOS\Argo\NAOS-FRANCE,NAOS-FRANCE,Novel Argo Ocean Observing System (NOAS) France project
@@ -266,7 +266,7 @@ NDBCUSCG,\Co-sponsored\GOOS\DBCP\NDBC-USCG,NDBC-USCG,NA
 NDWCTSU,\Co-sponsored\GOOS\DBCP\NDWC-TSU,NDWC-TSU,National Disaster Warning Center Tsunameter buoys
 NewZealandDB,\Co-sponsored\GOOS\DBCP\NEW ZEALAND DB,NEW ZEALAND DB,NA
 NICIABP,\Co-sponsored\GOOS\DBCP\NIC-IABP,NIC-IABP,NA
-NOAACBIBS,\Co-sponsored\GOOS\DBCP\NOAA-CBIBS,NOAA-CBIBS,"The National Oceanic and Atmospheric Administration's (NOAA) Chesapeake Bay Interpretive Buoy System (CBIBS) is a network of observing platforms (buoys) that collect meteorological, oceanographic, and water-quality data and relay that information using wireless technology to a variety of users. "
+NOAACBIBS,\Co-sponsored\GOOS\DBCP\NOAA-CBIBS,NOAA-CBIBS,"The National Oceanic and Atmospheric Administration's (NOAA) Chesapeake Bay Interpretive Buoy System (CBIBS) is a network of observing platforms (buoys) that collect meteorological, oceanographic, and water-quality data and relay that information using wireless technology to a variety of users."
 NOAAGML,\WIGOS\GAW\GAW Other elements\NOAA-GML,NOAA-GML,NOAA Global Monitoring Laboratory
 nonAffiliated,\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with WIGOS or any of the co-sponsored programs
 NorwayIMR,\Co-sponsored\GOOS\DBCP\NORWAY-IMR,NORWAY-IMR,Institute of Marine Research Drifting Buoy Program

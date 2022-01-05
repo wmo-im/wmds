@@ -5,4 +5,4 @@
 <MOCCANETH> a skos:Concept ;
 	rdfs:label "MOCCA-NETH" ;
 	skos:notation "MOCCANETH" ;
-	dct:description "Monitoring the Oceans and Climate Change with Argo – Netherlands"@en	.
+	dct:description "Monitoring the Oceans and Climate Change with Argo ‚Äì Netherlands"@en	.
