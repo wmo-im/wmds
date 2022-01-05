@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<UEAGlider> a skos:Concept ;
+	rdfs:label "University of East Anglia Glider Program" ;
+	skos:notation "UEAGlider" ;
+	dct:description "Glider program operated by UEA. UEA operated all over the world in area of interest for their science."@en	.

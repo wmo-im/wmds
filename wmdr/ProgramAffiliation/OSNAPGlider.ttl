@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<OSNAPGlider> a skos:Concept ;
+	rdfs:label "Overturning in the Subpolar North Atlantic Program" ;
+	skos:notation "OSNAPGlider" ;
+	dct:description "Overturning in the Subpolar North Atlantic Program (OSNAP) is an international program designed to provide a continuous record of the full-water column, trans-basin fluxes of heat, mass and freshwater in the subpolar North Atlantic."@en	.

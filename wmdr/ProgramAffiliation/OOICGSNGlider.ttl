@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<OOICGSNGlider> a skos:Concept ;
+	rdfs:label "OOI - Coastal and Global Scale Nodes" ;
+	skos:notation "OOICGSNGlider" ;
+	dct:description "The Ocean Observatories Initiative is funded by the National Science Foundation and is managed and coordinated by the OOI Program Management Office (PMO) at the Woods Hole Oceanographic Institution (WHOI) in Woods Hole, MA."@en	.

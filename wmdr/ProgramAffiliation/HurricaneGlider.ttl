@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<HurricaneGlider> a skos:Concept ;
+	rdfs:label "NOAA Glider Hurricane Program" ;
+	skos:notation "HurricaneGlider" ;
+	dct:description "NOAA Glider Hurricane Program aims at improving hurricane forecasting by assimilating observations from gliders situated in the passage of a a hurricane in the coastal seas of US."@en	.

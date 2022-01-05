@@ -5,4 +5,4 @@
 <AFIRS> a skos:Concept ;
 	rdfs:label "AFIRS" ;
 	skos:notation "AFIRS" ;
-	dct:description "Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"@en	.
+	dct:description "Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS."@en	.

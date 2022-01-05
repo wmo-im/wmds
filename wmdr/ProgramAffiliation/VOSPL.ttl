@@ -5,4 +5,4 @@
 <VOSPL> a skos:Concept ;
 	rdfs:label "VOS-PL" ;
 	skos:notation "VOSPL" ;
-	dct:description "NA"@en	.
+	dct:description "Polish VOS program"@en	.

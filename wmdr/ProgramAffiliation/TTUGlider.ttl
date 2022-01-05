@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<TTUGlider> a skos:Concept ;
+	rdfs:label "Tallin University Glider Program" ;
+	skos:notation "TTUGlider" ;
+	dct:description "Estonian Glider program operated by Tallin University of Technology."@en	.

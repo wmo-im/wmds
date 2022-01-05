@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ISMARGlider> a skos:Concept ;
+	rdfs:label "CNR Ismar Glider Program" ;
+	skos:notation "ISMARGlider" ;
+	dct:description "Glider program operated by CNR ISMAR including repeated section between Sardinia and Balearic Island"@en	.
