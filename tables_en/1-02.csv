@@ -186,3 +186,4 @@ km-1.sr-1,per kilometre per steradian,"SI derived unit of the scattering coeffic
 m-1.sr-1,per metre per steradian,SI derived unit of the scattering coefficient at a given direction
 Mm-1.sr-1,per megametre per steradian,"SI derived unit of the scattering coefficient at a given direction, equal to 1E-6 m-1.sr-1"
 mg.m-3,milligrams per cubic metre,"SI derived unit of mass concentration, equal to 1E-6 kg/m3"
+m.a-1,metre per year,"Conventional unit of velocity"
