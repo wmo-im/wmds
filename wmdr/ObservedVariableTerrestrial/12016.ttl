@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12016> a skos:Concept ;
+	rdfs:label "Rock glacier velocity" ;
+	skos:notation "12016" ;
+	dct:description "Surface velocity of a single rock glacier unit."@en	.
