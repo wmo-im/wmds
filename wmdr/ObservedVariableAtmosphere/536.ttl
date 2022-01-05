@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <536> a skos:Concept ;
-	rdfs:label "C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)" ;
+	rdfs:label "C2H3F3 (1,1,1-trifluoroethane, HCF-143a)" ;
 	skos:notation "536" ;
 	dct:description "IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase"@en	.
