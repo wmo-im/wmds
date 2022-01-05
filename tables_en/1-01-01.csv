@@ -656,3 +656,6 @@ notation,path/tags,name,description
 12240,"radionuclide",Americium [Am-241],"IUPAC: americium-241, PubChem CID: 104726, CAS Number: 14596-10-2"
 12241,"radionuclide",Sum of Plutonium [Pu-239] and [Pu-240],"Sum of Plutonium isotopes: Pu-239 and Pu-240, IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3 and IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3"
 12242,"radionuclide",Gold [Au-198],"IUPAC: gold-198, PubChem CID: 66274, CAS Number: 10043-49-9"
+,"radionuclide",Tellurium [Te-131],"IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"
+,"radionuclide",Neodymium [Nd-137],"IUPAC: neodymium-137"
+
