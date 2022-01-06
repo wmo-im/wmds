@@ -338,7 +338,7 @@ NOAACBIBS,\Co-sponsored\GOOS\DBCP\NOAA-CBIBS,NOAA-CBIBS,"The National Oceanic an
 NOAAGML,\WIGOS\GAW\GAW Other elements\NOAA-GML,NOAA-GML,NOAA Global Monitoring Laboratory
 NOCLGlider,\Co-sponsored\GOOS\OceanGliders\NOC Liverpool Glider Program,NOC Liverpool Glider Program,NOC Liverpool Glider Program covers the glider deployments lead by NOC_L that are not part of a sustained program.
 nonAffiliated,\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with WIGOS or any of the co-sponsored programs
-NorEMSOGlider,\Co-sponsored\GOOS\OceanGliders\NorGlider – NorEMSO,NorGlider – NorEMSO,Norvegian Glider program around EMSO sites
+NorEMSOGlider,\Co-sponsored\GOOS\OceanGliders\NorGlider - NorEMSO,NorGlider - NorEMSO,Norvegian Glider program around EMSO sites
 NorwayGlider,\Co-sponsored\GOOS\OceanGliders\NorGliders - other,NorGliders - other,"Norwegian national facility for ocean gliders (NorGliders) is running glider missions along repeated section in outstanding sites of interest are the Svinøy Section, the Lofoten Basin of the Norwegian Sea, the Mohn ridge, as well as the Iceland and Greenland Seas."
 NorwayIMR,\Co-sponsored\GOOS\DBCP\NORWAY-IMR,NORWAY-IMR,Institute of Marine Research Drifting Buoy Program
 NWSNDBCMB,\Co-sponsored\GOOS\DBCP\NWS-NDBC-MB,NWS-NDBC-MB,NWS NDBC Moored buoy
@@ -489,7 +489,7 @@ VOSAU,\Co-sponsored\GOOS\SOT\VOS\VOS-AU,VOS-AU,NA
 VOSCA,\Co-sponsored\GOOS\SOT\VOS\VOS-CA,VOS-CA,NA
 VOSCL,\Co-sponsored\GOOS\SOT\VOS\VOS-CL,VOS-CL,NA
 VOSDE,\Co-sponsored\GOOS\SOT\VOS\VOS-DE,VOS-DE,NA
-VOSDK,\Co-sponsored\GOOS\SOT\ASAP\VOS-DK,VOS-DK,Danish VOS program
+VOSDK,\Co-sponsored\GOOS\SOT\VOS\VOS-DK,VOS-DK,Danish VOS program
 VOSES,\Co-sponsored\GOOS\SOT\VOS\VOS-ES,VOS-ES,NA
 VOSEU,\Co-sponsored\GOOS\SOT\VOS\VOS-EU,VOS-EU,NA
 VOSFR,\Co-sponsored\GOOS\SOT\VOS\VOS-FR,VOS-FR,NA
@@ -510,7 +510,7 @@ VOSPL,\Co-sponsored\GOOS\SOT\VOS\VOS-PL,VOS-PL,Polish VOS program
 VOSRU,\Co-sponsored\GOOS\SOT\VOS\VOS-RU,VOS-RU,NA
 VOSSE,\Co-sponsored\GOOS\SOT\VOS\VOS-SE,VOS-SE,NA
 VOSSHIPMASK,\Co-sponsored\GOOS\SOT\VOS\VOS-SHIP-MASK,VOS-SHIP-MASK,"Program created for platforms transmitting under ""SHIP"" GTS identifier"
-VOSTH,\Co-sponsored\GOOS\SOT\ASAP\VOS-TH,VOS-TH,Thai VOS program
+VOSTH,\Co-sponsored\GOOS\SOT\VOS\VOS-TH,VOS-TH,Thai VOS program
 VOSUS,\Co-sponsored\GOOS\SOT\VOS\VOS-US,VOS-US,NA
 VOSZA,\Co-sponsored\GOOS\SOT\VOS\VOS-ZA,VOS-ZA,NA
 VOTOGlider,\Co-sponsored\GOOS\OceanGliders\VOTO: Ocean Knowledge glider program,VOTO: Ocean Knowledge glider program,Ocean Knowledge at Voice of the Ocean glider program
