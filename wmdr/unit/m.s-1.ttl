@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <m.s-1> a skos:Concept ;
-	rdfs:label "metres per second" ;
+	rdfs:label "metre per second" ;
 	skos:notation "m.s-1" ;
 	dct:description "SI derived unit of speed"@en	.

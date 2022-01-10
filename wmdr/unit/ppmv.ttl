@@ -5,4 +5,4 @@
 <ppmv> a skos:Concept ;
 	rdfs:label "parts per million by volume" ;
 	skos:notation "ppmv" ;
-	dct:description "Unit of volume fraction, equivalent to SI derived unit: cm3.m-3"@en	.
+	dct:description "Unit of volume fraction, equivalent to SI derived unit: 1E-6"@en	.

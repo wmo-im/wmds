@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <dB.deg-1> a skos:Concept ;
-	rdfs:label "decibels per degree (angle)" ;
+	rdfs:label "decibel per degree (angle)" ;
 	skos:notation "dB.deg-1" ;
 	dct:description "Unit of angular gradient of sound intensity"@en	.

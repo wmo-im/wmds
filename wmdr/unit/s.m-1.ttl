@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <s.m-1> a skos:Concept ;
-	rdfs:label "seconds per metre" ;
+	rdfs:label "second per metre" ;
 	skos:notation "s.m-1" ;
 	dct:description "SI derived unit of quantity with dimension of T. L-1"@en	.

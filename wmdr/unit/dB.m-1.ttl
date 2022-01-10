@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <dB.m-1> a skos:Concept ;
-	rdfs:label "decibels per metre" ;
+	rdfs:label "decibel per metre" ;
 	skos:notation "dB.m-1" ;
 	dct:description "Unit of spatial gradient of sound intensity"@en	.

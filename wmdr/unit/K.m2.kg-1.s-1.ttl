@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <K.m2.kg-1.s-1> a skos:Concept ;
-	rdfs:label "kelvin square metres per kilogram per second" ;
+	rdfs:label "kelvin square metre per kilogram per second" ;
 	skos:notation "K.m2.kg-1.s-1" ;
 	dct:description "SI derived unit of potential vorticity"@en	.

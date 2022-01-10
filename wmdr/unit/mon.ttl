@@ -5,4 +5,4 @@
 <mon> a skos:Concept ;
 	rdfs:label "month" ;
 	skos:notation "mon" ;
-	dct:description "Unit of time, equivalent to 28-31 days"@en	.
+	dct:description "Conventional unit of time duration of between 28-31 days whereby 12 months amount to one year"@en	.

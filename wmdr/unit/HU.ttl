@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <HU> a skos:Concept ;
-	rdfs:label "Hazen units" ;
+	rdfs:label "Hazen unit" ;
 	skos:notation "HU" ;
 	dct:description "Unit of color according to the Platinum/Cobalt or Apha/Hazen scale"@en	.

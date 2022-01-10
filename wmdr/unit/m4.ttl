@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <m4> a skos:Concept ;
-	rdfs:label "metres to the fourth power" ;
+	rdfs:label "metre to the fourth power" ;
 	skos:notation "m4" ;
 	dct:description "SI derived unit of the second moment of area, area moment of inertia"@en	.

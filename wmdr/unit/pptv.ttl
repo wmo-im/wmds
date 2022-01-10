@@ -5,4 +5,4 @@
 <pptv> a skos:Concept ;
 	rdfs:label "parts per trillion by volume" ;
 	skos:notation "pptv" ;
-	dct:description "Unit of volume fraction, equivalent to SI derived unit: um3.cm-3"@en	.
+	dct:description "Unit of volume fraction, equivalent to SI derived unit: 1E-12"@en	.
