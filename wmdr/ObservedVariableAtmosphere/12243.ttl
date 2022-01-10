@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12243> a skos:Concept ;
+	rdfs:label "C2H2Cl2F2 (1,2-dichloro-1,1-difluoroethane, HCFC-132b)" ;
+	skos:notation "12243" ;
+	dct:description "IUPAC: 1,2-dichloro-1,1-difluoroethane, PubChem CID: 15442, CAS Number: 1649-08-7, in gas phase"@en	.
