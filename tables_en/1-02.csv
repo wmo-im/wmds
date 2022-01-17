@@ -64,7 +64,7 @@ daPa,dekapascal,"SI derived unit of pressure, stress, SI base unit equivalent: 1
 hPa,hectopascal,"SI derived unit of pressure, stress, SI base unit equivalent: 100 kg.m-1.s-2"
 hPa.s-1,hectopascal per second,"SI derived unit of time derivative of pressure, SI base unit equivalent: 100 kg.m-1.s-3"
 hPa.h-1,hectopascal per hour,"SI derived unit of time derivative of pressure, SI base unit equivalent: 1/36 kg.m-1.s-3"
-hPa.(3h)-1,hectopascal per 3 hour,"SI derived unit of time derivative of pressure, SI base unit equivalent: 1/108 kg.m-1.s-3"
+hPa.(3h)-1,hectopascal per 3 hours,"SI derived unit of time derivative of pressure, SI base unit equivalent: 1/108 kg.m-1.s-3"
 nbar,nanobar,"Unit of pressure, accepted for use with the SI, 1 nbar = 1E-4 Pa"
 g.kg-1,gram per kilogram,"SI derived unit of mass fraction, dimensionless, SI base unit equivalent: 0.001"
 g.kg-1.s-1,gram per kilogram per second,"SI derived unit of time derivative of mass fraction, SI base unit equivalent: 0.001 s-1"
@@ -130,7 +130,7 @@ Bq.s.m-3,becquerel second per cubic metre,"SI derived unit of time integrated ra
 dB.m-1,decibel per metre,Unit of spatial gradient of sound intensity
 dB.deg-1,decibel per degree (angle),Unit of angular gradient of sound intensity
 pH_unit,pH unit,Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre
-N_units,N unit,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n-1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'"
+N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N=1E6(n-1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'"
 unknown,unknown,"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
 kHz,kilohertz,"SI derived unit of frequency, SI base unit equivalent: 1000 s-1"
 MHz,megahertz,"SI derived unit of frequency, SI base unit equivalent: 1E6 s-1"
