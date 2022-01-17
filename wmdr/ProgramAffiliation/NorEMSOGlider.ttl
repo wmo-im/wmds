@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <NorEMSOGlider> a skos:Concept ;
-	rdfs:label "NorGlider – NorEMSO" ;
+	rdfs:label "NorGlider - NorEMSO" ;
 	skos:notation "NorEMSOGlider" ;
 	dct:description "Norvegian Glider program around EMSO sites"@en	.

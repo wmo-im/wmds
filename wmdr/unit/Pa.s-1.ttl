@@ -5,4 +5,4 @@
 <Pa.s-1> a skos:Concept ;
 	rdfs:label "pascal per second" ;
 	skos:notation "Pa.s-1" ;
-	dct:description "SI derived Unit of temopral derivative of pressure, SI base unit equivalent: kg.m-1.s-3"@en	.
+	dct:description "SI derived unit of temporal derivative of pressure"@en	.

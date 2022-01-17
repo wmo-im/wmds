@@ -5,4 +5,4 @@
 <s.m-1> a skos:Concept ;
 	rdfs:label "second per metre" ;
 	skos:notation "s.m-1" ;
-	dct:description "SI derived unit of quantity with dimension of T. L-1"@en	.
+	dct:description "SI derived unit of quantity with dimension of T.L-1"@en	.

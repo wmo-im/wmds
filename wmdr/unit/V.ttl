@@ -5,4 +5,4 @@
 <V> a skos:Concept ;
 	rdfs:label "volt" ;
 	skos:notation "V" ;
-	dct:description "SI derived unit of voltage, electrical potential difference, electromotive force, SI base unit equivalent: kg.m2.s-3.A-1"@en	.
+	dct:description "SI derived unit of voltage, electrical potential difference, electromotive force"@en	.
