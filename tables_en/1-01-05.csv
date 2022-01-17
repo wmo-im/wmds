@@ -14,7 +14,6 @@ notation,path,name,description
 243,\Terrestrial\Land surface\Wetland extent,Wetland extent,Fraction of an area flood by water.
 245,\Terrestrial\Soil\Soil heat Flux,Soil heat Flux,
 246,\Terrestrial\Soil\Soil type,Soil type,"Result of the classification of different types of soil within an area - Accuracy expressed as inverse of the number of classes, so that smaller figures correspond to better performance."
-354,\Terrestrial\Cryosphere\Permafrost,Permafrost,
 386,\Terrestrial\Land surface\Fire\Fire fractional cover,Fire fractional cover,Fraction of a land area where fire is occurring.
 387,\Terrestrial\Land surface\Fire\Fire radiative power,Fire radiative power,Power radiated by the fire occurring within an area.
 388,\Terrestrial\Land surface\Fire\Fire temperature,Fire temperature,Temperature of the fire occurring within an area.
@@ -49,3 +48,6 @@ notation,path,name,description
 12011,\Terrestrial\Cryosphere\Glacier\Surface accumulation at a point,Surface accumulation at a point,The mass added to the glacier at a point on its surface expressed over a stated period of time.
 12012,\Terrestrial\Cryosphere\Glacier\Surface ablation at a point,Surface ablation at a point,The mass removed from the glacier at a point on its surface expressed over a stated period of time.
 12013,\Terrestrial\Cryosphere\Glacier\Glacier area,Glacier area,Area enclosed by the projection of the glacier outline onto the surface of an ellipsoid approximating the surface of the Earth or onto a planar horizontal approximation to that ellipsoid. The glacier area excludes nunataks but includes debris-covered parts of the glacier. The glacier outline separates the glacier from unglacierized terrain and from contiguous glaciers.
+12014,"terrestrial, cryosphere, permafrost",Permafrost temperature,Ground temperature measured in the permafrost.
+12015,"terrestrial, cryosphere, permafrost",Active layer thickness,Thickness of the surface layer of the ground that is subject to annual thawing and freezing in areas underlain by permafrost.
+12016,"terrestrial, cryosphere, permafrost",Rock glacier velocity,Surface velocity of a single rock glacier unit.

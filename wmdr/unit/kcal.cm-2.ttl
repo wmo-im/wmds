@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <kcal.cm-2> a skos:Concept ;
-	rdfs:label "kilocalories per square centimetre" ;
+	rdfs:label "kilocalory per square centimetre" ;
 	skos:notation "kcal.cm-2" ;
 	dct:description "Unit of radiant exposure, equal to 4.184E7 J.m-2"@en	.

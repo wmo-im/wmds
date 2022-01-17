@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <km.h-1> a skos:Concept ;
-	rdfs:label "kilometres per hour" ;
+	rdfs:label "kilometre per hour" ;
 	skos:notation "km.h-1" ;
-	dct:description "Unit of speed, equal to (1000/3600) metres per second"@en	.
+	dct:description "SI derived unit of speed, SI base unit equivalent:  1000/3600 m.s-1"@en	.

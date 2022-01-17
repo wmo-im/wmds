@@ -5,4 +5,4 @@
 <missing> a skos:Concept ;
 	rdfs:label "missing" ;
 	skos:notation "missing" ;
-	dct:description "The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist."@en	.
+	dct:description "The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist"@en	.

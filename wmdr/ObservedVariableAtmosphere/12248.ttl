@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12248> a skos:Concept ;
+	rdfs:label "Attenuated backscatter" ;
+	skos:notation "12248" ;
+	dct:description "The product of the total volume backscatter coefficient and the atmospheric two-way transmission of the layers between the instrument and the observed volume. The total volume backscatter coefficient is the sum of all backscatter coefficients from the atmosphere (including from molecules and particles) accounting for all polarizations. The atmospheric two-way transmission accounts for the total volume (molecular and particulate and all polarizations) extinction along the path from the instrument to the observed volume and back."@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <kg.m-1> a skos:Concept ;
-	rdfs:label "kilograms per metre" ;
+	rdfs:label "kilogram per metre" ;
 	skos:notation "kg.m-1" ;
 	dct:description "SI derived unit of linear mass density or quantity with dimension of M L-1"@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <K.m.s-1> a skos:Concept ;
-	rdfs:label "kelvin metres per second" ;
+	rdfs:label "kelvin metre per second" ;
 	skos:notation "K.m.s-1" ;
 	dct:description "SI derived unit of covariance of wind speed and temperature or the product of wind speed and temperature"@en	.
