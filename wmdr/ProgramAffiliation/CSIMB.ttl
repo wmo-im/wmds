@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<CSIMB> a skos:Concept ;
+	rdfs:label "CSI-MB" ;
+	skos:notation "CSIMB" ;
+	dct:description "Owned and maintained by UNC Coastal Studies Institute, Data provided by Scripps Institution of Oceanography"@en	.

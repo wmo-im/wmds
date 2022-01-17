@@ -5,4 +5,4 @@
 <m.s-1.m-1> a skos:Concept ;
 	rdfs:label "metre per second per metre" ;
 	skos:notation "m.s-1.m-1" ;
-	dct:description "SI derived unit of spatial gradient of speed, SI base unit equivalent: s-1"@en	.
+	dct:description "SI derived unit of spatial gradient of speed"@en	.

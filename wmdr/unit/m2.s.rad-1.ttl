@@ -5,4 +5,4 @@
 <m2.s.rad-1> a skos:Concept ;
 	rdfs:label "square metre second per radian" ;
 	skos:notation "m2.s.rad-1" ;
-	dct:description "SI derived unit of sea surface wave directional variance spectral density, SI base unit equivalent: m2.s"@en	.
+	dct:description "SI derived unit of sea surface wave directional variance spectral density"@en	.

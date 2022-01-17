@@ -5,4 +5,4 @@
 <inapplicable> a skos:Concept ;
 	rdfs:label "inapplicable" ;
 	skos:notation "inapplicable" ;
-	dct:description "There is no value (categorical data)."@en	.
+	dct:description "There is no value (categorical data)"@en	.

@@ -5,4 +5,4 @@
 <MOCCAGER> a skos:Concept ;
 	rdfs:label "MOCCA-GER" ;
 	skos:notation "MOCCAGER" ;
-	dct:description "Monitoring the Oceans and Climate Change with Argo ‚Äì Germany"@en	.
+	dct:description "Monitoring the Oceans and Climate Change with Argo - Germany"@en	.

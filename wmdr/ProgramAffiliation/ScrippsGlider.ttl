@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ScrippsGlider> a skos:Concept ;
+	rdfs:label "Scripps Glider Program" ;
+	skos:notation "ScrippsGlider" ;
+	dct:description "The Scripps Glider Program is part of the Southern California Coastal Ocean Observing System (SCCOOS) is one of eleven regions that contributes to the national U.S. Integrated Ocean Observing System (IOOS)."@en	.

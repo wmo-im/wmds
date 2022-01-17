@@ -5,4 +5,4 @@
 <MOCCAPOL> a skos:Concept ;
 	rdfs:label "MOCCA-POL" ;
 	skos:notation "MOCCAPOL" ;
-	dct:description "Monitoring the Oceans and Climate Change with Argo ‚Äì Poland"@en	.
+	dct:description "Monitoring the Oceans and Climate Change with Argo - Poland"@en	.

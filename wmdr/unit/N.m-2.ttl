@@ -5,4 +5,4 @@
 <N.m-2> a skos:Concept ;
 	rdfs:label "newton per square metre" ;
 	skos:notation "N.m-2" ;
-	dct:description "SI derived Unit of pressure or equivalent quantity, SI base unit equivalent: kg.m-1.s-2"@en	.
+	dct:description "SI derived unit of pressure or equivalent quantity"@en	.

@@ -5,4 +5,4 @@
 <Ohm> a skos:Concept ;
 	rdfs:label "ohm" ;
 	skos:notation "Ohm" ;
-	dct:description "SI derived unit of electrical resistance, impedance, reactance, SI base unit equivalent: kg.m2.s-3.A-2"@en	.
+	dct:description "SI derived unit of electrical resistance, impedance, reactance"@en	.

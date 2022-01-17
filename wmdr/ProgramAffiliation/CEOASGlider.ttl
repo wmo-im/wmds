@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<CEOASGlider> a skos:Concept ;
+	rdfs:label "CEOAS glider program" ;
+	skos:notation "CEOASGlider" ;
+	dct:description "College of Earth, Ocean, and Atmospheric Sciences glider program contribute to the CeNCOOS is the Central and Northern California Ocean Observing System."@en	.

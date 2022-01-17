@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<DFOUSVs> a skos:Concept ;
+	rdfs:label "DFO USVs" ;
+	skos:notation "DFOUSVs" ;
+	dct:description "Unmanned/Autonomous Surface Vehicles by DFO, Canada"@en	.

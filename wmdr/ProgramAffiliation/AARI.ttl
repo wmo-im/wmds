@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<AARI> a skos:Concept ;
+	rdfs:label "AARI" ;
+	skos:notation "AARI" ;
+	dct:description "Buoys managed by Arctic and Antarctic Research Institute, Russian Federation"@en	.

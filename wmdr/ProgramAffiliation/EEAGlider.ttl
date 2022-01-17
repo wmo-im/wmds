@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<EEAGlider> a skos:Concept ;
+	rdfs:label "Extended Ellett Array" ;
+	skos:notation "EEAGlider" ;
+	dct:description "The Ellett Array uses moorings, gliders and ship-based hydrography to observe the warm-water pathways of the AMOC, located in the Rockall Trough and the Hatton-Rockall Basin."@en	.

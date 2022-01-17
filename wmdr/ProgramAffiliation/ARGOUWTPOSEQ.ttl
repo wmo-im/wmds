@@ -5,4 +5,4 @@
 <ARGOUWTPOSEQ> a skos:Concept ;
 	rdfs:label "Argo UW-TPOS eq." ;
 	skos:notation "ARGOUWTPOSEQ" ;
-	dct:description "University of Washington ‚Äì Tropical Pacific Observing System Argo equivalent programme"@en	.
+	dct:description "University of Washington - Tropical Pacific Observing System Argo equivalent programme"@en	.

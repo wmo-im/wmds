@@ -1,19 +1,26 @@
 notation,path,name,description
-ACTRIS,\WIGOS\GAW\GAW Other elements\ACTRIS,ACTRIS,"Aerosol,Clouds and Trace Gases Research Infrastructure, www.actris.eu"
+AARI,\Co-sponsored\GOOS\DBCP\AARI,AARI,"Buoys managed by Arctic and Antarctic Research Institute, Russian Federation"
+ACTRIS,\WIGOS\GAW\GAW Other elements\ACTRIS,ACTRIS,"Aerosol, Clouds and Trace Gases Research Infrastructure, www.actris.eu"
 ADD,\WIGOS\GOS\GOS Other elements\ABOS\ADD,ADD,Aircraft Derived Data (Mode-S/ADS-B)
 ADNet,\WIGOS\GAW\GAW Contributing networks\ADNet,ADNet,AD-Net Asian Dust and Lidar Observation Network
 ADSC,\WIGOS\GOS\GOS Other elements\ABOS\ADS-C,ADS-C,Automatic Data Surveillance (ICAO). These are transmitted at selected points of the flightpath.
 AEROCAN,\WIGOS\GAW\GAW Other elements\AEROCAN,AEROCAN,"AEROCAN, federated to AERONET"
 AERONET,\Non-affiliated\AERONET,AERONET,AErosol RObotic NETwork
-AFIRS,\WIGOS\GOS\GOS Other elements\ABOS\AFIRS,AFIRS,"Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
+AFIRS,\WIGOS\GOS\GOS Other elements\ABOS\AFIRS,AFIRS,"Automated Flight Information & Reporting System (Commercial/FLYHT). Not currently open to GTS, contract with Panasonic and airline and/or NMHS."
 AGAGE,\WIGOS\GAW\GAW Other elements\AGAGE,AGAGE,AGAGE/SOGE/NIES
 AIREP,\WIGOS\GOS\GOS Other elements\ABOS\AIREP,AIREP,Aircraft Report (Manual). These are transmitted by the aircraft when a weather event encountered e.g. severe turbulence or icing.
+AlaskaLTERGlider,\Co-sponsored\GOOS\OceanGliders\NSF Northern Gulf of Alaska Long Term Ecological Research,NSF Northern Gulf of Alaska Long Term Ecological Research,NSF Northern Gulf of Alaska Long Term Ecological Research
+AlseamarGlider,\Co-sponsored\GOOS\OceanGliders\Alseamar scientific glider program,Alseamar scientific glider program,Open Glider program of the French Manufacturer Alseamar
+AlterECOGlider,\Co-sponsored\GOOS\OceanGliders\Alter_Eco glider program,Alter_Eco glider program,An Alternative Framework to Assess Marine Ecosystem Functioning in Shelf Seas
 AMDAR,\WIGOS\GOS\GOS Other elements\ABOS\AMDAR,AMDAR,Aircraft Meteorological DAta Relay
 ANTONs,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(S),ANTON(S),Antarctic Observing Network surface station
 ANTONt,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(T),ANTON(T),Antarctic Observing Network upper-air station (TEMP)
 AOML,\Co-sponsored\GOOS\DBCP\AOML,AOML,NA
 AOMLeSurfmar,\Co-sponsored\GOOS\DBCP\AOML-E-SURFMAR,AOML-E-SURFMAR,NA
+AOMLGlider,\Co-sponsored\GOOS\OceanGliders\AOML Glider Program,AOML Glider Program,AOML Glider program is part of the CARICOOS Network
+AOMLHurricaneALAMOFloats,\Co-sponsored\GOOS\Argo\AOML Hurricane ALAMO Floats,AOML Hurricane ALAMO Floats,Hurricane float programme
 AOMLMFDB,\Co-sponsored\GOOS\DBCP\AOML-MF DB,AOML-MF DB,NA
+AOOSGlider,\Co-sponsored\GOOS\OceanGliders\AOOS Gliders,AOOS Gliders,AOOS glider is the glider program of the Alaska Ocean Observing System part of IOOS program.
 APLUW,\Co-sponsored\GOOS\DBCP\APL-UW,APL-UW,NA
 argoArgentina,\Co-sponsored\GOOS\Argo\ARGO ARGENTINA,ARGO ARGENTINA,ARGO ARGENTINA
 argoAustralia,\Co-sponsored\GOOS\Argo\ARGO AUSTRALIA,ARGO AUSTRALIA,ARGO AUSTRALIA
@@ -23,6 +30,7 @@ argoBrazil,\Co-sponsored\GOOS\Argo\ARGO BRAZIL,ARGO BRAZIL,ARGO BRAZIL
 argoBrazilNavy,\Co-sponsored\GOOS\Argo\ARGO BRAZIL NAVY,ARGO BRAZIL NAVY,ARGO BRAZIL NAVY
 argoBSH,\Co-sponsored\GOOS\Argo\ARGO BSH,ARGO BSH,ARGO BSH
 argoCanada,\Co-sponsored\GOOS\Argo\ARGO CANADA,ARGO CANADA,ARGO CANADA
+argoCanadaEq,\Co-sponsored\GOOS\Argo\Argo CANADA eq.,Argo CANADA eq.,Canadian Argo equivalent program
 argoChile,\Co-sponsored\GOOS\Argo\ARGO CHILE,ARGO CHILE,ARGO CHILE
 argoChina,\Co-sponsored\GOOS\Argo\ARGO CHINA,ARGO CHINA,ARGO CHINA
 argoChinaSOA,\Co-sponsored\GOOS\Argo\ARGO CHINA SOA,ARGO CHINA SOA,ARGO CHINA SOA
@@ -63,9 +71,16 @@ argoFinland,\Co-sponsored\GOOS\Argo\ARGO FINLAND,ARGO FINLAND,ARGO FINLAND
 ARGOFPAIIGMMC,\Co-sponsored\GOOS\Argo\Argo FPAII-GMMC,Argo FPAII-GMMC,Fondation Prince Albert II de Monaco - Groupe Mission Mercator Coriolis Argo programme
 argoGabon,\Co-sponsored\GOOS\Argo\ARGO GABON,ARGO GABON,ARGO GABON
 argoGermany,\Co-sponsored\GOOS\Argo\ARGO GERMANY,ARGO GERMANY,ARGO GERMANY
+argoGermany2025,\Co-sponsored\GOOS\Argo\Argo GERMANY 2025,Argo GERMANY 2025,German Argo 2025
+argoGOBGCSIO,"\Co-sponsored\GOOS\Argo\Argo GO-BGC, SIO","Argo GO-BGC, SIO",SCRIPPS institute Argo BGC program
+argoGOBGCUW,"\Co-sponsored\GOOS\Argo\Argo GO-BGC, UW","Argo GO-BGC, UW",Argo BGC program of UW
+argoGOBGCWHOI,"\Co-sponsored\GOOS\Argo\Argo GO-BGC, WHOI","Argo GO-BGC, WHOI",Woods Hole Oceanographic Institution Argo BGC program
+argoGOMBoemEq,\Co-sponsored\GOOS\Argo\Argo GOM-BOEM eq.,Argo GOM-BOEM eq.,Gulf of Mexico US Argo research program
 argoGreece,\Co-sponsored\GOOS\Argo\ARGO GREECE,ARGO GREECE,ARGO GREECE
+argoHUEq,\Co-sponsored\GOOS\Argo\Argo eq. HU,Argo eq. HU,Hokkaido University contribution to Argo
 argoIFMGeomar,\Co-sponsored\GOOS\Argo\ARGO IFM-GEOMAR,ARGO IFM-GEOMAR,ARGO IFM-GEOMAR
 argoIndia,\Co-sponsored\GOOS\Argo\ARGO INDIA,ARGO INDIA,ARGO INDIA
+argoIndonesia,\Co-sponsored\GOOS\Argo\Argo INDONESIA,Argo INDONESIA,Indonesian Argo program
 argoIreland,\Co-sponsored\GOOS\Argo\ARGO IRELAND,ARGO IRELAND,ARGO IRELAND
 argoItaly,\Co-sponsored\GOOS\Argo\ARGO ITALY,ARGO ITALY,ARGO ITALY
 argoJamstec,\Co-sponsored\GOOS\Argo\ARGO JAMSTEC,ARGO JAMSTEC,ARGO JAMSTEC
@@ -90,6 +105,7 @@ argoSaudiArabia,\Co-sponsored\GOOS\Argo\ARGO SAUDI ARABIA,ARGO SAUDI ARABIA,ARGO
 argoSIO,\Co-sponsored\GOOS\Argo\ARGO SIO,ARGO SIO,ARGO SIO
 argoSIOEqASIRI,\Co-sponsored\GOOS\Argo\ARGO SIO EQ (ASIRI),ARGO SIO EQ (ASIRI),ARGO SIO EQ (ASIRI)
 argoSIOEqOKMC,\Co-sponsored\GOOS\Argo\ARGO SIO EQ. (OKMC),ARGO SIO EQ. (OKMC),ARGO SIO EQ. (OKMC)
+argoSIOEqSBE61NOPP,\Co-sponsored\GOOS\Argo\Argo SIO eq. (SBE61NOPP),Argo SIO eq. (SBE61NOPP),NOPP Deep Argo pilot
 argoSouthAfrica,\Co-sponsored\GOOS\Argo\ARGO SOUTH AFRICA,ARGO SOUTH AFRICA,ARGO SOUTH AFRICA
 argoSpain,\Co-sponsored\GOOS\Argo\ARGO SPAIN,ARGO SPAIN,ARGO SPAIN
 argoSriLanka,\Co-sponsored\GOOS\Argo\ARGO SRI LANKA,ARGO SRI LANKA,ARGO SRI LANKA
@@ -100,23 +116,30 @@ argoUKEq,\Co-sponsored\GOOS\Argo\ARGO UK EQ.,ARGO UK EQ.,ARGO UK EQ.
 argoUW,\Co-sponsored\GOOS\Argo\ARGO UW,ARGO UW,ARGO UW
 argoUWAplEq,\Co-sponsored\GOOS\Argo\ARGO UW-APL EQ.,ARGO UW-APL EQ.,ARGO UW-APL EQ.
 argoUWEq,\Co-sponsored\GOOS\Argo\ARGO UW EQ.,ARGO UW EQ.,ARGO UW EQ.
-ARGOUWMBARI,\Co-sponsored\GOOS\Argo\Argo UW-MBARI,Argo UW-MBARI,University of Washington ‚Äì Monterey Bay Aquarium Research Institute Argo programme
+ARGOUWMBARI,\Co-sponsored\GOOS\Argo\Argo UW-MBARI,Argo UW-MBARI,University of Washington - Monterey Bay Aquarium Research Institute Argo programme
 argoUWMbariEq,\Co-sponsored\GOOS\Argo\ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.,ARGO UW-MBARI EQ.
 ARGOUWSOCCOM,\Co-sponsored\GOOS\Argo\Argo UW-SOCCOM,Argo UW-SOCCOM,University of Washington - Southern Ocean Carbon and Climate Observations and Modelling Argo programme
 argoUWSoccomEq,\Co-sponsored\GOOS\Argo\ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.,ARGO UW-SOCCOM EQ.
 argoUWSpursEq,\Co-sponsored\GOOS\Argo\ARGO UW-SPURS EQ.,ARGO UW-SPURS EQ.,ARGO UW-SPURS EQ.
-ARGOUWTPOSEQ,\Co-sponsored\GOOS\Argo\Argo UW-TPOS eq.,Argo UW-TPOS eq.,University of Washington ‚Äì Tropical Pacific Observing System Argo equivalent programme
+ARGOUWTPOSEQ,\Co-sponsored\GOOS\Argo\Argo UW-TPOS eq.,Argo UW-TPOS eq.,University of Washington - Tropical Pacific Observing System Argo equivalent programme
 argoUWUAEq,\Co-sponsored\GOOS\Argo\ARGO UW-UA EQ.,ARGO UW-UA EQ.,ARGO UW-UA EQ.
 argoWHOI,\Co-sponsored\GOOS\Argo\ARGO WHOI,ARGO WHOI,ARGO WHOI
 argoWHOIEqIR,\Co-sponsored\GOOS\Argo\ARGO WHOI EQ. IR,ARGO WHOI EQ. IR,ARGO WHOI EQ. IR
 ARGOWHOIloopcurrentEQ,\Co-sponsored\GOOS\Argo\Argo WHOI-Loop Current eq.,Argo WHOI-Loop Current eq.,"""Woods Hole Oceanographic Institution - Loop Current, Gulf of Mexico Argo equivalent programme"""
 argoWHOIMRVEq,\Co-sponsored\GOOS\Argo\ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.,ARGO WHOI-MRV EQ.
 ARGOWHOISODAEQ,\Co-sponsored\GOOS\Argo\Argo WHOI-SODA eq.,Argo WHOI-SODA eq.,Woods Hole Oceanographic Institution - Stratified Ocean Dynamics of the Arctic Argo equivalent programme
-ASAPAWI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-AWI,ASAP-AWI,NA
-ASAPZA,\Co-sponsored\GOOS\SOT\ASAP-ZA,ASAP-ZA,NA
+ASAPAWI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-AWI,ASAP-AWI,AWI ASAP program
+ASAPJP,\Co-sponsored\GOOS\SOT\ASAP\ASAP-JP,ASAP-JP,Japanese ASAP program
+ASAPKR,\Co-sponsored\GOOS\SOT\ASAP\ASAP-KR,ASAP-KR,Korean ASAP program
+ASAPMPI,\Co-sponsored\GOOS\SOT\ASAP\ASAP-MPI,ASAP-MPI,ASAP on MPI operated RVs like German RV Sonne
+ASAPUS,\Co-sponsored\GOOS\SOT\ASAP\ASAP-US,ASAP-US,US ASAP program led by NOAA
+ASAPZA,\Co-sponsored\GOOS\SOT\ASAP\ASAP-ZA,ASAP-ZA,South African ASAP program
+ASOGlider,\Co-sponsored\GOOS\OceanGliders\Adriatic Sea Observatory,Adriatic Sea Observatory,Repeated section in the Adriatic water transformation region
 AtlantOSH2020,\Co-sponsored\GOOS\Argo\AtlantOS_H2020,AtlantOS_H2020,Atlantic Ocean Observing System Horizon 2020 Argo project
 AWIDB,\Co-sponsored\GOOS\DBCP\AWI-DB,AWI-DB,Alfred Wagner Institute Drifter Buoy program
+bioargoUmaine,\Co-sponsored\GOOS\Argo\BioArgo UMaine,BioArgo UMaine,BGC Argo contribution from Umaine
 BOMDB,\Co-sponsored\GOOS\DBCP\BOM DB,BOM DB,Bureau of Meteorology (BOM) Drifting Buoy program
+BOMMB,\Co-sponsored\GOOS\DBCP\BOM MB,BOM MB,Bureau of Meteorology (BOM) Moored Buoy
 BOMTSU,\Co-sponsored\GOOS\DBCP\BOM-TSU,BOM-TSU,Bureau of Meteorology (BOM) Tsunameter Buoy
 BPINC,\Co-sponsored\GOOS\DBCP\BP INC,BP INC,NA
 brazilPNBOIAINPE,\Co-sponsored\GOOS\DBCP\BRAZIL PNBOIA-INPE,BRAZIL PNBOIA-INPE,Programa Nacional de Boias (PNBOIA) is the brazilian contribution to the Global Ocean Observation System (GOOS). Instituto Nacional de Pesquisas Espacias (INPE)
@@ -125,7 +148,7 @@ BSHDWDMB,\Co-sponsored\GOOS\DBCP\BSH-DWD-MB,BSH-DWD-MB,NA
 BSHMB,\Co-sponsored\GOOS\DBCP\BSH-MB,BSH-MB,NA
 BSRN,\Co-sponsored\GCOS\BSRN,BSRN,Baseline Surface Radiation Network
 BULARGO,\Co-sponsored\GOOS\Argo\BULARGO,BULARGO,NA
-CANDHIS,\Co-sponsored\GOOS\DBCP\CANDHIS,CANDHIS,CANDHIS Wave buoys (CETMEF/Meteo France - (Centre d'Archivage National de Donn√©es de Houle In-Situ) )
+CANDHIS,\Co-sponsored\GOOS\DBCP\CANDHIS,CANDHIS,CANDHIS Wave buoys (CETMEF/Meteo France - (Centre d'Archivage National de Données de Houle In-Situ))
 CAPMoN,\WIGOS\GAW\GAW Other elements\CAPMoN,CAPMoN,Canadian Air and Precipitation Monitoring Network
 CARICOOS,\Co-sponsored\GOOS\DBCP\CARICOOS,CARICOOS,CarICOOS is the observing arm of the Caribbean Regional Association for Integrated Coastal Ocean Observing (CaRA)
 CARIOCA,\Co-sponsored\GOOS\DBCP\CARIOCA,CARIOCA,CARIOCA SOUTHERN OCEAN
@@ -133,12 +156,15 @@ CASTNET,\WIGOS\GAW\GAW Contributing networks\CASTNET,CASTNET,Clean Air Status an
 CDIP,\Co-sponsored\GOOS\DBCP\CDIP,CDIP,Coastal Data Information Program (CDIP)
 ceilometers,\WIGOS\GOS\GOS Other elements\Ceilometers,Ceilometers,Elastic lidar (ceilometer) networks
 centennialObservingstations,,Centennial Observing Stations,"Long-term meteorological observations are unique sources of past information about atmospheric parameters, thus are references for climate variability and change assessments. To highlight this importance, WMO has a mechanism to recognize centennial observing stations. By so doing, the Organization promotes sustainable observational standards and best practices that facilitate the generation of high-quality time series data."
+CEOASGlider,\Co-sponsored\GOOS\OceanGliders\CEOAS glider program,CEOAS glider program,"College of Earth, Ocean, and Atmospheric Sciences glider program contribute to the CeNCOOS is the Central and Northern California Ocean Observing System."
+Challenger,\Co-sponsored\GOOS\OceanGliders\Challenger,Challenger,The Silbo Challenger mission is a partnership between industry and academia.
 CIS-LiNet,\WIGOS\GAW\GAW Other elements\CIS-LiNet,CIS-LiNet,Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network
 CLIMATc,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(C),CLIMAT(C),Station for which monthly climatological means of surface elements are transmitted
 CLIMATct,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(CT),CLIMAT(CT),Station for which monthly climatological means of both surface and upper- air elements are transmitted
 CLIMATt,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(T),CLIMAT(T),Station for which monthly climatological means of upper-air elements are transmitted
 CLN,\WIGOS\GAW\GAW Other elements\CLN,CLN,The NOAA Cooperative Remote Sensing Science and Technology (CREST) Lidar network
 colombiaTSU,\Co-sponsored\GOOS\DBCP\COLOMBIA-TSU,COLOMBIA-TSU,Colombia Tsunameter buoy
+COMPSMB,\Co-sponsored\GOOS\DBCP\COMPS-MB,COMPS-MB,Owned and maintained by COMPS (University of South Florida) Offshore Buoy
 copernicusHRSSTFRM,\Co-sponsored\GOOS\DBCP\COPERNICUS-HRSST-FRM,COPERNICUS-HRSST-FRM,COPERNICUS High Resolution SST Framework
 coriolis,\Co-sponsored\GOOS\Argo\CORIOLIS,CORIOLIS,CORIOLIS
 coriolisBioargo,\Co-sponsored\GOOS\Argo\CORIOLIS-BIOARGO,CORIOLIS-BIOARGO,NA
@@ -161,17 +187,24 @@ coriolisRemoceanEq,\Co-sponsored\GOOS\Argo\CORIOLIS-REMOCEAN EQ.,CORIOLIS-REMOCE
 coriolisSpice,\Co-sponsored\GOOS\Argo\CORIOLIS-SPICE,CORIOLIS-SPICE,NA
 coriolisTrack,\Co-sponsored\GOOS\Argo\CORIOLIS-TRACK,CORIOLIS-TRACK,NA
 CORMPNC,\Co-sponsored\GOOS\DBCP\CORMP-NC,CORMP-NC,Coastal Ocean Research and Monitoring Program -NC
+COSYNA,\Co-sponsored\GOOS\OceanGliders\Coastal Observing System for Northern and Arctic Seas,Coastal Observing System for Northern and Arctic Seas,German multi-platform Observatory of the Northern and Arctic Sea
+CSIMB,\Co-sponsored\GOOS\DBCP\CSI-MB,CSI-MB,"Owned and maintained by UNC Coastal Studies Institute, Data provided by Scripps Institution of Oceanography"
 CTBTO,\WIGOS\GOS\GOS Contributing networks\CTBTO,CTBTO,Comprehensive Nuclear-Test Ban Treaty Organization International Monitoring System Network monitoring station
+CYCOFOS,\Co-sponsored\GOOS\OceanGliders\Cyprus Coastal Ocean Forecasting and Observing System,Cyprus Coastal Ocean Forecasting and Observing System,"Sub-regional forecasting and observing system in the Eastern Mediterranean Levantine Basin, which covers the coastal and open sea areas of Cyprus, Cilician and Lattakian basins and the Eastern Levantine Base"
 DBCPothers,\Co-sponsored\GOOS\DBCP\DBCP others,DBCP others,NA
 DEKOSIM,\Co-sponsored\GOOS\Argo\DEKOSIM,DEKOSIM,DEKOSIM is an interdisciplinary research project funded by the Turkish Ministry of Development
+DFOUVicGlider,\Co-sponsored\GOOS\OceanGliders\DFO/University of Victoria Glider program,DFO/University of Victoria Glider program,Glider program operated by University of Victoria in collaboration with DFO
 DFODB,\Co-sponsored\GOOS\DBCP\DFO DB,DFO DB,Department of Fisheries and Oceans Drifter Buoys
+DFOGlider,\Co-sponsored\GOOS\OceanGliders\Department of Fisheries and Oceans Canada Glider Program,Department of Fisheries and Oceans Canada Glider Program,The Department of Fisheries and Oceans Canada Glider Program
+DFOUSVs,\Co-sponsored\GOOS\DBCP\DFO USVs,DFO USVs,"Unmanned/Autonomous Surface Vehicles by DFO, Canada"
 eAIMS,\Co-sponsored\GOOS\Argo\E-AIMS,E-AIMS,Euro-Argo Improvements for the GMES Marine Service
 EANET,\WIGOS\GAW\GAW Contributing networks\EANET,EANET,EANET
 EARLINET,\WIGOS\GAW\GAW Contributing networks\EARLINET,EARLINET,European Aerosol Research Lidar Network
-eASAP,\Co-sponsored\GOOS\SOT\ASAP\E-ASAP,E-ASAP,European - Automated Shipboard Aerological Program
+eASAP,\Co-sponsored\GOOS\SOT\ASAP\E-ASAP,E-ASAP,Eumetnet - Automated Shipboard Aerological Program
 ECDB,\Co-sponsored\GOOS\DBCP\EC DB,EC DB,Canada Drifting Buoys
 ECIABP,\Co-sponsored\GOOS\DBCP\EC-IABP,EC-IABP,International Arctic Buoy Program
 ECMB,\Co-sponsored\GOOS\DBCP\EC MB,EC MB,Canadian Moored Buoy Programme (MSC)
+EEAGlider,\Co-sponsored\GOOS\OceanGliders\Extended Ellett Array,Extended Ellett Array,"The Ellett Array uses moorings, gliders and ship-based hydrography to observe the warm-water pathways of the AMOC, located in the Rockall Trough and the Hatton-Rockall Basin."
 EMEP,\WIGOS\GAW\GAW Other elements\EMEP,EMEP,European Monitoring and Evaluation Programme
 eSurfmar,\Co-sponsored\GOOS\DBCP\E-SURFMAR,E-SURFMAR,EUMETNET Composite Observing System (EUCOS)Surface Marine Programme
 eSurfmarGDP,\Co-sponsored\GOOS\DBCP\GDP-E-SURFMAR,E-SURFMAR GDP,Global Drifter Program drifters with E-SURFMAR barometer upgrades
@@ -181,8 +214,11 @@ eSurfmarUKFRMB,\Co-sponsored\GOOS\DBCP\E-SURFMAR-UK/FR MB,E-SURFMAR-UK/FR MB,NA
 eSurfmarUKMB,\Co-sponsored\GOOS\DBCP\E-SURFMAR-UK MB,E-SURFMAR-UK MB,UKMO moored buoy programme
 EUROARGO,\Co-sponsored\GOOS\Argo\EUROARGO,EUROARGO,European contribution to Argo program
 EuroARGORISE,\Co-sponsored\GOOS\Argo\Euro-Argo RISE,Euro-Argo RISE,Euro-Argo Research Infrastructure Sustainability and Enhancement project
+euroSeaArgo,\Co-sponsored\GOOS\Argo\EuroSea Argo,EuroSea Argo,Argo part of the EuroSea project
 EurositesPlanier,\Co-sponsored\GOOS\DBCP\EUROSITES PLANIER,EUROSITES PLANIER,NA
 FERHRITSU,\Co-sponsored\GOOS\DBCP\FERHRI-TSU,FERHRI-TSU,Far Eastern Regional Hydrometeorological Research Institute Tsunameter Buoys
+FMIGlider,\Co-sponsored\GOOS\OceanGliders\FMI Glider Program,FMI Glider Program,Glider program operated by the Finish Institute of Meteorology. FMI operate gliders in the Baltic sea.
+FranceGlider,\Co-sponsored\GOOS\OceanGliders\DTINSU international,DTINSU international,Sustained programme of non repeated National and International deployment of the French Gliders Facility
 GALION,\WIGOS\GAW\GALION,GALION,GAW Aerosol Lidar Observation Network
 GAWglobal,\WIGOS\GAW\GAW Global,GAW Global,Global GAW station
 GAWlocal,\WIGOS\GAW\GAW Local,GAW Local,Local GAW station
@@ -194,19 +230,27 @@ GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A statio
 GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
 GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
 GDPMF,\Co-sponsored\GOOS\DBCP\GDP-MF,GDPMF,Global Drifter Program drifters with Meteo-France barometer upgrades
+GEOMARGlider,\Co-sponsored\GOOS\OceanGliders\GEOMAR Glider program,GEOMAR Glider program,Glider program operated by GEOMAR. Regular cooperation with Cape Verde Oceanographic institute.
 germanAODnetwork,\WIGOS\GAW\GAW Other elements\German AOD network,German AOD network,German Aerosol Optical Depth Network
 germanyMB,\Co-sponsored\GOOS\DBCP\GERMANY MB,GERMANY MB,KIEL GEK BUOY
+GINA,\Co-sponsored\GOOS\OceanGliders\Glider In The Agulhas,Glider In The Agulhas,Glider program operated by CSIR in South Africa along the Agulhas current
 GLOSCAL,\Co-sponsored\GOOS\DBCP\GLOSCAL,GLOSCAL,"GLOSCAL is a French Project sponsored by ESA , which aims to calibrate and validate sea surface salinity (SSS) measurements carried out by satellite (e.g. SMOS and Aquarius)."
 GNSSradioOccultation,\WIGOS\GOS\GOS Other elements\GNSS radio-occultation system,GNSS radio-occultation system,NA
+GOMIX,\Co-sponsored\GOOS\OceanGliders\GOMIX,GOMIX,GOMIX glider program lead by University of Texas
+GOMOGlider,\Co-sponsored\GOOS\OceanGliders\Global Ocean Monitoring and Observing Program - Glider,Global Ocean Monitoring and Observing Pogram - Glider,GOMO provide and support high quality global ocean observations and research to improve our scientific understanding and inform society about the ocean's role in environmental change. GOMO glider is the glider component of GOMO.
 GOSGeneral,\WIGOS\GOS\GOS Surface networks\GOS General,GOS General,No affiliation to other GOS Surface networks
 GOship,\Co-sponsored\GOOS\SOT\GO-SHIP,GO-SHIP,Global Ocean Ship-Based Hydrographic Investigations Programme
+GreatLakeGlider,\Co-sponsored\GOOS\OceanGliders\Great Lakes Observing System Glider Program,Great Lakes Observing System Glider Program,Great Lakes Observing System Glider Program
 greeceMB,\Co-sponsored\GOOS\DBCP\GREECE MB,GREECE MB,Moored buoys in the Greek Poseiden Network
 GRUAN,\Co-sponsored\GCOS\GRUAN,GRUAN,GCOS Reference Upper-Air Network
 GSN,\Co-sponsored\GCOS\GSN,GSN,GCOS Surface Network
 GTOS,\Co-sponsored\GTOS,GTOS,Global Terrestrial Observing System
 GUAN,\Co-sponsored\GCOS\GUAN,GUAN,GCOS Upper-Air Network
 gyroscope,\Co-sponsored\GOOS\Argo\GYROSCOPE,GYROSCOPE,"GyroScope project is aimed to develop a European component of a global in situ observing system of ocean variability in the North Atlantic, as a contribution to the Argo project."
+HCMRGlider,\Co-sponsored\GOOS\OceanGliders\HCMR glider program,HCMR glider program,HCMR maintain the Cretan Line.
 HKOBSDB,\Co-sponsored\GOOS\DBCP\HK-OBS-DB,HK-OBS-DB,Hong Kong Observatory Drifter Buoy
+HurricaneGlider,\Co-sponsored\GOOS\OceanGliders\NOAA Glider Hurricane Program,NOAA Glider Hurricane Program,NOAA Glider Hurricane Program aims at improving hurricane forecasting by assimilating observations from gliders situated in the passage of a a hurricane in the coastal seas of US.
+HZGGlider,\Co-sponsored\GOOS\OceanGliders\HZG glider program,HZG glider program,Glider program operated by Helmholtz-Zentrum Geesthacht
 IABP,\Co-sponsored\GOOS\DBCP\IABP,IABP,International Arctic Buoy Programme (IABP)
 IABPcanada,\Co-sponsored\GOOS\DBCP\IABP CANADA,IABP CANADA,ICE FLOE DRIFT
 IABPEC,\Co-sponsored\GOOS\DBCP\IABP-EC,IABP-EC,NA
@@ -216,6 +260,9 @@ IABPUW,\Co-sponsored\GOOS\DBCP\IABP-UW,IABP-UW,Intl Arctic Buoy Program (IABP) U
 IAGOS,\WIGOS\GAW\GAW Contributing networks\IAGOS,IAGOS,In-service Aircraft for a Global Observing System
 IBPIO,\Co-sponsored\GOOS\DBCP\IBPIO,IBPIO,International Buoy Programme for the Indian Ocean (IBPIO)
 ICOS,\WIGOS\GAW\GAW Contributing networks\ICOS,ICOS,"Integrated Carbon Observation System, www.icos-cp.eu"
+ILBD,\Co-sponsored\GOOS\DBCP\IL-DB,IL-DB,Drifting buoy by Israel
+ILMB,\Co-sponsored\GOOS\DBCP\IL-MB,IL-MB,Moored buoys by Israel
+IMOSGlider,\Co-sponsored\GOOS\OceanGliders\Integrated Marine Observing System - Glider,Integrated Marine Observing System - Glider,The Ocean Gliders facility operates a fleet of autonomous underwater ocean gliders that undertake measurements from shelf and boundary currents in Australian waters.
 IMPROVE,\WIGOS\GAW\GAW Contributing networks\IMPROVE,IMPROVE,IMPROVE Optical Aerosol
 INCOISTSU,\Co-sponsored\GOOS\DBCP\INCOIS-TSU,INCOIS-TSU,Indian National Centre for Ocean Information Services Tsunameter buoys
 INDAAF,\WIGOS\GAW\GAW Contributing networks\INDAAF,INDAAF,"International Network to study Deposition and Atmospheric composition in Africa, https://indaaf.obs-mip.fr/"
@@ -223,33 +270,52 @@ INDIANIO,\Co-sponsored\GOOS\DBCP\INDIA NIO,INDIA NIO,Collection of METOCEAN data
 indiaNIOT,\Co-sponsored\GOOS\DBCP\INDIA-NIOT,INDIA-NIOT,Indian Ocean Observing Program
 indiaNIOTSU,\Co-sponsored\GOOS\DBCP\INDIA NIO-TSU,INDIA NIO-TSU,NIO Tsunameter buoys
 INOCARTSU,\Co-sponsored\GOOS\DBCP\INOCAR-TSU,INOCAR-TSU,Instituto Oceanografico de la Armada Tsunameter buoys
+INTAROSGlider,\Co-sponsored\GOOS\OceanGliders\INTAROS french glider program,INTAROS french glider program,Glider deployment run by CNRS in the Fram Strait during INTAROS project
 IPABUS,\Co-sponsored\GOOS\DBCP\IPAB-US,IPABUS,International Programme for Antarctic Buoys - US
+irishGlider,\Co-sponsored\GOOS\OceanGliders\Irish sustained glider deployment,Irish sustained glider deployment,Irish deployment on sustained endurance line
+ISMARGlider,\Co-sponsored\GOOS\OceanGliders\CNR Ismar Glider Program,CNR Ismar Glider Program,Glider program operated by CNR ISMAR including repeated section between Sardinia and Balearic Island
+IsraelGlider,\Co-sponsored\GOOS\OceanGliders\Israeli National Monitoring,Israeli National Monitoring,3 SeaExplorer gliders purchased and operated under consortium agreement between the four institutes.
 italyDB,\Co-sponsored\GOOS\DBCP\ITALY DB,ITALY DB,Italian Drifting Buoys (EXPARGOS)
 italyOGS,\Co-sponsored\GOOS\DBCP\ITALY-OGS,ITALY-OGS,NA
 ITPdamocles,\Co-sponsored\GOOS\Argo\ITP-DAMOCLES,ITP-DAMOCLES,NA
 ITPWHOI,\Co-sponsored\GOOS\Argo\ITP-WHOI,ITP-WHOI,NA
 JAMSTECDB,\Co-sponsored\GOOS\DBCP\JAMSTEC-DB,JAMSTECDB,Japan Agency for Marine-Earth Science and Technology Drifting Buoy
+JAMSTECMB,\Co-sponsored\GOOS\DBCP\JAMSTEC-MB,JAMSTEC-MB,Japan Agency for Marine-Earth Science and Technology Moored Buoy
 JMADB,\Co-sponsored\GOOS\DBCP\JMA DB,JMA DB,JMA Drifting Buoy
 JMATSU,\Co-sponsored\GOOS\DBCP\JMA-TSU,JMA-TSU,JMA Tsunameter buoys
+KIOSTGlider,\Co-sponsored\GOOS\OceanGliders\KIOST glider program,KIOST glider program,Glider program operated by KIOST. Storm tracking applications.
 KMAMB,\Co-sponsored\GOOS\DBCP\KMA MB,KMA MB,Korea Meteorological Department Moored Buoy programme
+KUGON,\Co-sponsored\GOOS\OceanGliders\Korea Underwater Glider Observing Network,Korea Underwater Glider Observing Network,Korea Underwater Glider Observing Network
 LALINET,\WIGOS\GAW\GAW Contributing networks\LALINET,LALINET,LALINET Latin America Lidar Network
+LargeLakeGlider,\Co-sponsored\GOOS\OceanGliders\Large Lakes Observatory Glider Program,Large Lakes Observatory Glider Program,Large Lakes Observatory Glider Program
 lightningDetection,\WIGOS\GOS\GOS Other elements\Lightning detection system,Lightning detection system,Surface-based lightning detection system
 LOCEAN,\Co-sponsored\GOOS\DBCP\LOCEAN,LOCEAN,Laboratory of Oceanography and Climate: Experiments and Digital Approaches
+LTERGlider,\Co-sponsored\GOOS\OceanGliders\NSF Long Term Ecological Research,NSF Long Term Ecological Research,The Long Term Ecological Research (LTER) program in Antarctica.
+MAGIC,\Co-sponsored\GOOS\OceanGliders\Mid Atlantic Glider Initiative and Collaboration,Mid Atlantic Glider Initiative and Collaboration,Mid Atlantic Glider Initiative and Collaboration
 marlinDB,\Co-sponsored\GOOS\DBCP\MARLIN-DB,MARLIN-DB,NA
+MARSGlider,\Co-sponsored\GOOS\OceanGliders\Marine Autonomous and Robotic Systems,Marine Autonomous and Robotic Systems,UK sustained program for Autonomous Underwater Vehicles
+MBARIGlider,\Co-sponsored\GOOS\OceanGliders\MBARI glider program,MBARI glider program,MBARI and Naval Postgraduate School glider program
 MEDARGO,\Co-sponsored\GOOS\Argo\MEDARGO,MEDARGO,NA
 meridianGoodHope,\Co-sponsored\GOOS\Argo\MERIDIAN GOODHOPE,MERIDIAN GOODHOPE,NA
 MERSEA,\Co-sponsored\GOOS\Argo\MERSEA,MERSEA,NA
 MeteoFranceDB,\Co-sponsored\GOOS\DBCP\METEO FRANCE DB,METEO FRANCE DB,MF Drifters Atlantic and Indian Ocean
 MeteoFranceMB,\Co-sponsored\GOOS\DBCP\METEO FRANCE MB,METEO FRANCE MB,MF Drifters Atlantic and Indian Ocean
 MeteoFranceWB,\Co-sponsored\GOOS\DBCP\METEO FRANCE WB,METEO FRANCE WB,Meteo-France waverider (operational)
-MOCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo ‚Äì EU
-MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo ‚Äì Germany
-MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo ‚Äì Italy
-MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo ‚Äì Netherlands
-MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo ‚Äì Poland
+MIGlider,\Co-sponsored\GOOS\OceanGliders\Marine Institute Glider Program,Marine Institute Glider Program,Glider program operated by the Marine Institute (Ireland)
+MOCCAEU,\Co-sponsored\GOOS\Argo\MOCCA-EU,MOCCA-EU,Monitoring the Oceans and Climate Change with Argo - EU
+MOCCAGER,\Co-sponsored\GOOS\Argo\MOCCA-GER,MOCCA-GER,Monitoring the Oceans and Climate Change with Argo - Germany
+MOCCAIT,\Co-sponsored\GOOS\Argo\MOCCA-IT,MOCCA-IT,Monitoring the Oceans and Climate Change with Argo - Italy
+MOCCANETH,\Co-sponsored\GOOS\Argo\MOCCA-NETH,MOCCA-NETH,Monitoring the Oceans and Climate Change with Argo - Netherlands
+MOCCAPOL,\Co-sponsored\GOOS\Argo\MOCCA-POL,MOCCA-POL,Monitoring the Oceans and Climate Change with Argo - Poland
+MOOSEnvironment,\Co-sponsored\GOOS\OceanGliders\Mediteranean Ocean Observing System for the Environment,Mediteranean Ocean Observing System for the Environment,Mediteranean Ocean Observing System for the Environment
 MPLNET,\WIGOS\GAW\GAW Contributing networks\MPLNET,MPLNET,Micro-Pulse Lidar Network
+MUNGlider,\Co-sponsored\GOOS\OceanGliders\Memorial University of Newfoundland Glider program,Memorial University of Newfoundland Glider program,Glider operation leaded by MUN
 NADP,\WIGOS\GAW\GAW Contributing networks\NADP,NADP,National Atmospheric Deposition Program
+NansenLegacyGlider,\Co-sponsored\GOOS\OceanGliders\NorGliders - Nansen Legacy,NorGliders - Nansen Legacy,Nansen Legacy glider program Operated by NorGliders
+NAOSCanada,\Co-sponsored\GOOS\Argo\NAOS-Canada,NAOS-Canada,Canadian contribution to NAOS program
 NAOSfrance,\Co-sponsored\GOOS\Argo\NAOS-FRANCE,NAOS-FRANCE,Novel Argo Ocean Observing System (NOAS) France project
+NATOGlider,\Co-sponsored\GOOS\OceanGliders\Scientific NATO glider experiment,Scientific NATO glider experiment,Sustained gliders scientific exepriments from NATO
+NavoceanGlider,\Co-sponsored\GOOS\OceanGliders\US NAVY glider program,US NAVY glider program,Glider program operated by NAVOCANO (Oceanographic component of the US navy).
 NAVOCEANODBCP,\Co-sponsored\GOOS\DBCP\NAVOCEANO DBCP,Navoceano DBCP,Naval Oceanographic Office DBCP programme
 NCCOOS,\Co-sponsored\GOOS\DBCP\NCCOOS,NCCOOS,NA
 NDACC,\WIGOS\GAW\GAW Other elements\NDACC,NDACC,Network for the Detection of Atmospheric Composition Change
@@ -264,14 +330,25 @@ NDBCTABS,\Co-sponsored\GOOS\DBCP\NDBC-TABS,NDBC-TABS,NA
 NDBCTSU,\Co-sponsored\GOOS\DBCP\NDBC-TSU,NDBC-TSU,NDBC Tsunameter buoys
 NDBCUSCG,\Co-sponsored\GOOS\DBCP\NDBC-USCG,NDBC-USCG,NA
 NDWCTSU,\Co-sponsored\GOOS\DBCP\NDWC-TSU,NDWC-TSU,National Disaster Warning Center Tsunameter buoys
+NERACOOSMB,\Co-sponsored\GOOS\DBCP\NERACOOS-MB,NERACOOS-MB,"Owned and maintained by Woods Hole Group/NERACOOS, Data provided by Scripps Institution of Oceanography"
 NewZealandDB,\Co-sponsored\GOOS\DBCP\NEW ZEALAND DB,NEW ZEALAND DB,NA
 NICIABP,\Co-sponsored\GOOS\DBCP\NIC-IABP,NIC-IABP,NA
+NIWAGlider,\Co-sponsored\GOOS\OceanGliders\NIWA Glider Program,NIWA Glider Program,Glider program operated by NIWA is New Zeland.
 NOAACBIBS,\Co-sponsored\GOOS\DBCP\NOAA-CBIBS,NOAA-CBIBS,"The National Oceanic and Atmospheric Administration's (NOAA) Chesapeake Bay Interpretive Buoy System (CBIBS) is a network of observing platforms (buoys) that collect meteorological, oceanographic, and water-quality data and relay that information using wireless technology to a variety of users."
 NOAAGML,\WIGOS\GAW\GAW Other elements\NOAA-GML,NOAA-GML,NOAA Global Monitoring Laboratory
+NOCLGlider,\Co-sponsored\GOOS\OceanGliders\NOC Liverpool Glider Program,NOC Liverpool Glider Program,NOC Liverpool Glider Program covers the glider deployments lead by NOC_L that are not part of a sustained program.
 nonAffiliated,\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with WIGOS or any of the co-sponsored programs
+NorEMSOGlider,\Co-sponsored\GOOS\OceanGliders\NorGlider - NorEMSO,NorGlider - NorEMSO,Norvegian Glider program around EMSO sites
+NorwayGlider,\Co-sponsored\GOOS\OceanGliders\NorGliders - other,NorGliders - other,"Norwegian national facility for ocean gliders (NorGliders) is running glider missions along repeated section in outstanding sites of interest are the Svinøy Section, the Lofoten Basin of the Norwegian Sea, the Mohn ridge, as well as the Iceland and Greenland Seas."
 NorwayIMR,\Co-sponsored\GOOS\DBCP\NORWAY-IMR,NORWAY-IMR,Institute of Marine Research Drifting Buoy Program
 NWSNDBCMB,\Co-sponsored\GOOS\DBCP\NWS-NDBC-MB,NWS-NDBC-MB,NWS NDBC Moored buoy
 NWSNDBCWB,\Co-sponsored\GOOS\DBCP\NWS-NDBC-WB,NWS-NDBC-WB,NWS NDBC Wave buoy
+NZTSU,\Co-sponsored\GOOS\DBCP\NZ-TSU,NZ-TSU,GNS Science is a New Zealand Crown Research Institute
+ODYSSEAGlider,\Co-sponsored\GOOS\OceanGliders\ODYSSEA H2020 Glider program,ODYSSEA H2020 Glider program,"ODYSSEA developed, operate and demonstrate an interoperable and cost-effective platform that fully integrates networks of observing and forecasting systems across the Mediterranean basin, addressing both the open sea and the coastal zone. ODYSSEA program started in 2018 and finished in 2021."
+OGSGlider,\Co-sponsored\GOOS\OceanGliders\OGS glider program,OGS glider program,Istituto Nazionale di Oceanografia e di Geofisica Sperimentale glider program
+OOICGSNGlider,\Co-sponsored\GOOS\OceanGliders\OOI - Coastal and Global Scale Nodes,OOI - Coastal and Global Scale Nodes,"The Ocean Observatories Initiative is funded by the National Science Foundation and is managed and coordinated by the OOI Program Management Office (PMO) at the Woods Hole Oceanographic Institution (WHOI) in Woods Hole, MA."
+OOIEnduranceGlider,\Co-sponsored\GOOS\OceanGliders\OOI - Coastal Endurance Array,OOI - Coastal Endurance Array,"The OOI is funded by the National Science Foundation and is managed and coordinated by the OOI Program Management Office (PMO) at the Woods Hole Oceanographic Institution (WHOI) in Woods Hole, MA."
+OOIMB,\Co-sponsored\GOOS\DBCP\OOI-MB,OOI-MB,"Station owned and maintained by Ocean Observatories Initiative, Buoy"
 OSAWI,\Co-sponsored\GOOS\OceanSITES\OS-AWI,OS-AWI,AWI OceanSITES program
 OSBAS,\Co-sponsored\GOOS\OceanSITES\OS-BAS,OS-BAS,NA
 OSBCCR,\Co-sponsored\GOOS\OceanSITES\OS-BCCR,OS-BCCR,NA
@@ -283,11 +360,14 @@ OSCSIRO,\Co-sponsored\GOOS\OceanSITES\OS-CSIRO,OS-CSIRO,NA
 OSDFO,\Co-sponsored\GOOS\OceanSITES\OS-DFO,OS-DFO,NA
 OSDML,\Co-sponsored\GOOS\OceanSITES\OS-DML,OS-DML,NA
 OSEUTHOR,\Co-sponsored\GOOS\OceanSITES\OS-EU-THOR,OS-EU-THOR,NA
+OSFSC,\Co-sponsored\GOOS\OceanSITES\OS-FSC,OS-FSC,Program monitoring the Atlantic Inflow of the Shetland Branch. Faroe-Shetland Channel
 OSGEOMAR,\Co-sponsored\GOOS\OceanSITES\OS-GEOMAR,OS-GEOMAR,NA
 OShamburgUniversity,\Co-sponsored\GOOS\OceanSITES\OS-HAMBURG UNIVERSITY,OS-HAMBURG UNIVERSITY,NA
 OSHAV,\Co-sponsored\GOOS\OceanSITES\OS-HAV,OS-HAV,NA
 OSHCMR,\Co-sponsored\GOOS\OceanSITES\OS-HELLENIC CENTRE FOR MARINE RESEARCH,OS-HELLENIC CENTRE FOR MARINE RESEARCH,NA
 OSICCMCanarias,\Co-sponsored\GOOS\OceanSITES\OS-ICCM - ACIISI - GOBIERNO DE CANARIAS,OS-ICCM - ACIISI - GOBIERNO DE CANARIAS,NA
+OSIceland,\Co-sponsored\GOOS\OceanSITES\OS-ICELAND,OS-ICELAND,OceanSITES operated by Iceland
+OSIEO,\Co-sponsored\GOOS\OceanSITES\OS-IEO,OS-IEO,"OceanSITES operated by IEO, Spain"
 OSIFREMER,\Co-sponsored\GOOS\OceanSITES\OS-IFREMER,OS-IFREMER,NA
 OSIMARPE,\Co-sponsored\GOOS\OceanSITES\OS-IMARPE,OS-IMARPE,NA
 OSIMR,\Co-sponsored\GOOS\OceanSITES\OS-INSTITUTE OF MARINE RESEARCH,OS-INSTITUTE OF MARINE RESEARCH,NA
@@ -295,68 +375,121 @@ OSIONTU,\Co-sponsored\GOOS\OceanSITES\OS-IO-NTU,OS-IO-NTU,NA
 OSIOwarnemuende,\Co-sponsored\GOOS\OceanSITES\OS-IO-WARNEMUENDE,OS-IO-WARNEMUENDE,NA
 OSIRD,\Co-sponsored\GOOS\OceanSITES\OS-IRD,OS-IRD,NA
 OSJAMSTEC,\Co-sponsored\GOOS\OceanSITES\OS-JAMSTEC,OS-JAMSTEC,NA
+OSJMAJAMSTEC,\Co-sponsored\GOOS\OceanSITES\OS-JMA/JAMSTEC,OS-JMA/JAMSTEC,Moorings Operated by JMA-JAMSTEC
 OSKIOST,\Co-sponsored\GOOS\OceanSITES\OS-KIOST,OS-KIOST,NA
+OSKNMI,\Co-sponsored\GOOS\OceanSITES\OS-KNMI,OS-KNMI,"Moorings operated by ROYAL NETHERLANDS METEOROLOGICAL INSTITUTE (KNMI), the Netherlands"
+OSKORSPilot,\Co-sponsored\GOOS\OceanSITES\OS-KORS Pilot,OS-KORS Pilot,"Pilot coastal moorings by KOIST, ROK"
 OSLDEO,\Co-sponsored\GOOS\OceanSITES\OS-LDEO,OS-LDEO,NA
 OSMARUM,\Co-sponsored\GOOS\OceanSITES\OS-MARUM,OS-MARUM,NA
 OSMBARI,\Co-sponsored\GOOS\OceanSITES\OS-MBARI,OS-MBARI,NA
+OSMBL,\Co-sponsored\GOOS\OceanSITES\OS-MBL,OS-MBL,"Moorings operated by Marine Biological Lab, USA"
+OSMNR,\Co-sponsored\GOOS\OceanSITES\OS-MNR,OS-MNR,"OceanSITES operated by Ministry of Natural Resources, China"
+OSMSS,\Co-sponsored\GOOS\OceanSITES\OS-MSS,OS-MSS,"Shetland-branch monitoring in the Faroe-Shetland Channel, contributing to the Greenland-Scotland Ridge Transport Mooring Array within AtlantOS and the THOR, NACLIM and Blue-Action projects."
+OSNAPGlider,\Co-sponsored\GOOS\OceanGliders\Overturning in the Subpolar North Atlantic Program,Overturning in the Subpolar North Atlantic Program,"Overturning in the Subpolar North Atlantic Program (OSNAP) is an international program designed to provide a continuous record of the full-water column, trans-basin fluxes of heat, mass and freshwater in the subpolar North Atlantic."
 OSNIO,\Co-sponsored\GOOS\OceanSITES\OS-NIO,OS-NIO,NA
 OSNIOT,\Co-sponsored\GOOS\OceanSITES\OS-NIOT,OS-NIOT,NA
 OSNIOZ,\Co-sponsored\GOOS\OceanSITES\OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),OS-ROYAL NETHERLANDS INSTITUTE FOR SEA RESEARCH (NIOZ),NA
 OSNIWA,\Co-sponsored\GOOS\OceanSITES\OS-NIWA,OS-NIWA,NA
+OSNOAA,\Co-sponsored\GOOS\OceanSITES\OS-NOAA,OS-NOAA,Moorings operated generically by NOAA
 OSNOAA-AOML,\Co-sponsored\GOOS\OceanSITES\OS-NOAA/AOML,OS-NOAA/AOML,NA
 OSNOAA-PMEL,\Co-sponsored\GOOS\OceanSITES\OS-NOAA/PMEL,OS-NOAA/PMEL,NA
+OSNOAANDBC,\Co-sponsored\GOOS\OceanSITES\OS-NOAA/NDBC,OS-NOAA/NDBC,Moorings operated by NDBC
 OSNOC,\Co-sponsored\GOOS\OceanSITES\OS-NOC,OS-NOC,NA
+OSOCEANOR,\Co-sponsored\GOOS\OceanSITES\OS-OCEANOR,OS-OCEANOR,"Moorings operated by OCEANOR, Greece"
 OSOGS,\Co-sponsored\GOOS\OceanSITES\OS-OGS,OS-OGS,NA
+OSSAM,\Co-sponsored\GOOS\OceanSITES\OS-SAM,OS-SAM,Southwest Atlantic MOC
+OSSAMSDML,\Co-sponsored\GOOS\OceanSITES\OS-SAMS_DML,OS-SAMS_DML,"Moorings operated by SAMS, UK"
 OSSIO,\Co-sponsored\GOOS\OceanSITES\OS-SIO,OS-SIO,NA
 OSSNU,\Co-sponsored\GOOS\OceanSITES\OS-SNU,OS-SNU,NA
 OSSOA,\Co-sponsored\GOOS\OceanSITES\OS-SOA,OS-SOA,NA
 OSUNhawaiiManoa,\Co-sponsored\GOOS\OceanSITES\OS-UN_HAWAII_MANOA,OS-UN_HAWAII_MANOA,NA
 OSUNmiami,\Co-sponsored\GOOS\OceanSITES\OS-UN_MIAMI,OS-UN_MIAMI,NA
 OSUSP,\Co-sponsored\GOOS\OceanSITES\OS-USP,OS-USP,NA
+OSUTokyo,\Co-sponsored\GOOS\OceanSITES\OS-UTokyo,OS-UTokyo,Cabled sites operated by Tokyo University
 OSUW,\Co-sponsored\GOOS\OceanSITES\OS-UW,OS-UW,NA
 OSWHOI,\Co-sponsored\GOOS\OceanSITES\OS-WHOI,OS-WHOI,NA
 OSWHOI-SIO-OSU,\Co-sponsored\GOOS\OceanSITES\OS-WHOI/SIO/OSU,OS-WHOI/SIO/OSU,NA
+OVENSGlider,\Co-sponsored\GOOS\OceanGliders\NorGliders - OVENS,NorGliders - OVENS,OVENS glider program operated by UiB
 pacIOOS,\Co-sponsored\GOOS\DBCP\PACIOOS,PACIOOS,Pacific Islands Ocean Observing System Stations
+peruMB,\Co-sponsored\GOOS\DBCP\Peru-MB,Peru-MB,Moored Buoys deployed by SENAMHI-Peru
 petrobras,\Co-sponsored\GOOS\DBCP\PETROBRAS,PETROBRAS,NA
 PHOTONS,\WIGOS\GAW\GAW Other elements\PHOTONS,PHOTONS,"PHOTONS, federated to AERONET"
+PLOCANGlider,\Co-sponsored\GOOS\OceanGliders\Macaronesian Marine and Maritime Observation Network,Macaronesian Marine and Maritime Observation Network,Repeated Gliders deployments across the Macaronesian region
 PMELMB,\Co-sponsored\GOOS\DBCP\PMEL MB,PMEL MB,PMEL Moored Buoys
 polarAOD,\WIGOS\GAW\GAW Other elements\PolarAOD,PolarAOD,Polar Aerosol Optical Depth Measurement Network Project
+PolarGlider,\Co-sponsored\GOOS\OceanGliders\Polar Glider,Polar Glider,Polar Gliders in a glider program within the University of Gothenburg. It is led by Sebastiaan Swart and focuses on understanding the importance and variability of the upper ocean.
 PortugalMB,\Co-sponsored\GOOS\DBCP\PORTUGAL-MB,PORTUGAL-MB,Portugal - Instituto Hidrografico (IH)
+projetoAzul,\Co-sponsored\GOOS\OceanGliders\Projeto Azul,Projeto Azul,"Project Azul is a cooperation between SHELL Brasil, the Laboratory of Computational Methods in Engineering (LAMCE) COPPE / UFRJ's and PROOCEANO, a Brazilian oceanographic technology company."
+ProVoLoGlider,\Co-sponsored\GOOS\OceanGliders\NorGliders - ProVoLo,NorGliders - ProVoLo,ProVoLo glider program operated by UiB
+RAEONGlider,\Co-sponsored\GOOS\OceanGliders\Real-Time Aquatic Ecosystem Observation Network Glider program,Real-Time Aquatic Ecosystem Observation Network Glider program,Canadian contribution of the great lake observation using gliders
 RBON,\WIGOS\GOS\GOS Surface networks\RBON,RBON,Regional Basic Observing Network
+RUCOOLColResGlider,\Co-sponsored\GOOS\OceanGliders\RUCOOL - Collaborative Reasearch,RUCOOL - Collaborative Reasearch,"This project integrated a deep rated version of the Ion Sensitive Field Effect Transistor (ISFET)-based pH sensor, the Deep ISFET pH, into a Slocum Webb G2 glider."
+RUCOOLGlider,\Co-sponsored\GOOS\OceanGliders\Rutgers Center for Ocean Observing Leadership Glider Program,Rutgers Center for Ocean Observing Leadership Glider Program,The Rutgers University Center for Ocean Observing Leadership (RUCOOL) Glider program.
 saildrone,\Co-sponsored\GOOS\DBCP\SAILDRONE,SAILDRONE,Autonomous Surface Vehicles deployed by NOAA as pilot
+SASDB,\Co-sponsored\GOOS\DBCP\SAS-DB,SAS-DB,Voluntary buoys deployed by Sailing for Science
 SAWSDB,\Co-sponsored\GOOS\DBCP\SAWS DB,SAWS DB,South African Weather Service Drifting Buoys programme
+SBUMB,\Co-sponsored\GOOS\DBCP\SBU-MB,SBU-MB,Owned and maintained by Stony Brook University Buoy
+SCALE,\Co-sponsored\GOOS\OceanGliders\SCALE glider program,SCALE glider program,Glider program operated by CSIR in the Antarctic/Southern Atlantic.
 scripps,\Co-sponsored\GOOS\DBCP\SCRIPPS,SCRIPPS,NA
+ScrippsGlider,\Co-sponsored\GOOS\OceanGliders\Scripps Glider Program,Scripps Glider Program,The Scripps Glider Program is part of the Southern California Coastal Ocean Observing System (SCCOOS) is one of eleven regions that contributes to the national U.S. Integrated Ocean Observing System (IOOS).
 SHADOZ,\WIGOS\GAW\GAW Other elements\SHADOZ,SHADOZ,Southern Hemisphere ADditional Ozonesondes
 shell,\Co-sponsored\GOOS\DBCP\SHELL,SHELL,SHELL Beaufort sea ice movement
 shoaTSU,\Co-sponsored\GOOS\DBCP\SHOA-TSU,SHOA-TSU,Chilean Navy Hydrographic And Oceanographic Service Tsunameter buoys
 sibRad,\WIGOS\GAW\GAW Other elements\SibRad,SibRad,SibRad
 SIODB,\Co-sponsored\GOOS\DBCP\SIO-DB,SIO-DB,Scripps Institution of Oceanography Drifter Buoy
+SIOSGlider,\Co-sponsored\GOOS\OceanGliders\NorGliders - SIOS,NorGliders - SIOS,SIOS glider program operated by UiB
+SKIOGlider,\Co-sponsored\GOOS\OceanGliders\SKIO Glider Program,SKIO Glider Program,"SKIO Glider Program is part of SECOORA's observatories to observe, understand, and increase awareness of our coastal ocean; promoting knowledge, economic and environmental health through strong regional partnerships."
 skynet,\WIGOS\GAW\GAW Other elements\SKYNET,SKYNET,Aerosol-cloud-radiation interaction in the atmosphere project
+SOCIBGlider,\Co-sponsored\GOOS\OceanGliders\Balearic Islands Observatory,Balearic Islands Observatory,"SOCIB operational program is, covering the Eivissa channel (6 transects) and Mallorca channel (1 transect) from APR to MAY 2019, sampling physical and biogeochemical parmeters (CTD, fluorescence and turibity, and oxygen)."
+soclim,\Co-sponsored\GOOS\Argo\SOCLIM,SOCLIM,Southern Ocean Climate: Field studies with innovative tools
 SOOP,\Co-sponsored\GOOS\SOT\SOOP,SOOP,Ship Of Opportunity Programme
 SOOPBOM,\Co-sponsored\GOOS\SOT\SOOP-BOM,SOOP-BOM,NA
+SOOPFPVRECOPESCA,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-RECOPESCA,SOOP-FVP-RECOPESCA,A new example of participative approach to collect in-situ environmental and fisheries data using fisheries vessels of opportunity
+SOOPFVPBDC,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-BDC,SOOP-FVP-BDC,"SOOP-FVP-Beering Data Collective. Collaborative data collection as a service, using S/T probes on fishing equipment"
+SOOPFVPCatchingData,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-Catching Data,SOOP-FVP-Catching Data,"Collection of T/S data from fishing equipment, developed by the Fishing Vessel Industry in Netherland"
+SOOPFVPVistools,\Co-sponsored\GOOS\SOT\ASAP\SOOP-FVP-Vistools,SOOP-FVP-Vistools,ILVO fishing Vessel Observation Activities
+SOOPIFREMERTSG,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IFREMER-TSG,SOOP-IFREMER-TSG,T/S underway data collection program from Ifremer operated TSG and similar instruments
+SOOPIRDTSG,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IRD-TSG,SOOP-IRD-TSG,T/S underway data collection program from IRD operated TSG and similar instruments
+SOOPIRDXBT,\Co-sponsored\GOOS\SOT\ASAP\SOOP-IRD-XBT,SOOP-IRD-XBT,XBT program from IRD institute
+SOSCEX,\Co-sponsored\GOOS\OceanGliders\SOSCEx glider program,SOSCEx glider program,The Southern Ocean Seasonal Cycle Experiment glider program.
 SpainIEOMB,\Co-sponsored\GOOS\DBCP\SPAIN-IEO-MB,SPAIN-IEO-MB,Moored Buoys Managed by Spanish Institute of Oceanography of the Ministry of Science and Technology
 spainPDEMB,\Co-sponsored\GOOS\DBCP\SPAIN-PDE MB,SPAIN-PDE MB,Puertos del EStado Spain Moored buoy
+StonyBrookGlider,\Co-sponsored\GOOS\OceanGliders\Stony Brook Glider Program,Stony Brook Glider Program,SoMas Glider Program is part of the CARICOOS program
 stratus,\Co-sponsored\GOOS\DBCP\STRATUS,STRATUS,Woodshole IO OceanSITES
 TAMDAR,\WIGOS\GOS\GOS Other elements\ABOS\TAMDAR,TAMDAR,"Tropospheric Aircraft Meteorological Data Relay (Commercial/Panasonic). Not currently open to GTS, contract with Panasonic and airline and/or NMHS"
+TAMUMB,\Co-sponsored\GOOS\DBCP\TAMU-MB,TAMU-MB,"Developed and maintained by Texas A&M University, Funding provided by the Texas General Land Office's Oil Spill Prevention & Response Program"
 taoAtlas,\Co-sponsored\GOOS\DBCP\TAO ATLAS,TAO ATLAS,TAO Array of ATLAS buoys in the Equatorial Ocean
 taoPirata,\Co-sponsored\GOOS\DBCP\TAO PIRATA,TAO PIRATA,Prediction and Research Moored Array in the Atlantic
 taoPirataUS,\Co-sponsored\GOOS\DBCP\TAO PIRATA US,TAO PIRATA US,NA
 taoRamaUSindia,\Co-sponsored\GOOS\DBCP\TAO RAMA US-INDIA,TAO RAMA US-INDIA,Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction
 taoTriton,\Co-sponsored\GOOS\DBCP\TAO TRITON,TAO TRITON,Triton buoy network
 TCCON,\WIGOS\GAW\GAW Contributing networks\TCCON,TCCON,Total Carbon Column Observing Network
+texasUniversityGlider,\Co-sponsored\GOOS\OceanGliders\Texas University Glider Program,Texas University Glider Program,Texas University Glider Program is part of GCOOS Regional Alliance. Gulf of Mexico regional component of the U.S. Integrated Ocean Observing System (IOOS).
+TTUGlider,\Co-sponsored\GOOS\OceanGliders\Tallin University Glider Program,Tallin University Glider Program,Estonian Glider program operated by Tallin University of Technology.
 UCSDscripps,\Co-sponsored\GOOS\DBCP\UCSD-SCRIPPS,UCSD-SCRIPPS,SIO/CICESE Sea of Cortez Drifters
+UEAGlider,\Co-sponsored\GOOS\OceanGliders\University of East Anglia Glider Program,University of East Anglia Glider Program,Glider program operated by UEA. UEA operated all over the world in area of interest for their science.
 UKjerseyMB,\Co-sponsored\GOOS\DBCP\UK-JERSEY MB,UK-JERSEY MB,NA
 UKMODB,\Co-sponsored\GOOS\DBCP\UK-MO DB,UK-MO DB,UK MetOffice Iridium Drifters
 UKMOfixed,\Co-sponsored\GOOS\DBCP\UK-MO FIXED,UK-MO FIXED,UK Metoffice Fixed station
 UKMOLV,\Co-sponsored\GOOS\DBCP\UK-MO LV,UK-MO LV,UK Metoffice Light Vessel
 UKMOMB,\Co-sponsored\GOOS\DBCP\UK-MO MB,UK-MO MB,United Kingdom Met Office Moored Buoys
+UMasGlider,\Co-sponsored\GOOS\OceanGliders\University of Massachussetts Dartmouth Glider Program,University of Massachussetts Dartmouth Glider Program,Program created for the deployment operated by the University of Massachusetts Dartmouth not registered under any other observation program.
+UNHMB,\Co-sponsored\GOOS\DBCP\UNH-MB,UNH-MB,"Owned and maintained by the University of New Hampshire, Moored Buoy"
+UnivLasPalmasGlider,\Co-sponsored\GOOS\OceanGliders\Univ las Palmas glider program,Univ las Palmas glider program,Glider program of SITMA-ULPGC
 unknown,\unknown,unknown,The affiliation/programme is unknown.
+USACE,\Co-sponsored\GOOS\DBCP\USACE,USACE,"Owned and maintained by U.S. Army Corps of Engineers, Data provided by Scripps Institution of Oceanography, Waverider Buoy"
+USAMLRPGlider,\Co-sponsored\GOOS\OceanGliders\U.S. Antarctic Marine Living Resources Program,U.S. Antarctic Marine Living Resources Program,U.S. Antarctic Marine Living Resources glider program
 USCGDB,\Co-sponsored\GOOS\DBCP\US-CG DB,US-CG DB,USCG Drift Buoys
+USEPAGLGlider,\Co-sponsored\GOOS\OceanGliders\US EPA Great Lakes National Program,US EPA Great Lakes National Program,US EPA Great Lakes National Glider Program.
+USFGlider,\Co-sponsored\GOOS\OceanGliders\University of South Florida Glider Program,University of South Florida Glider Program,USF Glider Program is part of SECOORA monitoring program
+USMGlider,\Co-sponsored\GOOS\OceanGliders\USM Glider Program,USM Glider Program,USM Glider Program is part of the Gulf of Mexico Coastal Ocean Observing System (GCOOS) is the Gulf of Mexico regional component of the U.S. Integrated Ocean Observing System (IOOS).
+VIMGlider,\Co-sponsored\GOOS\OceanGliders\Virginia Institute of Marine Science Glider Program,Virginia Institute of Marine Science Glider Program,Glider deployment operated by VIMS with observation program.
 VOS3P,\Co-sponsored\GOOS\SOT\VOS\VOS-3P,VOS-3P,NA
 VOSAU,\Co-sponsored\GOOS\SOT\VOS\VOS-AU,VOS-AU,NA
 VOSCA,\Co-sponsored\GOOS\SOT\VOS\VOS-CA,VOS-CA,NA
 VOSCL,\Co-sponsored\GOOS\SOT\VOS\VOS-CL,VOS-CL,NA
 VOSDE,\Co-sponsored\GOOS\SOT\VOS\VOS-DE,VOS-DE,NA
+VOSDK,\Co-sponsored\GOOS\SOT\VOS\VOS-DK,VOS-DK,Danish VOS program
 VOSES,\Co-sponsored\GOOS\SOT\VOS\VOS-ES,VOS-ES,NA
 VOSEU,\Co-sponsored\GOOS\SOT\VOS\VOS-EU,VOS-EU,NA
 VOSFR,\Co-sponsored\GOOS\SOT\VOS\VOS-FR,VOS-FR,NA
@@ -373,12 +506,16 @@ VOSMY,\Co-sponsored\GOOS\SOT\VOS\VOS-MY,VOS-MY,NA
 VOSNL,\Co-sponsored\GOOS\SOT\VOS\VOS-NL,VOS-NL,NA
 VOSNO,\Co-sponsored\GOOS\SOT\VOS\VOS-NO,VOS-NO,NA
 VOSNZ,\Co-sponsored\GOOS\SOT\VOS\VOS-NZ,VOS-NZ,NA
-VOSPL,\Co-sponsored\GOOS\SOT\VOS-PL,VOS-PL,NA
+VOSPL,\Co-sponsored\GOOS\SOT\VOS\VOS-PL,VOS-PL,Polish VOS program
 VOSRU,\Co-sponsored\GOOS\SOT\VOS\VOS-RU,VOS-RU,NA
 VOSSE,\Co-sponsored\GOOS\SOT\VOS\VOS-SE,VOS-SE,NA
 VOSSHIPMASK,\Co-sponsored\GOOS\SOT\VOS\VOS-SHIP-MASK,VOS-SHIP-MASK,"Program created for platforms transmitting under ""SHIP"" GTS identifier"
+VOSTH,\Co-sponsored\GOOS\SOT\VOS\VOS-TH,VOS-TH,Thai VOS program
 VOSUS,\Co-sponsored\GOOS\SOT\VOS\VOS-US,VOS-US,NA
 VOSZA,\Co-sponsored\GOOS\SOT\VOS\VOS-ZA,VOS-ZA,NA
+VOTOGlider,\Co-sponsored\GOOS\OceanGliders\VOTO: Ocean Knowledge glider program,VOTO: Ocean Knowledge glider program,Ocean Knowledge at Voice of the Ocean glider program
+WhaleGlider,\Co-sponsored\GOOS\OceanGliders\Whale Glider Program,Whale Glider Program,Whale Glider program in the Chukchi Sea.
+WHOIGlider,\Co-sponsored\GOOS\OceanGliders\Woods Hole Spray glider Program,Woods Hole Spray glider Program,Woods Hole Spray glider surveys of the Gulf Stream and other regions.
 WHYCOS,\WIGOS\WHOS\WHYCOS,WHYCOS,World Hydrological Cycle Observing System
 windProfiler,\WIGOS\GOS\GOS Other elements\Wind Profilers,Wind Profilers,Wind profilers for upper-air wind observations
 WRO,\WIGOS\GOS\GOS Other elements\WRO,WRO,GOS Weather Radar

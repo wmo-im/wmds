@@ -5,4 +5,4 @@
 <ARGOUWMBARI> a skos:Concept ;
 	rdfs:label "Argo UW-MBARI" ;
 	skos:notation "ARGOUWMBARI" ;
-	dct:description "University of Washington ‚Äì Monterey Bay Aquarium Research Institute Argo programme"@en	.
+	dct:description "University of Washington - Monterey Bay Aquarium Research Institute Argo programme"@en	.

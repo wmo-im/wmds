@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<VIMGlider> a skos:Concept ;
+	rdfs:label "Virginia Institute of Marine Science Glider Program" ;
+	skos:notation "VIMGlider" ;
+	dct:description "Glider deployment operated by VIMS with observation program."@en	.

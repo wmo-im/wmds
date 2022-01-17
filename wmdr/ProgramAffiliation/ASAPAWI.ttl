@@ -5,4 +5,4 @@
 <ASAPAWI> a skos:Concept ;
 	rdfs:label "ASAP-AWI" ;
 	skos:notation "ASAPAWI" ;
-	dct:description "NA"@en	.
+	dct:description "AWI ASAP program"@en	.

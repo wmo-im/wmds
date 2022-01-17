@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<USACE> a skos:Concept ;
+	rdfs:label "USACE" ;
+	skos:notation "USACE" ;
+	dct:description "Owned and maintained by U.S. Army Corps of Engineers, Data provided by Scripps Institution of Oceanography, Waverider Buoy"@en	.

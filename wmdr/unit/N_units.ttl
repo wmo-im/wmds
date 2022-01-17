@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <N_units> a skos:Concept ;
-	rdfs:label "N unit" ;
+	rdfs:label "N units" ;
 	skos:notation "N_units" ;
-	dct:description "Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N = 106 (n-1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'. (WMO Manual on Codes I.2)"@en	.
+	dct:description "Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N=1E6(n-1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'"@en	.

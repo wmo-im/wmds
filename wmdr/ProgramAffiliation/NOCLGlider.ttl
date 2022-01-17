@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<NOCLGlider> a skos:Concept ;
+	rdfs:label "NOC Liverpool Glider Program" ;
+	skos:notation "NOCLGlider" ;
+	dct:description "NOC Liverpool Glider Program covers the glider deployments lead by NOC_L that are not part of a sustained program."@en	.

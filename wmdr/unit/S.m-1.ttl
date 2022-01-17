@@ -5,4 +5,4 @@
 <S.m-1> a skos:Concept ;
 	rdfs:label "siemens per metre" ;
 	skos:notation "S.m-1" ;
-	dct:description "SI derived unit of spatial gradient of electric conductance, SI base unit equivalent: m-3.kg-1.s3.A2"@en	.
+	dct:description "SI derived unit of spatial gradient of electric conductance"@en	.

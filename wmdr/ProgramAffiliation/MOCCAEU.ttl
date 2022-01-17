@@ -5,4 +5,4 @@
 <MOCCAEU> a skos:Concept ;
 	rdfs:label "MOCCA-EU" ;
 	skos:notation "MOCCAEU" ;
-	dct:description "Monitoring the Oceans and Climate Change with Argo ‚Äì EU"@en	.
+	dct:description "Monitoring the Oceans and Climate Change with Argo - EU"@en	.

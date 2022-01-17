@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<SKIOGlider> a skos:Concept ;
+	rdfs:label "SKIO Glider Program" ;
+	skos:notation "SKIOGlider" ;
+	dct:description "SKIO Glider Program is part of SECOORA's observatories to observe, understand, and increase awareness of our coastal ocean; promoting knowledge, economic and environmental health through strong regional partnerships."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<argoSIOEqSBE61NOPP> a skos:Concept ;
+	rdfs:label "Argo SIO eq. (SBE61NOPP)" ;
+	skos:notation "argoSIOEqSBE61NOPP" ;
+	dct:description "NOPP Deep Argo pilot"@en	.

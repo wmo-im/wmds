@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<TAMUMB> a skos:Concept ;
+	rdfs:label "TAMU-MB" ;
+	skos:notation "TAMUMB" ;
+	dct:description "Developed and maintained by Texas A&M University, Funding provided by the Texas General Land Office's Oil Spill Prevention & Response Program"@en	.

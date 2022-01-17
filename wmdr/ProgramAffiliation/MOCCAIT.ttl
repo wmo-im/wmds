@@ -5,4 +5,4 @@
 <MOCCAIT> a skos:Concept ;
 	rdfs:label "MOCCA-IT" ;
 	skos:notation "MOCCAIT" ;
-	dct:description "Monitoring the Oceans and Climate Change with Argo ‚Äì Italy"@en	.
+	dct:description "Monitoring the Oceans and Climate Change with Argo - Italy"@en	.
