@@ -64,7 +64,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 135,\Atmosphere\Ozone\In situ\Indian Sonde,Indian Sonde,
 136,\Atmosphere\Micrometeorology\In situ\Interferential method,Interferential method,
 137,\Atmosphere\Total atmospheric deposition\In situ\Ion Chromatography (IC) [general],Ion Chromatography (IC) [general],
-142,"Atmosphere, 'Remote-sensing, active', wind",Doppler wind lidar,"Light detection and ranging (lidar) with doppler wind capability (direct and coherent mode), typically used for measurements of winds."
+142,"Atmosphere, 'Remote-sensing, active', wind",Doppler wind lidar,"Light detection and ranging (lidar) with Doppler capability (direct and coherent mode), typically used for measurements of winds."
 143,"Atmosphere, 'Remote-sensing, active', water vapor, aerosol, particle phase",Raman lidar,"Light detection and ranging (lidar) with Raman capability, typically used for measurements of aerosol particle phase and cloud measurements as well as water vapor and temperature."
 144,\Atmosphere\Temperature\In situ\Liquid-in-glass thermometer (mercury-free),Liquid-in-glass thermometer (mercury-free),
 146,\Atmosphere\Evaporation\In situ\Lysimeter,Lysimeter,
@@ -217,7 +217,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 317,\Atmosphere\Trace gas\In situ\Optical spectrometry\Non-dispersive IR (NDIR) absorption,Non-dispersive IR (NDIR) absorption,
 318,\Atmosphere\Trace gas\In situ\Optical spectrometry\Non-dispersive UV (NDUV),Non-dispersive UV (NDUV),
 319,\Atmosphere\Trace gas\In situ\Optical spectrometry\UV absorption spectrometry-radiometry,UV absorption spectrometry-radiometry,
-320,"Atmosphere, 'Remote-sensing, active', greenhouse gas",Integrated path differential absorption (IPDA) lidar,"Light detection and ranging (lidar) with IPDA capacity, typically used for column measurements of CH4 and CO2."
+320,"Atmosphere, 'Remote-sensing, active', greenhouse gas",Integrated path differential absorption (IPDA) lidar,"Light detection and ranging (lidar) with integrated path differential absorption (IPDA) capability, typically used for column measurements of CH4 and CO2."
 321,"\Atmosphere\Trace gas\Remote-sensing, active\Optical spectrometry\Differential optical absorption (DOAS)",Differential optical absorption (DOAS),
 322,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\Fourier-transform IR spectroscopy (FTIR)",Fourier-transform IR spectroscopy (FTIR),
 323,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry\TCCON Fourier-transform IR spectroscopy (TCCON-FTIR)",TCCON Fourier-transform IR spectroscopy (TCCON-FTIR),
@@ -227,7 +227,7 @@ inapplicable,,inapplicable,None of the codes in the table are applicable in the 
 330,\Atmosphere\Radiosonde with composite method tracking,Radiosonde with composite method tracking,
 331,\Atmosphere\Wind\Radiosonde (tracking unspecified),Radiosonde (tracking unspecified),
 332,\Atmosphere\Wind\Pilot balloon with optical tracking),Pilot balloon with optical tracking),
-335,"Atmosphere, 'Remote-sensing, active', ozone, water vapor",Differential absorption lidar (DIAL),"Light detection and ranging (lidar) with DIAL capability, typically used for trace gas measurements, most notably ozone and water vapor. This technique can be extended to molecules which have suitably defined differential absorption characteristics."
+335,"Atmosphere, 'Remote-sensing, active', ozone, water vapor",Differential absorption lidar (DIAL),"Light detection and ranging (lidar) with differential absorption lidar (DIAL) capability, typically used for trace gas measurements, most notably ozone and water vapor. This technique can be extended to molecules which have suitably defined differential absorption characteristics."
 336,"\Atmosphere\Trace gas\Remote-sensing, passive\Microwave radiometry",Microwave radiometry,
 338,\Atmosphere\Humidity\In situ\Laser-based\Tunable diode lase spectroscopy (TDLS),Tunable diode lase spectroscopy (TDLS),Tunable diode lase spectroscopy (TDLS)
 339,"\Atmosphere\Ozone\Remote-sensing, passive\UV spectroradiometry",UV spectroradiometry,
