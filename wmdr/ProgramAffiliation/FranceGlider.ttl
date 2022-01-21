@@ -5,4 +5,4 @@
 <FranceGlider> a skos:Concept ;
 	rdfs:label "DTINSU international" ;
 	skos:notation "FranceGlider" ;
-	dct:description "Sustained programme of non repeated National and International deployment of the French Gliders Facility"@en	.
+	dct:description "Sustained programme of non-repeated National and International deployment of the French Gliders Facility"@en	.

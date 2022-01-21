@@ -5,4 +5,4 @@
 <USACE> a skos:Concept ;
 	rdfs:label "USACE" ;
 	skos:notation "USACE" ;
-	dct:description "Owned and maintained by U.S. Army Corps of Engineers, Data provided by Scripps Institution of Oceanography, Waverider Buoy"@en	.
+	dct:description "Owned and maintained by U.S. Army Corps of Engineers, data provided by Scripps Institution of Oceanography, WaveRider Buoy"@en	.

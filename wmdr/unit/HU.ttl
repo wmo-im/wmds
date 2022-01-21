@@ -5,4 +5,4 @@
 <HU> a skos:Concept ;
 	rdfs:label "Hazen unit" ;
 	skos:notation "HU" ;
-	dct:description "Unit of color according to the Platinum/Cobalt or Apha/Hazen scale"@en	.
+	dct:description "Unit of color according to the Platinum/Cobalt or Apha-Hazen scale"@en	.

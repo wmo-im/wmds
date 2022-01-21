@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<bioargoUmaine> a skos:Concept ;
+<bioargoUMaine> a skos:Concept ;
 	rdfs:label "BioArgo UMaine" ;
-	skos:notation "bioargoUmaine" ;
-	dct:description "BGC Argo contribution from Umaine"@en	.
+	skos:notation "bioargoUMaine" ;
+	dct:description "BGC Argo contribution from University of Maine"@en	.

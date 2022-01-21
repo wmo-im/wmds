@@ -5,4 +5,4 @@
 <NIWAGlider> a skos:Concept ;
 	rdfs:label "NIWA Glider Program" ;
 	skos:notation "NIWAGlider" ;
-	dct:description "Glider program operated by NIWA is New Zeland."@en	.
+	dct:description "Glider program operated by NIWA is New Zealand."@en	.

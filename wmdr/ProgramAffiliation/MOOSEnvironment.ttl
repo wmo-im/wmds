@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <MOOSEnvironment> a skos:Concept ;
-	rdfs:label "Mediteranean Ocean Observing System for the Environment" ;
+	rdfs:label "Mediterranean Ocean Observing System for the Environment" ;
 	skos:notation "MOOSEnvironment" ;
-	dct:description "Mediteranean Ocean Observing System for the Environment"@en	.
+	dct:description "Mediterranean Ocean Observing System for the Environment"@en	.

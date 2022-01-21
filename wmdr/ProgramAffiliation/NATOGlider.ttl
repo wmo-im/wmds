@@ -5,4 +5,4 @@
 <NATOGlider> a skos:Concept ;
 	rdfs:label "Scientific NATO glider experiment" ;
 	skos:notation "NATOGlider" ;
-	dct:description "Sustained gliders scientific exepriments from NATO"@en	.
+	dct:description "Sustained gliders scientific experiments from NATO"@en	.

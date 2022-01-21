@@ -5,4 +5,4 @@
 <FMIGlider> a skos:Concept ;
 	rdfs:label "FMI Glider Program" ;
 	skos:notation "FMIGlider" ;
-	dct:description "Glider program operated by the Finish Institute of Meteorology. FMI operate gliders in the Baltic sea."@en	.
+	dct:description "Glider program operated by the Finish Institute of Meteorology. FMI operate gliders in the Baltic Sea."@en	.
