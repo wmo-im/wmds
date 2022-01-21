@@ -5,4 +5,4 @@
 <NorEMSOGlider> a skos:Concept ;
 	rdfs:label "NorGlider - NorEMSO" ;
 	skos:notation "NorEMSOGlider" ;
-	dct:description "Norvegian Glider program around EMSO sites"@en	.
+	dct:description "Norwegian Glider program around EMSO sites"@en	.

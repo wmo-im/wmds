@@ -5,4 +5,4 @@
 <SOCIBGlider> a skos:Concept ;
 	rdfs:label "Balearic Islands Observatory" ;
 	skos:notation "SOCIBGlider" ;
-	dct:description "SOCIB operational program is, covering the Eivissa channel (6 transects) and Mallorca channel (1 transect) from APR to MAY 2019, sampling physical and biogeochemical parmeters (CTD, fluorescence and turibity, and oxygen)."@en	.
+	dct:description "SOCIB operational program is, covering the Eivissa channel (6 transects) and Mallorca channel (1 transect) from APR to MAY 2019, sampling physical and biogeochemical parameters (CTD, fluorescence and turbidity, and oxygen)."@en	.

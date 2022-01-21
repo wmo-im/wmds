@@ -5,4 +5,4 @@
 <projetoAzul> a skos:Concept ;
 	rdfs:label "Projeto Azul" ;
 	skos:notation "projetoAzul" ;
-	dct:description "Project Azul is a cooperation between SHELL Brasil, the Laboratory of Computational Methods in Engineering (LAMCE) COPPE / UFRJ's and PROOCEANO, a Brazilian oceanographic technology company."@en	.
+	dct:description "Project Azul is a cooperation between SHELL Brazil, the Laboratory of Computational Methods in Engineering (LAMCE) COPPE / UFRJ's and PROOCEANO, a Brazilian oceanographic technology company."@en	.

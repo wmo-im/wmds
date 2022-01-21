@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <335> a skos:Concept ;
-	rdfs:label "DIAL for ozone observations" ;
+	rdfs:label "Differential absorption lidar (DIAL)" ;
 	skos:notation "335" ;
-	dct:description "Differential absorption Lidar (DIAL) for ozone measurements"@en	.
+	dct:description "Light detection and ranging (lidar) with differential absorption lidar (DIAL) capability, typically used for trace gas measurements, most notably ozone and water vapor. This technique can be extended to molecules which have suitably defined differential absorption characteristics."@en	.
