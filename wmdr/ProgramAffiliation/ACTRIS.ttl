@@ -5,4 +5,4 @@
 <ACTRIS> a skos:Concept ;
 	rdfs:label "ACTRIS" ;
 	skos:notation "ACTRIS" ;
-	dct:description "Aerosol,Clouds and Trace Gases Research Infrastructure, www.actris.eu"@en	.
+	dct:description "Aerosol, Clouds and Trace Gases Research Infrastructure, www.actris.eu"@en	.

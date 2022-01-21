@@ -5,4 +5,4 @@
 <ASAPZA> a skos:Concept ;
 	rdfs:label "ASAP-ZA" ;
 	skos:notation "ASAPZA" ;
-	dct:description "NA"@en	.
+	dct:description "South African ASAP program"@en	.

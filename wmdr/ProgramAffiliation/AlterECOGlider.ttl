@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<AlterECOGlider> a skos:Concept ;
+	rdfs:label "Alter_Eco glider program" ;
+	skos:notation "AlterECOGlider" ;
+	dct:description "An Alternative Framework to Assess Marine Ecosystem Functioning in Shelf Seas"@en	.

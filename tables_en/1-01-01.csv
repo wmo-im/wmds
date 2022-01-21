@@ -257,7 +257,7 @@ notation,path/tags,name,description
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","IUPAC: 1,1-dichloro-1-fluoroethane, PubChem CID: 15586, CAS Number: 1717-00-6, in gas phase"
 535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","IUPAC: 1-chloro-1,1-difluoroethane, PubChem CID: 6388, CAS Number: 75-68-3, in gas phase"
-536,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HCFC-143a)","IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase"
+536,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H3F3 (1,1,1-trifluoroethane, HCF-143a)","C2H3F3 (1,1,1-trifluoroethane, HFC-143a)","IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase"
 537,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)","IUPAC: chloro(difluoro)methane, PubChem CID: 6372, CAS Number: 75-45-6, in gas phase"
 538,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Bromide (Br-),Br- (bromide),"IUPAC: bromide, PubChem CID: 259, CAS Number: 24959-67-9, in total deposition"
 539,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Chloride (Cl-),Cl- (chloride),"IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in total deposition"
@@ -656,3 +656,9 @@ notation,path/tags,name,description
 12240,"radionuclide",Americium [Am-241],"IUPAC: americium-241, PubChem CID: 104726, CAS Number: 14596-10-2"
 12241,"radionuclide",Sum of Plutonium [Pu-239] and [Pu-240],"Sum of Plutonium isotopes: Pu-239 and Pu-240, IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3 and IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3"
 12242,"radionuclide",Gold [Au-198],"IUPAC: gold-198, PubChem CID: 66274, CAS Number: 10043-49-9"
+12243,"greenhouse gas, HCFCs","C2H2Cl2F2 (1,2-dichloro-1,1-difluoroethane, HCFC-132b)","IUPAC: 1,2-dichloro-1,1-difluoroethane, PubChem CID: 15442, CAS Number: 1649-08-7, in gas phase"
+12244,"greenhouse gas, HCFCs","C2H2ClF3 (2-chloro-1,1,1-trifluoroethane, HCFC-133a)","IUPAC: 2-chloro-1,1,1-trifluoroethane, PubChem CID: 6408, CAS Number: 75-88-7, in gas phase"
+12245,"greenhouse gas, HFCs","C3H2F6 (1,1,1,3,3,3-hexafluoropropane, HFC-236fa)","IUPAC: 1,1,1,3,3,3-hexafluoropropane, PubChem CID: 12722, CAS Number: 690-39-1, in gas phase"
+12246,"radionuclide",Tellurium [Te-131],"IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"
+12247,"radionuclide",Neodymium [Nd-137],"IUPAC: neodymium-137"
+12248,"particle phase, optical properties",Attenuated backscatter,"The product of the total volume backscatter coefficient and the atmospheric two-way transmission of the layers between the instrument and the observed volume. The total volume backscatter coefficient is the sum of all backscatter coefficients from the atmosphere (including from molecules and particles) accounting for all polarizations. The atmospheric two-way transmission accounts for the total volume (molecular and particulate and all polarizations) extinction along the path from the instrument to the observed volume and back."

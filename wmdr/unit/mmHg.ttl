@@ -5,4 +5,4 @@
 <mmHg> a skos:Concept ;
 	rdfs:label "millimetre of mercury" ;
 	skos:notation "mmHg" ;
-	dct:description "Unit of pressure, equal to 133.322387415 pascals"@en	.
+	dct:description "Conventional unit of pressure, equal to 133.322387415 Pa"@en	.

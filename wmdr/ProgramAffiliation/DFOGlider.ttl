@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<DFOGlider> a skos:Concept ;
+	rdfs:label "Department of Fisheries and Oceans Canada Glider Program" ;
+	skos:notation "DFOGlider" ;
+	dct:description "The Department of Fisheries and Oceans Canada Glider Program"@en	.

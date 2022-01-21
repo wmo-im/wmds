@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<NavoceanGlider> a skos:Concept ;
+	rdfs:label "US NAVY glider program" ;
+	skos:notation "NavoceanGlider" ;
+	dct:description "Glider program operated by NAVOCANO (Oceanographic component of the US navy)."@en	.

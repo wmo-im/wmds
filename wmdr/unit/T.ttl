@@ -5,4 +5,4 @@
 <T> a skos:Concept ;
 	rdfs:label "tesla" ;
 	skos:notation "T" ;
-	dct:description "SI derived unit of magnetic induction, magnetic flux density, SI base unit equivalent: kg.s-2.A-1"@en	.
+	dct:description "SI derived unit of magnetic induction, magnetic flux density"@en	.

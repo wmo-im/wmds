@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ODYSSEAGlider> a skos:Concept ;
+	rdfs:label "ODYSSEA H2020 Glider program" ;
+	skos:notation "ODYSSEAGlider" ;
+	dct:description "ODYSSEA developed, operate and demonstrate an interoperable and cost-effective platform that fully integrates networks of observing and forecasting systems across the Mediterranean basin, addressing both the open sea and the coastal zone. ODYSSEA program started in 2018 and finished in 2021."@en	.

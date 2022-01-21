@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<RUCOOLColResGlider> a skos:Concept ;
+	rdfs:label "RUCOOL - Collaborative Reasearch" ;
+	skos:notation "RUCOOLColResGlider" ;
+	dct:description "This project integrated a deep rated version of the Ion Sensitive Field Effect Transistor (ISFET)-based pH sensor, the Deep ISFET pH, into a Slocum Webb G2 glider."@en	.

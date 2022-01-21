@@ -5,4 +5,4 @@
 <cm2> a skos:Concept ;
 	rdfs:label "square centimetre" ;
 	skos:notation "cm2" ;
-	dct:description "SI derived unit of area, equal to 1E-4 m2"@en	.
+	dct:description "Unit of area, SI base unit equivalent: 1E-4 m2"@en	.

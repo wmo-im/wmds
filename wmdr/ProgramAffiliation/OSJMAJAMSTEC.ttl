@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<OSJMAJAMSTEC> a skos:Concept ;
+	rdfs:label "OS-JMA/JAMSTEC" ;
+	skos:notation "OSJMAJAMSTEC" ;
+	dct:description "Moorings Operated by JMA-JAMSTEC"@en	.

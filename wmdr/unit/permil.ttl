@@ -5,4 +5,4 @@
 <permil> a skos:Concept ;
 	rdfs:label "parts per thousand" ;
 	skos:notation "permil" ;
-	dct:description "Dimensionless number, expressed as a fraction of 1000"@en	.
+	dct:description "Dimensionless number, expressed as a fraction of 1000"@en	.

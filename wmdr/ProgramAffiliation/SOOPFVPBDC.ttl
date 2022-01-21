@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<SOOPFVPBDC> a skos:Concept ;
+	rdfs:label "SOOP-FVP-BDC" ;
+	skos:notation "SOOPFVPBDC" ;
+	dct:description "SOOP-FVP-Beering Data Collective. Collaborative data collection as a service, using S/T probes on fishing equipment"@en	.

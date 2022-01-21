@@ -5,4 +5,4 @@
 <in> a skos:Concept ;
 	rdfs:label "inch" ;
 	skos:notation "in" ;
-	dct:description "Imperial/US unit of length, equal to 25.4 millimetres"@en	.
+	dct:description "Imperial/US unit of length, equal to 25.4 millimetres"@en	.

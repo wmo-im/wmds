@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <cb.(12h)-1> a skos:Concept ;
-	rdfs:label "centibars per 12 hours" ;
+	rdfs:label "centibar per 12 hours" ;
 	skos:notation "cb.(12h)-1" ;
-	dct:description "Unit of time derivative of pressure, pressure tendency, equal to 1 kPa per 12 hours"@en	.
+	dct:description "Unit of time derivative of pressure, pressure tendency, accepted for use with SI, 1 cb.(12h)-1 = 10/432 Pa.s-1"@en	.
