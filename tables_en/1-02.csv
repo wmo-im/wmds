@@ -172,7 +172,7 @@ m-3,per cubic metre,SI derived unit of specific volume
 um,micrometre,"SI derived unit of length, SI base unit equivalent: 1E-6 m"
 ug.l-1,microgram per litre,"SI derived unit of mass concentration, SI base unit equivalent: 1E-6 kg.m-3"
 cm2,square centimetre,"Unit of area, SI base unit equivalent: 1E-4 m2"
-HU,Hazen unit,Unit of color according to the Platinum/Cobalt or Apha/Hazen scale
+HU,Hazen unit,Unit of color according to the Platinum/Cobalt or Apha-Hazen scale
 uS.cm-1,microsiemens per centimetre,"SI derived unit of spatial gradient of electrical conductance, SI base unit equivalent: 1E-4 m-3.kg-1.s3.A2"
 g.cm-3,gram per cubic centimetre,"SI derived unit of density, equivalent to kilograms per litre, SI base unit equivalent: 1000 kg.m-3"
 mV,millivolt,"SI derived unit of voltage, electrical potential difference, electromotive force, SI base unit equivalent: 0.001 m2.kg.s-3.A-1"
