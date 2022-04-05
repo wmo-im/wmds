@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<s> a skos:Concept ;
-	rdfs:label "second" ;
-	skos:notation "s" ;
-	dct:description "SI base unit of time"@en	.
+<S> a skos:Concept ;
+	rdfs:label "siemens" ;
+	skos:notation "S" ;
+	dct:description "SI derived unit of electrical conductance"@en	.
