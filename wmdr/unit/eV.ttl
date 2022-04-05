@@ -5,4 +5,4 @@
 <eV> a skos:Concept ;
 	rdfs:label "electron volt" ;
 	skos:notation "eV" ;
-	dct:description "Unit of energy, accepted for use with SI: 1eV = 1.60218 x 1E-19 J, approximately"@en	.
+	dct:description "Unit of energy, accepted for use with SI; SI base unit equivalent: 1.602176634E19 kg m2 s-2"@en	.

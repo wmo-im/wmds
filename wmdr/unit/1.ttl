@@ -5,4 +5,4 @@
 <1> a skos:Concept ;
 	rdfs:label "dimensionless" ;
 	skos:notation "1" ;
-	dct:description "Dimensionless"@en	.
+	dct:description "Dimensionless; SI base unit equivalent: 1"@en	.

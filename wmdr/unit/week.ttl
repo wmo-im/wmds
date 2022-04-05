@@ -5,4 +5,4 @@
 <week> a skos:Concept ;
 	rdfs:label "week" ;
 	skos:notation "week" ;
-	dct:description "Conventional unit of time, equivalent to 604800 s"@en	.
+	dct:description "Conventional unit of time, equivalent to 604 800 s, as recommeded by SI"@en	.

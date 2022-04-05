@@ -5,4 +5,4 @@
 <AU> a skos:Concept ;
 	rdfs:label "astronomical unit" ;
 	skos:notation "AU" ;
-	dct:description "Unit of length,  accepted for use with SI: 1 AU = 149597870700 m, roughly the distance from Earth to the Sun"@en	.
+	dct:description "Unit of length, accepted for use with SI: 1 AU = 149597870700 m, roughly the distance from Earth to the Sun"@en	.

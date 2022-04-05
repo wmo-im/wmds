@@ -5,4 +5,4 @@
 <DU> a skos:Concept ;
 	rdfs:label "Dobson Unit" ;
 	skos:notation "DU" ;
-	dct:description "Unit of column abundance of ozone in the atmosphere. One Dobson unit is equivalent of 2.69E16 molecules of ozone per square centimeter. Alternatively, 1 Dobson unit corresponds to a layer of ozone 1E-5 m thick, if the ozone were held at standard temperature and pressure (273 K, 1 atm pressure). [https://glossary.ametsoc.org/wiki/Dobson_unit]"@en	.
+	dct:description "Unit of column abundance of molecules in the atmosphere. 1 DU is defined to be 0.01 mm thickness at STP (standard temperature and pressure, 0.00 degC and 1013.25 hPa). One Dobson Unit is equivalent of 2.6867 x 1E20 molecules per square metre."@en	.

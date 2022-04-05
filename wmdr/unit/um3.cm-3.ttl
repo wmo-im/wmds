@@ -5,4 +5,4 @@
 <um3.cm-3> a skos:Concept ;
 	rdfs:label "cubic micrometre per cubic centimetre" ;
 	skos:notation "um3.cm-3" ;
-	dct:description "SI derived unit for volumetric mixing ratio, equivalent to pptv, SI base unit equivalent: 1E-12"@en	.
+	dct:description "SI derived unit of volume fraction, equivalent to pptv (parts per trillion by volume); SI base unit equivalent: 1E-12"@en	.

@@ -5,4 +5,4 @@
 <kg.m-1> a skos:Concept ;
 	rdfs:label "kilogram per metre" ;
 	skos:notation "kg.m-1" ;
-	dct:description "SI derived unit of linear mass density or quantity with dimension of M L-1"@en	.
+	dct:description "SI derived unit of linear mass density or quantity with dimension of M.L-1"@en	.

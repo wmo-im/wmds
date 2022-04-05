@@ -5,4 +5,4 @@
 <kg.kg-1.s-1> a skos:Concept ;
 	rdfs:label "kilogram per kilogram per second" ;
 	skos:notation "kg.kg-1.s-1" ;
-	dct:description "SI derived unit of time derivative of mass fraction, SI base unit equivalent: s-1"@en	.
+	dct:description "SI derived unit of time derivative of mass fraction; SI base unit equivalent: s-1"@en	.

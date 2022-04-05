@@ -5,4 +5,4 @@
 <W.m-2.sr-1> a skos:Concept ;
 	rdfs:label "watt per square metre per steradian" ;
 	skos:notation "W.m-2.sr-1" ;
-	dct:description "SI derived unit of radiance"@en	.
+	dct:description "SI derived unit of radiance; SI base unit equivalent: kg.s-3"@en	.
