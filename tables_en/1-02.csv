@@ -42,8 +42,8 @@ nmi,nautical mile,"Conventional unit of length; SI base unit equivalent: 1852 m"
 kt,knot,"Conventional unit of speed, equal to 1 nmi/h; SI base unit equivalent: (1852/3600)m.s-1"
 dB,decibel,"Unit of sound intensity, accepted for use with SI"
 ha,hectare,"Unit of area, accepted for use with SI: 1 ha = 1E4 m2"
-week,week,"Conventional unit of time, equivalent to 604 800 s, as recommeded by SI"
-a,year,"Conventional unit of time, equivalent to 31 536 000 s, as recommended by SI"
+week,week,"Conventional unit of time, equivalent to 604800 s, as recommeded by SI"
+a,year,"Conventional unit of time, equivalent to 31536000 s, as recommended by SI"
 percent,per cent,"Dimensionless number, expressed as a fraction of 100; SI base unit equivalent: 0.01"
 permil,per mille,"Dimensionless number, expressed as a fraction of 1000; SI base unit equivalent: 0.001"
 okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds; SI base unit equivalent: 0.125"
@@ -51,7 +51,7 @@ deg.s-1,degree (angle) per second,"Unit of angular speed, accepted for use with 
 degC,degree Celsius (°C),"SI derived unit of temperature, as defined by ITS-90; SI base unit equivalent: K, with t/degC = T/K + 273.15"
 degC.m-1,degree Celsius per metre,SI derived unit of spatial gradient of temperature per metre; SI base unit equivalent: K.m-1
 degC.hm-1,degree Celsius per 100 metres,"SI derived unit of spatial gradient of temperature per 100 metres; SI base unit equivalent: 0.01 K.m-1"
-DU,Dobson Unit,"Unit of column abundance of molecules in the atmosphere. 1 DU is defined to be 0.01 mm thickness at STP (standard temperature and pressure, 0.00 degC and 1013.25 hPa). One Dobson Unit is equivalent of 2.6867 x 1E20 molecules per square metre."
+DU,Dobson Unit,"Unit of column abundance of molecules in the atmosphere. 1 DU is defined to be 0.01 mm thickness at STP (standard temperature and pressure, 0.00 degC and 1013.25 hPa) and is equivalent of 2.6867 x 1E20 molecules per square metre."
 mon,month,Conventional unit of time duration of between 28-31 days whereby 12 months amount to one year
 s-2,per second squared,SI derived unit of second order time derivative
 kt.km-1,knot per 1000 metres,"Conventional unit of spatial gradient of speed; SI base unit equivalent: 1852/3600000 s-1"
@@ -147,7 +147,7 @@ ng.m-3,nanogram per cubic metre,"SI derived unit of mass concentration; SI base 
 1,dimensionless,"Dimensionless; SI base unit equivalent: 1"
 rad.s-1,radian per second,"SI derived unit of angular velocity; SI base unit equivalent: s-1"
 mGal,milligal,"CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m.s-2)"
-E,Eötvös,"Unit of acceleration divided d by distance, 1 E = 1 mGal/10 km; SI base unit equivalent: 0.01 s-2"
+E,Eötvös,"Unit of acceleration divided by distance, 1 E = 1 mGal/10 km; SI base unit equivalent: 0.01 s-2"
 t.ha-1,(metric) ton per hectare,"Unit of area density, equal to 0.1 kg.m-2"
 psu,practical salinity unit,"Conventional unit, equivalent to per mille; SI based unit equivalent: 0.001"
 nm,nanometre,"SI prefixed unit of length; SI base unit equivalent: 1E-9 m"
@@ -166,7 +166,7 @@ ug.kg-1,microgram per kilogram,"SI derived unit of mass fraction, equivalent to 
 mg.kg-1,milligram per kilogram,"SI derived unit of mass fraction, equivalent to ppmm (parts per million by mass) or ppm (parts per million); SI base unit equivalent: 1E-6"
 um3.cm-3,cubic micrometre per cubic centimetre,"SI derived unit of volume fraction, equivalent to pptv (parts per trillion by volume); SI base unit equivalent: 1E-12"
 mm3.m-3,cubic millimetre per cubic metre,"SI derived unit of volumetric mixing ratio, equivalent to ppbv (parts per billion by volume); SI base unit equivalent: 1E-9"
-cm3.m-3,cubic centimetre per cubic metre,"SI derived unit of volumetric mixing ratio, equivalent to ppmv (parts per million volume); SI base unit equivalent: 1E-6"
+cm3.m-3,cubic centimetre per cubic metre,"SI derived unit of volumetric mixing ratio, equivalent to ppmv (parts per million by volume); SI base unit equivalent: 1E-6"
 cm-3,per cubic centimetre,"SI derived unit of specific volume; SI base unit equivalent: 1E-6 m-3"
 m-3,per cubic metre,SI derived unit of specific volume
 um,micrometre,"SI prefixed unit of length; SI base unit equivalent: 1E-6 m"
