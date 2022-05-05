@@ -5,4 +5,4 @@
 <Bq.m-3> a skos:Concept ;
 	rdfs:label "becquerel per cubic metre" ;
 	skos:notation "Bq.m-3" ;
-	dct:description "SI derived unit of radioactivity concentration; SI base unit equivalent: s-1.m-3"@en	.
+	dct:description "SI derived unit of radioactivity concentration, SI base unit equivalent: s-1.m-3"@en	.

@@ -5,4 +5,4 @@
 <mbar> a skos:Concept ;
 	rdfs:label "millibar" ;
 	skos:notation "mbar" ;
-	dct:description "Conventional unit of pressure, equal to 1 hPa; SI base unit equivalent: 100 kg.m-1.s-2"@en	.
+	dct:description "Unit of pressure, equal to one thousandth of a bar (0.001 bar), accepted for use with the SI"@en	.

@@ -5,4 +5,4 @@
 <u> a skos:Concept ;
 	rdfs:label "unified atomic mass unit" ;
 	skos:notation "u" ;
-	dct:description "Conventional unit of mass; 1 u = 1 Da (Dalton) = 1.66053906660(50)E-27 kg"@en	.
+	dct:description "Physical constant u or Da (Dalton), unit of mass"@en	.

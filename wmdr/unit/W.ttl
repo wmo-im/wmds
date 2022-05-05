@@ -5,4 +5,4 @@
 <W> a skos:Concept ;
 	rdfs:label "watt" ;
 	skos:notation "W" ;
-	dct:description "SI derived unit of power, radiant flux; SI base unit equivalent: kg.m2.s-3"@en	.
+	dct:description "SI derived unit of power, radiant flux"@en	.

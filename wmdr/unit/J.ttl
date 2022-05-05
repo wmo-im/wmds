@@ -5,4 +5,4 @@
 <J> a skos:Concept ;
 	rdfs:label "joule" ;
 	skos:notation "J" ;
-	dct:description "SI derived unit of energy, work, heat; SI base unit equivalent: kg.m2.s-2"@en	.
+	dct:description "SI derived unit of energy, work, heat, SI base unit equivalent: kg.m2.s-2"@en	.

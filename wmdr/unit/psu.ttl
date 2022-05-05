@@ -5,4 +5,4 @@
 <psu> a skos:Concept ;
 	rdfs:label "practical salinity unit" ;
 	skos:notation "psu" ;
-	dct:description "Conventional unit, equivalent to per mille; SI based unit equivalent: 0.001"@en	.
+	dct:description "Close to 1, determined by CTD"@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <permil> a skos:Concept ;
-	rdfs:label "per mille" ;
+	rdfs:label "parts per thousand" ;
 	skos:notation "permil" ;
-	dct:description "Dimensionless number, expressed as a fraction of 1000; SI base unit equivalent: 0.001"@en	.
+	dct:description "Dimensionless number, expressed as a fraction of 1000"@en	.

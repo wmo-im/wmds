@@ -5,4 +5,4 @@
 <Pa> a skos:Concept ;
 	rdfs:label "pascal" ;
 	skos:notation "Pa" ;
-	dct:description "SI derived unit of pressure/stress; SI base unit equivalent: kg.m-1.s-2"@en	.
+	dct:description "SI derived unit of pressure, stress"@en	.

@@ -5,4 +5,4 @@
 <g0> a skos:Concept ;
 	rdfs:label "standard acceleration due to gravity" ;
 	skos:notation "g0" ;
-	dct:description "Conventional unit of gravity acceleration; g0 = 9.80665 m.s-2"@en	.
+	dct:description "g0 = 9.80665 m.s-2, approximately"@en	.

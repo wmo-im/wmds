@@ -5,4 +5,4 @@
 <W.m-1.sr-1> a skos:Concept ;
 	rdfs:label "watt per metre per steradian" ;
 	skos:notation "W.m-1.sr-1" ;
-	dct:description "SI derived unit of spectral intensity; SI base unit equivalent: kg.m.s-3"@en	.
+	dct:description "SI derived unit of spectral intensity"@en	.

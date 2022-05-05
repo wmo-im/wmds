@@ -5,4 +5,4 @@
 <C> a skos:Concept ;
 	rdfs:label "coulomb" ;
 	skos:notation "C" ;
-	dct:description "SI derived unit of electric charge; SI base unit equivalent: s.A"@en	.
+	dct:description "SI derived unit of electric charge, SI base unit equivalent: s.A"@en	.

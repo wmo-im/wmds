@@ -5,4 +5,4 @@
 <S> a skos:Concept ;
 	rdfs:label "siemens" ;
 	skos:notation "S" ;
-	dct:description "SI derived unit of electrical conductance; SI base unit equivalent: kg-1.m-2.s3.A2"@en	.
+	dct:description "SI derived unit of electrical conductance"@en	.

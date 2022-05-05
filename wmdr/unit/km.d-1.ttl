@@ -5,4 +5,4 @@
 <km.d-1> a skos:Concept ;
 	rdfs:label "kilometre per day" ;
 	skos:notation "km.d-1" ;
-	dct:description "SI derived unit of speed; SI base unit equivalent: 1000/86400 m.s-1"@en	.
+	dct:description "SI derived unit of speed, SI base unit equivalent: 1000/86400 m.s-1"@en	.

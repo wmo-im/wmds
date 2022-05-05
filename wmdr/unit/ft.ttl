@@ -5,4 +5,4 @@
 <ft> a skos:Concept ;
 	rdfs:label "foot" ;
 	skos:notation "ft" ;
-	dct:description "Imperial/US unit of length, equal to 1200/3937 metre or 0.3048 metre (approximately)"@en	.
+	dct:description "Imperial/US unit of length, equal to 0.3048 metres approximately"@en	.

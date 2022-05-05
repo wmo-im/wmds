@@ -5,4 +5,4 @@
 <pH_unit> a skos:Concept ;
 	rdfs:label "pH unit" ;
 	skos:notation "pH_unit" ;
-	dct:description "Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre; SI base unit equivalent: 0.001 m-3"@en	.
+	dct:description "Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre"@en	.

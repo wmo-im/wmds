@@ -5,4 +5,4 @@
 <degC> a skos:Concept ;
 	rdfs:label "degree Celsius (°C)" ;
 	skos:notation "degC" ;
-	dct:description "SI derived unit of temperature, as defined by ITS-90; SI base unit equivalent: K, with t/degC = T/K + 273.15"@en	.
+	dct:description "SI derived unit of temperature, SI base unit equivalent: K"@en	.
