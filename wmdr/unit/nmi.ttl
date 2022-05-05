@@ -5,4 +5,4 @@
 <nmi> a skos:Concept ;
 	rdfs:label "nautical mile" ;
 	skos:notation "nmi" ;
-	dct:description "Unit of Length, accepted for use with SI: 1 nmi = 1852 m"@en	.
+	dct:description "Conventional unit of length; SI base unit equivalent: 1852 m"@en	.

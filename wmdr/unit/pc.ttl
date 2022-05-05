@@ -5,4 +5,4 @@
 <pc> a skos:Concept ;
 	rdfs:label "parsec" ;
 	skos:notation "pc" ;
-	dct:description "Astronomical unit of length, distance, 1 pc = 3.0857E16 m, approximately"@en	.
+	dct:description "Astronomical unit of length, 1 pc = 64800/Π AU"@en	.

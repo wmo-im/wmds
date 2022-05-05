@@ -5,4 +5,4 @@
 <hPa> a skos:Concept ;
 	rdfs:label "hectopascal" ;
 	skos:notation "hPa" ;
-	dct:description "SI derived unit of pressure, stress, SI base unit equivalent: 100 kg.m-1.s-2"@en	.
+	dct:description "SI prefixed derived unit of pressure/stress; SI base unit equivalent: 100 kg.m-1.s-2"@en	.

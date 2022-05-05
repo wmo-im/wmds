@@ -5,4 +5,4 @@
 <cb.s-1> a skos:Concept ;
 	rdfs:label "centibar per second" ;
 	skos:notation "cb.s-1" ;
-	dct:description "Unit of time derivative of pressure, pressure tendency, accepted for use with SI, 1 cb.s-1 = 1000 Pa.s-1"@en	.
+	dct:description "Unit of time derivative of pressure, pressure tendency; SI base unit: 1000 kg.m-1.s-3"@en	.

@@ -5,4 +5,4 @@
 <kPa> a skos:Concept ;
 	rdfs:label "kilopascal" ;
 	skos:notation "kPa" ;
-	dct:description "SI derived unit of pressure, stress, equal to 1000 Pa, SI base unit equivalent: 1000 kg.m-1.s-2"@en	.
+	dct:description "SI prefixed derived unit of pressure/stress, equal to 1000 Pa; SI base unit equivalent: 1000 kg.m-1.s-2"@en	.

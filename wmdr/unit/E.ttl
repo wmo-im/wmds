@@ -5,4 +5,4 @@
 <E> a skos:Concept ;
 	rdfs:label "Eötvös" ;
 	skos:notation "E" ;
-	dct:description "Unit of acceleration divided by distance, 1 E = 1 mGal / 10 km"@en	.
+	dct:description "Unit of acceleration divided by distance, 1 E = 1 mGal/10 km; SI base unit equivalent: 1E-10 s-2"@en	.

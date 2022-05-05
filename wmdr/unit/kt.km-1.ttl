@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <kt.km-1> a skos:Concept ;
-	rdfs:label "knot per 1000 metre" ;
+	rdfs:label "knot per 1000 metres" ;
 	skos:notation "kt.km-1" ;
-	dct:description "Unit of spatial gradient of speed, accepted for use with SI, 1 kt.km-1 = 1852/3600000 s-1"@en	.
+	dct:description "Conventional unit of spatial gradient of speed; SI base unit equivalent: 1852/3600000 s-1"@en	.

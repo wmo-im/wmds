@@ -5,4 +5,4 @@
 <t> a skos:Concept ;
 	rdfs:label "tonne" ;
 	skos:notation "t" ;
-	dct:description "Unit of mass,  accepted for use with SI: 1 t = 1000 kg"@en	.
+	dct:description "Unit of mass, accepted for use with SI; SI base unit equivalent: 1000 kg"@en	.

@@ -5,4 +5,4 @@
 <Bq> a skos:Concept ;
 	rdfs:label "becquerel" ;
 	skos:notation "Bq" ;
-	dct:description "SI derived unit of radioactivity, SI base unit equivalent: s-1"@en	.
+	dct:description "SI derived unit of radioactivity; SI base unit equivalent: s-1"@en	.
