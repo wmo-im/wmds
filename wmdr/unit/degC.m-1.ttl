@@ -5,4 +5,4 @@
 <degC.m-1> a skos:Concept ;
 	rdfs:label "degree Celsius per metre" ;
 	skos:notation "degC.m-1" ;
-	dct:description "SI derived unit of spatial gradient of temperature per metre. SI base unit equivalent: K.m-1"@en	.
+	dct:description "SI derived unit of spatial gradient of temperature per metre; SI base unit equivalent: K.m-1"@en	.

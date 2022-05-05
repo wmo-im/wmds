@@ -5,4 +5,4 @@
 <umol.l-1> a skos:Concept ;
 	rdfs:label "micromole per litre" ;
 	skos:notation "umol.l-1" ;
-	dct:description "SI derived unit of molar volumetric concentration, SI base unit equivalent: 0.001 mol.m-3"@en	.
+	dct:description "SI derived unit of amount concentration; SI base unit equivalent: 0.001 mol.m-3"@en	.

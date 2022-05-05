@@ -5,4 +5,4 @@
 <Wb> a skos:Concept ;
 	rdfs:label "Weber" ;
 	skos:notation "Wb" ;
-	dct:description "SI derived unit of magnetic flux"@en	.
+	dct:description "SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-1"@en	.

@@ -5,4 +5,4 @@
 <mGal> a skos:Concept ;
 	rdfs:label "milligal" ;
 	skos:notation "mGal" ;
-	dct:description "CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m s-2)"@en	.
+	dct:description "CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m.s-2)"@en	.

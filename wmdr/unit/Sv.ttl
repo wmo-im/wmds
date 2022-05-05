@@ -5,4 +5,4 @@
 <Sv> a skos:Concept ;
 	rdfs:label "sievert" ;
 	skos:notation "Sv" ;
-	dct:description "SI derived unit of equivalent dose (of ionizing radiation)"@en	.
+	dct:description "SI derived unit of equivalent dose (of ionizing radiation); SI base unit equivalent: m2.s-2"@en	.

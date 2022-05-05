@@ -5,4 +5,4 @@
 <Hz> a skos:Concept ;
 	rdfs:label "hertz" ;
 	skos:notation "Hz" ;
-	dct:description "SI derived unit of frequency, SI base unit equivalent: s-1"@en	.
+	dct:description "SI derived unit of frequency; SI base unit equivalent: s-1"@en	.

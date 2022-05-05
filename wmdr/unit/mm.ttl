@@ -5,4 +5,4 @@
 <mm> a skos:Concept ;
 	rdfs:label "millimetre" ;
 	skos:notation "mm" ;
-	dct:description "SI derived unit of length, SI base unit equivalent: 0.001 m"@en	.
+	dct:description "SI prefixed unit of length; SI base unit equivalent: 0.001 m"@en	.
