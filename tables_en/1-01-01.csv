@@ -257,7 +257,7 @@ notation,path/tags,name,description
 533,\Atmosphere\Clouds\Position\Height of inversion,Height of inversion,
 534,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","IUPAC: 1,1-dichloro-1-fluoroethane, PubChem CID: 15586, CAS Number: 1717-00-6, in gas phase"
 535,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","IUPAC: 1-chloro-1,1-difluoroethane, PubChem CID: 6388, CAS Number: 75-68-3, in gas phase"
-536,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H3F3 (1,1,1-trifluoroethane, HCF-143a)","C2H3F3 (1,1,1-trifluoroethane, HFC-143a)","IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase"
+536,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H3F3 (1,1,1-trifluoroethane, HFC-143a)","C2H3F3 (1,1,1-trifluoroethane, HFC-143a)","IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase"
 537,"\Atmosphere\Gas\Greenhouse Gas\HCFCs\CHClF2 (chlorodifluoromethane, HCFC-22)","CHClF2 (chlorodifluoromethane, HCFC-22)","IUPAC: chloro(difluoro)methane, PubChem CID: 6372, CAS Number: 75-45-6, in gas phase"
 538,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Bromide (Br-),Br- (bromide),"IUPAC: bromide, PubChem CID: 259, CAS Number: 24959-67-9, in total deposition"
 539,\Atmosphere\Total Atmospheric Deposition\Inorganic anions\Chloride (Cl-),Cl- (chloride),"IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in total deposition"
