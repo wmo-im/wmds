@@ -147,7 +147,7 @@ ng.m-3,nanogram per cubic metre,"SI derived unit of mass concentration; SI base 
 1,dimensionless,"Dimensionless; SI base unit equivalent: 1"
 rad.s-1,radian per second,"SI derived unit of angular velocity; SI base unit equivalent: s-1"
 mGal,milligal,"CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m.s-2)"
-E,Eötvös,"Unit of acceleration divided by distance,1 E = 1 Gal/cm; SI base unit equivalent: 1E-9 s-2"
+E,Eötvös,"Unit of acceleration divided by distance,1 E = 1E-9 Gal/cm; SI base unit equivalent: 1E-9 s-2"
 t.ha-1,(metric) ton per hectare,"Unit of area density, equal to 0.1 kg.m-2"
 psu,practical salinity unit,"Conventional unit, equivalent to per mille; SI based unit equivalent: 0.001"
 nm,nanometre,"SI prefixed unit of length; SI base unit equivalent: 1E-9 m"
