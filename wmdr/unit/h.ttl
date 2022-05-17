@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<h> a skos:Concept ;
-	rdfs:label "hour" ;
-	skos:notation "h" ;
-	dct:description "Unit of time, accepted for use with SI: 1 h = 3600 s"@en	.
+<H> a skos:Concept ;
+	rdfs:label "henry" ;
+	skos:notation "H" ;
+	dct:description "SI derived unit of electrical inductance; SI base unit equivalent: kg.m2.s-2.A-2"@en	.
