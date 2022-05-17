@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<RUCOOLGlider> a skos:Concept ;
+	rdfs:label "Rutgers Center for Ocean Observing Leadership Glider Program" ;
+	skos:notation "RUCOOLGlider" ;
+	dct:description "The Rutgers University Center for Ocean Observing Leadership (RUCOOL) Glider program."@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<KUGON> a skos:Concept ;
+	rdfs:label "Korea Underwater Glider Observing Network" ;
+	skos:notation "KUGON" ;
+	dct:description "Korea Underwater Glider Observing Network"@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <NTU> a skos:Concept ;
-	rdfs:label "nephelometric turbidity units" ;
+	rdfs:label "nephelometric turbidity unit" ;
 	skos:notation "NTU" ;
-	dct:description "Units of turbidity from a calibrated nephelometer"@en	.
+	dct:description "Units of turbidity from a calibrated nephelometer; SI base unit equivalent: 10-3 kg.m-3"@en	.

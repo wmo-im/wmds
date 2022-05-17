@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <cb.s-1> a skos:Concept ;
-	rdfs:label "centibars per second" ;
+	rdfs:label "centibar per second" ;
 	skos:notation "cb.s-1" ;
-	dct:description "Unit of time derivative of pressure, pressure tendency, equal to 1 kPa per second"@en	.
+	dct:description "Conventional unit of time derivative of pressure, pressure tendency; SI base unit: 1000 kg.m-1.s-3"@en	.

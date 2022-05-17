@@ -5,4 +5,4 @@
 <dm> a skos:Concept ;
 	rdfs:label "decimetre" ;
 	skos:notation "dm" ;
-	dct:description "SI derived Unit of length, equal to one tenth of a metre (1E-1 m)"@en	.
+	dct:description "SI prefixed unit of length; SI base unit equivalent: 0.1 m"@en	.

@@ -5,4 +5,4 @@
 <Gy> a skos:Concept ;
 	rdfs:label "gray" ;
 	skos:notation "Gy" ;
-	dct:description "SI derived unit of absorbed dose (of ionizing radiation), SI base unit equivalent: m2.s-2"@en	.
+	dct:description "SI derived unit of absorbed dose (of ionizing radiation); SI base unit equivalent: m2.s-2"@en	.

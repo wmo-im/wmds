@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<projetoAzul> a skos:Concept ;
+	rdfs:label "Projeto Azul" ;
+	skos:notation "projetoAzul" ;
+	dct:description "Project Azul is a cooperation between SHELL Brazil, the Laboratory of Computational Methods in Engineering (LAMCE) COPPE / UFRJ's and PROOCEANO, a Brazilian oceanographic technology company."@en	.

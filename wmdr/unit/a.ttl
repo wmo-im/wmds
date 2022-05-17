@@ -5,4 +5,4 @@
 <a> a skos:Concept ;
 	rdfs:label "year" ;
 	skos:notation "a" ;
-	dct:description "Unit of time, equivalent to 31536000 s"@en	.
+	dct:description "Conventional unit of time, equivalent to 31536000 s"@en	.

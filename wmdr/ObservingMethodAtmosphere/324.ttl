@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<324> a skos:Concept ;
-	rdfs:label "Lidar for visibility and optical range" ;
-	skos:notation "324" ;
-	dct:description "Light detection and ranging (Lidar) for observations of visibility and optical range"@en	.

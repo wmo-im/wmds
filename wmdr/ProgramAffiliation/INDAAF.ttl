@@ -5,4 +5,4 @@
 <INDAAF> a skos:Concept ;
 	rdfs:label "INDAAF" ;
 	skos:notation "INDAAF" ;
-	dct:description "'International Network to study Deposition and Atmospheric composition in Africa"@en	.
+	dct:description "International Network to study Deposition and Atmospheric composition in Africa, https://indaaf.obs-mip.fr/"@en	.

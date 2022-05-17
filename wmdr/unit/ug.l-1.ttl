@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <ug.l-1> a skos:Concept ;
-	rdfs:label "micrograms per litre" ;
+	rdfs:label "microgram per litre" ;
 	skos:notation "ug.l-1" ;
-	dct:description "SI derived unit of mass concentration, equivalent to milligrams per cubic metre, equal to 1E-3 g.m-3"@en	.
+	dct:description "SI derived unit of mass concentration; SI base unit equivalent: 1E-6 kg.m-3"@en	.

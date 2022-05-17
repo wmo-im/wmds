@@ -5,4 +5,4 @@
 <okta> a skos:Concept ;
 	rdfs:label "eights of sky covered by cloud" ;
 	skos:notation "okta" ;
-	dct:description "Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds"@en	.
+	dct:description "Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds; SI base unit equivalent: 0.125"@en	.

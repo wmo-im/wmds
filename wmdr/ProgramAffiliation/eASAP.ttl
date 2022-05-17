@@ -5,4 +5,4 @@
 <eASAP> a skos:Concept ;
 	rdfs:label "E-ASAP" ;
 	skos:notation "eASAP" ;
-	dct:description "European - Automated Shipboard Aerological Program"@en	.
+	dct:description "Eumetnet - Automated Shipboard Aerological Program"@en	.

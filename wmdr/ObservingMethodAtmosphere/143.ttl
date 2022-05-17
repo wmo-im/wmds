@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <143> a skos:Concept ;
-	rdfs:label "Lidar for humidity" ;
+	rdfs:label "Raman lidar" ;
 	skos:notation "143" ;
-	dct:description "Light detection and ranging (Lidar) for humidity measurements"@en	.
+	dct:description "Light detection and ranging (lidar) with Raman capability, typically used for measurements of aerosol particle phase and cloud measurements as well as water vapor and temperature."@en	.

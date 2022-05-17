@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <142> a skos:Concept ;
-	rdfs:label "Lidar for wind" ;
+	rdfs:label "Doppler wind lidar" ;
 	skos:notation "142" ;
-	dct:description "Light detection and ranging (Lidar) profiler for wind observations"@en	.
+	dct:description "Light detection and ranging (lidar) with Doppler capability (direct and coherent mode), typically used for measurements of winds."@en	.

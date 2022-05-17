@@ -5,4 +5,4 @@
 <cm> a skos:Concept ;
 	rdfs:label "centimetre" ;
 	skos:notation "cm" ;
-	dct:description "Unit of length, equal to one hundredth of a metre (1E-2 m)"@en	.
+	dct:description "SI prefixed unit of length; SI base unit equivalent: 0.01 m"@en	.

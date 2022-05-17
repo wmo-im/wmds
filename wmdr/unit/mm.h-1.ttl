@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <mm.h-1> a skos:Concept ;
-	rdfs:label "millimetres per hour" ;
+	rdfs:label "millimetre per hour" ;
 	skos:notation "mm.h-1" ;
-	dct:description "Unit of speed, equal to (0.001/3600 ) metres per second"@en	.
+	dct:description "SI derived unit of speed; SI base unit equivalent: 1/3.6E6 m.s-1"@en	.

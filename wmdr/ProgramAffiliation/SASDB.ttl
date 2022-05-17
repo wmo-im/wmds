@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<SASDB> a skos:Concept ;
+	rdfs:label "SAS-DB" ;
+	skos:notation "SASDB" ;
+	dct:description "Voluntary buoys deployed by Sailing for Science"@en	.

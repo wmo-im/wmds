@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<UNHMB> a skos:Concept ;
+	rdfs:label "UNH-MB" ;
+	skos:notation "UNHMB" ;
+	dct:description "Owned and maintained by the University of New Hampshire, Moored Buoy"@en	.

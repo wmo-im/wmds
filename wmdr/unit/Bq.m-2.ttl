@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <Bq.m-2> a skos:Concept ;
-	rdfs:label "becquerels per square metre" ;
+	rdfs:label "becquerel per square metre" ;
 	skos:notation "Bq.m-2" ;
-	dct:description "SI derived unit of radioactivity area concentration"@en	.
+	dct:description "SI derived unit of radioactivity area concentration; SI base unit equivalent: s-1.m-2"@en	.

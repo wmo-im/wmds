@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<GOMOGlider> a skos:Concept ;
+	rdfs:label "Global Ocean Monitoring and Observing Program - Glider" ;
+	skos:notation "GOMOGlider" ;
+	dct:description "GOMO provide and support high quality global ocean observations and research to improve our scientific understanding and inform society about the ocean's role in environmental change. GOMO glider is the glider component of GOMO."@en	.

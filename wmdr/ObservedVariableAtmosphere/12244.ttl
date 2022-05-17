@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12244> a skos:Concept ;
+	rdfs:label "C2H2ClF3 (2-chloro-1,1,1-trifluoroethane, HCFC-133a)" ;
+	skos:notation "12244" ;
+	dct:description "IUPAC: 2-chloro-1,1,1-trifluoroethane, PubChem CID: 6408, CAS Number: 75-88-7, in gas phase"@en	.

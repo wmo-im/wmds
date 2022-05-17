@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <W.m-2.sr-1.cm> a skos:Concept ;
-	rdfs:label "watts per square metre per steradian per inverse centimetre" ;
+	rdfs:label "watt per square metre per steradian per inverse centimetre" ;
 	skos:notation "W.m-2.sr-1.cm" ;
-	dct:description "SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1"@en	.
+	dct:description "SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1; SI base unit equivalent: 0.01 m.kg.s-3"@en	.

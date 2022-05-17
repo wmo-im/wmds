@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<342> a skos:Concept ;
+	rdfs:label "High spectral resolution (HSR) lidar" ;
+	skos:notation "342" ;
+	dct:description "Light detection and ranging (lidar) with high spectral resolution capability, typically used for measurements of cloud and aerosol particle phase properties, ocean properties, and mixed layer height."@en	.

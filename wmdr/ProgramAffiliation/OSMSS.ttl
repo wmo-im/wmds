@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<OSMSS> a skos:Concept ;
+	rdfs:label "OS-MSS" ;
+	skos:notation "OSMSS" ;
+	dct:description "Shetland-branch monitoring in the Faroe-Shetland Channel, contributing to the Greenland-Scotland Ridge Transport Mooring Array within AtlantOS and the THOR, NACLIM and Blue-Action projects."@en	.

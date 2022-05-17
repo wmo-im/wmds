@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<FMIGlider> a skos:Concept ;
+	rdfs:label "FMI Glider Program" ;
+	skos:notation "FMIGlider" ;
+	dct:description "Glider program operated by the Finish Institute of Meteorology. FMI operate gliders in the Baltic Sea."@en	.

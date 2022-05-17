@@ -5,4 +5,4 @@
 <nbar> a skos:Concept ;
 	rdfs:label "nanobar" ;
 	skos:notation "nbar" ;
-	dct:description "Unit of pressure, equal to 1E-4 Pa"@en	.
+	dct:description "Conventional unit of pressure; SI base unit equivalent: 1E-4 kg.m-1.s-2"@en	.
