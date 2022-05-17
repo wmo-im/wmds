@@ -53,8 +53,8 @@ notation,path/tags,name,description
 258,\Atmosphere\Lightning\Lightning discharge polarity,Lightning discharge polarity,
 259,\Atmosphere\Lightning\Lightning discharge rates,Lightning discharge rates,
 260,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)","Lightning discharge type (cloud to cloud, cloud to surface)",
-265,atmosphere,Past weather,Predominant characteristic of weather which had existed at the station during a given period of time (Manual on Codes,Volume I.1 (WMO-No. 306))
-266,atmosphere,Present weather,Weather existing at the time of observation, or under certain conditions, during the hour preceding the time of observation (Manual on Codes,Volume I.1 (WMO-No. 306)) 
+265,atmosphere,Past weather,"Predominant characteristic of weather which had existed at the station during a given period of time (Manual on Codes,Volume I.1 (WMO-No. 306))"
+266,atmosphere,Present weather,"Weather existing at the time of observation, or under certain conditions, during the hour preceding the time of observation (Manual on Codes,Volume I.1 (WMO-No. 306))"
 267,\Atmosphere\Radiation\Background luminance,Background luminance,
 270,\Atmosphere\Radiation\Sunshine duration,Sunshine duration,
 271,\Atmosphere\Radiation\Surface albedo,Surface albedo,
