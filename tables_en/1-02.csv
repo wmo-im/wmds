@@ -1,189 +1,189 @@
 notation,name,description
-m,metre,SI base unit of length
-kg,kilogram,SI base unit of mass
-s,second,SI base unit of time
-A,ampere,SI base unit of electric current
-K,kelvin,SI base unit of thermodynamic temperature
-mol,mole,SI base unit of amount of substance
-cd,candela,SI base unit of luminous intensity
-rad,radian,"SI derived unit of plane angle; SI base unit equivalent: 1"
-sr,steradian,"SI derived unit of solid angle; SI base unit equivalent: 1"
-Hz,hertz,"SI derived unit of frequency; SI base unit equivalent: s-1"
-N,newton,"SI derived unit of force, weight"
-Pa,pascal,"SI derived unit of pressure/stress; SI base unit equivalent: kg.m-1.s-2"
-J,joule,"SI derived unit of energy, work, heat; SI base unit equivalent: kg.m2.s-2"
-W,watt,"SI derived unit of power, radiant flux; SI base unit equivalent: kg.m2.s-3"
-C,coulomb,"SI derived unit of electric charge; SI base unit equivalent: s.A"
-V,volt,"SI derived unit of voltage, electrical potential difference, electromotive force; SI base unit equivalent: kg.m2.s-3.A-1"
-F,farad,"SI derived unit of electrical capacitance; SI base unit equivalent: kg-1.m-2.s4.A2"
-Ohm,ohm,"SI derived unit of electrical resistance, impedance, reactance"
-S,siemens,"SI derived unit of electrical conductance; SI base unit equivalent: kg-1.m-2.s3.A2"
-Wb,Weber,"SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-1"
-T,tesla,"SI derived unit of magnetic induction, magnetic flux density; SI base unit equivalent: kg.s-2.A-1"
-H,henry,"SI derived unit of electrical inductance; SI base unit equivalent: kg.m2.s-2.A-2"
-lm,lumen,"SI derived unit of luminous flux; SI base unit equivalent: 1 cd = 4π lm for a uniform source emitting in all directions."
-lx,lux,"SI derived unit of illuminance; SI base unit equivalent: cd.m-2"
-Bq,becquerel,"SI derived unit of radioactivity; SI base unit equivalent: s-1"
-Gy,gray,"SI derived unit of absorbed dose (of ionizing radiation); SI base unit equivalent: m2.s-2"
-Sv,sievert,"SI derived unit of equivalent dose (of ionizing radiation); SI base unit equivalent: m2.s-2"
-deg,degree (angle),"Unit of plane or phase angle, accepted for use with SI: 1 deg = (pi/180) rad"
+1,dimensionless,Dimensionless; SI base unit equivalent: 1
 ',minute (angle),"Unit of plane or phase angle, accepted for use with SI: 1 ' = (pi/10800) rad"
 '',second (angle),"Unit of plane or phase angle, accepted for use with SI: 1 '' = (pi/648000) rad"
-l,litre,"SI derived unit of volume; SI base unit equivalent: 0.001 m3"
-min,minute (time),"Unit of time, accepted for use with SI: 1 min = 60 s"
-h,hour,"Unit of time, accepted for use with SI: 1 h = 3600 s"
-d,day,"Unit of time, accepted for use with SI: 1 d = 86400 s"
-t,tonne,"Unit of mass, accepted for use with SI; SI base unit equivalent: 1000 kg"
-eV,electron volt,"Unit of energy, accepted for use with SI; SI base unit equivalent: 1.602176634E19 kg m2 s-2"
-u,unified atomic mass unit,"Conventional unit of mass; 1 u = 1 Da (Dalton) = 1.66053906660(50)E-27 kg"
-AU,astronomical unit,"Unit of length, accepted for use with SI: 1 AU = 149597870700 m, roughly the distance from Earth to the Sun"
-pc,parsec,"Astronomical unit of length, 1 pc = 64800/Π AU"
-nmi,nautical mile,"Conventional unit of length; SI base unit equivalent: 1852 m"
-kt,knot,"Conventional unit of speed, equal to 1 nmi/h; SI base unit equivalent: (1852/3600)m.s-1"
-dB,decibel,"Unit of sound intensity, accepted for use with SI"
-ha,hectare,"Unit of area, accepted for use with SI: 1 ha = 1E4 m2"
-week,week,"Conventional unit of time, equivalent to 604800 s"
+A,ampere,SI base unit of electric current
 a,year,"Conventional unit of time, equivalent to 31536000 s"
-percent,per cent,"Dimensionless number, expressed as a fraction of 100; SI base unit equivalent: 0.01"
-permil,per mille,"Dimensionless number, expressed as a fraction of 1000; SI base unit equivalent: 0.001"
-okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds; SI base unit equivalent: 0.125"
-deg.s-1,degree (angle) per second,"Unit of angular speed, accepted for use with SI"
-degC,degree Celsius (°C),"SI derived unit of temperature, as defined by ITS-90; SI base unit equivalent: K, with t/degC = T/K + 273.15"
-degC.m-1,degree Celsius per metre,SI derived unit of spatial gradient of temperature per metre; SI base unit equivalent: K.m-1
-degC.hm-1,degree Celsius per 100 metres,"SI derived unit of spatial gradient of temperature per 100 metres; SI base unit equivalent: 0.01 K.m-1"
-DU,Dobson Unit,"Unit of column abundance of molecules in the atmosphere. 1 DU is defined to be 0.01 mm thickness at STP (standard temperature and pressure, 0.00 degC and 1013.25 hPa) and is equivalent of 2.6867 x 1E20 molecules per square metre."
-mon,month,Conventional unit of time duration of between 28-31 days whereby 12 months amount to one year
-s-2,per second squared,SI derived unit of second order time derivative
-kt.km-1,knot per 1000 metres,"Conventional unit of spatial gradient of speed; SI base unit equivalent: 1852/3600000 s-1"
-ft,foot,"Imperial/US unit of length, equal to 1200/3937 metre or 0.3048 metre (approximately)"
-in,inch,"Imperial/US unit of length, equal to 25.4 millimetres"
-dPa.s-1,decipascal per second (microbar per second),"SI derived unit of time derivative of pressure, pressure tendency; SI base unit equivalent: 0.1 kg.m-1.s-3"
-cb.s-1,centibar per second,"Conventional unit of time derivative of pressure, pressure tendency; SI base unit: 1000 kg.m-1.s-3"
+AU,astronomical unit,"Unit of length, accepted for use with SI: 1 AU = 149597870700 m, roughly the distance from Earth to the Sun"
+Bq,becquerel,SI derived unit of radioactivity; SI base unit equivalent: s-1
+Bq.l-1,becquerel per litre,Unit of radioactivity concentration; SI base unit equivalent: 0.001 s-1.m-3
+Bq.m-2,becquerel per square metre,SI derived unit of radioactivity area concentration; SI base unit equivalent: s-1.m-2
+Bq.m-3,becquerel per cubic metre,SI derived unit of radioactivity concentration; SI base unit equivalent: s-1.m-3
+Bq.s.m-3,becquerel second per cubic metre,SI derived unit of time integrated radioactivity concentration; SI base unit equivalent: m-3
+C,coulomb,SI derived unit of electric charge; SI base unit equivalent: s.A
 cb.(12h)-1,centibar per 12 hours,"Conventional unit of time derivative of pressure, pressure tendency; SI base unit: 10/432 kg.m-1.s-3"
-daPa,dekapascal,"SI derived unit of pressure/stress; SI base unit equivalent: 10 kg.m-1.s-2"
-hPa,hectopascal,"SI derived unit of pressure/stress; SI base unit equivalent: 100 kg.m-1.s-2"
-hPa.s-1,hectopascal per second,"SI derived unit of time derivative of pressure; SI base unit equivalent: 100 kg.m-1.s-3"
-hPa.h-1,hectopascal per hour,"SI derived unit of time derivative of pressure; SI base unit equivalent: 1/36 kg.m-1.s-3"
-hPa.(3h)-1,hectopascal per 3 hours,"SI derived unit of time derivative of pressure; SI base unit equivalent: 1/108 kg.m-1.s-3"
-nbar,nanobar,"Conventional unit of pressure; SI base unit equivalent: 1E-4 kg.m-1.s-2"
+cb.s-1,centibar per second,"Conventional unit of time derivative of pressure, pressure tendency; SI base unit: 1000 kg.m-1.s-3"
+cd,candela,SI base unit of luminous intensity
+CFU.ml-1,colony-forming unit per millilitre,Unit of number concentration of viable bacteria or fungal cells in a sample as a result of a plate count test
+cm,centimetre,SI prefixed unit of length; SI base unit equivalent: 0.01 m
+cm-3,per cubic centimetre,SI derived unit of specific volume; SI base unit equivalent: 1E-6 m-3
+cm.h-1,centimetre per hour,SI derived unit of speed; SI base unit equivalent: 1/360000 m.s-1
+cm.s-1,centimetre per second,SI derived unit of speed; SI base unit equivalent: 0.01 m.s-1
+cm2,square centimetre,SI derived unit of area; SI base unit equivalent: 1E-4 m2
+cm3.m-3,cubic centimetre per cubic metre,"SI derived unit of volumetric mixing ratio, equivalent to ppmv (parts per million by volume); SI base unit equivalent: 1E-6"
+d,day,"Unit of time, accepted for use with SI: 1 d = 86400 s"
+daPa,dekapascal,SI derived unit of pressure/stress; SI base unit equivalent: 10 kg.m-1.s-2
+dB,decibel,"Unit of sound intensity, accepted for use with SI"
+dB.deg-1,decibel per degree (angle),Unit of angular gradient of sound intensity
+dB.m-1,decibel per metre,Unit of spatial gradient of sound intensity
+deg,degree (angle),"Unit of plane or phase angle, accepted for use with SI: 1 deg = (pi/180) rad"
+deg.s-1,degree (angle) per second,"Unit of angular speed, accepted for use with SI"
+deg2,square degree (angle),"Unit of square of phase or plane angle, accepted for use with SI"
+degC,degree Celsius (°C),"SI derived unit of temperature, as defined by ITS-90; SI base unit equivalent: K, with t/degC = T/K + 273.15"
+degC.hm-1,degree Celsius per 100 metres,SI derived unit of spatial gradient of temperature per 100 metres; SI base unit equivalent: 0.01 K.m-1
+degC.m-1,degree Celsius per metre,SI derived unit of spatial gradient of temperature per metre; SI base unit equivalent: K.m-1
+dm,decimetre,SI prefixed unit of length; SI base unit equivalent: 0.1 m
+dPa.s-1,decipascal per second (microbar per second),"SI derived unit of time derivative of pressure, pressure tendency; SI base unit equivalent: 0.1 kg.m-1.s-3"
+DU,Dobson Unit,"Unit of column abundance of molecules in the atmosphere. 1 DU is defined to be 0.01 mm thickness at STP (standard temperature and pressure, 0.00 degC and 1013.25 hPa) and is equivalent of 2.6867 x 1E20 molecules per square metre."
+E,Eötvös,"Unit of acceleration divided by distance,1 E = 1E-9 Gal/cm; SI base unit equivalent: 1E-9 s-2"
+eV,electron volt,"Unit of energy, accepted for use with SI; SI base unit equivalent: 1.602176634E19 kg m2 s-2"
+F,farad,SI derived unit of electrical capacitance; SI base unit equivalent: kg-1.m-2.s4.A2
+ft,foot,"Imperial/US unit of length, equal to 1200/3937 metre or 0.3048 metre (approximately)"
+g.cm-3,gram per cubic centimetre,"SI derived unit of density, equivalent to kilograms per litre; SI base unit equivalent: 1000 kg.m-3"
 g.kg-1,gram per kilogram,"SI derived unit of mass fraction, dimensionless; SI base unit equivalent: 0.001"
-g.kg-1.s-1,gram per kilogram per second,"SI derived unit of time derivative of mass fraction; SI base unit equivalent: 0.001 s-1"
-kg.kg-1,kilogram per kilogram,"SI derived unit of mass fraction; SI base unit equivalent: 1"
-kg.kg-1.s-1,kilogram per kilogram per second,"SI derived unit of time derivative of mass fraction; SI base unit equivalent: s-1"
-kg.m-2,kilogram per square metre,SI derived unit of area density
-g0,standard acceleration due to gravity,"Conventional unit of gravity acceleration; g0 = 9.80665 m.s-2"
+g.kg-1.s-1,gram per kilogram per second,SI derived unit of time derivative of mass fraction; SI base unit equivalent: 0.001 s-1
+g0,standard acceleration due to gravity,Conventional unit of gravity acceleration; g0 = 9.80665 m.s-2
+GHz,gigahertz,SI derived unit of frequency; SI base unit equivalent: 1E9 s-1
 gpm,geopotential metre,The height of a given point in the atmosphere in units proportional to the potential energy of unit mass (geopotential) at this height relative to sea level. (AMS Glossary of Meteorology)
-mm,millimetre,"SI prefixed unit of length; SI base unit equivalent: 0.001 m"
-mm.s-1,millimetre per second,"SI derived unit of speed; SI base unit equivalent: 0.001 m.s-1"
-mm.h-1,millimetre per hour,"SI derived unit of speed; SI base unit equivalent: 1/3.6E6 m.s-1"
-mm6.m-3,millimetre to the sixth power per cubic metre,"SI derived unit of quantity with dimension of L3; SI base unit equivalent: 1E-18 m3"
-cm,centimetre,"SI prefixed unit of length; SI base unit equivalent: 0.01 m"
-cm.s-1,centimetre per second,"SI derived unit of speed; SI base unit equivalent: 0.01 m.s-1"
-cm.h-1,centimetre per hour,"SI derived unit of speed; SI base unit equivalent: 1/360000 m.s-1"
-dm,decimetre,"SI prefixed unit of length; SI base unit equivalent: 0.1 m"
-m.s-1,metre per second,SI derived unit of speed
-m.s-1.m-1,metre per second per metre,"SI derived unit of spatial gradient of speed"
-m.s-1.km-1,metre per second per 1000 metres,"SI derived unit of spatial gradient of speed; SI base unit equivalent: 0.001 s-1"
-m2,square metre,SI derived unit of area
-m2.s-1,square metre per second,"SI derived unit of kinematic viscosity, thermal diffusivity, diffusion coefficient"
-km,kilometre,"SI prefixed unit of length; SI base unit equivalent: 1000 m"
-km.h-1,kilometre per hour,"SI derived unit of speed; SI base unit equivalent: 1000/3600 m.s-1"
-km.d-1,kilometre per day,"SI derived unit of speed; SI base unit equivalent: 1000/86400 m.s-1"
-m-1,per metre,"SI derived unit of quantity with dimension of reciprocal length, e.g., wave number, optical power, curvature, spatial frequency"
-Bq.l-1,becquerel per litre,"Unit of radioactivity concentration; SI base unit equivalent: 0.001 s-1.m-3"
-Bq.m-2,becquerel per square metre,"SI derived unit of radioactivity area concentration; SI base unit equivalent: s-1.m-2"
-Bq.m-3,becquerel per cubic metre,"SI derived unit of radioactivity concentration; SI base unit equivalent: s-1.m-3"
-mSv,millisievert,"SI derived unit of equivalent dose (of ionizing radiation); SI base unit equivalent: 0.001 m2.s-2"
-m.s-2,metre per second squared,SI derived unit of acceleration
-m2.s,square metre second,SI derived unit of sea surface wave variance spectral density
-m2.s-2,square metre per square second,SI derived quantity with dimension of squared speed
-m2.s.rad-1,square metre second per radian,"SI derived unit of sea surface wave directional variance spectral density"
-m3,cubic metres,SI derived unit of volume
-m3.s-1,cubic metre per second,SI derived unit of volume flow rate or time derivative of volume
-m3.m-3,cubic metre per cubic metre,"SI derived unit of volume fraction; SI base unit equivalent: 1"
-m4,metre to the fourth power,"SI derived unit of the second moment of area, area moment of inertia"
-m(2.3-1).s-1,metre to the two thirds power per second,SI derived unit of the quantity with dimension of L^(2/3) T-1
+Gy,gray,SI derived unit of absorbed dose (of ionizing radiation); SI base unit equivalent: m2.s-2
+H,henry,SI derived unit of electrical inductance; SI base unit equivalent: kg.m2.s-2.A-2
+h,hour,"Unit of time, accepted for use with SI: 1 h = 3600 s"
+ha,hectare,"Unit of area, accepted for use with SI: 1 ha = 1E4 m2"
+hPa,hectopascal,SI derived unit of pressure/stress; SI base unit equivalent: 100 kg.m-1.s-2
+hPa.(3h)-1,hectopascal per 3 hours,SI derived unit of time derivative of pressure; SI base unit equivalent: 1/108 kg.m-1.s-3
+hPa.h-1,hectopascal per hour,SI derived unit of time derivative of pressure; SI base unit equivalent: 1/36 kg.m-1.s-3
+hPa.s-1,hectopascal per second,SI derived unit of time derivative of pressure; SI base unit equivalent: 100 kg.m-1.s-3
+HU,Hazen unit,Unit of color according to the Platinum/Cobalt or Apha-Hazen scale
+Hz,hertz,SI derived unit of frequency; SI base unit equivalent: s-1
+in,inch,"Imperial/US unit of length, equal to 25.4 millimetres"
+inapplicable,inapplicable,There is no value (categorical data)
+J,joule,"SI derived unit of energy, work, heat; SI base unit equivalent: kg.m2.s-2"
+J.kg-1,joule per kilogram,SI derived unit of specific energy or specific potential enthalpy; SI base unit equivalent: m2.kg.s-2.kg-1
+J.m-2,joule per square metre,SI derived unit of radiant exposure; SI base unit equivalent: m2.kg.s-2
+K,kelvin,SI base unit of thermodynamic temperature
+K.m-1,kelvin per metre,SI derived unit of spatial gradient of temperature
+K.m.s-1,kelvin metre per second,SI derived unit of covariance of wind speed and temperature or the product of wind speed and temperature
+K.m2.kg-1.s-1,kelvin square metre per kilogram per second,SI derived unit of potential vorticity
+kcal.cm-2,kilocalory per square centimetre,"Unit of radiant exposure, equal to 4.184E7 J.m-2"
+kg,kilogram,SI base unit of mass
+kg-2.s-1,per square kilogram per second,SI derived unit of quantity with dimension of M-2.T-1
+kg.kg-1,kilogram per kilogram,SI derived unit of mass fraction; SI base unit equivalent: 1
+kg.kg-1.s-1,kilogram per kilogram per second,SI derived unit of time derivative of mass fraction; SI base unit equivalent: s-1
 kg.m-1,kilogram per metre,SI derived unit of linear mass density or quantity with dimension of M.L-1
+kg.m-2,kilogram per square metre,SI derived unit of area density
 kg.m-2.s-1,kilogram per square metre per second,SI derived unit of time derivative of mass area density
 kg.m-3,kilogram per cubic metre,"SI derived unit of density, mass density"
-kg-2.s-1,per square kilogram per second,SI derived unit of quantity with dimension of M-2.T-1
-s.m-1,second per metre,SI derived unit of quantity with dimension of T.L-1
-K.m.s-1,kelvin metre per second,SI derived unit of covariance of wind speed and temperature or the product of wind speed and temperature
-K.m-1,kelvin per metre,SI derived unit of spatial gradient of temperature
-K.m2.kg-1.s-1,kelvin square metre per kilogram per second,SI derived unit of potential vorticity
-mol.mol-1,mole per mole,"SI derived unit of mole fraction; SI base unit equivalent: 1"
-rad.m-1,radian per metre,"SI derived unit of spatial gradient of plane angle"
-N.m-2,newton per square metre,"SI derived unit of pressure or equivalent quantity"
-Pa.s-1,pascal per second,"SI derived unit of temporal derivative of pressure/stress; SI base unit equivalent: kg.m-1.s-3"
-kPa,kilopascal,"SI derived unit of pressure/stress, equal to 1000 Pa; SI base unit equivalent: 1000 kg.m-1.s-2"
-J.m-2,joule per square metre,"SI derived unit of radiant exposure; SI base unit equivalent: m2.kg.s-2"
-J.kg-1,joule per kilogram,"SI derived unit of specific energy or specific potential enthalpy; SI base unit equivalent: m2.kg.s-2.kg-1"
-W.m-1.sr-1,watt per metre per steradian,"SI derived unit of spectral intensity; SI base unit equivalent: kg.m.s-3"
-W.m-2,watt per square metre,"SI derived unit of heat flux density or irradiance; SI base unit equivalent: kg.m-1.s-3"
-W.m-2.sr-1,watt per square metre per steradian,"SI derived unit of radiance; SI base unit equivalent: kg.s-3"
-W.m-2.sr-1.cm,watt per square metre per steradian per inverse centimetre,"SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1; SI base unit equivalent: 0.01 m.kg.s-3"
-W.m-2.sr-1.m,watt per square metre per steradian per inverse metre,"SI derived unit of spectral radiance per wave number; SI base unit equivalent: kg.m.s-3"
-W.m-3.sr-1,watt per cubic metre per steradian,"SI derived unit of spectral radiance; SI base unit equivalent: 100 m-1.kg.s-3"
-S.m-1,siemens per metre,"SI derived unit of spatial gradient of electric conductance"
-deg2,square degree (angle),"Unit of square of phase or plane angle, accepted for use with SI"
-Bq.s.m-3,becquerel second per cubic metre,"SI derived unit of time integrated radioactivity concentration; SI base unit equivalent: m-3"
-dB.m-1,decibel per metre,Unit of spatial gradient of sound intensity
-dB.deg-1,decibel per degree (angle),Unit of angular gradient of sound intensity
-pH_unit,pH unit,Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre; SI base unit equivalent: 0.001 m-3
-N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N=1E6(n-1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'"
-unknown,unknown,"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
-kHz,kilohertz,"SI derived unit of frequency; SI base unit equivalent: 1000 s-1"
-MHz,megahertz,"SI derived unit of frequency; SI base unit equivalent: 1E6 s-1"
-GHz,gigahertz,"SI derived unit of frequency; SI base unit equivalent: 1E9 s-1"
-THz,terahertz,"SI derived unit of frequency; SI base unit equivalent: 1E12 s-1"
-umol.mol-1,micromole per mole,"SI derived unit of mole fraction; SI base unit equivalent: 1E-6"
-nmol.mol-1,nanomole per mole,"SI derived unit of mole fraction; SI base unit equivalent: 1E-9"
-pmol.mol-1,picomole per mole,"SI derived unit equivalent of mole fraction; SI base unit equivalent: 1E-12"
-mmol.mol-1,millimole per mole,"SI derived unit equivalent to expressing mole fraction in parts per thousand; SI base unit equivalent: 0.001"
-mBq.m-3,millibecquerel per cubic metre,"SI derived unit of volumetric radioactivity concentration; SI base unit equivalent: 0.001 s-1.m-3"
-umol.kg-1,micromole per kilogram,"SI derived unit of amount per unit mass; SI base unit equivalent: 1E-6 mol.kg-1"
-umol.l-1,micromole per litre,"SI derived unit of amount concentration; SI base unit equivalent: 0.001 mol.m-3"
-ng.m-3,nanogram per cubic metre,"SI derived unit of mass concentration; SI base unit equivalent: 1E-12 kg.m-3"
-1,dimensionless,"Dimensionless; SI base unit equivalent: 1"
-rad.s-1,radian per second,"SI derived unit of angular velocity; SI base unit equivalent: s-1"
-mGal,milligal,"CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m.s-2)"
-E,Eötvös,"Unit of acceleration divided by distance,1 E = 1E-9 Gal/cm; SI base unit equivalent: 1E-9 s-2"
-t.ha-1,(metric) ton per hectare,"Unit of area density, equal to 0.1 kg.m-2"
-psu,practical salinity unit,"Conventional unit, equivalent to per mille; SI based unit equivalent: 0.001"
-nm,nanometre,"SI prefixed unit of length; SI base unit equivalent: 1E-9 m"
-ppmv,parts per million by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-6"
-ppbv,parts per billion by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-9"
-pptv,parts per trillion by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-12"
+kHz,kilohertz,SI derived unit of frequency; SI base unit equivalent: 1000 s-1
+km,kilometre,SI prefixed unit of length; SI base unit equivalent: 1000 m
 km-1,per kilometre,"SI derived unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients; SI base unit equivalent: 0.001 m-1"
-Mm-1,per megametre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients; SI base unit equivalent: 1E-6 m-1"
-missing,missing,"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist"
-inapplicable,inapplicable,There is no value (categorical data)
-ug.m-3,microgram per cubic metre,"SI derived unit of mass concentration; SI base unit equivalent: 1E-9 kg.m-3"
-mg.l-1,milligram per litre,"SI derived unit of density or mass concentration; SI base unit equivalent: 0.001 kg.m-3"
-mg.cm-3,milligram per cubic centimetre,"SI derived unit of mass concentration; SI base unit equivalent: 1 kg.m-3"
-ng.kg-1,nanogram per kilogram,"SI derived unit of mass fraction, equivalent to pptm (parts per trillion by mass) or ppt (parts per trillion); SI base unit equivalent: 1E-12"
-ug.kg-1,microgram per kilogram,"SI derived unit of mass fraction, equivalent to ppbm (parts per billion per mass) or ppb (parts per billion); SI base unit equivalent: 1E-9"
-mg.kg-1,milligram per kilogram,"SI derived unit of mass fraction, equivalent to ppmm (parts per million by mass) or ppm (parts per million); SI base unit equivalent: 1E-6"
-um3.cm-3,cubic micrometre per cubic centimetre,"SI derived unit of volume fraction, equivalent to pptv (parts per trillion by volume); SI base unit equivalent: 1E-12"
-mm3.m-3,cubic millimetre per cubic metre,"SI derived unit of volumetric mixing ratio, equivalent to ppbv (parts per billion by volume); SI base unit equivalent: 1E-9"
-cm3.m-3,cubic centimetre per cubic metre,"SI derived unit of volumetric mixing ratio, equivalent to ppmv (parts per million by volume); SI base unit equivalent: 1E-6"
-cm-3,per cubic centimetre,"SI derived unit of specific volume; SI base unit equivalent: 1E-6 m-3"
-m-3,per cubic metre,SI derived unit of specific volume
-um,micrometre,"SI prefixed unit of length; SI base unit equivalent: 1E-6 m"
-ug.l-1,microgram per litre,"SI derived unit of mass concentration; SI base unit equivalent: 1E-6 kg.m-3"
-cm2,square centimetre,"SI derived unit of area; SI base unit equivalent: 1E-4 m2"
-HU,Hazen unit,Unit of color according to the Platinum/Cobalt or Apha-Hazen scale
-uS.cm-1,microsiemens per centimetre,"SI derived unit of spatial gradient of electrical conductance; SI base unit equivalent: 1E-4 m-3.kg-1.s3.A2"
-g.cm-3,gram per cubic centimetre,"SI derived unit of density, equivalent to kilograms per litre; SI base unit equivalent: 1000 kg.m-3"
-mV,millivolt,"SI derived unit of voltage, electrical potential difference, electromotive force; SI base unit equivalent: 0.001 m2.kg.s-3.A-1"
-mbar,millibar,"Conventional unit of pressure, equal to 1 hPa; SI base unit equivalent: 100 kg.m-1.s-2"
-mmHg,millimetre of mercury,"Conventional unit of pressure, equal to 133.322387415 Pa"
-kcal.cm-2,kilocalory per square centimetre,"Unit of radiant exposure, equal to 4.184E7 J.m-2"
-NTU,nephelometric turbidity unit,Units of turbidity from a calibrated nephelometer; SI base unit equivalent: 10-3 kg.m-3
-MPN.ml-1,most probable number index number in 1 millilitre,Unit of expected number concentration of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate
-CFU.ml-1,colony-forming unit per millilitre,Unit of number concentration of viable bacteria or fungal cells in a sample as a result of a plate count test
-km-1.sr-1,per kilometre per steradian,"SI derived unit of the scattering coefficient at a given direction; SI base unit equivalent: 0.001 m-1"
+km-1.sr-1,per kilometre per steradian,SI derived unit of the scattering coefficient at a given direction; SI base unit equivalent: 0.001 m-1
+km.d-1,kilometre per day,SI derived unit of speed; SI base unit equivalent: 1000/86400 m.s-1
+km.h-1,kilometre per hour,SI derived unit of speed; SI base unit equivalent: 1000/3600 m.s-1
+kPa,kilopascal,"SI derived unit of pressure/stress, equal to 1000 Pa; SI base unit equivalent: 1000 kg.m-1.s-2"
+kt,knot,"Conventional unit of speed, equal to 1 nmi/h; SI base unit equivalent: (1852/3600)m.s-1"
+kt.km-1,knot per 1000 metres,Conventional unit of spatial gradient of speed; SI base unit equivalent: 1852/3600000 s-1
+l,litre,SI derived unit of volume; SI base unit equivalent: 0.001 m3
+lm,lumen,SI derived unit of luminous flux; SI base unit equivalent: 1 cd = 4π lm for a uniform source emitting in all directions.
+lx,lux,SI derived unit of illuminance; SI base unit equivalent: cd.m-2
+m,metre,SI base unit of length
+m-1,per metre,"SI derived unit of quantity with dimension of reciprocal length, e.g., wave number, optical power, curvature, spatial frequency"
 m-1.sr-1,per metre per steradian,SI derived unit of the scattering coefficient at a given direction
-Mm-1.sr-1,per megametre per steradian,"SI derived unit of the scattering coefficient at a given direction; SI base unit equivalent: 1E-6 m-1"
-mg.m-3,milligram per cubic metre,"SI derived unit of density or mass concentration; SI base unit equivalent: 1E-6 kg/m3"
-m.a-1,metre per year,"Conventional unit of velocity"
+m-3,per cubic metre,SI derived unit of specific volume
+m.a-1,metre per year,Conventional unit of velocity
+m.s-1,metre per second,SI derived unit of speed
+m.s-1.km-1,metre per second per 1000 metres,SI derived unit of spatial gradient of speed; SI base unit equivalent: 0.001 s-1
+m.s-1.m-1,metre per second per metre,SI derived unit of spatial gradient of speed
+m.s-2,metre per second squared,SI derived unit of acceleration
+m(2.3-1).s-1,metre to the two thirds power per second,SI derived unit of the quantity with dimension of L^(2/3) T-1
+m2,square metre,SI derived unit of area
+m2.s,square metre second,SI derived unit of sea surface wave variance spectral density
+m2.s-1,square metre per second,"SI derived unit of kinematic viscosity, thermal diffusivity, diffusion coefficient"
+m2.s-2,square metre per square second,SI derived quantity with dimension of squared speed
+m2.s.rad-1,square metre second per radian,SI derived unit of sea surface wave directional variance spectral density
+m3,cubic metres,SI derived unit of volume
+m3.m-3,cubic metre per cubic metre,SI derived unit of volume fraction; SI base unit equivalent: 1
+m3.s-1,cubic metre per second,SI derived unit of volume flow rate or time derivative of volume
+m4,metre to the fourth power,"SI derived unit of the second moment of area, area moment of inertia"
+mbar,millibar,"Conventional unit of pressure, equal to 1 hPa; SI base unit equivalent: 100 kg.m-1.s-2"
+mBq.m-3,millibecquerel per cubic metre,SI derived unit of volumetric radioactivity concentration; SI base unit equivalent: 0.001 s-1.m-3
+mg.cm-3,milligram per cubic centimetre,SI derived unit of mass concentration; SI base unit equivalent: 1 kg.m-3
+mg.kg-1,milligram per kilogram,"SI derived unit of mass fraction, equivalent to ppmm (parts per million by mass) or ppm (parts per million); SI base unit equivalent: 1E-6"
+mg.l-1,milligram per litre,SI derived unit of density or mass concentration; SI base unit equivalent: 0.001 kg.m-3
+mg.m-3,milligram per cubic metre,SI derived unit of density or mass concentration; SI base unit equivalent: 1E-6 kg/m3
+mGal,milligal,"CGS unit of acceleration, equal to one thousandth of a Gal (1 Gal = 0.01 m.s-2)"
+MHz,megahertz,SI derived unit of frequency; SI base unit equivalent: 1E6 s-1
+min,minute (time),"Unit of time, accepted for use with SI: 1 min = 60 s"
+missing,missing,"The correct value is not readily available to the sender of this data. Furthermore, a correct value may not exist"
+mm,millimetre,SI prefixed unit of length; SI base unit equivalent: 0.001 m
+Mm-1,per megametre,"Unit of quantity with dimension of reciprocal length, e.g., optical attenuation coefficients; SI base unit equivalent: 1E-6 m-1"
+Mm-1.sr-1,per megametre per steradian,SI derived unit of the scattering coefficient at a given direction; SI base unit equivalent: 1E-6 m-1
+mm.h-1,millimetre per hour,SI derived unit of speed; SI base unit equivalent: 1/3.6E6 m.s-1
+mm.s-1,millimetre per second,SI derived unit of speed; SI base unit equivalent: 0.001 m.s-1
+mm3.m-3,cubic millimetre per cubic metre,"SI derived unit of volumetric mixing ratio, equivalent to ppbv (parts per billion by volume); SI base unit equivalent: 1E-9"
+mm6.m-3,millimetre to the sixth power per cubic metre,SI derived unit of quantity with dimension of L3; SI base unit equivalent: 1E-18 m3
+mmHg,millimetre of mercury,"Conventional unit of pressure, equal to 133.322387415 Pa"
+mmol.mol-1,millimole per mole,SI derived unit equivalent to expressing mole fraction in parts per thousand; SI base unit equivalent: 0.001
+mol,mole,SI base unit of amount of substance
+mol.mol-1,mole per mole,SI derived unit of mole fraction; SI base unit equivalent: 1
+mon,month,Conventional unit of time duration of between 28-31 days whereby 12 months amount to one year
+MPN.ml-1,most probable number index number in 1 millilitre,Unit of expected number concentration of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate
+mSv,millisievert,SI derived unit of equivalent dose (of ionizing radiation); SI base unit equivalent: 0.001 m2.s-2
+mV,millivolt,"SI derived unit of voltage, electrical potential difference, electromotive force; SI base unit equivalent: 0.001 m2.kg.s-3.A-1"
+N,newton,"SI derived unit of force, weight"
+N_units,N units,"Unit of atmospheric refractivity, the refractivity, N, is related to the refractive index, n, by the formula N=1E6(n-1). N is therefore dimensionless but values computed by the formula are by convention described as being in 'N units'"
+N.m-2,newton per square metre,SI derived unit of pressure or equivalent quantity
+nbar,nanobar,Conventional unit of pressure; SI base unit equivalent: 1E-4 kg.m-1.s-2
+ng.kg-1,nanogram per kilogram,"SI derived unit of mass fraction, equivalent to pptm (parts per trillion by mass) or ppt (parts per trillion); SI base unit equivalent: 1E-12"
+ng.m-3,nanogram per cubic metre,SI derived unit of mass concentration; SI base unit equivalent: 1E-12 kg.m-3
+nm,nanometre,SI prefixed unit of length; SI base unit equivalent: 1E-9 m
+nmi,nautical mile,Conventional unit of length; SI base unit equivalent: 1852 m
+nmol.mol-1,nanomole per mole,SI derived unit of mole fraction; SI base unit equivalent: 1E-9
+NTU,nephelometric turbidity unit,Units of turbidity from a calibrated nephelometer; SI base unit equivalent: 10-3 kg.m-3
+Ohm,ohm,"SI derived unit of electrical resistance, impedance, reactance"
+okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds; SI base unit equivalent: 0.125"
+Pa,pascal,SI derived unit of pressure/stress; SI base unit equivalent: kg.m-1.s-2
+Pa.s-1,pascal per second,SI derived unit of temporal derivative of pressure/stress; SI base unit equivalent: kg.m-1.s-3
+pc,parsec,"Astronomical unit of length, 1 pc = 64800/Π AU"
+percent,per cent,"Dimensionless number, expressed as a fraction of 100; SI base unit equivalent: 0.01"
+permil,per mille,"Dimensionless number, expressed as a fraction of 1000; SI base unit equivalent: 0.001"
+pH_unit,pH unit,Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre; SI base unit equivalent: 0.001 m-3
+pmol.mol-1,picomole per mole,SI derived unit equivalent of mole fraction; SI base unit equivalent: 1E-12
+ppbv,parts per billion by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-9"
+ppmv,parts per million by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-6"
+pptv,parts per trillion by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-12"
+psu,practical salinity unit,"Conventional unit, equivalent to per mille; SI based unit equivalent: 0.001"
+rad,radian,SI derived unit of plane angle; SI base unit equivalent: 1
+rad.m-1,radian per metre,SI derived unit of spatial gradient of plane angle
+rad.s-1,radian per second,SI derived unit of angular velocity; SI base unit equivalent: s-1
+s,second,SI base unit of time
+S,siemens,SI derived unit of electrical conductance; SI base unit equivalent: kg-1.m-2.s3.A2
+s-2,per second squared,SI derived unit of second order time derivative
+s.m-1,second per metre,SI derived unit of quantity with dimension of T.L-1
+S.m-1,siemens per metre,SI derived unit of spatial gradient of electric conductance
+sr,steradian,SI derived unit of solid angle; SI base unit equivalent: 1
+Sv,sievert,SI derived unit of equivalent dose (of ionizing radiation); SI base unit equivalent: m2.s-2
+T,tesla,"SI derived unit of magnetic induction, magnetic flux density; SI base unit equivalent: kg.s-2.A-1"
+t,tonne,"Unit of mass, accepted for use with SI; SI base unit equivalent: 1000 kg"
+t.ha-1,(metric) ton per hectare,"Unit of area density, equal to 0.1 kg.m-2"
+THz,terahertz,SI derived unit of frequency; SI base unit equivalent: 1E12 s-1
+u,unified atomic mass unit,Conventional unit of mass; 1 u = 1 Da (Dalton) = 1.66053906660(50)E-27 kg
+ug.kg-1,microgram per kilogram,"SI derived unit of mass fraction, equivalent to ppbm (parts per billion per mass) or ppb (parts per billion); SI base unit equivalent: 1E-9"
+ug.l-1,microgram per litre,SI derived unit of mass concentration; SI base unit equivalent: 1E-6 kg.m-3
+ug.m-3,microgram per cubic metre,SI derived unit of mass concentration; SI base unit equivalent: 1E-9 kg.m-3
+um,micrometre,SI prefixed unit of length; SI base unit equivalent: 1E-6 m
+um3.cm-3,cubic micrometre per cubic centimetre,"SI derived unit of volume fraction, equivalent to pptv (parts per trillion by volume); SI base unit equivalent: 1E-12"
+umol.kg-1,micromole per kilogram,SI derived unit of amount per unit mass; SI base unit equivalent: 1E-6 mol.kg-1
+umol.l-1,micromole per litre,SI derived unit of amount concentration; SI base unit equivalent: 0.001 mol.m-3
+umol.mol-1,micromole per mole,SI derived unit of mole fraction; SI base unit equivalent: 1E-6
+unknown,unknown,"The correct value is not known to, and not computable by, the sender of this data. However, a correct value probably exists."
+uS.cm-1,microsiemens per centimetre,SI derived unit of spatial gradient of electrical conductance; SI base unit equivalent: 1E-4 m-3.kg-1.s3.A2
+V,volt,"SI derived unit of voltage, electrical potential difference, electromotive force; SI base unit equivalent: kg.m2.s-3.A-1"
+W,watt,"SI derived unit of power, radiant flux; SI base unit equivalent: kg.m2.s-3"
+W.m-1.sr-1,watt per metre per steradian,SI derived unit of spectral intensity; SI base unit equivalent: kg.m.s-3
+W.m-2,watt per square metre,SI derived unit of heat flux density or irradiance; SI base unit equivalent: kg.m-1.s-3
+W.m-2.sr-1,watt per square metre per steradian,SI derived unit of radiance; SI base unit equivalent: kg.s-3
+W.m-2.sr-1.cm,watt per square metre per steradian per inverse centimetre,"SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1; SI base unit equivalent: 0.01 m.kg.s-3"
+W.m-2.sr-1.m,watt per square metre per steradian per inverse metre,SI derived unit of spectral radiance per wave number; SI base unit equivalent: kg.m.s-3
+W.m-3.sr-1,watt per cubic metre per steradian,SI derived unit of spectral radiance; SI base unit equivalent: 100 m-1.kg.s-3
+Wb,Weber,SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-1
+week,week,"Conventional unit of time, equivalent to 604800 s"
