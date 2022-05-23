@@ -3,7 +3,7 @@ notation,name,description
 ',minute (angle),"Unit of plane or phase angle, accepted for use with SI: 1 ' = (pi/10800) rad"
 '',second (angle),"Unit of plane or phase angle, accepted for use with SI: 1 '' = (pi/648000) rad"
 A,ampere,SI base unit of electric current
-a,year,"Conventional unit of time, ranging from 365 days to 366 days"
+a,year,"Conventional unit of time duration, ranging from 365 days to 366 days"
 AU,astronomical unit,"Unit of length, accepted for use with SI: 1 AU = 149597870700 m, roughly the distance from Earth to the Sun"
 Bq,becquerel,SI derived unit of radioactivity; SI base unit equivalent: s-1
 Bq.l-1,becquerel per litre,Unit of radioactivity concentration; SI base unit equivalent: 0.001 s-1.m-3
