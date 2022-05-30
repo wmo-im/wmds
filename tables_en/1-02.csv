@@ -127,6 +127,7 @@ mol,mole,SI base unit of amount of substance
 mol.mol-1,mole per mole,SI derived unit of mole fraction; SI base unit equivalent: 1
 mon,month,Conventional unit of time duration of between 28-31 days whereby 12 months amount to one year
 MPN.ml-1,most probable number index number in 1 millilitre,Unit of expected number concentration of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate
+mS.cm-1,millisiemens per centimetre,"SI derived unit of spatial gradient of electrical conductance, equal to 1E-1 S.m-1"
 mSv,millisievert,SI derived unit of equivalent dose (of ionizing radiation); SI base unit equivalent: 0.001 m2.s-2
 mV,millivolt,"SI derived unit of voltage, electrical potential difference, electromotive force; SI base unit equivalent: 0.001 m2.kg.s-3.A-1"
 N,newton,"SI derived unit of force, weight"
