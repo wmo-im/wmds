@@ -5,4 +5,4 @@
 <a> a skos:Concept ;
 	rdfs:label "year" ;
 	skos:notation "a" ;
-	dct:description "Conventional unit of time, equivalent to 31536000 s"@en	.
+	dct:description "Conventional unit of time duration, ranging from 365 days to 366 days"@en	.
