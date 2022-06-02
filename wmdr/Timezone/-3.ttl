@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<-3> a skos:Concept ;
+	rdfs:label "UTC-03:00" ;
+	skos:notation "-3" ;
+	dct:description "Timezone with a UTC offset of UTC-03:00 hours. Locations in this timezone include America/Argentina/Tucuman, America/Argentina/Ushuaia, America/Miquelon, America/Argentina/Salta, America/Jujuy, America/Cordoba, Brazil/East, Atlantic/Stanley, Antarctica/Palmer, Antarctica/Rothera, America/Buenos_Aires, America/Godthab, America/Bahia, Etc/GMT+3, America/Montevideo, America/Belem, America/Fortaleza, America/Araguaina, America/Catamarca, America/Maceio, America/Punta_Arenas, America/Argentina/Rio_Gallegos, America/Argentina/Mendoza, America/Recife, America/Argentina/La_Rioja, America/Argentina/Jujuy, America/Argentina/Cordoba, America/Rosario, America/Paramaribo, America/Argentina/ComodRivadavia, America/Nuuk, America/Sao_Paulo, America/Argentina/Buenos_Aires, America/Argentina/Catamarca, America/Santarem, America/Cayenne, America/Mendoza, America/Argentina/San_Juan, America/Argentina/San_Luis."@en	.
