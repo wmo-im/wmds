@@ -5,4 +5,4 @@
 <266> a skos:Concept ;
 	rdfs:label "Present weather" ;
 	skos:notation "266" ;
-	dct:description "Weather existing at the time of observation, or under certain conditions, during the hour preceding the time of observation. [source: Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"@en	.
+	dct:description "Weather existing at the time of observation, or under certain conditions, during the hour preceding the time of observation. [Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"@en	.

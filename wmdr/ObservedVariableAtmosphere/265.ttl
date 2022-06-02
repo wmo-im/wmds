@@ -5,4 +5,4 @@
 <265> a skos:Concept ;
 	rdfs:label "Past weather" ;
 	skos:notation "265" ;
-	dct:description "Predominant characteristic of weather which had existed at the station during a given period of time. [source: Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"@en	.
+	dct:description "Predominant characteristic of weather which had existed at the station during a given period of time. [Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"@en	.
