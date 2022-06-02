@@ -13,6 +13,8 @@ http://codes.wmo.int/wmdr/ProgramAffiliation/RBSNs,http://codes.wmo.int/wmdr/Pro
 http://codes.wmo.int/wmdr/ProgramAffiliation/RBSNsp,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 http://codes.wmo.int/wmdr/ProgramAffiliation/RBSNst,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 http://codes.wmo.int/wmdr/ProgramAffiliation/RBSNt,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+http://codes.wmo.int/wmdr/ProgramAffiliation/ANTONt,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
+http://codes.wmo.int/wmdr/ProgramAffiliation/ANTONs,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 http://codes.wmo.int/wmdr/ObservedVariableTerrestrial/610,http://codes.wmo.int/wmdr/ObservedVariableTerrestrial/12013
 http://codes.wmo.int/wmdr/ProgramAffiliation/IDAF,http://codes.wmo.int/wmdr/ProgramAffiliation/INDAAF
 http://codes.wmo.int/wmdr/ProgramAffiliation/ESRLCCG,http://codes.wmo.int/wmdr/ProgramAffiliation/NOAAGML
@@ -115,6 +117,7 @@ http://codes.wmo.int/wmdr/unit/mg_N_l-1,http://codes.wmo.int/wmdr/unit/mg.l-1
 http://codes.wmo.int/wmdr/unit/mg_S_l-1,http://codes.wmo.int/wmdr/unit/mg.l-1
 http://codes.wmo.int/wmdr/unit/mg_m-3_25C,http://codes.wmo.int/wmdr/unit/mg.m-3
 http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/269,http://codes.wmo.int/wmdr/ObservingMethodAtmosphere/143
+http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/251,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12249
 http://codes.wmo.int/wmdr/ProgramAffiliation/CLIMATt,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 http://codes.wmo.int/wmdr/ProgramAffiliation/CLIMATct,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
 http://codes.wmo.int/wmdr/ProgramAffiliation/CLIMATc,http://codes.wmo.int/wmdr/ProgramAffiliation/RBON
