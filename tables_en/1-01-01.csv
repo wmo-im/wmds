@@ -44,7 +44,6 @@ notation,path/tags,name,description
 248,"\Atmosphere\Dynamics\Transport calculations (e.g., trajectories)","Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics\Turbulence,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics\Turbulence type (low levels and wake vortex),Turbulence type (low levels and wake vortex),
-251,\Atmosphere\Humidity\Humidity (at specified distance from reference surface),Humidity (at specified distance from reference surface),
 252,\Atmosphere\Humidity\Integrated water vapour,Integrated water vapour,
 253,\Atmosphere\Humidity\Mass mixing ratio,Mass mixing ratio,
 254,\Atmosphere\Humidity\Object wetness duration,Object wetness duration,
@@ -53,8 +52,8 @@ notation,path/tags,name,description
 258,\Atmosphere\Lightning\Lightning discharge polarity,Lightning discharge polarity,
 259,\Atmosphere\Lightning\Lightning discharge rates,Lightning discharge rates,
 260,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)","Lightning discharge type (cloud to cloud, cloud to surface)",
-265,\Atmosphere\Past weather\Past weather,Past weather,
-266,\Atmosphere\Present weather\Present weather,Present weather,
+265,atmosphere,Past weather,"Predominant characteristic of weather which had existed at the station during a given period of time. [source: Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"
+266,atmosphere,Present weather,"Weather existing at the time of observation, or under certain conditions, during the hour preceding the time of observation. [source: Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"
 267,\Atmosphere\Radiation\Background luminance,Background luminance,
 270,\Atmosphere\Radiation\Sunshine duration,Sunshine duration,
 271,\Atmosphere\Radiation\Surface albedo,Surface albedo,
@@ -662,4 +661,6 @@ notation,path/tags,name,description
 12246,"radionuclide",Tellurium [Te-131],"IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"
 12247,"radionuclide",Neodymium [Nd-137],"IUPAC: neodymium-137"
 12248,"particle phase, optical properties",Attenuated backscatter,"The product of the total volume backscatter coefficient and the atmospheric two-way transmission of the layers between the instrument and the observed volume. The total volume backscatter coefficient is the sum of all backscatter coefficients from the atmosphere (including from molecules and particles) accounting for all polarizations. The atmospheric two-way transmission accounts for the total volume (molecular and particulate and all polarizations) extinction along the path from the instrument to the observed volume and back."
-12249,"particle phase, optical properties, atmosphere",Relative attenuated backscatter,"The product of the total volume backscatter coefficient and the atmospheric two-way transmission of the layers between the instrument and the observed volume presented in arbitrary units. The total volume backscatter coefficient is the sum of all backscatter coefficients from the atmosphere (including from molecules and particles) accounting for all polarizations. The atmospheric two-way transmission accounts for the total volume (molecular and particulate and all polarizations) extinction along the path from the instrument to the observed volume and back. The value of this variable in presented in relative, arbitrary units to account for observations of attenuated backscatter lacking final absolute calibrations."
+12249,"atmosphere,humidity","Relative humidity (with respect to water)","The ratio of the amount fraction of the water vapour in the air to the corresponding amount fraction if the air were saturated with respect to water at a particular pressure and temperature. Relative humidity is typically reported in percent (%). [Based on definition of R1490 in International Vocabulary of Meteorology (WMO-No. 182). 1992.]"
+12250,"atmosphere,humidity","Specific humidity","The ratio of the mass of water vapour in the air to the mass of a moist air parcel, where the mass of the moist air parcel is the sum of the mass of water vapour and the dry air. Synonym: Moisture content. [Based on definition of M1750 in International Vocabulary of Meteorology (WMO-No. 182). 1992.]"
+12251,"particle phase, optical properties, atmosphere",Relative attenuated backscatter,"The product of the total volume backscatter coefficient and the atmospheric two-way transmission of the layers between the instrument and the observed volume presented in arbitrary units. The total volume backscatter coefficient is the sum of all backscatter coefficients from the atmosphere (including from molecules and particles) accounting for all polarizations. The atmospheric two-way transmission accounts for the total volume (molecular and particulate and all polarizations) extinction along the path from the instrument to the observed volume and back. The value of this variable in presented in relative, arbitrary units to account for observations of attenuated backscatter lacking final absolute calibrations."
