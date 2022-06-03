@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12270> a skos:Concept ;
+	rdfs:label "Sediment discharge" ;
+	skos:notation "12270" ;
+	dct:description "Rate of movement of sediments in a stream at a given cross-section. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

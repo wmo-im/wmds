@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12262> a skos:Concept ;
+	rdfs:label "Infiltration capacity" ;
+	skos:notation "12262" ;
+	dct:description "Maximum rate at which water can penetrate the soil matrix per unit area under certain conditions. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12250> a skos:Concept ;
+	rdfs:label "Index velocity" ;
+	skos:notation "12250" ;
+	dct:description "Velocity measured along a direction across the stream (acoustic principles) or over the water surface  (radar, image velocimetry). [Based on 'velocity index method' in Manual on Stream Gauging (WMO-No. 1044), Volume II. 2010.]"@en	.

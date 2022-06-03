@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12273> a skos:Concept ;
+	rdfs:label "Total sediment load" ;
+	skos:notation "12273" ;
+	dct:description "Total quantity of sediment passing through a reach, both in suspension and along the bed, excluding the sediment deposited on the bed within the reach. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12253> a skos:Concept ;
+	rdfs:label "Percolation rate" ;
+	skos:notation "12253" ;
+	dct:description "Flow of a liquid through an unsaturated porous medium, such as that of water in soil under the effect of gravity for a unit time. [Based on 'percolation' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
