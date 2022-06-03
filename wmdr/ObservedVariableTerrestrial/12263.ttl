@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12263> a skos:Concept ;
+	rdfs:label "Specific capacity (well)" ;
+	skos:notation "12263" ;
+	dct:description "Ratio of discharge of a well to drawdown at equilibrium. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12268> a skos:Concept ;
+	rdfs:label "Suspended sediment" ;
+	skos:notation "12268" ;
+	dct:description "The component of an unacidified water sample that is retained by a 0.45-nm membrane filter. [Manual on Water Quality Monitoring (WMO-No. 680). 1988]"@en	.

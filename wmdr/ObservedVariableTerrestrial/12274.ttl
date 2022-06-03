@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12274> a skos:Concept ;
+	rdfs:label "Runoff" ;
+	skos:notation "12274" ;
+	dct:description "That part of the precipitation which flows towards a river on the ground surface (surface runoff) or within the soil (subsurface runoff or interflow). [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

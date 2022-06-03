@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <165> a skos:Concept ;
-	rdfs:label "Ground water (amount per unit area)" ;
+	rdfs:label "Groundwater (amount per unit area)" ;
 	skos:notation "165" ;
 	dct:description "Amount of water present beneath the ground surface per unit area."@en	.
