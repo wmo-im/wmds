@@ -5,4 +5,4 @@
 <200> a skos:Concept ;
 	rdfs:label "Tensiometer" ;
 	skos:notation "200" ;
-	dct:description ""@en	.
+	dct:description "Measurement of soil capillary tension by means of a porous cup, inserted in the soil, connected to a manometer by a water-filled tube. [Based on 'tensiometer' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

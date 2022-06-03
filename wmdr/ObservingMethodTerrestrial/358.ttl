@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<358> a skos:Concept ;
+	rdfs:label "Float gauging" ;
+	skos:notation "358" ;
+	dct:description "Measurement of the velocity of a stream by means of timing the downstream transit of a float or velocity rod. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

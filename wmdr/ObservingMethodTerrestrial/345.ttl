@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<345> a skos:Concept ;
+	rdfs:label "Echo sounding" ;
+	skos:notation "345" ;
+	dct:description "Evaluation of the return time of acoustic waves emitted into a medium to determine the distance between source and target. This method is used in hydrology, for example, to determine the depth of a water body. [Based on 'echo sounder' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

@@ -5,4 +5,4 @@
 <159> a skos:Concept ;
 	rdfs:label "Neutron probe" ;
 	skos:notation "159" ;
-	dct:description ""@en	.
+	dct:description "Measurement of the moisture content and hence the porosity of a geological formation by means of lowering a tool containing a radioactive element emitting neutrons and a neutron detector into a borehole. [Based on 'neutron logging' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

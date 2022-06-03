@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<360> a skos:Concept ;
+	rdfs:label "Slope-area method" ;
+	skos:notation "360" ;
+	dct:description "Determination of the discharge in a reach which is based on the surface slope, the reach roughness, the wetted perimeters and the flow areas of the various wetted cross-sections in the reach. [Based on 'slope-area method' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

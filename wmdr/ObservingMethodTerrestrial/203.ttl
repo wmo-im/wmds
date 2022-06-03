@@ -5,4 +5,4 @@
 <203> a skos:Concept ;
 	rdfs:label "Time domain reflectometry (TDR)" ;
 	skos:notation "203" ;
-	dct:description ""@en	.
+	dct:description "Estimation of water content in unsaturated materials based on variations in their dielectric properties. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

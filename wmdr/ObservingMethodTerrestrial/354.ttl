@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<354> a skos:Concept ;
+	rdfs:label "Recording gauge" ;
+	skos:notation "354" ;
+	dct:description "Determination of water stage by means of a recording gauge, for example, a device that automatically records the water level as detected by a sensor, either continuously or at regular time intervals. Synonyms: limnigraph, stage recorder, water-level recorder. [Based on 'water-level recorder' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

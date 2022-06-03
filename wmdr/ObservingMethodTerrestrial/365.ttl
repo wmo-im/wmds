@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<365> a skos:Concept ;
+	rdfs:label "Cup-type current meter" ;
+	skos:notation "365" ;
+	dct:description "Determination of water velocity by means of a current meter whose rotor is composed of a wheel fitted with cups turning on a vertical axis. [Based on 'cup-type current meter' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
