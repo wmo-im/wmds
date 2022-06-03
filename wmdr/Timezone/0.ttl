@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<0> a skos:Concept ;
+	rdfs:label "UTC±00:00" ;
+	skos:notation "0" ;
+	dct:description "Timezone with a UTC offset of UTC±00:00 hours. Locations in this timezone include Atlantic/Canary, Atlantic/St_Helena, Atlantic/Faroe, Atlantic/Reykjavik, Atlantic/Faeroe, Atlantic/Madeira, Africa/Abidjan, Etc/GMT+0, Universal, UTC, UCT, Portugal, Iceland, Greenwich, GMT0, GMT-0, GMT+0, GMT, GB-Eire, GB, Europe/London, Europe/Lisbon, Europe/Jersey, Europe/Isle_of_Man, Europe/Guernsey, Europe/Belfast, Etc/Zulu, Etc/Universal, Etc/UTC, Etc/UCT, Etc/Greenwich, Etc/GMT0, Etc/GMT-0, Etc/GMT, WET, Zulu, Africa/Lome, Antarctica/Troll, Africa/Dakar, America/Danmarkshavn, Africa/Freetown, Africa/Bissau, Africa/Banjul, Africa/Bamako, Africa/Nouakchott, Africa/Conakry, Africa/Ouagadougou, Africa/Monrovia, Africa/Timbuktu, Africa/Accra, Africa/Sao_Tome."@en	.

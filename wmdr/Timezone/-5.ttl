@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<-5> a skos:Concept ;
+	rdfs:label "UTC-05:00" ;
+	skos:notation "-5" ;
+	dct:description "Timezone with a UTC offset of UTC-05:00 hours. Locations in this timezone include America/Indiana/Petersburg, America/Indiana/Vincennes, America/Indiana/Vevay, America/Jamaica, America/Indiana/Marengo, Cuba, America/Iqaluit, America/Indianapolis, America/Indiana/Winamac, America/Toronto, America/Kentucky/Louisville, America/Kentucky/Monticello, America/Lima, America/Louisville, America/Montreal, America/Nassau, America/New_York, America/Nipigon, America/Panama, America/Pangnirtung, America/Port-au-Prince, America/Porto_Acre, America/Indiana/Indianapolis, America/Thunder_Bay, Etc/GMT+5, America/Rio_Branco, America/Guayaquil, EST5EDT, America/Havana, America/Cancun, America/Detroit, America/Eirunepe, America/Coral_Harbour, America/Fort_Wayne, Brazil/Acre, Canada/Eastern, America/Bogota, US/East-Indiana, America/Atikokan, America/Grand_Turk, US/Eastern, US/Michigan, EST, America/Cayman, Jamaica."@en	.
