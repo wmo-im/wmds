@@ -9,6 +9,7 @@
 1-05,Representativeness,http://codes.wmo.int/wmdr/Representativeness
 1-06,Particle size range,http://codes.wmo.int/wmdr/ParticleSizeRange
 1-07-01,Domain,http://codes.wmo.int/wmdr/Domain
+1-07-02,Matrix,http://codes.wmo.int/wmdr/Matrix
 2-01,Application areas,http://codes.wmo.int/wmdr/ApplicationArea
 2-02,Programme/network affiliation,http://codes.wmo.int/wmdr/ProgramAffiliation
 3-01,Region of origin of data,http://codes.wmo.int/wmdr/WMORegion
