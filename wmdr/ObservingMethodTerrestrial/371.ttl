@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<371> a skos:Concept ;
+	rdfs:label "Gravimetric sediment measurement" ;
+	skos:notation "371" ;
+	dct:description "Estimation of the total sediment in a water sample by allowing the sediment to settle in a container, siphoning off the supernatant water, carefully transferring all the sediment from the container on to filter paper, then drying the sample and determining the mass of total sediment. [Based on 'gravimetric method' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

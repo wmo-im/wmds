@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<372> a skos:Concept ;
+	rdfs:label "Displacement method of sediments" ;
+	skos:notation "372" ;
+	dct:description "Determination of sediment concentration by the measurement of the difference in weight between a sample of sediment-laden water and an equal volume of clear water at the same temperature. [Based on 'displacement method' in Manual on Sediment Management and Measurement (WMO-No. 948). 2003.]"@en	.

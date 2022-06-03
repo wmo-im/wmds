@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<370> a skos:Concept ;
+	rdfs:label "Optical or nuclear suspended-sediment gauge" ;
+	skos:notation "370" ;
+	dct:description "Determination of the decrease of intensity of a visible light or X-rays beam by means of a photoelectric or nuclear detector situated at constant distance from the source of the beam. This decrease, caused by the scattering and/or absorption by suspended-sediment particles, is proportional to the sediment concentration, if other relevant characteristics of water and sediment (chemical, mineral composition, etc.) remain unchanged. [Based on 'photoelectric or nuclear suspended-sediment gauges' in Guide to Hydrological Practices (WMO-No. 168), Volume I. 2008 edition, updated in 2020.]"@en	.

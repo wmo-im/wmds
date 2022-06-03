@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <187> a skos:Concept ;
-	rdfs:label "Resistance block tensiometer" ;
+	rdfs:label "Electrical resistance blocks (Porous blocks)" ;
 	skos:notation "187" ;
-	dct:description ""@en	.
+	dct:description "Determination of electrical resistance between two electrodes embedded in blocks of a porous material buried in the ground and in equilibrium with the surrounding moist soil. [Based on 'porous blocks/electrical resistance blocks' in Guide to Hydrological Practices (WMO-No. 168), Volume II. 2009 edition.]"@en	.
