@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<364> a skos:Concept ;
+	rdfs:label "Water current meter" ;
+	skos:notation "364" ;
+	dct:description "Determination of water velocity by means of a current meter, for example, an instrument for measuring water velocity. Synonym: flowmeter. [Based on 'current meter' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
