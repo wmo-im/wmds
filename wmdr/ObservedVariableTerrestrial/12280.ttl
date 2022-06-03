@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12280> a skos:Concept ;
+	rdfs:label "Lake volume" ;
+	skos:notation "12280" ;
+	dct:description "Volume of water contained in a lake at a given water level. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

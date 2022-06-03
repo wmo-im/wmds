@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12267> a skos:Concept ;
+	rdfs:label "Total dissolved solids" ;
+	skos:notation "12267" ;
+	dct:description "The concentration of all dissolved substances in water, usually expressed in milligrams per litre, which would remain as a solid residue after removal of the water. [Manual on Water Quality Monitoring (WMO-No. 680). 1988]"@en	.

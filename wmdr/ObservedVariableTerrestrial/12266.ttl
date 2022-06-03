@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12266> a skos:Concept ;
+	rdfs:label "Storage" ;
+	skos:notation "12266" ;
+	dct:description "(1) Impounding of water in surface or underground reservoirs for future use. (2) Volume of water stored. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

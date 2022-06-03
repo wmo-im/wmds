@@ -5,4 +5,4 @@
 <527> a skos:Concept ;
 	rdfs:label "Soil moisture (in the roots region)" ;
 	skos:notation "527" ;
-	dct:description "Sub-soil 3D field of the fractional content of water in a volume of wet soil. Typically in a layer from the surface down to approximately 3m."@en	.
+	dct:description "Fractional content of water in a volume of wet soil. Typically in a layer from the surface down to approximately 3 meters."@en	.

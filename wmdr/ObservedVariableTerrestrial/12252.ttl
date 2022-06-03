@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12252> a skos:Concept ;
+	rdfs:label "Water level" ;
+	skos:notation "12252" ;
+	dct:description "Elevation of the free water surface of a water body relative to a reference datum (synonym: stage, gage height). [Based on ‘water level’ in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

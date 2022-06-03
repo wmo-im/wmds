@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12255> a skos:Concept ;
+	rdfs:label "Aquifer volume" ;
+	skos:notation "12255" ;
+	dct:description "Volume of geological formation capable of storing, transmitting and yielding exploitable quantities of water. [Based on 'aquifer' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
