@@ -50,7 +50,7 @@ readme_tpl = Template("""**Project name:** WMDS Codetables English
 $payload
 """)
 
-readme_line_tpl = Template("""* [$number.csv](./tables_en/$number.csv) [$abbreviation]($url) $name\n""")
+readme_line_tpl = Template("""* [$number.csv](./$number.csv) [$abbreviation]($url) $name\n""")
 
 class Codelist:
 
