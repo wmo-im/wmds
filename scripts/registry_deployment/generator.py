@@ -50,7 +50,7 @@ readme_tpl = Template("""**Project name:** WMDS Codetables English
 $payload
 """)
 
-readme_line_tpl = Template("""[$number.csv](./tables_en/$number.csv) [$abbreviation]($url) $name\n""")
+readme_line_tpl = Template("""* [$number.csv](./tables_en/$number.csv) [$abbreviation]($url) $name\n""")
 
 class Codelist:
 
@@ -259,10 +259,10 @@ def createReadme():
     missing_in_csv = set( csvfiles ).difference( set(codes.keys()) )
 
     if len(missing_files)>0:
-        raise ValueError("{} are referenced in wmrd-tables.csv but do not exist ".format( ",".join([ "{}.csv".format(f) for f in missing_files ] ) ))
+        raise ValueError("{} are referenced in wmdr-tables.csv but do not exist ".format( ",".join([ "{}.csv".format(f) for f in missing_files ] ) ))
         
     if len(missing_in_csv)>0:
-        raise ValueError("{} are in filesystem but not referenced in wmrd-tables.csv ".format( ",".join( [ "{}.csv".format(f) for f in missing_in_csv ] ) ) )
+        raise ValueError("{} are in filesystem but not referenced in wmdr-tables.csv ".format( ",".join( [ "{}.csv".format(f) for f in missing_in_csv ] ) ) )
         
 
     return str(readme_tpl.substitute(payload=temp))
