@@ -2,7 +2,7 @@
 1-01-02,Observed variable - measurand (earth),http://codes.wmo.int/wmdr/ObservedVariableEarth
 1-01-03,Observed variable - measurand (ocean),http://codes.wmo.int/wmdr/ObservedVariableOcean
 1-01-04,Observed variable - measurand (outer space),http://codes.wmo.int/wmdr/ObservedVariableOuterSpace
-1-01-05,Observed variable - measurand (terrestrial),http://codes.wmo.int/wmdr/ObservedVariableTerrestrial
+1-01-05,Observed variable - measurand (terrestrial and hydrological),http://codes.wmo.int/wmdr/ObservedVariableTerrestrial
 1-01-06,Domain,http://codes.wmo.int/wmdr/Domain
 1-01-07,Matrix,http://codes.wmo.int/wmdr/Matrix
 1-02,Measurement unit,http://codes.wmo.int/wmdr/unit
@@ -36,7 +36,7 @@
 4-07,Climate zone,http://codes.wmo.int/wmdr/ClimateZone
 5-01,Source of observation,http://codes.wmo.int/wmdr/SourceOfObservation
 5-02-01,Measurement/observing method (atmosphere),http://codes.wmo.int/wmdr/ObservingMethodAtmosphere
-5-02-05,Measurement/observing method (terrestrial),http://codes.wmo.int/wmdr/ObservingMethodTerrestrial
+5-02-05,Measurement/observing method (terrestrial and hydrological),http://codes.wmo.int/wmdr/ObservingMethodTerrestrial
 5-03-01,Polarization of electromagnetic radiation,http://codes.wmo.int/wmdr/Polarization
 5-03-02,Frequency use of electromagnetic radiation,http://codes.wmo.int/wmdr/FrequencyUse
 5-03-03, Purpose of frequency use,http://codes.wmo.int/wmdr/PurposeOfFrequencyUse
