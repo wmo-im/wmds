@@ -671,4 +671,4 @@ notation,path/tags,name,description
 12255,"atmosphere, remote sensing, level 1, optical properties","(Atmospheric) Refractivity","Refractive index (of air) minus one. Particularly used for GNSS radio occultation observations."
 12256,"atmosphere, remote sensing, level 1","Slant total delay (STD)","Time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum."
 12257,"atmosphere, remote sensing, level 1","Zenith total delay (ZTD)","Time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum, and scaled to refer to the equivalent vertical path."
-12258,"atmosphere, remote sensing, level 1","Delay Doppler map	(GNSS reflectometry)","2D array of backscatter coefficients as a function of Doppler shift and signal delay.
+12258,"atmosphere, remote sensing, level 1","Delay Doppler map	(GNSS reflectometry)","2D array of backscatter coefficients as a function of Doppler shift and signal delay."
