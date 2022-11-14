@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <172> a skos:Concept ;
-	rdfs:label "River stage (level above reference)" ;
+	rdfs:label "Stream level" ;
 	skos:notation "172" ;
-	dct:description ""@en	.
+	dct:description "Elevation of the free water surface of a water body flowing in an open or closed conduit. [Based on 'water level'and 'stream' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

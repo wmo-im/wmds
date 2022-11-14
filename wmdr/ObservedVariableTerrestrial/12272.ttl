@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12272> a skos:Concept ;
+	rdfs:label "Suspended sediment load" ;
+	skos:notation "12272" ;
+	dct:description "That part of the total transported sediment which is suspended by turbulence in the flowing water for considerable periods of time without contact with the stream bed, moving with almost the same velocity as the flowing water and generally expressed in mass or volume per unit of time. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

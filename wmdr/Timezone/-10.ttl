@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<-10> a skos:Concept ;
+	rdfs:label "UTC-10:00" ;
+	skos:notation "-10" ;
+	dct:description "Timezone with a UTC offset of UTC-10:00 hours. Locations in this timezone include Pacific/Honolulu, Pacific/Tahiti, America/Atka, US/Aleutian, Pacific/Johnston, Pacific/Rarotonga, US/Hawaii, Etc/GMT+10, America/Adak, HST."@en	.

@@ -5,4 +5,4 @@
 <168> a skos:Concept ;
 	rdfs:label "Lake level" ;
 	skos:notation "168" ;
-	dct:description "Map of the height of the lake surface."@en	.
+	dct:description "Elevation of water in an inland body of surface water of significant extent. [Based on 'water level' and 'lake' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12257> a skos:Concept ;
+	rdfs:label "Hydraulic transmissivity" ;
+	skos:notation "12257" ;
+	dct:description "Rate at which water is transferred through a unit width of an aquifer under a unit hydraulic gradient. [Based on 'transmissivity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

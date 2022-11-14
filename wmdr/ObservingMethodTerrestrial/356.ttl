@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<356> a skos:Concept ;
+	rdfs:label "Pressure-actuated recording gauge" ;
+	skos:notation "356" ;
+	dct:description "Recording gauge operating on the principle that static pressure at a fixed point in the stream is directly proportional to the head of liquid above the point, i.e. the water level is proportional to the pressure difference between a fixed spot in the water column and the atmospheric pressure. [Based on 'Recording gauges' in Guide to Hydrological Practices (WMO-No. 168), Volume I. 2008 edition, updated in 2020.]"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<361> a skos:Concept ;
+	rdfs:label "Measuring weir" ;
+	skos:notation "361" ;
+	dct:description "Determination of the discharge of a stream by means of a device or structure across the stream which causes a free or submerged fall. [Based on 'measuring weir' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

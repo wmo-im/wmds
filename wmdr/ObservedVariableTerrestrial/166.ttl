@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <166> a skos:Concept ;
-	rdfs:label "Ground water (level)" ;
+	rdfs:label "Groundwater level" ;
 	skos:notation "166" ;
-	dct:description ""@en	.
+	dct:description "Elevation of the water table or piezometric surface of an aquifer at a certain location and time. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
