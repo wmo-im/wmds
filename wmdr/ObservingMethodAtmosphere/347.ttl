@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <347> a skos:Concept ;
-	rdfs:label "trace gases" ;
+	rdfs:label "Tunable Infrared Laser Differential Absorption Spectroscopy (TILDAS)" ;
 	skos:notation "347" ;
-	dct:description "in situ"@en	.
+	dct:description "Tunable Infrared Laser Differential Absorption Spectroscopy (TILDAS)."@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <348> a skos:Concept ;
-	rdfs:label "trace gases" ;
+	rdfs:label "Radionuclide decay counting [general]" ;
 	skos:notation "348" ;
-	dct:description "in situ"@en	.
+	dct:description "Determination of the counts measured per unit time as a result of radionuclide decay."@en	.
