@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12260> a skos:Concept ;
+	rdfs:label "Specific retention" ;
+	skos:notation "12260" ;
+	dct:description "Amount of water held in the soil after gravitational water has drained away expressed as a volume percentage. [Based on 'specific retention' and 'field capacity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

@@ -6,5 +6,5 @@
 
 <ObservedVariableTerrestrial> a reg:Register , skos:Collection , ldp:Container  ;
 	ldp:hasMemberRelation skos:member ;
-	rdfs:label "Observed variable - measurand (terrestrial)" ;
-	dct:description "Observed variable - measurand (terrestrial)" .
+	rdfs:label "Observed variable - measurand (terrestrial and hydrological)" ;
+	dct:description "Observed variable - measurand (terrestrial and hydrological)" .

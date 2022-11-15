@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12276> a skos:Concept ;
+	rdfs:label "Depth of runoff" ;
+	skos:notation "12276" ;
+	dct:description "Runoff volume from a drainage basin, divided by its area, in a specified time. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

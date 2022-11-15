@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12279> a skos:Concept ;
+	rdfs:label "Reservoir storage" ;
+	skos:notation "12279" ;
+	dct:description "Volume of a reservoir including dead storage. Synonym: total storage. [Based on 'total storage' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

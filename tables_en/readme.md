@@ -8,7 +8,9 @@
 * [1-01-02.csv](./1-01-02.csv) [ObservedVariableEarth](http://codes.wmo.int/wmdr/ObservedVariableEarth) Observed variable - measurand (earth)
 * [1-01-03.csv](./1-01-03.csv) [ObservedVariableOcean](http://codes.wmo.int/wmdr/ObservedVariableOcean) Observed variable - measurand (ocean)
 * [1-01-04.csv](./1-01-04.csv) [ObservedVariableOuterSpace](http://codes.wmo.int/wmdr/ObservedVariableOuterSpace) Observed variable - measurand (outer space)
-* [1-01-05.csv](./1-01-05.csv) [ObservedVariableTerrestrial](http://codes.wmo.int/wmdr/ObservedVariableTerrestrial) Observed variable - measurand (terrestrial)
+* [1-01-05.csv](./1-01-05.csv) [ObservedVariableTerrestrial](http://codes.wmo.int/wmdr/ObservedVariableTerrestrial) Observed variable - measurand (terrestrial and hydrological)
+* [1-01-06.csv](./1-01-06.csv) [Domain](http://codes.wmo.int/wmdr/Domain) Domain
+* [1-01-07.csv](./1-01-07.csv) [Matrix](http://codes.wmo.int/wmdr/Matrix) Matrix
 * [1-02.csv](./1-02.csv) [unit](http://codes.wmo.int/wmdr/unit) Measurement unit
 * [1-04.csv](./1-04.csv) [Geometry](http://codes.wmo.int/wmdr/Geometry) Geometry
 * [1-04-02.csv](./1-04-02.csv) [ObservedLayer](http://codes.wmo.int/wmdr/ObservedLayer) Layer of observation
@@ -39,7 +41,7 @@
 * [4-07.csv](./4-07.csv) [ClimateZone](http://codes.wmo.int/wmdr/ClimateZone) Climate zone
 * [5-01.csv](./5-01.csv) [SourceOfObservation](http://codes.wmo.int/wmdr/SourceOfObservation) Source of observation
 * [5-02-01.csv](./5-02-01.csv) [ObservingMethodAtmosphere](http://codes.wmo.int/wmdr/ObservingMethodAtmosphere) Measurement/observing method (atmosphere)
-* [5-02-05.csv](./5-02-05.csv) [ObservingMethodTerrestrial](http://codes.wmo.int/wmdr/ObservingMethodTerrestrial) Measurement/observing method (terrestrial)
+* [5-02-05.csv](./5-02-05.csv) [ObservingMethodTerrestrial](http://codes.wmo.int/wmdr/ObservingMethodTerrestrial) Measurement/observing method (terrestrial and hydrological)
 * [5-03-01.csv](./5-03-01.csv) [Polarization](http://codes.wmo.int/wmdr/Polarization) Polarization of electromagnetic radiation
 * [5-03-02.csv](./5-03-02.csv) [FrequencyUse](http://codes.wmo.int/wmdr/FrequencyUse) Frequency use of electromagnetic radiation
 * [5-03-03.csv](./5-03-03.csv) [PurposeOfFrequencyUse](http://codes.wmo.int/wmdr/PurposeOfFrequencyUse)  Purpose of frequency use
@@ -65,4 +67,6 @@
 * [11-01.csv](./11-01.csv) [GeopositioningMethod](http://codes.wmo.int/wmdr/GeopositioningMethod) Coordinates source/service
 * [11-02.csv](./11-02.csv) [CoordinateReferenceSystem](http://codes.wmo.int/wmdr/CoordinateReferenceSystem) Coordinates reference
 * [11-03.csv](./11-03.csv) [TimeStampMeaning](http://codes.wmo.int/wmdr/TimeStampMeaning) Meaning of time stamp
+* [11-04.csv](./11-04.csv) [Timezone](https://codes.wmo.int/wmdr/Timezone) Timezone
+* [superseded.csv](./superseded.csv) [wmdr](https://codes.wmo.int/wmdr) Multiple tables
 

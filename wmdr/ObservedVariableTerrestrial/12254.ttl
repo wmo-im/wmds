@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12254> a skos:Concept ;
+	rdfs:label "Recharge rate" ;
+	skos:notation "12254" ;
+	dct:description "Natural or artificial introduction of water into the saturated zone of an aquifer for a unit time. [Based on 'groundwater recharge' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

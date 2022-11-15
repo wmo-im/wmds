@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<373> a skos:Concept ;
+	rdfs:label "Water discharge-sediment discharge rating curve" ;
+	skos:notation "373" ;
+	dct:description "An empirical relationship relating sediment discharge and streamflow based on correlation analysis of sediment samples and concurrent flow estimates and presented as a curve, table, or equation. [Based on 'sediment rating curve' in Guide to Hydrological Practices (WMO-No. 168), Volume I. 2008 edition, updated in 2020.]"@en	.

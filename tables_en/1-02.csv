@@ -3,7 +3,7 @@ notation,name,description
 ',minute (angle),"Unit of plane or phase angle, accepted for use with SI: 1 ' = (pi/10800) rad"
 '',second (angle),"Unit of plane or phase angle, accepted for use with SI: 1 '' = (pi/648000) rad"
 A,ampere,SI base unit of electric current
-a,year,"Conventional unit of time, equivalent to 31536000 s"
+a,year,"Conventional unit of time duration, ranging from 365 days to 366 days"
 AU,astronomical unit,"Unit of length, accepted for use with SI: 1 AU = 149597870700 m, roughly the distance from Earth to the Sun"
 Bq,becquerel,SI derived unit of radioactivity; SI base unit equivalent: s-1
 Bq.l-1,becquerel per litre,Unit of radioactivity concentration; SI base unit equivalent: 0.001 s-1.m-3
@@ -127,6 +127,7 @@ mol,mole,SI base unit of amount of substance
 mol.mol-1,mole per mole,SI derived unit of mole fraction; SI base unit equivalent: 1
 mon,month,Conventional unit of time duration of between 28-31 days whereby 12 months amount to one year
 MPN.ml-1,most probable number index number in 1 millilitre,Unit of expected number concentration of bacteria in the original sample based upon the statistical probability of the coincidence of microorganisms in each sample replicate
+mS.cm-1,millisiemens per centimetre,"SI derived unit of spatial gradient of electrical conductance; SI base equivalent: 0.1 S.m-1"
 mSv,millisievert,SI derived unit of equivalent dose (of ionizing radiation); SI base unit equivalent: 0.001 m2.s-2
 mV,millivolt,"SI derived unit of voltage, electrical potential difference, electromotive force; SI base unit equivalent: 0.001 m2.kg.s-3.A-1"
 N,newton,"SI derived unit of force, weight"

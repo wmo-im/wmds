@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<cloudParticle> a skos:Concept ;
+	rdfs:label "Cloud particle" ;
+	skos:notation "cloudParticle" ;
+	dct:description "Ice particle or liquid droplet present in a cloud. The particles of water, either drops of liquid water or ice crystals, which form a cloud. [International meteorological vocabulary (WMO-No. 182). 1992 (2nd ed.)]"@en	.

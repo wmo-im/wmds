@@ -1,0 +1,17 @@
+notation,name,description,tags
+aerosol,Aerosol,"Suspension of fine solid particles or liquid droplets in air or another gas. [William C. Hinds, Aerosol Technology]",atmosphere
+aquifer,Aquifer,"A hydraulically continuous body of relatively permeable unconsolidated porous sediments or porous or fissured rocks containing groundwater. It is capable of yielding exploitable quantities of groundwater.[UN-IGRAC]",terrestrial
+cloudParticle,Cloud particle,"Ice particle or liquid droplet present in a cloud. The particles of water, either drops of liquid water or ice crystals, which form a cloud. [International meteorological vocabulary (WMO-No. 182). 1992 (2nd ed.)]",atmosphere
+dryDeposition,Dry deposition,"The sum of atmospheric trace gases and particulate matter removed from the atmosphere by sedimentation, turbulence or diffusion.",atmosphere
+gasPhase,Gas phase,"Physical state of matter, also called vapour phase. Molecules are sufficiently far apart to overcome attractive forces and to fill all available space almost uniformly.","atmosphere, earth, marine, terrestrial, space"
+groundwater,Groundwater,"Subsurface water occupying the saturated zone.[International Glossary of Hydrology (WMO-No. 385). 2012.]",hydrological
+interstitialAir,Interstitial air,"Air trapped in small cavities in a solid matrix, e.g. snow, ice, soil, bedrock or similar.","terrestrial, cryosphere"
+interstitialWater,Interstitial water,"Water contained in the voids of porous or fractured media. [International Glossary of Hydrology (WMO-No. 385). 2012.]","terrestrial, cryosphere, hydrological"
+liquidPhase,Liquid phase,"A physical state of matter. In liquids, molecules flow easily around each other but are held together by attractive forces. Liquids assume the shape of their containers or appear as droplets in an aerosol.","atmosphere, earth, marine, terrestrial"
+particlePhase,Particle phase,"Liquid or solid particles, or liquid particles with a solid core suspended in a matrix in a different aggregation state.","atmosphere, terrestrial, marine, space"
+snow,Snow,"A porous, sintered material consisting of an ice structure and a continuously connected pore space, which contains air and potentially liquid water.","terrestrial, atmosphere, cryosphere, hydrological"
+soil,Soil,"Unconsolidated material, containing living and inert organic and mineral components, lying directly on the surface of the Earth and which enables vegetation to grow","terrestrial, cryosphere, hydrological"
+suspendedMatter,Suspended matter,"Solid matter suspended in a liquid or gas, or droplets of liquid suspended in gas. In solids, molecules are arranged in a regular pattern, firmly held in place and only able to vibrate within a limited space.","terrestrial, cryosphere, hydrological, marine"
+totalDeposition,Total deposition,The sum of dry and wet deposition.,"atmosphere, terrestrial, marine"
+wetDeposition,Wet deposition,"The sum of atmospheric trace gases and particulate matter removed from the atmosphere after suspension in atmospheric water and washed out through rain, snow or fog.","atmosphere, terrestrial, marine"
+permafrost,Permafrost,Subsurface material that remains continuously at or below 0 degree Celsius throughout at least two consecutive years.,"terrestrial, cryosphere"

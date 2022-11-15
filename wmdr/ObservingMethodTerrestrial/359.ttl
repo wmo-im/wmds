@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<359> a skos:Concept ;
+	rdfs:label "Dilution gauging" ;
+	skos:notation "359" ;
+	dct:description "Determination of the discharge of a stream by measuring the degree of dilution, caused by the flowing water, of an added tracer solution. Synonyms: chemical gauging, tracer dilution gauging. [Based on 'dilution gauging' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

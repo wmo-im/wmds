@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<363> a skos:Concept ;
+	rdfs:label "Stage-discharge relation" ;
+	skos:notation "363" ;
+	dct:description "Determination of the discharge of a stream by means of a relationship between water level and discharge for a given cross-section, which may be expressed as a curve, a table or an equation. [Based on 'stage-discharge relation' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

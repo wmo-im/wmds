@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <343> a skos:Concept ;
-	rdfs:label "Polarized lidar" ;
+	rdfs:label "Fog collection" ;
 	skos:notation "343" ;
-	dct:description "Light detection and ranging (lidar) capable of determining the linear or circular depolarization ratio, typically used to discriminate spherical and non-spherical particles."@en	.
+	dct:description "Collection of fog using a mesh or similar capturing device and subsequent determination of the equivalent volume or mass of water."@en	.

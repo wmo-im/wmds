@@ -13,8 +13,6 @@ AlaskaLTERGlider,\Co-sponsored\GOOS\OceanGliders\NSF Northern Gulf of Alaska Lon
 AlseamarGlider,\Co-sponsored\GOOS\OceanGliders\Alseamar scientific glider program,Alseamar scientific glider program,Open Glider program of the French Manufacturer Alseamar
 AlterECOGlider,\Co-sponsored\GOOS\OceanGliders\Alter_Eco glider program,Alter_Eco glider program,An Alternative Framework to Assess Marine Ecosystem Functioning in Shelf Seas
 AMDAR,\WIGOS\GOS\GOS Other elements\ABOS\AMDAR,AMDAR,Aircraft Meteorological DAta Relay
-ANTONs,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(S),ANTON(S),Antarctic Observing Network surface station
-ANTONt,\WIGOS\GOS\GOS Surface networks\ANTON\ANTON(T),ANTON(T),Antarctic Observing Network upper-air station (TEMP)
 AOML,\Co-sponsored\GOOS\DBCP\AOML,AOML,NA
 AOMLeSurfmar,\Co-sponsored\GOOS\DBCP\AOML-E-SURFMAR,AOML-E-SURFMAR,NA
 AOMLGlider,\Co-sponsored\GOOS\OceanGliders\AOML Glider Program,AOML Glider Program,AOML Glider program is part of the CARICOOS Network
@@ -159,9 +157,6 @@ centennialObservingstations,,Centennial Observing Stations,"Long-term meteorolog
 CEOASGlider,\Co-sponsored\GOOS\OceanGliders\CEOAS glider program,CEOAS glider program,"College of Earth, Ocean, and Atmospheric Sciences glider program contribute to the CeNCOOS is the Central and Northern California Ocean Observing System."
 Challenger,\Co-sponsored\GOOS\OceanGliders\Challenger,Challenger,The Silbo Challenger mission is a partnership between industry and academia.
 CIS-LiNet,\WIGOS\GAW\GAW Other elements\CIS-LiNet,CIS-LiNet,Atmosphere aerosol and ozone monitoring in CIS regions through lidar stations network
-CLIMATc,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(C),CLIMAT(C),Station for which monthly climatological means of surface elements are transmitted
-CLIMATct,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(CT),CLIMAT(CT),Station for which monthly climatological means of both surface and upper- air elements are transmitted
-CLIMATt,\WIGOS\GOS\GOS Surface networks\RBCN\CLIMAT(T),CLIMAT(T),Station for which monthly climatological means of upper-air elements are transmitted
 CLN,\WIGOS\GAW\GAW Other elements\CLN,CLN,The NOAA Cooperative Remote Sensing Science and Technology (CREST) Lidar network
 colombiaTSU,\Co-sponsored\GOOS\DBCP\COLOMBIA-TSU,COLOMBIA-TSU,Colombia Tsunameter buoy
 COMPSMB,\Co-sponsored\GOOS\DBCP\COMPS-MB,COMPS-MB,Owned and maintained by COMPS (University of South Florida) Offshore Buoy
