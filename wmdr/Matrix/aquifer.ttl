@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<aquifer> a skos:Concept ;
+	rdfs:label "Aquifer" ;
+	skos:notation "aquifer" ;
+	dct:description "A hydraulically continuous body of relatively permeable unconsolidated porous sediments or porous or fissured rocks containing groundwater. It is capable of yielding exploitable quantities of groundwater.[UN-IGRAC]"@en	.

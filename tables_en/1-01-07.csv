@@ -14,4 +14,4 @@ soil,Soil,"Unconsolidated material, containing living and inert organic and mine
 suspendedMatter,Suspended matter,"Solid matter suspended in a liquid or gas, or droplets of liquid suspended in gas. In solids, molecules are arranged in a regular pattern, firmly held in place and only able to vibrate within a limited space.","terrestrial, cryosphere, hydrological, marine"
 totalDeposition,Total deposition,The sum of dry and wet deposition.,"atmosphere, terrestrial, marine"
 wetDeposition,Wet deposition,"The sum of atmospheric trace gases and particulate matter removed from the atmosphere after suspension in atmospheric water and washed out through rain, snow or fog.","atmosphere, terrestrial, marine"
-permafrost,Permafrost,Subsurface material that remains continuously at or below 0 °C throughout at least two consecutive years.,"terrestrial, cryosphere"
+permafrost,Permafrost,Subsurface material that remains continuously at or below 0 degree Celsius throughout at least two consecutive years.,"terrestrial, cryosphere"

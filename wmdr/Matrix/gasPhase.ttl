@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<gasPhase> a skos:Concept ;
+	rdfs:label "Gas phase" ;
+	skos:notation "gasPhase" ;
+	dct:description "Physical state of matter, also called vapour phase. Molecules are sufficiently far apart to overcome attractive forces and to fill all available space almost uniformly."@en	.

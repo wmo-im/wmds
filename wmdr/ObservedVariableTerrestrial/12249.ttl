@@ -5,4 +5,4 @@
 <12249> a skos:Concept ;
 	rdfs:label "Stream surface velocity" ;
 	skos:notation "12249" ;
-	dct:description "Velocity of a liquid at its surface at a given point. [Based on 'surface velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
+	dct:description "Velocity of a stream at its surface at a given point. [Based on 'surface velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

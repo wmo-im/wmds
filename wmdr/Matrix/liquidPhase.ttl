@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<liquidPhase> a skos:Concept ;
+	rdfs:label "Liquid phase" ;
+	skos:notation "liquidPhase" ;
+	dct:description "A physical state of matter. In liquids, molecules flow easily around each other but are held together by attractive forces. Liquids assume the shape of their containers or appear as droplets in an aerosol."@en	.

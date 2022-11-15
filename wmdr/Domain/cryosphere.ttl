@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<cryosphere> a skos:Concept ;
+	rdfs:label "Cryosphere" ;
+	skos:notation "cryosphere" ;
+	dct:description "A component of the Earth system that contains ice, including solid precipitation, snow, glaciers and ice caps, ice sheets, ice shelves, icebergs, sea ice, lake ice, river ice, permafrost, and seasonally frozen ground, or even 'dry' material in the case of permafrost. The cryosphere includes elements on or beneath the Earth's surface or that are measured at the surface in the case of solid precipitation. It therefore excludes ice clouds [and other atmospheric particles]. [Technical Regulations (WMO-No. 49), Vol 1]"@en	.

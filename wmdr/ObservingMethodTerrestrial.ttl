@@ -6,5 +6,5 @@
 
 <ObservingMethodTerrestrial> a reg:Register , skos:Collection , ldp:Container  ;
 	ldp:hasMemberRelation skos:member ;
-	rdfs:label "Measurement/observing method (terrestrial)" ;
-	dct:description "Measurement/observing method (terrestrial)" .
+	rdfs:label "Measurement/observing method (terrestrial and hydrological)" ;
+	dct:description "Measurement/observing method (terrestrial and hydrological)" .
