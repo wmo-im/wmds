@@ -38,7 +38,7 @@
 5-02-05,Measurement/observing method (terrestrial and hydrological),http://codes.wmo.int/wmdr/ObservingMethodTerrestrial
 5-03-01,Polarization of electromagnetic radiation,http://codes.wmo.int/wmdr/Polarization
 5-03-02,Frequency use of electromagnetic radiation,http://codes.wmo.int/wmdr/FrequencyUse
-5-03-03, Purpose of frequency use,http://codes.wmo.int/wmdr/PurposeOfFrequencyUse
+5-03-03,Purpose of frequency use,http://codes.wmo.int/wmdr/PurposeOfFrequencyUse
 5-03-04,Mode of energy transmission,http://codes.wmo.int/wmdr/TransmissionMode
 5-04,Instrument operating status,http://codes.wmo.int/wmdr/InstrumentOperatingStatus
 5-05,Type of reference surface,http://codes.wmo.int/wmdr/ReferenceSurfaceType
