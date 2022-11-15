@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <344> a skos:Concept ;
-	rdfs:label "trace gases" ;
+	rdfs:label "GC-CVAFS" ;
 	skos:notation "344" ;
-	dct:description "greenhouse gas"@en	.
+	dct:description "Gas chromatography and detection by cold vapour atomic fluorescence spectrometry."@en	.
