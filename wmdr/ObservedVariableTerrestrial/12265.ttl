@@ -5,4 +5,4 @@
 <12265> a skos:Concept ;
 	rdfs:label "Groundwater flow" ;
 	skos:notation "12265" ;
-	dct:description "Volume of groundwater flowing along an aquifer per unit time. [Based on International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
+	dct:description "Volume of groundwater flowing through an aquifer per unit time. [Based on International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

@@ -4,7 +4,7 @@
 @prefix reg:   <http://purl.org/linked-data/registry#> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 
-<ObservedVariableTerrestrial> a reg:Register , skos:Collection , ldp:Container  ;
+<Matrix> a reg:Register , skos:Collection , ldp:Container  ;
 	ldp:hasMemberRelation skos:member ;
-	rdfs:label "Observed variable - measurand (terrestrial and hydrological)" ;
-	dct:description "Observed variable - measurand (terrestrial and hydrological)" .
+	rdfs:label "Matrix" ;
+	dct:description "Matrix" .

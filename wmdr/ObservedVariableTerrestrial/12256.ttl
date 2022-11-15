@@ -5,4 +5,4 @@
 <12256> a skos:Concept ;
 	rdfs:label "Hydraulic conductivity" ;
 	skos:notation "12256" ;
-	dct:description "Property of a porous medium which, according to Darcy's law, relates the specific discharge to the hydraulic gradient. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
+	dct:description "Property of a porous medium or fractured rock which, according to Darcy's law, relates the specific discharge to the hydraulic gradient. [based on 'hydraulic conductivity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

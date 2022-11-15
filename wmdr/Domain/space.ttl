@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<space> a skos:Concept ;
+	rdfs:label "Space" ;
+	skos:notation "space" ;
+	dct:description "Spatial extent above the atmosphere around Earth above the Karman line at 100 km altitude."@en	.

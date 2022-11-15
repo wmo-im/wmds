@@ -5,4 +5,4 @@
 <171> a skos:Concept ;
 	rdfs:label "Stream discharge" ;
 	skos:notation "171" ;
-	dct:description "Volume of water flowing through a river (or channel) cross-section per unit time. [Based on 'discharge' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
+	dct:description "Volume of water flowing through a stream (or channel) cross-section per unit time. [Based on 'discharge' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
