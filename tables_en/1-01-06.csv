@@ -1,8 +1,0 @@
-notation, name, description
-space,Space,"Spatial extent above the atmosphere around Earth above the Kármán line at 100 km altitude."
-atmosphere,Atmosphere,"Spatial extent from the Earth surface towards but excluding space."
-ocean,Ocean or Sea,"Continuous saline, non-cryosphere part of the hydrosphere."
-terrestrial,Terrestrial,"Spatial extent comprised of land masses, normally not covered by the ocean or other water bodies and excluding cryosphere."
-cryosphere,Cryosphere,"A component of the Earth system that contains ice, including solid precipitation, snow, glaciers and ice caps, ice sheets, ice shelves, icebergs, sea ice, lake ice, river ice, permafrost, and seasonally frozen ground, or even 'dry' material in the case of permafrost. The cryosphere includes elements on or beneath the Earth's surface or that are measured at the surface in the case of solid precipitation. It therefore excludes ice clouds [and other atmospheric particles]. [Technical Regulations (WMO-No. 49), Vol 1]"
-hydrological,Hydrological,"Non-saline, non-atmosphere, non-cryosphere part of the hydrosphere, including lakes, rivers, groundwater."
-solidEarth,Solid Earth,"Spatial extent of the Earth from the solid surface inwards."
