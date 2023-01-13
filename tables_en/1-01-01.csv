@@ -270,9 +270,9 @@ notation,path/tags,name,description
 547,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+),K+ (potassium),"IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in total deposition"
 548,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Sodium (Na+),Na+ (sodium),"IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in total deposition"
 550,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
-551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
-552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
-553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
+551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,"Type of clouds of genera Cirrus, Cirrocumulus, or Cirrostratus. These occur between 3-8 km (polar regions), 5-13 km (temperate regions) and 6-18 km (tropics) above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"
+552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,"Type of clouds of genera Stratus, Stratocumulus, Cumulus, or Cumulonimbus. These occur between 0-2 km above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"
+553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,"Type of clouds of genera Altocumulus, Altostratus, or Nimbostratus. These occur between 2-4 km (polar regions), 2-7 km (temperate regions) and 2-8 km (tropics) above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"
 554,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","IUPAC: 1,1,1,2-tetrafluoroethane, PubChem CID: 13129, CAS Number: 811-97-2, in gas phase"
 555,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)","IUPAC: 1,1-difluoroethane, PubChem CID: 6368, CAS Number: 75-37-6, in gas phase"
 556,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)","IUPAC: 1,1,1,2,2-pentafluoroethane, PubChem CID: 9633, CAS Number: 354-33-6, in gas phase"
