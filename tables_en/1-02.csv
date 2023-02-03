@@ -180,11 +180,12 @@ unknown,unknown,"The correct value is not known to, and not computable by, the s
 uS.cm-1,microsiemens per centimetre,SI derived unit of spatial gradient of electrical conductance; SI base unit equivalent: 1E-4 m-3.kg-1.s3.A2
 V,volt,"SI derived unit of voltage, electrical potential difference, electromotive force; SI base unit equivalent: kg.m2.s-3.A-1"
 W,watt,"SI derived unit of power, radiant flux; SI base unit equivalent: kg.m2.s-3"
-W.m-1.sr-1,watt per metre per steradian,SI derived unit of spectral intensity; SI base unit equivalent: kg.m.s-3
-W.m-2,watt per square metre,SI derived unit of heat flux density or irradiance; SI base unit equivalent: kg.m-1.s-3
+W.m-1.sr-1,watt per metre per steradian,"SI derived unit of spectral intensity, a directional quantity; SI base unit equivalent: kg.m.s-3"
+W.m-2,watt per square metre,"SI derived unit of heat flux density or irradiance; SI base unit equivalent: kg.s-3"
 W.m-2.sr-1,watt per square metre per steradian,SI derived unit of radiance; SI base unit equivalent: kg.s-3
-W.m-2.sr-1.cm,watt per square metre per steradian per inverse centimetre,"SI derived unit of spectral radiance per wave number, wave number expressed in 100 m-1; SI base unit equivalent: 0.01 m.kg.s-3"
-W.m-2.sr-1.m,watt per square metre per steradian per inverse metre,SI derived unit of spectral radiance per wave number; SI base unit equivalent: kg.m.s-3
-W.m-3.sr-1,watt per cubic metre per steradian,SI derived unit of spectral radiance; SI base unit equivalent: 100 m-1.kg.s-3
+W.m-2.sr-1.cm,watt per square metre per steradian per inverse centimetre,"SI derived unit of spectral radiance per unit wavenumber, wavenumber expressed in 100 m-1; equivalent to W.m-2.sr-1.(cm-1)-1; SI base unit equivalent: 0.01 kg.m.s-3"
+W.m-2.sr-1.Hz-1,watt per square metre per steradian per hertz,"SI derived unit of spectral radiance per unit frequency; SI base unit equivalent: kg.s-2"
+W.m-2.sr-1.m,watt per square metre per steradian per inverse metre,"SI derived unit of spectral radiance per inverse metre; SI base unit equivalent: kg.m.s-3"	
+W.m-3.sr-1,watt per square metre per steradian per metre,"SI derived unit of spectral radiance per unit wavelength; SI base unit equivalent: kg.m-1.s-3"
 Wb,Weber,SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-1
 week,week,"Conventional unit of time, equivalent to 604800 s"
