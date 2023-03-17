@@ -515,3 +515,106 @@ WHOIGlider,\Co-sponsored\GOOS\OceanGliders\Woods Hole Spray glider Program,Woods
 WHYCOS,\WIGOS\WHOS\WHYCOS,WHYCOS,World Hydrological Cycle Observing System
 windProfiler,\WIGOS\GOS\GOS Other elements\Wind Profilers,Wind Profilers,Wind profilers for upper-air wind observations
 WRO,\WIGOS\GOS\GOS Other elements\WRO,WRO,GOS Weather Radar
+AARIUSIABPDB,\Co-sponsored\GOOS\DBCP\AARIUSIABPDB,AARI-USIABP,Collaborative buoys by Arctic and Antarctic Research Institute of Russian Federation and International Arctic Buoy Program of the USA
+KUDB,\Co-sponsored\GOOS\DBCP\KUDB,KU DB,"Drifting Buoys operated by Disaster Prevention Research Institute, Kyoto University (DPRI, KU)"
+OSUDB,\Co-sponsored\GOOS\DBCP\OSUDB,OSU DB,"Ice buoys operated by Oregon State University, USA, contributing to the International Arctic Buoy Progrmme."
+SOCIBGDP,\Co-sponsored\GOOS\DBCP\SOCIBGDP,SOCIB-GDP,"Barometer upgraded drifting buoys managed by the Balearic Islands Coastal Observing and Forecasting System (SOCIB), Spain, supported by GDP/NOAA"
+UBODB,\Co-sponsored\GOOS\DBCP\UBODB,UBO DB,Drifters funded by UBO (University of Western Brittany) and CNES.
+IMARPEglider,\Co-sponsored\GOOS\OceanGliders\IMARPEglider,IMARPE Glider Program,IMARPE (Instituto del Mar del Perœ) glider program
+NCSUglider,\Co-sponsored\GOOS\OceanGliders\NCSUglider,NCSU Ocean Observing and Modeling Group Glider Program,Glider program of the NCSU (North Carolina State University) Ocean Observing and modelling group
+NOAAOAPglider,\Co-sponsored\GOOS\OceanGliders\NOAAOAPglider,NOAA Ocean Acidification Program,NOAA's Ocean Acidification Program - Gliders
+UWURIglider,\Co-sponsored\GOOS\OceanGliders\UWURIglider,UW-URI Glider Program,Glider program lead by UW in cooperation with University of Rhode Island.
+UConnecticutglider,\Co-sponsored\GOOS\OceanGliders\UConnecticutglider,University of Connectuct Glider Program,Glider observation program led by university of Connecticut
+Udelawareglider,\Co-sponsored\GOOS\OceanGliders\Udelawareglider,University of Delaware Glider Program,University of Delaware glider program with the operational support of the Rutgers university collab Ocean Observation Lab.
+Ugotebordglider,\Co-sponsored\GOOS\OceanGliders\Ugotebordglider,University of Gšteborg Glider Program,University of Gšteborg Glider Program
+Umaineglider,\Co-sponsored\GOOS\OceanGliders\Umaineglider,University of Main Glider Program,Glider program run by University of Main
+UWAPLglider,\Co-sponsored\GOOS\OceanGliders\UWAPLglider,University of Washington Applied Physics Laboratory Glider Program,"Glider program supported by Integrative Observational Platforms Group, Applied Physics Laboratory, University of Washington"
+OSKORSPilot,\Co-sponsored\GOOS\OceanSITES\OSKORSPilot,OS-KORS Pilot,"Korean Ocean Research Stations (KORS), coastal pilot sites operated jointly by Korea Hydrographic and Oceanographic Agency(KHOA)and Korea Institute of Ocean Science and Technology (KIOST), Republic of Korea"
+OSCNRISMAR,\Co-sponsored\GOOS\OceanSITES\OSCNRISMAR,OS-CNR-ISMAR,"Moorings operated by Istituto di Scienze MARine (ISMAR), Consiglio Nazionale delle Ricerche (CNR), Italy"
+OSNERSC,\Co-sponsored\GOOS\OceanSITES\OSNERSC,OS-NERSC,Long time series moorings by Nansen Environmental and Remote Sensing Center
+SOOPAOMLTSG,\Co-sponsored\GOOS\SOT\SOOPAOMLTSG,SOOP-AOML-TSG,AOML managed TSG systems
+SOOPFVPODN,\Co-sponsored\GOOS\SOT\SOOPFVPODN,SOOP-FVP-ODN,Fishing Vessel observation program led by Ocean Data Network
+VOSAR,\Co-sponsored\GOOS\SOT\VOSAR,VOS-AR,Argentina's contribution to the Voluntary Observing Ships (VOS) program
+VOSCO,\Co-sponsored\GOOS\SOT\VOSCO,VOS-CO,Colombian contribution to the Voluntary Observing Ships (VOS) program
+VOSIR,\Co-sponsored\GOOS\SOT\VOSIR,VOS-IR,Islamic Republic of Iran contribution to the Voluntary Observing Ships (VOS) program
+VOSMAERSK,\Co-sponsored\GOOS\SOT\VOSMAERSK,VOS-MAERSK,Program for Voluntary Observing Ships (VOS) data gathered by Maersk-owned systems.
+VOSSRoCS,\Co-sponsored\GOOS\SOT\VOSSRoCS,VOS-SRoCS,Science Research on Commercial Ships - Voluntary Observing Ships (VOS)
+TGGM,\Co-sponsored\GOOS\Tide Gauges\TGGM,TG GM,Tide gauges in Gambia
+GLOSSAO,\Co-sponsored\GOOS\Tide Gauges\GLOSSAO,GLOSS AO,Global Sea Level Observing System Tide Gauges - Angola
+GLOSSAR,\Co-sponsored\GOOS\Tide Gauges\GLOSSAR,GLOSS AR,Global Sea Level Observing System Tide Gauges - Argentina
+GLOSSAU,\Co-sponsored\GOOS\Tide Gauges\GLOSSAU,GLOSS AU,Global Sea Level Observing System Tide Gauges - Australia
+GLOSSBD,\Co-sponsored\GOOS\Tide Gauges\GLOSSBD,GLOSS BD,Global Sea Level Observing System Tide Gauges - Bangladesh
+GLOSSBR,\Co-sponsored\GOOS\Tide Gauges\GLOSSBR,GLOSS BR,Global Sea Level Observing System Tide Gauges - Brasil
+GLOSSCA,\Co-sponsored\GOOS\Tide Gauges\GLOSSCA,GLOSS CA,Global Sea Level Observing System Tide Gauges - Canada
+GLOSSCG,\Co-sponsored\GOOS\Tide Gauges\GLOSSCG,GLOSS CG,Global Sea Level Observing System Tide Gauges - Republic of the Congo
+GLOSSCI,\Co-sponsored\GOOS\Tide Gauges\GLOSSCI,GLOSS CI,Global Sea Level Observing System Tide Gauges - C™te d'Ivoire
+GLOSSCL,\Co-sponsored\GOOS\Tide Gauges\GLOSSCL,GLOSS CL,Global Sea Level Observing System Tide Gauges - Chile
+GLOSSCM,\Co-sponsored\GOOS\Tide Gauges\GLOSSCM,GLOSS CM,Global Sea Level Observing System Tide Gauges - Cameroon
+GLOSSCN,\Co-sponsored\GOOS\Tide Gauges\GLOSSCN,GLOSS CN,Global Sea Level Observing System Tide Gauges - China
+GLOSSCO,\Co-sponsored\GOOS\Tide Gauges\GLOSSCO,GLOSS CO,Global Sea Level Observing System Tide Gauges - Colombia
+GLOSSCR,\Co-sponsored\GOOS\Tide Gauges\GLOSSCR,GLOSS CR,Global Sea Level Observing System Tide Gauges - Costa Rica
+GLOSSCU,\Co-sponsored\GOOS\Tide Gauges\GLOSSCU,GLOSS CU,Global Sea Level Observing System Tide Gauges - Cuba
+GLOSSDE,\Co-sponsored\GOOS\Tide Gauges\GLOSSDE,GLOSS DE,Global Sea Level Observing System Tide Gauges - Germany
+GLOSSDJ,\Co-sponsored\GOOS\Tide Gauges\GLOSSDJ,GLOSS DJ,Global Sea Level Observing System Tide Gauges - Djibouti
+GLOSSDK,\Co-sponsored\GOOS\Tide Gauges\GLOSSDK,GLOSS DK,Global Sea Level Observing System Tide Gauges - Denmark
+GLOSSEC,\Co-sponsored\GOOS\Tide Gauges\GLOSSEC,GLOSS EC,Global Sea Level Observing System Tide Gauges - Ecuador
+GLOSSEG,\Co-sponsored\GOOS\Tide Gauges\GLOSSEG,GLOSS EG,Global Sea Level Observing System Tide Gauges - Egypt
+GLOSSES,\Co-sponsored\GOOS\Tide Gauges\GLOSSES,GLOSS ES,Global Sea Level Observing System Tide Gauges - Spain
+GLOSSFR,\Co-sponsored\GOOS\Tide Gauges\GLOSSFR,GLOSS FR,Global Sea Level Observing System Tide Gauges - France
+GLOSSGB,\Co-sponsored\GOOS\Tide Gauges\GLOSSGB,GLOSS GB,Global Sea Level Observing System Tide Gauges - United Kingdom
+GLOSSGH,\Co-sponsored\GOOS\Tide Gauges\GLOSSGH,GLOSS GH,Global Sea Level Observing System Tide Gauges - Ghana
+GLOSSGN,\Co-sponsored\GOOS\Tide Gauges\GLOSSGN,GLOSS GN,Global Sea Level Observing System Tide Gauges - Guinea
+GLOSSHT,\Co-sponsored\GOOS\Tide Gauges\GLOSSHT,GLOSS HT,Global Sea Level Observing System Tide Gauges - Haiti
+GLOSSIE,\Co-sponsored\GOOS\Tide Gauges\GLOSSIE,GLOSS IE,Global Sea Level Observing System Tide Gauges - Ireland
+GLOSSIL,\Co-sponsored\GOOS\Tide Gauges\GLOSSIL,GLOSS IL,Global Sea Level Observing System Tide Gauges - Israel
+GLOSSIN,\Co-sponsored\GOOS\Tide Gauges\GLOSSIN,GLOSS IN,Global Sea Level Observing System Tide Gauges - India
+GLOSSID,\Co-sponsored\GOOS\Tide Gauges\GLOSSID,GLOSS ID,Global Sea Level Observing System Tide Gauges - Indonesia
+GLOSSIR,\Co-sponsored\GOOS\Tide Gauges\GLOSSIR,GLOSS IR,Global Sea Level Observing System Tide Gauges - Iran
+GLOSSIS,\Co-sponsored\GOOS\Tide Gauges\GLOSSIS,GLOSS IS,Global Sea Level Observing System Tide Gauges - Iceland
+GLOSSJM,\Co-sponsored\GOOS\Tide Gauges\GLOSSJM,GLOSS JM,Global Sea Level Observing System Tide Gauges - Jamaica
+GLOSSJP,\Co-sponsored\GOOS\Tide Gauges\GLOSSJP,GLOSS JP,Global Sea Level Observing System Tide Gauges - Japan
+GLOSSKE,\Co-sponsored\GOOS\Tide Gauges\GLOSSKE,GLOSS KE,Global Sea Level Observing System Tide Gauges - Kenya
+GLOSSKP,\Co-sponsored\GOOS\Tide Gauges\GLOSSKP,GLOSS KP,Global Sea Level Observing System Tide Gauges - North Korea
+GLOSSKR,\Co-sponsored\GOOS\Tide Gauges\GLOSSKR,GLOSS KR,Global Sea Level Observing System Tide Gauges - South Korea
+GLOSSLK,\Co-sponsored\GOOS\Tide Gauges\GLOSSLK,GLOSS LK,Global Sea Level Observing System Tide Gauges - Sri Lanka
+GLOSSMA,\Co-sponsored\GOOS\Tide Gauges\GLOSSMA,GLOSS MA,Global Sea Level Observing System Tide Gauges - Morocco
+GLOSSMY,\Co-sponsored\GOOS\Tide Gauges\GLOSSMY,GLOSS MY,Global Sea Level Observing System Tide Gauges - Malaysia
+GLOSSMG,\Co-sponsored\GOOS\Tide Gauges\GLOSSMG,GLOSS MG,Global Sea Level Observing System Tide Gauges - Madagascar
+GLOSSMM,\Co-sponsored\GOOS\Tide Gauges\GLOSSMM,GLOSS MM,Global Sea Level Observing System Tide Gauges - Myanmar
+GLOSSMU,\Co-sponsored\GOOS\Tide Gauges\GLOSSMU,GLOSS MU,Global Sea Level Observing System Tide Gauges - Mauritius
+GLOSSMX,\Co-sponsored\GOOS\Tide Gauges\GLOSSMX,GLOSS MX,Global Sea Level Observing System Tide Gauges - Mexico
+GLOSSMZ,\Co-sponsored\GOOS\Tide Gauges\GLOSSMZ,GLOSS MZ,Global Sea Level Observing System Tide Gauges - Mozambique
+GLOSSNA,\Co-sponsored\GOOS\Tide Gauges\GLOSSNA,GLOSS NA,Global Sea Level Observing System Tide Gauges - Namibia
+GLOSSNG,\Co-sponsored\GOOS\Tide Gauges\GLOSSNG,GLOSS NG,Global Sea Level Observing System Tide Gauges - Nigeria
+GLOSSNO,\Co-sponsored\GOOS\Tide Gauges\GLOSSNO,GLOSS NO,Global Sea Level Observing System Tide Gauges - Norway
+GLOSSNZ,\Co-sponsored\GOOS\Tide Gauges\GLOSSNZ,GLOSS NZ,Global Sea Level Observing System Tide Gauges - New Zealand
+GLOSSOM,\Co-sponsored\GOOS\Tide Gauges\GLOSSOM,GLOSS OM,Global Sea Level Observing System Tide Gauges - Oman
+GLOSSPA,\Co-sponsored\GOOS\Tide Gauges\GLOSSPA,GLOSS PA,Global Sea Level Observing System Tide Gauges - Panama
+GLOSSPE,\Co-sponsored\GOOS\Tide Gauges\GLOSSPE,GLOSS PE,Global Sea Level Observing System Tide Gauges - Peru
+GLOSSPG,\Co-sponsored\GOOS\Tide Gauges\GLOSSPG,GLOSS PG,Global Sea Level Observing System Tide Gauges - Papua New Guinea
+GLOSSPH,\Co-sponsored\GOOS\Tide Gauges\GLOSSPH,GLOSS PH,Global Sea Level Observing System Tide Gauges - Philippines
+GLOSSPK,\Co-sponsored\GOOS\Tide Gauges\GLOSSPK,GLOSS PK,Global Sea Level Observing System Tide Gauges - Pakistan
+GLOSSPT,\Co-sponsored\GOOS\Tide Gauges\GLOSSPT,GLOSS PT,Global Sea Level Observing System Tide Gauges - Portugal
+GLOSSRU,\Co-sponsored\GOOS\Tide Gauges\GLOSSRU,GLOSS RU,Global Sea Level Observing System Tide Gauges - Russia
+GLOSSSC,\Co-sponsored\GOOS\Tide Gauges\GLOSSSC,GLOSS SC,Global Sea Level Observing System Tide Gauges - Seychelles
+GLOSSSE,\Co-sponsored\GOOS\Tide Gauges\GLOSSSE,GLOSS SE,Global Sea Level Observing System Tide Gauges - Sweden
+GLOSSSG,\Co-sponsored\GOOS\Tide Gauges\GLOSSSG,GLOSS SG,Global Sea Level Observing System Tide Gauges - Sinagpore
+GLOSSSN,\Co-sponsored\GOOS\Tide Gauges\GLOSSSN,GLOSS SN,Global Sea Level Observing System Tide Gauges - Senegal
+GLOSSSO,\Co-sponsored\GOOS\Tide Gauges\GLOSSSO,GLOSS SO,Global Sea Level Observing System Tide Gauges - Somalia
+GLOSSSV,\Co-sponsored\GOOS\Tide Gauges\GLOSSSV,GLOSS SV,Global Sea Level Observing System Tide Gauges - El Salvador
+GLOSSTH,\Co-sponsored\GOOS\Tide Gauges\GLOSSTH,GLOSS TH,Global Sea Level Observing System Tide Gauges - Thailand
+GLOSSTT,\Co-sponsored\GOOS\Tide Gauges\GLOSSTT,GLOSS TT,Global Sea Level Observing System Tide Gauges - Trinidad and Tobago
+GLOSSTZ,\Co-sponsored\GOOS\Tide Gauges\GLOSSTZ,GLOSS TZ,Global Sea Level Observing System Tide Gauges - Tanzania
+GLOSSUS,\Co-sponsored\GOOS\Tide Gauges\GLOSSUS,GLOSS US,Global Sea Level Observing System Tide Gauges - United states of America
+GLOSSUY,\Co-sponsored\GOOS\Tide Gauges\GLOSSUY,GLOSS UY,Global Sea Level Observing System Tide Gauges - Uruguay
+GLOSSVE,\Co-sponsored\GOOS\Tide Gauges\GLOSSVE,GLOSS VE,Global Sea Level Observing System Tide Gauges - Venezuela
+GLOSSVN,\Co-sponsored\GOOS\Tide Gauges\GLOSSVN,GLOSS VN,Global Sea Level Observing System Tide Gauges - Vietnam
+GLOSSVU,\Co-sponsored\GOOS\Tide Gauges\GLOSSVU,GLOSS VU,Global Sea Level Observing System Tide Gauges - Vanuatu
+GLOSSYE,\Co-sponsored\GOOS\Tide Gauges\GLOSSYE,GLOSS YE,Global Sea Level Observing System Tide Gauges - Yemen
+GLOSSZA,\Co-sponsored\GOOS\Tide Gauges\GLOSSZA,GLOSS ZA,Global Sea Level Observing System Tide Gauges - South Africa
+ArgoBGCAOML,\Co-sponsored\GOOS\Argo\ArgoBGCAOML,"Argo BGC, AOML",NOAA/AOML Argo BGC float program
+ArgodeepChina,\Co-sponsored\GOOS\Argo\ArgodeepChina,"Argo Deep, CHINA","Deep Argo program led by QNLM (Qingdao pilot National Laboratory for Marine science and technology), China."
+ArgoPortugal,\Co-sponsored\GOOS\Argo\ArgoPortugal,Argo Portugal,Argo float deployment and scientific program in Portugal
+ArgoSIOeqBGCSOLONOPP,\Co-sponsored\GOOS\Argo\ArgoSIOeqBGCSOLONOPP,Argo SIO .eq. (BGCSOLONOPP),"Side BioGeoChemical Argo program, National Oceanographic Partnership Program"
+ArgoSweden,\Co-sponsored\GOOS\Argo\ArgoSweden,Argo Sweden,Swedish Argo program
+REFINE,\Co-sponsored\GOOS\Argo\REFINE,REFINE,Robots Explore plankton-driven Fluxes in the marine twIlight zoNE - Argo
