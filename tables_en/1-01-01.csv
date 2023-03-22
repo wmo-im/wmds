@@ -1,5 +1,4 @@
 notation,path/tags,name,description
-37,\Atmosphere\Aerological soundings,Aerological soundings,
 39,\Atmosphere\Atmospheric density,Atmospheric density,Density of the atmosphere.
 44,\Atmosphere\Integrated air samples,Integrated air samples,
 56,\Atmosphere\Special phenomena,Special phenomena,
@@ -270,9 +269,9 @@ notation,path/tags,name,description
 547,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Potassium (K+),K+ (potassium),"IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in total deposition"
 548,\Atmosphere\Total Atmospheric Deposition\Inorganic cations\Sodium (Na+),Na+ (sodium),"IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in total deposition"
 550,\Atmosphere\Clouds\Type\Type of cloud,Type of cloud,"Result of cloud type classification - Accuracy expressed as inverse of number of classes, so that smaller figures correspond to better performance."
-551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,
-552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,
-553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,
+551,\Atmosphere\Clouds\Type\Type of high clouds,Type of high clouds,"Type of clouds of genera Cirrus, Cirrocumulus, or Cirrostratus. These occur between 3-8 km (polar regions), 5-13 km (temperate regions) and 6-18 km (tropics) above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"
+552,\Atmosphere\Clouds\Type\Type of low clouds,Type of low clouds,"Type of clouds of genera Stratus, Stratocumulus, Cumulus, or Cumulonimbus. These occur between 0-2 km above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"
+553,\Atmosphere\Clouds\Type\Type of middle clouds,Type of middle clouds,"Type of clouds of genera Altocumulus, Altostratus, or Nimbostratus. These occur between 2-4 km (polar regions), 2-7 km (temperate regions) and 2-8 km (tropics) above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"
 554,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)","IUPAC: 1,1,1,2-tetrafluoroethane, PubChem CID: 13129, CAS Number: 811-97-2, in gas phase"
 555,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2H4F2 (1,1-difluoroethane, HFC-152a)","C2H4F2 (1,1-difluoroethane, HFC-152a)","IUPAC: 1,1-difluoroethane, PubChem CID: 6368, CAS Number: 75-37-6, in gas phase"
 556,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C2HF5 (pentafluoroethane, HFC-125)","C2HF5 (pentafluoroethane, HFC-125)","IUPAC: 1,1,1,2,2-pentafluoroethane, PubChem CID: 9633, CAS Number: 354-33-6, in gas phase"
@@ -321,7 +320,7 @@ notation,path/tags,name,description
 616,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), PM2.5","Cl- (chloride), PM2.5","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM2.5"
 617,"\Atmosphere\Aerosol\Composition\Inorganic anions\Chloride (Cl-), total aerosol","Cl- (chloride), TSP","IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, TSP"
 618,"\Atmosphere\Aerosol\Composition\Inorganic anions\Fluoride (F-), total aerosol","F- (fluoride), TSP","IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in particle phase, TSP"
-619,"\Atmosphere\Aerosol\Composition\Inorganic anions\SO4= (sulfate), corrected","SO4= (sulfate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, "
+619,"\Atmosphere\Aerosol\Composition\Inorganic anions\SO4= (sulfate), corrected","SO4= (sulfate), corrected","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase"
 620,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total","SO4= (sulfate), TSP","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, TSP"
 621,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM10","SO4= (sulfate), PM10","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM10"
 622,"\Atmosphere\Aerosol\Composition\Inorganic anions\Sulfate (SO4=), total, PM2.5","SO4= (sulfate), PM2.5","IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM2.5"
@@ -360,13 +359,13 @@ notation,path/tags,name,description
 660,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (coarse),"Other chemical components, coarse","Other chemical components, coarse"
 661,\Atmosphere\Aerosol\Composition\Major inorganic components\Other chemical components (fine),"Other chemical components, fine","Other chemical components, fine"
 662,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), PM1","C2H3O2- (CH3COO-, acetate), PM1","IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, PM1"
-663,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate), ","IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, "
+663,"\Atmosphere\Aerosol\Composition\Organic anions\C2H3O2- (CH3COO-, acetate), in aerosol","C2H3O2- (CH3COO-, acetate)","IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase"
 664,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM1","C2O4= (oxalate, ethanedioate), PM1","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM1"
 665,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), PM10","C2O4= (oxalate, ethanedioate), PM10","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM10"
 666,"\Atmosphere\Aerosol\Composition\Organic anions\C2O4= (oxalate, ethanedioate), total aerosol","C2O4= (oxalate, ethanedioate), TSP","IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, TSP"
 667,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), PM1","CH3O3S- (methanesulfonate), PM1","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, PM1"
 668,"\Atmosphere\Aerosol\Composition\Organic anions\CH3O3S- (methanesulfonate), total aerosol","CH3O3S- (methanesulfonate), TSP","IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, TSP"
-669,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate), ","IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in particle phase, "
+669,"\Atmosphere\Aerosol\Composition\Organic anions\CHO2- (HCOO-, formate), in aerosol","CHO2- (HCOO-, formate)","IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in particle phase"
 670,"\Atmosphere\Aerosol\Composition\Organic carbonaceous\Carbonaceous-organic material (coarse), PM10","Carbonaceous-organic material, PM10",
 671,\Atmosphere\Aerosol\Composition\Organic carbonaceous-Carbonaceous-organic material (fine),"Carbonaceous-organic material, fine",
 672,"\Atmosphere\Aerosol\Composition\Trace elements\Titanium (Ti), total aerosol","Ti (Titanium), TSP","IUPAC: titanium, PubChem CID: 23963, CAS Number: 7440-32-6, in particle phase, TSP"
@@ -498,12 +497,12 @@ notation,path/tags,name,description
 12083,"bioaerosol, pollen, moraceae",Total Moraceae,Mulberry family pollen
 12084,"bioaerosol, fungi, pleosporales",Alternaria,Alternaria spores
 12085,"bioaerosol, fungi, capnodiales",Cladosporium,Cladosporium spores
-12086,"gas phase, greenhouse gas, inorganic, N species",NF3 (nitrogen trifluoride),"IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2 , in gas phase"
-12087,"gas phase, greenhouse gas, organic, isotopologue","CH3D (monodeuterated methane, methane-d1)","IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3 , in gas phase"
-12088,"gas phase, greenhouse gas, CFCs, organic, halocarbon ","CClF3 (chlorotrifluoromethane, CFC-13)","IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9 , in gas phase"
-12089,"gas phase, greenhouse gas, HCFCs, organic, halocarbon ","C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)","IUPAC: 2-chloro-1,1,1,2-tetrafluoroethane, PubChem CID: 17822, CAS Number: 2837-89-0 , in gas phase"
-12090,"gas phase, Greenhouse Gas, HFCs, organic, halocarbon ","C5H2F10 (1,1,1,2,2,3,4,5,5,5-decafluoropentane, HFC-43-10-mee)","IUPAC: 1,1,1,2,2,3,4,5,5,5-decafluoropentane, PubChem CID: 86240, CAS Number: 138495-42-8, in gas phase"
-12091,"gas phase, greenhouse gas, PFCs, organic, halocarbon ","C4F8 (octafluorocyclobutane, PFC-318)","IUPAC: 1,1,2,2,3,3,4,4-octafluorocyclobutane, PubChem CID: 8263, CAS Number: 115-25-3, in gas phase"
+12086,"gas phase, greenhouse gas, inorganic, N species",NF3 (nitrogen trifluoride),"IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2, in gas phase"
+12087,"gas phase, greenhouse gas, organic, isotopologue","CH3D (monodeuterated methane, methane-d1)","IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3, in gas phase"
+12088,"gas phase, greenhouse gas, CFCs, organic, halocarbon","CClF3 (chlorotrifluoromethane, CFC-13)","IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9, in gas phase"
+12089,"gas phase, greenhouse gas, HCFCs, organic, halocarbon","C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)","IUPAC: 2-chloro-1,1,1,2-tetrafluoroethane, PubChem CID: 17822, CAS Number: 2837-89-0, in gas phase"
+12090,"gas phase, Greenhouse Gas, HFCs, organic, halocarbon","C5H2F10 (1,1,1,2,2,3,4,5,5,5-decafluoropentane, HFC-43-10-mee)","IUPAC: 1,1,1,2,2,3,4,5,5,5-decafluoropentane, PubChem CID: 86240, CAS Number: 138495-42-8, in gas phase"
+12091,"gas phase, greenhouse gas, PFCs, organic, halocarbon","C4F8 (octafluorocyclobutane, PFC-318)","IUPAC: 1,1,2,2,3,3,4,4-octafluorocyclobutane, PubChem CID: 8263, CAS Number: 115-25-3, in gas phase"
 12092,"gas phase, organic, alcohol",C3H8O (1-propanol),"IUPAC: Propan-1-ol, PubChem CID: 1031, CAS Number: 71-23-8, in gas phase"
 12093,"gas phase, organic, alcohol",C3H8O (2-propanol),"IUPAC: Propan-2-ol, PubChem CID: 3776, CAS Number: 67-63-0, in gas phase"
 12094,"gas phase, organic, OVOC, aromatic",C4H4O (furan),"IUPAC: Furan, PubChem CID: 8029, CAS Number: 110-00-9, in gas phase"
@@ -664,3 +663,14 @@ notation,path/tags,name,description
 12249,"atmosphere,humidity","Relative humidity (with respect to water)","The ratio of the amount fraction of the water vapour in the air to the corresponding amount fraction if the air were saturated with respect to water at a particular pressure and temperature. Relative humidity is typically reported in percent (%). [Based on definition of R1490 in International Vocabulary of Meteorology (WMO-No. 182). 1992.]"
 12250,"atmosphere,humidity","Specific humidity","The ratio of the mass of water vapour in the air to the mass of a moist air parcel, where the mass of the moist air parcel is the sum of the mass of water vapour and the dry air. Synonym: Moisture content. [Based on definition of M1750 in International Vocabulary of Meteorology (WMO-No. 182). 1992.]"
 12251,"particle phase, optical properties, atmosphere",Relative attenuated backscatter,"The product of the total volume backscatter coefficient and the atmospheric two-way transmission of the layers between the instrument and the observed volume presented in arbitrary units. The total volume backscatter coefficient is the sum of all backscatter coefficients from the atmosphere (including from molecules and particles) accounting for all polarizations. The atmospheric two-way transmission accounts for the total volume (molecular and particulate and all polarizations) extinction along the path from the instrument to the observed volume and back. The value of this variable in presented in relative, arbitrary units to account for observations of attenuated backscatter lacking final absolute calibrations."
+12252,"atmosphere, remote sensing, level 1, optical properties","Radiance","The radiant flux emitted, reflected, transmitted or received by a given surface, per unit solid angle per unit projected area. It is a directional quantity. Note: Historically, radiance was called 'intensity'."
+12253,"atmosphere, remote sensing, level 1, optical properties","Spectral radiance","The radiance of a surface per unit frequency or wavelength, depending on whether the spectrum is taken as a function of frequency or of wavelength. It is a directional quantity. Note: 'spectral radiance' is also used for measurements by radiometers and spectrometers, where it means the spectral radiance incident on the instrument integrated over the normalised spectral response function of the instrument. Historically, spectral radiance was called spectral intensity."
+12254,"atmosphere, remote sensing, level 1, optical properties","Brightness temperature","Also called radiance temperature or equivalent black body temperature. The temperature of a black body emitting the spectral radiance equivalent to the observed spectral radiance at the observed frequency or wavelength."
+12255,"atmosphere, remote sensing, level 1, optical properties","Spectral bidirectional reflectance","Ratio of reflected to incident radiation as a function of incident angle, reflected angle and wavelength. For a satellite measurement, these angles are the zenith and azimuth angles of the sun and the zenith and azimuth angle of the viewing instrument at the feature (surface and/or atmospheric column) being observed."
+12256,"atmosphere, remote sensing, level 1, optical properties, radar","Radar backscatter coefficient","Normalised radar cross section (NRCS) backscatter coefficient, also called sigma-0 ('sigma-nought'). The normalised measure of the radar return, measured in dB."
+12257,"atmosphere, remote sensing, level 1, optical properties, radio occultation","Bending angle","The angle through which an electromagnetic wave is refracted when passing along an atmospheric path, used particularly for GNSS radio occultation observations."
+12258,"atmosphere, remote sensing, level 1, optical properties","Refractivity","The refractive index (of air) minus one. Particularly used for GNSS radio occultation observations."
+12259,"atmosphere, remote sensing, level 1","Slant total delay (STD)","The time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum."
+12260,"atmosphere, remote sensing, level 1","Zenith total delay (ZTD)","The time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum, and scaled to refer to the equivalent vertical path."
+12261,"atmosphere, remote sensing, level 1","Delay Doppler map","A 2D array of backscatter coefficients as a function of Doppler shift and signal delay, derived from GNSS reflectometry."
+12262,"Radio occultation",Impact parameter,"Minimum distance between the direction vector of the ray (prior to bending) and the centre of the curvature of the ellipsoid describing the Earth, used particularly for GNSS radio occultation observations."

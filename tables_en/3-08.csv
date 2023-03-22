@@ -5,7 +5,7 @@ dataRadio,Data/radio,"Data communications (digital or modem) using a direct radi
 dataSatConstellation,Data/satellite/constellation,Data communications (digital or modem) using a satellite constellation service (such as IRIDIUM)
 dataSatGeostationary,Data/satellite/geostationary,Data communications (digital or modem) using a geostationary satellite service (such as METEOSAT)
 dataSatIntermittent,Data/satellite/intermittent,Data communications (digital or modem) using a satellite service with intermittent cover (such as ARGOS)
-faxCellular,Fax/cellular,Facsimile using a cellular or similar terrestrial telecommunications  network
+faxCellular,Fax/cellular,Facsimile using a cellular or similar terrestrial telecommunications network
 faxLandline,Fax/landline,Facsimile using fixed terrestrial telecommunications network
 faxRadio,Fax/radio,"Facsimile using a direct radio system (such as VHF, HF SSB)"
 inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
