@@ -12,9 +12,9 @@ closedToOpenHerbaceousVegetation,"Closed to open (>15%) herbaceous vegetation (g
 mixedForest,Closed to open (>15%) mixed broadleaved and needleleaved forest (>5m),NA
 mosaicCroplands,Mosaic cropland (50-70%) / vegetation (grassland/shrubland/forest) (20-50%),NA
 mosaicForest,Mosaic forest or shrubland (50-70%) / grassland (20-50%),NA
-mosaicGrassland,Mosaic grassland (50-70%) / forest or shrubland (20-50%) ,NA
-mosaicVegetation,Mosaic vegetation (grassland/shrubland/forest) (50-70%) / cropland (20-50%) ,NA
-unknown,"No data (burnt areas, clouds,…)",NA
+mosaicGrassland,Mosaic grassland (50-70%) / forest or shrubland (20-50%),NA
+mosaicVegetation,Mosaic vegetation (grassland/shrubland/forest) (50-70%) / cropland (20-50%),NA
+unknown,"No data (burnt areas, clouds,...)",NA
 openDeciduousBroadleafForest,Open (15-40%) broadleaved deciduous forest/woodland (>5m),NA
 openDeciduousEvergreenNeedleleafForest,Open (15-40%) needleleaved deciduous or evergreen forest (>5m),NA
 snowIce,Permanent snow and ice,NA
