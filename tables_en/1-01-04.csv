@@ -17,7 +17,7 @@ notation,path,name,description
 121,\Outer Space\Ionospheric disturbances\Ionospheric plasma velocity,Ionospheric plasma velocity,Velocity of bulk plasma or electrons (depending on measurement technique) as a function of altitude in the ionosphere.
 122,\Outer Space\Ionospheric disturbances\Spread F,Spread F,Vertical thickness of highly structured ion density in the F-region of the ionosphere.
 123,\Outer Space\Ionospheric disturbances\foEs,foEs,The highest ordinary-wave frequency reflected back from a sporadic E layer and observed by an ionosonde.
-124,\Outer Space\Ionospheric disturbances\foF2,foF2,"Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm-3): f=9*10^-3*sqrt(Ne). "
+124,\Outer Space\Ionospheric disturbances\foF2,foF2,"Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm-3): f=9*10^-3*sqrt(Ne)."
 125,\Outer Space\Ionospheric disturbances\h'F,h'F,Virtual height of the bottom of the ionospheric F-layer.
 126,\Outer Space\Ionospheric disturbances\hmF2,hmF2,Altitude of the peak density in the ionospheric F2 layer.
 127,\Outer Space\Solar monitoring\EUV flux,EUV flux,Radiative flux integrated over the EUV band.

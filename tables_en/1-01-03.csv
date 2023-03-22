@@ -22,7 +22,7 @@ notation,tags,name,description
 85,biogeochemistry,O2-Ar ratio,Ratio of O2/Ar concentrations
 86,"biogeochemistry, oxygen",Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen
 87,"biogeochemistry, oxygen",Dissolved oxygen,Concentration of dissolved oxygen (O2) in the water column
-89,"physical properties, radiation",Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area ,per wavelength and per solid angle"
+89,"physical properties, radiation",Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle"
 90,"biogeochemistry, volatile organic compound","C2H6S (dimethylsulfide, DMS)",Concentration of DMS
 91,physical properties,Subsurface salinity,Salinity of seawater
 92,physical properties,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW)
