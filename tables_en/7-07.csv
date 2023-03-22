@@ -42,10 +42,10 @@ FM-64-tesac,FM 64 - TESAC,"Temperature, salinity and current report from a sea s
 FM-65-waveob,FM 65 - WAVEOB,Report of spectral wave information from a sea station or from a remote platform (aircraft or satellite). Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 FM-67-hydra,FM 67 - HYDRA,Report of hydrological observation from a hydrological station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 FM-68-hyfor,FM 68 - HYFOR,Hydrological forecast. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-FM-71-climat,FM 71 - CLIMAT,Report of monthly values from a land station.  Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-71-climat,FM 71 - CLIMAT,Report of monthly values from a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 FM-72-climatShip,FM 72 - CLIMAT SHIP,Report of monthly means and totals from an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 FM-73-nacli,"FM 73 - NACLI, CLINP, SPCLI, CLISA, INCLI",Report of monthly means for an oceanic area. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
-FM-75-climatTemp,FM 75 - CLIMAT TEMP,Report of monthly aerological means form  a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
+FM-75-climatTemp,FM 75 - CLIMAT TEMP,Report of monthly aerological means form a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 FM-76-climatTempShip,FM 76 - CLIMAT TEMP SHIP,Report of monthly aerological means form an ocean weather station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 FM-81-sfazi,FM 81 - SFAZI,Synoptic report of bearings of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
 FM-82-sfloc,FM 82 - SFLOC,Synoptic report of the geographical location of sources of atmospherics. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1
