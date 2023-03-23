@@ -5,4 +5,4 @@
 <552> a skos:Concept ;
 	rdfs:label "Type of low clouds" ;
 	skos:notation "552" ;
-	dct:description ""@en	.
+	dct:description "Type of clouds of genera Stratus, Stratocumulus, Cumulus, or Cumulonimbus. These occur between 0-2 km above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"@en	.

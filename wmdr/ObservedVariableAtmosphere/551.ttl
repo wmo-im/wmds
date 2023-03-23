@@ -5,4 +5,4 @@
 <551> a skos:Concept ;
 	rdfs:label "Type of high clouds" ;
 	skos:notation "551" ;
-	dct:description ""@en	.
+	dct:description "Type of clouds of genera Cirrus, Cirrocumulus, or Cirrostratus. These occur between 3-8 km (polar regions), 5-13 km (temperate regions) and 6-18 km (tropics) above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"@en	.

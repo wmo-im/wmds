@@ -5,4 +5,4 @@
 <plains> a skos:Concept ;
 	rdfs:label "within plains" ;
 	skos:notation "plains" ;
-	dct:description "Very low relief  (differences <30 m within 5-10 km range) on land"@en	.
+	dct:description "Very low relief (differences <30 m within 5-10 km range) on land"@en	.

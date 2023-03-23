@@ -5,4 +5,4 @@
 <hills> a skos:Concept ;
 	rdfs:label "within hills" ;
 	skos:notation "hills" ;
-	dct:description "Medium relief  (differences 250-1000 m within 5-10 km range) on land, tending to divergent form"@en	.
+	dct:description "Medium relief (differences 250-1000 m within 5-10 km range) on land, tending to divergent form"@en	.

@@ -5,4 +5,4 @@
 <12088> a skos:Concept ;
 	rdfs:label "CClF3 (chlorotrifluoromethane, CFC-13)" ;
 	skos:notation "12088" ;
-	dct:description "IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9 , in gas phase"@en	.
+	dct:description "IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9, in gas phase"@en	.

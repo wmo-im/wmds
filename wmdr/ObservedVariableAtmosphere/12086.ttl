@@ -5,4 +5,4 @@
 <12086> a skos:Concept ;
 	rdfs:label "NF3 (nitrogen trifluoride)" ;
 	skos:notation "12086" ;
-	dct:description "IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2 , in gas phase"@en	.
+	dct:description "IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2, in gas phase"@en	.

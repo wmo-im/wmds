@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<376> a skos:Concept ;
+	rdfs:label "Electromagnetic current meter" ;
+	skos:notation "376" ;
+	dct:description "Determination of water velocity based on the principle that a conductor (water) moving through a magnetic field will produce an electrical current directly proportional to the speed of movement (Faraday’s law). By measuring this current and the resultant distortion in the magnetic field the instrument can be calibrated to determine point velocities of flowing water. [Based on Manual on Stream Gauging (WMO-No. 1044), Volume I. 2010]"@en	.

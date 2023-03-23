@@ -5,4 +5,4 @@
 <619> a skos:Concept ;
 	rdfs:label "SO4= (sulfate), corrected" ;
 	skos:notation "619" ;
-	dct:description "IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase,"@en	.
+	dct:description "IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase"@en	.

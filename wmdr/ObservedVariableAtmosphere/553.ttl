@@ -5,4 +5,4 @@
 <553> a skos:Concept ;
 	rdfs:label "Type of middle clouds" ;
 	skos:notation "553" ;
-	dct:description ""@en	.
+	dct:description "Type of clouds of genera Altocumulus, Altostratus, or Nimbostratus. These occur between 2-4 km (polar regions), 2-7 km (temperate regions) and 2-8 km (tropics) above ground [ref: WMO, International Cloud Atlas, 2017 ed.]"@en	.
