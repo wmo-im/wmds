@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12282> a skos:Concept ;
+	rdfs:label "Stream index velocity" ;
+	skos:notation "12282" ;
+	dct:description "A velocity that is representative of the average stream velocity; often measured in a profile or across the stream or over the water surface. [Based on 'velocity index method' in Manual on Stream Gauging (WMO-No. 1044), Volume II. 2010]"@en	.

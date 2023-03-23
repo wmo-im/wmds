@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<377> a skos:Concept ;
+	rdfs:label "Stream index-velocity rating" ;
+	skos:notation "377" ;
+	dct:description "Computation of stream discharge based on a relation between stream index velocity and average velocity (index-velocity rating) and a relation between stage and cross-sectional area (stage-area rating). Given these ratings and concurrent observations of stream index velocity and stage, average velocity and area are computed and finally discharge as their product. [Based on Manual on Stream Gauging (WMO No. 1044), volume I]"@en	.

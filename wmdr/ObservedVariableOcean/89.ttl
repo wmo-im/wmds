@@ -5,4 +5,4 @@
 <89> a skos:Concept ;
 	rdfs:label "Water-leaving spectral radiance" ;
 	skos:notation "89" ;
-	dct:description "Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area ,per wavelength and per solid angle"@en	.
+	dct:description "Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle"@en	.

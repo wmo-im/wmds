@@ -5,4 +5,4 @@
 <12> a skos:Concept ;
 	rdfs:label "Gravity gradients" ;
 	skos:notation "12" ;
-	dct:description "Gradient of the Earth's gravity field measured at the satellite orbital height - Physical unit: [ E ] , Eötvös (1 E = 1 mGal / 10 km) - Accuracy unit: [ E ]."@en	.
+	dct:description "Gradient of the Earth's gravity field measured at the satellite orbital height - Physical unit: [ E ], Eötvös (1 E = 1 mGal / 10 km) - Accuracy unit: [ E ]."@en	.

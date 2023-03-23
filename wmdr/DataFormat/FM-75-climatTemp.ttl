@@ -5,4 +5,4 @@
 <FM-75-climatTemp> a skos:Concept ;
 	rdfs:label "FM 75 - CLIMAT TEMP" ;
 	skos:notation "FM-75-climatTemp" ;
-	dct:description "Report of monthly aerological means form  a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en	.
+	dct:description "Report of monthly aerological means form a land station. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en	.

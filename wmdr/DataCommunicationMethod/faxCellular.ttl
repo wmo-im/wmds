@@ -5,4 +5,4 @@
 <faxCellular> a skos:Concept ;
 	rdfs:label "Fax/cellular" ;
 	skos:notation "faxCellular" ;
-	dct:description "Facsimile using a cellular or similar terrestrial telecommunications  network"@en	.
+	dct:description "Facsimile using a cellular or similar terrestrial telecommunications network"@en	.

@@ -5,4 +5,4 @@
 <hollows> a skos:Concept ;
 	rdfs:label "within hollows" ;
 	skos:notation "hollows" ;
-	dct:description "Low relief  (differences 30-250 m within 5-10 km range) on land, tending to convergent form"@en	.
+	dct:description "Low relief (differences 30-250 m within 5-10 km range) on land, tending to convergent form"@en	.

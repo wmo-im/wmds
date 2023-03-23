@@ -5,4 +5,4 @@
 <40> a skos:Concept ;
 	rdfs:label "accumulation mode" ;
 	skos:notation "40" ;
-	dct:description "'Particles with diameter from 0.1 to 1 µm (accumulation mode)"@en	.
+	dct:description "Particles with diameter from 0.1 to 1 µm (accumulation mode), sizing method defined separately or by context"@en	.

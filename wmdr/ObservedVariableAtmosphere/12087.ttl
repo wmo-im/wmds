@@ -5,4 +5,4 @@
 <12087> a skos:Concept ;
 	rdfs:label "CH3D (monodeuterated methane, methane-d1)" ;
 	skos:notation "12087" ;
-	dct:description "IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3 , in gas phase"@en	.
+	dct:description "IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3, in gas phase"@en	.

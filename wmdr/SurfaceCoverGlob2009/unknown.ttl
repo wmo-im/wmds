@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <unknown> a skos:Concept ;
-	rdfs:label "No data (burnt areas, clouds,…)" ;
+	rdfs:label "No data (burnt areas, clouds,...)" ;
 	skos:notation "unknown" ;
 	dct:description "NA"@en	.
