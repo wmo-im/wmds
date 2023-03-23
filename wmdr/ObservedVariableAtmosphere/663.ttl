@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <663> a skos:Concept ;
-	rdfs:label "C2H3O2- (CH3COO-, acetate)," ;
+	rdfs:label "C2H3O2- (CH3COO-, acetate)" ;
 	skos:notation "663" ;
-	dct:description "IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase,"@en	.
+	dct:description "IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase"@en	.

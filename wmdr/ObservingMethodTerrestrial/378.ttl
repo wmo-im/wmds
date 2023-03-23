@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<378> a skos:Concept ;
+	rdfs:label "Acoustic doppler velocity meter (ADVM)" ;
+	skos:notation "378" ;
+	dct:description "Determination of water velocity by using the Doppler principle applied to sound transmitted under water, in which the instrument is mounted in a fixed position under the water, giving an index velocity for a significant part of the flowing stream. [Based on Manual on Stream Gauging (WMO No. 1044), volume I]"@en	.

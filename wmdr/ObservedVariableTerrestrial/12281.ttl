@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12281> a skos:Concept ;
+	rdfs:label "Suspended sediment discharge" ;
+	skos:notation "12281" ;
+	dct:description "Amount of suspended sediment (suspended by turbulence for considerable periods of time without contact with the bed) crossing a stream section per unit time.  [Based on 'suspended sediment' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
