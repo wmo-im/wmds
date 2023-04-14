@@ -1,66 +1,66 @@
-notation,tags,name,description
-13,topography,Bathymetry,Bathymetry
-18,physical properties,Pressure,Pressure (depth) measured by CTD.
-62,currents,Ocean current direction,Direction of ocean motion measured at various depth levels
-63,currents,Ocean current speed,Velocity of ocean motion measured at various depth levels
-64,physical properties,Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects)
-65,physical properties,Surface currents,Ocean Vector motion measured at or near the surface (at stated depth)
-67,"biogeochemistry, inorganic carbon",Dissolved inorganic carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution"
-68,"biogeochemistry, dissolved organic carbon",Dissolved organic carbon,Concentration of dissolved organic carbon
-69,"biogeochemistry, nitrogen species",Dissolved organic nitrogen,Concentration of dissolved organic nitrogen
-70,physical properties,"Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation"
-71,"biogeochemistry, inorganic carbon",Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
-72,"biogeochemistry, particulate matter",Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3)."
-73,biogeochemistry,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately"
-74,biology,Primary production,"Production of organic matter by 'phytoplankton', microscopic plant-like photosynthetic organisms that live in the water"
-75,physical properties,Sea surface mass flux,Sea surface mass flux
-76,"physical properties, ocean surface heat flux",Ocean Surface heat flux,"The  exchange of heat, per unit area, crossing the surface between the ocean and the atmosphere.  It consists of the turbulent (latent and sensible) and the radiative (short wave and long wave) components."
-77,"physical properties, sea surface height",Sea surface height anomaly (SSHA),Sea surface height anomaly
-78,"biogeochemistry, inorganic carbon",Total alkalinity (TA),The amount of acid necessary to titrate all weak bases in seawater
-79,"biogeochemistry, inorganic carbon",pH,"Negative decimal logarithm of the hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity"
-82,biogeochemistry,SiO3= (metasilicate),Concentration of dissolved metasilicate
-85,biogeochemistry,O2-Ar ratio,Ratio of O2/Ar concentrations
-86,"biogeochemistry, oxygen",Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen
-87,"biogeochemistry, oxygen",Dissolved oxygen,Concentration of dissolved oxygen (O2) in the water column
-89,"physical properties, radiation",Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle"
-90,"biogeochemistry, volatile organic compound","C2H6S (dimethylsulfide, DMS)",Concentration of DMS
-91,physical properties,Subsurface salinity,Salinity of seawater
-92,physical properties,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW)
-94,"physical properties, subsurface temperature",Subsurface temperature,Seawater temperature measured with depth (degrees celsius/kelvin)
-95,physical properties,Sea surface temperature,"Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm"
-96,"physical properties, sea surface height",Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)"
-98,"physical properties, sea state",Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
-99,"physical properties, sea state",Dominant wave period,The period of the most energetic wave in the ocean wave spectrum
-100,"physical properties, sea state",Significant wave height,Average amplitude of the highest 33 out of 100 waves
-101,"physical properties, sea state",Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
-102,"physical properties, sea state",Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."
-103,"physical properties, ocean surface stress",Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
-311,"biogeochemistry, nutrients",NO2- (nitrite),Nitrite concentration in sea water.
-312,"biogeochemistry, nutrients",NO3- (nitrate),Nitrate concentration in sea water.
-399,"biogeochemistry, nutrients",PO4= (phosphate),Phosphate concentration in sea water.
-400,"biogeochemistry, phosporus species",Total organic phosphorus,Concentration of dissolved organic phosphorous
-401,"cryosphere, sea ice",Sea-ice cover,Fraction of an ocean area where ice is present
-402,"cryosphere, sea ice",Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level
-403,"cryosphere, sea ice",Sea-ice motion,Sea-ice motion
-404,"cryosphere, sea ice",Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
-405,"cryosphere, sea ice",Sea-ice surface temperature,Temperature of the surface of sea-ice
-406,"cryosphere, sea ice",Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density.
-407,"cryosphere, sea ice",Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.). Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
-408,"physical properties, CTD",Transmissivity,Measure of the light that passes through the water in relation to the incident light
-549,"biogeochemistry, CTD",pO2,partial pressure of O2
-731,"physical properties, CTD",Conductivity,Conductivity measured by CTD or MicroCAT
-732,"physical properties, CTD",Density,Density measured by CTD
-733,biology,Zooplankton (size and/or development stage),"Aggregate of animal or animal-like organisms in plankton, as protozoans"
-735,"biogeochemistry, inorganic carbon",pCO2,Partial pressure of CO2
-736,"biogeochemistry, inorganic carbon",pCO2 air-sea flux,Flux of CO2 from the ocean into the atmosphere
-739,"biogeochemistry, physical properties",Fluorescence (DOM),Flurometric coloured dissolved Organic matter concentration
-740,"physical properties, sea surface height",Mean dynamic topography (MDT),Time-mean (over a prescribed time period) of the sea surface height above the geoid
-741,"physical properties, sea surface height",Mean sea surface (MSS),Time-averaged height (over a prescribed time period) of the ocean surface with respect to the reference ellipsoid
-742,"physical properties, sea surface height","Sea surface height (SSH, OST)",Height of the sea surface with respect to the reference ellipsoid
-743,"physical properties, sea state",Wave height,Average of height (trough to crest) of the waves sampled over a specified time period
-744,"physical properties, sea state",Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
-745,"physical properties, sea state",Directional waves,"Waves measured in X,Y,Z directions"
-10080,"physical properties, sea surface height",Tides,Periodic change of sea height caused by the gravitational forces exerted by the Moon and the Sun on the Earth
-12244,"biogeochemistry, other gas","N2, Ar",Concentration of dissolved N2 and Ar
-12245,"biology, plankton",Zooplankton biomass and diversity,Biomass expressed as weight by volume; and diversity of biomass expressed as number of species per unit sample.
-12246,biogeochemistry,Ocean subsurface tracers,Concentration of trace molecules such as tritium and CFCs
+notation,path,domains,tags,name,description
+13,,,topography,Bathymetry,Bathymetry
+18,,,physical properties,Pressure,Pressure (depth) measured by CTD.
+62,,,currents,Ocean current direction,Direction of ocean motion measured at various depth levels
+63,,,currents,Ocean current speed,Velocity of ocean motion measured at various depth levels
+64,,,physical properties,Ocean dynamic topography (ODT),Deviation of sea level from the geoid caused by ocean currents (after corrections for tides and atmospheric pressure effects)
+65,,,physical properties,Surface currents,Ocean Vector motion measured at or near the surface (at stated depth)
+67,,,"biogeochemistry, inorganic carbon",Dissolved inorganic carbon (DIC),"The cumulated concentration of inorganic carbon species (dissolved carbon dioxide, carbonic acid, bicarbonate and carbonate) in solution"
+68,,,"biogeochemistry, dissolved organic carbon",Dissolved organic carbon,Concentration of dissolved organic carbon
+69,,,"biogeochemistry, nitrogen species",Dissolved organic nitrogen,Concentration of dissolved organic nitrogen
+70,,,physical properties,"Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation"
+71,,,"biogeochemistry, inorganic carbon",Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
+72,,,"biogeochemistry, particulate matter",Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3)."
+73,,,biogeochemistry,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately"
+74,,,biology,Primary production,"Production of organic matter by 'phytoplankton', microscopic plant-like photosynthetic organisms that live in the water"
+75,,,physical properties,Sea surface mass flux,Sea surface mass flux
+76,,,"physical properties, ocean surface heat flux",Ocean Surface heat flux,"The  exchange of heat, per unit area, crossing the surface between the ocean and the atmosphere.  It consists of the turbulent (latent and sensible) and the radiative (short wave and long wave) components."
+77,,,"physical properties, sea surface height",Sea surface height anomaly (SSHA),Sea surface height anomaly
+78,,,"biogeochemistry, inorganic carbon",Total alkalinity (TA),The amount of acid necessary to titrate all weak bases in seawater
+79,,,"biogeochemistry, inorganic carbon",pH,"Negative decimal logarithm of the hydrogen ion concentration in seawater, which is a measure of acidity and alkalinity"
+82,,,biogeochemistry,SiO3= (metasilicate),Concentration of dissolved metasilicate
+85,,,biogeochemistry,O2-Ar ratio,Ratio of O2/Ar concentrations
+86,,,"biogeochemistry, oxygen",Ocean subsurface dissolved oxygen concentration,Concentration of dissolved oxygen
+87,,,"biogeochemistry, oxygen",Dissolved oxygen,Concentration of dissolved oxygen (O2) in the water column
+89,,,"physical properties, radiation",Water-leaving spectral radiance,"Upward spectral radiance from the ocean surface, i.e. amount of light leaving the ocean per unit area, per wavelength and per solid angle"
+90,,,"biogeochemistry, volatile organic compound","C2H6S (dimethylsulfide, DMS)",Concentration of DMS
+91,,,physical properties,Subsurface salinity,Salinity of seawater
+92,,,physical properties,Sea surface salinity,Salinity of sea water in the surface layer (upper ~1 m if observed in MW)
+94,,,"physical properties, subsurface temperature",Subsurface temperature,Seawater temperature measured with depth (degrees celsius/kelvin)
+95,,,physical properties,Sea surface temperature,"Temperature of the sea water at surface. The 'bulk' temperature refers to the depth of typically 2 m, the 'skin' temperature refers to within the upper 1 mm"
+96,,,"physical properties, sea surface height",Coastal sea level (tide),"Deviation of sea level from local references in coastal zones, caused by local currents and tides (astronomical and wind-induced)"
+98,,,"physical properties, sea state",Dominant wave direction,One feature of the ocean wave spectrum. It is the direction of the most energetic wave in the spectrum.
+99,,,"physical properties, sea state",Dominant wave period,The period of the most energetic wave in the ocean wave spectrum
+100,,,"physical properties, sea state",Significant wave height,Average amplitude of the highest 33 out of 100 waves
+101,,,"physical properties, sea state",Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
+102,,,"physical properties, sea state",Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."
+103,,,"physical properties, ocean surface stress",Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
+311,,,"biogeochemistry, nutrients",NO2- (nitrite),Nitrite concentration in sea water.
+312,,,"biogeochemistry, nutrients",NO3- (nitrate),Nitrate concentration in sea water.
+399,,,"biogeochemistry, nutrients",PO4= (phosphate),Phosphate concentration in sea water.
+400,,,"biogeochemistry, phosporus species",Total organic phosphorus,Concentration of dissolved organic phosphorous
+401,,,"cryosphere, sea ice",Sea-ice cover,Fraction of an ocean area where ice is present
+402,,,"cryosphere, sea ice",Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level
+403,,,"cryosphere, sea ice",Sea-ice motion,Sea-ice motion
+404,,,"cryosphere, sea ice",Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
+405,,,"cryosphere, sea ice",Sea-ice surface temperature,Temperature of the surface of sea-ice
+406,,,"cryosphere, sea ice",Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density.
+407,,,"cryosphere, sea ice",Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.). Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
+408,,,"physical properties, CTD",Transmissivity,Measure of the light that passes through the water in relation to the incident light
+549,,,"biogeochemistry, CTD",pO2,partial pressure of O2
+731,,,"physical properties, CTD",Conductivity,Conductivity measured by CTD or MicroCAT
+732,,,"physical properties, CTD",Density,Density measured by CTD
+733,,,biology,Zooplankton (size and/or development stage),"Aggregate of animal or animal-like organisms in plankton, as protozoans"
+735,,,"biogeochemistry, inorganic carbon",pCO2,Partial pressure of CO2
+736,,,"biogeochemistry, inorganic carbon",pCO2 air-sea flux,Flux of CO2 from the ocean into the atmosphere
+739,,,"biogeochemistry, physical properties",Fluorescence (DOM),Flurometric coloured dissolved Organic matter concentration
+740,,,"physical properties, sea surface height",Mean dynamic topography (MDT),Time-mean (over a prescribed time period) of the sea surface height above the geoid
+741,,,"physical properties, sea surface height",Mean sea surface (MSS),Time-averaged height (over a prescribed time period) of the ocean surface with respect to the reference ellipsoid
+742,,,"physical properties, sea surface height","Sea surface height (SSH, OST)",Height of the sea surface with respect to the reference ellipsoid
+743,,,"physical properties, sea state",Wave height,Average of height (trough to crest) of the waves sampled over a specified time period
+744,,,"physical properties, sea state",Wave period,"The time required for two successive wave crests to pass a fixed point, or the time for a single wave crest to travel a distance equal to the length of the wave. This is averaged over a specified period of time."
+745,,,"physical properties, sea state",Directional waves,"Waves measured in X,Y,Z directions"
+10080,,,"physical properties, sea surface height",Tides,Periodic change of sea height caused by the gravitational forces exerted by the Moon and the Sun on the Earth
+12244,,,"biogeochemistry, other gas","N2, Ar",Concentration of dissolved N2 and Ar
+12245,,,"biology, plankton",Zooplankton biomass and diversity,Biomass expressed as weight by volume; and diversity of biomass expressed as number of species per unit sample.
+12246,,,biogeochemistry,Ocean subsurface tracers,Concentration of trace molecules such as tritium and CFCs
