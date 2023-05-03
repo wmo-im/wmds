@@ -190,5 +190,6 @@ Wb,Weber,SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-
 week,week,"Conventional unit of time, equivalent to 604800 s"
 W.m-2.sr-1.Hz-1,watt per square metre per steradian per hertz,"SI derived unit of spectral radiance per unit frequency; SI base unit equivalent: kg.s-2"
 pmol.kg-1,picomole per kilogram, "SI derived unit of amount per unit mass; SI base unit equivalent: 1E-12 mol.kg-1"
-nmol.kg-1,nanomole per kilogram, "SI derived unit of amount per unit mass; SI base unit equivalent: 1E-15 mol.kg-1"
+nmol.kg-1,nanomole per kilogram, "SI derived unit of amount per unit mass; SI base unit equivalent: 1E-9 mol.kg-1"
+fmol.kg-1,femtomole per kilogram, "SI derived unit of amount per unit mass; SI base unit equivalent: 1E-15 mol.kg-1"
 permeg,per meg, "Dimensionless number, expressed as a fraction of 1000000; SI base unit equivalent: 0.000001; also referred as parts per million (ppm)"
