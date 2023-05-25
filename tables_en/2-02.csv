@@ -480,35 +480,35 @@ USEPAGLGlider,\Co-sponsored\GOOS\OceanGliders,US EPA Great Lakes National Progra
 USFGlider,\Co-sponsored\GOOS\OceanGliders,University of South Florida Glider Program,USF Glider Program is part of SECOORA monitoring program
 USMGlider,\Co-sponsored\GOOS\OceanGliders,USM Glider Program,USM Glider Program is part of the Gulf of Mexico Coastal Ocean Observing System (GCOOS) is the Gulf of Mexico regional component of the U.S. Integrated Ocean Observing System (IOOS).
 VIMGlider,\Co-sponsored\GOOS\OceanGliders,Virginia Institute of Marine Science Glider Program,Glider deployment operated by VIMS with observation program.
-VOS3P,\Co-sponsored\GOOS\SOTVOS,VOS-3P,NA
-VOSAU,\Co-sponsored\GOOS\SOTVOS,VOS-AU,NA
-VOSCA,\Co-sponsored\GOOS\SOTVOS,VOS-CA,NA
-VOSCL,\Co-sponsored\GOOS\SOTVOS,VOS-CL,NA
-VOSDE,\Co-sponsored\GOOS\SOTVOS,VOS-DE,NA
-VOSDK,\Co-sponsored\GOOS\SOTVOS,VOS-DK,Danish VOS program
-VOSES,\Co-sponsored\GOOS\SOTVOS,VOS-ES,NA
-VOSEU,\Co-sponsored\GOOS\SOTVOS,VOS-EU,NA
-VOSFR,\Co-sponsored\GOOS\SOTVOS,VOS-FR,NA
-VOSGB,\Co-sponsored\GOOS\SOTVOS,VOS-GB,NA
-VOSGR,\Co-sponsored\GOOS\SOTVOS,VOS-GR,NA
-VOSHK,\Co-sponsored\GOOS\SOTVOS,VOS-HK,NA
-VOSIE,\Co-sponsored\GOOS\SOTVOS,VOS-IE,NA
-VOSIL,\Co-sponsored\GOOS\SOTVOS,VOS-IL,NA
-VOSIN,\Co-sponsored\GOOS\SOTVOS,VOS-IN,NA
-VOSIS,\Co-sponsored\GOOS\SOTVOS,VOS-IS,NA
-VOSJP,\Co-sponsored\GOOS\SOTVOS,VOS-JP,NA
-VOSKR,\Co-sponsored\GOOS\SOTVOS,VOS-KR,NA
-VOSMY,\Co-sponsored\GOOS\SOTVOS,VOS-MY,NA
-VOSNL,\Co-sponsored\GOOS\SOTVOS,VOS-NL,NA
-VOSNO,\Co-sponsored\GOOS\SOTVOS,VOS-NO,NA
-VOSNZ,\Co-sponsored\GOOS\SOTVOS,VOS-NZ,NA
-VOSPL,\Co-sponsored\GOOS\SOTVOS,VOS-PL,Polish VOS program
-VOSRU,\Co-sponsored\GOOS\SOTVOS,VOS-RU,NA
-VOSSE,\Co-sponsored\GOOS\SOTVOS,VOS-SE,NA
-VOSSHIPMASK,\Co-sponsored\GOOS\SOTVOS,VOS-SHIP-MASK,"Program created for platforms transmitting under ""SHIP"" GTS identifier"
-VOSTH,\Co-sponsored\GOOS\SOTVOS,VOS-TH,Thai VOS program
-VOSUS,\Co-sponsored\GOOS\SOTVOS,VOS-US,NA
-VOSZA,\Co-sponsored\GOOS\SOTVOS,VOS-ZA,NA
+VOS3P,\Co-sponsored\GOOS\SOT\VOS,VOS-3P,NA
+VOSAU,\Co-sponsored\GOOS\SOT\VOS,VOS-AU,NA
+VOSCA,\Co-sponsored\GOOS\SOT\VOS,VOS-CA,NA
+VOSCL,\Co-sponsored\GOOS\SOT\VOS,VOS-CL,NA
+VOSDE,\Co-sponsored\GOOS\SOT\VOS,VOS-DE,NA
+VOSDK,\Co-sponsored\GOOS\SOT\VOS,VOS-DK,Danish VOS program
+VOSES,\Co-sponsored\GOOS\SOT\VOS,VOS-ES,NA
+VOSEU,\Co-sponsored\GOOS\SOT\VOS,VOS-EU,NA
+VOSFR,\Co-sponsored\GOOS\SOT\VOS,VOS-FR,NA
+VOSGB,\Co-sponsored\GOOS\SOT\VOS,VOS-GB,NA
+VOSGR,\Co-sponsored\GOOS\SOT\VOS,VOS-GR,NA
+VOSHK,\Co-sponsored\GOOS\SOT\VOS,VOS-HK,NA
+VOSIE,\Co-sponsored\GOOS\SOT\VOS,VOS-IE,NA
+VOSIL,\Co-sponsored\GOOS\SOT\VOS,VOS-IL,NA
+VOSIN,\Co-sponsored\GOOS\SOT\VOS,VOS-IN,NA
+VOSIS,\Co-sponsored\GOOS\SOT\VOS,VOS-IS,NA
+VOSJP,\Co-sponsored\GOOS\SOT\VOS,VOS-JP,NA
+VOSKR,\Co-sponsored\GOOS\SOT\VOS,VOS-KR,NA
+VOSMY,\Co-sponsored\GOOS\SOT\VOS,VOS-MY,NA
+VOSNL,\Co-sponsored\GOOS\SOT\VOS,VOS-NL,NA
+VOSNO,\Co-sponsored\GOOS\SOT\VOS,VOS-NO,NA
+VOSNZ,\Co-sponsored\GOOS\SOT\VOS,VOS-NZ,NA
+VOSPL,\Co-sponsored\GOOS\SOT\VOS,VOS-PL,Polish VOS program
+VOSRU,\Co-sponsored\GOOS\SOT\VOS,VOS-RU,NA
+VOSSE,\Co-sponsored\GOOS\SOT\VOS,VOS-SE,NA
+VOSSHIPMASK,\Co-sponsored\GOOS\SOT\VOS,VOS-SHIP-MASK,"Program created for platforms transmitting under ""SHIP"" GTS identifier"
+VOSTH,\Co-sponsored\GOOS\SOT\VOS,VOS-TH,Thai VOS program
+VOSUS,\Co-sponsored\GOOS\SOT\VOS,VOS-US,NA
+VOSZA,\Co-sponsored\GOOS\SOT\VOS,VOS-ZA,NA
 VOTOGlider,\Co-sponsored\GOOS\OceanGliders,VOTO: Ocean Knowledge glider program,Ocean Knowledge at Voice of the Ocean glider program
 WhaleGlider,\Co-sponsored\GOOS\OceanGliders,Whale Glider Program,Whale Glider program in the Chukchi Sea.
 WHOIGlider,\Co-sponsored\GOOS\OceanGliders,Woods Hole Spray glider Program,Woods Hole Spray glider surveys of the Gulf Stream and other regions.
