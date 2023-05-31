@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<ArgodeepChina> a skos:Concept ;
+	rdfs:label "Argo Deep, CHINA" ;
+	skos:notation "ArgodeepChina" ;
+	dct:description "Deep Argo program led by QNLM (Qingdao pilot National Laboratory for Marine science and technology), China."@en	.
