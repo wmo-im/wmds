@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <12006> a skos:Concept ;
-	rdfs:label "Horizontal wind speed at specified distance from reference surface" ;
+	rdfs:label "Horizontal wind speed" ;
 	skos:notation "12006" ;
-	dct:description "Horizontal wind speed at specified distance from reference surface"@en	.
+	dct:description "The direction of horizontal wind expressed in degrees at which the wind originates, i.e., 0 deg for north or northerly wind, 90 deg for east or easterly wind, 180 deg (or -180 deg) degree for south or southerly wind, and 270 deg (or -90 deg) for west or westerly wind. This scalar quantity can be used to represent a value at given location and an instantaneous time or average over spatio-temporal extent or values as a function of spatio-temporal coordinates."@en	.
