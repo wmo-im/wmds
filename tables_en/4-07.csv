@@ -1,8 +1,8 @@
 notation,name,description
 equatorialRainforestFullyHumid,Af,Equatorial rainforest - fully humid
 equatorialMonsoon,Am,Equatorial - Monsoon
-equatorialSavannahDryWinter,As,Equatorial - Savannah - dry winter
-equatorialSavannahDrySummer,Aw,Equatorial - Savannah - dry summer
+equatorialSavannahDryWinter,Aw,Equatorial - Savannah - dry winter
+equatorialSavannahDrySummer,As,Equatorial - Savannah - dry summer
 steppeHotArid,BSh,Steppe - Hot arid
 steppeColdArid,BSk,Steppe - Cold arid
 desertHotArid,BWh,Desert - Hot arid
