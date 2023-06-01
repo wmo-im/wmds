@@ -9,7 +9,7 @@
 68,\Ocean\Biogeochemistry\Carbon species,,"biogeochemistry, dissolved organic carbon",Dissolved organic carbon,Concentration of dissolved organic carbon
 69,\Ocean\Biogeochemistry,,"biogeochemistry, nitrogen species",Dissolved organic nitrogen,Concentration of dissolved organic nitrogen
 70,\Ocean\Physical properties,,physical properties,"Diffuse attenuation coefficient (DAC), turbidity","Indicator of water turbidity and vertical processes in the ocean, extracted from ocean colour observation"
-71,\Ocean\Biogeochemistry,,"biogeochemistry, inorganic carbon",Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [¬µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
+71,\Ocean\Biogeochemistry,,"biogeochemistry, inorganic carbon",Chlorophyll a concentration,"Concentration of chlorophyll-a pigment in the surface water [µg l-1]. Indicator of living phytoplankton biomass, extracted from ocean colour observation. Uncertainty is expressed in mg/m3 for a given concentration of 1 mg/m3."
 72,\Ocean\Biogeochemistry,,"biogeochemistry, particulate matter",Ocean suspended sediments concentration,"Variable extracted from ocean colour observation. Indicative of river outflow, re-suspension or pollution of other-than-biological origin. Uncertainty expressed in g/m3 at a specific concentration (e.g., 2 g/m3)."
 73,\Ocean\Biogeochemistry,,biogeochemistry,Oil spill cover,"Fraction of an ocean area polluted by hydrocarbons released from ships or off-shore platforms, accidentally or deliberately"
 74,\Ocean\Biology,,biology,Primary production,"Production of organic matter by 'phytoplankton', microscopic plant-like photosynthetic organisms that live in the water"
@@ -33,7 +33,7 @@
 99,\Ocean\Waves,,"physical properties, sea state",Dominant wave period,The period of the most energetic wave in the ocean wave spectrum
 100,\Ocean\Waves,,"physical properties, sea state",Significant wave height,Average amplitude of the highest 33 out of 100 waves
 101,\Ocean\Waves,,"physical properties, sea state",Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
-102,\Ocean\Waves,,"physical properties, sea state",Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15¬∞deg; wide, and 25 frequency bands)."
+102,\Ocean\Waves,,"physical properties, sea state",Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."
 103,\Ocean\Wind,,"physical properties, ocean surface stress",Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
 311,\Ocean\Biogeochemistry\Nitrogen species,,"biogeochemistry, nutrients",NO2- (nitrite),Nitrite concentration in sea water.
 312,\Ocean\Biogeochemistry\Nitrogen species,,"biogeochemistry, nutrients",NO3- (nitrate),Nitrate concentration in sea water.
