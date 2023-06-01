@@ -82,7 +82,7 @@ notation,path,domains,tags,name,description
 305,\Atmosphere\Wind,,,Gust Speed,
 307,\Atmosphere\Wind,,,"Wind (Z component, vertical)",Z component of wind vector (horizontal and vertical profile)
 310,\Atmosphere\Wind,,,"Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
-314,\Atmosphere\Particle phase\Optical properties,,,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Œîz) where K is the absorption coefficient [km-1] and Œîz the vertical path [km]
+314,\Atmosphere\Particle phase\Optical properties,,,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertcal path [km]
 315,\Atmosphere\Particle phase\Optical properties,,,Aerosol Extinction Coefficient,Spectral volumetric extinction cross-section of aerosol particles.
 316,\Atmosphere\Particle phase\Optical properties,,,"Particle light absorption coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
 317,\Atmosphere\Particle phase\Optical properties,,,"Particle light absorption coefficient, PM10",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM10
@@ -90,7 +90,7 @@ notation,path,domains,tags,name,description
 322,\Atmosphere\Particle phase\Optical properties,,,"Particle light scattering coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
 323,\Atmosphere\Particle phase\Optical properties,,,"Particle light scattering coefficient, PM10",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM10
 324,\Atmosphere\Particle phase\Optical properties,,,"Particle light scattering coefficient, TSP",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: TSP
-325,\Atmosphere\Particle phase\Optical properties,,,"Aerosol optical depth, TSP","The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Œîz) where K is the extinction coefficient [km-1 ] and Œîz the vertical path [km]."
+325,\Atmosphere\Particle phase\Optical properties,,,"Aerosol optical depth, TSP","The AOD is the effective depth of the aerosol over a specified distance, from the viewpoint of radiation propagation: Vertical integral of spectral aerosol extinction coefficient AOD = exp(-K. Δz) where K is the extinction coefficient [km-1 ] and Δz the vertical path [km]."
 327,\Atmosphere\Clouds\Ice,,,Cloud ice,Atmospheric water in the solid phase (precipitating or not). 
 329,\Atmosphere\Clouds\Ice,,,Cloud ice effective radius,"The area weighted mean radius of ice particles, assimilated to spheres of the same volume."
 330,\Atmosphere\Clouds\Ice,,,Freezing level height in clouds,Height of the atmospheric layer in cloud where liquid-solid states transform into each other
@@ -152,11 +152,11 @@ notation,path,domains,tags,name,description
 398,\Atmosphere\Gas phase\Reactive gas\Nitrogen containing compounds,,,NOy,
 411,\Atmosphere\Particle phase\Physical properties,,,CCN concentration at single supersaturation,
 412,\Atmosphere\Particle phase\Physical properties,,,CCN concentration spectra,
-413,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 110 Œºm equivalent",
-414,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 165 Œºm equivalent",
-415,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 35 Œºm equivalent",
-416,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 50 Œºm equivalent",
-417,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 75 Œºm equivalent",
+413,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 110 μm equivalent",
+414,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 165 μm equivalent",
+415,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 35 μm equivalent",
+416,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 50 μm equivalent",
+417,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, 75 μm equivalent",
 418,\Atmosphere\Particle phase\Physical properties,,,"Hygroscopic growth factor, total aerosol",
 419,\Atmosphere\Gas phase\Greenhouse gas\PFCs,,,"C2F6 (hexafluoroethane, PFC-116)","IUPAC: 1,1,1,2,2,2-hexafluoroethane, PubChem CID: 6431, CAS Number: 76-16-4, in gas phase"
 420,\Atmosphere\Gas phase\Greenhouse gas\PFCs,,,"C3F8 (octafluoropropane, PFC-218)","IUPAC: 1,1,1,2,2,3,3,3-octafluoropropane, PubChem CID: 6432, CAS Number: 76-19-7, in gas phase"
@@ -239,7 +239,7 @@ notation,path,domains,tags,name,description
 503,\Atmosphere\Gas phase\Reactive gas\VOC,,,n-C7H16 (n-heptane),"IUPAC: heptane, PubChem CID: 8900, CAS Number: 142-82-5, in gas phase"
 504,\Atmosphere\Gas phase\Reactive gas\VOC,,,t-C4H8 (trans-2-butene),"IUPAC: (E)-but-2-ene, PubChem CID: 62695, CAS Number: 107-01-7, in gas phase"
 505,\Atmosphere\Gas phase\Reactive gas\VOC,,,t-C5H10 (trans-2-pentene),"IUPAC: (E)-pent-2-ene, PubChem CID: 5326161, CAS Number: 109-68-2, in gas phase"
-506,\Atmosphere\Clouds\Optical properties,,,Cloud optical depth,"Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD = exp(-K.Œîz), where K is the extinction coefficient [km-1] and Œîz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree to which the cloud prevents light from passing through it.'"
+506,\Atmosphere\Clouds\Optical properties,,,Cloud optical depth,"Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD = exp(-K.Δz), where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree to which the cloud prevents light from passing through it.'"
 507,\Atmosphere\Clouds\Optical properties,,,Optical depth of fog,
 508,\Atmosphere\Clouds\Optical properties,,,Optical depth within each cloud layer,
 509,\Atmosphere\Clouds\Optical properties,,,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
@@ -428,11 +428,11 @@ notation,path,domains,tags,name,description
 12002,\Atmosphere\Lightning,,,Lightning density cloud-to-ground,
 12005,\Atmosphere\Wind,,,Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface
 12006,\Atmosphere\Wind,,,Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface
-12016,Atmosphere\Gas phase\Greenhouse gas\CFCs,,,"Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase"
-12017,Atmosphere\Gas phase\Greenhouse gas\Halon,,,"CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6, in gas phase"
+12016,\Atmosphere\Gas phase\Greenhouse gas\CFCs,,,"Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase"
+12017,\Atmosphere\Gas phase\Greenhouse gas\Halon,,,"CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6, in gas phase"
 12018,Atmosphere\Gas phase\Greenhouse gas\Halon,,,"C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2, in gas phase"
-12019,Atmosphere\Gas phase\Greenhouse gas\HCFCs,,,"C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, in gas phase"
-12021,\Atmosphere\Gas phase,,,O2/N2 ratio,Atmospheric O2/N2 ratio
+12019,\Atmosphere\Gas phase\Greenhouse gas\HCFCs,,,"C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)","IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, in gas phase"
+12021,\Atmosphere\Gas phase,,,O2/N2 rato,Atmospheric O2/N2 ratio
 12022,\Atmosphere\Bioaerosol\Pollen,,,Total pollen,All pollen taxa
 12023,\Atmosphere\Bioaerosol\Pollen\Pinaceae,,,Total Pinaceae,Pine family pollen
 12024,\Atmosphere\Bioaerosol\Pollen\Pinaceae,,,Abies,Fir pollen
@@ -558,11 +558,11 @@ notation,path,domains,tags,name,description
 12144,\Atmosphere\Gas phase,,"organic, aromatic",C8H10 (p-xylene),"IUPAC: 1,4-xylene, PubChem CID: 7809, CAS Number: 106-42-3, in gas phase"
 12145,\Atmosphere\Particle phase\Optical properties,,,Particle light extinction coefficient,A measure of light attenuation due to scattering and absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance.
 12146,\Atmosphere\Particle phase\Optical properties,,,Particle single scattering albedo,Ratio of particle scattering coefficient to particle extinction coefficient or sum of particle absorption and scattering coefficients.
-12147,\Atmosphere\Particle phase\Optical properties,,,√Öngstr√∂m exponent for particle light extinction,A measure of dependence of the particle light extinction coefficient on wavelength expressed in power law relationship.
-12148,\Atmosphere\Particle phase\Optical properties,,,√Öngstr√∂m exponent for particle light scattering,A measure of dependence of the particle light scattering coefficient on wavelength expressed in power law relationship.
-12149,\Atmosphere\Particle phase\Optical properties,,,√Öngstr√∂m exponent for particle light absorption,A measure of dependence of the particle light absorption coefficient on wavelength expressed in power law relationship.
-12150,\Atmosphere\Particle phase\Optical properties,,,√Öngstr√∂m exponent for aerosol optical depth,A measure of dependence of the aerosol optical depth on wavelength expressed in power law relationship.
-12151,\Atmosphere\Particle phase\Optical properties,,,√Öngstr√∂m exponent  for aerosol absorption optical depth,A measure of dependence of the aerosol absorption optical depth on wavelength expressed in power law relationship.
+12147,\Atmosphere\Particle phase\Optical properties,,,Ångström exponent for particle light extinction,A measure of dependence of the particle light extinction coefficient on wavelength expressed in power law relationship.
+12148,\Atmosphere\Particle phase\Optical properties,,,Ångström exponent for particle light scattering,A measure of dependence of the particle light scattering coefficient on wavelength expressed in power law relationship.
+12149,\Atmosphere\Particle phase\Optical properties,,,Ångström exponent for particle light absorption,A measure of dependence of the particle light absorption coefficient on wavelength expressed in power law relationship.
+12150,\Atmosphere\Particle phase\Optical properties,,,Ångström exponent for aerosol optical depth,A measure of dependence of the aerosol optical depth on wavelength expressed in power law relationship.
+12151,\Atmosphere\Particle phase\Optical properties,,,Ångström exponent  for aerosol absorption optical depth,A measure of dependence of the aerosol absorption optical depth on wavelength expressed in power law relationship.
 12152,\Atmosphere\Particle phase\Physical properties,,,Particle surface area size distribution,"Particle surface area concentration as a function of size, typically equivalent spherical radius or diameter."
 12153,\Atmosphere\Particle phase\Physical properties,,,Particle volume size distribution,"Particle volume concentration as a function of size, typically equivalent spherical radius or diameter."
 12154,\Atmosphere\Particle phase\Physical properties,,,Particle mass size distribution,"Particle mass concentration as a function of size, typically equivalent spherical radius or diameter."
@@ -574,7 +574,7 @@ notation,path,domains,tags,name,description
 12160,\Atmosphere\Particle phase\Optical properties,,,Particle light hemispheric forward scattering coefficient,"Incident radiative flux scattered into all forward angles, i.e. scattering_angle from zero to pi/2 radians."
 12161,\Atmosphere\Particle phase\Physical properties,,,Particle effective diameter,The area weighted mean diameter of the aerosol particles.
 12162,\Atmosphere\Particle phase,,,Aerosol layer height,Height of vertically localized aerosol layer above sea level
-12163,Atmosphere\Dynamics,,,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
+12163,\Atmosphere\Dynamics,,,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
 12164,\Atmosphere\Gas phase,,,O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
 12165,\Atmosphere\Humidity,,,Water vapour,
 12166,\Atmosphere\Temperature,,,Temperature,
