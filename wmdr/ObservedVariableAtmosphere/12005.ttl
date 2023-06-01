@@ -5,4 +5,4 @@
 <12005> a skos:Concept ;
 	rdfs:label "Horizontal wind direction" ;
 	skos:notation "12005" ;
-	dct:description "The direction of horizontal wind expressed in degrees at which the wind originates, i.e., 0 deg for north or northerly wind, 90 deg for east or easterly wind, 180 deg (or -180 deg) degree for south or southerly wind, and 270 deg (or -90 deg) for west or westerly wind. This scalar quantity can be used to represent a value at given location and an instantaneous time or average over spatio-temporal extent or values as a function of spatio-temporal coordinates."@en	.
+	dct:description "The direction of horizontal wind at which the wind originates expressed in degrees, i.e., 0 deg for north or northerly wind, 90 deg for east or easterly wind, 180 deg (or -180 deg) degree for south or southerly wind, and 270 deg (or -90 deg) for west or westerly wind. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."@en	.

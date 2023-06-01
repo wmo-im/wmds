@@ -5,4 +5,4 @@
 <307> a skos:Concept ;
 	rdfs:label "w (vertical component of wind vector)" ;
 	skos:notation "307" ;
-	dct:description "Vertical component of the 3-D wind vector. positive value for upward wind. This scalar quantity can be used to represent a value at given location and an instantaneous time or average over spatio-temporal extent or values as a function of spatio-temporal coordinates."@en	.
+	dct:description "Vertical component of the 3-D wind vector, positive for upward wind. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."@en	.
