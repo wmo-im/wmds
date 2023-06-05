@@ -3,7 +3,6 @@ notation,path,domains,tags,name,description
 58,"\Atmosphere\Ozone\Remote-sensing, passive\(Optical) filter Instrument",,,(Optical) filter Instrument,
 59,\Atmosphere\Precipitation\In situ\(Ruler for) rain gauge,,,(Ruler for) rain gauge,
 60,\Atmosphere\Wind\In situ\(Ultra)sonic anemometer,,,(Ultra)sonic anemometer,
-inapplicable,,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 62,\Atmosphere\Radioactivity\In situ\Adsorption - scintillation counting,,,Adsorption - scintillation counting,
 63,\Atmosphere\Wind\In situ\Aerovane (wind vane with propeller),,,Aerovane (wind vane with propeller),
 64,\Atmosphere\Radioactivity\In situ\Alpha counting,,,Alpha counting,
@@ -236,10 +235,11 @@ inapplicable,,,,inapplicable,None of the codes in the table are applicable in th
 342,"Atmosphere, 'Remote-sensing, active', cloud, aerosol, particle phase, mixed-layer height, Ocean",,,High spectral resolution (HSR) lidar,"Light detection and ranging (lidar) with high spectral resolution capability, typically used for measurements of cloud and aerosol particle phase properties, ocean properties, and mixed layer height."
 343,"Atmosphere, 'Remote-sensing, active', aerosol, particle phase, particle shape",,,Polarized lidar,"Light detection and ranging (lidar) capable of determining the linear or circular depolarization ratio, typically used to discriminate spherical and non-spherical particles."
 343,"atmosphere,precipitation,in situ",,,Fog collection,Collection of fog using a mesh or similar capturing device and subsequent determination of the equivalent volume or mass of water.
-unknown,,,,unknown,The measurement/observing method is unknown.
 344,"Atmosphere, trace gases, greenhouse gas, in situ, \Atmosphere\Trace gas\In situ\Gas chromatography\GC-CVAFS",,,GC-CVAFS,Gas chromatography and detection by cold vapour atomic fluorescence spectrometry.
 345,"Atmosphere, trace gases, greenhouse gas, in situ, \Atmosphere\Trace gas\In situ\Gas chromatography\GC-TCD",,,GC-TCD,Gas chromatography and detection by a thermal conductivity detector.
 346,"Atmosphere, trace gases, in situ, \Atmosphere\Trace gas\In situ\Electrostatic collection + alpha counting",,,Electrostatic collection + alpha counting,Alpha counting after electrostatic collection of measurand.
 347,"Atmosphere, trace gases, in situ, \Atmosphere\Trace gas\In situ\Laser-based methods\Tunable Infrared Laser Differential Absorption Spectroscopy (TILDAS)",,,Tunable Infrared Laser Differential Absorption Spectroscopy (TILDAS),Tunable Infrared Laser Differential Absorption Spectroscopy (TILDAS).
 348,"Atmosphere, trace gases, in situ, \Atmosphere\Trace gas\In situ\Radionuclide decay counting [general]",,,Radionuclide decay counting [general],Determination of the counts measured per unit time as a result of radionuclide decay.
 349,"Atmosphere, trace gases, in situ, \Atmosphere\Trace gas\In situ\Optical spectrometry\IR-GFC",,,IR-GFC,"Infrared absorption measurement based on the gas-filter correlation technique, a specifique variant of NDIR."
+inapplicable,,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
+unknown,,,,unknown,The measurement/observing method is unknown.
