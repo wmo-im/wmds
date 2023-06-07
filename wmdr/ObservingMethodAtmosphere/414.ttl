@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<414> a skos:Concept ;
+	rdfs:label "Fog collection" ;
+	skos:notation "414" ;
+	dct:description "Collection of fog using a mesh or similar capturing device and subsequent determination of the equivalent volume or mass of water."@en	.
