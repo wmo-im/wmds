@@ -53,10 +53,10 @@ notation,path,domains,tags,name,description
 260,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)",,,"Lightning discharge type (cloud to cloud, cloud to surface)",
 265,atmosphere,,,Past weather,"Predominant characteristic of weather which had existed at the station during a given period of time. [Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"
 266,atmosphere,,,Present weather,"Weather existing at the time of observation, or under certain conditions, during the hour preceding the time of observation. [Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"
-267,\Atmosphere\Radiation\Background luminance,,,Background luminance,
-270,\Atmosphere\Radiation\Sunshine duration,,,Sunshine duration,
-271,\Atmosphere\Radiation\Surface albedo,,,Surface albedo,
-273,\Atmosphere\Radiation\UV\UV-B radiation,,,UV-B radiation,
+267,\Atmosphere\Radiation\Background luminance,,,Background luminance,Luminous flux received from the background per unit solid angle and per unit area. Note: Luminous flux is a quantity derived from radiant flux by evaluating the radiation according to its action upon the International Commission on Illumination standard photometric observer.
+270,\Atmosphere\Radiation\Sunshine duration,,,Sunshine duration,The total time in one day during which the direct solar irradiance is equal to or more than the threshold value for bright sunshine (the threshold being 120 W m–2 of direct solar irradiance).
+271,\Atmosphere\Radiation\Surface albedo,,,Surface albedo,Hemispherically integrated reflectance of the Earth surface in the range 0.4-0.7 µm.
+273,\Atmosphere\Radiation\UV\UV-B radiation,,,UV-B radiation,Ultraviolet radiation covering the range 280-315 nm.
 274,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),,,BrO (bromine monoxide),"IUPAC: n/a, PubChem CID: 5460627, CAS Number: 15656-19-6, in gas phase"
 275,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),,,C2Cl4 (tetrachloroethene),"IUPAC: 1,1,2,2-tetrachloroethene, PubChem CID: 31373, CAS Number: 127-18-4, in gas phase"
 276,\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene),,,C2HCl3 (trichloroethene),"IUPAC: 1,1,2-trichloroethene, PubChem CID: 6575, CAS Number: 79-01-6, in gas phase"
@@ -115,10 +115,10 @@ notation,path,domains,tags,name,description
 349,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air and aerosol",,,"C18H12 (Benz(a)anthracene), in air and aerosol","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in aerosol"
 350,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in precipitation",,,"C18H12 (Benz(a)anthracene), in precipitation","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in precipitation"
 351,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in total precipitation",,,"C18H12 (Benz(a)anthracene), in total precipitation","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in total precipitation"
-356,\Atmosphere\Radiation\UV\UV Broadband,,,UV Broadband,
-357,\Atmosphere\Radiation\UV\UV Erythemally weighted,,,UV Erythemally weighted,
-358,\Atmosphere\Radiation\UV\UV Multiband,,,UV Multiband,
-359,\Atmosphere\Radiation\UV\UV Spectral,,,UV Spectral,
+356,\Atmosphere\Radiation\UV\UV Broadband radiation,,,UV Broadband radiation,Spectrally integrated UV radiation 
+357,\Atmosphere\Radiation\UV\UV Erythemal radiation,,,UV Erythemal radiation,Radiation effective in causing actinic erythema
+358,\Atmosphere\Radiation\UV\UV Multiband radiation,,,UV Multiband radiation,"UV radiation measured across several discrete, narrow wavebands (e.g. 10 nm) within the UV range, providing coarse spectral information"
+359,\Atmosphere\Radiation\UV\UV Spectral radiation,,,UV Spectral radiation,UV radiation measured at continuous and higher spectral resolution (e.g. 1 nm) than multiband UV radiation
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),,,Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,"particle phase, physical properties",,,Particle effective radius,The area weighted mean radius of the aerosol particles.
 364,"particle phase, physical properties",,,"Particle mass concentration, PM10","Mass of particles per unit volume of air, size range: PM10"
