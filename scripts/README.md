@@ -10,6 +10,12 @@ The check_consistency.yml runs only when a pull request is merged or the master 
 ## Testing and management
 These scripts provides tools written in Python to check content consistency with the published test and prod registers and to upload changes.
 
+* reset wmdr register on test to match the content of prod 
+
+```
+python scripts/synchroniseTestProd.py username password 
+```
+
 * generate `ttl` files 
 ```
 tmode=test python3 -m scripts.makeWMDREntities
@@ -38,9 +44,5 @@ python scripts/uploadChanges.py username password test '{"PUT": [],"POST": []}'
 python3 -m scripts.uploadChanges <uname> <temporaryKey> test </path/to/a/readable/file>
 ```
 
-* reset wmdr register on test to match the content of prod 
 
-```
-python scripts/synchroniseTestProd.py username password 
-```
 
