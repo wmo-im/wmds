@@ -25,7 +25,7 @@ argoArgentina,\Co-sponsored\GOOS\Argo\ARGO ARGENTINA,ARGO ARGENTINA,ARGO ARGENTI
 argoAustralia,\Co-sponsored\GOOS\Argo\ARGO AUSTRALIA,ARGO AUSTRALIA,ARGO AUSTRALIA
 argoAustraliaEq,\Co-sponsored\GOOS\Argo\ARGO AUSTRALIA EQ.,ARGO AUSTRALIA EQ.,ARGO AUSTRALIA EQ.
 argoAWI,\Co-sponsored\GOOS\Argo\ARGO AWI,ARGO AWI,ARGO AWI
-ArgoBGCAOML,\Co-sponsored\GOOS\Argo\ArgoBGCAOML,"Argo BGC, AOML",NOAA/AOML Argo BGC float program
+argoBGCAOML,\Co-sponsored\GOOS\Argo\ArgoBGCAOML,"Argo BGC, AOML",NOAA/AOML Argo BGC float program
 argoBrazil,\Co-sponsored\GOOS\Argo\ARGO BRAZIL,ARGO BRAZIL,ARGO BRAZIL
 argoBrazilNavy,\Co-sponsored\GOOS\Argo\ARGO BRAZIL NAVY,ARGO BRAZIL NAVY,ARGO BRAZIL NAVY
 argoBSH,\Co-sponsored\GOOS\Argo\ARGO BSH,ARGO BSH,ARGO BSH
@@ -35,7 +35,7 @@ argoChile,\Co-sponsored\GOOS\Argo\ARGO CHILE,ARGO CHILE,ARGO CHILE
 argoChina,\Co-sponsored\GOOS\Argo\ARGO CHINA,ARGO CHINA,ARGO CHINA
 argoChinaSOA,\Co-sponsored\GOOS\Argo\ARGO CHINA SOA,ARGO CHINA SOA,ARGO CHINA SOA
 argoCostaRica,\Co-sponsored\GOOS\Argo\ARGO COSTA RICA,ARGO COSTA RICA,ARGO COSTA RICA
-ArgodeepChina,\Co-sponsored\GOOS\Argo\ArgodeepChina,"Argo Deep, CHINA","Deep Argo program led by QNLM (Qingdao pilot National Laboratory for Marine science and technology), China."
+argoDeepChina,\Co-sponsored\GOOS\Argo\ArgodeepChina,"Argo Deep, CHINA","Deep Argo program led by QNLM (Qingdao pilot National Laboratory for Marine science and technology), China."
 argoDenmark,\Co-sponsored\GOOS\Argo\ARGO DENMARK,ARGO DENMARK,ARGO DENMARK
 argoEcuador,\Co-sponsored\GOOS\Argo\ARGO ECUADOR,ARGO ECUADOR,ARGO ECUADOR
 argoEqAOML,\Co-sponsored\GOOS\Argo\ARGO EQ. AOML,ARGO EQ. AOML,ARGO EQ. AOML
@@ -101,18 +101,18 @@ argoNorway,\Co-sponsored\GOOS\Argo\ARGO NORWAY,ARGO NORWAY,ARGO NORWAY
 ARGOPeru,\Co-sponsored\GOOS\Argo\Argo PERU,Argo PERU,Argo project - Peru
 argoPMEL,\Co-sponsored\GOOS\Argo\ARGO PMEL,ARGO PMEL,ARGO PMEL
 argoPoland,\Co-sponsored\GOOS\Argo\ARGO POLAND,ARGO POLAND,ARGO POLAND
-ArgoPortugal,\Co-sponsored\GOOS\Argo\ArgoPortugal,Argo Portugal,Argo float deployment and scientific program in Portugal
+argoPortugal,\Co-sponsored\GOOS\Argo\ArgoPortugal,Argo Portugal,Argo float deployment and scientific program in Portugal
 argoRussia,\Co-sponsored\GOOS\Argo\ARGO RUSSIA,ARGO RUSSIA,ARGO RUSSIA
 argoSaudiArabia,\Co-sponsored\GOOS\Argo\ARGO SAUDI ARABIA,ARGO SAUDI ARABIA,ARGO SAUDI ARABIA
 argoSIO,\Co-sponsored\GOOS\Argo\ARGO SIO,ARGO SIO,ARGO SIO
 argoSIOEqASIRI,\Co-sponsored\GOOS\Argo\ARGO SIO EQ (ASIRI),ARGO SIO EQ (ASIRI),ARGO SIO EQ (ASIRI)
-ArgoSIOeqBGCSOLONOPP,\Co-sponsored\GOOS\Argo\ArgoSIOeqBGCSOLONOPP,Argo SIO .eq. (BGCSOLONOPP),"Side BioGeoChemical Argo program, National Oceanographic Partnership Program"
+argoSIOeqBGCSOLONOPP,\Co-sponsored\GOOS\Argo\ArgoSIOeqBGCSOLONOPP,Argo SIO .eq. (BGCSOLONOPP),"Side BioGeoChemical Argo program, National Oceanographic Partnership Program"
 argoSIOEqOKMC,\Co-sponsored\GOOS\Argo\ARGO SIO EQ. (OKMC),ARGO SIO EQ. (OKMC),ARGO SIO EQ. (OKMC)
 argoSIOEqSBE61NOPP,\Co-sponsored\GOOS\Argo\Argo SIO eq. (SBE61NOPP),Argo SIO eq. (SBE61NOPP),NOPP Deep Argo pilot
 argoSouthAfrica,\Co-sponsored\GOOS\Argo\ARGO SOUTH AFRICA,ARGO SOUTH AFRICA,ARGO SOUTH AFRICA
 argoSpain,\Co-sponsored\GOOS\Argo\ARGO SPAIN,ARGO SPAIN,ARGO SPAIN
 argoSriLanka,\Co-sponsored\GOOS\Argo\ARGO SRI LANKA,ARGO SRI LANKA,ARGO SRI LANKA
-ArgoSweden,\Co-sponsored\GOOS\Argo\ArgoSweden,Argo Sweden,Swedish Argo program
+argoSweden,\Co-sponsored\GOOS\Argo\ArgoSweden,Argo Sweden,Swedish Argo program
 argoTWREng,\Co-sponsored\GOOS\Argo\ARGO TWR ENGINEERING,ARGO TWR ENGINEERING,ARGO TWR ENGINEERING
 argoUK,\Co-sponsored\GOOS\Argo\ARGO UK,ARGO UK,ARGO UK
 argoUKBIO,\Co-sponsored\GOOS\Argo\ARGO UK BIO,ARGO UK BIO,ARGO UK BIO
@@ -243,7 +243,7 @@ GLOSSBD,\Co-sponsored\GOOS\Tide Gauges\GLOSSBD,GLOSS BD,Global Sea Level Observi
 GLOSSBR,\Co-sponsored\GOOS\Tide Gauges\GLOSSBR,GLOSS BR,Global Sea Level Observing System Tide Gauges - Brasil
 GLOSSCA,\Co-sponsored\GOOS\Tide Gauges\GLOSSCA,GLOSS CA,Global Sea Level Observing System Tide Gauges - Canada
 GLOSSCG,\Co-sponsored\GOOS\Tide Gauges\GLOSSCG,GLOSS CG,Global Sea Level Observing System Tide Gauges - Republic of the Congo
-GLOSSCI,\Co-sponsored\GOOS\Tide Gauges\GLOSSCI,GLOSS CI,Global Sea Level Observing System Tide Gauges - C™te d'Ivoire
+GLOSSCI,\Co-sponsored\GOOS\Tide Gauges\GLOSSCI,GLOSS CI,Global Sea Level Observing System Tide Gauges - Côte d'Ivoire
 GLOSSCL,\Co-sponsored\GOOS\Tide Gauges\GLOSSCL,GLOSS CL,Global Sea Level Observing System Tide Gauges - Chile
 GLOSSCM,\Co-sponsored\GOOS\Tide Gauges\GLOSSCM,GLOSS CM,Global Sea Level Observing System Tide Gauges - Cameroon
 GLOSSCN,\Co-sponsored\GOOS\Tide Gauges\GLOSSCN,GLOSS CN,Global Sea Level Observing System Tide Gauges - China
