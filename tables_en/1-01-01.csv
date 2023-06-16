@@ -656,8 +656,6 @@ notation,path,domains,tags,name,description
 12242,radionuclide,,,Gold [Au-198],"IUPAC: gold-198, PubChem CID: 66274, CAS Number: 10043-49-9"
 12243,"greenhouse gas, HCFCs",,,"C2H2Cl2F2 (1,2-dichloro-1,1-difluoroethane, HCFC-132b)","IUPAC: 1,2-dichloro-1,1-difluoroethane, PubChem CID: 15442, CAS Number: 1649-08-7, in gas phase"
 12244,"greenhouse gas, HCFCs",,,"C2H2ClF3 (2-chloro-1,1,1-trifluoroethane, HCFC-133a)","IUPAC: 2-chloro-1,1,1-trifluoroethane, PubChem CID: 6408, CAS Number: 75-88-7, in gas phase"
-12245,"greenhouse gas, HFCs",,,"C3H2F6 (1,1,1,3,3,3-hexafluoropropane, HFC-236fa)","IUPAC: 1,1,1,3,3,3-hexafluoropropane, PubChem CID: 12722, CAS Number: 690-39-1, in gas phase"
-12246,radionuclide,,,Tellurium [Te-131],"IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"
 12247,radionuclide,,,Neodymium [Nd-137],IUPAC: neodymium-137
 12248,"particle phase, optical properties",,,Attenuated backscatter,The product of the total volume backscatter coefficient and the atmospheric two-way transmission of the layers between the instrument and the observed volume. The total volume backscatter coefficient is the sum of all backscatter coefficients from the atmosphere (including from molecules and particles) accounting for all polarizations. The atmospheric two-way transmission accounts for the total volume (molecular and particulate and all polarizations) extinction along the path from the instrument to the observed volume and back.
 12249,"atmosphere,humidity",,,Relative humidity (with respect to water),The ratio of the amount fraction of the water vapour in the air to the corresponding amount fraction if the air were saturated with respect to water at a particular pressure and temperature. Relative humidity is typically reported in percent (%). [Based on definition of R1490 in International Vocabulary of Meteorology (WMO-No. 182). 1992.]
@@ -674,3 +672,5 @@ notation,path,domains,tags,name,description
 12260,"atmosphere, remote sensing, level 1",,,Zenith total delay (ZTD),"The time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum, and scaled to refer to the equivalent vertical path."
 12261,"atmosphere, remote sensing, level 1",,,Delay Doppler map,"A 2D array of backscatter coefficients as a function of Doppler shift and signal delay, derived from GNSS reflectometry."
 12262,Radio occultation,,,Impact parameter,"Minimum distance between the direction vector of the ray (prior to bending) and the centre of the curvature of the ellipsoid describing the Earth, used particularly for GNSS radio occultation observations."
+122XX,"greenhouse gas, HFCs",,,"C3H2F6 (1,1,1,3,3,3-hexafluoropropane, HFC-236fa)","IUPAC: 1,1,1,3,3,3-hexafluoropropane, PubChem CID: 12722, CAS Number: 690-39-1, in gas phase"
+122XX,radionuclide,,,Tellurium [Te-131],"IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"
