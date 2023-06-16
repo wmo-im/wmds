@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12016> a skos:Concept ;
+<12283> a skos:Concept ;
 	rdfs:label "Rock glacier velocity" ;
-	skos:notation "12016" ;
+	skos:notation "12283" ;
 	dct:description "Surface velocity of a single rock glacier unit."@en	.
