@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<ArgoSIOeqBGCSOLONOPP> a skos:Concept ;
+<argoSIOeqBGCSOLONOPP> a skos:Concept ;
 	rdfs:label "Argo SIO .eq. (BGCSOLONOPP)" ;
-	skos:notation "ArgoSIOeqBGCSOLONOPP" ;
+	skos:notation "argoSIOeqBGCSOLONOPP" ;
 	dct:description "Side BioGeoChemical Argo program, National Oceanographic Partnership Program"@en	.

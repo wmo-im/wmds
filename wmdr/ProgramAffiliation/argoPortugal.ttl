@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<ArgoPortugal> a skos:Concept ;
+<argoPortugal> a skos:Concept ;
 	rdfs:label "Argo Portugal" ;
-	skos:notation "ArgoPortugal" ;
+	skos:notation "argoPortugal" ;
 	dct:description "Argo float deployment and scientific program in Portugal"@en	.

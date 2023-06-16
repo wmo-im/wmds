@@ -5,4 +5,4 @@
 <GLOSSCI> a skos:Concept ;
 	rdfs:label "GLOSS CI" ;
 	skos:notation "GLOSSCI" ;
-	dct:description "Global Sea Level Observing System Tide Gauges - C™te d'Ivoire"@en	.
+	dct:description "Global Sea Level Observing System Tide Gauges - Côte d'Ivoire"@en	.

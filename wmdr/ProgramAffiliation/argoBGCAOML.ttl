@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<ArgoSweden> a skos:Concept ;
-	rdfs:label "Argo Sweden" ;
-	skos:notation "ArgoSweden" ;
-	dct:description "Swedish Argo program"@en	.
+<argoBGCAOML> a skos:Concept ;
+	rdfs:label "Argo BGC, AOML" ;
+	skos:notation "argoBGCAOML" ;
+	dct:description "NOAA/AOML Argo BGC float program"@en	.
