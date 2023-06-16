@@ -5,4 +5,4 @@
 <12005> a skos:Concept ;
 	rdfs:label "Horizontal wind direction" ;
 	skos:notation "12005" ;
-	dct:description "The direction of horizontal wind at which the wind originates. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."@en	.
+	dct:description "The direction of horizontal wind at which the wind originates. Scalar quantity to represent a value at a given location and instant, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."@en	.

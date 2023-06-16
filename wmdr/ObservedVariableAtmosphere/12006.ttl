@@ -5,4 +5,4 @@
 <12006> a skos:Concept ;
 	rdfs:label "Horizontal wind speed" ;
 	skos:notation "12006" ;
-	dct:description "The speed of horizontal wind, a ratio of the horizontal distance covered by the air to the time taken to cover that distance. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."@en	.
+	dct:description "The speed of horizontal wind, a ratio of the horizontal distance covered by the air to the time taken to cover that distance. Scalar quantity to represent a value at a given location and instant, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."@en	.
