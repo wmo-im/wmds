@@ -35,7 +35,7 @@
 4-07,Climate zone,http://codes.wmo.int/wmdr/ClimateZone
 5-01,Source of observation,http://codes.wmo.int/wmdr/SourceOfObservation
 5-02-01,Measurement/observing method (atmosphere),http://codes.wmo.int/wmdr/ObservingMethodAtmosphere
-5-02-03,Measurement/observing method (ocean),http://codes.wmo.int/wmdr/ObservingOcean
+5-02-03,Measurement/observing method (ocean),http://codes.wmo.int/wmdr/ObservingMethodOcean
 5-02-05,Measurement/observing method (terrestrial and hydrological),http://codes.wmo.int/wmdr/ObservingMethodTerrestrial
 5-03-01,Polarization of electromagnetic radiation,http://codes.wmo.int/wmdr/Polarization
 5-03-02,Frequency use of electromagnetic radiation,http://codes.wmo.int/wmdr/FrequencyUse
@@ -63,3 +63,4 @@
 11-02,Coordinates reference,http://codes.wmo.int/wmdr/CoordinateReferenceSystem
 11-03,Meaning of time stamp,http://codes.wmo.int/wmdr/TimeStampMeaning
 11-04,Timezone,https://codes.wmo.int/wmdr/Timezone
+superseded,Multiple tables,https://codes.wmo.int/wmdr

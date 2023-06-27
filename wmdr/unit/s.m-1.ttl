@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<s.m-1> a skos:Concept ;
-	rdfs:label "second per metre" ;
-	skos:notation "s.m-1" ;
-	dct:description "SI derived unit of quantity with dimension of T.L-1"@en	.
+<S.m-1> a skos:Concept ;
+	rdfs:label "siemens per metre" ;
+	skos:notation "S.m-1" ;
+	dct:description "SI derived unit of spatial gradient of electric conductance"@en	.
