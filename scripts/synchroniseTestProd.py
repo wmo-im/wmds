@@ -52,8 +52,8 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     prod_uri = 'http://codes.wmo.int'
-    test_uri = 'http://testwmocodes.metarelate.net'
-    wmdr_test_uri = test_uri + '/wmdr'
+    test_uri = 'https://testwmocodes.metarelate.net'
+    wmdr_test_uri = 'https://testwmocodes.metarelate.net/wmdr'
 
     wmdr_prod_registers = [r['regdef']['value'] for r in entities(prod_uri + '/wmdr', prod_uri)]
     wmdr_test_registers = [r['regdef']['value'] for r in entities(prod_uri + '/wmdr', test_uri)]
