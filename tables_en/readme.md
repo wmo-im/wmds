@@ -69,5 +69,5 @@
 * [11-02.csv](./11-02.csv) [CoordinateReferenceSystem](http://codes.wmo.int/wmdr/CoordinateReferenceSystem) Coordinates reference
 * [11-03.csv](./11-03.csv) [TimeStampMeaning](http://codes.wmo.int/wmdr/TimeStampMeaning) Meaning of time stamp
 * [11-04.csv](./11-04.csv) [Timezone](https://codes.wmo.int/wmdr/Timezone) Timezone
-* [superseded.csv](./superseded.csv) [wmdr](https://codes.wmo.int/wmdr) Multiple tables
+* [superseded.csv](./superseded.csv) [notApplicable](https://codes.wmo.int/wmdr/notApplicable) Multiple tables
 
