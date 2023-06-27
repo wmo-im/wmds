@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<407> a skos:Concept ;
+	rdfs:label "HF echo Doppler spectra analysis method (HR radar)" ;
+	skos:notation "407" ;
+	dct:description "Remote sensing of surface currents employing radars frequencies."@en	.
