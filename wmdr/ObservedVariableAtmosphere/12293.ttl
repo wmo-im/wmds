@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12261> a skos:Concept ;
+<12293> a skos:Concept ;
 	rdfs:label "Delay Doppler map" ;
-	skos:notation "12261" ;
+	skos:notation "12293" ;
 	dct:description "A 2D array of backscatter coefficients as a function of Doppler shift and signal delay, derived from GNSS reflectometry."@en	.

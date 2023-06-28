@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12252> a skos:Concept ;
+<12284> a skos:Concept ;
 	rdfs:label "Radiance" ;
-	skos:notation "12252" ;
+	skos:notation "12284" ;
 	dct:description "The radiant flux emitted, reflected, transmitted or received by a given surface, per unit solid angle per unit projected area. It is a directional quantity. Note: Historically, radiance was called 'intensity'."@en	.
