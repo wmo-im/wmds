@@ -22,6 +22,10 @@ based on the relative path of the .ttl file.
 """
 
 def authenticate(session, base, userid, pss):
+    # Prefer HTTPS for registry session interactions
+    # Essential for authenticate due to 405 response
+    if base.startswith('http://'):
+        base = base.replace('http://', 'https://')
     auth = session.post('{}/system/security/apilogin'.format(base),
                         data={'userid':userid,
                                 'password':pss})
@@ -39,6 +43,9 @@ def parse_uploads(uploads):
     return result
 
 def post(session, url, payload):
+    # Prefer HTTPS for registry session interactions
+    if url.startswith('http://'):
+        url = url.replace('http://', 'https://')
     # POST new content to the intended parent register
     headers={'Content-type':'text/turtle; charset=UTF-8'}
     response = session.get(url, headers=headers)
@@ -52,6 +59,9 @@ def post(session, url, payload):
         print('POST failed with {}\n{}'.format(res.status_code, res.reason))
 
 def put(session, url, payload):
+    # Prefer HTTPS for registry session interactions
+    if url.startswith('http://'):
+        url = url.replace('http://', 'https://')
     # PUT updated content to the entity already registered
     headers={'Content-type':'text/turtle; charset=UTF-8'}
     response = session.get(url, headers=headers)
