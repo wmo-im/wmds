@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12292> a skos:Concept ;
+<12303> a skos:Concept ;
 	rdfs:label "Zenith total delay (ZTD)" ;
-	skos:notation "12292" ;
+	skos:notation "12303" ;
 	dct:description "The time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum, and scaled to refer to the equivalent vertical path."@en	.

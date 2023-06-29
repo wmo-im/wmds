@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12287> a skos:Concept ;
+<12298> a skos:Concept ;
 	rdfs:label "Spectral bidirectional reflectance" ;
-	skos:notation "12287" ;
+	skos:notation "12298" ;
 	dct:description "Ratio of reflected to incident radiation as a function of incident angle, reflected angle and wavelength. For a satellite measurement, these angles are the zenith and azimuth angles of the sun and the zenith and azimuth angle of the viewing instrument at the feature (surface and/or atmospheric column) being observed."@en	.
