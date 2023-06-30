@@ -1,5 +1,5 @@
 notation,path,domains,tags,name,description
-24,\Atmosphere\Clouds\Human observation,,,Human observation,"Observation of clouds from the Earth's surface by a human observer (ref: https://cloudatlas.wmo.int/en/observation-of-clouds-from-the-earths-surface.html)"
+24,\Atmosphere\Clouds\Human observation,,,Human observation,
 58,"\Atmosphere\Ozone\Remote-sensing, passive\(Optical) filter Instrument",,,(Optical) filter Instrument,
 59,\Atmosphere\Precipitation\In situ\(Ruler for) rain gauge,,,(Ruler for) rain gauge,
 60,\Atmosphere\Wind\In situ\(Ultra)sonic anemometer,,,(Ultra)sonic anemometer,
@@ -99,7 +99,7 @@ notation,path,domains,tags,name,description
 186,\Atmosphere\Ozone\In situ\Regener Sonde (chemiluminescence),,,Regener Sonde (chemiluminescence),
 188,"\Atmosphere\Temperature\In situ\Resistance thermometer, thermistor",,,"Resistance thermometer, thermistor",
 189,"\Atmosphere\Ozone\Remote-sensing, passive\SAOZ (UV-vis diode array spectrometer)",,,SAOZ (UV-vis diode array spectrometer),
-190,"\Atmosphere\Visual range\Remote-sensing, active\Scatterometer",,,Scatterometer,"Visual range is calculated by measuring the return of light beam scattered by diffusion in air."
+190,"\Atmosphere\Visual range\Remote-sensing, active\Scatterometer",,,Scatterometer,
 191,\Atmosphere\Trace gas\In situ\Separation + manometric determination,,,Separation + manometric determination,
 195,\Atmosphere\Temperature\In situ\Sonic thermometer,,,Sonic thermometer,
 196,"\Atmosphere\Wind\Remote-sensing, active\Sound detection and ranging (Sodar) profiler",,,Sound detection and ranging (Sodar) profiler,
@@ -108,7 +108,7 @@ notation,path,domains,tags,name,description
 201,"\Atmosphere\Temperature\In situ\Thermocouple, thermopile",,,"Thermocouple, thermopile",
 204,\Atmosphere\Precipitation\In situ\Tipping bucket rain gauge (totalizer),,,Tipping bucket rain gauge (totalizer),
 205,\Atmosphere\Trace gas\In situ\Titration,,,Titration,
-207,"\Atmosphere\Visual range\Remote-sensing, active\Transmissometer",,,Transmissometer,"Visual range is calculated by measuring the extinction coefficient of a beam of energy sent through a volume of air."
+207,"\Atmosphere\Visual range\Remote-sensing, active\Transmissometer",,,Transmissometer,
 208,\Atmosphere\Dynamics\Numerical model\Transport modeling (model unspecified),,,Transport modeling (model unspecified),
 209,\Atmosphere\Total atmospheric deposition\In situ\Turbidity measurement,,,Turbidity measurement,
 210,"\Atmosphere\Ozone\Remote-sensing, passive\Umkehr method",,,Umkehr method,
