@@ -5,4 +5,4 @@
 <271> a skos:Concept ;
 	rdfs:label "Surface albedo" ;
 	skos:notation "271" ;
-	dct:description ""@en	.
+	dct:description "Hemispherically integrated reflectance of the Earth surface in the range 0.4-0.7 µm."@en	.

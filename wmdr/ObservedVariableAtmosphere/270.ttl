@@ -5,4 +5,4 @@
 <270> a skos:Concept ;
 	rdfs:label "Sunshine duration" ;
 	skos:notation "270" ;
-	dct:description ""@en	.
+	dct:description "The total time in one day during which the direct solar irradiance is equal to or more than the threshold value for bright sunshine (the threshold being 120 W m–2 of direct solar irradiance)."@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <358> a skos:Concept ;
-	rdfs:label "UV Multiband" ;
+	rdfs:label "UV Multiband radiation" ;
 	skos:notation "358" ;
-	dct:description ""@en	.
+	dct:description "UV radiation measured across several discrete, narrow wavebands (e.g. 10 nm) within the UV range, providing coarse spectral information"@en	.

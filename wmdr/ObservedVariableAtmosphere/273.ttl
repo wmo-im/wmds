@@ -5,4 +5,4 @@
 <273> a skos:Concept ;
 	rdfs:label "UV-B radiation" ;
 	skos:notation "273" ;
-	dct:description ""@en	.
+	dct:description "Ultraviolet radiation covering the range 280-315 nm."@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <357> a skos:Concept ;
-	rdfs:label "UV Erythemally weighted" ;
+	rdfs:label "UV Erythemal radiation" ;
 	skos:notation "357" ;
-	dct:description ""@en	.
+	dct:description "Radiation effective in causing actinic erythema"@en	.

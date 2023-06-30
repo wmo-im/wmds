@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <356> a skos:Concept ;
-	rdfs:label "UV Broadband" ;
+	rdfs:label "UV Broadband radiation" ;
 	skos:notation "356" ;
-	dct:description ""@en	.
+	dct:description "Spectrally integrated UV radiation"@en	.
