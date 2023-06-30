@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12254> a skos:Concept ;
+<12297> a skos:Concept ;
 	rdfs:label "Brightness temperature" ;
-	skos:notation "12254" ;
+	skos:notation "12297" ;
 	dct:description "Also called radiance temperature or equivalent black body temperature. The temperature of a black body emitting the spectral radiance equivalent to the observed spectral radiance at the observed frequency or wavelength."@en	.

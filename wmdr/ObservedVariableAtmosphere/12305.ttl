@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12262> a skos:Concept ;
+<12305> a skos:Concept ;
 	rdfs:label "Impact parameter" ;
-	skos:notation "12262" ;
+	skos:notation "12305" ;
 	dct:description "Minimum distance between the direction vector of the ray (prior to bending) and the centre of the curvature of the ellipsoid describing the Earth, used particularly for GNSS radio occultation observations."@en	.

@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12256> a skos:Concept ;
+<12299> a skos:Concept ;
 	rdfs:label "Radar backscatter coefficient" ;
-	skos:notation "12256" ;
+	skos:notation "12299" ;
 	dct:description "Normalised radar cross section (NRCS) backscatter coefficient, also called sigma-0 ('sigma-nought'). The normalised measure of the radar return, measured in dB."@en	.
