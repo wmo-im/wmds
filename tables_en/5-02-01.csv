@@ -241,6 +241,6 @@ notation,path,domains,tags,name,description
 349,"Atmosphere, trace gases, in situ, \Atmosphere\Trace gas\In situ\Optical spectrometry\IR-GFC",,,IR-GFC,"Infrared absorption measurement based on the gas-filter correlation technique, a specifique variant of NDIR."
 414,"atmosphere,precipitation,in situ",,,Fog collection,Collection of fog using a mesh or similar capturing device and subsequent determination of the equivalent volume or mass of water.
 415,"Atmosphere\Radiation\In-Situ\","Campbell-Stokes burn method","Sunshine duration is determined by evaluating the burnt areas imprinted by the sun in a strip of carton or aluminum foil placed behind a glass sphere."
-416,"Atmosphere\Radiation\In-Situ\","Contrast-evaluating and scanning devices","Sunshine duration is determined by combining multi-sensor detectors with electronic discriminator."
+416,"Atmosphere\Radiation\In-Situ\","Contrast-evaluating and scanning devices","Sunshine duration is determined by combining multi-sensor detectors with an electronic discriminator."
 inapplicable,,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 unknown,,,,unknown,The measurement/observing method is unknown.
