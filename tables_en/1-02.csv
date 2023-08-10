@@ -38,6 +38,7 @@ DU,Dobson Unit,"Unit of column abundance of molecules in the atmosphere. 1 DU is
 E,Eötvös,"Unit of acceleration divided by distance,1 E = 1E-9 Gal/cm; SI base unit equivalent: 1E-9 s-2"
 eV,electron volt,"Unit of energy, accepted for use with SI; SI base unit equivalent: 1.602176634E19 kg m2 s-2"
 F,farad,SI derived unit of electrical capacitance; SI base unit equivalent: kg-1.m-2.s4.A2
+fmol.kg-1,femtomole per kilogram,"SI derived unit of amount per unit mass; SI base unit equivalent: 1E-15 mol.kg-1"
 ft,foot,"Imperial/US unit of length, equal to 1200/3937 metre or 0.3048 metre (approximately)"
 g.cm-3,gram per cubic centimetre,"SI derived unit of density, equivalent to kilograms per litre; SI base unit equivalent: 1000 kg.m-3"
 g.kg-1,gram per kilogram,"SI derived unit of mass fraction, dimensionless; SI base unit equivalent: 0.001"
@@ -138,6 +139,7 @@ ng.kg-1,nanogram per kilogram,"SI derived unit of mass fraction, equivalent to p
 ng.m-3,nanogram per cubic metre,SI derived unit of mass concentration; SI base unit equivalent: 1E-12 kg.m-3
 nm,nanometre,SI prefixed unit of length; SI base unit equivalent: 1E-9 m
 nmi,nautical mile,Conventional unit of length; SI base unit equivalent: 1852 m
+nmol.kg-1,nanomole per kilogram, "SI derived unit of amount per unit mass; SI base unit equivalent: 1E-9 mol.kg-1"
 nmol.mol-1,nanomole per mole,SI derived unit of mole fraction; SI base unit equivalent: 1E-9
 NTU,nephelometric turbidity unit,Units of turbidity from a calibrated nephelometer; SI base unit equivalent: 10-3 kg.m-3
 Ohm,ohm,"SI derived unit of electrical resistance, impedance, reactance"
@@ -146,8 +148,10 @@ Pa,pascal,SI derived unit of pressure/stress; SI base unit equivalent: kg.m-1.s-
 Pa.s-1,pascal per second,SI derived unit of temporal derivative of pressure/stress; SI base unit equivalent: kg.m-1.s-3
 pc,parsec,"Astronomical unit of length, 1 pc = 64800/Π AU"
 percent,per cent,"Dimensionless number, expressed as a fraction of 100; SI base unit equivalent: 0.01"
+permeg,per meg,"Dimensionless number, expressed as a fraction of 1000000; SI base unit equivalent: 0.000001; also referred as parts per million (ppm)"
 permil,per mille,"Dimensionless number, expressed as a fraction of 1000; SI base unit equivalent: 0.001"
 pH_unit,pH unit,Negative decimal logarithm of the hydrogen ion activity ('effective' concentration) specified in moles per litre; SI base unit equivalent: 0.001 m-3
+pmol.kg-1,picomole per kilogram, "SI derived unit of amount per unit mass; SI base unit equivalent: 1E-12 mol.kg-1"
 pmol.mol-1,picomole per mole,SI derived unit equivalent of mole fraction; SI base unit equivalent: 1E-12
 ppbv,parts per billion by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-9"
 ppmv,parts per million by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-6"
