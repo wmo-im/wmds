@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<416> a skos:Concept ;
+	rdfs:label "Contrast-evaluating and scanning devices" ;
+	skos:notation "416" ;
+	dct:description "Sunshine duration is determined by combining multi-sensor detectors with an electronic discriminator."@en	.

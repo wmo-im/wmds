@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<380> a skos:Concept ;
+	rdfs:label "radar velocimetry" ;
+	skos:notation "380" ;
+	dct:description "Radar velocimetry or surface velocity radar (radar sensor) is an active remote sensing method which measures the surface velocity of moving water.  The radar sensor transmits microwave energy of a known frequency at an incidence angle (from nadir) to the water surface, where small-scale surface features such as waves shift the frequency of the microwave energy that is returned to the sensor. The frequency shift is used to compute the surface velocity of the water using the Doppler effect. Note: Because radar sensors measure the velocity at the water surface a transfer function, such as the probability concept, is needed to translate the surface velocity to a mean channel velocity [Based on Chiu, Entropy and probability concepts in hydraulics: J. Hydraul. Eng. 113, 1987; Fulton et al, Near-field remote sensing of surface velocity and river discharge using radars and the probability concept at 10 U.S. Geological Survey Streamgages, Remote Sens. 12, 2020; Fulton e al, Measuring Real-Time Streamflow Using Emerging Technologies: Radar, Hydroacoustics, and the Probability Concept, Journal of Hydrology 357, 2008 and Khan et al, Uncertainty in remote sensing of streams using noncontact radars, Journal of Hydrology 603, 2021]."@en	.
