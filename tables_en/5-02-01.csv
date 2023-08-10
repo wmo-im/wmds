@@ -104,7 +104,6 @@ notation,path,domains,tags,name,description
 195,\Atmosphere\Temperature\In situ\Sonic thermometer,,,Sonic thermometer,
 196,"\Atmosphere\Wind\Remote-sensing, active\Sound detection and ranging (Sodar) profiler",,,Sound detection and ranging (Sodar) profiler,
 197,\Atmosphere\Radiation\In situ\Sunphotometry-Filter Radiometry,,,Sunphotometry-Filter Radiometry,
-198,\Atmosphere\Radiation\In situ\Sunshine duration,,,Sunshine duration,
 199,\Atmosphere\Micrometeorology\In situ\Surface chamber,,,Surface chamber,
 201,"\Atmosphere\Temperature\In situ\Thermocouple, thermopile",,,"Thermocouple, thermopile",
 204,\Atmosphere\Precipitation\In situ\Tipping bucket rain gauge (totalizer),,,Tipping bucket rain gauge (totalizer),
@@ -241,5 +240,7 @@ notation,path,domains,tags,name,description
 348,"Atmosphere, trace gases, in situ, \Atmosphere\Trace gas\In situ\Radionuclide decay counting [general]",,,Radionuclide decay counting [general],Determination of the counts measured per unit time as a result of radionuclide decay.
 349,"Atmosphere, trace gases, in situ, \Atmosphere\Trace gas\In situ\Optical spectrometry\IR-GFC",,,IR-GFC,"Infrared absorption measurement based on the gas-filter correlation technique, a specifique variant of NDIR."
 414,"atmosphere,precipitation,in situ",,,Fog collection,Collection of fog using a mesh or similar capturing device and subsequent determination of the equivalent volume or mass of water.
+415,"Atmosphere\Radiation\In-Situ\",,,"Campbell-Stokes burn method","Sunshine duration is determined by evaluating the burnt areas imprinted by the sun in a strip of carton or aluminum foil placed behind a glass sphere."
+416,"Atmosphere\Radiation\In-Situ\",,,"Contrast-evaluating and scanning devices","Sunshine duration is determined by combining multi-sensor detectors with an electronic discriminator."
 inapplicable,,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 unknown,,,,unknown,The measurement/observing method is unknown.
