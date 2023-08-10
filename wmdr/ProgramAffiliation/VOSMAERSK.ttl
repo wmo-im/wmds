@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<VOSMAERSK> a skos:Concept ;
+	rdfs:label "VOS-MAERSK" ;
+	skos:notation "VOSMAERSK" ;
+	dct:description "Program for Voluntary Observing Ships (VOS) data gathered by Maersk-owned systems."@en	.

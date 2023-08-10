@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<409> a skos:Concept ;
+	rdfs:label "Clark electrode polarographic method" ;
+	skos:notation "409" ;
+	dct:description "The dissolved oxygen concentration by counting the number of oxygen molecules per second (flux) that diffuse through the membrane from the ocean environment to the working electrode."@en	.

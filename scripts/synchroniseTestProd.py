@@ -4,6 +4,8 @@ import requests
 
 
 def authenticate(session, base, userid, pss):
+    if base.startswith('http://'):
+        base = base.replace('http://', 'https://')
     auth = session.post('{}/system/security/apilogin'.format(base),
                         data={'userid':userid,
                                 'password':pss})
@@ -13,6 +15,9 @@ def authenticate(session, base, userid, pss):
     return session
 
 def post_batch(session, url, payload):
+    # Prefer HTTPS for registry session interactions
+    if url.startswith('http://'):
+        url = url.replace('http://', 'https://')
     headers={'Accept':'text/turtle'}
     response = session.get(url, headers=headers)
     print('{} returns {}'.format(url, response.status_code))
@@ -53,7 +58,7 @@ if __name__ == '__main__':
 
     prod_uri = 'http://codes.wmo.int'
     test_uri = 'http://testwmocodes.metarelate.net'
-    wmdr_test_uri = test_uri + '/wmdr'
+    wmdr_test_uri = 'http://testwmocodes.metarelate.net/wmdr'
 
     wmdr_prod_registers = [r['regdef']['value'] for r in entities(prod_uri + '/wmdr', prod_uri)]
     wmdr_test_registers = [r['regdef']['value'] for r in entities(prod_uri + '/wmdr', test_uri)]

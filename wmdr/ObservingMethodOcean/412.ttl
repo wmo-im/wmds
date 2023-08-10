@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<412> a skos:Concept ;
+	rdfs:label "Radiometry" ;
+	skos:notation "412" ;
+	dct:description "Measurement of the number of photon reaching a surface using a photodiode."@en	.

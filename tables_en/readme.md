@@ -41,10 +41,11 @@
 * [4-07.csv](./4-07.csv) [ClimateZone](http://codes.wmo.int/wmdr/ClimateZone) Climate zone
 * [5-01.csv](./5-01.csv) [SourceOfObservation](http://codes.wmo.int/wmdr/SourceOfObservation) Source of observation
 * [5-02-01.csv](./5-02-01.csv) [ObservingMethodAtmosphere](http://codes.wmo.int/wmdr/ObservingMethodAtmosphere) Measurement/observing method (atmosphere)
+* [5-02-03.csv](./5-02-03.csv) [ObservingMethodOcean](http://codes.wmo.int/wmdr/ObservingMethodOcean) Measurement/observing method (ocean)
 * [5-02-05.csv](./5-02-05.csv) [ObservingMethodTerrestrial](http://codes.wmo.int/wmdr/ObservingMethodTerrestrial) Measurement/observing method (terrestrial and hydrological)
 * [5-03-01.csv](./5-03-01.csv) [Polarization](http://codes.wmo.int/wmdr/Polarization) Polarization of electromagnetic radiation
 * [5-03-02.csv](./5-03-02.csv) [FrequencyUse](http://codes.wmo.int/wmdr/FrequencyUse) Frequency use of electromagnetic radiation
-* [5-03-03.csv](./5-03-03.csv) [PurposeOfFrequencyUse](http://codes.wmo.int/wmdr/PurposeOfFrequencyUse)  Purpose of frequency use
+* [5-03-03.csv](./5-03-03.csv) [PurposeOfFrequencyUse](http://codes.wmo.int/wmdr/PurposeOfFrequencyUse) Purpose of frequency use
 * [5-03-04.csv](./5-03-04.csv) [TransmissionMode](http://codes.wmo.int/wmdr/TransmissionMode) Mode of energy transmission
 * [5-04.csv](./5-04.csv) [InstrumentOperatingStatus](http://codes.wmo.int/wmdr/InstrumentOperatingStatus) Instrument operating status
 * [5-05.csv](./5-05.csv) [ReferenceSurfaceType](http://codes.wmo.int/wmdr/ReferenceSurfaceType) Type of reference surface
@@ -68,5 +69,5 @@
 * [11-02.csv](./11-02.csv) [CoordinateReferenceSystem](http://codes.wmo.int/wmdr/CoordinateReferenceSystem) Coordinates reference
 * [11-03.csv](./11-03.csv) [TimeStampMeaning](http://codes.wmo.int/wmdr/TimeStampMeaning) Meaning of time stamp
 * [11-04.csv](./11-04.csv) [Timezone](https://codes.wmo.int/wmdr/Timezone) Timezone
-* [superseded.csv](./superseded.csv) [wmdr](https://codes.wmo.int/wmdr) Multiple tables
+* [superseded.csv](./superseded.csv) [notApplicable](https://codes.wmo.int/wmdr/notApplicable) Multiple tables
 

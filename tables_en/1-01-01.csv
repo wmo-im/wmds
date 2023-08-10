@@ -1,4 +1,4 @@
-notation,path,domains,tags,name,description
+﻿notation,path,domains,tags,name,description
 39,\Atmosphere\Atmospheric density,,,Atmospheric density,Density of the atmosphere.
 44,\Atmosphere\Integrated air samples,,,Integrated air samples,
 56,\Atmosphere\Special phenomena,,,Special phenomena,
@@ -53,10 +53,10 @@ notation,path,domains,tags,name,description
 260,"\Atmosphere\Lightning\Lightning discharge type (cloud to cloud, cloud to surface)",,,"Lightning discharge type (cloud to cloud, cloud to surface)",
 265,atmosphere,,,Past weather,"Predominant characteristic of weather which had existed at the station during a given period of time. [Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"
 266,atmosphere,,,Present weather,"Weather existing at the time of observation, or under certain conditions, during the hour preceding the time of observation. [Manual on Codes (WMO-No. 306), Volume I.1. 2011 edition updated in 2019.]"
-267,\Atmosphere\Radiation\Background luminance,,,Background luminance,
-270,\Atmosphere\Radiation\Sunshine duration,,,Sunshine duration,
-271,\Atmosphere\Radiation\Surface albedo,,,Surface albedo,
-273,\Atmosphere\Radiation\UV\UV-B radiation,,,UV-B radiation,
+267,\Atmosphere\Radiation\Background luminance,,,Background luminance,Luminous flux received from the background per unit solid angle and per unit area. Note: Luminous flux is a quantity derived from radiant flux by evaluating the radiation according to its action upon the International Commission on Illumination standard photometric observer.
+270,\Atmosphere\Radiation\Sunshine duration,,,Sunshine duration,The total time in one day during which the direct solar irradiance is equal to or more than the threshold value for bright sunshine (the threshold being 120 W m-2 of direct solar irradiance).
+271,\Atmosphere\Radiation\Surface albedo,,,Surface albedo,Hemispherically integrated reflectance of the Earth surface in the range 0.4-0.7 µm.
+273,\Atmosphere\Radiation\UV\UV-B radiation,,,UV-B radiation,Ultraviolet radiation covering the range 280-315 nm.
 274,\Atmosphere\Gas\Reactive Gas\BrO (bromine monoxide),,,BrO (bromine monoxide),"IUPAC: n/a, PubChem CID: 5460627, CAS Number: 15656-19-6, in gas phase"
 275,\Atmosphere\Gas\Reactive Gas\C2Cl4 (tetrachloroethene),,,C2Cl4 (tetrachloroethene),"IUPAC: 1,1,2,2-tetrachloroethene, PubChem CID: 31373, CAS Number: 127-18-4, in gas phase"
 276,\Atmosphere\Gas\Reactive Gas\C2HCl3 (trichloroethene),,,C2HCl3 (trichloroethene),"IUPAC: 1,1,2-trichloroethene, PubChem CID: 6575, CAS Number: 79-01-6, in gas phase"
@@ -80,8 +80,7 @@ notation,path,domains,tags,name,description
 302,\Atmosphere\Total Atmospheric Deposition\Sulfur (S),,,S (sulfur),"IUPAC: sulfur, PubChem CID: n/a, CAS Number: 7704-34-9, in total deposition"
 304,\Atmosphere\Wind\Direction of cloud movement,,,Direction of cloud movement,
 305,\Atmosphere\Wind\Gust Speed,,,Gust Speed,
-307,"\Atmosphere\Wind\Wind (Z component, vertical)",,,"Wind (Z component, vertical)",Z component of wind vector (horizontal and vertical profile)
-310,"\Atmosphere\Wind\Upper wind (X, Y components, horizontal)",,,"Upper wind (X, Y components, horizontal)",Horizontal component of wind as a vector in an orthogonal coordinate system.
+307,"\Atmosphere\Wind\w (vertical component of wind vector)",,,"w (vertical component of wind vector)","Vertical component of the 3-D wind vector, positive for upward wind. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
 314,"particle phase, optical properties",,,Aerosol Absorption Optical Depth,Vertical column integral of spectral aerosol absorption coefficient: AAOD = exp(-K.Δz) where K is the absorption coefficient [km-1] and Δz the vertical path [km]
 315,"particle phase, optical properties",,,Aerosol Extinction Coefficient,Spectral volumetric extinction cross-section of aerosol particles.
 316,"particle phase, optical properties",,,"Particle light absorption coefficient, PM1",A measure of light attenuation due to absorption by aerosol particles expressed as the Beer-Lambert Law exponent at unit path distance. Size range: PM1
@@ -115,10 +114,10 @@ notation,path,domains,tags,name,description
 349,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in air and aerosol",,,"C18H12 (Benz(a)anthracene), in air and aerosol","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in aerosol"
 350,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in precipitation",,,"C18H12 (Benz(a)anthracene), in precipitation","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in precipitation"
 351,"\Atmosphere\POPs\PAH\C18H12 (Benz(a)anthracene), in total precipitation",,,"C18H12 (Benz(a)anthracene), in total precipitation","IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in total precipitation"
-356,\Atmosphere\Radiation\UV\UV Broadband,,,UV Broadband,
-357,\Atmosphere\Radiation\UV\UV Erythemally weighted,,,UV Erythemally weighted,
-358,\Atmosphere\Radiation\UV\UV Multiband,,,UV Multiband,
-359,\Atmosphere\Radiation\UV\UV Spectral,,,UV Spectral,
+356,\Atmosphere\Radiation\UV\UV Broadband radiation,,,UV Broadband radiation,Spectrally integrated UV radiation
+357,\Atmosphere\Radiation\UV\UV Erythemal radiation,,,UV Erythemal radiation,Radiation effective in causing actinic erythema
+358,\Atmosphere\Radiation\UV\UV Multiband radiation,,,UV Multiband radiation,"UV radiation measured across several discrete, narrow wavebands (e.g. 10 nm) within the UV range, providing coarse spectral information"
+359,\Atmosphere\Radiation\UV\UV Spectral radiation,,,UV Spectral radiation,UV radiation measured at continuous and higher spectral resolution (e.g. 1 nm) than multiband UV radiation
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),,,Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,"particle phase, physical properties",,,Particle effective radius,The area weighted mean radius of the aerosol particles.
 364,"particle phase, physical properties",,,"Particle mass concentration, PM10","Mass of particles per unit volume of air, size range: PM10"
@@ -281,16 +280,16 @@ notation,path,domains,tags,name,description
 560,"\Atmosphere\Gas\Greenhouse Gas\HFCs\C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)",,,"C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)","IUPAC: 1,1,1,3,3-pentafluorobutane, PubChem CID: 67884, CAS Number: 406-58-6, in gas phase"
 561,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CH2F2 (difluoromethane, HFC-32)",,,"CH2F2 (difluoromethane, HFC-32)","IUPAC: difluoromethane, PubChem CID: 6345, CAS Number: 75-10-5, in gas phase"
 562,"\Atmosphere\Gas\Greenhouse Gas\HFCs\CHF3 (trifluoromethane, HFC-23)",,,"CHF3 (trifluoromethane, HFC-23)","IUPAC: fluoroform, PubChem CID: 6373, CAS Number: 75-46-7, in gas phase"
-565,\Atmosphere\Radiation\IR\Long-wave radiation (direction unspecified),,,Long-wave radiation (direction unspecified),
-566,\Atmosphere\Radiation\IR\Long-wave radiation (downwelling),,,Long-wave radiation (downwelling),
-567,\Atmosphere\Radiation\IR\Long-wave radiation (upwelling),,,Long-wave radiation (upwelling),
+565,\Atmosphere\Radiation\IR\Long-wave irradiance (direction unspecified),,,Long-wave irradiance (direction unspecified),"Flux density of long-wave radiation (direction unspecified) at a specified level within the atmosphere, including the Earth surface. Long-wave radiation is the radiation at wavelengths greater than 3 μm (3000 nm), including most of the spectrum emitted by sources at terrestrial temperatures."
+566,\Atmosphere\Radiation\IR\Downward long-wave irradiance,,,Downward long-wave irradiance,"Flux density of downwelling long-wave radiation, at a specified level within the atmosphere, including the Earth surface."
+567,\Atmosphere\Radiation\IR\Upward long-wave irradiance,,,Upward long-wave irradiance,"Flux density of upwelling long-wave radiation, at the top of the atmosphere or at a specified level within the atmosphere, including the Earth surface."
 568,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Ammonium (NH4+),,,NH4+ (ammonium),"IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in total deposition"
 569,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrate (NO3-),,,NO3- (nitrate),"IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in total deposition"
 570,\Atmosphere\Total Atmospheric Deposition\Inorganic nitrogen species\Nitrite (NO2-),,,NO2- (nitrite),"IUPAC: nitrite, PubChem CID: 946, CAS Number: 14797-65-0, in total deposition"
-571,\Atmosphere\Radiation\Solar\Diffuse solar radiation,,,Diffuse solar radiation,
-572,\Atmosphere\Radiation\Solar\Direct solar radiation,,,Direct solar radiation,
-573,\Atmosphere\Radiation\Solar\Global solar radiation (downwelling),,,Global solar radiation (downwelling),
-574,\Atmosphere\Radiation\Solar\Global solar radiation (upwelling),,,Global solar radiation (upwelling),
+571,\Atmosphere\Radiation\Solar\Diffuse downward short-wave irradiance,,,Diffuse downward short-wave irradiance,"Flux density of diffuse short-wave solar radiation, at a specified level within the atmosphere, including the Earth surface."
+572,\Atmosphere\Radiation\Solar\Direct downward short-wave irradiance,,,Direct downward short-wave irradiance,"Flux density of direct downwelling short-wave solar radiation, at the top of the atmosphere or at a specified level within the atmosphere, including the Earth surface."
+573,\Atmosphere\Radiation\Solar\Downward short-wave irradiance,,,Downward short-wave irradiance,"Flux density of downwelling short-wave solar radiation, at the top of the atmosphere or a specified level within the atmosphere, including the Earth surface. [The term 'global (downward) shortwave irradiance' is sometimes used to specify that this flux is the sum of direct and diffuse components.]"
+574,\Atmosphere\Radiation\Solar\Upward short-wave irradiance,,,Upward short-wave irradiance,"Flux density of upwelling short-wave radiation, at the top of the atmosphere or a specified level within the atmosphere, including the Earth surface."
 576,\Atmosphere\Total Atmospheric Deposition\Organic acid\Acetate (CH3COO-),,,CH3COO- (acetate),"IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-1, in total deposition"
 577,\Atmosphere\Total Atmospheric Deposition\Organic acid\Formate (HCOO-),,,HCOO- (formate),"IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in total deposition"
 578,\Atmosphere\Total Atmospheric Deposition\Organic acid\Propionate (C2H5COO-),,,C2H5COO- (propionate),"IUPAC: propanoate, PubChem CID: 104745, CAS Number: 72-03-7, in total deposition"
@@ -426,8 +425,8 @@ notation,path,domains,tags,name,description
 729,"particle phase, physical properties",,,Aerosol volcanic ash (Total column),Field of total column mass of volcanic ash
 12001,\Atmosphere\Lightning\Total lightning density,,,Total lightning density,
 12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,,,Lightning density cloud-to-ground,
-12005,\Atmosphere\Wind\Horizontal wind direction at specified distance from reference surface,,,Horizontal wind direction at specified distance from reference surface,Horizontal wind direction at specified distance from reference surface
-12006,\Atmosphere\Wind\Horizontal wind speed at specified distance from reference surface,,,Horizontal wind speed at specified distance from reference surface,Horizontal wind speed at specified distance from reference surface
+12005,\Atmosphere\Wind\Horizontal wind direction,,,Horizontal wind direction,"The direction of horizontal wind at which the wind originates. Scalar quantity to represent a value at a given location and instant, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
+12006,\Atmosphere\Wind\Horizontal wind speed,,,Horizontal wind speed,"The speed of horizontal wind, a ratio of the horizontal distance covered by the air to the time taken to cover that distance. Scalar quantity to represent a value at a given location and instant, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
 12016,"Atmosphere\Gas\Greenhouse Gas\CFCs\Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)",,,"Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase"
 12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)",,,"CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6, in gas phase"
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)",,,"C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2, in gas phase"
@@ -672,5 +671,29 @@ notation,path,domains,tags,name,description
 12260,"atmosphere, remote sensing, level 1",,,Zenith total delay (ZTD),"The time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum, and scaled to refer to the equivalent vertical path."
 12261,"atmosphere, remote sensing, level 1",,,Delay Doppler map,"A 2D array of backscatter coefficients as a function of Doppler shift and signal delay, derived from GNSS reflectometry."
 12262,Radio occultation,,,Impact parameter,"Minimum distance between the direction vector of the ray (prior to bending) and the centre of the curvature of the ellipsoid describing the Earth, used particularly for GNSS radio occultation observations."
-122XX,"greenhouse gas, HFCs",,,"C3H2F6 (1,1,1,3,3,3-hexafluoropropane, HFC-236fa)","IUPAC: 1,1,1,3,3,3-hexafluoropropane, PubChem CID: 12722, CAS Number: 690-39-1, in gas phase"
-122XX,radionuclide,,,Tellurium [Te-131],"IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"
+12295,"atmosphere, remote sensing, level 1, optical properties",,,Radiance,"The radiant flux emitted, reflected, transmitted or received by a given surface, per unit solid angle per unit projected area. It is a directional quantity. Note: Historically, radiance was called 'intensity'."
+12296,"atmosphere, remote sensing, level 1, optical properties",,,Spectral radiance,"The radiance of a surface per unit frequency or wavelength, depending on whether the spectrum is taken as a function of frequency or of wavelength. It is a directional quantity. Note: 'spectral radiance' is also used for measurements by radiometers and spectrometers, where it means the spectral radiance incident on the instrument integrated over the normalised spectral response function of the instrument. Historically, spectral radiance was called spectral intensity."
+12297,"atmosphere, remote sensing, level 1, optical properties",,,Brightness temperature,Also called radiance temperature or equivalent black body temperature. The temperature of a black body emitting the spectral radiance equivalent to the observed spectral radiance at the observed frequency or wavelength.
+12298,"atmosphere, remote sensing, level 1, optical properties",,,Spectral bidirectional reflectance,"Ratio of reflected to incident radiation as a function of incident angle, reflected angle and wavelength. For a satellite measurement, these angles are the zenith and azimuth angles of the sun and the zenith and azimuth angle of the viewing instrument at the feature (surface and/or atmospheric column) being observed."
+12299,"atmosphere, remote sensing, level 1, optical properties, radar",,,Radar backscatter coefficient,"Normalised radar cross section (NRCS) backscatter coefficient, also called sigma-0 ('sigma-nought'). The normalised measure of the radar return, measured in dB."
+12300,"atmosphere, remote sensing, level 1, optical properties, radio occultation",,,Bending angle,"The angle through which an electromagnetic wave is refracted when passing along an atmospheric path, used particularly for GNSS radio occultation observations."
+12301,"atmosphere, remote sensing, level 1, optical properties",,,Refractivity,The refractive index (of air) minus one. Particularly used for GNSS radio occultation observations.
+12302,"atmosphere, remote sensing, level 1",,,Slant total delay (STD),The time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum.
+12303,"atmosphere, remote sensing, level 1",,,Zenith total delay (ZTD),"The time delay of a GNSS radio signal passing along an atmospheric path from transmitter to receiver compared with the same path in vacuum, and scaled to refer to the equivalent vertical path."
+12304,"atmosphere, remote sensing, level 1",,,Delay Doppler map,"A 2D array of backscatter coefficients as a function of Doppler shift and signal delay, derived from GNSS reflectometry."
+12305,Radio occultation,,,Impact parameter,"Minimum distance between the direction vector of the ray (prior to bending) and the centre of the curvature of the ellipsoid describing the Earth, used particularly for GNSS radio occultation observations."
+12306,\Atmosphere\Radiation,,,Net short-wave irradiance,"Flux density of short-wave solar radiation, as the difference between downwelling and upwelling radiation (positive for net downward), at the top of the atmosphere or at a specified level within the atmosphere, including the Earth surface."
+12307,\Atmosphere\Radiation,,,Short-wave irradiance (direction unspecified),"Flux density of short-wave radiation (direction unspecified) at a specified level within the atmosphere, including the Earth surface. Short-wave radiation includes most of the solar radiation spectrum in the atmosphere from 280 nm to 3000 nm (3 μm)."
+12308,\Atmosphere\Radiation,,,Net long-wave irradiance,"Flux density of upwelling long-wave radiation, as the difference between downwelling and upwelling radiation (positive for net downward) at a specified level within or at the top of the atmosphere, including the Earth surface."
+12309,\Atmosphere\Radiation,,,Upward spectral radiance,"Upward radiant power per area unit, per solid angle, and per wavelength or wavenumber interval."
+12310,\Atmosphere\Radiation,,,Downward spectral radiance,"Downward radiant power per area unit, per solid angle, and per wavelength or wavenumber interval."
+12311,\Atmosphere\Radiation,,,Solar spectral irradiance,Spectrally resolved flux density of radiation received from the sun at the top of the atmosphere.
+12312,\Atmosphere\Radiation,,,Solar total irradiance,Spectrally integrated flux density of radiation received from the sun at the top of the atmosphere. Also called 'Total solar irradiance (TSI)'.
+12313,\Atmosphere\Radiation,,,Earth surface short-wave bidirectional reflectance,Reflectance of the Earth surface as a function of the viewing angle and the illumination angle averaged over the range 0.4-0.7 µm.
+12314,\Atmosphere\Radiation,,,Earth surface spectral bidirectional reflectance,"Reflectance of the Earth surface as a function of viewing angle, incidence angle and wavelength, spectrally resolved. [The distribution of this variable is represented by the Bidirectional Reflectance Distribution Function (BRDF)]."
+12315,\Atmosphere\Radiation,,,Earth surface emissivity,Emissivity of the Earth surface as a function of wavelength and viewing angle.
+12316,\Atmosphere\Radiation,,,Long-wave earth surface emissivity,Emissivity of the earth surface integrated over the thermal IR wavelength range and integrated hemispherically.
+12317,Atmosphere\Wind\u (u component of horizontal wind vector),,,"u (u component of horizontal wind vector)","East-west [zonal] component of the horizontal wind vector, positive value for eastward moving or west-to-east wind. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
+12318,Atmosphere\Wind\v (v component of horizontal wind vector),,,"v (v component of horizontal wind vector)","North-south [meridional] component of the horizontal wind vector, positive value for northward moving or south-to-north wind. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
+12219,"greenhouse gas, HFCs",,,"C3H2F6 (1,1,1,3,3,3-hexafluoropropane, HFC-236fa)","IUPAC: 1,1,1,3,3,3-hexafluoropropane, PubChem CID: 12722, CAS Number: 690-39-1, in gas phase"
+12220,radionuclide,,,Tellurium [Te-131],"IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"

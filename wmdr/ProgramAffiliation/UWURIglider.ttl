@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<UWURIglider> a skos:Concept ;
+	rdfs:label "UW-URI Glider Program" ;
+	skos:notation "UWURIglider" ;
+	dct:description "Glider program lead by UW in cooperation with University of Rhode Island."@en	.
