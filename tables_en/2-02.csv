@@ -230,7 +230,7 @@ GBON,\WIGOS\GOS\GOS Surface networks\GBON,GBON,Global Basic Observing Network
 GCWaffiliated,\WIGOS\GCW\GCW affiliated station,GCW affiliated station,"A station of an GCW affiliated network measuring at least one cryospheric variable, contributing to GCW in addition to CryoNet and GCW contributing stations."
 GCWcontributing,\WIGOS\GCW\GCW Contributing station,GCW Contributing station,A GCW station which provides useful measurements of the cryosphere but does not meet all requirements for a CryoNet Station.
 GCWCryoNet,\WIGOS\GCW\GCW CryoNet station,GCW CryoNet station,"A GCW station measuring at least one variable of one cryosphere component, and meeting a set of defined requirements."
-GDP,\Co-sponsored\GOOS\DBCP\GDP,The Global Drifter Program (GDP) operated by SIO's Lagrangian Drifter Laboratory (LDL), funded by NOAA, maintaining a global array.
+GDP,\Co-sponsored\GOOS\DBCP\GDP,Global Drifter Program (GDP),"The Global Drifter Program (GDP) operated by SIO's Lagrangian Drifter Laboratory (LDL), funded by NOAA, maintaining a global array."
 GDPMF,\Co-sponsored\GOOS\DBCP\GDP-MF,GDPMF,Global Drifter Program drifters with Meteo-France barometer upgrades
 GEOMARGlider,\Co-sponsored\GOOS\OceanGliders\GEOMAR Glider program,GEOMAR Glider program,Glider program operated by GEOMAR. Regular cooperation with Cape Verde Oceanographic institute.
 germanAODnetwork,\WIGOS\GAW\GAW Other elements\German AOD network,German AOD network,German Aerosol Optical Depth Network
