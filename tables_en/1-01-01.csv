@@ -117,7 +117,7 @@
 356,\Atmosphere\Radiation\UV\UV Broadband radiation,,,UV Broadband radiation,Spectrally integrated UV radiation
 357,\Atmosphere\Radiation\UV\UV Erythemal radiation,,,UV Erythemal radiation,Radiation effective in causing actinic erythema
 358,\Atmosphere\Radiation\UV\UV Multiband radiation,,,UV Multiband radiation,"UV radiation measured across several discrete, narrow wavebands (e.g. 10 nm) within the UV range, providing coarse spectral information"
-359,\Atmosphere\Radiation\UV\UV Spectral radiation,,,UV Spectral radiation,UV radiation measured at continuous and higher spectral resolution (e.g. 1 nm) than multiband UV radiation
+359,\Atmosphere\Radiation\UV\UV Spectral radiation,,,UV Spectral radiation,UV radiation measured at a higher spectral resolution (e.g. 1 nm) than multiband UV radiation
 361,\Atmosphere\Aerosol\Physical properties - primary\Aerosol column burden (mass density),,,Aerosol column burden (mass density),2D field of the column burden of condensed particles in the atmosphere 
 362,"particle phase, physical properties",,,Particle effective radius,The area weighted mean radius of the aerosol particles.
 364,"particle phase, physical properties",,,"Particle mass concentration, PM10","Mass of particles per unit volume of air, size range: PM10"
@@ -426,7 +426,7 @@
 12001,\Atmosphere\Lightning\Total lightning density,,,Total lightning density,
 12002,\Atmosphere\Lightning\Lightning density cloud-to-ground,,,Lightning density cloud-to-ground,
 12005,\Atmosphere\Wind\Horizontal wind direction,,,Horizontal wind direction,"The direction of horizontal wind at which the wind originates. Scalar quantity to represent a value at a given location and instant, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
-12006,\Atmosphere\Wind\Horizontal wind speed,,,Horizontal wind speed,"The speed of horizontal wind, a ratio of the horizontal distance covered by the air to the time taken to cover that distance. Scalar quantity to represent a value at a given location and instant, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
+12006,\Atmosphere\Wind\Horizontal wind speed,,,Horizontal wind speed,"The speed of horizontal wind, a ratio of the horizontal distance covered by the air and the time taken to cover that distance. Scalar quantity to represent a value at a given location and instant, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."
 12016,"Atmosphere\Gas\Greenhouse Gas\CFCs\Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)",,,"Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)","IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase"
 12017,"Atmosphere\Gas\Greenhouse Gas\Halon\CBr2F2 (dibromodifluoromethane, Halon 1202)",,,"CBr2F2 (dibromodifluoromethane, Halon 1202)","IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6, in gas phase"
 12018,"Atmosphere\Gas\Greenhouse Gas\Halon\C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)",,,"C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)","IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2, in gas phase"
