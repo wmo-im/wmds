@@ -156,7 +156,7 @@
 254,\Atmosphere\Humidity\In situ\Hygrometer,,,Hygrometer [general],
 255,\Atmosphere\Humidity\In situ\Hygrometer,,,IR absorption hygrometer,
 256,\Atmosphere\Humidity\In situ\Hygrometer,,,Optical hygrometer,
-257,\Atmosphere\Humidity\In situ\Hygrometer,,,UV fluorescence-based hygrometer (Lyman-Œ±),Detection of UV fluorescence signal emitted by the excited OH radical produced from H2O after dissociation using UV light.
+257,\Atmosphere\Humidity\In situ\Hygrometer,,,UV fluorescence-based hygrometer (Lyman-α),Detection of UV fluorescence signal emitted by the excited OH radical produced from H2O after dissociation using UV light.
 258,\Atmosphere\Humidity\In situ\Psychrometer,,,Electrical aspiration (Frankenberger type),
 259,\Atmosphere\Humidity\In situ\Psychrometer,,,Mechanical aspiration,
 263,\Atmosphere\Radiation\In situ\Direct solar,,,Bimetallic actinograph,
