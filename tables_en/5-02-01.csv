@@ -63,8 +63,8 @@
 135,\Atmosphere\Ozone\In situ,,,Indian Sonde,
 136,\Atmosphere\Micrometeorology\In situ,,,Interferential method,
 137,\Atmosphere\Total atmospheric deposition\In situ,,,Ion Chromatography (IC) [general],
-142,,,"Atmosphere, 'Remote-sensing, active', wind",Doppler wind lidar,"Light detection and ranging (lidar) with Doppler capability (direct and coherent mode), typically used for measurements of winds."
-143,,,"Atmosphere, 'Remote-sensing, active', water vapor, aerosol, particle phase",Raman lidar,"Light detection and ranging (lidar) with Raman capability, typically used for measurements of aerosol particle phase and cloud measurements as well as water vapor and temperature."
+142,"\Atmosphere\Wind\Remote-sensing, active",,"Atmosphere, 'Remote-sensing, active', wind",Doppler wind lidar,"Light detection and ranging (lidar) with Doppler capability (direct and coherent mode), typically used for measurements of winds."
+143,"\Atmosphere\Aerosol\Remote-sensing, active",,"Atmosphere, 'Remote-sensing, active', water vapor, aerosol, particle phase",Raman lidar,"Light detection and ranging (lidar) with Raman capability, typically used for measurements of aerosol particle phase and cloud measurements as well as water vapor and temperature."
 144,\Atmosphere\Temperature\In situ,,,Liquid-in-glass thermometer (mercury-free),
 146,\Atmosphere\Evaporation\In situ,,,Lysimeter,
 147,\Atmosphere\Micrometeorology\In situ,,,Mass balance method,
@@ -215,7 +215,7 @@
 317,\Atmosphere\Trace gas\In situ\Optical spectrometry,,,Non-dispersive IR (NDIR) absorption,
 318,\Atmosphere\Trace gas\In situ\Optical spectrometry,,,Non-dispersive UV (NDUV),
 319,\Atmosphere\Trace gas\In situ\Optical spectrometry,,,UV absorption spectrometry-radiometry,
-320,,,"Atmosphere, 'Remote-sensing, active', greenhouse gas",Integrated path differential absorption (IPDA) lidar,"Light detection and ranging (lidar) with integrated path differential absorption (IPDA) capability, typically used for column measurements of CH4 and CO2."
+320,"\Atmosphere\Trace gas\Remote-sensing, active",,"Atmosphere, 'Remote-sensing, active', greenhouse gas",Integrated path differential absorption (IPDA) lidar,"Light detection and ranging (lidar) with integrated path differential absorption (IPDA) capability, typically used for column measurements of CH4 and CO2."
 321,"\Atmosphere\Trace gas\Remote-sensing, active\Optical spectrometry",,,Differential optical absorption (DOAS),
 322,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry",,,Fourier-transform IR spectroscopy (FTIR),
 323,"\Atmosphere\Trace gas\Remote-sensing, passive\Optical spectrometry",,,TCCON Fourier-transform IR spectroscopy (TCCON-FTIR),
@@ -225,22 +225,22 @@
 330,\Atmosphere,,,Radiosonde with composite method tracking,
 331,\Atmosphere\Wind,,,Radiosonde (tracking unspecified),
 332,\Atmosphere\Wind,,,Pilot balloon with optical tracking),
-335,,,"Atmosphere, 'Remote-sensing, active', ozone, water vapor",Differential absorption lidar (DIAL),"Light detection and ranging (lidar) with differential absorption lidar (DIAL) capability, typically used for trace gas measurements, most notably ozone and water vapor. This technique can be extended to molecules which have suitably defined differential absorption characteristics."
+335,"\Atmosphere\Ozone\Remote-sensing, active",,"Atmosphere, 'Remote-sensing, active', ozone, water vapor",Differential absorption lidar (DIAL),"Light detection and ranging (lidar) with differential absorption lidar (DIAL) capability, typically used for trace gas measurements, most notably ozone and water vapor. This technique can be extended to molecules which have suitably defined differential absorption characteristics."
 336,"\Atmosphere\Trace gas\Remote-sensing, passive",,,Microwave radiometry,
 338,\Atmosphere\Humidity\In situ\Laser-based,,,Tunable diode lase spectroscopy (TDLS),Tunable diode lase spectroscopy (TDLS)
 339,"\Atmosphere\Ozone\Remote-sensing, passive",,,UV spectroradiometry,
 340,\Atmosphere\Humidity\In situ\Psychrometer,,,Wet-bulb thermometer,"A thermometer having a bulb that is kept moistened when humidity determinations are being made with a psychrometer. The wet-bulb temperature is the temperature a parcel of air would have if it were cooled to saturation (100% relative humidity) by the evaporation of water into it, with the latent heat being supplied by the parcel."
-341,,,"Atmosphere, 'Remote-sensing, active', cloud, aerosol, particle phase, altimetry, Ocean, mixed-layer height",Backscatter lidar,"Elastic backscatter light detection and ranging (lidar) typically used for measurements of cloud and aerosol particle phase optical properties (e.g., extinction and backscatter coefficient), altimetry, ocean optical properties, and mixed layer height."
-342,,,"Atmosphere, 'Remote-sensing, active', cloud, aerosol, particle phase, mixed-layer height, Ocean",High spectral resolution (HSR) lidar,"Light detection and ranging (lidar) with high spectral resolution capability, typically used for measurements of cloud and aerosol particle phase properties, ocean properties, and mixed layer height."
-343,,,"Atmosphere, 'Remote-sensing, active', aerosol, particle phase, particle shape",Polarized lidar,"Light detection and ranging (lidar) capable of determining the linear or circular depolarization ratio, typically used to discriminate spherical and non-spherical particles."
+341,"\Atmosphere\Aerosol\Remote-sensing, active",,"Atmosphere, 'Remote-sensing, active', cloud, aerosol, particle phase, altimetry, Ocean, mixed-layer height",Backscatter lidar,"Elastic backscatter light detection and ranging (lidar) typically used for measurements of cloud and aerosol particle phase optical properties (e.g., extinction and backscatter coefficient), altimetry, ocean optical properties, and mixed layer height."
+342,"\Atmosphere\Aerosol\Remote-sensing, active",,"Atmosphere, 'Remote-sensing, active', cloud, aerosol, particle phase, mixed-layer height, Ocean",High spectral resolution (HSR) lidar,"Light detection and ranging (lidar) with high spectral resolution capability, typically used for measurements of cloud and aerosol particle phase properties, ocean properties, and mixed layer height."
+343,"\Atmosphere\Aerosol\Remote-sensing, active",,"Atmosphere, 'Remote-sensing, active', aerosol, particle phase, particle shape",Polarized lidar,"Light detection and ranging (lidar) capable of determining the linear or circular depolarization ratio, typically used to discriminate spherical and non-spherical particles."
 346,\Atmosphere\Trace gas\In situ,,"Atmosphere, trace gases, in situ",Electrostatic collection + alpha counting,Alpha counting after electrostatic collection of measurand.
 347,\Atmosphere\Trace gas\In situ\Laser-based methods,,"Atmosphere, trace gases, in situ",Tunable Infrared Laser Differential Absorption Spectroscopy (TILDAS),Tunable Infrared Laser Differential Absorption Spectroscopy (TILDAS).
 348,\Atmosphere\Trace gas\In situ,,"Atmosphere, trace gases, in situ",Radionuclide decay counting [general],Determination of the counts measured per unit time as a result of radionuclide decay.
 349,\Atmosphere\Trace gas\In situ\Optical spectrometry,,"Atmosphere, trace gases, in situ",IR-GFC,"Infrared absorption measurement based on the gas-filter correlation technique, a specifique variant of NDIR."
-414,,,"atmosphere,precipitation,in situ",Fog collection,Collection of fog using a mesh or similar capturing device and subsequent determination of the equivalent volume or mass of water.
+414,\Atmosphere\Precipitation\In situ,,"atmosphere,precipitation,in situ",Fog collection,Collection of fog using a mesh or similar capturing device and subsequent determination of the equivalent volume or mass of water.
 415,\Atmosphere\Radiation\In-Situ,,,Campbell-Stokes burn method,Sunshine duration is determined by evaluating the burnt areas imprinted by the sun in a strip of carton or aluminum foil placed behind a glass sphere.
 416,\Atmosphere\Radiation\In-Situ,,,Contrast-evaluating and scanning devices,Sunshine duration is determined by combining multi-sensor detectors with an electronic discriminator.
-inapplicable,,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 417,\Atmosphere\Trace gas\In situ\Gas chromatography,,"Atmosphere, trace gases, greenhouse gas, in situ,",GC-CVAFS,Gas chromatography and detection by cold vapour atomic fluorescence spectrometry.
 418,\Atmosphere\Trace gas\In situ\Gas chromatography,,"Atmosphere, trace gases, greenhouse gas, in situ,",GC-TCD,Gas chromatography and detection by a thermal conductivity detector.
+inapplicable,,,,inapplicable,None of the codes in the table are applicable in the context of this particular observation.
 unknown,,,,unknown,The measurement/observing method is unknown.
