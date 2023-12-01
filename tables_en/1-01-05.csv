@@ -1,11 +1,11 @@
 ﻿notation,path,domains,tags,name,description
 165,\Terrestrial\Hydrological\Groundwater,,,Groundwater (amount per unit area),Amount of water present beneath the ground surface per unit area.
 166,\Terrestrial\Hydrological\Groundwater,,"Hydrological, Groundwater",Groundwater level,Elevation of the water table or piezometric surface of an aquifer at a certain location and time. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
-167,\Terrestrial\Lake,,,Lake area,Area extent of the surface of a lake.
-168,\Terrestrial\Lake,,,Lake level,Elevation of water in an inland body of surface water of significant extent. [Based on 'water level' and 'lake' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
-171,\Terrestrial\River,,,Stream discharge,Volume of water flowing through a stream (or channel) cross-section per unit time. [Based on 'discharge' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
-172,\Terrestrial\River,,,Stream level,Elevation of the free water surface of a water body flowing in an open or closed conduit. [Based on 'water level'and 'stream' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
-174,\Terrestrial\Well,,,Well discharge,
+167,\Terrestrial\Hydrological\Surface water,,,Lake area,Area extent of the surface of a lake.
+168,\Terrestrial\Hydrological\Surface water,,,Lake level,Elevation of water in an inland body of surface water of significant extent. [Based on 'water level' and 'lake' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
+171,\Terrestrial\Hydrological\Surface water,,,Stream discharge,Volume of water flowing through a stream (or channel) cross-section per unit time. [Based on 'discharge' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
+172,\Terrestrial\Hydrological\Surface water,,,Stream level,Elevation of the free water surface of a water body flowing in an open or closed conduit. [Based on 'water level'and 'stream' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
+174,\Terrestrial\Hydrological\Well,,,Well discharge,
 231,\Terrestrial\Land surface,,,Breaking action-friction coefficient,
 232,\Terrestrial\Land surface,,,Coastlines,Location of coastlines (Lat/Long)
 236,\Terrestrial\Land surface,,,Land cover,"Processed from land surface imagery by assigning identified cluster(s) within a given area to specific classes of objects - Accuracy expressed as number of classes. Actually [ classes-1 ] is used, so that smaller figure corresponds to better performance, as usual."
@@ -18,7 +18,7 @@
 387,\Terrestrial\Land surface\Fire,,,Fire radiative power,Power radiated by the fire occurring within an area.
 388,\Terrestrial\Land surface\Fire,,,Fire temperature,Temperature of the fire occurring within an area.
 389,\Terrestrial\Land surface\Temperature,,,Land surface temperature,Temperature of the apparent surface of land (bare soil or vegetation).
-410,\Terrestrial\Lake\Temperature,,,Lake Surface Temperature,Temperature of the lake surface.
+410,\Terrestrial\Hydrological\Surface water\Temperature,,,Lake Surface Temperature,Temperature of the lake surface.
 422,\Terrestrial\Land surface\Greenhouse Gas,,,CO2 flux,Flux of carbon dioxide from the surface to the atmosphere
 423,\Terrestrial\Land surface\Vegetation,,,Biomass,Total amount of vegetation in a reference area
 424,\Terrestrial\Land surface\Vegetation,,,Fraction of vegetated land,Fraction of a land area where vegetation is present.
@@ -80,7 +80,7 @@
 12280,\Terrestrial\Hydrological\Surface water,,"hydrological, liquidPhase, surface water, lake",Lake volume,Volume of water contained in a lake at a given water level. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
 12281,\Terrestrial\Hydrological\Surface water,,"hydrological, liquidPhase, surface water",Suspended sediment discharge,Amount of suspended sediment (suspended by turbulence for considerable periods of time without contact with the bed) crossing a stream section per unit time.  [Based on 'suspended sediment' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
 12282,\Terrestrial\Hydrological\Surface water,,"hydrological, liquidPhase, surface water, stream, river",Stream index velocity,"A velocity that is representative of the average stream velocity; often measured in a profile or across the stream or over the water surface. [Based on 'velocity index method' in Manual on Stream Gauging (WMO-No. 1044), Volume II. 2010]"
-12283,\Terrestrial\Cryosphere\Permafrost ,,"terrestrial, cryosphere, permafrost",Rock glacier velocity,Surface velocity of a single rock glacier unit.
+12283,\Terrestrial\Cryosphere\Permafrost,,"terrestrial, cryosphere, permafrost",Rock glacier velocity,Surface velocity of a single rock glacier unit.
 12322,\Terrestrial\Hydrological\Surface water,,"hydrological, liquidPhase, surface water, stream, river",Stream velocity,"Ratio of the distance covered by a body of water, moving in a specified direction, to the time taken to cover that distance. [Based on 'velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"
 12323,\Terrestrial\Hydrological\Surface water,,"hydrological, liquidPhase, surface water, stream, river",Stream mean velocity,"Velocity at a given cross-section of a stream, obtained by dividing the discharge by the cross-sectional area of the stream at that section. [Based on 'mean velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"
 12324,\Terrestrial\Hydrological\Surface water,,"hydrological, liquidPhase, surface water, stream, river",Stream surface velocity,Velocity of a stream at its surface at a given point. [Based on 'surface velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
