@@ -57,8 +57,10 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     prod_uri = 'http://codes.wmo.int'
-    test_uri = 'http://testwmocodes.metarelate.net'
-    wmdr_test_uri = 'http://testwmocodes.metarelate.net/wmdr'
+    test_uri = 'https://ci.codes.wmo.int'
+    wmdr_test_uri = 'https://ci.codes.wmo.int/wmdr'   
+   # test_uri = 'http://testwmocodes.metarelate.net'
+   # wmdr_test_uri = 'http://testwmocodes.metarelate.net/wmdr'
 
     wmdr_prod_registers = [r['regdef']['value'] for r in entities(prod_uri + '/wmdr', prod_uri)]
     wmdr_test_registers = [r['regdef']['value'] for r in entities(prod_uri + '/wmdr', test_uri)]
@@ -71,7 +73,8 @@ if __name__ == '__main__':
     for areg in wmdr_test_registers:
         headers = {'Accept':'text/turtle; charset=UTF-8'}
         
-        treg = areg.replace('codes.wmo.int', 'testwmocodes.metarelate.net')
+        #treg = areg.replace('codes.wmo.int', 'testwmocodes.metarelate.net')
+        treg = areg.replace('codes.wmo.int', 'ci.codes.wmo.int')
 
         test_reg_content = requests.get(treg, headers=headers)
         if test_reg_content.status_code == 200:
