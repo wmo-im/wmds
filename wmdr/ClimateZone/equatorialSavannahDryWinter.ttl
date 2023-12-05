@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <equatorialSavannahDryWinter> a skos:Concept ;
-	rdfs:label "As" ;
+	rdfs:label "Aw" ;
 	skos:notation "equatorialSavannahDryWinter" ;
 	dct:description "Equatorial - Savannah - dry winter"@en	.

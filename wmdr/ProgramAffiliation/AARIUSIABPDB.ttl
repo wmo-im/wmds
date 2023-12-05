@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<AARIUSIABPDB> a skos:Concept ;
+	rdfs:label "AARI-USIABP" ;
+	skos:notation "AARIUSIABPDB" ;
+	dct:description "Collaborative buoys by Arctic and Antarctic Research Institute of Russian Federation and International Arctic Buoy Program of the USA"@en	.

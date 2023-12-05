@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<SOCIBGDP> a skos:Concept ;
+	rdfs:label "SOCIB-GDP" ;
+	skos:notation "SOCIBGDP" ;
+	dct:description "Barometer upgraded drifting buoys managed by the Balearic Islands Coastal Observing and Forecasting System (SOCIB), Spain, supported by GDP/NOAA"@en	.

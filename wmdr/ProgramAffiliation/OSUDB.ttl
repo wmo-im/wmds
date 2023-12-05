@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<OSUDB> a skos:Concept ;
+	rdfs:label "OSU DB" ;
+	skos:notation "OSUDB" ;
+	dct:description "Ice buoys operated by Oregon State University, USA, contributing to the International Arctic Buoy Progrmme."@en	.
