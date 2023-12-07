@@ -1,4 +1,4 @@
-﻿notation,path,domains,tags,name,description
+notation,path,domains,tags,name,description
 13,\Ocean\Topography,,topography,Bathymetry,Bathymetry
 18,\Ocean\Physical properties,,physical properties,Pressure,Pressure (depth) measured by CTD.
 62,\Ocean\Currents,,currents,Ocean current direction,Direction of ocean motion measured at various depth levels

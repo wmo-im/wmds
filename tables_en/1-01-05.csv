@@ -1,4 +1,4 @@
-﻿notation,path,domains,tags,name,description
+notation,path,domains,tags,name,description
 165,\Terrestrial\Hydrological\Groundwater,,,Groundwater (amount per unit area),Amount of water present beneath the ground surface per unit area.
 166,\Terrestrial\Hydrological\Groundwater,,"Hydrological, Groundwater",Groundwater level,Elevation of the water table or piezometric surface of an aquifer at a certain location and time. [International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
 167,\Terrestrial\Hydrological\Surface water,,,Lake area,Area extent of the surface of a lake.

@@ -1,4 +1,4 @@
-﻿notation,path,domains,tags,name,description
+notation,path,domains,tags,name,description
 126,\Terrestrial\Hydrological\Soil moisture\In situ,,"hydrological, soil moisture, in situ",Gravimetric moisture determination,Measurement of the amount of water in soil by weighing a sample before and after drying it in an oven at a temperature of 100-110 degrees Celsius. [Based on 'gravimetric method' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]
 128,\Terrestrial\Soil heat flux\In situ,,,Soil heat flux plate,
 159,\Terrestrial\Hydrological\Soil moisture\In situ,,"hydrological, soil moisture, in situ",Neutron probe,Measurement of the moisture content and hence the porosity of a geological formation by means of lowering a tool containing a radioactive element emitting neutrons and a neutron detector into a borehole. [Based on 'neutron logging' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]

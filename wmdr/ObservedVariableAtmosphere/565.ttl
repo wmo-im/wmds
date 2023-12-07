@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <565> a skos:Concept ;
-	rdfs:label "Long-wave radiation (direction unspecified)" ;
+	rdfs:label "Long-wave irradiance (direction unspecified)" ;
 	skos:notation "565" ;
-	dct:description ""@en	.
+	dct:description "Flux density of long-wave radiation (direction unspecified) at a specified level within the atmosphere, including the Earth surface. Long-wave radiation is the radiation at wavelengths greater than 3 μm (3000 nm), including most of the spectrum emitted by sources at terrestrial temperatures."@en	.

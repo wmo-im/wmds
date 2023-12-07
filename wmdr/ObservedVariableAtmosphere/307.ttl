@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <307> a skos:Concept ;
-	rdfs:label "w (vertical component of wind vector)" ;
+	rdfs:label "Wind (Z component, vertical)" ;
 	skos:notation "307" ;
-	dct:description "Vertical component of the 3-D wind vector, positive for upward wind. Scalar quantity to represent a value at a given location and an instantaneous time, or average over spatio-temporal extent, or values as a function of spatio-temporal coordinates."@en	.
+	dct:description "Z component of wind vector (horizontal and vertical profile)"@en	.

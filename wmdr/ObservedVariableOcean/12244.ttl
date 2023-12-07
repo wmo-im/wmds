@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<12244> a skos:Concept ;
-	rdfs:label "N2, Ar" ;
-	skos:notation "12244" ;
-	dct:description "Concentration of dissolved N2 and Ar"@en	.

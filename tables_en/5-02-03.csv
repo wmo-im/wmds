@@ -1,4 +1,4 @@
-﻿notation,path,domains,tags,name,description
+notation,path,domains,tags,name,description
 400,\Ocean\Biogeochemistry,ocean,"ocean,chlorophyll a,CDOM, backscatter","Fluorometry, optical backscattering",Measurement of emitted fluorescent light and particulate backscattering coefficient.
 401,\Ocean\Temperature,"atmosphere,ocean","atmosphere,ocean,temperature",Mercury-based thermometry,Measurement of temperature using a mercury based column.
 402,\Ocean\Temperature,"atmosphere,ocean","atmosphere,ocean,temperature",Fluid-based thermometry (excluding mercury),Measurement of temperature using a fluid based column (other than mercury).

@@ -5,4 +5,4 @@
 <12252> a skos:Concept ;
 	rdfs:label "Water level" ;
 	skos:notation "12252" ;
-	dct:description "Elevation of the free water surface of a water body relative to a reference datum (synonym: stage, gage height). [Based on ‘water level’ in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
+	dct:description "Elevation of the free water surface of a water body relative to a reference datum (synonym: stage, gage height). [Based on 'water level' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
