@@ -1,3 +1,5 @@
 __pycache__/
 *~
 *.pyc
+scripts/.DS_Store
+wmdr/.DS_Store
