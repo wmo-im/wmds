@@ -342,7 +342,7 @@ notation,path,domains,tags,name,description
 643,\Atmosphere\Particle phase\Composition\Inorganic cations,,,"Na+ (sodium), TSP","IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, TSP"
 644,\Atmosphere\Particle phase\Composition\Inorganic nitrogen species,,,"NH3 (ammonia), PM2.5","IUPAC: azane, PubChem CID: 222, CAS Number: 7664-41-7, in particle phase, PM2.5"
 645,\Atmosphere\Particle phase\Composition\Inorganic nitrogen species,,,"NH4+ (ammonium), PM10","IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, PM10"
-646,\Atmosphere\Particle phase\Composition\Inorganic nitrogen species,,,"NH4+ (ammonia), PM2.5","IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, PM2.5"
+646,\Atmosphere\Particle phase\Composition\Inorganic nitrogen species,,,"NH4+ (ammonium), PM2.5","IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, PM2.5"
 647,\Atmosphere\Particle phase\Composition\Inorganic nitrogen species,,,"NH4+ (ammonium), TSP","IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, TSP"
 648,\Atmosphere\Particle phase\Composition\Inorganic nitrogen species,,,"NH4NO4 (ammonium nitrate), TSP","IUPAC: ammonium nitrate, PubChem CID: 22985, CAS Number: 6484-52-2, in particle phase, TSP"
 649,\Atmosphere\Particle phase\Composition\Inorganic nitrogen species,,,"NH4NO3 (ammonium nitrate), PM1","IUPAC: ammonium nitrate, PubChem CID: 22985, CAS Number: 6484-52-2, in particle phase, PM1"
