@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12321> a skos:Concept ;
+	rdfs:label "Tellurium [Te-131]" ;
+	skos:notation "12321" ;
+	dct:description "IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6"@en	.

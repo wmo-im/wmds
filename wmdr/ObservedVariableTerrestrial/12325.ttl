@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12325> a skos:Concept ;
+	rdfs:label "Water surface slope" ;
+	skos:notation "12325" ;
+	dct:description "Difference in the stage of water surface over a short stream reach. [Based on 'water surface slope' in Manual on Stream Gauging (WMO-No. 1044), Volume II. 2010.]"@en	.

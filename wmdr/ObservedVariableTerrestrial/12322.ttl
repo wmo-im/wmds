@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12322> a skos:Concept ;
+	rdfs:label "Stream velocity" ;
+	skos:notation "12322" ;
+	dct:description "Ratio of the distance covered by a body of water, moving in a specified direction, to the time taken to cover that distance. [Based on 'velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
