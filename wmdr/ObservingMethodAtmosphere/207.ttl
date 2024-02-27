@@ -5,4 +5,4 @@
 <207> a skos:Concept ;
 	rdfs:label "Transmissometer" ;
 	skos:notation "207" ;
-	dct:description ""@en	.
+	dct:description "Visual range is calculated by measuring the extinction coefficient of a beam of energy sent through a volume of air."@en	.
