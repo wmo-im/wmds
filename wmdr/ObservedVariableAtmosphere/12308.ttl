@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12308> a skos:Concept ;
+	rdfs:label "Net long-wave irradiance" ;
+	skos:notation "12308" ;
+	dct:description "Flux density of upwelling long-wave radiation, as the difference between downwelling and upwelling radiation (positive for net downward) at a specified level within or at the top of the atmosphere, including the Earth surface."@en	.

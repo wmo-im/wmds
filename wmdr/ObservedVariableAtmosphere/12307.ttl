@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12307> a skos:Concept ;
+	rdfs:label "Short-wave irradiance (direction unspecified)" ;
+	skos:notation "12307" ;
+	dct:description "Flux density of short-wave radiation (direction unspecified) at a specified level within the atmosphere, including the Earth surface. Short-wave radiation includes most of the solar radiation spectrum in the atmosphere from 280 nm to 3000 nm (3 μm)."@en	.
