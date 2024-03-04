@@ -5,4 +5,4 @@
 <190> a skos:Concept ;
 	rdfs:label "Scatterometer" ;
 	skos:notation "190" ;
-	dct:description ""@en	.
+	dct:description "Visual range is calculated by measuring the return of light beam scattered by diffusion in air."@en	.
