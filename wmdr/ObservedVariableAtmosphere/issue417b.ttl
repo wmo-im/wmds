@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<issue417b> a skos:Concept ;
+	rdfs:label "v (v component of horizontal wind vector)" ;
+	skos:notation "issue417b" ;
+	dct:description "North-south component of the horizontal wind vector, positive value for northward moving or south-to-north wind. This scalar quantity can be used to represent a value at given location and an instantaneous time or average over spatio-temporal extent or values as a function of spatio-temporal coordinates."@en	.
