@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <710> a skos:Concept ;
-	rdfs:label "Se (Selenium), TSP" ;
+	rdfs:label "Se (selenium), TSP" ;
 	skos:notation "710" ;
 	dct:description "IUPAC: selenium, PubChem CID: 6326970, CAS Number: 7782-49-2, in particle phase, TSP"@en	.

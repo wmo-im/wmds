@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <691> a skos:Concept ;
-	rdfs:label "Co (Cobalt), TSP" ;
+	rdfs:label "Co (cobalt), TSP" ;
 	skos:notation "691" ;
 	dct:description "IUPAC: cobalt, PubChem CID: 104730, CAS Number: 7440-48-4, in particle phase, TSP"@en	.

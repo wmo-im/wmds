@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <690> a skos:Concept ;
-	rdfs:label "Cr (Chromium), TSP" ;
+	rdfs:label "Cr (chromium), TSP" ;
 	skos:notation "690" ;
 	dct:description "IUPAC: chromium, PubChem CID: 23976, CAS Number: 7440-47-3, in particle phase, TSP"@en	.
