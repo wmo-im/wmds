@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <715> a skos:Concept ;
-	rdfs:label "Th (Thorium), PM2.5" ;
+	rdfs:label "Th (thorium), PM2.5" ;
 	skos:notation "715" ;
 	dct:description "IUPAC: thorium, PubChem CID: 23960, CAS Number: 7440-29-1, in particle phase, PM2.5"@en	.

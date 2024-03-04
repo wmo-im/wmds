@@ -5,4 +5,4 @@
 <24> a skos:Concept ;
 	rdfs:label "Human observation" ;
 	skos:notation "24" ;
-	dct:description ""@en	.
+	dct:description "Observation of clouds from the Earth's surface by a human observer (ref: https://cloudatlas.wmo.int/en/observation-of-clouds-from-the-earths-surface.html)"@en	.

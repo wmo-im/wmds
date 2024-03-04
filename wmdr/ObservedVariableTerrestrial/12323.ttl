@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12323> a skos:Concept ;
+	rdfs:label "Stream mean velocity" ;
+	skos:notation "12323" ;
+	dct:description "Velocity at a given cross-section of a stream, obtained by dividing the discharge by the cross-sectional area of the stream at that section. [Based on 'mean velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

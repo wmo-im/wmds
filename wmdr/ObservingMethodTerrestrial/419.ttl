@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<419> a skos:Concept ;
+	rdfs:label "Frequency domain reflectometry" ;
+	skos:notation "419" ;
+	dct:description "Measurement of soil capacitance by means of radio frequency waves. The soil acts as the dielectric completing a capacitance circuit, which is part of a feedback loop of a high-frequency transistor oscillator. [Based on 'Frequency domain reflectometry' in Guide to Hydrological Practices (WMO-No. 168), Volume I. 2008 edition, updated in 2020.]"@en	.

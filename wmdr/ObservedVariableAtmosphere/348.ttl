@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <348> a skos:Concept ;
-	rdfs:label "C18H12 (Benz(a)anthracene), in air" ;
+	rdfs:label "C18H12 (benz(a)anthracene), in air" ;
 	skos:notation "348" ;
 	dct:description "IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in gas phase"@en	.

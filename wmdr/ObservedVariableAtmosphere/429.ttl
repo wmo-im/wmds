@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <429> a skos:Concept ;
-	rdfs:label "CS2 (Carbon disulfide)" ;
+	rdfs:label "CS2 (carbon disulfide)" ;
 	skos:notation "429" ;
 	dct:description "IUPAC: methanedithione, PubChem CID: 6348, CAS Number: 75-15-0, in gas phase"@en	.

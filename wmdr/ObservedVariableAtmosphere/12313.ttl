@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12313> a skos:Concept ;
+	rdfs:label "Earth surface short-wave bidirectional reflectance" ;
+	skos:notation "12313" ;
+	dct:description "Reflectance of the Earth surface as a function of the viewing angle and the illumination angle averaged over the range 0.4-0.7 µm."@en	.

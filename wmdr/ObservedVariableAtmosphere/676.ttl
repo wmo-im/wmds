@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <676> a skos:Concept ;
-	rdfs:label "Sb (Antimony), TSP" ;
+	rdfs:label "Sb (antimony), TSP" ;
 	skos:notation "676" ;
 	dct:description "IUPAC: antimony, PubChem CID: 5354495, CAS Number: 7440-36-0, in particle phase, TSP"@en	.

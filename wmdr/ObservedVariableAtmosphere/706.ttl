@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <706> a skos:Concept ;
-	rdfs:label "P (Phosphorous), PM2.5" ;
+	rdfs:label "P (phosphorous), PM2.5" ;
 	skos:notation "706" ;
 	dct:description "IUPAC: phosphorus, PubChem CID: 5462309, CAS Number: 7723-14-0, in particle phase, PM2.5"@en	.

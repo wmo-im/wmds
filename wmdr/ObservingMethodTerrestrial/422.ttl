@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<422> a skos:Concept ;
+	rdfs:label "Staff gauge" ;
+	skos:notation "422" ;
+	dct:description "Determination of water stage by means of a graduated vertical scale, fixed to a staff or structure, on which the water level may be read. Synonym: vertical gauge. [Based on 'Staff gauge' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

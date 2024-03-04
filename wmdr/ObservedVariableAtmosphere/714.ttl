@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <714> a skos:Concept ;
-	rdfs:label "Tl (Thallium), TSP" ;
+	rdfs:label "Tl (thallium), TSP" ;
 	skos:notation "714" ;
 	dct:description "IUPAC: thallium, PubChem CID: 5359464, CAS Number: 7440-28-0, in particle phase, TSP"@en	.

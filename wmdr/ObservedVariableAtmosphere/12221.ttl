@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <12221> a skos:Concept ;
-	rdfs:label "Cerium [Ce-144]" ;
+	rdfs:label "cerium [Ce-144]" ;
 	skos:notation "12221" ;
 	dct:description "IUPAC: cerium-144, PubChem CID: 26874, CAS Number: 14762-78-8"@en	.

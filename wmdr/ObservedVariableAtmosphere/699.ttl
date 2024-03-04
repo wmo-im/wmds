@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <699> a skos:Concept ;
-	rdfs:label "Li (Lithium), PM2.5" ;
+	rdfs:label "Li (lithium), PM2.5" ;
 	skos:notation "699" ;
 	dct:description "IUPAC: lithium, PubChem CID: 3028194, CAS Number: 7439-93-2, in particle phase, PM2.5"@en	.

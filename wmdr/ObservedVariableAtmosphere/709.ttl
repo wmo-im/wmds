@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <709> a skos:Concept ;
-	rdfs:label "Rb (Rubidium), TSP" ;
+	rdfs:label "Rb (rubidium), TSP" ;
 	skos:notation "709" ;
 	dct:description "IUPAC: rubidium, PubChem CID: 5357696, CAS Number: 7440-17-7, in particle phase, TSP"@en	.

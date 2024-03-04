@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12310> a skos:Concept ;
+	rdfs:label "Downward spectral radiance" ;
+	skos:notation "12310" ;
+	dct:description "Downward radiant power per area unit, per solid angle, and per wavelength or wavenumber interval."@en	.

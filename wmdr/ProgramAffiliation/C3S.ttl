@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<C3S> a skos:Concept ;
+	rdfs:label "Copernicus Climate Change Service-C3S" ;
+	skos:notation "C3S" ;
+	dct:description "The Copernicus Climate Change Service (C3S) operated by the European Centre for Medium Range Weather Forecasts (ECMWF), on behalf of the European Union"@en	.

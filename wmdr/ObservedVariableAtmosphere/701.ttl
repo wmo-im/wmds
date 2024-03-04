@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <701> a skos:Concept ;
-	rdfs:label "Mn (Manganese), PM10" ;
+	rdfs:label "Mn (manganese), PM10" ;
 	skos:notation "701" ;
 	dct:description "IUPAC: manganese, PubChem CID: 23930, CAS Number: 7439-96-5, in particle phase, PM10"@en	.

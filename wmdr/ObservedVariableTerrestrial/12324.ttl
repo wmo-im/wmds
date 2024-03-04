@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12324> a skos:Concept ;
+	rdfs:label "Stream surface velocity" ;
+	skos:notation "12324" ;
+	dct:description "Velocity of a stream at its surface at a given point. [Based on 'surface velocity' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
