@@ -17,14 +17,10 @@ body:
     id: amendment-details
     attributes:
       label: Amendment details 
-      description: Full description of exact changes proposed. This content may evolve as decisions are finalized.
-      placeholder: Enter details of amendments requested. Convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm
+      description: Full description of exact changes proposed. This content may evolve as decisions are finalized. Convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
+      placeholder: Enter details of amendments requested, if known. 
     validations:
       required: true
-  - type: textarea
-    attributes:
-      label: Comments
-      description: Other information that may be informative and relevant.
   - type: textarea
     id: requestor
     attributes:
@@ -42,6 +38,11 @@ body:
       placeholder: Enter stakeholder details.
       value: "Enter list of stakeholder(s)."
   - type: textarea
+    id: systems 
+    label: Systems or applications potentially impacted by the change.
+    placeholder: list all known systems that may be impacted by the change.
+    value: "Enter list of systems or applications that may be impacted by the change."
+  - type: textarea
     id: publication
     attributes:
       label: Publication(s)
@@ -50,6 +51,7 @@ body:
       value: "Example: Manual on Codes (WMO-No. 306), Volume I.3, WMO Codes Registry, Code table 1-02, Measurement unit,http://codes.wmo.int/wmdr/unit"
     validations:
       required: true
+  
   - type: dropdown
     attributes:
       label: Expected impact of change
@@ -77,3 +79,7 @@ body:
       label: Validation
       description: Details of validation, if applicable.  
       placeholder: Enter if validation was performed.
+        - type: textarea
+    attributes:
+      label: Other comments
+      description: Other information that may be informative and relevant.
