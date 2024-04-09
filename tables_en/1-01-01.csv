@@ -6,8 +6,8 @@ notation,path,domains,tags,name,description
 179,\Atmosphere\Clouds,,,Cloud amount,"Fraction of the sky covered by clouds of a particular type or combination. It can refer to a genus, species, variety, layer, or a certain combination of clouds. Also, see 'cloud cover'."
 180,\Atmosphere\Clouds,,,Cloud cover,"The amount of sky estimated to be covered by a specified cloud type (partial cloud amount), or by all cloud types (total cloud amount). In either case, the estimate is made to the nearest okta (eighth) and is reported on a scale which is essentially one of the nearest eighth, except that figures 0 and 8 on the scale signify a completely clear and cloudy sky, respectively, with consequent adjustment to the adjacent 1 and 7 okta intervals."
 181,\Atmosphere\Clouds,,,Cloud drop effective radius,"The area weighted mean radius of liquid water drops, assimilated to spheres of the same volume."
-182,\Atmosphere\Clouds,,,Cloud hydrometeor concentration,
-183,\Atmosphere\Clouds,,,Effective radius of cloud hydrometeors,
+182,\Atmosphere\Clouds,,,Cloud hydrometeor concentration,Number of cloud hydrometeors (or cloud particles) per unit volume. Cloud hydrometeors refer to liquid and/or ice cloud particles.
+183,\Atmosphere\Clouds,,,Effective radius of cloud hydrometeors,"An ensemble mean size of cloud hydrometeors derived from size distribution. Cloud hydrometeors refer to liquid and/or ice cloud particles. For liquid phase cloud, the effective radius is defined as the area weighted mean radius of liquid water drops, assimilated to spheres of the same volume. The effective radius of cloud ice particles has been defined in literature in different ways. Clear and detailed definition should be provided as how this parameter is derived."
 186,\Atmosphere\Clouds,,,Melting layer depth in clouds,Depth of the atmospheric layer in cloud where liquid-solid states transform into each other.
 188,\Atmosphere\Clouds,,,PSC occurrence,Polar Stratospheric Clouds occurrence. - Accuracy expressed as Hit Rate [HR] and False Alarm Rate [FAR]. Simplified: [FAR/HR] 
 192,\Atmosphere\Gas phase\Greenhouse Gas,,,CH4 (methane),"IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8, in gas phase"
@@ -240,8 +240,8 @@ notation,path,domains,tags,name,description
 504,\Atmosphere\Gas phase\Reactive Gas\VOC,,,t-C4H8 (trans-2-butene),"IUPAC: (E)-but-2-ene, PubChem CID: 62695, CAS Number: 107-01-7, in gas phase"
 505,\Atmosphere\Gas phase\Reactive Gas\VOC,,,t-C5H10 (trans-2-pentene),"IUPAC: (E)-pent-2-ene, PubChem CID: 5326161, CAS Number: 109-68-2, in gas phase"
 506,\Atmosphere\Clouds\Optical properties,,,Cloud optical depth,"Effective depth (thickness) of a cloud from the viewpoint of radiation propagation. Specifically, OD = exp(-K.Δz), where K is the extinction coefficient [km-1] and Δz the vertical path [km] between the base and the top of the cloud. The WMO Cloud Atlas (https://cloudatlas.wmo.int/en/optical-thickness.html) defines cloud optical thickness as 'The optical thickness of a cloud is the degree to which the cloud prevents light from passing through it.'"
-507,\Atmosphere\Clouds\Optical properties,,,Optical depth of fog,
-508,\Atmosphere\Clouds\Optical properties,,,Optical depth within each cloud layer,
+507,\Atmosphere\Clouds\Optical properties,,,Optical depth of fog,"The degree to which fog prevents light from passing through it. The WMO Cloud Atlas refers to the term “fog” "when microscopic droplets reduce horizontal visibility at the Earth’s surface to less than 1 km" ([WMO, International Cloud Atlas, 2017 ed., https://cloudatlas.wmo.int/en/fog-compared-with-mist.html]."
+508,\Atmosphere\Clouds\Optical properties,,,Optical depth within a cloud layer,"A part of cloud optical depth which results from a vertical integral of light extinction by cloud particles between the bottom and top of a cloud layer."
 509,\Atmosphere\Clouds\Optical properties,,,Short-wave cloud reflectance,Reflectance of the solar radiation from clouds 
 521,\Atmosphere\Visibility\Obscurations,,,Extinction coefficient,
 522,\Atmosphere\Visibility\Obscurations,,,Hydrometeor radius,
@@ -252,7 +252,7 @@ notation,path,domains,tags,name,description
 529,\Atmosphere\Total Atmospheric Deposition\Inorganic acid,,,Strong acids,
 531,\Atmosphere\Clouds\Position,,,Cloud base height,"For surface observations, height of the cloud base above ground level; for aircraft observations, altitude of the cloud base above mean sea level."
 532,\Atmosphere\Clouds\Position,,,Cloud top height,Height of the top of the cloud (highest cloud in case of multi-layer clouds) above mean sea level.
-533,\Atmosphere\Clouds\Position,,,Height of inversion,
+533,\Atmosphere\Clouds\Position,,,Height of inversion,Height of a stable layer of air with an increased temperature.
 534,\Atmosphere\Gas phase\Greenhouse Gas\HCFCs,,,"C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)","IUPAC: 1,1-dichloro-1-fluoroethane, PubChem CID: 15586, CAS Number: 1717-00-6, in gas phase"
 535,\Atmosphere\Gas phase\Greenhouse Gas\HCFCs,,,"C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)","IUPAC: 1-chloro-1,1-difluoroethane, PubChem CID: 6388, CAS Number: 75-68-3, in gas phase"
 536,\Atmosphere\Gas phase\Greenhouse Gas\HFCs,,,"C2H3F3 (1,1,1-trifluoroethane, HFC-143a)","IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase"
