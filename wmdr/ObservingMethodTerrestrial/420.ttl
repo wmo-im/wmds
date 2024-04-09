@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<420> a skos:Concept ;
+	rdfs:label "Gamma-ray attenuation" ;
+	skos:notation "420" ;
+	dct:description "Determination of gamma-ray attenuation at given depth of soil using a source and a detector placed at a given distance at the same depth. If the apparent dry bulk density of the soil is known the signal can be converted into a measure of the volumetric soil-moisture content. [Based on 'Gamma-ray attenuation' in Guide to Hydrological Practices (WMO-No. 168), Volume I. 2008 edition, updated in 2020.]"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<421> a skos:Concept ;
+	rdfs:label "Non-recording gauge" ;
+	skos:notation "421" ;
+	dct:description "Determination of water stage by means of a non-recording gauge (e.g., graduated vertical or inclined staff gauge, wire-weight gauge, graduated rod, tape or point gauge and maximum-stage gauge). [Based on 'Non-recording gauges' in Guide to Hydrological Practices (WMO-No. 168), Volume I. 2008 edition, updated in 2020.]"@en	.
