@@ -79,7 +79,3 @@ body:
       label: Validation
       description: Details of validation, if applicable.  
       placeholder: Enter if validation was performed.
-        - type: textarea
-    attributes:
-      label: Other comments
-      description: Other information that may be informative and relevant.
