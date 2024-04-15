@@ -17,9 +17,9 @@ body:
     id: amendment-details
     attributes:
       label: Amendment details 
-      description: Full description of exact changes proposed. This content may evolve as decisions are finalized.
-      placeholder: Enter details of amendments requested. Convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm
+      description: Tables of exact changes proposed. Enter TBD if the details are unknown. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
     validations:
+      placeholder: Enter amendment details. 
       required: true
   - type: textarea
     attributes:
@@ -29,7 +29,7 @@ body:
     id: requestor
     attributes:
       label: Requestor(s)
-      description: Name of individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations, if applicable.
+      description: Name of individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations, if applicable and GitHub username or email.
       placeholder: Enter requestor details.
       value: "Enter list of requestors."
     validations:
@@ -38,9 +38,16 @@ body:
     id: stakeholder
     attributes:
       label: Stakeholder(s)
-      description: Name of individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations, if applicable.
+      description: Names of other individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations, if applicable.
       placeholder: Enter stakeholder details.
       value: "Enter list of stakeholder(s)."
+  - type: textarea
+    id: applications
+    attributes:
+      label: Applications or Systems
+      description: Identification of applications or systems that may be effected by the amendment.
+      placeholder: List applications or systems with URLs if relevant.
+      value: "Enter list of applications/systems."
   - type: textarea
     id: publication
     attributes:

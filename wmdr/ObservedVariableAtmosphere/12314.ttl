@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12314> a skos:Concept ;
+	rdfs:label "Earth surface spectral bidirectional reflectance" ;
+	skos:notation "12314" ;
+	dct:description "Reflectance of the Earth surface as a function of viewing angle, incidence angle and wavelength, spectrally resolved. [The distribution of this variable is represented by the Bidirectional Reflectance Distribution Function (BRDF)]."@en	.
