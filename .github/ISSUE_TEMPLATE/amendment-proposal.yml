@@ -51,8 +51,8 @@ body:
       value: "Example: Manual on Codes (WMO-No. 306), Volume I.3, WMO Codes Registry, Code table 1-02, Measurement unit,http://codes.wmo.int/wmdr/unit"
     validations:
       required: true
-  
   - type: dropdown
+    id: impact
     attributes:
       label: Expected impact of change
       description: Choose LOW (for editorial changes to existing codes), MEDIUM (for new codes) or HIGH (for deprecated and superseded codes)
@@ -79,7 +79,8 @@ body:
       label: Validation
       description: Details of validation, if applicable.  
       placeholder: Enter if validation was performed.
-        - type: textarea
+  - type: textarea
+    id: comments
     attributes:
       label: Other comments
       description: Other information that may be informative and relevant.
