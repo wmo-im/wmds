@@ -22,10 +22,6 @@ body:
       placeholder: Enter amendment details. 
       required: true
   - type: textarea
-    attributes:
-      label: Comments
-      description: Other information that may be informative and relevant.
-  - type: textarea
     id: requestor
     attributes:
       label: Requestor(s)
@@ -48,13 +44,6 @@ body:
       description: Identification of applications or systems that may be effected by the amendment.
       placeholder: List applications or systems with URLs if relevant.
       value: "Enter list of applications/systems."
-  - type: textarea
-    id: publication
-    attributes:
-      label: Publication(s)
-      description: Publication title, WMO number, relevant volume, part, section, regulation, provision, paragraph or other such subdivisions of the publication and URL to location in the WMO Codes Registry to which the amendment applies.
-      placeholder: Enter publication name and location of amendment in the publication.
-      value: "Example: Manual on Codes (WMO-No. 306), Volume I.3, WMO Codes Registry, Code table 1-02, Measurement unit,http://codes.wmo.int/wmdr/unit"
     validations:
       required: true
   - type: dropdown
@@ -79,8 +68,22 @@ body:
       description: Other publications, websites or resources that were reviewed during the drafting of the proposal.
       placeholder: Enter references reviewed. 
   - type: textarea
+    attributes:
+      label: Comments
+      description: Other information that may be informative and relevant.
+  - type: textarea
+    id: publication
+    attributes:
+      label: Publication(s)
+      description: Publication title, WMO number, relevant volume, part, section, regulation, provision, paragraph or other such subdivisions of the publication and URL to location in the WMO Codes Registry to which the amendment applies.
+      placeholder: Enter publication name and location of amendment in the publication.
+      value: "Example: Manual on Codes (WMO-No. 306), Volume I.3, WMO Codes Registry, Code table 1-02, Measurement unit,http://codes.wmo.int/wmdr/unit" 
+  - type: textarea
     id: validation
     attributes:
       label: Validation
       description: Details of validation, if applicable.  
-      placeholder: Enter if validation was performed.
+      placeholder: Enter if validation was performed. 
+      
+
+      
