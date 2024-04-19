@@ -5,4 +5,4 @@
 <102> a skos:Concept ;
 	rdfs:label "Wave directional energy frequency spectrum" ;
 	skos:notation "102" ;
-	dct:description "2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15°deg; wide, and 25 frequency bands)."@en	.
+	dct:description "2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15Â°deg; wide, and 25 frequency bands)."@en	.

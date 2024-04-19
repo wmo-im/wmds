@@ -5,4 +5,4 @@
 <126> a skos:Concept ;
 	rdfs:label "Gravimetric moisture determination" ;
 	skos:notation "126" ;
-	dct:description "Measurement of the amount of water in soil by weighing a sample before and after drying it in an oven at a temperature of 100-110 degrees Celsius. [Based on ‘gravimetric method’ in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.
+	dct:description "Measurement of the amount of water in soil by weighing a sample before and after drying it in an oven at a temperature of 100-110 degrees Celsius. [Based on 'gravimetric method' in International Glossary of Hydrology (WMO-No. 385). 2012 edition.]"@en	.

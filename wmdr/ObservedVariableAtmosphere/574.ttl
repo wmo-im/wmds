@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <574> a skos:Concept ;
-	rdfs:label "Global solar radiation (upwelling)" ;
+	rdfs:label "Upward short-wave irradiance" ;
 	skos:notation "574" ;
-	dct:description ""@en	.
+	dct:description "Flux density of upwelling short-wave radiation, at the top of the atmosphere or a specified level within the atmosphere, including the Earth surface."@en	.

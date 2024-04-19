@@ -5,4 +5,4 @@
 <376> a skos:Concept ;
 	rdfs:label "Electromagnetic current meter" ;
 	skos:notation "376" ;
-	dct:description "Determination of water velocity based on the principle that a conductor (water) moving through a magnetic field will produce an electrical current directly proportional to the speed of movement (Faraday’s law). By measuring this current and the resultant distortion in the magnetic field the instrument can be calibrated to determine point velocities of flowing water. [Based on Manual on Stream Gauging (WMO-No. 1044), Volume I. 2010]"@en	.
+	dct:description "Determination of water velocity based on the principle that a conductor (water) moving through a magnetic field will produce an electrical current directly proportional to the speed of movement (Faraday‚Äôs law). By measuring this current and the resultant distortion in the magnetic field the instrument can be calibrated to determine point velocities of flowing water. [Based on Manual on Stream Gauging (WMO-No. 1044), Volume I. 2010]"@en	.

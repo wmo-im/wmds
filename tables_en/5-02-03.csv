@@ -1,14 +1,14 @@
 notation,path,domains,tags,name,description
-400,,ocean,"ocean,chlorophyll a,CDOM, backscatter","Fluorometry, optical backscattering",Measurement of emitted fluorescent light and particulate backscattering coefficient.
-401,,"atmosphere,ocean","atmosphere,ocean,temperature",Mercury-based thermometry,Measurement of temperature using a mercury based column.
-402,,"atmosphere,ocean","atmosphere,ocean,temperature",Fluid-based thermometry (excluding mercury),Measurement of temperature using a fluid based column (other than mercury).
-403,,"atmosphere,ocean","atmosphere,ocean,temperature",Electrical resistivity,Measurement derived from the measurement of electrical resistivity.
-404,,ocean,"ocean,salinity",Electrical conductivity,Measurement derived from the measurement of electrical conductivity.
-405,,ocean,"ocean,salinity",Inductivity,Measurement derived from the measurement of magnetic inductance.
-406,,ocean,"ocean,pressure",Piezoresistivity,Measurement of the change in electrical resistance of a material under mechanical stress.
-407,,ocean,"ocean,waves,direction,period,height",HF echo Doppler spectra analysis method (HR radar),Remote sensing of surface currents employing radars frequencies.
-408,,ocean,"ocean,current,direction,speed",GPS fixes sequence comparison,Measurement derived from the difference between two successives GPS positions.
-409,,ocean,"ocean,dissolved oxygen",Clark electrode polarographic method,The dissolved oxygen concentration by counting the number of oxygen molecules per second (flux) that diffuse through the membrane from the ocean environment to the working electrode.
-410,,ocean,"ocean,dissolved oxygen",Oxygen luminescence quenching method,The fluorescent indicator is a special complex embedded in a gas permeable sensing foil that is exposed to the surrounding water. The sensing foil is excited by modulated light; the sensor measures the phase of the returned light.
-411,,ocean,"ocean,pH",Potentiometric method,Ion-sensitive field-effect transistor that responds to proton activity and a Ag/AgCl reference electrode.
-412,,ocean,"ocean,downwelling irradiance, upwelling radiance",Radiometry,Measurement of the number of photon reaching a surface using a photodiode.
+400,\Ocean\Biogeochemistry,ocean,"ocean,chlorophyll a,CDOM, backscatter","Fluorometry, optical backscattering",Measurement of emitted fluorescent light and particulate backscattering coefficient.
+401,\Ocean\Temperature,"atmosphere,ocean","atmosphere,ocean,temperature",Mercury-based thermometry,Measurement of temperature using a mercury based column.
+402,\Ocean\Temperature,"atmosphere,ocean","atmosphere,ocean,temperature",Fluid-based thermometry (excluding mercury),Measurement of temperature using a fluid based column (other than mercury).
+403,\Ocean\Temperature,"atmosphere,ocean","atmosphere,ocean,temperature",Electrical resistivity,Measurement derived from the measurement of electrical resistivity.
+404,\Ocean\Salinity,ocean,"ocean,salinity",Electrical conductivity,Measurement derived from the measurement of electrical conductivity.
+405,\Ocean\Salinity,ocean,"ocean,salinity",Inductivity,Measurement derived from the measurement of magnetic inductance.
+406,\Ocean\Pressure,ocean,"ocean,pressure",Piezoresistivity,Measurement of the change in electrical resistance of a material under mechanical stress.
+407,\Ocean\Currents,ocean,"ocean,waves,direction,period,height",HF echo Doppler spectra analysis method (HR radar),Remote sensing of surface currents employing radars frequencies.
+408,\Ocean\Currents,ocean,"ocean,current,direction,speed",GPS fixes sequence comparison,Measurement derived from the difference between two successives GPS positions.
+409,\Ocean\Biogeochemistry,ocean,"ocean,dissolved oxygen",Clark electrode polarographic method,The dissolved oxygen concentration by counting the number of oxygen molecules per second (flux) that diffuse through the membrane from the ocean environment to the working electrode.
+410,\Ocean\Biogeochemistry,ocean,"ocean,dissolved oxygen",Oxygen luminescence quenching method,The fluorescent indicator is a special complex embedded in a gas permeable sensing foil that is exposed to the surrounding water. The sensing foil is excited by modulated light; the sensor measures the phase of the returned light.
+411,\Ocean\Biogeochemistry,ocean,"ocean,pH",Potentiometric method,Ion-sensitive field-effect transistor that responds to proton activity and a Ag/AgCl reference electrode.
+412,\Ocean\Radiation,ocean,"ocean,downwelling irradiance, upwelling radiance",Radiometry,Measurement of the number of photon reaching a surface using a photodiode.

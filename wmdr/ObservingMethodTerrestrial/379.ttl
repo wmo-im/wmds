@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<379> a skos:Concept ;
+	rdfs:label "radar water level gauge" ;
+	skos:notation "379" ;
+	dct:description "A radar water level gauge transmits microwave energy to measure the distance between the sensor and the water surface.  The time it takes for the energy to reflect off the water surface and return to the radar is used to calculate the distance between the sensor and the water surface.  Water level can then be determined from the elevation of the radar sensor and the sensor's measured distance to the water surface [Based on Skolnik et al, Radar Handbook, 3rd edition, 2008; Fulford et al, Testing and use of radar water level sensors by the U.S. Geological Survey, Manual on sea level: Measurement and interpretation Volume V: Radar gauges, 2016 and Fulford et al, Laboratory and field tests of the Sutron RLR-0003-1 water level sensor: U.S. Geological Survey Open-File Report,  2015]."@en	.

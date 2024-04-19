@@ -140,15 +140,15 @@ for f in glob.glob('wmdr/**/*.ttl', recursive=True):
             # handle content oddities in the test register that have not been able to be resolved
             # outstanding actions to fix content issues in the test register data store 
             if os.environ.get('tmode') == 'test':
-                if resourceURI == 'http://testwmocodes.metarelate.net/wmdr/ObservingMethodTerrestrial/inapplicable':
+                if resourceURI == 'http://ci.codes.wmo.int/wmdr/ObservingMethodTerrestrial/inapplicable':
                     expected_rdfgraph.remove((rdflib.term.URIRef(identityURI),
                                               rdflib.namespace.RDFS.label,
                                               rdflib.term.Literal("(inapplicable)")))
-                elif resourceURI == 'http://testwmocodes.metarelate.net/wmdr/ObservingMethodTerrestrial/unknown':
+                elif resourceURI == 'http://ci.codes.wmo.int/wmdr/ObservingMethodTerrestrial/unknown':
                     expected_rdfgraph.remove((rdflib.term.URIRef(identityURI),
                                               rdflib.namespace.RDFS.label,
                                               rdflib.term.Literal("(unknown)")))
-                elif resourceURI == 'http://testwmocodes.metarelate.net/wmdr/WaterML2_0':
+                elif resourceURI == 'http://ci.codes.wmo.int/wmdr/WaterML2_0':
                     expected_rdfgraph.remove((rdflib.term.URIRef(identityURI),
                                               rdflib.namespace.SKOS.member,
                                               rdflib.term.Literal("Empty")))

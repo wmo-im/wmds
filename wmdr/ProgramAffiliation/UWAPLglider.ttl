@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<UWAPLglider> a skos:Concept ;
+	rdfs:label "University of Washington Applied Physics Laboratory Glider Program" ;
+	skos:notation "UWAPLglider" ;
+	dct:description "Glider program supported by Integrative Observational Platforms Group, Applied Physics Laboratory, University of Washington"@en	.

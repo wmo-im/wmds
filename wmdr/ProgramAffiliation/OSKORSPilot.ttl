@@ -5,4 +5,4 @@
 <OSKORSPilot> a skos:Concept ;
 	rdfs:label "OS-KORS Pilot" ;
 	skos:notation "OSKORSPilot" ;
-	dct:description "Pilot coastal moorings by KOIST, ROK"@en	.
+	dct:description "Korean Ocean Research Stations (KORS), coastal pilot sites operated jointly by Korea Hydrographic and Oceanographic Agency (KHOA)and Korea Institute of Ocean Science and Technology (KIOST), Republic of Korea"@en	.

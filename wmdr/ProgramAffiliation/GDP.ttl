@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<GDP> a skos:Concept ;
+	rdfs:label "Global Drifter Program (GDP)" ;
+	skos:notation "GDP" ;
+	dct:description "The Global Drifter Program (GDP) operated by SIO's Lagrangian Drifter Laboratory (LDL), funded by NOAA, maintaining a global array."@en	.

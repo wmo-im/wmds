@@ -1,7 +1,7 @@
 __pycache__/
 *~
 *.pyc
-*.ttl
-*/*.ttl
 scripts/.DS_Store
 wmdr/.DS_Store
+*.ttl
+*/*.ttl

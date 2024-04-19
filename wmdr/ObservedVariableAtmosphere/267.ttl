@@ -5,4 +5,4 @@
 <267> a skos:Concept ;
 	rdfs:label "Background luminance" ;
 	skos:notation "267" ;
-	dct:description ""@en	.
+	dct:description "Luminous flux received from the background per unit solid angle and per unit area. Note: Luminous flux is a quantity derived from radiant flux by evaluating the radiation according to its action upon the International Commission on Illumination standard photometric observer."@en	.
