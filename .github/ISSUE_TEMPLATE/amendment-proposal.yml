@@ -50,6 +50,7 @@ body:
        - label: WHOS
        - label: WDQMS
        - label: GBON Compliance Monitor
+       - label: Other
     validations:
       required: true
   - type: dropdown
