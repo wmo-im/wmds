@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<A> a skos:Concept ;
-	rdfs:label "ampere" ;
-	skos:notation "A" ;
-	dct:description "SI base unit of electric current"@en	.
+<a> a skos:Concept ;
+	rdfs:label "year" ;
+	skos:notation "a" ;
+	dct:description "Conventional unit of time duration, ranging from 365 days to 366 days"@en	.
