@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <687> a skos:Concept ;
-	rdfs:label "Cd (Cadmium), TSP" ;
+	rdfs:label "Cd (cadmium), TSP" ;
 	skos:notation "687" ;
 	dct:description "IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, TSP"@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <696> a skos:Concept ;
-	rdfs:label "La (Lanthanum), TSP" ;
+	rdfs:label "La (lanthanum), TSP" ;
 	skos:notation "696" ;
 	dct:description "IUPAC: lanthanum, PubChem CID: 23926, CAS Number: 7439-91-0, in particle phase, TSP"@en	.

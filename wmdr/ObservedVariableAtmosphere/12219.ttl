@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <12219> a skos:Concept ;
-	rdfs:label "Cerium [Ce-139]" ;
+	rdfs:label "cerium [Ce-139]" ;
 	skos:notation "12219" ;
 	dct:description "IUPAC: cerium-139, PubChem CID: 166969, CAS Number: 13982-30-4"@en	.

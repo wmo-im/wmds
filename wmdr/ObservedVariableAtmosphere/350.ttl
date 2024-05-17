@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <350> a skos:Concept ;
-	rdfs:label "C18H12 (Benz(a)anthracene), in precipitation" ;
+	rdfs:label "C18H12 (benz(a)anthracene), in precipitation" ;
 	skos:notation "350" ;
 	dct:description "IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in precipitation"@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <700> a skos:Concept ;
-	rdfs:label "Li (Lithium), TSP" ;
+	rdfs:label "Li (lithium), TSP" ;
 	skos:notation "700" ;
 	dct:description "IUPAC: lithium, PubChem CID: 3028194, CAS Number: 7439-93-2, in particle phase, TSP"@en	.

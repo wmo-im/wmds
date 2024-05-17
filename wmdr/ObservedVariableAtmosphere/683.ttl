@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <683> a skos:Concept ;
-	rdfs:label "Cd (Cadmium), PM1" ;
+	rdfs:label "Cd (cadmium), PM1" ;
 	skos:notation "683" ;
 	dct:description "IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM1"@en	.
