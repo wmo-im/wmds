@@ -5,3 +5,4 @@ scripts/.DS_Store
 wmdr/.DS_Store
 wmdr/*.ttl
 wmdr/*/*.ttl
+.\wmdr\unit\*.ttl
