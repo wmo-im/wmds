@@ -1,2 +1,5 @@
 table,url,label,status,date
 5-02-01,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/270,Sunshine duration,invalid,FT2023-2
+9-02,http://codes.wmo.int/wmdr/DataPolicy/WMOAdditional,WMOAdditional,invalid,FT2024-2
+9-02,http://codes.wmo.int/wmdr/DataPolicy/WMOEssential,WMOEssential,invalid,FT2024-2
+9-02,http://codes.wmo.int/wmdr/DataPolicy/WMOOther,WMOOther,invalid,FT2024-2
