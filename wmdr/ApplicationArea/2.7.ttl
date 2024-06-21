@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<2.7> a skos:Concept ;
+	rdfs:label "Atmospheric Composition Information Services in Urban and Populated Areas" ;
+	skos:notation "2.7" ;
+	dct:description "Applications that target limited areas (with horizontal resolution of a few km or smaller and stringent timeliness requirements to support services related to weather/climate/pollution, such as air quality forecasting."@en	.

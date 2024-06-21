@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<1.1> a skos:Concept ;
+	rdfs:label "Sun, Heliosphere and Solar Wind Forecasting and Monitoring" ;
+	skos:notation "1.1" ;
+	dct:description "Forecasting and monitoring of sun, heliosphere and solar wind."@en	.
