@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<seasonalForecasting> a skos:Concept ;
-	rdfs:label "Sub-seasonal to longer predictions" ;
-	skos:notation "seasonalForecasting" ;
-	dct:description "Sub-seasonal to longer predictions covers predictions in sub-seasonal to decadal time-ranges (roughly two weeks to 10 years), using numerical prediction models based on current and past observations and analyses. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SSLP.pdf"@en	.
