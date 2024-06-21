@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<6.2> a skos:Concept ;
+	rdfs:label "Understanding Earth System Processes" ;
+	skos:notation "6.2" ;
+	dct:description "Understanding Earth system processes."@en	.

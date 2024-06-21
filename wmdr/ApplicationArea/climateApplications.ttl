@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<climateApplications> a skos:Concept ;
-	rdfs:label "Climate applications" ;
-	skos:notation "climateApplications" ;
-	dct:description "Climate applications cover the effective application of climate knowledge and information for the benefit of society and the provision of climate services, including the prediction of significant climate variations both natural and as a result of human activity. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Climate- CCl.pdf"@en	.

@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<climateMonitoring> a skos:Concept ;
-	rdfs:label "Climate monitoring (GCOS)" ;
-	skos:notation "climateMonitoring" ;
-	dct:description "Climate monitoring (as supported through GCOS) covers the GCOS coordinated international network of global observing systems for climate, fundamental to detect, model and assess climate change, support adaptation to climate change, monitor the effectiveness of policies for mitigating climate change, develop climate information services, promote sustainable national economic development and meet other requirements of the UNFCCC and other convention and agreements. http://www.wmo.int/pages/prog/gcos/"@en	.

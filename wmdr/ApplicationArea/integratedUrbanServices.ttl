@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<integratedUrbanServices> a skos:Concept ;
-	rdfs:label "Providing atmospheric composition information to support services in urban and populated areas" ;
-	skos:notation "integratedUrbanServices" ;
-	dct:description "Applications that target limited areas (with horizontal resolution of a few km or smaller and stringent timeliness requirements to support services related to weather/climate/pollution, such as air quality forecasting  [source: http://www.wmo.int/pages/prog/arep/gaw/documents/FINAL_GAW_221.pdf])"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<2.8> a skos:Concept ;
+	rdfs:label "Aeronautical Meteorology" ;
+	skos:notation "2.8" ;
+	dct:description "Application of meteorological information to aviation taking into account relevant developments in science and technology and the study of aeronautical meteorological requirements in support of the safety, regularity, efficiency and environmental sustainability of aviation with users ranging from pilots, air traffic control and management to airline dispatch offices as well as airport authorities."@en	.
