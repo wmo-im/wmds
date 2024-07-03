@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<unknown> a skos:Concept ;
-	rdfs:label "unknown" ;
-	skos:notation "unknown" ;
-	dct:description "Application area unknown."@en	.
+<3.2> a skos:Concept ;
+	rdfs:label "Coastal Forecasting" ;
+	skos:notation "3.2" ;
+	dct:description "Coastal forecasting."@en	.

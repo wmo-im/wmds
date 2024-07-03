@@ -1,2 +1,10 @@
 table,url,label,status,date
 5-02-01,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/270,Sunshine duration,invalid,FT2023-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/cryosphere,Cryosphere,retired,FT2024-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/energy,Energy sector,retired,FT2024-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/health,Health sector,retired,FT2024-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/hydrology,Hydrology,retired,FT2024-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/oceanApplications,Ocean applications,retired,FT2024-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/spaceWeather,Space weather,retired,FT2024-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/terrestrialEcology,Terrestrial ecology,retired,FT2024-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/transport,Transportation sector,retired,FT2024-2
