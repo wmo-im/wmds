@@ -17,7 +17,7 @@ body:
     id: amendment-details
     attributes:
       label: Amendment details 
-      description: Tables of exact changes proposed. Enter TBD if the details are unknown. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
+      description: Tables with exact changes proposed. Enter TBD if the details are unknown. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
     validations:
       placeholder: Enter amendment details. 
       required: true
@@ -37,13 +37,20 @@ body:
       description: Names of other individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations, if applicable.
       placeholder: Enter stakeholder details.
       value: "Enter list of stakeholder(s)."
-  - type: textarea
+  - type: checkboxes
     id: applications
     attributes:
       label: Applications or Systems
       description: Identification of applications or systems that may be effected by the amendment.
-      placeholder: List applications or systems with URLs if relevant.
-      value: "Enter list of applications/systems."
+      options:
+       - label: OSCAR/Surface
+       - label: OSCAR/requirements
+       - label: Radar/DB
+       - label: OceanOPS
+       - label: WHOS
+       - label: WDQMS
+       - label: GBON Compliance Monitor
+       - label: Other
     validations:
       required: true
   - type: dropdown

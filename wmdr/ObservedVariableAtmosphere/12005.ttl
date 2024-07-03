@@ -5,4 +5,4 @@
 <12005> a skos:Concept ;
 	rdfs:label "Horizontal wind direction at specified distance from reference surface" ;
 	skos:notation "12005" ;
-	dct:description "Horizontal wind direction at specified distance from reference surface"@en	.
+	dct:description "The direction of horizontal wind expressed in degrees at which the wind originates. This scalar quantity can be used to represent a value at a given location and an instantaneous time or average over spatio-temporal extent or values as a function of spatio-temporal coordinates. Note: 1) Wind direction is coded as 00 under 'Calm' conditions at which the average wind speed is less than or equal to 0.2 m/s (< 1 kt). The direction in this case is coded as 00; 2) Wind direction at stations within 1 degree of the North Pole or 1 degree of the South Pole should be measured so that the azimuth ring should be aligned with its zero coinciding with the Greenwich 0 degree meridian."@en	.

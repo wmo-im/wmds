@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <679> a skos:Concept ;
-	rdfs:label "Ba (Barium), PM2.5" ;
+	rdfs:label "Ba (barium), PM2.5" ;
 	skos:notation "679" ;
 	dct:description "IUPAC: barium, PubChem CID: 5355457, CAS Number: 7440-39-3, in particle phase, PM2.5"@en	.

@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <689> a skos:Concept ;
-	rdfs:label "Ce (Cerium), TSP" ;
+	rdfs:label "Ce (cerium), TSP" ;
 	skos:notation "689" ;
 	dct:description "IUPAC: cerium, PubChem CID: 23974, CAS Number: 7440-45-1, in particle phase, TSP"@en	.
