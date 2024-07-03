@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<spaceWeather> a skos:Concept ;
+	rdfs:label "Space weather" ;
+	skos:notation "spaceWeather" ;
+	dct:description "Space weather is a discipline which aims at observing, understanding and predicting the state of the Sun, of the interplanetary and planetary environments, their disturbances, and the potential impacts of these disturbances on biological and technological systems. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-SW.pdf"@en	.

@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<globalNumericalWeatherPrediction> a skos:Concept ;
+	rdfs:label "Global numerical weather prediction (GNWP)" ;
+	skos:notation "globalNumericalWeatherPrediction" ;
+	dct:description "Global numerical weather prediction (GNWP) covers numerical weather prediction on a global scale, required for weather forecasting for more than a few days ahead. NWP uses mathematical models of the atmosphere and oceans to predict the weather based on current conditions of the atmosphere and oceans. http://www.wmo.int/pages/prog/www/OSY/SOG/SoG-Global-NWP.pdf"@en	.

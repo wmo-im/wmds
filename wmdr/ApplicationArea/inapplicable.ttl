@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<3.4> a skos:Concept ;
-	rdfs:label "Tsunami Monitoring and Detection" ;
-	skos:notation "3.4" ;
-	dct:description "Tsunami monitoring and detection."@en	.
+<inapplicable> a skos:Concept ;
+	rdfs:label "inapplicable" ;
+	skos:notation "inapplicable" ;
+	dct:description "No application area is applicable."@en	.

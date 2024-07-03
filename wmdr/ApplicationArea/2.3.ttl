@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<2.3> a skos:Concept ;
-	rdfs:label "Nowcasting / Very Short-Range Forecasting" ;
-	skos:notation "2.3" ;
-	dct:description "Nowcasting, as outlined by the World Meteorological Organization (WMO), involves detailed forecasting of local weather, utilizing any method to predict conditions from the present to six hours ahead. It provides a comprehensive portrayal of the current weather, leveraging real-time observational data such as surface observations, satellite imagery, lightning, radar data, etc. Nowcasting by extrapolation excels in delivering high-resolution forecasts of weather phenomena for the immediate (2 hour) future. Advancements in data assimilation systems enable Numerical Weather Prediction (NWP) to outperform nowcast extrapolation thereafter. The use of NWP with data assimilation forms the basis of Very Short Range Forecasting (VSRF) up to 12 hours. To ensure a seamless VSRF, crucial in high-impact weather situations, advanced centers blend both NWP and nowcasting. This integration plays a vital role in issuing timely warnings and aiding decision-makers across various sectors."@en	.
