@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<2.2> a skos:Concept ;
-	rdfs:label "High-Resolution Numerical Weather Prediction" ;
-	skos:notation "2.2" ;
-	dct:description "High-resolution (HR) Numerical Weather Prediction (NWP) focuses on observing systems required by high-resolution NWP models producing forecasts of meteorological events with a 1-5 km horizontal resolution, 6 hours to a few days ahead. Such forecasts are more detailed than those available from global models, due to more realistic descriptions of atmospheric phenomena such as clouds and precipitation. The added detail is made possible by a finer computational grid on a specific area, more detailed specification of terrain, more sophisticated prescription of physical processes mainly based on explicit rather than parameterised formulations, and, importantly, denser and more frequent observations (with respect to global NWP) to specify appropriately detailed initial conditions."@en	.

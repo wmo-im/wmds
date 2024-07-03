@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<2.6> a skos:Concept ;
-	rdfs:label "Atmospheric Composition Forecasting and Monitoring" ;
-	skos:notation "2.6" ;
-	dct:description "Applications related to evaluating and analysing temporal and spatial changes in atmospheric composition, at regional and global scale. They aim to support treaty monitoring, climatologies, and re-analyses, assessing trends in composition and emissions/fluxes, and to better understand processes, principally in the troposphere and stratosphere. The applications rely on the use of data of controlled quality with less stringent time requirements compared to the near-real-time requirements. These data are also used to derive products that are published in the WMO ozone and greenhouse gas bulletins and the state of the atmosphere reports (for example, Scientific Assessment of Ozone Depletion reports)."@en	.

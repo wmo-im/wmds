@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<2.4> a skos:Concept ;
-	rdfs:label "Sub-Seasonal to Longer Predictions" ;
-	skos:notation "2.4" ;
-	dct:description "Sub-seasonal to longer predictions (SSLP) covers predictions in sub-seasonal to decadal time-ranges (roughly two weeks to 10 years), using numerical prediction models based on current and past observations and analyses."@en	.
