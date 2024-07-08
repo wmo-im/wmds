@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <432> a skos:Concept ;
-	rdfs:label "Lightning direction from station" ;
+	rdfs:label "Lightning discharge direction from station" ;
 	skos:notation "432" ;
-	dct:description ""@en	.
+	dct:description "Azimuth of the lightning event with respect to the corresponding station."@en	.
