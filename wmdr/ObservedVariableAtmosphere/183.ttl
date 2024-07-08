@@ -5,4 +5,4 @@
 <183> a skos:Concept ;
 	rdfs:label "Effective radius of cloud hydrometeors" ;
 	skos:notation "183" ;
-	dct:description ""@en	.
+	dct:description "An ensemble mean size of cloud hydrometeors derived from size distribution. Cloud hydrometeors refer to liquid and/or ice cloud particles. For liquid phase cloud, the effective radius is defined as the area weighted mean radius of liquid water drops, assimilated to spheres of the same volume. The effective radius of cloud ice particles has been defined in literature in different ways. Clear and detailed definition should be provided as how this parameter is derived."@en	.
