@@ -5,4 +5,4 @@
 <182> a skos:Concept ;
 	rdfs:label "Cloud hydrometeor concentration" ;
 	skos:notation "182" ;
-	dct:description ""@en	.
+	dct:description "Number of cloud hydrometeors (or cloud particles) per unit volume. Cloud hydrometeors refer to liquid and/or ice cloud particles."@en	.
