@@ -5,4 +5,4 @@
 <260> a skos:Concept ;
 	rdfs:label "Lightning discharge type (cloud to cloud, cloud to surface)" ;
 	skos:notation "260" ;
-	dct:description ""@en	.
+	dct:description "Lightning discharge type, defined by the path of the lightning discharge: between two clouds or the same cloud (intra-cloud) or between cloud and ground (cloud-to-ground)."@en	.

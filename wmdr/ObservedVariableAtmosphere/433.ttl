@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <433> a skos:Concept ;
-	rdfs:label "Lightning distance from station" ;
+	rdfs:label "Lightning discharge distance from station" ;
 	skos:notation "433" ;
-	dct:description ""@en	.
+	dct:description "Distance of the lightning event from the corresponding station."@en	.
