@@ -4,8 +4,8 @@ source Codes Registry instance (Prod).
 
 1. Authenticate the user against the target registry instance.
 2. Get the WMDR sub-registers from both the source and target instances.
-4. Delete all sub-registers from the target register.
-5. Create a copy of each sub-register from the source instance to the target instance.
+3. Delete all sub-registers from the target register.
+4. Create a copy of each sub-register from the source instance to the target instance.
 """
 
 import argparse
