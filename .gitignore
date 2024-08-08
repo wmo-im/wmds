@@ -6,3 +6,4 @@ wmdr/.DS_Store
 wmdr/*.ttl
 wmdr/*/*.ttl
 .\wmdr\unit\*.ttl
+venv/

@@ -1,32 +1,44 @@
 ## Workflows
-There are two github workflows configured for this repository.
+
+There are two GitHub workflows configured for this repository.
 
 ### Generate TTL and commit
-The generateTTLandCommit.yml runs on the pull request.  It creates all `ttl` files from the csv source, then uses git to evaluate which files have changed content.  Any files which have changed are then placed into a new github action commit and added to the pull request for review.
+
+The `generateTTLandCommit.yml` runs on the pull request. It creates all `ttl` files from the CSV source, then uses git
+to evaluate which files have changed content. Any files which have changed are then placed into a new GitHub Actions
+commit and added to the pull request for review.
 
 ### Check consistency
-The check_consistency.yml runs only when a pull request is merged or the master branch is changed directly. This checks that the contents on the 'test' and 'prod' registers is consistent with the repository. It is expected to fail when the codes are amended and have not been uploaded to the registry. The tests can be rerun following managed upload through the github actions tab.
+
+The `check_consistency.yml` runs only when a pull request is merged or the master branch is changed directly. This
+checks that the contents on the 'test' and 'prod' registers is consistent with the repository. It is expected to fail
+when the codes are amended and have not been uploaded to the registry. The tests can be rerun following managed upload
+through the GitHub Actions tab.
 
 ## Testing and management
-These scripts provides tools written in Python to check content consistency with the published test and prod registers and to upload changes.
 
-* reset wmdr register on test to match the content of prod 
+These scripts provide tools written in Python to check content consistency with the published test and prod registers
+and to upload changes.
+
+* reset WMDR register on test to match the content of prod
 
 ```
-python scripts/synchroniseTestProd.py username password 
+python scripts/synchroniseTestProd.py https://api.github.com/users/<username> password
 ```
 
-* generate `ttl` files 
+* generate `ttl` files
+
 ```
 tmode=test python3 -m scripts.makeWMDREntities
 ```
- 
+
 * check for existence and consistency against target registry
+
 ```
 tmode=test python3 -m scripts.check_urls
 ```
 
-* check for existence and consistency against target registry and send outputs for upload to a named local file 
+* check for existence and consistency against target registry and send outputs for upload to a named local file
 
 ```
 tmode=test outfile=</path/to/writeable/file> python3 -m scripts.check_urls
@@ -43,6 +55,3 @@ python scripts/uploadChanges.py username password test '{"PUT": [],"POST": []}'
 ```
 python3 -m scripts.uploadChanges <uname> <temporaryKey> test </path/to/a/readable/file>
 ```
-
-
-
