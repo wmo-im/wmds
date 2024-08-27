@@ -83,8 +83,8 @@ body:
     attributes:
       label: Publication(s)
       description: Publication title, WMO number, relevant volume, part, section, regulation, provision, paragraph or other such subdivisions of the publication and URL to location in the WMO Codes Registry to which the amendment applies.
-      placeholder: Enter publication name and location of amendment in the publication.
-      value: "Example: Manual on Codes (WMO-No. 306), Volume I.3, WMO Codes Registry, Code table 1-02, Measurement unit,http://codes.wmo.int/wmdr/unit" 
+      placeholder: If different from below, enter publication name and location of amendment in the publication.
+      value: "[_Manual on Codes_](https://library.wmo.int/idurl/4/35769) (WMO-No. 306), Volume I.3, [WMO Codes Registry - WMDR](https://codes.wmo.int/wmdr)" 
   - type: textarea
     id: validation
     attributes:
