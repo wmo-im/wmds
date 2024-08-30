@@ -80,9 +80,9 @@ class TestContentsConsistency(unittest.TestCase):
 
         self.assertTrue(rdflib.compare.isomorphic(result, expected),
                         (resourceURL + '\n' +
-                         lbb + inboth.serialize(format='n3').decode("utf-8") +
-                         lbr + inres.serialize(format='n3').decode("utf-8") +
-                         lbe + inexp.serialize(format='n3').decode("utf-8")))
+                         lbb + inboth.serialize(format='n3') +
+                         lbr + inres.serialize(format='n3') +
+                         lbe + inexp.serialize(format='n3')))
 
 
 # Build test cases based on the TTL files within the repository,
