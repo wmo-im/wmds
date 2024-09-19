@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <508> a skos:Concept ;
-	rdfs:label "Optical depth within each cloud layer" ;
+	rdfs:label "Optical depth within a cloud layer" ;
 	skos:notation "508" ;
-	dct:description ""@en	.
+	dct:description "A part of cloud optical depth which results from a vertical integral of light extinction by cloud particles between the bottom and top of a cloud layer."@en	.

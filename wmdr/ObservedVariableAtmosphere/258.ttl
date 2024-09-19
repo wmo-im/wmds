@@ -5,4 +5,4 @@
 <258> a skos:Concept ;
 	rdfs:label "Lightning discharge polarity" ;
 	skos:notation "258" ;
-	dct:description ""@en	.
+	dct:description "Polarity of the charge effectively lowered to ground during a lightning discharge."@en	.

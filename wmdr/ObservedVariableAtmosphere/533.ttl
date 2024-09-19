@@ -5,4 +5,4 @@
 <533> a skos:Concept ;
 	rdfs:label "Height of inversion" ;
 	skos:notation "533" ;
-	dct:description ""@en	.
+	dct:description "Height of a stable layer of air with an increased temperature."@en	.
