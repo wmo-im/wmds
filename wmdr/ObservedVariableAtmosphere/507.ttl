@@ -5,4 +5,4 @@
 <507> a skos:Concept ;
 	rdfs:label "Optical depth of fog" ;
 	skos:notation "507" ;
-	dct:description ""@en	.
+	dct:description "The degree to which fog prevents light from passing through it. The term 'fog' refers to 'microscopic droplets [that] reduce horizontal visibility at the Earth’s surface to less than 1 km' [WMO, International Cloud Atlas, 2017 ed., https://cloudatlas.wmo.int/en/fog-compared-with-mist.html]."@en	.

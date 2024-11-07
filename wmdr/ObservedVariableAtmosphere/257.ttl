@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <257> a skos:Concept ;
-	rdfs:label "Lightning discharge energy" ;
+	rdfs:label "Lightning discharge current" ;
 	skos:notation "257" ;
-	dct:description ""@en	.
+	dct:description "Current incurred by the lightning discharge."@en	.
