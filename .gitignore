@@ -2,8 +2,5 @@ __pycache__/
 *~
 *.pyc
 scripts/.DS_Store
-wmdr/.DS_Store
-wmdr/*.ttl
-wmdr/*/*.ttl
-.\wmdr\unit\*.ttl
+wmdr/.DS_Stores
 venv/

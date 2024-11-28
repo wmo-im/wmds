@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<recommended> a skos:Concept ;
+	rdfs:label "recommended" ;
+	skos:notation "recommended" ;
+	dct:description "WMO data policy for Earth system data that are required to support Earth system monitoring and prediction activities at the global, regional and national levels and to further assist other WMO Members with the provision of weather, climate, water and related environmental services in their States and Territories. WMO Members should provide access to all recommended data exchanged under the auspices of WMO without charge to public research and education communities for their non-commercial activities, but may place conditions on their use otherwise. Reference: Resolution 1 (Cg-Ext(2021)) – WMO Unified Policy for the International Exchange of Earth System Data (World Meteorological Congress: Abridged Final Report of the Extraordinary Session (WMO-No. 1281))."@en	.

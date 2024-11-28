@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<core> a skos:Concept ;
+	rdfs:label "core" ;
+	skos:notation "core" ;
+	dct:description "WMO data policy for Earth system data that are necessary for the provision of services in support of the protection of life and property and for the well-being of all nations, at a minimum those data described in Annex 1 of the WMO Unified Data Policy, which are required to monitor and predict seamlessly and accurately weather, climate, water and related environmental conditions. WMO Members shall provide core data on a free and unrestricted basis. Reference: Resolution 1 (Cg-Ext(2021)) – WMO Unified Policy for the International Exchange of Earth System Data (World Meteorological Congress: Abridged Final Report of the Extraordinary Session (WMO-No. 1281))."@en	.
