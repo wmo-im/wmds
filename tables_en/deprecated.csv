@@ -1,2 +1,5 @@
-table,url,label,status,date
+table,url,label,status,fast-track
 5-02-01,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/270,Sunshine duration,invalid,FT2023-2
+9-02,https://codes.wmo.int/wmdr/DataPolicy/WMOAdditional,WMOAdditional,retired,FT2025-1
+9-02,https://codes.wmo.int/wmdr/DataPolicy/WMOEssential,WMOEssential,retired,FT2025-1
+9-02,https://codes.wmo.int/wmdr/DataPolicy/WMOOther,WMOOther,retired,FT2025-1

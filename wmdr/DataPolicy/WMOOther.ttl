@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<WMOOther> a skos:Concept ;
-	rdfs:label "WMOOther" ;
-	skos:notation "WMOOther" ;
-	dct:description "Data identified for global distribution via WMO infrastructure (GTS / WIS) that is not covered by WMO Resolution 25 neither WMO Resolution 40; e.g. aviation OPMET data. Data marked with ''WMOOther'' data policy shall be treated like ''WMOAdditional'' where a more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider - which may necessitate dialogue with the data publisher for confirmation of terms and conditions."@en	.
