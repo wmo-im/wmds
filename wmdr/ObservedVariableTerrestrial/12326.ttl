@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12326> a skos:Concept ;
+	rdfs:label "Schumann Resonances" ;
+	skos:notation "12326" ;
+	dct:description "Extremely Low Frequency (ELF) magnetic and electric field of the three first resonance modes (8 Hz, 14 Hz, 20 Hz)."@en	.
