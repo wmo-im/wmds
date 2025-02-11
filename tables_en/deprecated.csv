@@ -1,5 +1,25 @@
-table,url,label,status,fast-track
+table,url,name,status,date
 5-02-01,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/270,Sunshine duration,invalid,FT2023-2
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/agriculturalMeteorology,Aeronautical meteorology,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/atmosphericCompositionForecasting,Agricultural meteorology,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/atmosphericCompositionMonitoring,Forecasting atmospheric composition,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/climateApplications,Monitoring atmospheric composition,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/climateMonitoring,Climate applications,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/cryosphere,Climate monitoring (GCOS),retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/energy,Cryosphere,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/globalNumericalWeatherPrediction,Energy sector,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/health,Global numerical weather prediction (GNWP),retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/highResolutionNumericalWeatherPrediction,Health sector,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/hydrology,High-resolution numerical weather prediction (HRNWP),retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/integratedUrbanServices,Hydrology,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/nowcasting,Providing atmospheric composition information to support services in urban and populated areas,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/oceanApplications,Nowcasting and very short-range forecasting (NVSRF),retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/spaceWeather,Ocean applications,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/seasonalForecasting,Space weather,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/terrestrialEcology,Sub-seasonal to longer predictions,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/transport,Terrestrial ecology,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/climateScience,Transportation sector,retired,FT2025-1
+2-01,http://codes.wmo.int/wmdr/ApplicationArea/unknown,Climate Science,retired,FT2025-1
 9-02,https://codes.wmo.int/wmdr/DataPolicy/WMOAdditional,WMOAdditional,retired,FT2025-1
 9-02,https://codes.wmo.int/wmdr/DataPolicy/WMOEssential,WMOEssential,retired,FT2025-1
 9-02,https://codes.wmo.int/wmdr/DataPolicy/WMOOther,WMOOther,retired,FT2025-1
