@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<WMOAdditional> a skos:Concept ;
-	rdfs:label "WMOAdditional" ;
-	skos:notation "WMOAdditional" ;
-	dct:description "WMO Additional Data: free and unrestricted access to data and products exchanged under the auspices of WMO to the research and education communities for non-commercial activities. A more precise definition of the data policy may be additionally supplied within the metadata. In all cases it shall be the responsibility of the data consumer to ensure that they understand the data policy specified by the data provider - which may necessitate dialogue with the data publisher for confirmation of terms and conditions."@en	.
