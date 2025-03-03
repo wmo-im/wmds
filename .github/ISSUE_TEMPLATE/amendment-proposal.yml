@@ -14,20 +14,19 @@ body:
   - type: textarea
     attributes:
       label: Amendment details 
-      description: Tables with exact changes proposed. Do not add descriptive information. Enter TBD if the details are unknown. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
+      description: Tables with exact changes proposed with minimal descriptive information. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
     validations:
       required: true
   - type: textarea
     attributes:
       label: Requestor(s)
-      description: Name of individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations, if applicable and GitHub username or email.
+      description: Name of individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations and GitHub user names, as applicable.
     validations:
       required: true
   - type: textarea
     attributes:
       label: Stakeholder(s)
-      description: Names of other individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations, if applicable.
-      value: "Enter list of stakeholder(s)."
+      description: Names of other individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations and GitHub user names, as applicable.
   - type: checkboxes
     attributes:
       label: Applications or Systems
@@ -56,7 +55,7 @@ body:
   - type: textarea
     attributes:
       label: Consultations
-      description: Individuals, groups, or organizations that are consulted. Also cite publications or other documents as references.
+      description: Individuals, groups, or organizations that are consulted. Also cite publications or other documents as references.Include relevant affiliations, GitHub user names and URLs, as applicable.
   - type: textarea
     attributes:
       label: Data exchange
