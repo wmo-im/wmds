@@ -4,40 +4,31 @@ title: "[Enter table name, number and a very brief description of change]"
 body:
   - type: markdown
     attributes:
-      value: The content in this issue, excluding the initial request, will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced in an official document for WMO adoption. Please consult the [Guidance on Changing Code Tables](https://github.com/wmo-im/wmds/wiki/Changing-Codetables).
+      value: The content in this issue, excluding the initial request, will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced.
   - type: textarea
-    id: overview
     attributes:
       label: Introduction
       description: Overview description of the amendment(s) requested. Include as much relevant information possible, such as rationale, purpose, and implementation plans. *This field should only be edited by the requestor.*
     validations:
       required: true
   - type: textarea
-    id: amendment-details
     attributes:
       label: Amendment details 
       description: Tables with exact changes proposed. Do not add descriptive information. Enter TBD if the details are unknown. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
     validations:
-      placeholder: Enter amendment details. 
       required: true
   - type: textarea
-    id: requestor
     attributes:
       label: Requestor(s)
       description: Name of individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations, if applicable and GitHub username or email.
-      placeholder: Enter requestor details.
-      value: "Enter list of requestors."
     validations:
       required: true
   - type: textarea
-    id: stakeholder
     attributes:
       label: Stakeholder(s)
       description: Names of other individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations, if applicable.
-      placeholder: Enter stakeholder details.
       value: "Enter list of stakeholder(s)."
   - type: checkboxes
-    id: applications
     attributes:
       label: Applications or Systems
       description: Identification of applications or systems that may be effected by the amendment.
@@ -63,17 +54,13 @@ body:
         - "MEDIUM"
         - "HIGH"
   - type: textarea
-    id: consultations
     attributes:
       label: Consultations
       description: Individuals, groups, or organizations that are consulted. Also cite publications or other documents as references.
-      placeholder: Enter collaborator details.
   - type: textarea
-    id: data-exchange
     attributes:
       label: Data exchange
-      description: Describe plans for data exchange associated with the proposal. 
-      placeholder: For example, identify relevant datasets, metadata platforms, WMO systems
+      description: Describe plans for data exchange associated with the proposal. For example, identify relevant datasets, metadata platforms, WMO systems (WIGOS, WIS2, WIPPS), etc. 
   - type: textarea
     attributes:
       label: Comments
