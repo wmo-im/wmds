@@ -1,8 +1,5 @@
----
 name: Proposal for an Amendment
 description: Proposal for amendments to WMO publications that may be submitted for WMO approval with the standard or fast-track procedure.
----
-
 title: "[Enter table name, number and a very brief description of change]"
 body:
   - type: markdown
@@ -11,16 +8,15 @@ body:
   - type: textarea
     id: overview
     attributes:
-      label: Proposal overview
+      label: Introduction
       description: Overview description of the amendment(s) requested. Include as much relevant information possible, such as rationale, purpose, and implementation plans. *This field should only be edited by the requestor.*
-      placeholder: Enter summary of request for amendment(s).
     validations:
       required: true
   - type: textarea
     id: amendment-details
     attributes:
       label: Amendment details 
-      description: Tables with exact changes proposed. Do not include supplementary descriptive information. Enter TBD if the details are unknown. This content may evolve as the proposal finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
+      description: Tables with exact changes proposed. Do not add descriptive information. Enter TBD if the details are unknown. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
     validations:
       placeholder: Enter amendment details. 
       required: true
@@ -47,8 +43,8 @@ body:
       description: Identification of applications or systems that may be effected by the amendment.
       options:
        - label: OSCAR/Surface
-       - label: GAWSIS
        - label: OSCAR/requirements
+       - label: GAWSIS
        - label: Radar/DB
        - label: OceanOPS
        - label: WHOS
@@ -69,20 +65,15 @@ body:
   - type: textarea
     id: consultations
     attributes:
-      label: consultations
-      description: Names of groups or individuals (and affiliation) that were consulted during, or assisted with, the drafting of the proposal.
+      label: Consultations
+      description: Individuals, groups, or organizations that are consulted. Also cite publications or other documents as references.
       placeholder: Enter collaborator details.
   - type: textarea
-    id: references
+    id: data-exchange
     attributes:
-      label: References
-      description: Other publications, websites or resources that were reviewed during the drafting of the proposal.
-      placeholder: Enter references reviewed. 
- - type: textarea
-    attributes:
-      label: data-exchange
-      description: Describe plans for data exchange associated with the proposal
-      placeholder: For example, registering a station in OSCAR/Surface or exchanging data on WIS2 
+      label: Data exchange
+      description: Describe plans for data exchange associated with the proposal. 
+      placeholder: For example, identify relevant datasets, metadata platforms, WMO systems
   - type: textarea
     attributes:
       label: Comments
