@@ -4,7 +4,7 @@ title: "[Enter table name, number and a very brief description of change]"
 body:
   - type: markdown
     attributes:
-      value: The content in this issue, excluding the initial request, will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced.
+      value: The content in this issue, excluding the initial request, will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced. Please consult the [Guidance on Changing Code Tables](https://github.com/wmo-im/wmds/wiki/Changing-Codetables).
   - type: textarea
     attributes:
       label: Introduction
@@ -14,7 +14,7 @@ body:
   - type: textarea
     attributes:
       label: Amendment details 
-      description: Tables with exact changes proposed with minimal descriptive information. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
+      description: Tables of exact changes proposed with minimal descriptive information. This content may evolve as the proposal is finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
     validations:
       required: true
   - type: textarea
