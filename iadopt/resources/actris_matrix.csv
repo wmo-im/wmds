@@ -1,0 +1,44 @@
+subject,predicate,object
+https://vocabulary.actris.nilu.no/actris_vocab/precipitationphase,http://www.w3.org/2004/02/skos/core#prefLabel,precipitation phase
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericstate,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/aerosolparticlephase
+https://w3id.org/iadopt/ont/hasMatrix,http://www.w3.org/2000/01/rdf-schema#label,Observation Matrix
+https://vocabulary.actris.nilu.no/actris_vocab/deposition,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/aerosolparticlephase,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/vegetation,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/gasphase,http://www.w3.org/2004/02/skos/core#prefLabel,gas phase
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://purl.org/dc/terms/creator,https://orcid.org/0000-0002-3380-3470
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/vegetation
+https://vocabulary.actris.nilu.no/actris_vocab/deposition,http://www.w3.org/2004/02/skos/core#prefLabel,deposition
+https://vocabulary.actris.nilu.no/actris_vocab/gasandparticlephase,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#prefLabel,variable matrix
+https://vocabulary.actris.nilu.no/actris_vocab/cloudphase,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/cloudphase,http://www.w3.org/2004/02/skos/core#prefLabel,cloud phase
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#hasTopConcept,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/gasandparticlephase,http://www.w3.org/2004/02/skos/core#prefLabel,gas and particle phase
+https://vocabulary.actris.nilu.no/actris_vocab/vegetation,http://www.w3.org/2004/02/skos/core#prefLabel,vegetation
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/precipitationphase
+https://vocabulary.actris.nilu.no/actris_vocab/gasphase,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#inScheme,https://vocabulary.actris.nilu.no/actris_vocab/
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#definition,Entity in which the object of interest is contained.
+https://vocabulary.actris.nilu.no/actris_vocab/aerosolparticlephase,http://www.w3.org/2004/02/skos/core#prefLabel,aerosol particle phase
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/atmosphericstate
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericstate,http://www.w3.org/2004/02/skos/core#prefLabel,atmospheric state
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#ConceptScheme
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericstate,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/precipitationphase,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#topConceptOf,https://vocabulary.actris.nilu.no/actris_vocab/
+https://vocabulary.actris.nilu.no/actris_vocab/aerosolparticlephase,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/vegetation,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/gasphase
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/deposition
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#relatedMatch,https://w3id.org/iadopt/ont/hasMatrix
+https://vocabulary.actris.nilu.no/actris_vocab/gasandparticlephase,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/deposition,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#prefLabel,ACTRIS vocabulary
+https://vocabulary.actris.nilu.no/actris_vocab/cloudphase,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/gasandparticlephase
+https://vocabulary.actris.nilu.no/actris_vocab/gasphase,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/cloudphase
+https://vocabulary.actris.nilu.no/actris_vocab/precipitationphase,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablematrix
+https://vocabulary.actris.nilu.no/actris_vocab/variablematrix,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept

@@ -1,0 +1,520 @@
+dct:description,rdfs:label,skos:notation,Comment,Property,Constraints,has_ooi,has_property
+"'IUPAC: 1,1,1-trichloro-2,2,2-trifluoroethane, PubChem CID: 9635, CAS Number: 354-58-5, in gas phase'@en","Cl3CCF3 (1,1,1-trichloro-2,2,2-trifluoroethane, CFC-113a)",'12016',,,,true,false
+"'IUPAC: dibromo(difluoro)methane, PubChem CID: 6382, CAS Number: 75-61-6, in gas phase'@en","CBr2F2 (dibromodifluoromethane, Halon 1202)",'12017',,,,true,false
+"'IUPAC: 1,2-dibromo-1,1,2,2-tetrafluoroethane, PubChem CID: 31301, CAS Number: 124-73-2, in gas phase'@en","C2Br2F4 (1,2-dibromo-1,1,2,2-tetrafluoroethane, Halon 2402)",'12018',,,,true,false
+"'IUPAC: 1,1-dichloro-2-fluoroethane, PubChem CID: 67936, CAS Number: 430-53-5, in gas phase'@en","C2H3Cl2F (1,1-dichloro-2-fluoroethane, HCFC-141a)",'12019',,,,true,false
+'All pollen taxa'@en,Total pollen,'12022',with Constraint,,,true,false
+'Pine family pollen'@en,Total Pinaceae,'12023',with Constraint,,,true,false
+'Fir pollen'@en,Abies,'12024',,,,true,false
+'Spruce pollen'@en,Picea,'12025',,,,true,false
+'Larch pollen'@en,Larix,'12026',,,,true,false
+'Pine pollen'@en,Pinus,'12027',,,,true,false
+'Cypress family pollen'@en,Total Cupressaceae,'12028',,,,true,false
+'Palm family pollen'@en,Total Arecaceae,'12029',,,,true,false
+'Plane tree pollen'@en,Platanus,'12030',,,,true,false
+'Pellitory pollen'@en,Parietaria,'12031',,,,true,false
+'Nettle pollen'@en,Urtica,'12032',,,,true,false
+'Sweet chestnut pollen'@en,Castanea,'12033',,,,true,false
+'Beech pollen'@en,Fagus,'12034',,,,true,false
+'Oak pollen'@en,Quercus,'12035',,,,true,false
+'Birch family pollen'@en,Total Betulaceae,'12036',,,,true,false
+'Alder pollen'@en,Alnus,'12037',,,,true,false
+'Birch pollen'@en,Betula,'12038',,,,true,false
+'Hornbeam pollen'@en,Carpinus,'12039',,,,true,false
+'Hazel pollen'@en,Corylus,'12040',,,,true,false
+'Amaranth family pollen'@en,Total Amaranthaceae,'12041',,,,true,false
+'Chenopodium (goosefoot) pollen'@en,Chenopodium,'12042',,,,true,false
+'Poplar pollen'@en,Populus,'12043',,,,true,false
+'Willow pollen'@en,Salix,'12044',,,,true,false
+'Olive family pollen'@en,Total Oleaceae,'12045',,,,true,false
+'Olive pollen'@en,Olea,'12046',,,,true,false
+'Ash pollen'@en,Fraxinus,'12047',,,,true,false
+'Aster family pollen'@en,Total Asteraceae,'12048',,,,true,false
+'Ragweed pollen'@en,Ambrosia,'12049',,,,true,false
+'Mugwort pollen'@en,Artemisia,'12050',,,,true,false
+'Solidago (goldenrod) pollen'@en,Solidago,'12051',,,,true,false
+'Grasses pollen'@en,Total Poaceae,'12052',,,,true,false
+'Secale pollen'@en,Secale,'12053',,,,true,false
+'Maize pollen'@en,Zea mays,'12054',,,,true,false
+'Walnut tree pollen'@en,Juglans,'12055',,,,true,false
+'Elm pollen'@en,Ulmus,'12056',,,,true,false
+'Maple pollen'@en,Acer,'12057',,,,true,false
+'Aesculus pollen'@en,Aesculus,'12058',,,,true,false
+'Brassica pollen'@en,Brassica,'12059',,,,true,false
+'Plantain pollen'@en,Plantago,'12060',,,,true,false
+'Sambucus (elder) pollen'@en,Sambucus,'12061',,,,true,false
+"'Rumex (dock, sorrel) pollen'@en",Rumex,'12062',,,,true,false
+'Linden pollen'@en,Tilia,'12063',,,,true,false
+'Hop pollen'@en,Humulus,'12064',,,,true,false
+'Yew pollen'@en,Taxus,'12065',,,,true,false
+'Sea-buckthorn pollen'@en,Hippophae,'12066',,,,true,false
+'Holly pollen'@en,Ilex,'12067',,,,true,false
+'Privet pollen'@en,Ligustrum,'12068',,,,true,false
+'Rush family pollen'@en,Total Juncaceae,'12069',with Constraint,,,true,false
+'Sedge family pollen'@en,Total Cyperaceae,'12070',with Constraint,,,true,false
+'Heather family pollen'@en,Total Ericaceae,'12071',with Constraint,,,true,false
+'Rose family pollen'@en,Total Rosaceae,'12072',with Constraint,,,true,false
+'Melandrium pollen'@en,Silene,'12073',,,,true,false
+'Buttercup family pollen'@en,Total Ranunculaceae,'12074',with Constraint,,,true,false
+"'Celery, carrot or parsley family pollen'@en",Total Umbelliferae,'12075',with Constraint,,,true,false
+"'Cabbage family (mustards, crucifers) pollen'@en",Total Brassicaceae,'12076',with Constraint,,,true,false
+'Hophornbeam pollen'@en,Ostrya,'12077',,,,true,false
+'Cedar family pollen'@en,Cedrus,'12078',,,,true,false
+'Box pollen'@en,Buxus,'12079',,,,true,false
+'Ginkgo pollen'@en,Ginkgo,'12080',,,,true,false
+'Sweetgum pollen'@en,Liquidambar,'12081',,,,true,false
+'Mercuries pollen'@en,Mercurialis,'12082',,,,true,false
+'Mulberry family pollen'@en,Total Moraceae,'12083',,,,true,false
+'Alternaria spores'@en,Alternaria,'12084',,,,true,false
+'Cladosporium spores'@en,Cladosporium,'12085',,,,true,false
+"'IUPAC: nitrogen trifluoride, PubChem CID: 24553, CAS Number: 7783-54-2, in gas phase'@en",NF3 (nitrogen trifluoride),'12086',,,,true,false
+"'IUPAC: deuteriomethane, PubChem CID: 12669, CAS Number: 676-49-3, in gas phase'@en","CH3D (monodeuterated methane, methane-d1)",'12087',,,,true,false
+"'IUPAC: chloro(trifluoro)methane, PubChem CID: 6392, CAS Number: 75-72-9, in gas phase'@en","CClF3 (chlorotrifluoromethane, CFC-13)",'12088',,,,true,false
+"'IUPAC: 2-chloro-1,1,1,2-tetrafluoroethane, PubChem CID: 17822, CAS Number: 2837-89-0, in gas phase'@en","C2HClF4 (1-chloro-1,2,2,2-tetrafluoroethane, HCFC-124)",'12089',,,,true,false
+"'IUPAC: 1,1,1,2,2,3,4,5,5,5-decafluoropentane, PubChem CID: 86240, CAS Number: 138495-42-8, in gas phase'@en","C5H2F10 (1,1,1,2,2,3,4,5,5,5-decafluoropentane, HFC-43-10-mee)",'12090',,,,true,false
+"'IUPAC: 1,1,2,2,3,3,4,4-octafluorocyclobutane, PubChem CID: 8263, CAS Number: 115-25-3, in gas phase'@en","C4F8 (octafluorocyclobutane, PFC-318)",'12091',,,,true,false
+"'IUPAC: Propan-1-ol, PubChem CID: 1031, CAS Number: 71-23-8, in gas phase'@en",C3H8O (1-propanol),'12092',,,,true,false
+"'IUPAC: Propan-2-ol, PubChem CID: 3776, CAS Number: 67-63-0, in gas phase'@en",C3H8O (2-propanol),'12093',,,,true,false
+"'IUPAC: Furan, PubChem CID: 8029, CAS Number: 110-00-9, in gas phase'@en",C4H4O (furan),'12094',,,,true,false
+"'IUPAC: 2-Methylfuran, PubChem CID: 10797, CAS Number: 534-22-5, in gas phase'@en",C5H6O (2-methylfuran),'12095',,,,true,false
+"'IUPAC: 3-Methylfuran, PubChem CID: 13587, CAS Number: 930-27-8, in gas phase'@en",C5H6O (3-methylfuran),'12096',,,,true,false
+"'IUPAC: Prop-2-enenitrile, PubChem CID: 7855, CAS Number: 107-13-1, in gas phase'@en","C3H3N (2-propenenitrile, acrylonitrile)",'12097',,,,true,false
+"'IUPAC: Propanenitrile, PubChem CID: 7854, CAS Number: 107-12-0, in gas phase'@en",C3H5N (propanenitrile),'12098',,,,true,false
+"'IUPAC: 2-Methylprop-2-enenitrile, PubChem CID: 31368, CAS Number: 126-98-7, in gas phase'@en","C4H5N (2-methyl-2-propenenitrile, methylacrylonitrile)",'12099',,,,true,false
+"'IUPAC: Methyl nitrate, PubChem CID: 11724, CAS Number: 598-58-3, in gas phase'@en",CH3NO3 (methyl nitrate),'12100',,,,true,false
+"'IUPAC: Ethyl nitrate, PubChem CID: 12259, CAS Number: 625-58-1, in gas phase'@en",C2H5NO3 (ethyl nitrate),'12101',,,,true,false
+"'IUPAC: Propan-2-yl nitrate, PubChem CID: 15575, CAS Number: 1712-64-7, in gas phase'@en",C3H7NO3 (isopropyl nitrate),'12102',,,,true,false
+"'IUPAC: Butyl nitrate, PubChem CID: 13567, CAS Number: 928-45-0, in gas phase'@en",C4H9NO3 (n-butyl nitrate),'12103',,,,true,false
+"'IUPAC: 2-Methylpropyl nitrate, PubChem CID: 10974, CAS Number: 928-45-0, in gas phase'@en",C4H9NO3 (isobutyl nitrate),'12104',,,,true,false
+"'IUPAC: tert-Butyl nitrite, PubChem CID: 10906, CAS Number: 540-80-7, in gas phase'@en",C4H9NO3 (t-butyl nitrate),'12105',,,,true,false
+"'IUPAC: Butan-2-yl nitrite, PubChem CID: 13544, CAS Number: 924-43-6, in gas phase'@en","C4H9NO3 (2-butyl nitrate, sec-butyl nitrate)",'12106',,,,true,false
+"'IUPAC: 2-Methylbut-3-en-2-ol, PubChem CID: 8257, CAS Number: 115-18-4, in gas phase'@en",C5H10O (2-methyl-3-buten-2-ol),'12107',,,,true,false
+"'IUPAC: Octane, PubChem CID: 356, CAS Number: 111-65-9, in gas phase'@en",C8H18 (n-octane),'12108',,,,true,false
+"'IUPAC: 2,2,4-Trimethylpentane, PubChem CID: 10907, CAS Number: 540-84-1, in gas phase'@en","C8H18 (2,2,4-trimethylpentane)",'12109',,,,true,false
+"'IUPAC: (2E)-but-2-enal, PubChem CID: 447466, CAS Number: 123-73-9, in gas phase'@en","C4H6O ((E)-crotonaldehyde, trans-2-butenal)",'12110',,,,true,false
+"'IUPAC: (Z)-but-2-enal, PubChem CID: 673950, CAS Number: 15798-64-8, in gas phase'@en","C4H6O ((Z)-crotonaldehyde, cis-2-butenal)",'12111',,,,true,false
+"'IUPAC: But-2-enal, PubChem CID: 20138, CAS Number: 4170-30-3, in gas phase'@en","C4H6O (crotonaldehyde, 2-butenal)",'12112',,,,true,false
+"'IUPAC: 1,1-Dichloroethene, PubChem CID: 6366, CAS Number: 75-35-4, in gas phase'@en","C2H2Cl2 (1,1-dichloroethene)",'12113',,,,true,false
+"'IUPAC: (Z)-1,2-dichloroethene, PubChem CID: 643833, CAS Number: 156-59-2, in gas phase'@en","C2H2Cl2 ((Z)-1,2-dichloroethene, cis-1,2-dichloroethene)",'12114',,,,true,false
+"'IUPAC: (E)-1,2-dichloroethene, PubChem CID: 638186, CAS Number: 156-60-5, in gas phase'@en","C2H2Cl2 ((E)-1,2-dichloroethene, trans-1,2-dichloroethene)",'12115',,,,true,false
+"'IUPAC: 1,2-dichloroethene, PubChem CID: 10900, CAS Number: 540-9-0, in gas phase'@en","C2H2Cl2 (1,2-dichloroethene)",'12116',,,,true,false
+"'IUPAC: 1,1-Dichloroethane, PubChem CID: 6365, CAS Number: 75-34-3, in gas phase'@en","C2H4Cl2 (1,1-dichloroethane)",'12117',,,,true,false
+"'IUPAC: 1,2-Dichloroethane, PubChem CID: 11, CAS Number: 107-06-2, in gas phase'@en","C2H4Cl2 (1,2-dichloroethane)",'12118',,,,true,false
+"'IUPAC: dibromo(chloro)methane, PubChem CID: 31296, CAS Number: 124-48-1, in gas phase'@en",CHBr2Cl (dibromochloromethane),'12119',,,,true,false
+"'IUPAC: bromo(dichloro)methane, PubChem CID: 6359, CAS Number: 75-27-4, in gas phase'@en",CHBrCl2 (bromodichloromethane),'12120',,,,true,false
+"'IUPAC: chloro(iodo)methane, PubChem CID: 11644, CAS Number: 593-71-5, in gas phase'@en",CH2ClI (chloroiodomethane),'12121',,,,true,false
+"'IUPAC: diiodomethane, PubChem CID: 6346, CAS Number: 75-11-6, in gas phase'@en",CH2I2 (diiodomethane),'12122',,,,true,false
+"'IUPAC: furan-2-carbaldehyde, PubChem CID: 7362, CAS Number: 98-01-1, in gas phase'@en",C5H4O2 (furfural),'12123',,,,true,false
+"'IUPAC: furan-3-carbaldehyde, PubChem CID: 10351, CAS Number: 498-60-2, in gas phase'@en",C5H4O2 (3-furaldehyde),'12124',,,,true,false
+"'IUPAC: styrene, PubChem CID: 7501, CAS Number: 100-42-5, in gas phase'@en",C8H8 (styrene),'12125',,,,true,false
+"'IUPAC: ethynylbenzene, PubChem CID: 10821, CAS Number: 536-74-3, in gas phase'@en",C8H6 (ethynylbenzene),'12126',,,,true,false
+"'IUPAC: chlorobenzene, PubChem CID: 7964, CAS Number: 108-90-7, in gas phase'@en",C6H5Cl (chlorobenzene),'12127',,,,true,false
+"'IUPAC: 1,7,7-trimethyltricyclo[2.2.1.02,6]heptane, PubChem CID: 79035, CAS Number: 508-32-7, in gas phase'@en",C10H16 (tricyclene),'12128',,,,true,false
+"'IUPAC: 2,6,6-trimethylbicyclo[3.1.1]hept-2-ene, PubChem CID: 6654, CAS Number: 80-56-8, in gas phase'@en",C10H16 (alpha-pinene),'12129',,,,true,false
+"'IUPAC: 6,6-dimethyl-2-methylidenebicyclo[3.1.1]heptane, PubChem CID: 14896, CAS Number: 127-91-3, in gas phase'@en",C10H16 (beta-pinene),'12130',,,,true,false
+"'IUPAC: 7-methyl-3-methylideneocta-1, PubChem CID: 31253, CAS Number: 123-35-3, in gas phase'@en",C10H16 (myrcene),'12131',,,,true,false
+"'IUPAC: 2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane, PubChem CID: 6616, CAS Number: 79-92-5, in gas phase'@en",C10H16 (camphene),'12132',,,,true,false
+"'IUPAC: (4R)-1-methyl-4-prop-1-en-2-ylcyclohexene, PubChem CID: 440917, CAS Number: 5989-27-5, in gas phase'@en",C10H16 (D-limonene),'12133',,,,true,false
+"'IUPAC: 3,7,7-trimethylbicyclo[4.1.0]hept-3-ene, PubChem CID: 26049, CAS Number: 13466-78-9, in gas phase'@en",C10H16 (3-carene),'12134',,,,true,false
+"'IUPAC: oxaldehyde, PubChem CID: 7860, CAS Number: 107-22-2, in gas phase'@en",C2H2O2 (glyoxal),'12135',,,,true,false
+"'IUPAC: methyl formate, PubChem CID: 7865, CAS Number: 107-31-3, in gas phase'@en",C2H4O2 (methyl formate),'12136',,,,true,false
+"'IUPAC: 2-hydroxyacetaldehyde, PubChem CID: 756, CAS Number: 141-46-8, in gas phase'@en",C2H4O2 (glycolaldehyde),'12137',,,,true,false
+"'IUPAC: methyl acetate, PubChem CID: 6584, CAS Number: 79-20-9, in gas phase'@en",C3H6O2 (methyl acetate),'12138',,,,true,false
+"'IUPAC: ethyl formate, PubChem CID: 8025, CAS Number: 109-94-4, in gas phase'@en",C3H6O2 (ethyl formate),'12139',,,,true,false
+"'IUPAC: 1-hydroxypropan-2-one, PubChem CID: 8299, CAS Number: 116-09-6, in gas phase'@en",C3H6O2 (hydroxyacetone),'12140',,,,true,false
+"'IUPAC: 1,3-dioxolane, PubChem CID: 12586, CAS Number: 646-06-0, in gas phase'@en","C3H6O2 (1,3-dioxolane)",'12141',,,,true,false
+"'IUPAC: ethyl acetate, PubChem CID: 8857, CAS Number: 141-78-6, in gas phase'@en",C4H8O2 (ethyl acetate),'12142',,,,true,false
+"'IUPAC: methyl propanoate, PubChem CID: 11124, CAS Number: 554-12-1, in gas phase'@en",C4H8O2 (methyl propionate),'12143',,,,true,false
+"'IUPAC: 1,4-xylene, PubChem CID: 7809, CAS Number: 106-42-3, in gas phase'@en",C8H10 (p-xylene),'12144',,,,true,false
+"'IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase'@en",O3 (ozone),'12164',,,,true,false
+''@en,Water vapour,'12165',,,,true,false
+"'Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed.'@en",Cloud phase,'12167',,,,true,false
+"'IUPAC: n/a, PubChem CID: 24824, CAS Number: 10028-17-8'@en",Tritium [H-3],'12170',,,,true,false
+"'IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5'@en",Carbon [C-14],'12171',,,,true,false
+"'IUPAC: sodium-22, PubChem CID: 6328543, CAS Number: 13966-32-0'@en",Sodium [Na-22],'12172',,,,true,false
+"'IUPAC: sodium-24, PubChem CID: 6335498, CAS Number: 13982-04-2'@en",Sodium [Na-24],'12173',,,,true,false
+"'IUPAC: n/a, PubChem CID: 167013, CAS Number: 14158-34-0'@en",Chlorine [Cl-38],'12174',,,,true,false
+"'IUPAC: potassium-40, PubChem CID: 6328542, CAS Number: 13966-00-2'@en",Potassium [K-40],'12175',,,,true,false
+"'IUPAC: potassium-42, PubChem CID: 11607897, CAS Number: 14378-21-3'@en",Potassium [K-42],'12176',,,,true,false
+"'IUPAC: scandium-46, PubChem CID: 107673, CAS Number: 13967-63-0'@en",Scandium [Sc-46],'12177',,,,true,false
+"'IUPAC: chromium-51, PubChem CID: 104786, CAS Number: 14392-02-0'@en",Chromium [Cr-51],'12178',,,,true,false
+"'IUPAC: manganese-53, PubChem CID: 167227, CAS Number: 14999-33-8'@en",Manganese [Mn-53],'12179',,,,true,false
+"'IUPAC: manganese-56, PubChem CID: 114694, CAS Number: 14681-52-8'@en",Manganese [Mn-56],'12180',,,,true,false
+"'IUPAC: iron-59, PubChem CID: 104784, CAS Number: 14596-12-4'@en",Iron [Fe-59],'12181',,,,true,false
+"'IUPAC: cobalt-56, PubChem CID: 166998, CAS Number: 14093-03-9'@en",Cobalt [Co-56],'12182',,,,true,false
+"'IUPAC: cobalt-57, PubChem CID: 104851, CAS Number: 13981-50-5'@en",Cobalt [Co-57],'12183',,,,true,false
+"'IUPAC: cobalt-58, PubChem CID: 104844, CAS Number: 13981-38-9'@en",Cobalt [Co-58],'12184',,,,true,false
+"'IUPAC: cobalt-60, PubChem CID: 61492, CAS Number: 10198-40-0'@en",Cobalt [Co-60],'12185',,,,true,false
+"'IUPAC: zinc-65, PubChem CID: 91574, CAS Number: 13982-39-3'@en",Zinc [Zn-65],'12186',,,,true,false
+"'IUPAC: gallium-67, PubChem CID: 5464084, CAS Number: 14119-09-6'@en",Gallium [Ga-67],'12187',,,,true,false
+"'IUPAC: selenium-75, PubChem CID: 6328176, CAS Number: 14265-71-5'@en",Selenium [Se-75],'12188',,,,true,false
+"'IUPAC: strontium-85, PubChem CID: 5464271, CAS Number: 13967-73-2'@en",Strontium [Sr-85],'12189',,,,true,false
+"'IUPAC: strontium-89, PubChem CID: 5388880, CAS Number: 14158-27-1'@en",Strontium [Sr-89],'12190',,,,true,false
+"'IUPAC: strontium-90, PubChem CID: 5486204, CAS Number: 10098-97-2'@en",Strontium [Sr-90],'12191',,,,true,false
+"'IUPAC: strontium-91, PubChem CID: 6337043, CAS Number: 14331-91-0'@en",Strontium [Sr-91],'12192',,,,true,false
+"'IUPAC: yttrium-88, PubChem CID: 105173, CAS Number: 13982-36-0'@en",Yttrium [Y-88],'12193',,,,true,false
+"'Metastable (excited) state of yttrium-90 isotope, IUPAC: yttrium-90, PubChem CID: 104760, CAS Number: 10098-91-6'@en",Yttrium [Y-90m],'12194',,,,true,false
+"'IUPAC: zirconium-95, PubChem CID: 91573, CAS Number: 13967-71-0'@en",Zirconium [Zr-95],'12195',,,,true,false
+"'IUPAC: niobium-95, PubChem CID: 104776, CAS Number: 13967-76-5'@en",Niobium [Nb-95],'12196',,,,true,false
+"'IUPAC: molybdenum-99, PubChem CID: 104976, CAS Number: 14119-15-4'@en",Molybdenum [Mo-99],'12197',,,,true,false
+"'Metastable (excited) state of technetium-99 isotope, IUPAC: technetium-99, PubChem CID: 26476, CAS Number: 14133-76-7'@en",Technetium  [Tc-99m],'12198',,,,true,false
+"'IUPAC: ruthenium-103, PubChem CID: 104749, CAS Number: 13968-53-1'@en",Ruthenium [Ru-103],'12199',,,,true,false
+"'IUPAC: ruthenium-106, PubChem CID: 26359, CAS Number: 13967-48-1'@en",Ruthenium [Ru-106],'12200',,,,true,false
+"'Metastable (excited) state of silver-108 isotope, IUPAC: silver-108, PubChem CID: 167088, CAS Number: 14391-65-2'@en",Silver [Ag-108m],'12201',,,,true,false
+"'Metastable (excited) state of silver-110 isotope, IUPAC: silver-110, PubChem CID: 104828, CAS Number: 14391-76-5'@en",Silver [Ag-110m],'12202',,,,true,false
+"'IUPAC: indium-111, PubChem CID: 5462099, CAS Number: 15750-15-9'@en",Indium [In-111],'12203',,,,true,false
+"'IUPAC: tin-113, PubChem CID: 6335514, CAS Number: 13966-06-8'@en",Tin [Sn-113],'12204',,,,true,false
+"'IUPAC: antimony-122, PubChem CID: 6335836, CAS Number: 14374-79-9'@en",Antimony [Sb-122],'12205',,,,true,false
+"'IUPAC: antimony-124, PubChem CID: 6335510, CAS Number: 14683-10-4'@en",Antimony [Sb-124],'12206',,,,true,false
+"'IUPAC: antimony-125, PubChem CID: 6335317, CAS Number: 14234-35-6'@en",Antimony [Sb-125],'12207',,,,true,false
+"'IUPAC: tellurium-132, PubChem CID: 6336614, CAS Number: 14234-28-7'@en",Tellurium [Te-132],'12208',,,,true,false
+"'IUPAC: n/a, PubChem CID: 161029, CAS Number: 14158-32-8'@en","Iodine [I-126], elementary",'12209',,,,true,false
+"'IUPAC: n/a, PubChem CID: 24855, CAS Number: 10043-66-0'@en","Iodine [I-131], elementary",'12210',,,,true,false
+"'IUPAC: n/a, PubChem CID: 104966, CAS Number: 14683-16-0'@en","Iodine [I-132], elementary",'12211',,,,true,false
+"'IUPAC: n/a, PubChem CID: 167176, CAS Number: 14834-67-4'@en","Iodine [I-133], elementary",'12212',,,,true,false
+"'IUPAC: xenon-133, PubChem CID: 66376, CAS Number: 14932-42-4'@en",Xenon [Xe-133],'12213',,,,true,false
+"'IUPAC: cesium-134, PubChem CID: 6335485, CAS Number: 13967-70-9'@en",Caesium [Cs-134],'12214',,,,true,false
+"'IUPAC: cesium-136, PubChem CID: 6335316, CAS Number: 14234-29-8'@en",Caesium [Cs-136],'12215',,,,true,false
+"'IUPAC: cesium-137, PubChem CID: 5486527, CAS Number: 10045-97-3'@en",Caesium [Cs-137],'12216',,,,true,false
+"'IUPAC: barium-133, PubChem CID: 5491664, CAS Number: 13981-41-4'@en",barium [Ba-133],'12217',,,,true,false
+"'IUPAC: barium-140, PubChem CID: 6335490, CAS Number: 14798-08-4'@en",barium [Ba-140],'12218',,,,true,false
+"'IUPAC: cerium-139, PubChem CID: 166969, CAS Number: 13982-30-4'@en",cerium [Ce-139],'12219',,,,true,false
+"'IUPAC: cerium-141, PubChem CID: 104814, CAS Number: 13967-74-3'@en",cerium [Ce-141],'12220',,,,true,false
+"'IUPAC: cerium-144, PubChem CID: 26874, CAS Number: 14762-78-8'@en",cerium [Ce-144],'12221',,,,true,false
+"'IUPAC: lanthanum-140, PubChem CID: 104882, CAS Number: 13981-28-7'@en",Lanthanum [La-140],'12222',,,,true,false
+"'IUPAC: neodymium-147, PubChem CID: 114848, CAS Number: 14269-74-0'@en",Neodymium [Nd-147],'12223',,,,true,false
+"'IUPAC: europium-152, PubChem CID: 104907, CAS Number: 14683-23-9'@en",Europium [Eu-152],'12224',,,,true,false
+"'IUPAC: tantalum-182, PubChem CID: 161013, CAS Number: 13982-00-8'@en",Tantalum [Ta-182],'12225',,,,true,false
+"'IUPAC: iridium-192, PubChem CID: 66373, CAS Number: 14694-69-0'@en",Iridium [Ir-192],'12226',,,,true,false
+"'IUPAC: mercury-203, PubChem CID: 104771, CAS Number: 13982-78-0'@en",Mercury [Hg-203],'12227',,,,true,false
+"'IUPAC: bismuth-212, PubChem CID: 6335500, CAS Number: 14913-49-6'@en",bismuth [Bi-212],'12228',,,,true,false
+"'IUPAC: bismuth-213, PubChem CID: 6337093, CAS Number: 15776-20-2'@en",bismuth [Bi-213],'12229',,,,true,false
+"'IUPAC: lead-212, PubChem CID: 6335491, CAS Number: 15092-94-1'@en",Lead [Pb-212],'12230',,,,true,false
+"'IUPAC: lead-214, PubChem CID: 6328551, CAS Number: 15067-28-4'@en",Lead [Pb-214],'12231',,,,true,false
+"'IUPAC: radium-226, PubChem CID: 9877911, CAS Number: 13982-63-3'@en",Radium [Ra-226],'12232',,,,true,false
+"'IUPAC: actinium-228, PubChem CID: 105063, CAS Number: 14331-83-0'@en",Actinium [Ac-228],'12233',,,,true,false
+"'IUPAC: thorium-232, PubChem CID: 11817119, CAS Number: n/a'@en",Thorium [Th-232],'12234',,,,true,false
+"'IUPAC: uranium-234, PubChem CID: 61704, CAS Number: 13966-29-5'@en",Uranium [U-234],'12235',,,,true,false
+"'IUPAC: uranium-235, PubChem CID: 61784, CAS Number: 15117-96-1'@en",Uranium [U-235],'12236',,,,true,false
+"'IUPAC: uranium-238, PubChem CID: n/a, CAS Number: n/a'@en",Uranium [U-238],'12237',,,,true,false
+"'IUPAC: plutonium-238, PubChem CID: 61709, CAS Number: 13981-16-3'@en",Plutonium [Pu-238],'12238',,,,true,false
+"'IUPAC: neptunium-239, PubChem CID: 104958, CAS Number: 13968-59-7'@en",Neptunium [Np-239],'12239',,,,true,false
+"'IUPAC: americium-241, PubChem CID: 104726, CAS Number: 14596-10-2'@en",Americium [Am-241],'12240',,,,true,false
+"'Sum of Plutonium isotopes: Pu-239 and Pu-240, IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3 and IUPAC: plutonium-239, PubChem CID: 61782, CAS Number: 15117-48-3'@en",Sum of Plutonium [Pu-239] and [Pu-240],'12241',,,,true,false
+"'IUPAC: gold-198, PubChem CID: 66274, CAS Number: 10043-49-9'@en",Gold [Au-198],'12242',,,,true,false
+"'IUPAC: 1,2-dichloro-1,1-difluoroethane, PubChem CID: 15442, CAS Number: 1649-08-7, in gas phase'@en","C2H2Cl2F2 (1,2-dichloro-1,1-difluoroethane, HCFC-132b)",'12243',,,,true,false
+"'IUPAC: 2-chloro-1,1,1-trifluoroethane, PubChem CID: 6408, CAS Number: 75-88-7, in gas phase'@en","C2H2ClF3 (2-chloro-1,1,1-trifluoroethane, HCFC-133a)",'12244',,,,true,false
+'IUPAC: neodymium-137'@en,Neodymium [Nd-137],'12247',,,,true,false
+"'IUPAC: 1,1,1,3,3,3-hexafluoropropane, PubChem CID: 12722, CAS Number: 690-39-1, in gas phase'@en","C3H2F6 (1,1,1,3,3,3-hexafluoropropane, HFC-236fa)",'12320',,,,true,false
+"'IUPAC: tellurium-131, PubChem CID: 6337051, CAS Number: 14683-12-6'@en",Tellurium [Te-131],'12321',,,,true,false
+"'IUPAC: methane, PubChem CID: 297, CAS Number: 74-82-8, in gas phase'@en",CH4 (methane),'192',,,,true,false
+"'IUPAC: methane C-13, PubChem CID: 105026, CAS Number: 14762-74-4, in gas phase'@en","CH4 (methane, C-13)",'193',,,,true,false
+"'IUPAC: carbon dioxide, PubChem CID: 280, CAS Number: 124-38-9, in gas phase'@en",CO2 (carbon dioxide),'194',,,,true,false
+"'IUPAC: n/a, PubChem CID: 10129882, CAS Number: 1111-72-4, in gas phase'@en","CO2 (carbon dioxide, C-13)",'195',,,,true,false
+'CO2 with O-18 isotope'@en,CO2 [O-18],'196',,,,true,false
+"'IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, in gas phase'@en",N2O (nitrous oxide),'201',,,,true,false
+"'IUPAC: hexafluoro-Î»6-sulfane, PubChem CID: 17358, CAS Number: 2551-62-4, in gas phase'@en",SF6 (sulfur hexafluoride),'203',,,,true,false
+"'IUPAC: sulfuryl difluoride, PubChem CID: 17607, CAS Number: 2699-79-8, in gas phase'@en",SO2F2 (sulfuryl fluoride),'204',,,,true,false
+"'IUPAC: molecular hydrogen, PubChem CID: 783, CAS Number: 1333-74-0, in gas phase'@en",H2 (hydrogen molecule),'205',,,,true,false
+"'IUPAC: oxidane, PubChem CID: 962, CAS Number: 7732-18-5, in gas phase'@en",H2O (as a chemical species),'206',,,,true,false
+"'IUPAC: n/a, PubChem CID: 139859, CAS Number: 14940-63-7, in gas phase'@en",HDO (as a chemical species),'207',,,,true,false
+"'IUPAC: beryllium-7, PubChem CID: 6335489, CAS Number: 13966-02-4'@en",Beryllium [Be-7],'219',,,,true,false
+'CO2 with C-14 isotope'@en,CO2 [C-14],'220',,,,true,false
+"'IUPAC: krypton-85, PubChem CID: 104816, CAS Number: 13983-27-2'@en",Krypton [Kr-85],'221',,,,true,false
+"'IUPAC: lead-210, PubChem CID: 6328175, CAS Number: 14255-04-0'@en",Lead [Pb-210],'222',,,,true,false
+"'IUPAC: radon-222, PubChem CID: 61773, CAS Number: 14859-67-7'@en",Radon [Rn-222],'223',,,,true,false
+'Kinetic energy density of turbulent motion of the air'@en,Turbulence,'249',OoI = Turbulence?,,,true,false
+'Ultraviolet radiation covering the range 280-315 nm.'@en,UV-B radiation,'273',with Constraint,,UV-B,true,false
+"'IUPAC: n/a, PubChem CID: 5460627, CAS Number: 15656-19-6, in gas phase'@en",BrO (bromine monoxide),'274',,,,true,false
+"'IUPAC: 1,1,2,2-tetrachloroethene, PubChem CID: 31373, CAS Number: 127-18-4, in gas phase'@en",C2Cl4 (tetrachloroethene),'275',,,,true,false
+"'IUPAC: 1,1,2-trichloroethene, PubChem CID: 6575, CAS Number: 79-01-6, in gas phase'@en",C2HCl3 (trichloroethene),'276',,,,true,false
+"'IUPAC: dibromomethane, PubChem CID: 3024, CAS Number: 74-95-3, in gas phase'@en",CH2Br2 (dibromomethane),'277',,,,true,false
+"'IUPAC: dichloromethane, PubChem CID: 6344, CAS Number: 75-09-2, in gas phase'@en",CH2Cl2 (dichloromethane),'278',,,,true,false
+"'IUPAC: bromomethane, PubChem CID: 6323, CAS Number: 74-83-9, in gas phase'@en",CH3Br (bromomethane),'279',,,,true,false
+"'IUPAC: chloromethane, PubChem CID: 6327, CAS Number: 74-87-3, in gas phase'@en",CH3Cl (chloromethane),'280',,,,true,false
+"'IUPAC: iodomethane, PubChem CID: 6328, CAS Number: 74-88-4, in gas phase'@en",CH3I (iodomethane),'281',,,,true,false
+"'IUPAC: bromoform, PubChem CID: 5558, CAS Number: 75-25-2, in gas phase'@en",CHBr3 (bromoform),'282',,,,true,false
+"'IUPAC: chloroform, PubChem CID: 6212, CAS Number: 67-66-3, in gas phase'@en","CHCl3 (trichloromethane, chloroform)",'283',,,,true,false
+"'IUPAC: carbon monoxide, PubChem CID: 281, CAS Number: 630-08-0, in gas phase'@en",CO,'284',,,,true,false
+"'IUPAC: carbonyl difluoride, PubChem CID: 9623, CAS Number: 353-50-4, in gas phase'@en","COF2 (difluoromethanal, carbonyl fluoride)",'285',,,,true,false
+"'IUPAC: n/a, PubChem CID: 166686, CAS Number: 14989-30-1, in gas phase'@en",ClO (chlorine monoxide),'286',,,,true,false
+"'IUPAC: hydrogen peroxide, PubChem CID: 784, CAS Number: 7722-84-1, in gas phase'@en",H2O2 (hydrogen peroxide),'287',,,,true,false
+"'IUPAC: chlorane, PubChem CID: 313, CAS Number: 7647-01-0, in gas phase'@en",HCl (hydrochloric acid),'288',,,,true,false
+"'IUPAC: fluorane, PubChem CID: 14917, CAS Number: 7664-39-3, in gas phase'@en",HF (hydrofluoric acid),'289',,,,true,false
+''@en,ROOH,'291',Organic Peroxide?,,,true,false
+"'IUPAC: sulfur, PubChem CID: n/a, CAS Number: 7704-34-9, in total deposition'@en",S (sulfur),'302',,,,true,false
+"'IUPAC: bromo-chloro-difluoromethane, PubChem CID: 9625, CAS Number: 353-59-3, in gas phase'@en",CBrClF2 (Halon 1211),'332',,,,true,false
+"'IUPAC: bromo(trifluoro)methane, PubChem CID: 6384, CAS Number: 75-63-8, in gas phase'@en","CBrF3 (bromotrifluoromethane, Halon 1301)",'333',,,,true,false
+"'IUPAC: 9H-fluorene, PubChem CID: 6853, CAS Number: 86-73-7, in gas phase'@en","C13H10 (9H-fluorene, fluorene), in air",'334',with Matrix,,,true,false
+"'IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in particle phase, PM10'@en","C14H10 (anthracene), PM10",'335',with Matrix and Constraint,,,true,false
+"'IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in particle phase'@en","C14H10 (anthracene), in aerosol",'336',with Constraint,,,true,false
+"'IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in aerosol'@en","C14H10 (anthracene), in air and aerosol",'337',with Constraint,,,true,false
+"'IUPAC: anthracene, PubChem CID: 8418, CAS Number: 120-12-7, in gas phase'@en","C14H10 (anthracene), in air",'338',with Constraint,,,true,false
+"'IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in particle phase, PM10'@en","C14H10 (phenanthrene), PM10",'339',with Matrix and Constraint,,,true,false
+"'IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in particle phase'@en","C14H10 (phenanthrene), in aerosol",'340',with Constraint,,,true,false
+"'IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in gas phase'@en","C14H10 (phenanthrene), in air",'341',with Matrix,,,true,false
+"'IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in aerosol'@en","C14H10 (phenanthrene), in air and aerosol",'342',with Matrix,,,true,false
+"'IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in wet deposition'@en","C14H10 (phenanthrene), in wet deposition",'343',with Matrix,,,true,false
+"'IUPAC: phenanthrene, PubChem CID: 995, CAS Number: 85-01-8, in total precipitation'@en","C14H10 (phenanthrene), in total precipitation",'344',with Matrix,,,true,false
+"'IUPAC: pyrene, PubChem CID: 31423, CAS Number: 129-00-0, in aerosol'@en","C16H10 (pyrene), in air and aerosol",'345',with Matrix,,,true,false
+"'IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in particle phase, PM10'@en","C18H12 (benz(a)anthracene), PM10",'346',with Matrix and Constraint,,,true,false
+"'IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in particle phase'@en","C18H12 (benz(a)anthracene), in aerosol",'347',with Matrix,,,true,false
+"'IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in gas phase'@en","C18H12 (benz(a)anthracene), in air",'348',with Matrix,,,true,false
+"'IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in aerosol'@en","C18H12 (benz(a)anthracene), in air and aerosol",'349',with Matrix,,,true,false
+"'IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in precipitation'@en","C18H12 (benz(a)anthracene), in precipitation",'350',with Matrix,,,true,false
+"'IUPAC: benzo[a]anthracene, PubChem CID: 5954, CAS Number: 56-55-3, in total precipitation'@en","C18H12 (benz(a)anthracene), in total precipitation",'351',with Matrix,,,true,false
+"'IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in particle phase'@en","C12H8Cl6 (aldrin), in aerosol",'375',with Matrix,,,true,false
+"'IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in gas phase'@en","C12H8Cl6 (aldrin), in air",'376',with Matrix,,,true,false
+"'IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in aerosol'@en","C12H8Cl6 (aldrin), in air and aerosol",'377',with Matrix,,,true,false
+"'IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in total precipitation'@en","C12H8Cl6 (aldrin), in total precipitation",'378',with Matrix,,,true,false
+"'IUPAC: (1R,4S,4aS,5S,8R,8aR)-1,2,3,4,10,10-Hexachloro-1,4,4a,5,8,8a-hexahydro-1,4:5,8-dimethanonaphthalene, PubChem CID: 2087, CAS Number: 309-00-2, in wet precipitation'@en","C12H8Cl6 (aldrin), in wet precipitation",'379',with Matrix,,,true,false
+"'IUPAC: 1,2,3,4,5,6-hexachlorobenzene, PubChem CID: 8370, CAS Number: 118-74-1, in gas phase'@en","C6Cl6 (hexachlorobenzene, HCB), in air",'380',with Matrix,,,true,false
+"'IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in particle phase'@en","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in aerosol",'381',with Matrix,,,true,false
+"'IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in gas phase'@en","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in air",'382',with Matrix,,,true,false
+"'IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in wet deposition'@en","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, alpha-lindane, alpha-HCH), in wet precipitation",'383',with Matrix,,,true,false
+"'IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in gas phase'@en","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in air",'384',with Matrix,,,true,false
+"'IUPAC: 1,2,3,4,5,6-hexachlorocyclohexane, PubChem CID: 727, CAS Number: 319-84-6, in wet deposition'@en","C6H6Cl6 (1,2,3,4,5,6-hexachlorocyclohexane, gamma-lindane, gamma-HCH), in wet precipitation",'385',with Matrix,,,true,false
+"'IUPAC: azane, PubChem CID: 222, CAS Number: 7664-41-7, in gas phase'@en",NH3 (Ammonia),'390',,,,true,false
+"'IUPAC: nitro ethaneperoxoate, PubChem CID: 16782, CAS Number: 2278-22-0, in gas phase'@en","C2H3O5N (peroxyacetylnitrate, PAN)",'391',,,,true,false
+"'IUPAC: chloro nitrate, PubChem CID: 114934, CAS Number: 14545-72-3, in gas phase'@en",ClONO2 (chlorine nitrate),'392',,,,true,false
+"'IUPAC: formonitrile, PubChem CID: 768, CAS Number: 74-90-8, in gas phase'@en","HCN (formonitrile, hydrogen cyanide)",'393',,,,true,false
+"'IUPAC: nitric acid, PubChem CID: 944, CAS Number: 7697-37-2, in gas phase'@en",HNO3 (nitric acid),'394',,,,true,false
+"'IUPAC: nitric oxide, PubChem CID: 145068, CAS Number: 10102-43-9, in gas phase'@en",NO (nitrogen monoxide),'395',,,,true,false
+"'IUPAC: n/a, PubChem CID: 3032552, CAS Number: 10102-44-0, in gas phase'@en",NO2 (nitrogen dioxide),'396',,,,true,false
+''@en,NOx,'397',,,,true,false
+''@en,NOy,'398',,,,true,false
+"'IUPAC: 1,1,1,2,2,2-hexafluoroethane, PubChem CID: 6431, CAS Number: 76-16-4, in gas phase'@en","C2F6 (hexafluoroethane, PFC-116)",'419',,,,true,false
+"'IUPAC: 1,1,1,2,2,3,3,3-octafluoropropane, PubChem CID: 6432, CAS Number: 76-19-7, in gas phase'@en","C3F8 (octafluoropropane, PFC-218)",'420',,,,true,false
+"'IUPAC: tetrafluoromethane, PubChem CID: 6393, CAS Number: 75-73-0, in gas phase'@en","CF4 (tetrafluoromethane, carbon tetrafluoride, perfluoromethane, PFC-14)",'421',,,,true,false
+"'IUPAC: carbonyl sulfide, PubChem CID: 10039, CAS Number: 463-58-1, in gas phase'@en","COS (OCS, carbon oxide sulfide, carbonyl sulfide)",'428',,,,true,false
+"'IUPAC: methanedithione, PubChem CID: 6348, CAS Number: 75-15-0, in gas phase'@en",CS2 (carbon disulfide),'429',,,,true,false
+"'IUPAC: sulfur dioxide, PubChem CID: 1119, CAS Number: 7446 09-5, in gas phase'@en",SO2,'430',,,,true,false
+"'IUPAC: acetylene, PubChem CID: 6326, CAS Number: 74-86-2, in gas phase'@en","C2H2 (ethyne, acetylene)",'434',,,,true,false
+"'IUPAC: oxaldehyde, PubChem CID: 7860, CAS Number: 107-22-2, in gas phase'@en","C2H2O2 (oxaldehyde, ethanedial)",'435',,,,true,false
+"'IUPAC: ethene, PubChem CID: 6325, CAS Number: 74-85-1, in gas phase'@en",C2H4 (ethene),'436',,,,true,false
+"'IUPAC: ethane, PubChem CID: 6324, CAS Number: 74-84-0, in gas phase'@en",C2H6 (ethane),'437',,,,true,false
+"'IUPAC: methylsulfanylmethane, PubChem CID: 1068, CAS Number: 75-18-3, in gas phase'@en","C2H6S (dimethylsulfide, DMS)",'438',,,,true,false
+"'IUPAC: prop-1-yne, PubChem CID: 6335, CAS Number: 74-99-7, in gas phase'@en",C3H4 (propyne),'439',,,,true,false
+"'IUPAC: prop-2-enal, PubChem CID: 7847, CAS Number: 107-02-8, in gas phase'@en","C3H4O (prop-2-enal, acrolein)",'440',,,,true,false
+"'IUPAC: 2-oxopropanal, PubChem CID: 880, CAS Number: 78-98-8, in gas phase'@en","C3H4O2 (2-oxopropanal, methylglyoxal)",'441',,,,true,false
+"'IUPAC: prop-1-ene, PubChem CID: 8252, CAS Number: 115-07-1, in gas phase'@en",C3H6 (propene),'442',,,,true,false
+"'IUPAC: propan-2-one, PubChem CID: 180, CAS Number: 67-64-1, in gas phase'@en","C3H6O (acetone, propanone)",'443',,,,true,false
+"'IUPAC: propanal, PubChem CID: 527, CAS Number: 123-38-6, in gas phase'@en",C3H6O (propanal),'444',,,,true,false
+"'IUPAC: propane, PubChem CID: 6334, CAS Number: 74-98-6, in gas phase'@en",C3H8 (propane),'445',,,,true,false
+"'IUPAC: buta-1,3-diene, PubChem CID: 7845, CAS Number: 106-99-0, in gas phase'@en","C4H6 (1,3-butadiene, butadiene)",'446',,,,true,false
+"'IUPAC: 2-methylprop-2-enal, PubChem CID: 6562, CAS Number: 78-85-3, in gas phase'@en","C4H6O (2-methylprop-2-enal, methacrolein)",'447',,,,true,false
+"'IUPAC: but-3-en-2-one, PubChem CID: 6570, CAS Number: 78-94-4, in gas phase'@en","C4H6O (but-3-en-2-one, methylvinylketone)",'448',,,,true,false
+"'IUPAC: but-1-ene, PubChem CID: 7844, CAS Number: 106-98-9, in gas phase'@en",C4H8 (1-butene),'449',,,,true,false
+''@en,C4H8 (sum of butenes),'450',,,,true,false
+"'IUPAC: butan-2-one, PubChem CID: 6569, CAS Number: 78-93-3, in gas phase'@en","C4H8O (butan-2-one, methylethylketone)",'451',,,,true,false
+''@en,C4H8O (butanal isomers),'452',,,,true,false
+"'IUPAC: pent-1-ene, PubChem CID: 8004, CAS Number: 109-67-1, in gas phase'@en",C5H10 (1-pentene),'453',,,,true,false
+"'IUPAC: 2-methylbut-1-ene, PubChem CID: 11240, CAS Number: 563-46-2, in gas phase'@en",C5H10 (2-methyl-1-butene),'454',,,,true,false
+"'IUPAC: 2-methylbut-2-ene, PubChem CID: 10553, CAS Number: 513-35-9, in gas phase'@en",C5H10 (2-methyl-2-butene),'455',,,,true,false
+"'IUPAC: 3-methylbut-1-ene, PubChem CID: 11239, CAS Number: 563-45-1, in gas phase'@en",C5H10 (3-methyl-1-butene),'456',,,,true,false
+"'IUPAC: cyclopentane, PubChem CID: 9253, CAS Number: 287-92-3, in gas phase'@en",C5H10 (cyclopentane),'457',,,,true,false
+''@en,C5H10 (sum of 1-pentene and 2-methyl-2-butene),'458',,,,true,false
+''@en,C5H10 (sum of pentenes),'459',,,,true,false
+"'IUPAC: pentanal, PubChem CID: 8063, CAS Number: 110-62-3, in gas phase'@en","C5H10O (pentanal, valeraldehyde)",'460',,,,true,false
+''@en,"C5H12 & C4H8 (sum of 2,2-dimethylpropane & c-2-butene)",'461',,,,true,false
+"'IUPAC: 2,2-dimethylpropane, PubChem CID: 10041, CAS Number: 463-82-1, in gas phase'@en","C5H12 (2,2-dimethylpropane)",'462',,,,true,false
+"'IUPAC: 2,3-dimethylbutane, PubChem CID: 6589, CAS Number: 79-29-8, in gas phase'@en","C5H14 (2,3-dimethylbutane)",'463',,,,true,false
+"'IUPAC: 2-methylbuta-1,3-diene, PubChem CID: 6557, CAS Number: 78-79-5, in gas phase'@en","C5H8 (2-methyl-1,3-butadiene, isoprene)",'464',,,,true,false
+"'IUPAC: cyclopentene, PubChem CID: 8882, CAS Number: 142-29-0, in gas phase'@en",C5H8 (cyclopentene),'465',,,,true,false
+"'Sum of 3-methyl-1-butene and cyclopentane, in gas phase'@en","C5Hn, n=10 (sum of 3-methyl-1-butene and cyclopentene)",'466',,,,true,false
+"'Sum of n-pentane and cyclopentane, in gas phase'@en","C5Hn, n={12, 10} (sum of n-pentane and cyclopentane)",'467',,,,true,false
+"'IUPAC: cyclohexane, PubChem CID: 8078, CAS Number: 110-82-7, in gas phase'@en",C6H12 (cyclohexane),'468',,,,true,false
+"'IUPAC: methylcyclopentane, PubChem CID: 7296, CAS Number: 96-37-7, in gas phase'@en",C6H12 (methylcyclopentane),'469',,,,true,false
+''@en,C6H12O (hexanal isomers),'470',,,,true,false
+''@en,"C6H14 (2,2-dimethylbutane)",'471',,,,true,false
+"'IUPAC: 2-methylpentane, PubChem CID: 7892, CAS Number: 107-83-5, in gas phase'@en",C6H14 (2-methylpentane),'472',,,,true,false
+"'IUPAC: 3-methylpentane, PubChem CID: 7282, CAS Number: 96-14-0, in gas phase'@en",C6H14 (3-methylpentane),'473',,,,true,false
+"'IUPAC: hexane, PubChem CID: 8058, CAS Number: 110-54-3, in gas phase'@en",C6H14 (n-hexane),'474',,,,true,false
+''@en,C6H14 (sum of methylpentanes),'475',,,,true,false
+"'IUPAC: benzene, PubChem CID: 241, CAS Number: 71-43-2, in gas phase'@en",C6H6 (benzene),'476',,,,true,false
+"'sum of 3-methylpentane and cyclohexane, in gas phase'@en","C6Hn, n={14, 12} (sum of 3-methylpentane and cyclohexane)",'477',,,,true,false
+"'sum of 2,2-dimethylbutane and methylcyclopentane, in gas phase'@en","C6Hn, n={14, 12} (sum of 2,2-dimethylbutane and methylcyclopentane)",'478',,,,true,false
+"'sum of 2,3-dimethylbutane and methylcyclopentane, in gas phase'@en","C6Hn, n={14, 12} (sum of 2,3-dimethylbutane and methylcyclopentane)",'479',,,,true,false
+''@en,C7H16 (sum of methylhexanes),'480',,,,true,false
+''@en,C7H6O (benzene carbaldehyde),'481',,,,true,false
+"'IUPAC: toluene, PubChem CID: 1140, CAS Number: 108-88-3, in gas phase'@en",C7H8 (toluene),'482',,,,true,false
+"'IUPAC: ethylbenzene, PubChem CID: 7500, CAS Number: 100-41-4, in gas phase'@en",C8H10 (ethylbenzene),'483',,,,true,false
+"'IUPAC: 1,3-xylene, PubChem CID: 7929, CAS Number: 108-38-3, in gas phase'@en",C8H10 (m-xylene),'484',,,,true,false
+"'IUPAC: 1,2-xylene, PubChem CID: 7237, CAS Number: 95-47-6, in gas phase'@en",C8H10 (o-xylene),'485',,,,true,false
+''@en,"C8H10 (Sum of p-xylene and m-xylene, 1,3- and 1,4-dimethylbenzene)",'486',,,,true,false
+"'IUPAC: 1,2,4-trimethylbenzene, PubChem CID: 7247, CAS Number: 95-36-3, in gas phase'@en","C9H12 (1,2,4-trimethylbenzene)",'487',,,,true,false
+"'IUPAC: 1,3,5-trimethylbenzene, PubChem CID: 7947, CAS Number: 108-67-8, in gas phase'@en","C9H12 (1,3,5-trimethylbenzene)",'488',,,,true,false
+"'IUPAC: formaldehyde, PubChem CID: 712, CAS Number: 50-00-0, in gas phase'@en","CH2O (methanal, formaldehyde)",'489',,,,true,false
+"'IUPAC: ethanol, PubChem CID: 702, CAS Number: 64-17-5, in gas phase'@en",CH3CH2OH (ethanol),'490',,,,true,false
+"'IUPAC: acetaldehyde, PubChem CID: 177, CAS Number: 75-07-0, in gas phase'@en","CH3CHO (acetaldehyde, ethanal)",'491',,,,true,false
+"'IUPAC: acetonitrile, PubChem CID: 6342, CAS Number: 75-05-8, in gas phase'@en",CH3CN (acetonitrile),'492',,,,true,false
+"'IUPAC: methanol, PubChem CID: 887, CAS Number: 67-56-1, in gas phase'@en",CH3OH (methanol),'493',,,,true,false
+''@en,NMHC,'494',,,,true,false
+"'IUPAC: (Z)-but-2-ene, PubChem CID: 5287573, CAS Number: 590-18-1, in gas phase'@en",c-C4H8 (cis-2-butene),'495',,,,true,false
+"'IUPAC: (Z)-pent-2-ene, PubChem CID: 5326160, CAS Number: 627-20-3, in gas phase'@en",c-C5H10 (cis-2-pentene),'496',,,,true,false
+"'IUPAC: 2-methylpropane, PubChem CID: 6360, CAS Number: 75-28-5, in gas phase'@en","i-C4H10 (2-methylpropane, iso-butane)",'497',,,,true,false
+"'IUPAC: 2-methylprop-1-ene, PubChem CID: 8255, CAS Number: 115-11-7, in gas phase'@en","i-C4H8 (2-methylpropene, iso-butene)",'498',,,,true,false
+"'IUPAC: 2-methylbutane, PubChem CID: 6556, CAS Number: 78-78-4, in gas phase'@en","i-C5H12 (2-methylbutane, iso-pentane)",'499',,,,true,false
+"'IUPAC: 2-methylhexane, PubChem CID: 11582, CAS Number: 591-76-4, in gas phase'@en","i-C7H16 (2-methylhexane, isoheptane)",'500',,,,true,false
+"'IUPAC: butane, PubChem CID: 7843, CAS Number: 106-97-8, in gas phase'@en",n-C4H10 (n-butane),'501',,,,true,false
+"'IUPAC: pentane, PubChem CID: 8003, CAS Number: 109-66-0, in gas phase'@en",n-C5H12 (n-pentane),'502',,,,true,false
+"'IUPAC: heptane, PubChem CID: 8900, CAS Number: 142-82-5, in gas phase'@en",n-C7H16 (n-heptane),'503',,,,true,false
+"'IUPAC: (E)-but-2-ene, PubChem CID: 62695, CAS Number: 107-01-7, in gas phase'@en",t-C4H8 (trans-2-butene),'504',,,,true,false
+"'IUPAC: (E)-pent-2-ene, PubChem CID: 5326161, CAS Number: 109-68-2, in gas phase'@en",t-C5H10 (trans-2-pentene),'505',,,,true,false
+''@en,Strong acids,'529',??,,,true,false
+"'IUPAC: 1,1-dichloro-1-fluoroethane, PubChem CID: 15586, CAS Number: 1717-00-6, in gas phase'@en","C2H3Cl2F (1,1-dichloro-1-fluoroethane, HCFC-141b)",'534',,,,true,false
+"'IUPAC: 1-chloro-1,1-difluoroethane, PubChem CID: 6388, CAS Number: 75-68-3, in gas phase'@en","C2H3ClF2 (1-chloro-1,1-difluoroethane, HCFC-142b)",'535',,,,true,false
+"'IUPAC: 1,1,1-trifluoroethane, PubChem CID: 9868, CAS Number: 420-46-2, in gas phase'@en","C2H3F3 (1,1,1-trifluoroethane, HFC-143a)",'536',,,,true,false
+"'IUPAC: chloro(difluoro)methane, PubChem CID: 6372, CAS Number: 75-45-6, in gas phase'@en","CHClF2 (chlorodifluoromethane, HCFC-22)",'537',,,,true,false
+"'IUPAC: bromide, PubChem CID: 259, CAS Number: 24959-67-9, in total deposition'@en",Br- (bromide),'538',,,,true,false
+"'IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in total deposition'@en",Cl- (chloride),'539',,,,true,false
+"'IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in total deposition'@en",F- (fluoride),'540',,,,true,false
+"'IUPAC: iodide, PubChem CID: 30165, CAS Number: 20461-54-5, in total deposition'@en",I- (iodide),'541',,,,true,false
+"'IUPAC: phosphate, PubChem CID: 1061, CAS Number: 14265-44-2, in total deposition'@en",PO4--- (phosphate),'542',,,,true,false
+"'IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition'@en","SO4= (sulfate), corrected",'543',,,,true,false
+"'IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in total deposition'@en",SO4= (sulfate),'544',,,,true,false
+"'IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in total deposition'@en",Ca++ (calcium),'545',,,,true,false
+"'IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in total deposition'@en",Mg++ (magnesium),'546',,,,true,false
+"'IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in total deposition'@en",K+ (potassium),'547',,,,true,false
+"'IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in total deposition'@en",Na+ (sodium),'548',,,,true,false
+"'IUPAC: 1,1,1,2-tetrafluoroethane, PubChem CID: 13129, CAS Number: 811-97-2, in gas phase'@en","C2H2F4 (1,1,1,2-tetrafluoroethane, HFC-134a)",'554',,,,true,false
+"'IUPAC: 1,1-difluoroethane, PubChem CID: 6368, CAS Number: 75-37-6, in gas phase'@en","C2H4F2 (1,1-difluoroethane, HFC-152a)",'555',,,,true,false
+"'IUPAC: 1,1,1,2,2-pentafluoroethane, PubChem CID: 9633, CAS Number: 354-33-6, in gas phase'@en","C2HF5 (pentafluoroethane, HFC-125)",'556',,,,true,false
+"'IUPAC: 1,1,1,2,3,3-hexafluoropropane, PubChem CID: 79009, CAS Number: 431-63-0, in gas phase'@en","C3H2F6 (1,1,1,2,3,3-hexafluoropropane, HFC-236ea)",'557',,,,true,false
+"'IUPAC: 1,1,1,3,3-pentafluoropropane, PubChem CID: 68030, CAS Number: 460-73-1, in gas phase'@en","C3H3F5 (1,1,1,3,3-Pentafluoropropane, HFC-245fa)",'558',,,,true,false
+"'IUPAC: 1,1,1,2,3,3,3-heptafluoropropane, PubChem CID: 67940, CAS Number: 431-89-0, in gas phase'@en","C3HF7 (1,1,1,2,3,3,3-Heptafluoropropane, HFC-227ea)",'559',,,,true,false
+"'IUPAC: 1,1,1,3,3-pentafluorobutane, PubChem CID: 67884, CAS Number: 406-58-6, in gas phase'@en","C4H5F5 (1,1,1,3,3-pentafluorobutane, HFC-365mfc)",'560',,,,true,false
+"'IUPAC: difluoromethane, PubChem CID: 6345, CAS Number: 75-10-5, in gas phase'@en","CH2F2 (difluoromethane, HFC-32)",'561',,,,true,false
+"'IUPAC: fluoroform, PubChem CID: 6373, CAS Number: 75-46-7, in gas phase'@en","CHF3 (trifluoromethane, HFC-23)",'562',,,,true,false
+"'IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in total deposition'@en",NH4+ (ammonium),'568',,,,true,false
+"'IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in total deposition'@en",NO3- (nitrate),'569',,,,true,false
+"'IUPAC: nitrite, PubChem CID: 946, CAS Number: 14797-65-0, in total deposition'@en",NO2- (nitrite),'570',,,,true,false
+"'IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-1, in total deposition'@en",CH3COO- (acetate),'576',,,,true,false
+"'IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in total deposition'@en",HCOO- (formate),'577',,,,true,false
+"'IUPAC: propanoate, PubChem CID: 104745, CAS Number: 72-03-7, in total deposition'@en",C2H5COO- (propionate),'578',,,,true,false
+"'IUPAC: 1,2-dichloro-1,1,2,2-tetrafluoroethane, PubChem CID: 6429, CAS Number: 76-14-2'@en","C2Cl2F4 (1,2-dichlorotetrafluoroethane, CFC-114)",'589',,,,true,false
+"'IUPAC: 1,1,2-trichloro-1,2,2-trifluoroethane, PubChem CID: 6428, CAS Number: 76-13-1, in gas phase'@en","C2Cl3F3 (1,1,2-trichloro-1,2,2-trifluoroethane, CFC-113)",'590',,,,true,false
+"'IUPAC: 1-chloro-1,1,2,2,2-pentafluoroethane, PubChem CID: 6430, CAS Number: 76-15-3, in gas phase'@en","C2ClF5 (1-chloro-1,1,2,2,2-pentafluoroethane, CFC-115)",'591',,,,true,false
+"'IUPAC: dichloro(difluoro)methane, PubChem CID: 6391, CAS Number: 75-71-8, in gas phase'@en","CCl2F2 (dichlorodifluoromethane, CFC-12)",'592',,,,true,false
+"'IUPAC: trichloro(fluoro)methane, PubChem CID: 6389, CAS Number: 75-69-4, in gas phase'@en","CCl3F (trichlorofluoromethane, CFC-11)",'593',,,,true,false
+"'IUPAC: tetrachloromethane, PubChem CID: 5943, CAS Number: 56-23-5, in gas phase'@en","CCl4 (tetrachloromethane, carbon tetrachloride)",'594',,,,true,false
+"'IUPAC: 1,1,1-trichloroethane, PubChem CID: 6278, CAS Number: 71-55-6, in gas phase'@en","CH3CCl3 (1,1,1-trichloroethane, methyl chloroform)",'595',,,,true,false
+"'IUPAC: aluminium, PubChem CID: 5359268, CAS Number: 7429-90-5, in total deposition'@en",Al (aluminium),'597',,,,true,false
+"'IUPAC: arsenic, PubChem CID: 5359596, CAS Number: 7440-38-2, in total deposition'@en",As (arsenic),'598',,,,true,false
+"'IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in total deposition'@en",Cd (cadmium),'599',,,,true,false
+"'IUPAC: chromium, PubChem CID: 23976, CAS Number: 7440-47-3, in total deposition'@en",Cr (chromium),'600',,,,true,false
+"'IUPAC: cobalt, PubChem CID: 104730, CAS Number: 7440-48-4, in total deposition'@en",Co (cobalt),'601',,,,true,false
+"'IUPAC: copper, PubChem CID: 23978, CAS Number: 7440-50-8, in total deposition'@en",Cu (copper),'602',,,,true,false
+"'IUPAC: iron, PubChem CID: 23925, CAS Number: 7439-89-6, in total deposition'@en",Fe (iron),'603',,,,true,false
+"'IUPAC: lead, PubChem CID: 5352425, CAS Number: 7439-92-1, in total deposition'@en",Pb (lead),'604',,,,true,false
+"'IUPAC: manganese, PubChem CID: 23930, CAS Number: 7439-96-5, in total deposition'@en",Mn (manganese),'605',,,,true,false
+"'IUPAC: mercury, PubChem CID: 23931, CAS Number: 7439-97-6, in total deposition'@en",Hg (mercury),'606',,,,true,false
+"'IUPAC: nickel, PubChem CID: 936, CAS Number: 7440-02-1, in total deposition'@en",Ni (nickel),'607',,,,true,false
+"'IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in total deposition'@en",V (vanadium),'608',,,,true,false
+"'IUPAC: zinc, PubChem CID: 23994, CAS Number: 7440-66-6, in total deposition'@en",Zn (zinc),'609',,,,true,false
+"'IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM1'@en","Cl- (chloride), PM1",'614',with Constraint,,,true,false
+"'IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM10'@en","Cl- (chloride), PM10",'615',with Constraint,,,true,false
+"'IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, PM2.5'@en","Cl- (chloride), PM2.5",'616',with Constraint,,,true,false
+"'IUPAC: chloride, PubChem CID: 312, CAS Number: 16887-00-6, in particle phase, TSP'@en","Cl- (chloride), TSP",'617',with Constraint,,,true,false
+"'IUPAC: fluoride, PubChem CID: 28179, CAS Number: 16984-48-8, in particle phase, TSP'@en","F- (fluoride), TSP",'618',with Constraint,,,true,false
+"'IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase'@en","SO4= (sulfate), corrected",'619',with Constraint,,,true,false
+"'IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, TSP'@en","SO4= (sulfate), TSP",'620',with Constraint,,,true,false
+"'IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM10'@en","SO4= (sulfate), PM10",'621',with Constraint,,,true,false
+"'IUPAC: sulfate, PubChem CID: 1117, CAS Number: 14808-79-8, in particle phase, PM2.5'@en","SO4= (sulfate), PM2.5",'622',with Constraint,,,true,false
+'Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and non-volatile under atmospheric conditions and insoluble in any solvent. Size range: PM10'@en,"Elemental carbon, PM10",'623',with Constraint,,,true,false
+'Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and non-volatile under atmospheric conditions and insoluble in any solvent. Size range: PM1'@en,"Elemental carbon, PM1",'624',with Constraint,,,true,false
+'Carbonaceous fraction of particulate matter that is thermally stable in an inert atmosphere to high temperatures near 4000 K and can only be gasified by oxidation starting at temperatures above 340 degC. It is assumed to be inert and non-volatile under atmospheric conditions and insoluble in any solvent. Size range: PM2.5'@en,"Elemental carbon, PM2.5",'625',with Constraint,,,true,false
+"'Sum of elemental and organic carbon. Includes inorganic carbon, which is operationally distributed between elemental and organic carbon. Size range: PM10'@en","Total carbon, PM10",'626',with Constraint,,,true,false
+"'IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in particle phase, PM10'@en","Ca++ (calcium), PM10",'632',with Constraint,,,true,false
+"'IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in particle phase, PM2.5'@en","Ca++ (calcium), PM2.5",'633',with Constraint,,,true,false
+"'IUPAC: calcium(2+), PubChem CID: 271, CAS Number: 14127-61-8, in particle phase, TSP'@en","Ca++ (calcium), TSP",'634',with Constraint,,,true,false
+"'IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in particle phase, PM10'@en","Mg++ (magnesium), PM10",'635',with Constraint,,,true,false
+"'IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in particle phase, PM2.5'@en","Mg++ (magnesium), PM2.5",'636',with Constraint,,,true,false
+"'IUPAC: magnesium(2+), PubChem CID: 888, CAS Number: 22537-22-0, in particle phase, TSP'@en","Mg++ (magnesium), TSP",'637',with Constraint,,,true,false
+"'IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in particle phase, PM10'@en","K+ (potassium), PM10",'638',with Constraint,,,true,false
+"'IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in particle phase, PM2.5'@en","K+ (potassium), PM2.5",'639',with Constraint,,,true,false
+"'IUPAC: potassium(1+), PubChem CID: 813, CAS Number: 24203-36-9, in particle phase, TSP'@en","K+ (potassium), TSP",'640',with Constraint,,,true,false
+"'IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, PM10'@en","Na+ (sodium), PM10",'641',with Constraint,,,true,false
+"'IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, PM2.5'@en","Na+ (sodium), PM2.5",'642',with Constraint,,,true,false
+"'IUPAC: sodium(1+), PubChem CID: 923, CAS Number: 17341-25-2, in particle phase, TSP'@en","Na+ (sodium), TSP",'643',with Constraint,,,true,false
+"'IUPAC: azane, PubChem CID: 222, CAS Number: 7664-41-7, in particle phase, PM2.5'@en","NH3 (ammonia), PM2.5",'644',with Constraint,,,true,false
+"'IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, PM10'@en","NH4+ (ammonium), PM10",'645',with Constraint,,,true,false
+"'IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, PM2.5'@en","NH4+ (ammonium), PM2.5",'646',with Constraint,,,true,false
+"'IUPAC: azanium, PubChem CID: 223, CAS Number: 14798-03-9, in particle phase, TSP'@en","NH4+ (ammonium), TSP",'647',with Constraint,,,true,false
+"'IUPAC: ammonium nitrate, PubChem CID: 22985, CAS Number: 6484-52-2, in particle phase, TSP'@en","NH4NO4 (ammonium nitrate), TSP",'648',with Constraint,,,true,false
+"'IUPAC: ammonium nitrate, PubChem CID: 22985, CAS Number: 6484-52-2, in particle phase, PM1'@en","NH4NO3 (ammonium nitrate), PM1",'649',with Constraint,,,true,false
+"'IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, PM10'@en","NO3- (nitrate), PM10",'650',with Constraint,,,true,false
+"'IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, PM2.5'@en","NO3- (nitrate), PM2.5",'651',with Constraint,,,true,false
+"'IUPAC: nitrate, PubChem CID: 943, CAS Number: 14797-55-8, in particle phase, TSP'@en","NO3- (nitrate), TSP",'652',with Constraint,,,true,false
+"'IUPAC: nitrite, PubChem CID: 946, CAS Number: 14797-65-0, in particle phase, TSP'@en","NO2- (nitrite), TSP",'653',with Constraint,,,true,false
+'Sum of NH3 (ammonia) and NH4+ (ammonium)'@en,Sum of NH3 (ammonia) and NH4+ (ammonium),'654',with Matrix?,,,true,false
+'Sum of HNO3 (nitric acid) and NO3- (nitrate)'@en,Sum of HNO3 (nitric acid) and NO3- (nitrate),'655',with Matrix?,,,true,false
+'Major chemical components'@en,Major chemical components,'656',with Constraint,,,true,false
+"'Major inorganic components, TSP'@en","Major inorganic components, TSP",'657',with Constraint,,,true,false
+"'Major inorganic components, coarse'@en","Major inorganic components, coarse",'658',with Constraint,,,true,false
+"'Major inorganic components, fine'@en","Major inorganic components, fine",'659',with Constraint,,,true,false
+"'Other chemical components, coarse'@en","Other chemical components, coarse",'660',with Constraint,,,true,false
+"'Other chemical components, fine'@en","Other chemical components, fine",'661',with Constraint,,,true,false
+"'IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase, PM1'@en","C2H3O2- (CH3COO-, acetate), PM1",'662',with Constraint,,,true,false
+"'IUPAC: acetate, PubChem CID: 175, CAS Number: 71-50-0, in particle phase'@en","C2H3O2- (CH3COO-, acetate)",'663',with Constraint,,,true,false
+"'IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM1'@en","C2O4= (oxalate, ethanedioate), PM1",'664',with Constraint,,,true,false
+"'IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, PM10'@en","C2O4= (oxalate, ethanedioate), PM10",'665',with Constraint,,,true,false
+"'IUPAC: oxalate, PubChem CID: 71081, CAS Number: 338-70-5, in particle phase, TSP'@en","C2O4= (oxalate, ethanedioate), TSP",'666',with Constraint,,,true,false
+"'IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, PM1'@en","CH3O3S- (methanesulfonate), PM1",'667',with Constraint,,,true,false
+"'IUPAC: methanesulfonate, PubChem CID: 85257, CAS Number: 16053-58-0, in particle phase, TSP'@en","CH3O3S- (methanesulfonate), TSP",'668',with Constraint,,,true,false
+"'IUPAC: formate, PubChem CID: 283, CAS Number: 71-47-6, in particle phase'@en","CHO2- (HCOO-, formate)",'669',,,,true,false
+''@en,"Carbonaceous-organic material, PM10",'670',with Constraint,,,true,false
+''@en,"Carbonaceous-organic material, fine",'671',with Constraint,,,true,false
+"'IUPAC: titanium, PubChem CID: 23963, CAS Number: 7440-32-6, in particle phase, TSP'@en","Ti (titanium), TSP",'672',with Constraint,,,true,false
+"'IUPAC: aluminium, PubChem CID: 5359268, CAS Number: 7429-90-5, in particle phase, PM2.5'@en","Al (aluminium), PM2.5",'673',with Constraint,,,true,false
+"'IUPAC: aluminium, PubChem CID: 5359268, CAS Number: 7429-90-5, in particle phase, TSP'@en","Al (aluminium), TSP",'674',with Constraint,,,true,false
+"'IUPAC: antimony, PubChem CID: 5354495, CAS Number: 7440-36-0, in particle phase, PM2.5'@en","Sb (antimony), PM2.5",'675',with Constraint,,,true,false
+"'IUPAC: antimony, PubChem CID: 5354495, CAS Number: 7440-36-0, in particle phase, TSP'@en","Sb (antimony), TSP",'676',with Constraint,,,true,false
+"'IUPAC: arsenic, PubChem CID: 5359596, CAS Number: 7440-38-2, in particle phase, PM10'@en","As (arsenic), PM10",'677',with Constraint,,,true,false
+"'IUPAC: arsenic, PubChem CID: 5359596, CAS Number: 7440-38-2, in particle phase, TSP'@en","As (arsenic), TSP",'678',with Constraint,,,true,false
+"'IUPAC: barium, PubChem CID: 5355457, CAS Number: 7440-39-3, in particle phase, PM2.5'@en","Ba (barium), PM2.5",'679',with Constraint,,,true,false
+"'IUPAC: barium, PubChem CID: 5355457, CAS Number: 7440-39-3, in particle phase, TSP'@en","Ba (barium), TSP",'680',with Constraint,,,true,false
+"'IUPAC: bismuth, PubChem CID: 5359367, CAS Number: 7440-69-9, in particle phase, PM2.5'@en","Bi (bismuth), PM2.5",'681',with Constraint,,,true,false
+"'IUPAC: bismuth, PubChem CID: 5359367, CAS Number: 7440-69-9, in particle phase, TSP'@en","Bi (bismuth), TSP",'682',with Constraint,,,true,false
+"'IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM1'@en","Cd (cadmium), PM1",'683',with Constraint,,,true,false
+"'IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM10'@en","Cd (cadmium), PM10",'684',with Constraint,,,true,false
+"'IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM2.5'@en","Cd (cadmium), PM2.5",'685',with Constraint,,,true,false
+"'IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, PM2.5 - PM10'@en","Cd (cadmium), PM2.5 - PM10",'686',with Constraint,,,true,false
+"'IUPAC: cadmium, PubChem CID: 23973, CAS Number: 7440-43-9, in particle phase, TSP'@en","Cd (cadmium), TSP",'687',with Constraint,,,true,false
+"'IUPAC: cerium, PubChem CID: 23974, CAS Number: 7440-45-1, in particle phase, PM2.5'@en","Ce (cerium), PM2.5",'688',with Constraint,,,true,false
+"'IUPAC: cerium, PubChem CID: 23974, CAS Number: 7440-45-1, in particle phase, TSP'@en","Ce (cerium), TSP",'689',with Constraint,,,true,false
+"'IUPAC: chromium, PubChem CID: 23976, CAS Number: 7440-47-3, in particle phase, TSP'@en","Cr (chromium), TSP",'690',with Constraint,,,true,false
+"'IUPAC: cobalt, PubChem CID: 104730, CAS Number: 7440-48-4, in particle phase, TSP'@en","Co (cobalt), TSP",'691',with Constraint,,,true,false
+"'IUPAC: copper, PubChem CID: 23978, CAS Number: 7440-50-8, in particle phase, PM10'@en","Cu (copper), PM10",'692',with Constraint,,,true,false
+"'IUPAC: copper, PubChem CID: 23978, CAS Number: 7440-50-8, in particle phase, TSP'@en","Cu (copper), TSP",'693',with Constraint,,,true,false
+"'IUPAC: iron, PubChem CID: 23925, CAS Number: 7439-89-6, in particle phase, TSP'@en","Fe (iron), TSP",'694',with Constraint,,,true,false
+"'IUPAC: lanthanum, PubChem CID: 23926, CAS Number: 7439-91-0, in particle phase, PM2.5'@en","La (lanthanum), PM2.5",'695',with Constraint,,,true,false
+"'IUPAC: lanthanum, PubChem CID: 23926, CAS Number: 7439-91-0, in particle phase, TSP'@en","La (lanthanum), TSP",'696',with Constraint,,,true,false
+"'IUPAC: lead, PubChem CID: 5352425, CAS Number: 7439-92-1, in particle phase, PM10'@en","Pb (lead), PM10",'697',with Constraint,,,true,false
+"'IUPAC: lead, PubChem CID: 5352425, CAS Number: 7439-92-1, in particle phase, TSP'@en","Pb (lead), TSP",'698',with Constraint,,,true,false
+"'IUPAC: lithium, PubChem CID: 3028194, CAS Number: 7439-93-2, in particle phase, PM2.5'@en","Li (lithium), PM2.5",'699',with Constraint,,,true,false
+"'IUPAC: lithium, PubChem CID: 3028194, CAS Number: 7439-93-2, in particle phase, TSP'@en","Li (lithium), TSP",'700',with Constraint,,,true,false
+"'IUPAC: manganese, PubChem CID: 23930, CAS Number: 7439-96-5, in particle phase, PM10'@en","Mn (manganese), PM10",'701',with Constraint,,,true,false
+"'IUPAC: manganese, PubChem CID: 23930, CAS Number: 7439-96-5, in particle phase, TSP'@en","Mn (manganese), TSP",'702',with Constraint,,,true,false
+"'IUPAC: mercury, PubChem CID: 23931, CAS Number: 7439-97-6, in particle phase, TSP'@en","Hg (mercury), TSP",'703',with Constraint,,,true,false
+"'IUPAC: nickel, PubChem CID: 935, CAS Number: 7440-02-0, in particle phase, PM10'@en","Ni (nickel), PM10",'704',with Constraint,,,true,false
+"'IUPAC: nickel, PubChem CID: 935, CAS Number: 7440-02-0, in particle phase, TSP'@en","Ni (nickel), TSP",'705',with Constraint,,,true,false
+"'IUPAC: phosphorus, PubChem CID: 5462309, CAS Number: 7723-14-0, in particle phase, PM2.5'@en","P (phosphorous), PM2.5",'706',with Constraint,,,true,false
+"'IUPAC: phosphorus, PubChem CID: 5462309, CAS Number: 7723-14-0, in particle phase, TSP'@en","P (phosphorous), TSP",'707',with Constraint,,,true,false
+"'IUPAC: rubidium, PubChem CID: 5357696, CAS Number: 7440-17-7, in particle phase, PM2.5'@en","Rb (rubidium), PM2.5",'708',with Constraint,,,true,false
+"'IUPAC: rubidium, PubChem CID: 5357696, CAS Number: 7440-17-7, in particle phase, TSP'@en","Rb (rubidium), TSP",'709',with Constraint,,,true,false
+"'IUPAC: selenium, PubChem CID: 6326970, CAS Number: 7782-49-2, in particle phase, TSP'@en","Se (selenium), TSP",'710',with Constraint,,,true,false
+"'IUPAC: strontium, PubChem CID: 5359327, CAS Number: 7440-24-6, in particle phase, PM2.5'@en","Sr (strontium), PM2.5",'711',with Constraint,,,true,false
+"'IUPAC: strontium, PubChem CID: 5359327, CAS Number: 7440-24-6, in particle phase, TSP'@en","Sr (strontium), TSP",'712',with Constraint,,,true,false
+"'IUPAC: thallium, PubChem CID: 5359464, CAS Number: 7440-28-0, in particle phase, PM2.5'@en","Tl (thallium), PM2.5",'713',with Constraint,,,true,false
+"'IUPAC: thallium, PubChem CID: 5359464, CAS Number: 7440-28-0, in particle phase, TSP'@en","Tl (thallium), TSP",'714',with Constraint,,,true,false
+"'IUPAC: thorium, PubChem CID: 23960, CAS Number: 7440-29-1, in particle phase, PM2.5'@en","Th (thorium), PM2.5",'715',with Constraint,,,true,false
+"'IUPAC: thorium, PubChem CID: 23960, CAS Number: 7440-29-1, in particle phase, TSP'@en","Th (thorium), TSP",'716',with Constraint,,,true,false
+"'IUPAC: tin, PubChem CID: 5352426, CAS Number: 7440-31-5, in particle phase, PM2.5'@en","Sn (tin), PM2.5",'717',with Constraint,,,true,false
+"'IUPAC: tin, PubChem CID: 5352426, CAS Number: 7440-31-5, in particle phase, TSP'@en","Sn (tin), TSP",'718',with Constraint,,,true,false
+"'IUPAC: uranium, PubChem CID: 23989, CAS Number: 7440-61-1, in particle phase, PM2.5'@en","U (uranium), PM2.5",'719',with Constraint,,,true,false
+"'IUPAC: uranium, PubChem CID: 23989, CAS Number: 7440-61-1, in particle phase, TSP'@en","U (uranium), TSP",'720',with Constraint,,,true,false
+"'IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in particle phase, PM2.5'@en","V (vanadium), PM2.5",'721',with Constraint,,,true,false
+"'IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in particle phase, TSP'@en","V (vanadium), TSP",'722',with Constraint,,,true,false
+"'IUPAC: zinc, PubChem CID: 23994, CAS Number: 7440-66-6, in particle phase, PM2.5'@en","Zn (zinc), PM2.5",'723',with Constraint,,,true,false
+"'IUPAC: zinc, PubChem CID: 23994, CAS Number: 7440-66-6, in particle phase, TSP'@en","Zn (zinc), TSP",'724',with Constraint,,,true,false

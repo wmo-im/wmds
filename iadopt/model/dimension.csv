@@ -1,0 +1,13 @@
+id,dimension,symbol,level,SI unit
+1,mass,m,primary,kg
+2,length,L,primary,m
+3,time,t,primary,s
+4,temperature,T,primary,K
+5,electric current,I,primary,A
+6,amount of light (luminous intensity),C,primary,c
+7,amount of matter,n,primary,mol
+8,force,F,secondary,N=kg.m.s-2
+9,acceleration,a,secondary,m.s-2
+10,pressure,p,secondary,N.m-2
+11,energy,E,secondary,J=N.m
+12,power,P,secondary,W=J.s-1

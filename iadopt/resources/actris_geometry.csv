@@ -1,0 +1,75 @@
+subject,predicate,object
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumnpartialintegral
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#topConceptOf,https://vocabulary.actris.nilu.no/actris_vocab/
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumntotalintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumntotalintegral,http://www.w3.org/2004/02/skos/core#prefLabel,atmospheric column total integral
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#exactMatch,https://codes.wmo.int/wmdr/_Geometry
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumntotalintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantprofile
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/columntotalintegral
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/troposphericverticalprofile
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumnpartialintegral
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericcolumnintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericcolumnintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/pointmeasurement
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/stratosphericcolumnintegral
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantprofile,http://www.w3.org/2004/02/skos/core#prefLabel,atmospheric slant profile
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericcolumnintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumntotalintegral,http://www.w3.org/2004/02/skos/core#prefLabel,atmospheric slant column total integral
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/columnpartialintegral
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/troposphericcolumnintegral
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/atmosphericverticalprofile
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#ConceptScheme
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumntotalintegral
+https://vocabulary.actris.nilu.no/actris_vocab/columntotalintegral,http://www.w3.org/2004/02/skos/core#prefLabel,column total integral
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericverticalprofile,http://www.w3.org/2004/02/skos/core#prefLabel,atmospheric vertical profile
+https://vocabulary.actris.nilu.no/actris_vocab/columnpartialintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericverticalprofile,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/columnpartialintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://purl.org/dc/terms/creator,https://orcid.org/0000-0002-3380-3470
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/troposphericslantprofile
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericcolumnintegral,http://www.w3.org/2004/02/skos/core#prefLabel,stratospheric column integral
+https://vocabulary.actris.nilu.no/actris_vocab/columntotalintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/columnprofile
+https://vocabulary.actris.nilu.no/actris_vocab/columnprofile,http://www.w3.org/2004/02/skos/core#prefLabel,column profile
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericslantprofile,http://www.w3.org/2004/02/skos/core#prefLabel,tropospheric slant profile
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumntotalintegral
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericverticalprofile,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumnpartialintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericslantprofile,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#inScheme,https://vocabulary.actris.nilu.no/actris_vocab/
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumnpartialintegral,http://www.w3.org/2004/02/skos/core#prefLabel,atmospheric slant column partial integral
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumnpartialintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericcolumnintegral,http://www.w3.org/2004/02/skos/core#prefLabel,tropospheric column integral
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericverticalprofile,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericslantprofile,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/columnpartialintegral,http://www.w3.org/2004/02/skos/core#prefLabel,column partial integral
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericverticalprofile,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericslantprofile,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericverticalprofile,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantprofile,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantprofile,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericslantprofile,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/stratosphericslantprofile
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumntotalintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericcolumnintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/columnprofile,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericslantprofile,http://www.w3.org/2004/02/skos/core#prefLabel,stratospheric slant profile
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/stratosphericverticalprofile
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumntotalintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericcolumnpartialintegral,http://www.w3.org/2004/02/skos/core#prefLabel,atmospheric column partial integral
+https://vocabulary.actris.nilu.no/actris_vocab/columnprofile,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumnpartialintegral,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericverticalprofile,http://www.w3.org/2004/02/skos/core#prefLabel,tropospheric vertical profile
+https://vocabulary.actris.nilu.no/actris_vocab/atmosphericslantcolumnpartialintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/pointmeasurement,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/columntotalintegral,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/troposphericverticalprofile,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#hasTopConcept,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/pointmeasurement,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry
+https://vocabulary.actris.nilu.no/actris_vocab/pointmeasurement,http://www.w3.org/2004/02/skos/core#prefLabel,point measurement
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#prefLabel,ACTRIS vocabulary
+https://vocabulary.actris.nilu.no/actris_vocab/stratosphericverticalprofile,http://www.w3.org/2004/02/skos/core#prefLabel,stratospheric vertical profile
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#prefLabel,variable geometry
+https://vocabulary.actris.nilu.no/actris_vocab/variablegeometry,http://www.w3.org/2004/02/skos/core#definition,Description of form and location of the sample volume represented by a variable.

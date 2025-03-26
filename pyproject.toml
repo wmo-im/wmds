@@ -1,0 +1,21 @@
+[project]
+name = "iadopt"
+version = "0.1.0"
+description = "transform existing WMDR.ObservedVariablesX into I-ADOPT.Variables"
+authors = [
+    {name = "Jörg Klausen",email = "jorg.klausen@meteoswiss.ch"}
+]
+license = {text = "CC BY 4.0"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "requests (>=2.32.3,<3.0.0)",
+    "polars (>=1.26.0,<2.0.0)",
+    "ipykernel (>=6.29.5,<7.0.0)",
+    "rdflib ()",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

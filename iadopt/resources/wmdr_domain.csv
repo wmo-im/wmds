@@ -1,0 +1,8 @@
+@id,dct:description,rdf:type,rdfs:label,skos:notation
+<http://codes.wmo.int/wmdr/Domain/atmosphere>,'Spatial extent from the Earth surface towards but excluding space.'@en,skos:Concept,Atmosphere,atmosphere
+<http://codes.wmo.int/wmdr/Domain/cryosphere>,"'A component of the Earth system that contains ice, including solid precipitation, snow, glaciers and ice caps, ice sheets, ice shelves, icebergs, sea ice, lake ice, river ice, permafrost, and seasonally frozen ground, or even \'dry\' material in the case of permafrost. The cryosphere includes elements on or beneath the Earth\'s surface or that are measured at the surface in the case of solid precipitation. It therefore excludes ice clouds [and other atmospheric particles]. [Technical Regulations (WMO-No. 49), Vol 1]'@en",skos:Concept,Cryosphere,cryosphere
+<http://codes.wmo.int/wmdr/Domain/hydrological>,"'Non-saline, non-atmosphere, non-cryosphere part of the hydrosphere, including lakes, rivers, groundwater.'@en",skos:Concept,Hydrological,hydrological
+<http://codes.wmo.int/wmdr/Domain/ocean>,"'Continuous saline, non-cryosphere part of the hydrosphere.'@en",skos:Concept,Ocean or Sea,ocean
+<http://codes.wmo.int/wmdr/Domain/solidEarth>,'Spatial extent of the Earth from the solid surface inwards.'@en,skos:Concept,Solid Earth,solidEarth
+<http://codes.wmo.int/wmdr/Domain/space>,'Spatial extent above the atmosphere around Earth above the Karman line at 100 km altitude.'@en,skos:Concept,Space,space
+<http://codes.wmo.int/wmdr/Domain/terrestrial>,"'Spatial extent comprised of land masses, normally not covered by the ocean or other water bodies and excluding cryosphere.'@en",skos:Concept,Terrestrial,terrestrial
