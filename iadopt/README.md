@@ -22,8 +22,8 @@ Work in progress to convert the so-called 'ObservedVariableX' WMDR codelists (X 
 3. Open atmosphere.ipynb and run the cells.
 
 # Work ahead [TODO]
-NB: The 'temp' folder contains 'wmdr2_property.csv' and 'wmdr2_object_of_interest.csv' files. These are auto-generated and should not be touched.
+NB: The 'autogen' folder contains 'wmdr2_property.csv' and 'wmdr2_object_of_interest.csv' files. These are auto-generated and should not be touched.
 1. When an improved 'mappings/WMDR_Observed...' file becomes available, this can be used to improve above 2 files.
-2. The idea is to create these 2 files (and 'wmdr2_matrix.csv' etc) under 'wmdr2', and use a vocabulary builder application (to be written) to mint proper names from the buildings blocks provided by the I-ADOPT ontology.
+2. The idea is to create these 2 files (and 'wmdr2_matrix.csv' etc) under 'wmdr2-candiates', and use the vocabulary builder application (vocabulary-builder.html) to mint proper names from the buildings blocks provided by the I-ADOPT ontology.
 3. These terms should be mapped to the existing notations in the ObervedVariableX lists to pave the way for migration.
-4. ...
+NB: The wmdr2_property.csv and wmdr2_object_of_interest.csv files are manually curated.

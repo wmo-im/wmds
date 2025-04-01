@@ -1,206 +1,206 @@
 subject,predicate,object
-https://vocabulary.actris.nilu.no/actris_vocab/vapourpressure,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/pressure
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/conductivity
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/quantumyield
-https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/altitude
-https://vocabulary.actris.nilu.no/actris_vocab/humidity,http://www.w3.org/2004/02/skos/core#prefLabel,humidity
-https://vocabulary.actris.nilu.no/actris_vocab/classification,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterÅngströmexponent
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart
-https://vocabulary.actris.nilu.no/actris_vocab/pressure,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/conductivity,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light extinction coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/radiance,http://www.w3.org/2004/02/skos/core#prefLabel,radiance
-https://vocabulary.actris.nilu.no/actris_vocab/altitude,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massconcentration
-https://vocabulary.actris.nilu.no/actris_vocab/humidity,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/altitude,http://www.w3.org/2004/02/skos/core#prefLabel,altitude
-https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/massconcentration,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#hasTopConcept,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterÅngströmexponent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo
-https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/vapourpressure,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/radiance,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart,http://www.w3.org/2004/02/skos/core#prefLabel,refractive index real part
-https://vocabulary.actris.nilu.no/actris_vocab/conductivity,http://www.w3.org/2004/02/skos/core#prefLabel,conductivity
-https://vocabulary.actris.nilu.no/actris_vocab/volumefraction,http://www.w3.org/2004/02/skos/core#prefLabel,volume fraction
-https://vocabulary.actris.nilu.no/actris_vocab/massfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/quantumyield,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth,http://www.w3.org/2004/02/skos/core#prefLabel,optical depth
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/humidity
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency,http://www.w3.org/2004/02/skos/core#prefLabel,photolysis frequency
-https://vocabulary.actris.nilu.no/actris_vocab/areafraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://purl.org/dc/terms/creator,https://orcid.org/0000-0002-3380-3470
-https://vocabulary.actris.nilu.no/actris_vocab/temperature,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterÅngströmexponent,http://www.w3.org/2004/02/skos/core#prefLabel,light backscatter Ångström exponent
-https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution,http://www.w3.org/2004/02/skos/core#prefLabel,number size distribution
-https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/humidity,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/equivolumetricmediandiameter,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/volumefraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio
-https://vocabulary.actris.nilu.no/actris_vocab/amountfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#inScheme,https://vocabulary.actris.nilu.no/actris_vocab/
-https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield
-https://vocabulary.actris.nilu.no/actris_vocab/altitude,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/velocity
-https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction,http://www.w3.org/2004/02/skos/core#prefLabel,saturation fraction
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/massflux,http://www.w3.org/2004/02/skos/core#prefLabel,mass flux
-https://vocabulary.actris.nilu.no/actris_vocab/massconcentration,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/vapourpressure
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light backscatter coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massfraction
-https://vocabulary.actris.nilu.no/actris_vocab/quantumyield,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent,http://www.w3.org/2004/02/skos/core#prefLabel,light extinction Ångström exponent
-https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent,http://www.w3.org/2004/02/skos/core#prefLabel,column molecular content
-https://vocabulary.actris.nilu.no/actris_vocab/radiance,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration,http://www.w3.org/2004/02/skos/core#prefLabel,particle surface area concentration
-https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal,http://www.w3.org/2004/02/skos/core#prefLabel,attenuated backscattered lidar signal
-https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius,http://www.w3.org/2004/02/skos/core#prefLabel,effective radius
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration
-https://vocabulary.actris.nilu.no/actris_vocab/height,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/quantumyield,http://www.w3.org/2004/02/skos/core#prefLabel,quantum yield
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/temperature,http://www.w3.org/2004/02/skos/core#prefLabel,temperature
-https://vocabulary.actris.nilu.no/actris_vocab/equivolumetricmediandiameter,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/growthfactor
-https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/massfraction,http://www.w3.org/2004/02/skos/core#prefLabel,mass fraction
-https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo,http://www.w3.org/2004/02/skos/core#prefLabel,single scattering albedo
-https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,mass absorption coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius
-https://vocabulary.actris.nilu.no/actris_vocab/growthfactor,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/massconcentration,http://www.w3.org/2004/02/skos/core#prefLabel,mass concentration
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart
-https://vocabulary.actris.nilu.no/actris_vocab/velocity,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/areafraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#prefLabel,variable property of interest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#topConceptOf,https://vocabulary.actris.nilu.no/actris_vocab/
-https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction,http://www.w3.org/2004/02/skos/core#prefLabel,spherical fraction
-https://vocabulary.actris.nilu.no/actris_vocab/pressure,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/conductivity,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/growthfactor,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/temperature
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo,http://www.w3.org/2004/02/skos/core#prefLabel,single scatering albedo
-https://vocabulary.actris.nilu.no/actris_vocab/height,http://www.w3.org/2004/02/skos/core#prefLabel,height
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo
-https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/massflux,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent
-https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield,http://www.w3.org/2004/02/skos/core#prefLabel,secondary organic aerosol particle yield
-https://vocabulary.actris.nilu.no/actris_vocab/velocity,http://www.w3.org/2004/02/skos/core#prefLabel,velocity
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/areafraction
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#ConceptScheme
-https://vocabulary.actris.nilu.no/actris_vocab/amountfraction,http://www.w3.org/2004/02/skos/core#prefLabel,amount fraction
-https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent,http://www.w3.org/2004/02/skos/core#prefLabel,column mass content
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/volumefraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,mass extinction coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/height,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart,http://www.w3.org/2004/02/skos/core#prefLabel,refractive index imaginary part
-https://vocabulary.actris.nilu.no/actris_vocab/massfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/classification,http://www.w3.org/2004/02/skos/core#prefLabel,classification
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth
-https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration,http://www.w3.org/2004/02/skos/core#prefLabel,number concentration
-https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/amountfraction
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#exactMatch,https://w3id.org/iadopt/ont/Property
-https://vocabulary.actris.nilu.no/actris_vocab/pressure,http://www.w3.org/2004/02/skos/core#prefLabel,pressure
-https://vocabulary.actris.nilu.no/actris_vocab/amountfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/classification
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio,http://www.w3.org/2004/02/skos/core#prefLabel,light extinction to backscatter ratio
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/temperature,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex
-https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate,http://www.w3.org/2004/02/skos/core#prefLabel,dissipation rate
-https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/velocity,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/classification,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/massflux,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient
-https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light hemispheric backscatter coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction
-https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex,http://www.w3.org/2004/02/skos/core#prefLabel,refractive index
-https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light absorption coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/height
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/equivolumetricmediandiameter
-https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massflux
-https://vocabulary.actris.nilu.no/actris_vocab/areafraction,http://www.w3.org/2004/02/skos/core#prefLabel,area fraction
-https://vocabulary.actris.nilu.no/actris_vocab/growthfactor,http://www.w3.org/2004/02/skos/core#prefLabel,growth factor
-https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light scattering coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
-https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#prefLabel,ACTRIS vocabulary
-https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,mass scattering coefficient
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal
-https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
-https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio,http://www.w3.org/2004/02/skos/core#prefLabel,light backscatter linear depolarization ratio
 https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterÅngströmexponent,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/amountfraction
+https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light scattering coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/temperature
+https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/massfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/massfraction,http://www.w3.org/2004/02/skos/core#prefLabel,mass fraction
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/growthfactor,http://www.w3.org/2004/02/skos/core#prefLabel,growth factor
+https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction
+https://vocabulary.actris.nilu.no/actris_vocab/massconcentration,http://www.w3.org/2004/02/skos/core#prefLabel,mass concentration
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/amountfraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/amountfraction,http://www.w3.org/2004/02/skos/core#prefLabel,amount fraction
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent
+https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent,http://www.w3.org/2004/02/skos/core#prefLabel,column molecular content
+https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,mass scattering coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/vapourpressure,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal,http://www.w3.org/2004/02/skos/core#prefLabel,attenuated backscattered lidar signal
+https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/height,http://www.w3.org/2004/02/skos/core#prefLabel,height
+https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution,http://www.w3.org/2004/02/skos/core#prefLabel,number size distribution
+https://vocabulary.actris.nilu.no/actris_vocab/massflux,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light extinction coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/classification,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth,http://www.w3.org/2004/02/skos/core#prefLabel,optical depth
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterÅngströmexponent,http://www.w3.org/2004/02/skos/core#prefLabel,light backscatter Ångström exponent
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://purl.org/dc/terms/creator,https://orcid.org/0000-0002-3380-3470
+https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterÅngströmexponent
+https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/classification,http://www.w3.org/2004/02/skos/core#prefLabel,classification
+https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo,http://www.w3.org/2004/02/skos/core#prefLabel,single scattering albedo
+https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration,http://www.w3.org/2004/02/skos/core#prefLabel,number concentration
+https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart,http://www.w3.org/2004/02/skos/core#prefLabel,refractive index real part
+https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light hemispheric backscatter coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/temperature,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/quantumyield
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent
+https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#prefLabel,ACTRIS vocabulary
+https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield,http://www.w3.org/2004/02/skos/core#prefLabel,secondary organic aerosol particle yield
+https://vocabulary.actris.nilu.no/actris_vocab/vapourpressure,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/amountfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/quantumyield,http://www.w3.org/2004/02/skos/core#prefLabel,quantum yield
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light backscatter coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/velocity,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/massconcentration,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo,http://www.w3.org/2004/02/skos/core#prefLabel,single scatering albedo
+https://vocabulary.actris.nilu.no/actris_vocab/temperature,http://www.w3.org/2004/02/skos/core#prefLabel,temperature
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/sphericalfraction,http://www.w3.org/2004/02/skos/core#prefLabel,spherical fraction
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/temperature,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration
+https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/growthfactor,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/volumefraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/classification
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/pressure
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
 https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/radiance
+https://vocabulary.actris.nilu.no/actris_vocab/volumefraction,http://www.w3.org/2004/02/skos/core#prefLabel,volume fraction
+https://vocabulary.actris.nilu.no/actris_vocab/areafraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency,http://www.w3.org/2004/02/skos/core#prefLabel,photolysis frequency
+https://vocabulary.actris.nilu.no/actris_vocab/massfraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/equivolumetricmediandiameter
+https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction,http://www.w3.org/2004/02/skos/core#prefLabel,saturation fraction
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/massconcentration,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius,http://www.w3.org/2004/02/skos/core#prefLabel,effective radius
 https://vocabulary.actris.nilu.no/actris_vocab/vapourpressure,http://www.w3.org/2004/02/skos/core#prefLabel,vapour pressure
-https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/volumefraction
+https://vocabulary.actris.nilu.no/actris_vocab/altitude,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/height,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctionÅngströmexponent,http://www.w3.org/2004/02/skos/core#prefLabel,light extinction Ångström exponent
+https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/humidity,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massconcentration
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo
+https://vocabulary.actris.nilu.no/actris_vocab/radiance,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/conductivity
+https://vocabulary.actris.nilu.no/actris_vocab/quantumyield,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/refractiveindexrealpart
+https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/conductivity,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/altitude
+https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,mass absorption coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/saturationfraction
+https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,light absorption coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/numberconcentration,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius
 https://vocabulary.actris.nilu.no/actris_vocab/equivolumetricmediandiameter,http://www.w3.org/2004/02/skos/core#prefLabel,equivolumetric median diameter
+https://vocabulary.actris.nilu.no/actris_vocab/altitude,http://www.w3.org/2004/02/skos/core#prefLabel,altitude
+https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/humidity,http://www.w3.org/2004/02/skos/core#prefLabel,humidity
+https://vocabulary.actris.nilu.no/actris_vocab/altitude,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent,http://www.w3.org/2004/02/skos/core#prefLabel,column mass content
+https://vocabulary.actris.nilu.no/actris_vocab/height,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart
+https://vocabulary.actris.nilu.no/actris_vocab/pressure,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#inScheme,https://vocabulary.actris.nilu.no/actris_vocab/
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio,http://www.w3.org/2004/02/skos/core#prefLabel,light backscatter linear depolarization ratio
+https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/columnmolecularcontent,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/photolysisfrequency,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/massflux,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/columnmasscontent
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio,http://www.w3.org/2004/02/skos/core#prefLabel,light extinction to backscatter ratio
+https://vocabulary.actris.nilu.no/actris_vocab/areafraction,http://www.w3.org/2004/02/skos/core#prefLabel,area fraction
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massabsorptioncoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/conductivity,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#topConceptOf,https://vocabulary.actris.nilu.no/actris_vocab/
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massflux
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/height
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massscatteringcoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/velocity,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/humidity
+https://vocabulary.actris.nilu.no/actris_vocab/humidity,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/radiance,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/lightabsorptioncoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/numbersizedistribution
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/volumefraction
+https://vocabulary.actris.nilu.no/actris_vocab/massextinctioncoefficient,http://www.w3.org/2004/02/skos/core#prefLabel,mass extinction coefficient
+https://vocabulary.actris.nilu.no/actris_vocab/pressure,http://www.w3.org/2004/02/skos/core#prefLabel,pressure
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#ConceptScheme
+https://vocabulary.actris.nilu.no/actris_vocab/singlescatteringalbedo,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/velocity
+https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/massfraction
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/areafraction
+https://vocabulary.actris.nilu.no/actris_vocab/radiance,http://www.w3.org/2004/02/skos/core#prefLabel,radiance
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/secondaryorganicaerosolparticleyield
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/vapourpressure
+https://vocabulary.actris.nilu.no/actris_vocab/equivolumetricmediandiameter,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindex,http://www.w3.org/2004/02/skos/core#prefLabel,refractive index
+https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate,http://www.w3.org/2004/02/skos/core#prefLabel,dissipation rate
+https://vocabulary.actris.nilu.no/actris_vocab/effectiveradius,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/singlescateringalbedo
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterÅngströmexponent,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/areafraction,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscatterlineardepolarizationratio,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/particlesurfaceareaconcentration,http://www.w3.org/2004/02/skos/core#prefLabel,particle surface area concentration
+https://vocabulary.actris.nilu.no/actris_vocab/pressure,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate
+https://vocabulary.actris.nilu.no/actris_vocab/lightbackscattercoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/massflux,http://www.w3.org/2004/02/skos/core#prefLabel,mass flux
+https://vocabulary.actris.nilu.no/actris_vocab/refractiveindeximaginarypart,http://www.w3.org/2004/02/skos/core#prefLabel,refractive index imaginary part
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/opticaldepth
+https://vocabulary.actris.nilu.no/actris_vocab/,http://www.w3.org/2004/02/skos/core#hasTopConcept,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/equivolumetricmediandiameter,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/velocity,http://www.w3.org/2004/02/skos/core#prefLabel,velocity
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/growthfactor
+https://vocabulary.actris.nilu.no/actris_vocab/dissipationrate,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/attenuatedbackscatteredlidarsignal,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/lighthemisphericbackscattercoefficient,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/conductivity,http://www.w3.org/2004/02/skos/core#prefLabel,conductivity
+https://vocabulary.actris.nilu.no/actris_vocab/growthfactor,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightextinctioncoefficient
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#prefLabel,variable property of interest
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#narrower,https://vocabulary.actris.nilu.no/actris_vocab/lightextinctiontobackscatterratio
+https://vocabulary.actris.nilu.no/actris_vocab/quantumyield,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
+https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest,http://www.w3.org/2004/02/skos/core#exactMatch,https://w3id.org/iadopt/ont/Property
+https://vocabulary.actris.nilu.no/actris_vocab/volumefraction,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/classification,http://www.w3.org/2004/02/skos/core#broader,https://vocabulary.actris.nilu.no/actris_vocab/variablepropertyofinterest
+https://vocabulary.actris.nilu.no/actris_vocab/lightscatteringcoefficient,http://www.w3.org/1999/02/22-rdf-syntax-ns#type,http://www.w3.org/2004/02/skos/core#Concept
