@@ -54,7 +54,7 @@ number concentration, L-3, m-3, quantity,
 number size distribution (dN/dlogDp), L-3, m-3, quantity, 
 optical depth, , 1, quantity, absorption
 partial pressure, M.L-1.t-2, Pa, quantity, 
-particle optical hygroscopic growth factor, , m-1.m, ratio, absorption, scattering, extinction
+particle optical hygroscopic growth factor, , m-1.m, ratio, absorption/scattering/extinction
 particle size hygroscopic growth factor, , 1, ratio, 
 particle surface area concentration, L2.L3, m2.m-3, quantity, 
 particulate oxidation state, , 1, ratio, 
