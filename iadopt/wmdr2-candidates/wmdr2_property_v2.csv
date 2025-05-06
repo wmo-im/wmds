@@ -62,6 +62,7 @@ pH, , 1, quantity,
 photolysis frequency, t-1, s-1, quantity, 
 polarity, I.t.L, C.m, quantity, 
 Polarized scattering Phase Function, , 1, quantity, 
+Potential Temperature, T, K, quantity, virtual/liquid water/equivalent
 pressure, M.L-1.t-2, Pa, quantity, 
 quantum yield, , 1, ratio, 
 radiance, M.t-3, W.sr-1.m-2, quantity, 
