@@ -3,7 +3,7 @@ absorption coefficient, L-1, m-1, quantity,
 altitude, L, m, quantity, 
 amount flux, N.L-2.t-1, mol.m-2.s-1, rate, 
 amount fraction, , mol.mol-1, ratio, 
-angstrom exponent, , 1, quantity, absorption, scattering, extinction, OD, backscatter
+angstrom exponent, , 1, quantity, absorption/scattering/extinction/OD/backscatter
 area fraction, , m2.m-2, ratio, 
 Asymmetry Parameter, , 1, quantity, 
 backscatter coefficient, L-1, m-1, quantity, 
