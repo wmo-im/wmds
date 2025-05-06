@@ -12,7 +12,7 @@ bidirectional reflectance, , 1, quantity,
 Brightness temperature, T, K, quantity, 
 classification, , 1, classification, 
 Coating Thickness, L, m, quantity, 
-convective velocity scale, , 1, quantity
+convective velocity scale, , 1, quantity,
 d13C, , percent, ratio, 
 d14C, , percent, ratio, 
 d18O, , percent, ratio, 
