@@ -6,7 +6,7 @@ amount fraction, , mol.mol-1, ratio,
 angstrom exponent, , 1, quantity, absorption/scattering/extinction/OD/backscatter
 area fraction, , m2.m-2, ratio, 
 Asymmetry Parameter, , 1, quantity, 
-backscatter coefficient, L-1, m-1, quantity, 
+backscatter coefficient, L-1, m-1, quantity, hemispheric
 backscatter linear depolarization ratio, , 1, ratio, 
 bidirectional reflectance, , 1, quantity, 
 Brightness temperature, T, K, quantity, 
@@ -29,7 +29,7 @@ emissivity, , 1, quantity,
 equivolumetric median diameter, L, m, quantity, 
 extinction coefficient, L-1, m-1, quantity, 
 extinction to backscatter ratio (lidar ratio), , 1, ratio, 
-forward scattering coefficient, L-1, m-1, quantity, 
+forward scattering coefficient, L-1, m-1, quantity, hemispheric
 frequency, t-1, s-1, count, 
 Friction velocity, L.t-1, m.s-1, quantity,
 heat flux, M.t-3, kg.s-3, rate, 
