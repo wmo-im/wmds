@@ -14,7 +14,7 @@ logging.getLogger(__name__).addHandler(logging.NullHandler())
 logger = logging.getLogger()
 
 
-TABLES_DIR = "./tables_en"
+TABLES_DIR = "./tables"
 
 header_tpl = Template("""@prefix dct:   <http://purl.org/dc/terms/> .
 @prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .

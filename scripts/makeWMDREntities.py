@@ -36,11 +36,11 @@ def main():
         shutil.rmtree(os.path.join(root_path, 'wmdr'))
     os.mkdir(os.path.join(root_path, 'wmdr'))
 
-    with open(os.path.join(root_path, 'tables_en', 'wmdr-tables.csv'), encoding='utf-8') as wmdrtables:
+    with open(os.path.join(root_path, 'tables', 'wmdr-tables.csv'), encoding='utf-8') as wmdrtables:
         reader = csv.reader(wmdrtables, delimiter=',', quotechar='"')
         for wmdrtable in reader:
             identifier = wmdrtable[2].split('/')[-1]
-            if not os.path.exists(os.path.join(root_path, 'tables_en', '{}.csv'.format(wmdrtable[0]))):
+            if not os.path.exists(os.path.join(root_path, 'tables', '{}.csv'.format(wmdrtable[0]))):
                 raise ValueError('WMDR Table {} missing from path'.format(wmdrtable[0]))
 
             with open(os.path.join(root_path, 'wmdr', '{}.ttl'.format(identifier)), 'w', encoding='utf-8') as ttlf:
@@ -49,7 +49,7 @@ def main():
             if not os.path.exists(os.path.join(root_path, 'wmdr', identifier)):
 
                 os.mkdir(os.path.join(root_path, 'wmdr', identifier))
-            with open(os.path.join(root_path, 'tables_en', '{}.csv'.format(wmdrtable[0])), encoding='utf-8') as wmdrentries:
+            with open(os.path.join(root_path, 'tables', '{}.csv'.format(wmdrtable[0])), encoding='utf-8') as wmdrentries:
                 wmdr_reader = csv.DictReader(wmdrentries)
                 for entry in wmdr_reader:
                     with open(os.path.join(root_path, 'wmdr', identifier, '{}.ttl'.format(entry['notation'])), 'w', encoding='utf-8') as entryfile:

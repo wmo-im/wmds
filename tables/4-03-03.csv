@@ -1,8 +1,14 @@
-﻿#,WMO306CD_efrs,QualityFlagSysURL_efrs,Path_e,Name_e,Definition_e,Path_f,Name_f,Definition_f,Path_s,Name_s,Definition_s,Path_r,Name_r,Definition_r
-4-03-03-1,inapplicable,,,Not applicable,None of the codes in the table are applicable in the context of this particular observation (nilReason),,Sans objet,Aucun des codes de la table ne s’applique dans le cadre de cette observation (nilReason),,No se aplica,No se aplica ninguna de las claves de la tabla de cifrado en el contexto de esta observación en particular (indicación NIL),,Неприменимо,Ни один из кодов таблицы неприменим в контексте данного конткретного наблюдения (nilReason) (информация отсутствует)
-4-03-03-2,plains,,,Plains,Very low relief,,Plaines,Très faible relief ,,Planicies,Relieve muy bajo,,Равнины,Очень низкий рельеф
-4-03-03-3,hollows,,,Hollows,"Low relief, tending to convergent form",,Creux,"Faible relief, tendant vers une forme convergente ",,Hondonadas,"Relieve bajo, con tendencia a adoptar una forma convergente",,Низины,"Низкий рельеф, с тенденцией к переходу в сходящуюся форму"
-4-03-03-4,rises,,,Rises,"Low relief, tending to divergent form",,Montées,"Faible relief, tendant vers une forme divergente ",,Emersiones,"Relieve bajo, con tendencia a adoptar una forma divergente",,Возвышенности,"Низкий рельеф, с тенденцией к переходу в расходящуюся форму"
-4-03-03-5,valleys,,,Valleys,"Medium relief, tending to convergent form",,Vallées,"Relief intermédiaire, tendant vers une forme convergente",,Valles,"Relieve medio, con tendencia a adoptar una forma convergente",,Долины,"Средний рельеф, с тенденцией к переходу в сходящуюся форму"
-4-03-03-6,hills,,,Hills,"Medium relief, tending to divergent form",,Collines,"Relief intermédiaire, tendant vers une forme divergente ",,Colinas,"Relieve medio, con tendencia a adoptar una forma divergente",,Холмы,"Средний рельеф, с тенденцией к переходу в расходящуюся форму"
-4-03-03-7,mountains,,,Mountains,High relief,,Montagnes,Relief accentué,,Montañas,Relieve alto,,Горы,Высокий рельеф
+notation,name,description
+basins,within basins,A depression of the sea floor more or less equidimensional in form and of very variable extent
+guyots,within guyots,An undersea mountain having a comparatively smooth flat top. Also called a table mount
+hills,within hills,"Medium relief (differences 250-1000 m within 5-10 km range) on land, tending to divergent form"
+hollows,within hollows,"Low relief (differences 30-250 m within 5-10 km range) on land, tending to convergent form"
+mountains,within mountains,High relief (differences > 1000 m within 5-10 km range) on land
+inapplicable,inapplicable,None of the codes in the table are applicable in the context of this particular station/platform.
+plains,within plains,Very low relief (differences <30 m within 5-10 km range) on land
+ridges,within ridges,"A long, narrow elevation with steep sides; or: A long, narrow elevation often separating ocean basins; or: The major oceanic mountain systems of global extent"
+rises,within rises,"Low relief (differences 30-250 m within 5-10 km range) on land, tending to divergent form"
+seaMounts,within sea mounts,An isolated or comparatively isolated elevation rising 1 000 meters or more from the sea floor and of limited extent across the summit
+trenches,within trenches,"A long, narrow and deep depression of the sea floor with relatively steep sides"
+valleys,within valleys,"Medium relief (differences 250-1000 m within 5-10 km range) on land, tending to convergent form"
+unknown,unknown,The topographic context is unknown.
