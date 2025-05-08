@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<WMOEssential> a skos:Concept ;
+	rdfs:label "WMOEssential" ;
+	skos:notation "WMOEssential" ;
+	dct:description "WMO Essential Data: free and unrestricted international exchange of basic data and products."@en	.

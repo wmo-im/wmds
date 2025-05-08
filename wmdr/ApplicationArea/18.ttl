@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<18> a skos:Concept ;
+	rdfs:label "3.2 Coastal Forecasting" ;
+	skos:notation "18" ;
+	dct:description "Coastal Forecasting encompasses the collection of observations that contribute to oceanographic forecasting systems spanning from the nearshore areas and estuarine entrances to the continental shelf and slope. These forecasting systems serve various purposes, such as issuing alerts for storm surges and coastal inundation, providing vital information for coastal and offshore industries, and supporting recreational activities in the coastal areas. Note: Coastal forecasts supporting maritime safety are included in AA3.6 Maritime Safety. Coastal flooding related to tsunamis are considered in AA 3.4."@en	.

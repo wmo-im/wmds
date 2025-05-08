@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<20> a skos:Concept ;
+	rdfs:label "3.4 Tsunami Monitoring and Detection" ;
+	skos:notation "20" ;
+	dct:description "Tsunami Monitoring and Detection refers to the systematic processes to detect and forecast tsunamis, assess their potential threat to the coasts, marinas and harbours and issue timely tsunami advisory information to the stakeholders. Data related to tsunamis are acquired with both high frequency and high precision. The essential elements for early detection include the real-time transmission of seismic data, sea-level observations, and GNSS (Global Navigation Satellite System) measurements, which together provide a critical foundation for the effective monitoring and early warning against tsunami threats."@en	.

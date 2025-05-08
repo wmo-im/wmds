@@ -5,4 +5,4 @@
 <12326> a skos:Concept ;
 	rdfs:label "Schumann Resonances" ;
 	skos:notation "12326" ;
-	dct:description "Extremely Low Frequency (ELF) magnetic and electric field of the three first resonance modes (8 Hz, 14 Hz, 20 Hz) of the Earth."@en	.
+	dct:description "Extremely Low Frequency (ELF) magnetic and electric field of the three first resonance modes of the Earth (approximately 8 Hz, 14 Hz, 20 Hz)."@en	.

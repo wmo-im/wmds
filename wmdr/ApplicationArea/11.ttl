@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<cryosphere> a skos:Concept ;
-	rdfs:label "Cryosphere" ;
-	skos:notation "cryosphere" ;
-	dct:description "EGOS-IP"@en	.
+<11> a skos:Concept ;
+	rdfs:label "5.2 Sea-Ice Forecasting and Monitoring" ;
+	skos:notation "11" ;
+	dct:description "Sea-Ice Forecasting and Monitoring"@en	.
