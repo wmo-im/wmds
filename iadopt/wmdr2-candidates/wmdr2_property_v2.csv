@@ -2,7 +2,7 @@ Property_Modified, Dimension, Nominal_SI_Unit, Category, Property_Constraints
 absorption coefficient, L-1, m-1, quantity, 
 altitude, L, m, quantity, 
 amount flux, N.L-2.t-1, mol.m-2.s-1, rate, 
-amount fraction, , mol.mol-1, ratio, 
+amount fraction, , mol.mol-1, ratio, dry air
 angstrom exponent, , 1, quantity, absorption/scattering/extinction/OD/backscatter
 area fraction, , m2.m-2, ratio, 
 Asymmetry Parameter, , 1, quantity, 
@@ -45,7 +45,7 @@ mass area density (column mass content), m.L-2, kg.m-2, quantity,
 mass concentration, M.L-3, kg.m-3, quantity, 
 mass extinction coefficient, L-1.M-1, m-1.kg-1, quantity, 
 mass flux, M.L-2.t-1, kg.m-2.s-1, rate, 
-mass fraction, , kg.kg-1, ratio, 
+mass fraction, , kg.kg-1, ratio, dry air
 mass scattering coefficient, L-1.M-1, m-1.kg-1, quantity, 
 mass size distribution (dM/dlogDp), M.L-3, kg.m-3, quantity, 
 mass volume density, M.L-3, kg.m-3, quantity, 
@@ -97,6 +97,6 @@ v (v component of horizontal wind vector), L.t-1, m.s-1, quantity,
 velocity, L.t-1, m.s-1, quantity, 
 visibility, L, m, quantity, 
 volume flux, L.t-1, m3.m-2.s-1, rate, 
-volume fraction, , m3.m-3, ratio, 
+volume fraction, , m3.m-3, ratio, dry air
 volume size distribution (dV/dlogDp), , L3.L-3, quantity, 
 w (vertical component of wind vector), L.t-1, m.s-1, quantity, 
