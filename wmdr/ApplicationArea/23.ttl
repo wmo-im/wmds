@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<cryosphere> a skos:Concept ;
-	rdfs:label "Cryosphere" ;
-	skos:notation "cryosphere" ;
-	dct:description "EGOS-IP"@en	.
+<23> a skos:Concept ;
+	rdfs:label "3.7 Ocean Biogeochemical Cycles" ;
+	skos:notation "23" ;
+	dct:description "Ocean Biogeochemical Cycles"@en	.

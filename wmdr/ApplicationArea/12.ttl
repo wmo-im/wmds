@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<inapplicable> a skos:Concept ;
-	rdfs:label "inapplicable" ;
-	skos:notation "inapplicable" ;
-	dct:description "No application area is applicable."@en	.
+<12> a skos:Concept ;
+	rdfs:label "5.3 Cryospheric Climate Monitoring" ;
+	skos:notation "12" ;
+	dct:description "Cryospheric Climate Monitoring"@en	.
