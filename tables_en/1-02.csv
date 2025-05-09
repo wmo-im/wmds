@@ -141,6 +141,7 @@ nm,nanometre,SI prefixed unit of length; SI base unit equivalent: 1E-9 m
 nmi,nautical mile,Conventional unit of length; SI base unit equivalent: 1852 m
 nmol.kg-1,nanomole per kilogram,"SI derived unit of amount per unit mass; SI base unit equivalent: 1E-9 mol.kg-1"
 nmol.mol-1,nanomole per mole,SI derived unit of mole fraction; SI base unit equivalent: 1E-9
+nT2.Hz-1,nanoTesla squared per Hertz,SI derived unit for magnetic power spectrum commonly used to describe Schumann Resonances. SI base unit equivalent: 1E-9 A.m-1.s
 NTU,nephelometric turbidity unit,Units of turbidity from a calibrated nephelometer; SI base unit equivalent: 10-3 kg.m-3
 Ohm,ohm,"SI derived unit of electrical resistance, impedance, reactance"
 okta,eights of sky covered by cloud,"Unit of cloud amount, expressed as number of eighths of the sky dome that is covered by clouds; SI base unit equivalent: 0.125"
@@ -157,6 +158,7 @@ ppbv,parts per billion by volume,"Unit of volume fraction, equivalent to SI deri
 ppmv,parts per million by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-6"
 pptv,parts per trillion by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-12"
 psu,practical salinity unit,"Conventional unit, equivalent to per mille; SI based unit equivalent: 0.001"
+pT2.Hz-1,picoTesla squared per Hertz,SI derived unit for magnetic power spectrum commonly used to describe Schumann Resonances. SI base unit equivalent: 1E-12 A.m-1.s
 rad,radian,SI derived unit of plane angle; SI base unit equivalent: 1
 rad.m-1,radian per metre,SI derived unit of spatial gradient of plane angle
 rad.s-1,radian per second,SI derived unit of angular velocity; SI base unit equivalent: s-1
