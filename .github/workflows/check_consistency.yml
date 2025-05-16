@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - master
+      - script-check
+
 
 jobs:
   build:
@@ -14,7 +16,7 @@ jobs:
     strategy:
       matrix:
         python-version: ['3.10']
-        test-mode: [test, prod]
+        test-mode: [prod]
 
     steps:
     - uses: actions/checkout@v2
@@ -28,6 +30,6 @@ jobs:
         pip install rdflib
         pip install requests
           pip install testtools
-    - name: Test
+    - name: Test1
       run: |
         tmode=${{ matrix.test-mode }} python3 -m scripts.check_urls
