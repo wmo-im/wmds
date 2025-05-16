@@ -43,10 +43,9 @@ notation,path,domains,tags,name,description
 248,\Atmosphere\Dynamics,,,"Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics,,,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics,,,Turbulence type (low levels and wake vortex),
-252,\Atmosphere\Humidity,,,Integrated water vapour,
-253,\Atmosphere\Humidity,,,Mass mixing ratio,
+252,\Atmosphere\Humidity,,,Integrated water vapour,"Total amount of water vapour in a vertical column of air per unit area. Integrated water vapour (IWV) is also known as 'Precipitable Water Vapour (PWV).'"
 254,\Atmosphere\Humidity,,,Object wetness duration,
-255,\Atmosphere\Humidity,,,Water vapour pressure,
+255,\Atmosphere\Humidity,,,Water vapour pressure,Partial pressure of water in the atmosphere
 257,\Atmosphere\Lightning,,,Lightning discharge current,Current incurred by the lightning discharge.
 258,\Atmosphere\Lightning,,,Lightning discharge polarity,Polarity of the charge effectively lowered to ground during a lightning discharge.
 259,\Atmosphere\Lightning,,,Lightning discharge rate,"Number of lightning discharges per unit time in a given region (e.g. world-wide) or for a given storm system (e.g. a thunderstorm cell)."
@@ -576,7 +575,7 @@ notation,path,domains,tags,name,description
 12162,\Atmosphere\Particle phase,,aerosol,Aerosol layer height,Height of vertically localized aerosol layer above sea level
 12163,\Atmosphere\Dynamics,,dynamics,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
 12164,\Atmosphere\Gas phase,,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
-12165,\Atmosphere\Humidity,,\Atmosphere\Humidity\Water vapour,Water vapour,
+12165,\Atmosphere\Humidity,,\Atmosphere\Humidity\Water vapour,Water vapour,Water in the gaseous phase. [International Vocabulary of Meteorology (WMO-No. 182). 1992.]
 12166,\Atmosphere\Temperature,,\Atmosphere\Temperature\Temperature,Temperature,
 12167,\Atmosphere\Clouds,,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
 12168,\Atmosphere,,\Atmosphere,Height of the top of the PBL,Height of the surface above ground separating the planetary boundary layer (PBL) from the free atmosphere.
@@ -689,3 +688,4 @@ notation,path,domains,tags,name,description
 12327,\Atmosphere\Wind,,,"v (v component of horizontal wind vector)","North-south component of the horizontal wind vector, positive value for northward moving or south-to-north wind. This scalar quantity can be used to represent a value at given location and an instantaneous time or average over spatio-temporal extent or values as a function of spatio-temporal coordinates."
 12328,\Atmosphere\Lightning,,,Total lightning flash density,"Total number of detected flashes in the corresponding time interval and space unit. Note: The space unit (grid box) should be equal to the horizontal resolution and the accumulation time to the observing cycle."
 12329,\Atmosphere\Lightning,,,Lightning flash density cloud-to-ground,"Number of detected cloud-to-ground flashes in the corresponding time interval and space unit. "
+12330,\Atmosphere\Humidity,,,Water vapour amount fraction,"The ratio of the amount of water vapour and the amount of a dry air. Note: Older literature uses the term 'water vapour mixing ratio'."
