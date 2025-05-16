@@ -89,9 +89,8 @@ class TestContentsConsistency(unittest.TestCase):
 # one test case per file.
 # https://codes.wmo.int/wmdr/ObservedVariableOcean/405?_format=ttl&_view=with_metadata
 
-#for f in glob.glob('wmdr/**/*.ttl', recursive=True):
-for f in glob.glob('wmdr/**/*.ttl&_view=with_metadata', recursive=True):
-    relf = f.replace('.ttl&_view=with_metadata', '')
+for f in glob.glob('wmdr/**/*.ttl', recursive=True):
+    relf = f.replace('.ttl', '')
     identity = '{}/{}'.format(rooturl, relf)
     resource = '{}/{}'.format(downloadurl, relf)
 

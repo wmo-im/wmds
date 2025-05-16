@@ -30,6 +30,6 @@ jobs:
         pip install rdflib
         pip install requests
           pip install testtools
-    - name: Test2
+    - name: Test3
       run: |
         tmode=${{ matrix.test-mode }} python3 -m scripts.check_urls
