@@ -87,8 +87,11 @@ class TestContentsConsistency(unittest.TestCase):
 
 # Build test cases based on the TTL files within the repository,
 # one test case per file.
-for f in glob.glob('wmdr/**/*.ttl', recursive=True):
-    relf = f.replace('.ttl', '')
+# https://codes.wmo.int/wmdr/ObservedVariableOcean/405?_format=ttl&_view=with_metadata
+
+#for f in glob.glob('wmdr/**/*.ttl', recursive=True):
+for f in glob.glob('wmdr/**/*.ttl&_view=with_metadata', recursive=True):
+    relf = f.replace('.ttl&_view=with_metadata', '')
     identity = '{}/{}'.format(rooturl, relf)
     resource = '{}/{}'.format(downloadurl, relf)
 
