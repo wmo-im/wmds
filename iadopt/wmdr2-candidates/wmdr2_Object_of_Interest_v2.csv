@@ -101,3 +101,4 @@ WIGOS_OoI, Description, Matrix, Object_Constraints
 "camphene","IUPAC: 2,2-dimethyl-3-methylidenebicyclo[2.2.1]heptane, PubChem CID: 6616, CAS Number: 79-92-5, in gas phase@en",Gas,
 "carbon dioxide","IUPAC: carbon dioxide, PubChem CID: 280, CAS Number: 124-38-9, in gas phase@en",Gas,
 "carbon disulfide","IUPAC: methanedithione, PubChem CID: 6348, CAS Number: 75-15-0, in gas phase@en",Gas,
+"carbon monoxide","IUPAC: carbon monoxide, PubChem CID: 281, CAS Number: 630-08-0, in gas phase@en",Gas,
