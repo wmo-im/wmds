@@ -1,5 +1,5 @@
 WIGOS_OoI, Description, Matrix, Object_Constraints
-"1,1,1-trichloroethane", "IUPAC: 1,1,1-trichloroethane, PubChem CID: 6278, CAS Number: 71-55-6, in gas phase@en", Gas, 
+'1,1,1-trichloroethane', 'IUPAC: 1,1,1-trichloroethane, PubChem CID: 6278, CAS Number: 71-55-6, in gas phase@en', Gas, 
 '1,1-dichloroethane', 'IUPAC: 1,1-Dichloroethane, PubChem CID: 6365, CAS Number: 75-34-3, in gas phase@en', Gas, 
 '1,1-dichloroethene', 'IUPAC: 1,1-Dichloroethene, PubChem CID: 6366, CAS Number: 75-35-4, in gas phase@en', Gas, 
 '1,2,4-trimethylbenzene', 'IUPAC: 1,2,4-trimethylbenzene, PubChem CID: 7247, CAS Number: 95-36-3, in gas phase@en', Gas, 
