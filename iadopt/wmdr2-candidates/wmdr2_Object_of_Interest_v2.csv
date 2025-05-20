@@ -353,7 +353,7 @@ WIGOS_OoI, Description, Matrix, Object_Constraints
 "selenium","IUPAC: selenium, PubChem CID: 6326970, CAS Number: 7782-49-2, in particle phase@en",aerosol particles,
 "Selenium-75","IUPAC: selenium-75, PubChem CID: 6328176, CAS Number: 14265-71-5@en",air,
 "semiheavy water vapour","IUPAC: n/a, PubChem CID: 139859, CAS Number: 14940-63-7, in gas phase@en",Gas,
-"short-wave radiation","Energy in the visible and near-visible portion of the electromagnetic spectrum (0.2–4 um in wavelength)@en",Radiation,diffuse\direct\downwelling\TOA\downward\TOA\upward\net
+"short-wave radiation","Energy in the visible and near-visible portion of the electromagnetic spectrum (0.2–4 um in wavelength)@en",Radiation,diffuse\direct\downwelling\upward\net\TOA
 "Silene","Melandrium pollen@en",pollen,
 "Silver-108m","Metastable (excited) state of silver-108 isotope, IUPAC: silver-108, PubChem CID: 167088, CAS Number: 14391-65-2@en",air,
 "Silver-110m","Metastable (excited) state of silver-110 isotope, IUPAC: silver-110, PubChem CID: 104828, CAS Number: 14391-76-5@en",air,
@@ -421,7 +421,7 @@ WIGOS_OoI, Description, Matrix, Object_Constraints
 "Uranium-235","IUPAC: uranium-235, PubChem CID: 61784, CAS Number: 15117-96-1@en",air,
 "Uranium-238","IUPAC: uranium-238, PubChem CID: n/a, CAS Number: n/a@en",air,
 "Urtica","Nettle pollen@en",pollen,
-"UV radiation","electromagnetic radiation with wavelengths typically between 100 and 400 nm@en",Radiation,Broadband, UV
+"UV radiation","electromagnetic radiation with wavelengths typically between 100 and 400 nm@en",Radiation,Broadband\UV
 "UV-B radiation","Ultraviolet radiation covering the range 280-315 nm.@en",Radiation,
 "vanadium","IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in total deposition@en",air\aerosol particles,deposition\PM2.5\TSP
 "visible radiation","electromagnetic radiation that the human eye can perceive, roughly between 400 and 700 nm@en",Radiation,visible, background\0.4 - 0.7 um
