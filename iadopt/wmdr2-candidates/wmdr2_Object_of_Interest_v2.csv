@@ -423,7 +423,7 @@ WIGOS_OoI, Description, Matrix, Object_Constraints
 "Urtica","Nettle pollen@en",pollen,
 "UV radiation","electromagnetic radiation with wavelengths typically between 100 and 400 nm@en",Radiation,Broadband\UV
 "UV-B radiation","Ultraviolet radiation covering the range 280-315 nm.@en",Radiation,
-"vanadium","IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in total deposition@en",air\aerosol particles,deposition\PM2.5\TSP
+"vanadium","IUPAC: vanadium, PubChem CID: 23990, CAS Number: 7440-62-2, in total deposition@en",air\aerosol particles\deposition\PM2.5\TSP
 "visible radiation","electromagnetic radiation that the human eye can perceive, roughly between 400 and 700 nm@en",Radiation,visible, background\0.4 - 0.7 um
 "Vocanic Ash","3D field of mass mixing ratio of volcanic ash@en",aerosol particles,
 "water","Atmospheric water in the liquid or solid phase (precipitating or not).@en",Cloud,
