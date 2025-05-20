@@ -102,7 +102,7 @@ WIGOS_OoI, Description, Matrix, Object_Constraints
 "carbon dioxide","IUPAC: carbon dioxide, PubChem CID: 280, CAS Number: 124-38-9, in gas phase@en",Gas,
 "carbon disulfide","IUPAC: methanedithione, PubChem CID: 6348, CAS Number: 75-15-0, in gas phase@en",Gas,
 "carbon monoxide","IUPAC: carbon monoxide, PubChem CID: 281, CAS Number: 630-08-0, in gas phase@en",Gas,
-"carbon","chemical element carbon",aerosol particles,PM10, elemental\PM1, elemental\PM2.5, elemental\PM10, total carbon
+"carbon","chemical element carbon",aerosol particles,elemental\PM1\PM2.5\PM10, total carbon
 "Carbon-14","IUPAC: n/a, PubChem CID: 26873, CAS Number: 14762-75-5@en",air,
 "carbon-14 dioxide","CO2 with C-14 isotope@en",Gas,
 "Carbonaceous-organic material","@en",aerosol particles,PM10
