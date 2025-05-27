@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <103> a skos:Concept ;
-	rdfs:label "Wind stress" ;
+	rdfs:label "Ocean wind stress" ;
 	skos:notation "103" ;
-	dct:description "The shear force per unit area exerted by wind blowing over the sea surface."@en	.
+	dct:description "The shear force per unit area exerted by wind blowing over the sea surface. The same quantity may be referred in literature as either 'wind stress' or 'sea surface wind stress'"@en.
