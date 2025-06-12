@@ -40,7 +40,7 @@ notation,path,domains,tags,name,description
 399,\Ocean\Biogeochemistry\Nutrients,,"biogeochemistry, nutrients",PO4= (phosphate),Phosphate concentration in sea water.
 400,\Ocean\Biogeochemistry\Phosporus species,,"biogeochemistry, phosporus species",Total organic phosphorus,Concentration of dissolved organic phosphorous
 401,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice cover,Fraction of an ocean area where ice is present
-402,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level
+402,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice freeboard,Elevation of the upper sea-ice surface relative to the sea surface.
 403,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice motion,Sea-ice motion
 404,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
 405,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface temperature,Temperature of the surface of sea-ice
