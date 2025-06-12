@@ -44,7 +44,7 @@ notation,path,domains,tags,name,description
 403,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice motion,Sea-ice motion
 404,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
 405,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface temperature,Temperature of the surface of sea-ice
-406,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density.
+406,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice thickness,"Vertical distance between the upper sea-ice surface, excluding snow on ice, and the underside of the sea ice."
 407,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.). Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
 408,\Ocean\Physical properties\CTD,,"physical properties, CTD",Transmissivity,Measure of the light that passes through the water in relation to the incident light
 549,\Ocean\Biogeochemistry\Other gas\CTD,,"biogeochemistry, CTD",pO2,partial pressure of O2

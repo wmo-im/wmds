@@ -5,4 +5,4 @@
 <406> a skos:Concept ;
 	rdfs:label "Sea-ice thickness" ;
 	skos:notation "406" ;
-	dct:description "Thickness of the ice sheet. It is related to sea-ice elevation and ice density."@en	.
+	dct:description "Vertical distance between the upper sea-ice surface, excluding snow on ice, and the underside of the sea ice."@en	.
