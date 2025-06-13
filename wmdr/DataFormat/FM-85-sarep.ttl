@@ -5,4 +5,4 @@
 <FM-85-sarep> a skos:Concept ;
 	rdfs:label "FM 85 - SAREP" ;
 	skos:notation "FM-85-sarep" ;
-	dct:description "Report of synoptic interpretation of cloud data obtained by a meteorological satellite. Manual on Codes Volume I.1. http://wis.wmo.int/ManCodes1"@en	.
+	dct:description "Report of synoptic interpretation of cloud data obtained by a meteorological satellite. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"@en	.
