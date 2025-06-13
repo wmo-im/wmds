@@ -5,4 +5,4 @@
 <FM-95-crex> a skos:Concept ;
 	rdfs:label "FM 95 - CREX" ;
 	skos:notation "FM-95-crex" ;
-	dct:description "Character form for the representation and exchange of data. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"@en	.
+	dct:description "Character form for the representation and exchange of data. Manual on Codes (WMO-No. 306), Volume I.2. (https://library.wmo.int/idurl/4/35625)"@en	.
