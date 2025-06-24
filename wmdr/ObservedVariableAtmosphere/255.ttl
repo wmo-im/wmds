@@ -5,4 +5,4 @@
 <255> a skos:Concept ;
 	rdfs:label "Water vapour pressure" ;
 	skos:notation "255" ;
-	dct:description ""@en	.
+	dct:description "Partial pressure of water in the atmosphere"@en	.

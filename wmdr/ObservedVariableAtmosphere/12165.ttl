@@ -5,4 +5,4 @@
 <12165> a skos:Concept ;
 	rdfs:label "Water vapour" ;
 	skos:notation "12165" ;
-	dct:description ""@en	.
+	dct:description "Water in the gaseous phase. [International Vocabulary of Meteorology (WMO-No. 182). 1992.]"@en	.

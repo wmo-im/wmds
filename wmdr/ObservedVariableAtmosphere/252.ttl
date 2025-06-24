@@ -5,4 +5,4 @@
 <252> a skos:Concept ;
 	rdfs:label "Integrated water vapour" ;
 	skos:notation "252" ;
-	dct:description ""@en	.
+	dct:description "Total amount of water vapour in a vertical column of air per unit area. Integrated water vapour (IWV) is also known as 'Precipitable Water Vapour (PWV).'"@en	.
