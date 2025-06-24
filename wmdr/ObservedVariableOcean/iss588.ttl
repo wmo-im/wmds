@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<iss588> a skos:Concept ;
+	rdfs:label "Sea-ice floe size distribution" ;
+	skos:notation "iss588" ;
+	dct:description "The size distribution of contiguous pieces of sea-ice over a defined area, represented by the effective floe size of the frequency distribution."@en	.
