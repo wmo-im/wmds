@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<12330> a skos:Concept ;
+<iss560> a skos:Concept ;
 	rdfs:label "Water vapour amount fraction" ;
-	skos:notation "12330" ;
+	skos:notation "iss560" ;
 	dct:description "The ratio of the amount of water vapour and the amount of a dry air. Note: Older literature uses the term 'water vapour mixing ratio'."@en	.
