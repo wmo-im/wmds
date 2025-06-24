@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <725> a skos:Concept ;
-	rdfs:label "Lake-Ice thickness" ;
+	rdfs:label "Lake ice thickness" ;
 	skos:notation "725" ;
-	dct:description "Vertical distance between the underside of the ice and the upper lake-ice surface, excluding snow cover."@en	.
+	dct:description "Vertical distance between the underside of the ice and the upper lake ice surface, excluding snow on ice."@en	.
