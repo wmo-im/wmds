@@ -43,9 +43,9 @@ notation,path,domains,tags,name,description
 248,\Atmosphere\Dynamics,,,"Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics,,,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics,,,Turbulence type (low levels and wake vortex),
-252,\Atmosphere\Humidity,,,Integrated water vapour,"Total amount of water vapour in a vertical column of air per unit area. Integrated water vapour (IWV) is also known as 'Precipitable Water Vapour (PWV).'"
+252,\Atmosphere\Humidity,,,Integrated water vapour,"Total amount of water vapour in a vertical column of air per unit area. Integrated water vapour (IWV) is also known as precipitable water vapour (PWV)."
 254,\Atmosphere\Humidity,,,Object wetness duration,
-255,\Atmosphere\Humidity,,,Water vapour pressure,Partial pressure of water in the atmosphere
+255,\Atmosphere\Humidity,,,Water vapour pressure,Partial pressure of water in the atmosphere.
 257,\Atmosphere\Lightning,,,Lightning discharge current,Current incurred by the lightning discharge.
 258,\Atmosphere\Lightning,,,Lightning discharge polarity,Polarity of the charge effectively lowered to ground during a lightning discharge.
 259,\Atmosphere\Lightning,,,Lightning discharge rate,"Number of lightning discharges per unit time in a given region (e.g. world-wide) or for a given storm system (e.g. a thunderstorm cell)."
