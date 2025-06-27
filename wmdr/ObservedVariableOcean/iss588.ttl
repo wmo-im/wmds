@@ -5,4 +5,4 @@
 <iss588> a skos:Concept ;
 	rdfs:label "Sea-ice floe size distribution" ;
 	skos:notation "iss588" ;
-	dct:description "The size distribution of contiguous pieces of sea-ice over a defined area, represented by the effective floe size of the frequency distribution."@en	.
+	dct:description "The floe area density distribution of contiguous pieces of sea ice over a region, represented by the power-law exponent of the distribution of floe area."@en	.
