@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<iss593> a skos:Concept ;
+	rdfs:label "Sea-ice stage of melt" ;
+	skos:notation "iss593" ;
+	dct:description "Categories of sea-ice melt that represent the occurrence of puddles (melt ponds), thawholes, flooded ice, and ice condition resulting from current or previous melting. Category names and definitions are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."@en	.
