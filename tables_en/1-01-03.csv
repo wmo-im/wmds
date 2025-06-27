@@ -41,7 +41,7 @@ notation,path,domains,tags,name,description
 400,\Ocean\Biogeochemistry\Phosporus species,,"biogeochemistry, phosporus species",Total organic phosphorus,Concentration of dissolved organic phosphorous
 401,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice cover,Fraction of an ocean area where ice is present
 402,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level
-403,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice motion,"Horizontal displacement of sea ice over a defined time interval, specified as a two-element vector quantity: u and v. Related terms found in the literature are ""Sea-ice velocity"" and ""Sea-ice drift""."
+403,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice velocity,"Horizontal displacement of sea ice over a defined time interval, specified as a two-element vector quantity: u and v. Related terms found in the literature are ""Sea-ice motion"" and ""Sea-ice drift""."
 404,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
 405,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface temperature,Temperature of the surface of sea-ice
 406,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density.
