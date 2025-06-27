@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <403> a skos:Concept ;
-	rdfs:label "Sea-ice motion" ;
+	rdfs:label "Sea-ice velocity" ;
 	skos:notation "403" ;
-	dct:description "Horizontal displacement of sea ice over a defined time interval, specified as a two-element vector quantity: u and v. Related terms found in the literature are 'Sea-ice velocity' and 'Sea-ice drift'."@en	.
+	dct:description "Horizontal displacement of sea ice over a defined time interval, specified as a two-element vector quantity: u and v. Related terms found in the literature are 'Sea-ice motion' and 'Sea-ice drift'."@en	.
