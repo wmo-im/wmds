@@ -5,4 +5,4 @@
 <406> a skos:Concept ;
 	rdfs:label "Sea-ice thickness" ;
 	skos:notation "406" ;
-	dct:description "Vertical distance between the upper sea-ice surface, excluding snow on ice, and the underside of the sea ice."@en	.
+	dct:description "Vertical distance between the bottom and the top of sea ice, excluding snow on ice."@en	.
