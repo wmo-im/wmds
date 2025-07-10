@@ -5,4 +5,4 @@
 <405> a skos:Concept ;
 	rdfs:label "Sea-ice temperature" ;
 	skos:notation "405" ;
-	dct:description "Sea ice temperature measured at the centre of defined vertical levels in the ice and any snow on the ice, including the temperature at the ice and snow surfaces. By convention, levels are referenced to the surface of the sea ice, with positive values indicating levels above, and negative values indicating levels below the surface of the sea ice."@en	.
+	dct:description "Sea ice temperature measured at defined vertical levels in the ice and any snow on the ice, including the temperature at the ice and snow surfaces. By convention, levels are referenced to the surface of the sea ice, with positive values indicating levels above, and negative values indicating levels below the surface of the sea ice."@en	.
