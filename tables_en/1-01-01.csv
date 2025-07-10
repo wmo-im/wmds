@@ -35,7 +35,6 @@ notation,path,domains,tags,name,description
 221,\Atmosphere\Radionuclide,,,Krypton [Kr-85],"IUPAC: krypton-85, PubChem CID: 104816, CAS Number: 13983-27-2"
 222,\Atmosphere\Radionuclide,,,Lead [Pb-210],"IUPAC: lead-210, PubChem CID: 6328175, CAS Number: 14255-04-0"
 223,\Atmosphere\Radionuclide,,,Radon [Rn-222],"IUPAC: radon-222, PubChem CID: 61773, CAS Number: 14859-67-7"
-224,\Atmosphere\Temperature,,,Air temperature (at specified distance from reference surface),
 225,\Atmosphere\Temperature,,,Dew-point temperature (at specified distance from reference surface),
 226,\Atmosphere\Temperature,,,"Extreme temperature (min, max) (at specified distance from reference surface)",
 229,\Atmosphere\Visibility,,,Runway visual range,
@@ -577,7 +576,7 @@ notation,path,domains,tags,name,description
 12163,\Atmosphere\Dynamics,,dynamics,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
 12164,\Atmosphere\Gas phase,,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
 12165,\Atmosphere\Humidity,,\Atmosphere\Humidity\Water vapour,Water vapour,
-12166,\Atmosphere\Temperature,,\Atmosphere\Temperature\Air temperature,Air temperature,
+12166,\Atmosphere\Temperature,,\Atmosphere\Temperature\Air temperature,Air temperature,"Measured temperature of air. It is the best practice to minimize the impact of direct radiation on the measurement and/or correct the influence of air motion."
 12167,\Atmosphere\Clouds,,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
 12168,\Atmosphere,,\Atmosphere,Height of the top of the PBL,Height of the surface above ground separating the planetary boundary layer (PBL) from the free atmosphere.
 12169,\Atmosphere\Particle phase,,\Atmosphere\Particle Phase\Aerosol type,Aerosol type,"Selection, out of a pre-defined set of aerosol classes, that best fits an input data set (observed or modeled). The pre-defined set of aerosol classes includes specification of the particle composition, mixing state, complex refractive index, and shape as a function of particle size. The definition of aerosol type includes specification of all the classes as well as the algorithm used to choose the best fit to the input data."
