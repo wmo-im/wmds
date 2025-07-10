@@ -5,4 +5,4 @@
 <726> a skos:Concept ;
 	rdfs:label "River ice thickness" ;
 	skos:notation "726" ;
-	dct:description "Vertical distance between the underside of the ice and the upper river-ice surface, excluding snow on ice."@en	.
+	dct:description "Vertical distance between the bottom of the ice and the top river-ice surface, excluding snow on ice."@en	.

@@ -5,4 +5,4 @@
 <725> a skos:Concept ;
 	rdfs:label "Lake ice thickness" ;
 	skos:notation "725" ;
-	dct:description "Vertical distance between the underside of the ice and the upper lake ice surface, excluding snow on ice."@en	.
+	dct:description "Vertical distance between the bottom of the ice and the top lake ice surface, excluding snow on ice."@en	.
