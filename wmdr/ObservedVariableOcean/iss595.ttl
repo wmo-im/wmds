@@ -5,4 +5,4 @@
 <iss595> a skos:Concept ;
 	rdfs:label "Sea-ice surface albedo" ;
 	skos:notation "iss595" ;
-	dct:description "Hemispherically integrated reflectance of sea ice in the range 0.4-0.7. The sea-ice surface may be bare ice or snow-covered."@en	.
+	dct:description "Hemispherically integrated reflectance of sea ice in the wavelength range of 0.4-0.7 µm (400-700 nm). The sea-ice surface may be bare ice or snow-covered."@en	.
