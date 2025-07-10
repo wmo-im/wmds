@@ -5,4 +5,4 @@
 <12166> a skos:Concept ;
 	rdfs:label "Air temperature" ;
 	skos:notation "12166" ;
-	dct:description ""@en	.
+	dct:description "Measured temperature of air. It is the best practice to minimize the impact of direct radiation on the measurement and/or correct the influence of air motion."@en	.
