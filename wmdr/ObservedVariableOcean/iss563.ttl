@@ -5,4 +5,4 @@
 <iss563> a skos:Concept ;
 	rdfs:label "Tsunami wave amplitude" ;
 	skos:notation "iss563" ;
-	dct:description "Absolute value of the difference between a particular peak or trough of the tsunami and sea level at that time."@en	.
+	dct:description "Absolute value of the difference between a particular peak or trough of the tsunami wave and the expected undisturbed sea level at that time."@en	.
