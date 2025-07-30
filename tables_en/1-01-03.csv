@@ -46,7 +46,7 @@ notation,path,domains,tags,name,description
 405,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface temperature,Temperature of the surface of sea-ice
 406,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice thickness,"Vertical distance between the bottom and the top of sea ice, excluding snow on ice."
 407,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.). Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
-408,\Ocean\Physical properties\CTD,,"physical properties, CTD",Transmissivity,Measure of the light that passes through the water in relation to the incident light
+408,\Ocean\Phys8 properties\CTD,,"physical properties, CTD",Transmissivity,Measure of the light that passes through the water in relation to the incident light
 549,\Ocean\Biogeochemistry\Other gas\CTD,,"biogeochemistry, CTD",pO2,partial pressure of O2
 731,\Ocean\Physical properties\CTD,,"physical properties, CTD",Conductivity,Conductivity measured by CTD or MicroCAT
 732,\Ocean\Physical properties\CTD,,"physical properties, CTD",Density,Density measured by CTD
@@ -74,3 +74,4 @@ notation,path,domains,tags,name,description
 12327,\Ocean\Cryosphere\Sea ice,,,Iceberg length,"The length of an iceberg above water. If its shape is irregular, then the length is of the largest dimension."
 12328,\Ocean\Cryosphere\Sea ice,,,Sea-ice ridge concentration,Fraction of an area of sea-ice occupied by ridges.
 12329,\Ocean\Cryosphere\Sea ice,,,Sea-ice ridge height,Average height of sea-ice ridges in an area.
+12330,\Ocean\Cryosphere\Sea ice,,,Sea-ice stage of melt,"Categories of sea-ice melt that represent the occurrence of puddles (melt ponds), thawholes, flooded ice, and ice condition resulting from current or previous melting. Category names and definitions are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."
