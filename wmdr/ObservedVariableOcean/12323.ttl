@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<iss563> a skos:Concept ;
+<12323> a skos:Concept ;
 	rdfs:label "Tsunami wave amplitude" ;
-	skos:notation "iss563" ;
+	skos:notation "12323" ;
 	dct:description "Absolute value of the difference between a particular peak or trough of the tsunami wave and the expected undisturbed sea level at that time."@en	.
