@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<iss562> a skos:Concept ;
+<12320> a skos:Concept ;
 	rdfs:label "Si(OH)4 (orthosilicic acid)" ;
-	skos:notation "iss562" ;
+	skos:notation "12320" ;
 	dct:description "IUPAC: silicic acid, PubChem CID: 14942, CAS Number: 10193-36-9, concentration in sea water"@en	.
