@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<25> a skos:Concept ;
+	rdfs:label "1.2 Energetic Particle and Magnetosphere Forecasting and Monitoring" ;
+	skos:notation "25" ;
+	dct:description "This AA is related to the monitoring and forecasting of energetic particles (in the interplanetary medium, in the magnetosphere, atmosphere, and at ground level), and of the magnetic field in the Earth's magnetosphere."@en	.

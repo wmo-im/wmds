@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<21> a skos:Concept ;
+	rdfs:label "3.5 Marine Environmental Emergency Response" ;
+	skos:notation "21" ;
+	dct:description "Marine environmental emergency response (MEER) refers to the response of any immediate and imminent threat of harm to the marine environment. This response is highly time sensitive as marine pollutants drift and disperse in the surrounding fluid and, thus, increasing the extent of the potential environmental harm. The time sensitivity of the data required to monitor and predict the transport of pollutants is of the utmost importance to mitigate damage to the marine environment."@en	.

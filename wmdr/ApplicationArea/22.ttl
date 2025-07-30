@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<22> a skos:Concept ;
+	rdfs:label "3.6 Maritime Safety (ports to open ocean)" ;
+	skos:notation "22" ;
+	dct:description "It covers the sets of observations to provide the services and warnings for the protection of life and property on all ships on all voyages at sea and in all [port] waters connected therewith."@en	.

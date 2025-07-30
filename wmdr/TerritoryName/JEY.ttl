@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<401> a skos:Concept ;
-	rdfs:label "Sea-ice concentration" ;
-	skos:notation "401" ;
-	dct:description "Fraction of an ocean area covered by sea-ice."@en	.
+<JEY> a skos:Concept ;
+	rdfs:label "Jersey" ;
+	skos:notation "JEY" ;
+	dct:description "Jersey"@en	.

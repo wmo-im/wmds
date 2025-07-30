@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<24> a skos:Concept ;
+	rdfs:label "1.1 Sun, Heliosphere and Solar Wind Forecasting and Monitoring" ;
+	skos:notation "24" ;
+	dct:description "This AA aims to monitor and forecast the conditions of the Sun, the heliosphere and the solar wind which are relevant to space weather and space climate. This AA includes the monitoring and forecasting of solar disturbances propagating through the heliosphere and solar wind."@en	.

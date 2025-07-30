@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<13> a skos:Concept ;
+	rdfs:label "4.1 Hydrological Forecasting and Real-time Monitoring" ;
+	skos:notation "13" ;
+	dct:description "Application covering the forecasting and the real-time monitoring in the field of terrestrial hydrology."@en	.
