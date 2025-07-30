@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<17> a skos:Concept ;
+	rdfs:label "3.1 Ocean Forecasting and Real-Time Monitoring" ;
+	skos:notation "17" ;
+	dct:description "This application covers the set of observations that provide essential information to support monitoring ocean state in near-real-time and ocean forecasting systems on global, basin, and regional scales. These observations are also vital for ocean modeling development and for the verification of numerical weather predictions from medium-range to seasonal forecasts."@en	.

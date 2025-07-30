@@ -1,50 +1,40 @@
 name: Proposal for an Amendment
-description: Proposal for amendments to WMO publications that may be submitted for WMO approval with the standard or fast-track procedure.
+description: Proposal for amendments to the WIGOS Codes referred by the Manual on Codes (WMO-No. 306), VI.3 that may be submitted for WMO approval with the standard or fast-track procedure.
 title: "[Enter table name, number and a very brief description of change]"
 body:
   - type: markdown
     attributes:
-      value: The content in this issue, excluding the initial request, will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced in an official document for WMO adoption. Please consult the [Guidance on Changing Code Tables](https://github.com/wmo-im/wmds/wiki/Changing-Codetables).
+      value: The content in this issue, excluding the initial request, will be kept up to date during the drafting of the proposal. Please pay attention to accuracy, spelling and grammar as it may be referenced. Please consult the [Guidance on Changing Code Tables](https://github.com/wmo-im/wmds/wiki/Changing-Codetables).
   - type: textarea
-    id: initial-request
     attributes:
-      label: Initial request
-      description: Overview description of the amendment(s) requested. Include as much relevant information possible, such as rationale, purpose, and implementation plans. *This field should only be edited by the requestor.*
-      placeholder: Enter summary of request for amendment(s).
+      label: Introduction
+      description: Overview description of the amendment(s) requested. Include as much relevant information possible, such as rationale, purpose, and implementation plans. 
     validations:
       required: true
   - type: textarea
-    id: amendment-details
     attributes:
       label: Amendment details 
-      description: Tables with exact changes proposed. Enter TBD if the details are unknown. This content may evolve as decisions are finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
+      description: Tables of exact changes proposed with minimal descriptive information. This content may evolve as the proposal is finalized.You may convert CSV to Markdown at https://www.convertcsv.com/csv-to-markdown.htm.
     validations:
-      placeholder: Enter amendment details. 
       required: true
   - type: textarea
-    id: requestor
     attributes:
       label: Requestor(s)
-      description: Name of individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations, if applicable and GitHub username or email.
-      placeholder: Enter requestor details.
-      value: "Enter list of requestors."
+      description: Name of individuals, groups, or organizations that are requesting the amendment. Include relevant affiliations and GitHub user names, as applicable.
     validations:
       required: true
   - type: textarea
-    id: stakeholder
     attributes:
       label: Stakeholder(s)
-      description: Names of other individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations, if applicable.
-      placeholder: Enter stakeholder details.
-      value: "Enter list of stakeholder(s)."
+      description: Names of other individuals, groups, or organizations that have an interest or may be impacted by the amendment. Include relevant affiliations and GitHub user names, as applicable.
   - type: checkboxes
-    id: applications
     attributes:
       label: Applications or Systems
       description: Identification of applications or systems that may be effected by the amendment.
       options:
        - label: OSCAR/Surface
        - label: OSCAR/requirements
+       - label: GAWSIS
        - label: Radar/DB
        - label: OceanOPS
        - label: WHOS
@@ -63,34 +53,13 @@ body:
         - "MEDIUM"
         - "HIGH"
   - type: textarea
-    id: consultations
     attributes:
-      label: Collaborators
-      description: Names of groups or individuals (and affiliation) that were consulted during, or assisted with, the drafting of the proposal.
-      placeholder: Enter collaborator details.
+      label: Consultations
+      description: Individuals, groups, or organizations that are consulted. Also cite publications or other documents as references.Include relevant affiliations, GitHub user names and URLs, as applicable.
   - type: textarea
-    id: references
     attributes:
-      label: References
-      description: Other publications, websites or resources that were reviewed during the drafting of the proposal.
-      placeholder: Enter references reviewed. 
+      label: Data exchange
+      description: Describe plans for data exchange associated with the proposal. For example, identify relevant datasets, metadata platforms, WMO systems (WIGOS, WIS2, WIPPS), timelines, etc. 
   - type: textarea
     attributes:
       label: Comments
-      description: Other information that may be informative and relevant.
-  - type: textarea
-    id: publication
-    attributes:
-      label: Publication(s)
-      description: Publication title, WMO number, relevant volume, part, section, regulation, provision, paragraph or other such subdivisions of the publication and URL to location in the WMO Codes Registry to which the amendment applies.
-      placeholder: If different from below, enter publication name and location of amendment in the publication.
-      value: "[_Manual on Codes_](https://library.wmo.int/idurl/4/35769) (WMO-No. 306), Volume I.3, [WMO Codes Registry - WMDR](https://codes.wmo.int/wmdr)" 
-  - type: textarea
-    id: validation
-    attributes:
-      label: Validation
-      description: Details of validation, if applicable.  
-      placeholder: Enter if validation was performed. 
-      
-
-      

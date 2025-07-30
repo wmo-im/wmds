@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<hydrology> a skos:Concept ;
-	rdfs:label "Hydrology" ;
-	skos:notation "hydrology" ;
-	dct:description "Hydrology covers the assessment of the quantity and quality of water resources, both surface and groundwater (in support of the National Authorities responsible for water management in a wide range of activities), in order to meet the needs of society, to permit mitigation of water-related hazards, and to maintain or enhance the condition of the global environment. http://www.wmo.int/pages/prog/www/OSY/SOG/SOG-Hydrology.pdf"@en	.

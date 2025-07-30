@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<26> a skos:Concept ;
+	rdfs:label "1.3 Ionosphere, Thermosphere and Geomagnetic Field Forecasting and Monitoring" ;
+	skos:notation "26" ;
+	dct:description "This AA is related to the monitoring and forecasting of space weather parameters in the ionosphere and thermosphere and of geomagnetic field variations at the surface of the Earth."@en	.
