@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <726> a skos:Concept ;
-	rdfs:label "River ice thickness" ;
+	rdfs:label "Ice thickness" ;
 	skos:notation "726" ;
-	dct:description "Vertical distance between the bottom of the ice and the top river-ice surface, excluding snow on ice."@en	.
+	dct:description ""@en	.
