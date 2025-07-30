@@ -66,3 +66,4 @@ notation,path,domains,tags,name,description
 12319,\Ocean\Biogeochemistry\Other gas,,"biogeochemistry, other gas","N2, Ar",Concentration of dissolved N2 and Ar
 12320,\Ocean\Biogeochemistry,,biogeochemistry,"Si(OH)4 (orthosilicic acid)","IUPAC: silicic acid, PubChem CID: 14942, CAS Number: 10193-36-9, concentration in sea water"
 12321,\Ocean\Cryosphere\Sea ice,,,Snow depth on sea ice,Vertical distance from the snow surface to the underlying sea-ice surface.
+12322,\Ocean\Biogeochemistry,,,N2O (nitrous oxide),"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, concentration in sea water"
