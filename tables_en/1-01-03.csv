@@ -69,3 +69,4 @@ notation,path,domains,tags,name,description
 12322,\Ocean\Biogeochemistry,,,N2O (nitrous oxide),"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, concentration in sea water"
 12323,\Ocean\Physical properties\Sea state,,"physical properties, sea state","Tsunami wave amplitude","Absolute value of the difference between a particular peak or trough of the tsunami wave and the expected undisturbed sea level at that time."
 12324,\Ocean\Cryosphere\Sea ice,,,Sea-ice melt pond fraction,"The fraction of an area covered by meltwater on the ice. The term 'puddle' is also used."
+12325,\Ocean\Physical properties,,,Surface stokes drift,The net drift of a fluid parcel at the surface due to surface waves.
