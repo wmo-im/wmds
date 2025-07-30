@@ -79,3 +79,4 @@ notation,path,domains,tags,name,description
 12332,\Ocean\Cryosphere\Sea ice,,,Sea-ice lead width,Width of a sea-ice lead approximately perpendicular to its long axis.
 12333,\Ocean\Cryosphere\Sea ice,,,Sea-ice lead thickness,Thickness of new ice within a sea-ice lead.
 12334,\Ocean\Cryosphere\Sea ice,,,Sea-ice surface albedo,"Hemispherically integrated reflectance of sea ice in the wavelength range of 0.4-0.7 µm (400-700 nm). The sea-ice surface may be bare ice or snow-covered."
+12335,\Ocean\Cryosphere\Sea ice,,,Sea-ice age,Age of sea ice since its formation.
