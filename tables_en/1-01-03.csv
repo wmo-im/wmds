@@ -76,3 +76,5 @@ notation,path,domains,tags,name,description
 12329,\Ocean\Cryosphere\Sea ice,,,Sea-ice ridge height,Average height of sea-ice ridges in an area.
 12330,\Ocean\Cryosphere\Sea ice,,,Sea-ice stage of melt,"Categories of sea-ice melt that represent the occurrence of puddles (melt ponds), thawholes, flooded ice, and ice condition resulting from current or previous melting. Category names and definitions are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."
 12331,\Ocean\Cryosphere\Sea ice,,,Sea-ice stage of development,"Classes of sea ice related to ice age, thickness, strength, and viscosity. The names and definitions of the classes are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."
+12332,\Ocean\Cryosphere\Sea ice,,,Sea-ice lead width,Width of a sea-ice lead approximately perpendicular to its long axis.
+12333,\Ocean\Cryosphere\Sea ice,,,Sea-ice lead thickness,Thickness of new ice within a sea-ice lead.
