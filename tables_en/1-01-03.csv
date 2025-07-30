@@ -72,4 +72,6 @@ notation,path,domains,tags,name,description
 12325,\Ocean\Physical properties,,,Surface stokes drift,The net drift of a fluid parcel at the surface due to surface waves.
 12326,\Ocean\Cryosphere\Sea ice,,,Iceberg height,The height of an iceberg above water.
 12327,\Ocean\Cryosphere\Sea ice,,,Iceberg length,"The length of an iceberg above water. If its shape is irregular, then the length is of the largest dimension."
-12328,\Ocean\Cryosphere\Sea ice,,,Sea-ice stage of melt,"Categories of sea-ice melt that represent the occurrence of puddles (melt ponds), thawholes, flooded ice, and ice condition resulting from current or previous melting. Category names and definitions are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."
+12328,\Ocean\Cryosphere\Sea ice,,,Sea-ice ridge concentration,Fraction of an area of sea-ice occupied by ridges.
+12329,\Ocean\Cryosphere\Sea ice,,,Sea-ice ridge height,Average height of sea-ice ridges in an area.
+12330,\Ocean\Cryosphere\Sea ice,,,Sea-ice stage of melt,"Categories of sea-ice melt that represent the occurrence of puddles (melt ponds), thawholes, flooded ice, and ice condition resulting from current or previous melting. Category names and definitions are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."

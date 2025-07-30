@@ -1,6 +1,8 @@
 @prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
-	rdfs:label "Sea-ice ridge concentration" ;
-	skos:notation "12328" ;
-	dct:description "Fraction of an area of sea-ice occupied by ridges."@en	.
+
+<12329> a skos:Concept ;
+	rdfs:label "Sea-ice ridge height" ;
+	skos:notation "12329" ;
+	dct:description "Average height of sea-ice ridges in an area."@en	.
