@@ -1,8 +1,0 @@
-@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
-@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
-@prefix dct: <http://purl.org/dc/terms/> . 
-
-<pT2.Hz-1> a skos:Concept ;
-	rdfs:label "picoTesla squared per Hertz" ;
-	skos:notation "pT2.Hz-1" ;
-	dct:description "SI derived unit for magnetic power spectrum commonly used to describe Schumann Resonances. SI base unit equivalent: 1E-12 A.m-1.s"@en	.
