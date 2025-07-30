@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<iss595> a skos:Concept ;
+<12334> a skos:Concept ;
 	rdfs:label "Sea-ice surface albedo" ;
-	skos:notation "iss595" ;
+	skos:notation "12334" ;
 	dct:description "Hemispherically integrated reflectance of sea ice in the wavelength range of 0.4-0.7 µm (400-700 nm). The sea-ice surface may be bare ice or snow-covered."@en	.
