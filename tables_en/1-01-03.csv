@@ -34,7 +34,7 @@ notation,path,domains,tags,name,description
 100,\Ocean\Physical properties\Sea state,,"physical properties, sea state",Significant wave height,Average amplitude of the highest 33 out of 100 waves
 101,\Ocean\Physical properties\Sea state,,"physical properties, sea state",Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
 102,\Ocean\Physical properties\Sea state,,"physical properties, sea state",Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15Â°deg; wide, and 25 frequency bands)."
-103,\Ocean\Physical properties\Ocean surface stress,,"physical properties, ocean surface stress",Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
+103,\Ocean\Physical properties\Ocean surface stress,,"physical properties, ocean surface stress",Sea surface wind stress,The shear force per unit area exerted by wind blowing over the sea surface. The same quantity may be referred in literature as either 'wind stress' or 'ocean wind stress'.
 311,\Ocean\Biogeochemistry\Nutrients,,"biogeochemistry, nutrients",NO2- (nitrite),Nitrite concentration in sea water.
 312,\Ocean\Biogeochemistry\Nutrients,,"biogeochemistry, nutrients",NO3- (nitrate),Nitrate concentration in sea water.
 399,\Ocean\Biogeochemistry\Nutrients,,"biogeochemistry, nutrients",PO4= (phosphate),Phosphate concentration in sea water.
