@@ -70,3 +70,5 @@ notation,path,domains,tags,name,description
 12323,\Ocean\Physical properties\Sea state,,"physical properties, sea state","Tsunami wave amplitude","Absolute value of the difference between a particular peak or trough of the tsunami wave and the expected undisturbed sea level at that time."
 12324,\Ocean\Cryosphere\Sea ice,,,Sea-ice melt pond fraction,"The fraction of an area covered by meltwater on the ice. The term 'puddle' is also used."
 12325,\Ocean\Physical properties,,,Surface stokes drift,The net drift of a fluid parcel at the surface due to surface waves.
+12326,\Ocean\Cryosphere\Sea ice,,,Iceberg height,The height of an iceberg above water.
+12327,\Ocean\Cryosphere\Sea ice,,,Iceberg length,"The length of an iceberg above water. If its shape is irregular, then the length is of the largest dimension."
