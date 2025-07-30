@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12331> a skos:Concept ;
+	rdfs:label "Sea-ice stage of development" ;
+	skos:notation "12331" ;
+	dct:description "Classes of sea ice related to ice age, thickness, strength, and viscosity. The names and definitions of the classes are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."@en	.

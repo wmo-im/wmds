@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12326> a skos:Concept ;
+	rdfs:label "Iceberg height" ;
+	skos:notation "12326" ;
+	dct:description "The height of an iceberg above water."@en	.
