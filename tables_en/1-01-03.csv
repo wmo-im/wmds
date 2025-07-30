@@ -67,3 +67,4 @@ notation,path,domains,tags,name,description
 12320,\Ocean\Biogeochemistry,,biogeochemistry,"Si(OH)4 (orthosilicic acid)","IUPAC: silicic acid, PubChem CID: 14942, CAS Number: 10193-36-9, concentration in sea water"
 12321,\Ocean\Cryosphere\Sea ice,,,Snow depth on sea ice,Vertical distance from the snow surface to the underlying sea-ice surface.
 12322,\Ocean\Biogeochemistry,,,N2O (nitrous oxide),"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, concentration in sea water"
+12323,\Ocean\Physical properties\Sea state,,"physical properties, sea state","Tsunami wave amplitude","Absolute value of the difference between a particular peak or trough of the tsunami wave and the expected undisturbed sea level at that time."
