@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <402> a skos:Concept ;
-	rdfs:label "Sea-ice elevation" ;
+	rdfs:label "Sea-ice freeboard" ;
 	skos:notation "402" ;
-	dct:description "Elevation of the surface of the sea-ice sheet above sea level"@en	.
+	dct:description "Elevation of the upper sea-ice surface relative to the sea surface."@en	.
