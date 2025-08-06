@@ -5,4 +5,4 @@
 <FM-72-climatShip> a skos:Concept ;
 	rdfs:label "FM 72 - CLIMAT SHIP" ;
 	skos:notation "FM-72-climatShip" ;
-	dct:description "Report of monthly means and totals from an ocean weather station. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"@en	.
+	dct:description "Report of monthly means and totals from an ocean weather station. Manual on Codes (WMO-No. 306)Volume I.1 (https://library.wmo.int/idurl/4/35713)"@en	.
