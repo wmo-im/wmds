@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<FM-14-synopMobil> a skos:Concept ;
+	rdfs:label "FM 14 - SYNOP MOBIL" ;
+	skos:notation "FM-14-synopMobil" ;
+	dct:description "Report of a surface observation from a mobile land station. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"@en	.
