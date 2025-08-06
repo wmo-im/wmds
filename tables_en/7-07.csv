@@ -2,7 +2,7 @@ notation,name,description
 ascii,ASCII,"ASCII (American Standard Code for Information Interchange) is a character-encoding scheme used for text files. Plain text files are often called ""ASCII"" files."
 csv,CSV,"A comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Each line of the file is a data record. Each record consists of one or more fields, separated by commas, hence the name for this file format."
 FM-12-synop,FM 12 - SYNOP,"Report of surface observation from a fixed land station. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
-FM-13-ship,FM 13 - SHIP,"Report of surface observation from a fixed sea station. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)""
+FM-13-ship,FM 13 - SHIP,"Report of surface observation from a fixed sea station. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
 FM-14-synopMobil,FM 14 - SYNOP MOBIL,"Report of a surface observation from a mobile land station. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
 FM-15-metar,FM 15 - METAR,"Aerodrome routine meteorological report (with or without trend forecast). Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
 FM-16-speci,FM 16 - SPECI,"Aerodrome special meteorological report (with or without trend forecast). Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
