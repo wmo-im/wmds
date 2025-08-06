@@ -5,5 +5,4 @@
 <FM-18-buoy> a skos:Concept ;
 	rdfs:label "FM 18 - BUOY" ;
 	skos:notation "FM-18-buoy" ;
-	dct:description "Report of a buoy observation. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)
-FM-201-collect,FM 201 - COLLECT,Collection of reports that use the same XML application schemas. Manual on Codes (WMO-No. 306), Volume I.3 (https://library.wmo.int/idurl/4/35769)"@en	.
+	dct:description "Report of a buoy observation. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"@en	.
