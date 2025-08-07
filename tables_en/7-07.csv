@@ -53,7 +53,7 @@ FM-83-sfazu,FM 83 - SFAZU,"Detailed report of the distribution of sources of atm
 FM-85-sarep,FM 85 - SAREP,"Report of synoptic interpretation of cloud data obtained by a meteorological satellite. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
 FM-86-satem,FM 86 - SATEM,"Report of satellite remote upper-air soundings of pressure, temperature and humidity. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
 FM-87-sarad,FM 87 - SARAD,"Report of satellite clear radiance observations. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
-FM-88-satob,FM 88 - SATOB,"Report of satellite observations of wi[nd, surface temperature, cloud, humidity and radiation. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
+FM-88-satob,FM 88 - SATOB,"Report of satellite observations of wind, surface temperature, cloud, humidity and radiation. Manual on Codes (WMO-No. 306), Volume I.1 (https://library.wmo.int/idurl/4/35713)"
 FM-92-grib,FM 92 - GRIB,"Processed data in the form of grid-point values expressed in binary form. Manual on Codes (WMO-No. 306), Volume I.2. (https://library.wmo.int/idurl/4/35625)"
 FM-94-bufr,FM 94 - BUFR,"Binary Universal Form for the Representation of meteorological data. Manual on Codes (WMO-No. 306), Volume I.2. (https://library.wmo.int/idurl/4/35625)"
 FM-95-crex,FM 95 - CREX,"Character form for the representation and exchange of data. Manual on Codes (WMO-No. 306), Volume I.2. (https://library.wmo.int/idurl/4/35625)"
