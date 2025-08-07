@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<iss588> a skos:Concept ;
+<> a skos:Concept ;
 	rdfs:label "Sea-ice floe size distribution" ;
-	skos:notation "iss588" ;
+	skos:notation "" ;
 	dct:description "The area density distribution of sea-ice floes expressed as the power-law exponent of the distribution of floe areas over a region."@en	.
