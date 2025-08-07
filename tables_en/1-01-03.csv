@@ -80,3 +80,4 @@ notation,path,domains,tags,name,description
 12333,\Ocean\Cryosphere\Sea ice,,,Sea-ice lead thickness,Thickness of new ice within a sea-ice lead.
 12334,\Ocean\Cryosphere\Sea ice,,,Sea-ice surface albedo,"Hemispherically integrated reflectance of sea ice in the wavelength range of 0.4-0.7 µm (400-700 nm). The sea-ice surface may be bare ice or snow-covered."
 12335,\Ocean\Cryosphere\Sea ice,,,Sea-ice age,Age of sea ice since its formation.
+iss588,\Ocean\Cryosphere\Sea ice,,,Sea-ice floe size distribution,"The area density distribution of sea-ice floes expressed as the power-law exponent of the distribution of floe areas over a region."
