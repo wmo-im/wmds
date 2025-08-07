@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<12333> a skos:Concept ;
+	rdfs:label "Sea-ice lead thickness" ;
+	skos:notation "12333" ;
+	dct:description "Thickness of new ice within a sea-ice lead."@en	.
