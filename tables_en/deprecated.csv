@@ -21,3 +21,4 @@ table,url,name,status,date
 2-01,http://codes.wmo.int/wmdr/ApplicationArea/climateScience,Transportation sector,retired,FT2025-1
 2-01,http://codes.wmo.int/wmdr/ApplicationArea/unknown,Climate Science,retired,FT2025-1
 1-01,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/224,Air temperature (at specified distance from reference surface),retired,FT2025-2
+2-02,http://codes.wmo.int/wmdr/ProgramAffiliation/GAWnonAffiliated,GAWnonAffiliated,retired,FT2025-2

@@ -34,17 +34,17 @@ notation,path,domains,tags,name,description
 100,\Ocean\Physical properties\Sea state,,"physical properties, sea state",Significant wave height,Average amplitude of the highest 33 out of 100 waves
 101,\Ocean\Physical properties\Sea state,,"physical properties, sea state",Wave 1D energy frequency spectrum,1D variable colloquially referred to as wave spectrum. Describes the wave energy in each frequency band (e.g. 25 frequency bands) regardless of the direction of propagation.
 102,\Ocean\Physical properties\Sea state,,"physical properties, sea state",Wave directional energy frequency spectrum,"2D variable colloquially referred to as wave spectrum. Describes the wave energy travelling in each direction and frequency band (e.g. 24 distinct azimuth sectors each 15Â°deg; wide, and 25 frequency bands)."
-103,\Ocean\Physical properties\Ocean surface stress,,"physical properties, ocean surface stress",Wind stress,The shear force per unit area exerted by wind blowing over the sea surface.
+103,\Ocean\Physical properties\Ocean surface stress,,"physical properties, ocean surface stress",Sea surface wind stress,The shear force per unit area exerted by wind blowing over the sea surface. The same quantity may be referred in literature as either 'wind stress' or 'ocean wind stress'.
 311,\Ocean\Biogeochemistry\Nutrients,,"biogeochemistry, nutrients",NO2- (nitrite),Nitrite concentration in sea water.
 312,\Ocean\Biogeochemistry\Nutrients,,"biogeochemistry, nutrients",NO3- (nitrate),Nitrate concentration in sea water.
 399,\Ocean\Biogeochemistry\Nutrients,,"biogeochemistry, nutrients",PO4= (phosphate),Phosphate concentration in sea water.
 400,\Ocean\Biogeochemistry\Phosporus species,,"biogeochemistry, phosporus species",Total organic phosphorus,Concentration of dissolved organic phosphorous
-401,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice cover,Fraction of an ocean area where ice is present
-402,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice elevation,Elevation of the surface of the sea-ice sheet above sea level
-403,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice motion,Sea-ice motion
+401,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice concentration,Fraction of an ocean area covered by sea-ice.
+402,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice freeboard,Elevation of the upper sea-ice surface relative to the sea surface.
+403,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice velocity,"Horizontal displacement of sea ice over a defined time interval, specified as a two-element vector quantity: u and v. Related terms found in the literature are ""Sea-ice motion"" and ""Sea-ice drift""."
 404,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface characteristics,"Sea-ice surface characteristics (albedo, meltpond, dust, snow properties, temperature)"
-405,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice surface temperature,Temperature of the surface of sea-ice
-406,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice thickness,Thickness of the ice sheet. It is related to sea-ice elevation and ice density.
+405,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice temperature,"Sea-ice temperature measured at defined vertical levels in the ice and any snow on the ice, including the temperature at the ice and snow surfaces. By convention, levels are referenced to the surface of the sea ice, with positive values indicating levels above, and negative values indicating levels below the surface of the sea ice."
+406,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice thickness,"Vertical distance between the bottom and the top of sea ice, excluding snow on ice."
 407,\Ocean\Cryosphere\Sea ice,,"cryosphere, sea ice",Sea-ice type,"Variable convolving several factors (age, roughness, density, etc.). Accuracy expressed as number of classes. Actually [ classes^-1 ] is used, so that smaller figure corresponds to better performance as usual."
 408,\Ocean\Physical properties\CTD,,"physical properties, CTD",Transmissivity,Measure of the light that passes through the water in relation to the incident light
 549,\Ocean\Biogeochemistry\Other gas\CTD,,"biogeochemistry, CTD",pO2,partial pressure of O2
@@ -64,3 +64,20 @@ notation,path,domains,tags,name,description
 12245,\Ocean\Biology\Plankton,,"biology, plankton",Zooplankton biomass and diversity,Biomass expressed as weight by volume; and diversity of biomass expressed as number of species per unit sample.
 12246,\Ocean\Biogeochemistry,,biogeochemistry,Ocean subsurface tracers,Concentration of trace molecules such as tritium and CFCs
 12319,\Ocean\Biogeochemistry\Other gas,,"biogeochemistry, other gas","N2, Ar",Concentration of dissolved N2 and Ar
+12320,\Ocean\Biogeochemistry,,biogeochemistry,"Si(OH)4 (orthosilicic acid)","IUPAC: silicic acid, PubChem CID: 14942, CAS Number: 10193-36-9, concentration in sea water"
+12321,\Ocean\Cryosphere\Sea ice,,,Snow depth on sea ice,Vertical distance from the snow surface to the underlying sea-ice surface.
+12322,\Ocean\Biogeochemistry,,,N2O (nitrous oxide),"IUPAC: nitrous oxide, PubChem CID: 948, CAS Number: 10024-97-2, concentration in sea water"
+12323,\Ocean\Physical properties\Sea state,,"physical properties, sea state","Tsunami wave amplitude","Absolute value of the difference between a particular peak or trough of the tsunami wave and the expected undisturbed sea level at that time."
+12324,\Ocean\Cryosphere\Sea ice,,,Sea-ice melt pond fraction,"The fraction of an area covered by meltwater on the ice. The term 'puddle' is also used."
+12325,\Ocean\Physical properties,,,Surface stokes drift,The net drift of a fluid parcel at the surface due to surface waves.
+12326,\Ocean\Cryosphere\Sea ice,,,Iceberg height,The height of an iceberg above water.
+12327,\Ocean\Cryosphere\Sea ice,,,Iceberg length,"The length of an iceberg above water. If its shape is irregular, then the length is of the largest dimension."
+12328,\Ocean\Cryosphere\Sea ice,,,Sea-ice ridge concentration,Fraction of an area of sea-ice occupied by ridges.
+12329,\Ocean\Cryosphere\Sea ice,,,Sea-ice ridge height,Average height of sea-ice ridges in an area.
+12330,\Ocean\Cryosphere\Sea ice,,,Sea-ice stage of melt,"Categories of sea-ice melt that represent the occurrence of puddles (melt ponds), thawholes, flooded ice, and ice condition resulting from current or previous melting. Category names and definitions are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."
+12331,\Ocean\Cryosphere\Sea ice,,,Sea-ice stage of development,"Classes of sea ice related to ice age, thickness, strength, and viscosity. The names and definitions of the classes are defined in WMO Sea-Ice Nomenclature (WMO-No. 259)."
+12332,\Ocean\Cryosphere\Sea ice,,,Sea-ice lead width,Width of a sea-ice lead approximately perpendicular to its long axis.
+12333,\Ocean\Cryosphere\Sea ice,,,Sea-ice lead thickness,Thickness of new ice within a sea-ice lead.
+12334,\Ocean\Cryosphere\Sea ice,,,Sea-ice surface albedo,"Hemispherically integrated reflectance of sea ice in the wavelength range of 0.4-0.7 µm (400-700 nm). The sea-ice surface may be bare ice or snow-covered."
+12335,\Ocean\Cryosphere\Sea ice,,,Sea-ice age,Age of sea ice since its formation.
+12336,\Ocean\Cryosphere\Sea ice,,,Sea-ice floe size distribution,"The area density distribution of sea-ice floes expressed as the power-law exponent of the distribution of floe areas over a region."
