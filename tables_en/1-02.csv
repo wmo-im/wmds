@@ -196,3 +196,4 @@ W.m-3.sr-1,watt per square metre per steradian per metre,"SI derived unit of spe
 Wb,Weber,SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-1
 week,week,"Conventional unit of time, equivalent to 604800 s"
 W.m-2.sr-1.Hz-1,watt per square metre per steradian per hertz,"SI derived unit of spectral radiance per unit frequency; SI base unit equivalent: kg.s-2"
+dBZ,Radar reflectivity in decibel,"Logarithm (with base 10) of the ratio Z/Z0, multiplied by 10, where Z is the radar reflectivity factor and Z0 is a reference value of 1 mm⁶/m³; SI base unit equivalent: 1"
