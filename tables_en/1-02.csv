@@ -193,4 +193,4 @@ W.m-3.sr-1,watt per square metre per steradian per metre,"SI derived unit of spe
 Wb,Weber,SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-1
 week,week,"Conventional unit of time, equivalent to 604800 s"
 W.m-2.sr-1.Hz-1,watt per square metre per steradian per hertz,"SI derived unit of spectral radiance per unit frequency; SI base unit equivalent: kg.s-2"
-PVU,microkelvin square metre per kilogram per second,"PVU (Potential Vorticity Unit) is a conventional SI derived unit of potential vorticity; SI base unit equivalent: 1E-6 K.m2.kg-1.s-1"
+PVU,Potential Vorticity Unit,"PVU (Potential Vorticity Unit) is a conventional SI derived unit of potential vorticity; SI base unit equivalent: 1E-6 K.m2.kg-1.s-1"
