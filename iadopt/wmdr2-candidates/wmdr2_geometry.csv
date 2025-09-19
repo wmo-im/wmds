@@ -1,9 +1,7 @@
 @id,dct:description,rdf:type,rdfs:label,skos:notation,id,name
 <http://codes.wmo.int/wmdr/Geometry/area>,"'a two-dimensional feature, either a plane, or some other surface'@en",skos:Concept,Area,area,area,Area
-<http://codes.wmo.int/wmdr/Geometry/inapplicable>,'observing geometry inapplicable'@en,skos:Concept,inapplicable,inapplicable,inapplicable,inapplicable
 <http://codes.wmo.int/wmdr/Geometry/line>,"'a one-dimensional feature, either a straight line, or a curve; synonymous with trajectory'@en",skos:Concept,Line,line,line,Line
 <http://codes.wmo.int/wmdr/Geometry/point>,'a zero-dimensional feature'@en,skos:Concept,Point,point,point,Point
 <http://codes.wmo.int/wmdr/Geometry/totalColumn>,'the integral of the vertical distribution of a feature'@en,skos:Concept,Total column,totalColumn,totalColumn,Total column
-<http://codes.wmo.int/wmdr/Geometry/unknown>,'observing geometry unknown'@en,skos:Concept,unknown,unknown,unknown,unknown
 <http://codes.wmo.int/wmdr/Geometry/verticalProfile>,'synonymous to vertical distribution of a feature'@en,skos:Concept,Vertical profile,verticalProfile,verticalProfile,Vertical profile
 <http://codes.wmo.int/wmdr/Geometry/volume>,'a three-dimensional feature'@en,skos:Concept,Volume,volume,volume,Volume
