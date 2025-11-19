@@ -576,7 +576,7 @@ notation,path,domains,tags,name,description
 12163,\Atmosphere\Dynamics,,dynamics,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
 12164,\Atmosphere\Gas phase,,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
 12165,\Atmosphere\Humidity,,\Atmosphere\Humidity\Water vapour,Water vapour,
-12166,\Atmosphere\Temperature,,\Atmosphere\Temperature\Temperature,Air Temperature,The temperature indicated by a thermometer exposed to the air (shielded or unshielded) in a manner in accordance to the method of observation.
+12166,\Atmosphere\Temperature,,\Atmosphere\Temperature\Temperature,Air Temperature,
 12167,\Atmosphere\Clouds,,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
 12168,\Atmosphere,,\Atmosphere,Height of the top of the PBL,Height of the surface above ground separating the planetary boundary layer (PBL) from the free atmosphere.
 12169,\Atmosphere\Particle phase,,\Atmosphere\Particle Phase\Aerosol type,Aerosol type,"Selection, out of a pre-defined set of aerosol classes, that best fits an input data set (observed or modeled). The pre-defined set of aerosol classes includes specification of the particle composition, mixing state, complex refractive index, and shape as a function of particle size. The definition of aerosol type includes specification of all the classes as well as the algorithm used to choose the best fit to the input data."
