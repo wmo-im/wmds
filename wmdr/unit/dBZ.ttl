@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<dBZ> a skos:Concept ;
+	rdfs:label "Radar reflectivity in decibel" ;
+	skos:notation "dBZ" ;
+	dct:description "Logarithm (with base 10) of the ratio Z/Z0, multiplied by 10, where Z is the radar reflectivity factor and Z0 is a reference value of 1 mm⁶/m³; SI base unit equivalent: 1"@en	.
