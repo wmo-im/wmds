@@ -22,3 +22,4 @@ table,url,name,status,date
 2-01,http://codes.wmo.int/wmdr/ApplicationArea/unknown,Climate Science,retired,FT2025-1
 1-01,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/224,Air temperature (at specified distance from reference surface),retired,FT2025-2
 2-02,http://codes.wmo.int/wmdr/ProgramAffiliation/GAWnonAffiliated,GAWnonAffiliated,retired,FT2025-2
+1-01,http://codes.wmo.int/wmdr/ObservedVariableAtmosphere/12165,Water vapour,retired,FT2026-1
