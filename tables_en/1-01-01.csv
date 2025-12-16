@@ -43,7 +43,7 @@ notation,path,domains,tags,name,description
 248,\Atmosphere\Dynamics,,,"Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics,,,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics,,,Turbulence type (low levels and wake vortex),
-252,\Atmosphere\Humidity,,,Integrated water vapour,
+252,\Atmosphere\Humidity,,,Integrated water vapour,Total amount of water vapour in a vertical column of air per unit area. Integrated water vapour (IWV) is also known as precipitable water vapour (PWV). 
 253,\Atmosphere\Humidity,,,Mass mixing ratio,
 254,\Atmosphere\Humidity,,,Object wetness duration,
 255,\Atmosphere\Humidity,,,Water vapour pressure,
