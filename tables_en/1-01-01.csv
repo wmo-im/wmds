@@ -46,7 +46,7 @@ notation,path,domains,tags,name,description
 252,\Atmosphere\Humidity,,,Integrated water vapour,
 253,\Atmosphere\Humidity,,,Mass mixing ratio,
 254,\Atmosphere\Humidity,,,Object wetness duration,
-255,\Atmosphere\Humidity,,,Water vapour pressure,
+255,\Atmosphere\Humidity,,,Water vapour pressure,Partial pressure of water vapour in an air parcel 
 257,\Atmosphere\Lightning,,,Lightning discharge current,Current incurred by the lightning discharge.
 258,\Atmosphere\Lightning,,,Lightning discharge polarity,Polarity of the charge effectively lowered to ground during a lightning discharge.
 259,\Atmosphere\Lightning,,,Lightning discharge rate,"Number of lightning discharges per unit time in a given region (e.g. world-wide) or for a given storm system (e.g. a thunderstorm cell)."
