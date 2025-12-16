@@ -5,4 +5,4 @@
 <12166> a skos:Concept ;
 	rdfs:label "Air Temperature" ;
 	skos:notation "12166" ;
-	dct:description "The temperature indicated by a thermometer exposed to the air in a place sheltered from direct solar radiation."@en	.
+	dct:description ""@en	.
