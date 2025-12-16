@@ -43,7 +43,7 @@ notation,path,domains,tags,name,description
 249,\Atmosphere\Dynamics,,,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics,,,Turbulence type (low levels and wake vortex),
 252,\Atmosphere\Humidity,,,Integrated water vapour,
-253,\Atmosphere\Humidity,,,Mass mixing ratio,
+253,\Atmosphere\Humidity,,,Mixing ratio,"The ratio of the mass of water vapor in a sample of air and the mass of the dry air in that same air parcel. Note, mixing ratio is related to the concept of specific humidity, which is the fraction of water vapour in the air."
 254,\Atmosphere\Humidity,,,Object wetness duration,
 255,\Atmosphere\Humidity,,,Water vapour pressure,
 257,\Atmosphere\Lightning,,,Lightning discharge current,Current incurred by the lightning discharge.
