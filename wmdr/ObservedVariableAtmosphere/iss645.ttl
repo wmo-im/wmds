@@ -5,4 +5,4 @@
 <iss645> a skos:Concept ;
 	rdfs:label "Water vapour amount fraction" ;
 	skos:notation "iss645" ;
-	dct:description "The ratio of the amount of water vapour and the total amount of air including water vapour in an air parcel."@en	.
+	dct:description "The ratio of the amount of water vapour and the total amount of air including water vapour in an air parcel. Note"@en	.
