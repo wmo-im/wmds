@@ -224,7 +224,6 @@ FranceGlider,\Co-sponsored\GOOS\OceanGliders\DTINSU international,DTINSU interna
 GALION,\WIGOS\GAW\GALION,GALION,GAW Aerosol Lidar Observation Network
 GAWglobal,\WIGOS\GAW\GAW Global,GAW Global,Global GAW station
 GAWlocal,\WIGOS\GAW\GAW Local,GAW Local,Local GAW station
-GAWnonAffiliated,\WIGOS\GAW\GAW Other elements\Non-affiliated,Non-affiliated,Observing elements that are not affiliated with GAW or any of the co-sponsored programs
 GAWPFR,\WIGOS\GAW\GAW Contributing networks\GAW-PFR,GAW-PFR,GAW Precision Filter Radiometer Network
 GAWregional,\WIGOS\GAW\GAW Regional,GAW Regional,Regional GAW station
 GBON,\WIGOS\GOS\GOS Surface networks\GBON,GBON,Global Basic Observing Network
@@ -339,6 +338,7 @@ ICOS,\WIGOS\GAW\GAW Contributing networks\ICOS,ICOS,"Integrated Carbon Observati
 ILBD,\Co-sponsored\GOOS\DBCP\IL-DB,IL-DB,Drifting buoy by Israel
 ILMB,\Co-sponsored\GOOS\DBCP\IL-MB,IL-MB,Moored buoys by Israel
 IMARPEglider,\Co-sponsored\GOOS\OceanGliders\IMARPEglider,IMARPE Glider Program,IMARPE (Instituto del Mar del Perœ) glider program
+IMOSCoastalWB,\Co-sponsored\GOOS\DBCP\IMOSCoastalWB,IMOS coastal wave buoys,Australia Integrated Marine Observing System (IMOS) moored wave buoys
 IMOSGlider,\Co-sponsored\GOOS\OceanGliders\Integrated Marine Observing System - Glider,Integrated Marine Observing System - Glider,The Ocean Gliders facility operates a fleet of autonomous underwater ocean gliders that undertake measurements from shelf and boundary currents in Australian waters.
 IMPROVE,\WIGOS\GAW\GAW Contributing networks\IMPROVE,IMPROVE,IMPROVE Optical Aerosol
 INCOISTSU,\Co-sponsored\GOOS\DBCP\INCOIS-TSU,INCOIS-TSU,Indian National Centre for Ocean Information Services Tsunameter buoys

@@ -39,8 +39,8 @@ notation,path,domains,tags,name,description
 629,\Terrestrial\Cryosphere\Snow,,,Snow depth,Vertical distance from the snow surface to a stated reference level.
 630,\Terrestrial\Cryosphere\Snow,,,Snow surface state,Binary product (dry or wet) expressing the presence of liquid water at the surface of the snow cover.
 631,\Terrestrial\Cryosphere\Snow,,,Water equivalent of snow cover,"The Vertical depth of the water that would be obtained if the snow cover melted completely, which equates to the snow-cover mass per unit area."
-725,\Terrestrial\Cryosphere\Lake ice,,,Ice thickness,
-726,\Terrestrial\Cryosphere\River ice,,,Ice thickness,
+725,\Terrestrial\Cryosphere\Lake ice,,,Lake ice thickness,"Vertical distance between the bottom of the ice and the top lake ice surface, excluding snow on ice."
+726,\Terrestrial\Cryosphere\River ice,,,River ice thickness,"Vertical distance between the bottom of the ice and the top river-ice surface, excluding snow on ice."
 12007,\Terrestrial\Cryosphere\Snow,,,Presence of snow,A binary observation of the presence of snow cover at the measurement location.
 12008,\Terrestrial\Cryosphere\Snow,,,Water equivalent of snowfall,"Vertical depth of the water that would be obtained if the freshly fallen snow melted completely, which equates to the new snow mass per unit area."
 12009,\Terrestrial\Cryosphere\Glacier,,,Glacier mass balance at a point,"The result of all processes adding and removing mass from the glacier at a point on its surface, expressed over a stated period of time"

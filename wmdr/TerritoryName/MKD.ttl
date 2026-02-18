@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <MKD> a skos:Concept ;
-	rdfs:label "Macedonia, the former Yugoslav Republic of" ;
+	rdfs:label "North Macedonia" ;
 	skos:notation "MKD" ;
-	dct:description "Macedonia, the former Yugoslav Republic of"@en	.
+	dct:description "North Macedonia"@en	.

@@ -35,7 +35,6 @@ notation,path,domains,tags,name,description
 221,\Atmosphere\Radionuclide,,,Krypton [Kr-85],"IUPAC: krypton-85, PubChem CID: 104816, CAS Number: 13983-27-2"
 222,\Atmosphere\Radionuclide,,,Lead [Pb-210],"IUPAC: lead-210, PubChem CID: 6328175, CAS Number: 14255-04-0"
 223,\Atmosphere\Radionuclide,,,Radon [Rn-222],"IUPAC: radon-222, PubChem CID: 61773, CAS Number: 14859-67-7"
-224,\Atmosphere\Temperature,,,Air temperature (at specified distance from reference surface),
 225,\Atmosphere\Temperature,,,Dew-point temperature (at specified distance from reference surface),
 226,\Atmosphere\Temperature,,,"Extreme temperature (min, max) (at specified distance from reference surface)",
 229,\Atmosphere\Visibility,,,Runway visual range,
@@ -44,9 +43,9 @@ notation,path,domains,tags,name,description
 249,\Atmosphere\Dynamics,,,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics,,,Turbulence type (low levels and wake vortex),
 252,\Atmosphere\Humidity,,,Integrated water vapour,Total amount of water vapour per unit area in a vertical column of air. Integrated water vapour (IWV) is also known as precipitable water vapour (PWV). 
-253,\Atmosphere\Humidity,,,Mass mixing ratio,
+253,\Atmosphere\Humidity,,,Mixing ratio,"The ratio of the mass of water vapor in a sample of air and the mass of the dry air in that same air parcel. Note, mixing ratio is related to the concept of specific humidity, which is the fraction of water vapour in the air."
 254,\Atmosphere\Humidity,,,Object wetness duration,
-255,\Atmosphere\Humidity,,,Water vapour pressure,
+255,\Atmosphere\Humidity,,,Water vapour pressure,Partial pressure of water vapour in an air parcel 
 257,\Atmosphere\Lightning,,,Lightning discharge current,Current incurred by the lightning discharge.
 258,\Atmosphere\Lightning,,,Lightning discharge polarity,Polarity of the charge effectively lowered to ground during a lightning discharge.
 259,\Atmosphere\Lightning,,,Lightning discharge rate,"Number of lightning discharges per unit time in a given region (e.g. world-wide) or for a given storm system (e.g. a thunderstorm cell)."
@@ -576,8 +575,7 @@ notation,path,domains,tags,name,description
 12162,\Atmosphere\Particle phase,,aerosol,Aerosol layer height,Height of vertically localized aerosol layer above sea level
 12163,\Atmosphere\Dynamics,,dynamics,Mixed layer height,"Height above the surface to which atmospheric properties (wind speed, etc) or atmospheric constituents (aerosol, gases) are dispersed by turbulent vertical mixing"
 12164,\Atmosphere\Gas phase,,\Atmosphere\Gas\O3 (ozone),O3 (ozone),"IUPAC: ozone, PubChem CID: 24823, CAS Number: 10028-15-6, in gas phase"
-12165,\Atmosphere\Humidity,,\Atmosphere\Humidity\Water vapour,Water vapour,
-12166,\Atmosphere\Temperature,,\Atmosphere\Temperature\Temperature,Temperature,
+12166,\Atmosphere\Temperature,,\Atmosphere\Temperature\Temperature,Air Temperature,
 12167,\Atmosphere\Clouds,,\Atmosphere\Clouds\Cloud phase,Cloud phase,"Aggregate state of cloud particles, either water droplets/drops, snowflakes, ice/snow crystals, or mixed."
 12168,\Atmosphere,,\Atmosphere,Height of the top of the PBL,Height of the surface above ground separating the planetary boundary layer (PBL) from the free atmosphere.
 12169,\Atmosphere\Particle phase,,\Atmosphere\Particle Phase\Aerosol type,Aerosol type,"Selection, out of a pre-defined set of aerosol classes, that best fits an input data set (observed or modeled). The pre-defined set of aerosol classes includes specification of the particle composition, mixing state, complex refractive index, and shape as a function of particle size. The definition of aerosol type includes specification of all the classes as well as the algorithm used to choose the best fit to the input data."
