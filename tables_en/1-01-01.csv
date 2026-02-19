@@ -21,7 +21,7 @@ notation,path,domains,tags,name,description
 205,\Atmosphere\Gas phase\Other Gas,,,H2 (hydrogen molecule),"IUPAC: molecular hydrogen, PubChem CID: 783, CAS Number: 1333-74-0, in gas phase"
 206,\Atmosphere\Gas phase\Other Gas,,,H2O (as a chemical species),"IUPAC: oxidane, PubChem CID: 962, CAS Number: 7732-18-5, in gas phase"
 207,\Atmosphere\Gas phase\Other Gas,,,HDO (as a chemical species),"IUPAC: n/a, PubChem CID: 139859, CAS Number: 14940-63-7, in gas phase"
-210,\Atmosphere\Precipitation,,,Amount of precipitation,
+210,\Atmosphere\Precipitation,,,Amount of precipitation,"Precipitation that reaches the surface in a stated period, expressed in terms of the vertical depth of water (or water equivalent in the case of solid precipitation) to which it would cover a horizontal projection of the Earth’s surface. Modified from: WMO-No. 8. Note: Sometimes called 'accumulated precipitation'."
 211,\Atmosphere\Precipitation,,,Duration of precipitation,
 212,\Atmosphere\Precipitation,,,Intensity of precipitation,
 213,\Atmosphere\Precipitation,,,Occurrence of precipitation during last period (yes/no),
