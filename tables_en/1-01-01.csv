@@ -42,7 +42,7 @@ notation,path,domains,tags,name,description
 248,\Atmosphere\Dynamics,,,"Transport calculations (e.g., trajectories)",
 249,\Atmosphere\Dynamics,,,Turbulence,Kinetic energy density of turbulent motion of the air
 250,\Atmosphere\Dynamics,,,Turbulence type (low levels and wake vortex),
-252,\Atmosphere\Humidity,,,Integrated water vapour,
+252,\Atmosphere\Humidity,,,Integrated water vapour,Total amount of water vapour per unit area in a vertical column of air. Integrated water vapour (IWV) is also known as precipitable water vapour (PWV). 
 253,\Atmosphere\Humidity,,,Mixing ratio,"The ratio of the mass of water vapor in a sample of air and the mass of the dry air in that same air parcel. Note, mixing ratio is related to the concept of specific humidity, which is the fraction of water vapour in the air."
 254,\Atmosphere\Humidity,,,Object wetness duration,
 255,\Atmosphere\Humidity,,,Water vapour pressure,Partial pressure of water vapour in an air parcel 
