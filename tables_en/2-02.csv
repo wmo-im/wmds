@@ -192,6 +192,7 @@ CORMPNC,\Co-sponsored\GOOS\DBCP\CORMP-NC,CORMP-NC,Coastal Ocean Research and Mon
 COSYNA,\Co-sponsored\GOOS\OceanGliders\Coastal Observing System for Northern and Arctic Seas,Coastal Observing System for Northern and Arctic Seas,German multi-platform Observatory of the Northern and Arctic Sea
 CSIMB,\Co-sponsored\GOOS\DBCP\CSI-MB,CSI-MB,"Owned and maintained by UNC Coastal Studies Institute, Data provided by Scripps Institution of Oceanography"
 CTBTO,\WIGOS\GOS\GOS Contributing networks\CTBTO,CTBTO,Comprehensive Nuclear-Test Ban Treaty Organization International Monitoring System Network monitoring station
+CW3ECDWR,\Co-sponsored\GOOS\DBCP\CW3ECDWR,CW3E-CDWR,Center for Western Weather and Water Extremes - California Department of Water Resources
 CYCOFOS,\Co-sponsored\GOOS\OceanGliders\Cyprus Coastal Ocean Forecasting and Observing System,Cyprus Coastal Ocean Forecasting and Observing System,"Sub-regional forecasting and observing system in the Eastern Mediterranean Levantine Basin, which covers the coastal and open sea areas of Cyprus, Cilician and Lattakian basins and the Eastern Levantine Base"
 DBCPothers,\Co-sponsored\GOOS\DBCP\DBCP others,DBCP others,NA
 DEKOSIM,\Co-sponsored\GOOS\Argo\DEKOSIM,DEKOSIM,DEKOSIM is an interdisciplinary research project funded by the Turkish Ministry of Development
@@ -523,6 +524,7 @@ SIODB,\Co-sponsored\GOOS\DBCP\SIO-DB,SIO-DB,Scripps Institution of Oceanography 
 SIOSGlider,\Co-sponsored\GOOS\OceanGliders\NorGliders - SIOS,NorGliders - SIOS,SIOS glider program operated by UiB
 SKIOGlider,\Co-sponsored\GOOS\OceanGliders\SKIO Glider Program,SKIO Glider Program,"SKIO Glider Program is part of SECOORA's observatories to observe, understand, and increase awareness of our coastal ocean; promoting knowledge, economic and environmental health through strong regional partnerships."
 skynet,\WIGOS\GAW\GAW Other elements\SKYNET,SKYNET,Aerosol-cloud-radiation interaction in the atmosphere project
+SOCIBDB,\Co-sponsored\GOOS\DBCP\SOCIBDB,SOCIB-DB,"Balearic Islands Coastal Observing and Forecasting System contribution to the Global Drifter Array"
 SOCIBGDP,\Co-sponsored\GOOS\DBCP\SOCIBGDP,SOCIB-GDP,"Barometer upgraded drifting buoys managed by the Balearic Islands Coastal Observing and Forecasting System (SOCIB), Spain, supported by GDP/NOAA"
 SOCIBGlider,\Co-sponsored\GOOS\OceanGliders\Balearic Islands Observatory,Balearic Islands Observatory,"SOCIB operational program is, covering the Eivissa channel (6 transects) and Mallorca channel (1 transect) from APR to MAY 2019, sampling physical and biogeochemical parameters (CTD, fluorescence and turbidity, and oxygen)."
 soclim,\Co-sponsored\GOOS\Argo\SOCLIM,SOCLIM,Southern Ocean Climate: Field studies with innovative tools
