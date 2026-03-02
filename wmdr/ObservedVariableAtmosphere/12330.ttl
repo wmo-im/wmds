@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<iss645> a skos:Concept ;
+<12330> a skos:Concept ;
 	rdfs:label "Water vapour amount fraction" ;
-	skos:notation "iss645" ;
+	skos:notation "12330" ;
 	dct:description "The ratio of the amount of water vapour and the total amount of air including water vapour in an air parcel. Note, this concept is related to 'water vapour mass fraction'."@en	.
