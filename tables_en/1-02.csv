@@ -160,6 +160,7 @@ ppmv,parts per million by volume,"Unit of volume fraction, equivalent to SI deri
 pptv,parts per trillion by volume,"Unit of volume fraction, equivalent to SI derived unit: 1E-12"
 psu,practical salinity unit,"Conventional unit, equivalent to per mille; SI based unit equivalent: 0.001"
 pT2.Hz-1,picoTesla squared per Hertz,SI derived unit for magnetic power spectrum commonly used to describe Schumann Resonances. SI base unit equivalent: 1E-12 A.m-1.s
+PVU,Potential Vorticity Unit,"PVU (Potential Vorticity Unit) is a conventional SI derived unit of potential vorticity; SI base unit equivalent: 1E-6 K.m2.kg-1.s-1"
 rad,radian,SI derived unit of plane angle; SI base unit equivalent: 1
 rad.m-1,radian per metre,SI derived unit of spatial gradient of plane angle
 rad.s-1,radian per second,SI derived unit of angular velocity; SI base unit equivalent: s-1
@@ -197,4 +198,3 @@ W.m-3.sr-1,watt per square metre per steradian per metre,"SI derived unit of spe
 Wb,Weber,SI derived unit of magnetic flux; SI base unit equivalent: kg.m2.s-2.A-1
 week,week,"Conventional unit of time, equivalent to 604800 s"
 W.m-2.sr-1.Hz-1,watt per square metre per steradian per hertz,"SI derived unit of spectral radiance per unit frequency; SI base unit equivalent: kg.s-2"
-PVU,Potential Vorticity Unit,"PVU (Potential Vorticity Unit) is a conventional SI derived unit of potential vorticity; SI base unit equivalent: 1E-6 K.m2.kg-1.s-1"
