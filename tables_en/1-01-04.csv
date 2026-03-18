@@ -7,19 +7,19 @@ notation,path,domains,tags,name,description
 111,\Outer Space\Energetic particles-solar wind,,,Radiation Dose Rate,3D field of the dose rate of energetic particles
 112,\Outer Space\Energetic particles-solar wind,,,Solar wind temperature,Temperature of solar wind protons.
 113,\Outer Space\Energetic particles-solar wind,,,Solar wind velocity,Vector velocity of solar wind plasma.
-114,\Outer Space\Ionospheric disturbances,,,Aurora,Occurrence of fluorescence of the upper atmosphere through ionization by energetic charged particles accelerated by the Earth's magnetic field.
-115,\Outer Space\Ionospheric disturbances,,,Electric Field,Magnitude and direction of the Earth's electric field.
-116,\Outer Space\Ionospheric disturbances,,,Electron Density,3-D field of the electron density in the ionosphere.
-117,\Outer Space\Ionospheric disturbances,,,Ionospheric Radio Absorption,Attenuation of a radio wave passing through the lower ionosphere.
-118,\Outer Space\Ionospheric disturbances,,,Ionospheric Scintillation,Random fluctuations of radio waves resulting of small scale variations of the ionospheric electron density in space and time.
-119,\Outer Space\Ionospheric disturbances,,,Ionospheric Vertical Total Electron Content (VTEC),Number of electrons between two points.
-120,\Outer Space\Ionospheric disturbances,,,Ionospheric plasma density,Total number of ionized particles in a volume unit of ionospheric plasma.
-121,\Outer Space\Ionospheric disturbances,,,Ionospheric plasma velocity,Velocity of bulk plasma or electrons (depending on measurement technique) as a function of altitude in the ionosphere.
-122,\Outer Space\Ionospheric disturbances,,,Spread F,Vertical thickness of highly structured ion density in the F-region of the ionosphere.
-123,\Outer Space\Ionospheric disturbances,,,foEs,The highest ordinary-wave frequency reflected back from a sporadic E layer and observed by an ionosonde.
-124,\Outer Space\Ionospheric disturbances,,,foF2,"Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm-3): f=9*10^-3*sqrt(Ne)."
-125,\Outer Space\Ionospheric disturbances,,,h'F,Virtual height of the bottom of the ionospheric F-layer.
-126,\Outer Space\Ionospheric disturbances,,,hmF2,Altitude of the peak density in the ionospheric F2 layer.
+114,\Outer Space\Ionosphere,,,Aurora,Occurrence of fluorescence of the upper atmosphere through ionization by energetic charged particles accelerated by the Earth's magnetic field.
+115,\Outer Space\Ionosphere,,,Electric Field,Magnitude and direction of the Earth's electric field.
+116,\Outer Space\Ionosphere\Plasma density\Electron density,,,Electron Density,3-D field of the electron density in the ionosphere.
+117,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,Ionospheric Radio Absorption,Attenuation of a radio wave passing through the lower ionosphere.
+118,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,Ionospheric Scintillation,Random fluctuations of radio waves resulting of small scale variations of the ionospheric electron density in space and time.
+119,\Outer Space\Ionosphere\Plasma density\Electron density,,,Ionospheric Vertical Total Electron Content (VTEC),Number of electrons between two points.
+120,\Outer Space\Ionosphere\Plasma density,,,Ionospheric plasma density,Total number of ionized particles in a volume unit of ionospheric plasma.
+121,\\Outer Space\Ionosphere\Plasma velocity,,,Ionospheric plasma velocity,Velocity of bulk plasma or electrons (depending on measurement technique) as a function of altitude in the ionosphere.
+122,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,Spread F,Vertical thickness of highly structured ion density in the F-region of the ionosphere.
+123,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foEs,The highest ordinary-wave frequency reflected back from a sporadic E layer and observed by an ionosonde.
+124,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foF2,"Critical frequency of the F2 layer of the ionosphere. This critical frequency (f, in MHz) is associated with the electron density (Ne, in cm-3): f=9*10^-3*sqrt(Ne)."
+125,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'F,Virtual height of the bottom of the ionospheric F-layer.
+126,\Outer Space\Ionosphere\Plasma density\Electron density,,,hmF2,Altitude of the peak density in the ionospheric F2 layer.
 127,\Outer Space\Solar monitoring,,,EUV flux,Radiative flux integrated over the EUV band.
 128,\Outer Space\Solar monitoring,,,EUV flux spectrum,Energy spectrum of the radiative flux measured in the EUV band.
 129,\Outer Space\Solar monitoring,,,EUV sky image,Extreme Ultra-Violet (EUV) image of the sky.
@@ -69,3 +69,15 @@ notation,path,domains,tags,name,description
 518,\Outer Space\Energetic particles-solar wind\Particle flux,,,Heavy ion integral directional flux,Flux density of heavy ions ranging from Helium to Iron.
 519,\Outer Space\Energetic particles-solar wind\Particle flux,,,Proton differential directional flux,"Flux density energy spectrum of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
 520,\Outer Space\Energetic particles-solar wind\Particle flux,,,Proton integral directional flux,"Flux density of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium."
+521,\Outer Space\Ionosphere\Plasma density\Electron density,,,Ne(h),2-D vertical electron density profile.
+523,\Outer Space\Ionosphere\Plasma density\Electron density,,,NmF2,Peak Density of the ionospheric F2 Layer.
+524,\Outer Space\Ionosphere\Plasma density\Electron density,,,NmF1,Peak Density of the ionospheric F1 Layer.
+525,\Outer Space\Ionosphere\Plasma density\Electron density,,,hmE,Altitude of the peak density in the ionospheric E layer.
+526,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foF1,O-wave critical frequency of the F1 layer of the ionosphere.
+527,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foE,O-wave critical frequency of the E layer of the ionosphere.
+528,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foEa,O-wave critical frequency of the auroral E layer.
+529,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,MUF(3000),Maximum Usable Frequency for 3000 km path via F2 layer.
+530,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'F2,Virtual height of the bottom of the ionospheric F2 layer.
+531,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'E,Virtual height of the bottom of the ionospheric E layer.
+532,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'Es,Virtual height of the bottom of the ionospheric sporadic E layer.
+533,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,fmin,Minimum frequency of the vertical signal reflections.
