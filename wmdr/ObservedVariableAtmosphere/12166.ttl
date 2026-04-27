@@ -5,4 +5,4 @@
 <12166> a skos:Concept ;
 	rdfs:label "Air Temperature" ;
 	skos:notation "12166" ;
-	dct:description ""@en	.
+	dct:description "Temperature of an air parcel. Note, temperature is a fundamental property of matter as defined in the SI system."@en	.

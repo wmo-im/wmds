@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<CW3ECDWR> a skos:Concept ;
+	rdfs:label "CW3E-CDWR" ;
+	skos:notation "CW3ECDWR" ;
+	dct:description "Center for Western Weather and Water Extremes - California Department of Water Resources"@en	.
