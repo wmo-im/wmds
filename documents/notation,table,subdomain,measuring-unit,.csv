@@ -1,0 +1,2 @@
+table,notation,name,definition,subdomain,measuring-unit,uncertainty-unit,stability-unit,horizontal-resolution-units,vertical-resolution-units,applicable-layer,comments,contact,status
+1-01-03,12323,Tsunami wave amplitude,"Absolute value of the difference between a particular peak or trough of the tsunami wave and the expected undisturbed sea level at that time",ocean,cm,,,cm,,Stability/decade,,Champika Gallage,FT2025-2
