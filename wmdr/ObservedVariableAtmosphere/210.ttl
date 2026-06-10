@@ -5,4 +5,4 @@
 <210> a skos:Concept ;
 	rdfs:label "Amount of precipitation" ;
 	skos:notation "210" ;
-	dct:description ""@en	.
+	dct:description "Precipitation that reaches the surface in a stated period, expressed in terms of the vertical depth of water (or water equivalent in the case of solid precipitation) to which it would cover a horizontal projection of the Earth’s surface. Modified from: WMO-No. 8. Note: Sometimes called 'accumulated precipitation'."@en	.

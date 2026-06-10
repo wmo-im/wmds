@@ -1,0 +1,8 @@
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> . 
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dct: <http://purl.org/dc/terms/> . 
+
+<PVU> a skos:Concept ;
+	rdfs:label "Potential Vorticity Unit" ;
+	skos:notation "PVU" ;
+	dct:description "PVU (Potential Vorticity Unit) is a conventional SI derived unit of potential vorticity; SI base unit equivalent: 1E-6 K.m2.kg-1.s-1"@en	.

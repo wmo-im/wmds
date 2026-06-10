@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <253> a skos:Concept ;
-	rdfs:label "Mass mixing ratio" ;
+	rdfs:label "Mixing ratio" ;
 	skos:notation "253" ;
-	dct:description ""@en	.
+	dct:description "The ratio of the mass of water vapor in a sample of air and the mass of the dry air in that same air parcel. Note, mixing ratio is related to the concept of specific humidity, which is the fraction of water vapour in the air."@en	.
