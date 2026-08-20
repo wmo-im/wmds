@@ -1,0 +1,27 @@
+name: Check code-table notation uniqueness
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notation-uniqueness:
+    name: WMDR notation uniqueness
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Check code-table notations
+        run: python scripts/check_notation_uniqueness.py --tables-dir tables_en
