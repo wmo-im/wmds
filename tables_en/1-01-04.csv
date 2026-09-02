@@ -69,15 +69,15 @@ notation,path,domains,tags,name,description
 518,\Outer Space\Energetic particles-solar wind\Particle flux,,,Heavy ion integral directional flux,Flux density of heavy ions ranging from Helium to Iron.
 519,\Outer Space\Energetic particles-solar wind\Particle flux,,,Proton differential directional flux,"Flux density energy spectrum of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium, per unit solid angle."
 520,\Outer Space\Energetic particles-solar wind\Particle flux,,,Proton integral directional flux,"Flux density of low-, medium-, and high-energy protons from the magnetosphere, the radiation belts or the interplanetary medium."
-521,\Outer Space\Ionosphere\Plasma density\Electron density,,,Ne(h),2-D vertical electron density profile.
-523,\Outer Space\Ionosphere\Plasma density\Electron density,,,NmF2,Peak Density of the ionospheric F2 Layer.
-524,\Outer Space\Ionosphere\Plasma density\Electron density,,,NmF1,Peak Density of the ionospheric F1 Layer.
-525,\Outer Space\Ionosphere\Plasma density\Electron density,,,hmE,Altitude of the peak density in the ionospheric E layer.
-526,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foF1,O-wave critical frequency of the F1 layer of the ionosphere.
-527,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foE,O-wave critical frequency of the E layer of the ionosphere.
-528,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foEa,O-wave critical frequency of the auroral E layer.
-529,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,MUF(3000),Maximum Usable Frequency for 3000 km path via F2 layer.
-530,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'F2,Virtual height of the bottom of the ionospheric F2 layer.
-531,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'E,Virtual height of the bottom of the ionospheric E layer.
-532,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'Es,Virtual height of the bottom of the ionospheric sporadic E layer.
-533,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,fmin,Minimum frequency of the vertical signal reflections.
+5021,\Outer Space\Ionosphere\Plasma density\Electron density,,,Ne(h),2-D vertical electron density profile.
+5023,\Outer Space\Ionosphere\Plasma density\Electron density,,,NmF2,Peak Density of the ionospheric F2 Layer.
+5024,\Outer Space\Ionosphere\Plasma density\Electron density,,,NmF1,Peak Density of the ionospheric F1 Layer.
+5025,\Outer Space\Ionosphere\Plasma density\Electron density,,,hmE,Altitude of the peak density in the ionospheric E layer.
+5026,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foF1,O-wave critical frequency of the F1 layer of the ionosphere.
+5027,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foE,O-wave critical frequency of the E layer of the ionosphere.
+5028,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,foEa,O-wave critical frequency of the auroral E layer.
+5029,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,MUF(3000),Maximum Usable Frequency for 3000 km path via F2 layer.
+5030,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'F2,Virtual height of the bottom of the ionospheric F2 layer.
+5031,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'E,Virtual height of the bottom of the ionospheric E layer.
+5032,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,h'Es,Virtual height of the bottom of the ionospheric sporadic E layer.
+5033,\Outer Space\Ionosphere\Signal propagation in the ionosphere,,,fmin,Minimum frequency of the vertical signal reflections.
