@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<529> a skos:Concept ;
-	rdfs:label "MUF(3000)" ;
-	skos:notation "529" ;
-	dct:description "Maximum Usable Frequency for 3000 km path via F2 layer."@en	.
+<5024> a skos:Concept ;
+	rdfs:label "NmF1" ;
+	skos:notation "5024" ;
+	dct:description "Peak Density of the ionospheric F1 Layer."@en	.

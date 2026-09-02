@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<526> a skos:Concept ;
-	rdfs:label "foF1" ;
-	skos:notation "526" ;
-	dct:description "O-wave critical frequency of the F1 layer of the ionosphere."@en	.
+<5032> a skos:Concept ;
+	rdfs:label "h'Es" ;
+	skos:notation "5032" ;
+	dct:description "Virtual height of the bottom of the ionospheric sporadic E layer."@en	.
