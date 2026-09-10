@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<NRU> a skos:Concept ;
-	rdfs:label "Republic of Naoero" ;
-	skos:notation "NRU" ;
-	dct:description "Republic of Naoero"@en	.
+<5027> a skos:Concept ;
+	rdfs:label "foE" ;
+	skos:notation "5027" ;
+	dct:description "O-wave critical frequency of the E layer of the ionosphere."@en	.

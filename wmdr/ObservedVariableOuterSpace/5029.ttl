@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<NRU> a skos:Concept ;
-	rdfs:label "Republic of Naoero" ;
-	skos:notation "NRU" ;
-	dct:description "Republic of Naoero"@en	.
+<5029> a skos:Concept ;
+	rdfs:label "MUF(3000)" ;
+	skos:notation "5029" ;
+	dct:description "Maximum Usable Frequency for 3000 km path via F2 layer."@en	.
