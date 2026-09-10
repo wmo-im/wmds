@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<NRU> a skos:Concept ;
-	rdfs:label "Republic of Naoero" ;
-	skos:notation "NRU" ;
-	dct:description "Republic of Naoero"@en	.
+<5025> a skos:Concept ;
+	rdfs:label "hmE" ;
+	skos:notation "5025" ;
+	dct:description "Altitude of the peak density in the ionospheric E layer."@en	.

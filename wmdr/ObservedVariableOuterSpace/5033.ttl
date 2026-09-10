@@ -2,7 +2,7 @@
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix dct: <http://purl.org/dc/terms/> . 
 
-<NRU> a skos:Concept ;
-	rdfs:label "Republic of Naoero" ;
-	skos:notation "NRU" ;
-	dct:description "Republic of Naoero"@en	.
+<5033> a skos:Concept ;
+	rdfs:label "fmin" ;
+	skos:notation "5033" ;
+	dct:description "Minimum frequency of the vertical signal reflections."@en	.
