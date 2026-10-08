@@ -5,8 +5,8 @@ on:
     paths:
       - 'tables_en/*.csv'
   pull_request:
-    paths:
-      - 'tables_en/*.csv'
+#    paths:
+#      - 'tables_en/*.csv'
 
 jobs:
   main:
