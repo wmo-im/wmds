@@ -24,6 +24,7 @@ jobs:
       run: |
         mkdir -p /tmp/wmds-csv-concepts
         python3.12 scripts/generate-codelist-concepts-csv.py tables_en /tmp/wmds-csv-concepts
+        ls -l /tmp/wmds-csv-concepts
     - name: generate zipfile
       if: success() && github.event_name == 'push'
       run: |
