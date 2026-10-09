@@ -1,0 +1,48 @@
+name: generate and publish CSVs of codelist concepts
+
+on:
+  push:
+    paths:
+      - 'tables_en/*.csv'
+  pull_request:
+    paths:
+      - 'tables_en/*.csv'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.12"]
+    steps:
+    - uses: actions/checkout@master
+    - uses: actions/setup-python@v5
+      name: Setup Python ${{ matrix.python-version }}
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Run codelist concepts CSV generation
+      run: |
+        mkdir -p /tmp/wmds-csv-concepts
+        python3.12 scripts/generate-codelist-concepts-csv.py tables_en /tmp/wmds-csv-concepts
+        ls -l /tmp/wmds-csv-concepts
+    - name: generate zipfile
+      if: success() && github.event_name == 'push'
+      run: |
+        zip -j wmds-csv-concepts.zip /tmp/wmds-csv-concepts/*.csv
+        cd
+    - name: checkout gh-pages branch
+      if: github.event_name == 'push'
+      uses: actions/checkout@master
+      with:
+        ref: gh-pages
+    - name: update gh-pages branch and publish
+      if: github.event_name == 'push'
+      run: | 
+        git checkout gh-pages
+        git config --global user.email "tomkralidis@gmail.com"
+        git config --global user.name "Tom Kralidis"
+        rm -rf wmds-csv-concepts.zip
+        mv -f /tmp/wmds-csv-concepts.zip .
+        git add .
+        git commit -am "update WMDS concepts zipfile"
+        git push
