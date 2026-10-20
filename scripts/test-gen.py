@@ -38,7 +38,7 @@ if not gen and not token:
 
 try:
     
-    with open(r"tables_en/readme.md","r",encoding="utf8") as f:
+    with open(r"tables/readme.md","r",encoding="utf8") as f:
         readme_content = f.read()
 
         virtual_readme = createReadme()
