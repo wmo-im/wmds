@@ -29,6 +29,7 @@ jobs:
       if: success() && github.event_name == 'push'
       run: |
         zip -j wmds-csv-concepts.zip /tmp/wmds-csv-concepts/*.csv
+        mv wmds-csv-concepts.zip /tmp
         cd
     - name: checkout gh-pages branch
       if: github.event_name == 'push'
