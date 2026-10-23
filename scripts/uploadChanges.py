@@ -5,8 +5,7 @@ import os
 import requests
 
 """
-This script uploads content to the defined register
-  ./prodRegister
+This script uploads content to the defined production or test register
 
 This reqires an authentication token and userID and structured
 content.
@@ -16,10 +15,12 @@ uploads
 which may either consist of a path to a JSON encoded file or an explicit JSON string
 The JSON payload shall be a dictionary with the keys:
   'PUT', 'POST'
-and each key shall provide a list of .ttl files to upload to prodRegister
-based on the relative path of the .ttl file.
-
+and each key shall provide a list of .ttl files to upload to the production
+or test register based on the relative path of the .ttl file.
 """
+
+PROD_REGISTER = 'http://codes.wmo.int'
+TEST_REGISTER = 'http://ci.codes.wmo.int'
 
 def authenticate(session, base, userid, pss):
     # Prefer HTTPS for registry session interactions
@@ -109,13 +110,11 @@ if __name__ == '__main__':
     if args.tmode not in ['test', 'prod']:
         raise ValueError('test mode must be either "test" or "prod"')
     if args.tmode == 'prod':
-        with open('prodRegister', 'r', encoding='utf-8') as fh:
-            rooturl = fh.read().split('\n')[0]
-            print('Running upload with respect to {}'.format(rooturl))
+        rooturl = PROD_REGISTER
+        print('Running upload with respect to {}'.format(rooturl))
     elif args.tmode == 'test':
-        with open('testRegister', 'r', encoding='utf-8') as fh:
-            rooturl = fh.read().split('\n')[0]
-            print('Running upload with respect to {}'.format(rooturl))
+        rooturl = TEST_REGISTER
+        print('Running upload with respect to {}'.format(rooturl))
 
     session = requests.Session()
     session = authenticate(session, rooturl, args.user_id, args.passcode)
