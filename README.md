@@ -2,7 +2,7 @@
 WIGOS Metadata Standard: Semantic standard and code tables
 
 The _tables_ folder contains the up-to-date versions that the TT-WIGOSMD is working on.
-View mapping of CSV file identifiers to table names and Codes Registry URLs: https://github.com/wmo-im/wmds/blob/master/tables/wmdr-tables.csv.
+View mapping of CSV file identifiers to table names and Codes Registry URLs: https://github.com/wmo-im/wmds/tree/master/tables#readme.
 
 Published code tables can be found at WMO Codes Registry for WIGOS Metadata Representation: https://codes.wmo.int/wmdr.
 
