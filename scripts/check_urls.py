@@ -24,21 +24,21 @@ Environment variables control behaviour:
 'outfile=</path/to/writeable/file>' to return the upload syntax to a file 
 """
 
+PROD_REGISTER = 'http://codes.wmo.int'
+TEST_REGISTER = 'http://ci.codes.wmo.int'
+
 uploads = {'PUT': [],
            'POST': []}
 
-with open('prodRegister', 'r') as fh:
-    rooturl = fh.read().split('\n')[0]
+rooturl = PROD_REGISTER
 
 if os.environ.get('tmode') == 'test':
-    with open('testRegister', 'r') as fh:
-        downloadurl = fh.read().split('\n')[0]
-
+    downloadurl = TEST_REGISTER
 elif os.environ.get('tmode') == 'prod':
     downloadurl = rooturl
-
 else:
     raise ValueError('Environment option "tmode" required to be "prod|test", but missing.')
+
 print('Running test with respect to {}'.format(downloadurl))
 
 outfile = os.environ.get('outfile', None)
