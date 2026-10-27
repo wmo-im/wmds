@@ -24,4 +24,4 @@ jobs:
           python-version: "3.13"
 
       - name: Check code-table notations
-        run: python scripts/check_notation_uniqueness.py --tables-dir tables_en
+        run: python scripts/check_notation_uniqueness.py --tables-dir tables

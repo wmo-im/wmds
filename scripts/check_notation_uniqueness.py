@@ -3,7 +3,7 @@
 Check uniqueness of WMDR code-table notations.
 
 Checks:
-1. Every CSV code table under tables_en that has a "notation" column:
+1. Every CSV code table under tables that has a "notation" column:
    notation values must be unique within the file.
 2. Every published WMDR register listed in tables_en/wmdr-tables.csv:
    notation values must be unique within the register.
@@ -17,7 +17,7 @@ dependencies.
 
 Examples:
     python scripts/check_notation_uniqueness.py
-    python scripts/check_notation_uniqueness.py --tables-dir tables_en
+    python scripts/check_notation_uniqueness.py --tables-dir tables
     python scripts/check_notation_uniqueness.py --skip-registry
     python scripts/check_notation_uniqueness.py --verbose
 """
@@ -40,7 +40,7 @@ from pathlib import Path
 from typing import Iterable, Sequence
 
 
-DEFAULT_TABLES_DIR = Path("tables_en")
+DEFAULT_TABLES_DIR = Path("tables")
 MAPPING_FILENAME = "wmdr-tables.csv"
 
 CROSS_TABLE_GROUPS: dict[str, tuple[str, ...]] = {
