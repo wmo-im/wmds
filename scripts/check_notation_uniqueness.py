@@ -5,7 +5,7 @@ Check uniqueness of WMDR code-table notations.
 Checks:
 1. Every CSV code table under tables that has a "notation" column:
    notation values must be unique within the file.
-2. Every published WMDR register listed in tables_en/wmdr-tables.csv:
+2. Every published WMDR register listed in tables/wmdr-tables.csv:
    notation values must be unique within the register.
 3. Observed-variable notations must be unique across tables 1-01-01..1-01-05.
 4. Observing-method notations must be unique across tables
