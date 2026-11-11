@@ -3,6 +3,6 @@
 @prefix dct: <http://purl.org/dc/terms/> . 
 
 <12332> a skos:Concept ;
-	rdfs:label "Sea-ice lead width" ;
+	rdfs:label "Snow depth on sea ice" ;
 	skos:notation "12332" ;
-	dct:description "Width of a sea-ice lead approximately perpendicular to its long axis."@en	.
+	dct:description "Vertical distance from the snow surface to the underlying sea-ice surface."@en	.
